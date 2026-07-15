@@ -1,0 +1,3284 @@
+[
+  {
+    "Index": "7",
+    "RawText": "가격이 착하고 디자인이 예쁩니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 플** 베스트 풀코디 3종",
+    "ReviewScore": "100",
+    "Syllable": "17",
+    "Word": "4",
+    "RDate": "20210815",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 착하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 예쁩니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "9",
+    "RawText": "싸고  디자인이 예뻐요. . 정말  가성비 가심비 입니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 플** 베스트 풀코디 3종",
+    "ReviewScore": "100",
+    "Syllable": "31",
+    "Word": "8",
+    "RDate": "20210807",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 예뻐요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 가심비 입니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "15",
+    "RawText": "편하고  디자인이 예뻐요  가격도  좋아요   시원해요  빨리 마르고  이것만  입게되요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 플** 베스트 풀코디 3종",
+    "ReviewScore": "100",
+    "Syllable": "49",
+    "Word": "10",
+    "RDate": "20210804",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 예뻐요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도  좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "시원해요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "빨리 마르고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "이것만  입게되요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "17",
+    "RawText": "너무 착한가격에 감사합니다 윈하는 색은 없지만",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 플** 베스트 풀코디 3종",
+    "ReviewScore": "100",
+    "Syllable": "25",
+    "Word": "6",
+    "RDate": "20210803",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "너무 착한가격에 감사합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "윈하는 색은 없지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "18",
+    "RawText": "가격이  너무 좋아서  블랙 구매했습니다  그런데 소재도  맘에  들어  흰색도  구매했습니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 플** 베스트 풀코디 3종",
+    "ReviewScore": "100",
+    "Syllable": "52",
+    "Word": "11",
+    "RDate": "20210717",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이  너무 좋아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재도  맘에  들어  흰색도  구매했습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "21",
+    "RawText": "외출할때 입기에는 재질도 디자인도 좀~그러네요 그냥 집에서 편하게 입을수는 있을것 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 플** 베스트 풀코디 3종",
+    "ReviewScore": "60",
+    "Syllable": "49",
+    "Word": "11",
+    "RDate": "20210511",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질도 디자인도 좀~그러네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 좀~그러네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "집에서 편하게 입을수는 있을것 같아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "27",
+    "RawText": "특히 자켓이 넘작고 짧으네요. 상의는 좀작구 바지는 잘맞아요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 플** 베스트 풀코디 3종",
+    "ReviewScore": "80",
+    "Syllable": "34",
+    "Word": "8",
+    "RDate": "20210415",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "자켓이 넘작고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "짧으네요.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "상의는 좀작구",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "바지는 잘맞아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "30",
+    "RawText": "싸고품질이좋아요ᆢ사이즈는좀큰듯하구요ᆢ반사이즈는내려서주문하심좋을듯해요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 플** 베스트 풀코디 3종",
+    "ReviewScore": "100",
+    "Syllable": "37",
+    "Word": "1",
+    "RDate": "20210618",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이좋아요ᆢ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈는좀큰듯하구요ᆢ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "반사이즈는내려서주문하심좋을듯해요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "38",
+    "RawText": "바지가 너무 편하고 좋아요 티셔츠는 여름에 잘 입을 듯 베스트는 디자인은 별로지만 가격이 착해서 만족",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 플** 베스트 풀코디 3종",
+    "ReviewScore": "70",
+    "Syllable": "56",
+    "Word": "15",
+    "RDate": "20210408",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "바지가 너무 편하고 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "티셔츠는 여름에 잘 입을 듯",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "베스트는 디자인은 별로지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 착해서 만족",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "54",
+    "RawText": "디자인이 예뻐요. 사이즈 잘 맞습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 소프트 진주 아** 니트 2종 택1",
+    "ReviewScore": "100",
+    "Syllable": "21",
+    "Word": "5",
+    "RDate": "20211027",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 예뻐요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈 잘 맞습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "55",
+    "RawText": "사이즈 딱 맞구요.  너무 예쁘고  얇지도 두껍지도 않으네요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 소프트 진주 아** 니트 2종 택1",
+    "ReviewScore": "100",
+    "Syllable": "34",
+    "Word": "8",
+    "RDate": "20211027",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈 딱 맞구요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "너무 예쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇지도 두껍지도 않으네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "57",
+    "RawText": "저렴하게 구입해서 겨울에 잘 입을거 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 소프트 진주 아** 니트 2종 택1",
+    "ReviewScore": "70",
+    "Syllable": "23",
+    "Word": "6",
+    "RDate": "20210910",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구입해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "겨울에 잘 입을거 같아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "61",
+    "RawText": "털이 엄청나게 빠집니다 면 바바리에 엄청나게 묻어나고  하루입고벗었더니 겨드랑이같은곳도 엄청 뭉처있니에요 그래서 세탁을 했더니 끝도없이 손에 털뭉치???? 들이 묻어나서 포기했습니다 이게불량인가요 왜이렇게 만드신건가요 옷디자인은 너무맘에드는데 털빠짐때매 옷이아니네여",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 소프트 진주 아** 니트 2종 택1",
+    "ReviewScore": "10",
+    "Syllable": "148",
+    "Word": "27",
+    "RDate": "20210421",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "털이 엄청나게 빠집니다 면 바바리에 엄청나게 묻어나고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "하루입고벗었더니 겨드랑이같은곳도 엄청 뭉처있니에요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "세탁을 했더니 끝도없이 손에 털뭉치???? 들이 묻어나서 포기했습니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "옷디자인은 너무맘에드는데 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "털빠짐때매 옷이아니네여",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "63",
+    "RawText": "디자인이 여성스러운 분위기가 납니다 구겨져와서 다림질 필요했어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 크** 긴팔 니트 티셔츠 베이지",
+    "ReviewScore": "90",
+    "Syllable": "35",
+    "Word": "7",
+    "RDate": "20210916",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 여성스러운 분위기가 납니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "구겨져와서 다림질 필요했어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "64",
+    "RawText": "99사이즈 입는데 88 사이즈 잘맞고~ 기장이 살짝 짧은듯 하지만 밝은색도 있고~ 까실까실하니 좋으네요~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 샤** 썸머 쿨니트 4종",
+    "ReviewScore": "100",
+    "Syllable": "58",
+    "Word": "13",
+    "RDate": "20210707",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "99사이즈 입는데 88 사이즈 잘맞고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "기장이 살짝 짧은듯 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "밝은색도 있고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "까실까실하니 좋으네요~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "65",
+    "RawText": "4종 마음에 들어요 색깔도 이쁘고 여름니트 입니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 샤** 썸머 쿨니트 4종",
+    "ReviewScore": "100",
+    "Syllable": "27",
+    "Word": "7",
+    "RDate": "20210830",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "4종 마음에 들어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색깔도 이쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "69",
+    "RawText": "색상이 예쁘고  구김이없어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 샤** 썸머 쿨니트 4종",
+    "ReviewScore": "100",
+    "Syllable": "15",
+    "Word": "3",
+    "RDate": "20210811",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 예쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "구김이없어요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "71",
+    "RawText": "색상 디자인 예쁘고 맘에들어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 샤** 썸머 쿨니트 4종",
+    "ReviewScore": "80",
+    "Syllable": "16",
+    "Word": "4",
+    "RDate": "20210810",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상 디자인 예쁘고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 예쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "74",
+    "RawText": "가성비 갑입니다 가로패턴이라 더커 보이면 어쩌나 싶었는데 칼라고 디자인이고 다 만족합니다  가슴도  좀있는편이라  걱정했는데 핏이 괸찮아요  비치지 않아서 하나만 입고 다녀도될만 합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 샤** 썸머 쿨니트 4종",
+    "ReviewScore": "100",
+    "Syllable": "103",
+    "Word": "22",
+    "RDate": "20210714",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 갑입니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "칼라고 디자인이고 다 만족합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이고 다 만족합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏이 괸찮아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "비치지 않아서 하나만 입고 다녀도될만 합니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "77",
+    "RawText": "오 좋아요 이가격에 득템 했네요 살이쪄서 고민이었는데 어지간히 커버도 되고 가볍고 시원할듯 해요 잘 입을께요 바로 세탁하느라 시착만 해서 사진은 스크린샷 으로 대체해요 사진하고 똑 같으니 걱정마세요 추천 합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 샤** 썸머 쿨니트 4종",
+    "ReviewScore": "100",
+    "Syllable": "117",
+    "Word": "29",
+    "RDate": "20210706",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "이가격에 득템 했네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "어지간히 커버도 되고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "시원할듯 해요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "89",
+    "RawText": "가격대비 최고예요 가볍고 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 샤** 썸머 쿨니트 4종",
+    "ReviewScore": "100",
+    "Syllable": "17",
+    "Word": "4",
+    "RDate": "20210708",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 최고예요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "92",
+    "RawText": "그레이상의는 비침이 약간있지만 가격대비 짱이에요.  상의는래이온인데 마재질 느낌입니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 레** 카라 상하세트 3종 택1",
+    "ReviewScore": "100",
+    "Syllable": "47",
+    "Word": "8",
+    "RDate": "20210619",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "그레이상의는 비침이 약간있지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 짱이에요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "상의는래이온인데 마재질 느낌입니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "93",
+    "RawText": "싸게 잘샀어요~ 여름내 시원하게 잘입었습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 레** 카라 상하세트 3종 택1",
+    "ReviewScore": "100",
+    "Syllable": "25",
+    "Word": "5",
+    "RDate": "20211030",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸게 잘샀어요~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "여름내 시원하게 잘입었습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94",
+    "RawText": "너~~무 얇고 후들후들.이런건 팔지마세요. 색상도 별로네요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 레** 카라 상하세트 3종 택1",
+    "ReviewScore": "20",
+    "Syllable": "33",
+    "Word": "6",
+    "RDate": "20210831",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "너~~무 얇고 후들후들",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 별로네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "97",
+    "RawText": "구김이 심하고 상의는 66사이즈 시켰는데 기존 규격보다 너무 커서 못 입고 있어요ㅠ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 레** 카라 상하세트 3종 택1",
+    "ReviewScore": "70",
+    "Syllable": "46",
+    "Word": "12",
+    "RDate": "20210825",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "구김이 심하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "너무 커서 못 입고 있어요ㅠ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "98",
+    "RawText": "가볍고 촉감이 부드러워 잘 입고있습니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 레** 카라 상하세트 3종 택1",
+    "ReviewScore": "60",
+    "Syllable": "21",
+    "Word": "5",
+    "RDate": "20210808",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "촉감이 부드러워",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "100",
+    "RawText": "편하고 간편하게 입을 수 있어서  좋아요 네이비로 구매했는데 셔츠와 바지가 색이 조금  달라서 별점 하나 뺐어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 레** 카라 상하세트 3종 택1",
+    "ReviewScore": "80",
+    "Syllable": "62",
+    "Word": "16",
+    "RDate": "20210811",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "활용성",
+        "SentimentText": "편하고 간편하게 입을 수 있어서  좋아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "셔츠와 바지가 색이 조금  달라서 별점 하나 뺐어요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "102",
+    "RawText": "사이즈  딱 맞고  디자인도 이쁘고 ~! 최고!!~~ 강추합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 레** 카라 상하세트 3종 택1",
+    "ReviewScore": "100",
+    "Syllable": "35",
+    "Word": "8",
+    "RDate": "20210808",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈  딱 맞고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 이쁘고 ~!",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "108",
+    "RawText": "재질은 까칠하고 바지는 핏이 별로 임",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 레** 카라 상하세트 3종 택1",
+    "ReviewScore": "60",
+    "Syllable": "20",
+    "Word": "6",
+    "RDate": "20210803",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질은 까칠하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "바지는 핏이 별로 임",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "112",
+    "RawText": "바지 약간 비침있어요.. 구김가는 레이온이고..그렇게 각잡힌옷이 아니라서 다림질해야하고 축축 쳐지는 느낌..뭐 가격대비 입을만은 해요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 레** 카라 상하세트 3종 택1",
+    "ReviewScore": "60",
+    "Syllable": "74",
+    "Word": "14",
+    "RDate": "20210608",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "약간 비침있어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "구김가는 레이온이고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "축축 쳐지는 느낌",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 입을만은 해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "113",
+    "RawText": "소재,디자인도 좋아요 사이즈가 좀 큰듯해서 핑크로 작은사이즈를 구매할까했는데 품절인듯해서 그레이로 재구매 했어요  좋은 상품 저렴하게 구매해서 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 레** 카라 상하세트 3종 택1",
+    "ReviewScore": "100",
+    "Syllable": "83",
+    "Word": "17",
+    "RDate": "20210609",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재,디자인도 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 좀 큰듯해서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구매해서 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "117",
+    "RawText": "네이비 입어보고 착한가격에 좋은품질에 재구매 합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 레** 카라 상하세트 3종 택1",
+    "ReviewScore": "100",
+    "Syllable": "28",
+    "Word": "6",
+    "RDate": "20210620",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "착한가격에 좋은품질에 재구매 합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "좋은품질에 재구매 합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "124",
+    "RawText": "소재가 인견 100% 라 촉감이 부드럽고 시원합니다  디자인도 예쁘고 다 달라 좋습니다  다만 레드와 블루는 목선이 좁아 입을때 조금 불편합니다  뒤집어 보니 주머니 한쪽면이 오버룩 처리가 안되어 완성도가 완벽하지는 않은듯 하네요 모두 주머니가 있어 활용도가 좋습니다  타사보다 가격이 비싸지만 쿠폰 적립금 사용하여 저렴하게 구입했습니다  잘 입겠습니다 ~^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 인견 원피스 3종세트",
+    "ReviewScore": "100",
+    "Syllable": "201",
+    "Word": "47",
+    "RDate": "20210714",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "촉감",
+        "SentimentText": "촉감이 부드럽고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "시원합니다 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 예쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": "레드와 블루는 목선이 좁아 입을때 조금 불편합니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "주머니 한쪽면이 오버룩 처리가 안되어 완성도가 완벽하지는 않은듯 하네요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "모두 주머니가 있어 활용도가 좋습니다 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 비싸지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰 적립금 사용하여 저렴하게 구입했습니다 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "다 달라 좋습니다 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "127",
+    "RawText": "가성비 최고~^^ 시원하고 디자인도 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 인견 원피스 3종세트",
+    "ReviewScore": "100",
+    "Syllable": "23",
+    "Word": "5",
+    "RDate": "20210901",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 최고~^^",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "시원하고 디자인도 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "128",
+    "RawText": "시원하고 디자인이 넘 예뻐요 자꾸입게되요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 인견 원피스 3종세트",
+    "ReviewScore": "100",
+    "Syllable": "22",
+    "Word": "5",
+    "RDate": "20210907",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "시원하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 넘 예뻐요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "자꾸입게되요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "129",
+    "RawText": "시원하고 길이도 적당해요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 인견 원피스 3종세트",
+    "ReviewScore": "100",
+    "Syllable": "14",
+    "Word": "3",
+    "RDate": "20210910",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "시원하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "길이도 적당해요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "131",
+    "RawText": "생각보다 원단이 좋네요 부드럽고 색감도좋아요 편하네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 인견 원피스 3종세트",
+    "ReviewScore": "100",
+    "Syllable": "29",
+    "Word": "6",
+    "RDate": "20210818",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "생각보다 원단이 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "부드럽고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색감도좋아요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편하네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "132",
+    "RawText": "디자인도 색상도 모두마음에듭니다~  시원할거같아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 인견 원피스 3종세트",
+    "ReviewScore": "100",
+    "Syllable": "27",
+    "Word": "4",
+    "RDate": "20210822",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 색상도 모두마음에듭니다~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 모두마음에듭니다~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "시원할거같아요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "134",
+    "RawText": "이렇게 디자인 좋은 옷이 이렇게 싸다니 오자마자 입었는데. 정말 기가막히네요. 내가 입고찍어서   이모양이지만 진짜 좋아요. 강추",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 인견 원피스 3종세트",
+    "ReviewScore": "100",
+    "Syllable": "72",
+    "Word": "16",
+    "RDate": "20210817",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "이렇게 디자인 좋은 옷이",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "이렇게 싸다니",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "136",
+    "RawText": "박시하게 해볼려고 일부로 한사쥬 크게 주문했어요.  40대이고 키작고 땅땅한 체형입니다.  까만색읏 외출복으로도 괜찮고 파란색 빨간색은 라운지웨어로 입어야할듯 천은 좋은편이에요.  주머니도 있고요.  가성비로 치면 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 인견 원피스 3종세트",
+    "ReviewScore": "80",
+    "Syllable": "126",
+    "Word": "24",
+    "RDate": "20210814",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "활용성",
+        "SentimentText": "까만색읏 외출복으로도 괜찮고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "파란색 빨간색은 라운지웨어로 입어야할듯",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "천은 좋은편이에요.  ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비로 치면 만족합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "138",
+    "RawText": "너무 싸서 기대안했는데 디자인 넘  이뻐요~~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 인견 원피스 3종세트",
+    "ReviewScore": "100",
+    "Syllable": "25",
+    "Word": "6",
+    "RDate": "20210817",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "너무 싸서 기대안했는데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 넘  이뻐요~~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "139",
+    "RawText": "너무 맘에듭니다 인견옷은 처음 구매한건데 저는 좋네요 디자인도 두께감도 크기도 너무 잘 맞아서 추천하고 싶어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 인견 원피스 3종세트",
+    "ReviewScore": "100",
+    "Syllable": "61",
+    "Word": "15",
+    "RDate": "20210814",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 두께감도 크기도 너무 잘 맞아서",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "두께감도 크기도 너무 잘 맞아서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "크기도 너무 잘 맞아서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "141",
+    "RawText": "가격도저렴하고 이뻐서 언니한테 선물로보냈는데 넘얇아서 집에서 편하게입는다고하네요~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 인견 원피스 3종세트",
+    "ReviewScore": "100",
+    "Syllable": "45",
+    "Word": "7",
+    "RDate": "20210813",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도저렴하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "이뻐서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "넘얇아서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "집에서 편하게입는다고하네요~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "143",
+    "RawText": "소재가 가볍고 색상도 산뜻하니 아주 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 인견 원피스 3종세트",
+    "ReviewScore": "100",
+    "Syllable": "24",
+    "Word": "6",
+    "RDate": "20210823",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재가 가볍고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 산뜻하니 아주 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "144",
+    "RawText": "매우 만족합니다~ 시원하고 몽에 붙지않아 좋아요~~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 인견 원피스 3종세트",
+    "ReviewScore": "90",
+    "Syllable": "28",
+    "Word": "6",
+    "RDate": "20210825",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "시원하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "몽에 붙지않아 좋아요~~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "145",
+    "RawText": "OOO 인견원피스 구매후 디자인이 예쁜 듯해 구매했는데 길이가 주황색 원피스는 많이 짧네요 그래도 다양한 디자인 좋아요~♡",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 인견 원피스 3종세트",
+    "ReviewScore": "70",
+    "Syllable": "68",
+    "Word": "16",
+    "RDate": "20210825",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "길이",
+        "SentimentText": "길이가 주황색 원피스는 많이 짧네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "다양한 디자인 좋아요~♡",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "146",
+    "RawText": "핏은 제가 살이쪄서 55반은 되는거같은데 55주문했더니 레드가 좀 더 여유있고  블루도 편한편이예요~ 한사이즈 업해서 입으면 핏이 안 이쁠거같아요.. 레드 세탁했더니 마감 올 살짝 풀림ㅜ 암튼 원단이 너무 좋아서 별 5개 아깝지않네요~^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 인견 원피스 3종세트",
+    "ReviewScore": "100",
+    "Syllable": "133",
+    "Word": "31",
+    "RDate": "20210812",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "레드가 좀 더 여유있고  블루도 편한편이예요~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "마감 올 살짝 풀림ㅜ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "원단이 너무 좋아서 별 5개 아깝지않네요~^^",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "147",
+    "RawText": "그냥 집에서나 입어야할듯 편하긴한데 이쁨은 별루",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 인견 원피스 3종세트",
+    "ReviewScore": "60",
+    "Syllable": "26",
+    "Word": "6",
+    "RDate": "20210812",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "활용성",
+        "SentimentText": "집에서나 입어야할듯",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": " 편하긴한데",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "이쁨은 별루",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "151",
+    "RawText": "저렴하게 구매잘했어요. 하지만 한옷바느질상태가 좋지않아 기분이별로. 반품하기귀찮아 손좀봐 입네요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 인견 원피스 3종세트",
+    "ReviewScore": "100",
+    "Syllable": "54",
+    "Word": "9",
+    "RDate": "20210812",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구매잘했어요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "한옷바느질상태가 좋지않아 기분이별로.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "152",
+    "RawText": "데일리 티셔츠로 아주 편하게 잘 입고 있습니다 원단이   피부에도 좋고 촉감이 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 시** 실크코튼 티셔츠 4종 세트",
+    "ReviewScore": "100",
+    "Syllable": "48",
+    "Word": "12",
+    "RDate": "20210812",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "아주 편하게 잘 입고 있습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "원단이   피부에도 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": " 촉감이 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "157",
+    "RawText": "엄마가 디자인을 좋아해요 얇지만 괜찮아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 시** 실크코튼 티셔츠 4종 세트",
+    "ReviewScore": "100",
+    "Syllable": "22",
+    "Word": "5",
+    "RDate": "20210815",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "엄마가 디자인을 좋아해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇지만 괜찮아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "159",
+    "RawText": "소재도 좋고 맘에 꼭 들어요 입어보니 시원하고 편안해요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 시** 실크코튼 티셔츠 4종 세트",
+    "ReviewScore": "40",
+    "Syllable": "30",
+    "Word": "8",
+    "RDate": "20210805",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "시원하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편안해요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "161",
+    "RawText": "품질좋고 가격좋고 득템했네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 시** 실크코튼 티셔츠 4종 세트",
+    "ReviewScore": "100",
+    "Syllable": "15",
+    "Word": "3",
+    "RDate": "20210808",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질좋고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격좋고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "163",
+    "RawText": "배송은 괜찮은데 색이 생각보다 노란끼?누런색이라 놀랬어요 ㅜㅜ  입어보니 괜찮은 듯 하긴 하지만 색상이 썩 맘에 들진 않아요 ㅜㅜ 색 고민 후 선택하세요~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 클** 카라 반팔티셔츠 12종 택1",
+    "ReviewScore": "80",
+    "Syllable": "86",
+    "Word": "22",
+    "RDate": "20210901",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색이 생각보다 노란끼?누런색이라 놀랬어요 ㅜㅜ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 썩 맘에 들진 않아요 ㅜㅜ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "165",
+    "RawText": "제품저렴하고 이뻐요 소재도 좋앙ᆢ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 클** 카라 반팔티셔츠 12종 택1",
+    "ReviewScore": "100",
+    "Syllable": "18",
+    "Word": "4",
+    "RDate": "20210829",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "이뻐요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재도 좋앙ᆢ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "166",
+    "RawText": "저렴한 가격에 득템입니다. M사이즈는 100~105중간쯤으로 잘 맞습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 클** 카라 반팔티셔츠 12종 택1",
+    "ReviewScore": "100",
+    "Syllable": "41",
+    "Word": "7",
+    "RDate": "20210820",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 득템입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "M사이즈는 100~105중간쯤으로 잘 맞습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "167",
+    "RawText": "저렴한 가격에  행사할때 더 싸게 구매해서 너무 맘에 들어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 클** 카라 반팔티셔츠 12종 택1",
+    "ReviewScore": "100",
+    "Syllable": "33",
+    "Word": "9",
+    "RDate": "20210824",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "행사할때 더 싸게 구매해서 너무 맘에 들어요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "169",
+    "RawText": "약간 이염되서 왔는데 그냥 입으려고요  입어보니 핏이 이쁘긴 하네영",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 클** 카라 반팔티셔츠 12종 택1",
+    "ReviewScore": "70",
+    "Syllable": "37",
+    "Word": "9",
+    "RDate": "20210824",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "약간 이염되서 왔는데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": " 핏이 이쁘긴 하네영",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "176",
+    "RawText": "얇은 니트티 싸이즈는좋은데 몸에닿았을때  따가운감이 있네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 울블랜디드 여성 니트 3종",
+    "ReviewScore": "80",
+    "Syllable": "32",
+    "Word": "6",
+    "RDate": "20210914",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "싸이즈는좋은데",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "따가운감이 있네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇은 니트티",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "178",
+    "RawText": "생각보다 얇고 촉감이 약간 깔깔해요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 울블랜디드 여성 니트 3종",
+    "ReviewScore": "100",
+    "Syllable": "19",
+    "Word": "5",
+    "RDate": "20211023",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "생각보다 얇고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "촉감이 약간 깔깔해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "179",
+    "RawText": "얇아서 입기좋아요. 가격대비 대만족입니다. 감촉도 좋고 디자인도 괜찮아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 울블랜디드 여성 니트 3종",
+    "ReviewScore": "100",
+    "Syllable": "40",
+    "Word": "8",
+    "RDate": "20210919",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇아서 입기좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 대만족입니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "감촉도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 괜찮아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "180",
+    "RawText": "얇은데 입어보니 꽤 포근해요. 재질도 부들부들한게 감촉도 괘안구 디자인도 심심하지 않게 포인트 있어서 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 울블랜디드 여성 니트 3종",
+    "ReviewScore": "100",
+    "Syllable": "61",
+    "Word": "14",
+    "RDate": "20210915",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇은데",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "꽤 포근해요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질도 부들부들한게 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 심심하지 않게 포인트 있어서 좋네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "감촉도 괘안구",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "182",
+    "RawText": "색감도 굿 가격도 굿입니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 라** 니트 4종세트",
+    "ReviewScore": "100",
+    "Syllable": "14",
+    "Word": "4",
+    "RDate": "20211123",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색감도 굿",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 굿입니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "184",
+    "RawText": "잘 입고 있어요. 따뜻하고 착용감이 편합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웜 소프트 부** 니트 3종세트",
+    "ReviewScore": "100",
+    "Syllable": "24",
+    "Word": "6",
+    "RDate": "20220106",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감이 편합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "185",
+    "RawText": "보들보들 넘 좋아요.. 이가격에 3벌이나.. 진짜 최고..",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웜 소프트 부** 니트 3종세트",
+    "ReviewScore": "100",
+    "Syllable": "32",
+    "Word": "7",
+    "RDate": "20211219",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감",
+        "SentimentText": "보들보들 넘 좋아요..",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "이가격에 3벌이나.. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "187",
+    "RawText": "금액이   저렴해도 기대를  했었는데  그  갑어치밖에  안되는군요  그만큼만    입겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웜 소프트 부** 니트 3종세트",
+    "ReviewScore": "60",
+    "Syllable": "52",
+    "Word": "9",
+    "RDate": "20211209",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "금액이   저렴해도",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "그  갑어치밖에  안되는군요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "188",
+    "RawText": "추위타는 딸아이가 따뜻하고 목이   답답하지 않다고 잘입고 있어요~~~^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웜 소프트 부** 니트 3종세트",
+    "ReviewScore": "100",
+    "Syllable": "41",
+    "Word": "8",
+    "RDate": "20220108",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "목이   답답하지 않다고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "190",
+    "RawText": "부들부들 포근하고 가볍고 따뜻해요 색상도 다 맘에 드네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웜 소프트 부** 니트 3종세트",
+    "ReviewScore": "100",
+    "Syllable": "31",
+    "Word": "8",
+    "RDate": "20211226",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감",
+        "SentimentText": "부들부들 포근하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻해요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 다 맘에 드네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "192",
+    "RawText": "너무 따뜻하고 색깔도 이쁘고 다 만족합니다 감사합니다 잘입을께요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웜 소프트 부** 니트 3종세트",
+    "ReviewScore": "100",
+    "Syllable": "35",
+    "Word": "8",
+    "RDate": "20211216",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "너무 따뜻하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색깔도 이쁘고 다 만족합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "193",
+    "RawText": "부클니트 따뜻하고 촉감이 부드러워요 보풀이 일어나지  않았으면 좋겠어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웜 소프트 부** 니트 3종세트",
+    "ReviewScore": "80",
+    "Syllable": "39",
+    "Word": "8",
+    "RDate": "20211215",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "촉감이 부드러워요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "198",
+    "RawText": "싸이즈 없어서 안사려다큰사이즈로 구매하라는 쇼호스트님말믿고 샀는데 너무 크네요 특히 갈색은 목이 너무 커서 이상해보여요 보풀도 많이나고",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웜 소프트 부** 니트 3종세트",
+    "ReviewScore": "50",
+    "Syllable": "75",
+    "Word": "16",
+    "RDate": "20211215",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "너무 크네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "갈색은 목이 너무 커서 이상해보여요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "보풀도 많이나고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "201",
+    "RawText": "길이감 엉덩이 덮여 괜춘. 젤 큰 싸이즈여서인지 팔길이가 길고 통이 넓어 별하나 뺌. 가격대비 마음에 듬.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웜 소프트 부** 니트 3종세트",
+    "ReviewScore": "80",
+    "Syllable": "59",
+    "Word": "16",
+    "RDate": "20211214",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "길이",
+        "SentimentText": "길이감 엉덩이 덮여 괜춘.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "팔길이가 길고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "통이 넓어 별하나 뺌.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 마음에 듬.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "203",
+    "RawText": "목부분 디자인이  어저쩡 사이즈없어서 젤큰사이즈 주문 길이는짧고 품은 겁나큰...",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웜 소프트 부** 니트 3종세트",
+    "ReviewScore": "50",
+    "Syllable": "45",
+    "Word": "9",
+    "RDate": "20211210",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "목부분 디자인이  어저쩡",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "길이는짧고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "품은 겁나큰...",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "206",
+    "RawText": "셋다정말좋아요.전한단계내려와서주문했지만늘어난까바서.잘맞아요.부드럽고.강추..",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웜 소프트 부** 니트 3종세트",
+    "ReviewScore": "100",
+    "Syllable": "42",
+    "Word": "1",
+    "RDate": "20220126",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "늘어난까바서.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "잘맞아요.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "부드럽고.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "207",
+    "RawText": "라이브방송보고 샀네요 66없어 77했는데 오버핏으로 좋네요. 드라이크리닝하라하는데 그냥울샴푸해서 입었는데 괜찮네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웜 소프트 부** 니트 3종세트",
+    "ReviewScore": "100",
+    "Syllable": "63",
+    "Word": "10",
+    "RDate": "20211220",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "오버핏으로 좋네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "그냥울샴푸해서 입었는데 괜찮네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "209",
+    "RawText": "가격이 착해서 구매하기도 했는데 소프트라는 이름답게 부드럽고 편안하네요~ 색상도 차분하니 다 좋아하는거라 맘에 듭니다~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웜 소프트 부** 니트 3종세트",
+    "ReviewScore": "100",
+    "Syllable": "66",
+    "Word": "14",
+    "RDate": "20211211",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감",
+        "SentimentText": "부드럽고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편안하네요~",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 차분하니 다 좋아하는거라 맘에 듭니다~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 착해서 구매하기도 했는데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "210",
+    "RawText": "옷이많이크네요.감촉이 많이 까끌거려요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웜 소프트 부** 니트 3종세트",
+    "ReviewScore": "60",
+    "Syllable": "20",
+    "Word": "3",
+    "RDate": "20220210",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "많이크네요.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "감촉이 많이 까끌거려요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "212",
+    "RawText": "생객보다 신축성 덜해서 목이 끼어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웜 소프트 부** 니트 3종세트",
+    "ReviewScore": "50",
+    "Syllable": "19",
+    "Word": "5",
+    "RDate": "20220102",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "신축성",
+        "SentimentText": "신축성 덜해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "목이 끼어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "213",
+    "RawText": "잘늘어나서 편하고 부드러움 드라이크리닝 해야하는것이 아쉬움",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웜 소프트 부** 니트 3종세트",
+    "ReviewScore": "100",
+    "Syllable": "32",
+    "Word": "6",
+    "RDate": "20211213",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "신축성",
+        "SentimentText": "잘늘어나서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "부드러움",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "드라이크리닝 해야하는것이 아쉬움",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "214",
+    "RawText": "부드럽고 넉넉한 핏 맘에들며 무엇보다도 가성비가 좋아요~~^^기대 이상입니다~~.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웜 소프트 부** 니트 3종세트",
+    "ReviewScore": "100",
+    "Syllable": "45",
+    "Word": "8",
+    "RDate": "20220205",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감",
+        "SentimentText": "부드럽고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "넉넉한 핏 맘에들며",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비가 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "215",
+    "RawText": "잘받았습니다  넉넉하게 입을려고 크게 주문했어요 따뜻합니다 보풀은 잘 생기겠네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웜 소프트 부** 니트 3종세트",
+    "ReviewScore": "100",
+    "Syllable": "44",
+    "Word": "9",
+    "RDate": "20220101",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻합니다 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "보풀은 잘 생기겠네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "216",
+    "RawText": "사이즈 없어서 (쇼호스트분99착용보고)차라리 루즈하게 크게 입을려고 99. 구입.  큰사이즈도 나쁘지 않아요~~가격생각하면 만족 합니다~~검정이 젤 맘에 들어요~~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웜 소프트 부** 니트 3종세트",
+    "ReviewScore": "100",
+    "Syllable": "91",
+    "Word": "16",
+    "RDate": "20211210",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "루즈하게 크게 입을려고 99. 구입.  큰사이즈도 나쁘지 않아요~~",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격생각하면 만족 합니다~~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "검정이 젤 맘에 들어요~~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "218",
+    "RawText": "배송도빠르고 옷도 넘 따뜻하고 포근하네요 가격도 착해서 넘잘산거 같아요  사이즈도 넉넉하고 편안하고 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웜 소프트 부** 니트 3종세트",
+    "ReviewScore": "100",
+    "Syllable": "59",
+    "Word": "13",
+    "RDate": "20211210",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "넘 따뜻하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "포근하네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 착해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈도 넉넉하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편안하고 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "223",
+    "RawText": "디자인도 틀리고 여러가지 색상으로 저렴하게 사서 잘입고있어요~~^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웜 소프트 부** 니트 3종세트",
+    "ReviewScore": "100",
+    "Syllable": "37",
+    "Word": "7",
+    "RDate": "20220108",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 틀리고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "여러가지 색상으로",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 사서 잘입고있어요~~^^",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "224",
+    "RawText": "저렴하게 구매했지만 잘 입을것 같아요 모두 다른 디자인이라 더 좋으네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웜 소프트 부** 니트 3종세트",
+    "ReviewScore": "100",
+    "Syllable": "39",
+    "Word": "10",
+    "RDate": "20211212",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구매했지만 잘 입을것 같아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "모두 다른 디자인이라 더 좋으네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "225",
+    "RawText": "저렴하게 잘구매했구여.조끼까지  올겨울은 요아이 하나로 입어야 겠네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웜 소프트 부** 니트 3종세트",
+    "ReviewScore": "100",
+    "Syllable": "38",
+    "Word": "7",
+    "RDate": "20211217",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘구매했구여.조끼까지",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "올겨울은 요아이 하나로 입어야 겠네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "226",
+    "RawText": "어디에나 잘 어울리고 따뜻하고 부드러워요^^ 가격대비 완전 만족 입니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웜 소프트 부** 니트 3종세트",
+    "ReviewScore": "100",
+    "Syllable": "39",
+    "Word": "9",
+    "RDate": "20211231",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "활용성",
+        "SentimentText": "어디에나 잘 어울리고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "부드러워요^^",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 완전 만족 입니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "230",
+    "RawText": "목둘레가 좀 좁아 조심히 다뤄야합니다 색상 맘에들고 특히 밍크 부분이 맘에 들고 따뜻합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 밍** 캐시미어 니트 4종 택1",
+    "ReviewScore": "80",
+    "Syllable": "50",
+    "Word": "13",
+    "RDate": "20220129",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "목둘레가 좀 좁아",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상 맘에들고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "특히 밍크 부분이 맘에 들고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻합니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "232",
+    "RawText": "넥라인을 밍크로 둘러 따뜻해보이고 하나로도 갖춰 입은듯 좋습니다 뒷목 연결부분이 약합니다 옷걸이에서 빼다가 터져서 꿰매느라 힘들었습니다 ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 밍** 캐시미어 니트 4종 택1",
+    "ReviewScore": "70",
+    "Syllable": "76",
+    "Word": "16",
+    "RDate": "20220129",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "넥라인을 밍크로 둘러 따뜻해보이고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "하나로도 갖춰 입은듯 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "뒷목 연결부분이 약합니다 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "터져서 꿰매느라 힘들었습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "238",
+    "RawText": "가성비좋아요~ 편하게 걸치기 좋고 색감도 좋네요 제사이즈 강추!!",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 니트 3종",
+    "ReviewScore": "100",
+    "Syllable": "36",
+    "Word": "8",
+    "RDate": "20220304",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비좋아요~",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편하게 걸치기 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색감도 좋네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "제사이즈 강추!!",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "243",
+    "RawText": "아주 만족스럽네요. 두께는 얇아요 소재도 원하던 느낌이구요 기계세탁되서  너무좋습니다. 그리고 코튼이라 안끌거림 없습니다.  굿굿",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 니트 3종",
+    "ReviewScore": "100",
+    "Syllable": "72",
+    "Word": "14",
+    "RDate": "20220105",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "두께는 얇아요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재도 원하던 느낌이구요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "기계세탁되서  너무좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "코튼이라 안끌거림 없습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "251",
+    "RawText": "95가 매진이라서 한사이즈크걱 주문했더니 크긴큰데  크게입어서 괜찬아요~~  면이라서 촉감도좋고  늘어지지않을것같아요~~  만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 니트 3종",
+    "ReviewScore": "100",
+    "Syllable": "75",
+    "Word": "11",
+    "RDate": "20210928",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "크긴큰데  크게입어서 괜찬아요~~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "면이라서 촉감도좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "늘어지지않을것같아요~~",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "252",
+    "RawText": "베이지 구매해서 편안하게 잘입었고 블랙이 예뻐서 재구매 합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 니트 라** 세트",
+    "ReviewScore": "80",
+    "Syllable": "34",
+    "Word": "8",
+    "RDate": "20211015",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "베이지 구매해서 편안하게 잘입었고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "블랙이 예뻐서 재구매 합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "253",
+    "RawText": "가격이 맘에들어 주문했더니 옷 디자인이 더 맘에 들어 좋네요.따듯하고 피부에 닿는 느낌도 부드러워요.아쉬운건 치수가 약간 작은지 팔 길이 약간 작네요.한치수 크게 주문하면 될듯하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 니트 라** 세트",
+    "ReviewScore": "100",
+    "Syllable": "102",
+    "Word": "23",
+    "RDate": "20211225",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 맘에들어 주문했더니",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": " 팔 길이 약간 작네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "한치수 크게 주문하면 될듯하네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따듯하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "피부에 닿는 느낌도 부드러워요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "옷 디자인이 더 맘에 들어 좋네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "치수가 약간 작은지",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "257",
+    "RawText": "가격대비 품질은 좋아요~ 패팅 주머니가 뚫려서 온거 말고는 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 니트 라** 세트",
+    "ReviewScore": "80",
+    "Syllable": "39",
+    "Word": "9",
+    "RDate": "20211102",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 품질은 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "주머니가 뚫려서 온거 말고는 만족합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "260",
+    "RawText": "가격대비 훌륭합니다  조끼만 다른분들 상품평처럼 좀 싼티는나지만 그래도 잘 입을듯요 득템했네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 니트 라** 세트",
+    "ReviewScore": "100",
+    "Syllable": "52",
+    "Word": "11",
+    "RDate": "20211029",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 훌륭합니다 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "조끼만 다른분들 상품평처럼 좀 싼티는나지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "265",
+    "RawText": "가격대비 넘넘 맘에 들어요 특히 기모가  있어서. 외출복으로도 좋아요 ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 니트 라** 세트",
+    "ReviewScore": "100",
+    "Syllable": "39",
+    "Word": "9",
+    "RDate": "20211027",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 넘넘 맘에 들어요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "기모가  있어서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "외출복으로도 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "270",
+    "RawText": "의류안에 기모가아닌베로아로되어서더욱따뜻함니다저렴한가격으로구매해서더욱좋아요타방송보다훨씬저렴함니다단지색상이품절된것이있어서아쉬웠음니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 니트 라** 세트",
+    "ReviewScore": "100",
+    "Syllable": "71",
+    "Word": "2",
+    "RDate": "20211023",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "의류안에 기모가아닌베로아로되어서더욱따뜻함니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한가격으로구매해서더욱좋아요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "타방송보다훨씬저렴함니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "272",
+    "RawText": "티와  바진ㄷㄴ  따듯  하겠고  질도  좋은데  베스트는  생각보다는 도톰하고  자크없이 똑딱이고ㅜㅜ 가슴둘레가 좀  작게 나와  잠그지  안고  입어야  겠어요  낚시 갈때   입으려구요   일상 생활복으로  좋을듯  싶어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 니트 라** 세트",
+    "ReviewScore": "100",
+    "Syllable": "127",
+    "Word": "26",
+    "RDate": "20211001",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "티와  바진ㄷㄴ  따듯  하겠고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "질도  좋은데 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": " 베스트는  생각보다는 도톰하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "자크없이 똑딱이고ㅜㅜ      ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "가슴둘레가 좀  작게 나와  잠그지  안고  입어야  겠어요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "낚시 갈때   입으려구요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "일상 생활복으로  좋을듯  싶어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "283",
+    "RawText": "작년에 그레이로 잘 입고 오트밀로 색상바꿔 주문해봤어요 옷이 넘 편해서 자주 손가입었어요 대신 니트재질이라보니 보풀감은 어쩔수업머요ㅠㅠ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 니트 라** 세트",
+    "ReviewScore": "100",
+    "Syllable": "75",
+    "Word": "16",
+    "RDate": "20211001",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "넘 편해서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "니트재질이라보니 보풀감은 어쩔수업머요ㅠㅠ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "자주 손가입었어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]

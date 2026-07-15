@@ -1,0 +1,3068 @@
+[
+  {
+    "Index": "767950",
+    "RawText": "늘 뿌리 부분만 매직 하는데 너무 비싸서 직접 해봤습니다. 기술 부족으로 미용실만큼 쫙 펴지는 못했습니다. 미용실에서 하는 편이 더 좋을 것 같아요.  이 제품도 싸지는 않네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트  1개",
+    "ReviewScore": "5",
+    "Syllable": "99",
+    "Word": "26",
+    "RDate": "20190604",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "기술 부족으로 미용실만큼 쫙 펴지는 못했습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "이 제품도 싸지는 않네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "767959",
+    "RawText": "어제 왔는데 오늘 저녁에 하는데 사용이 불편해서 너무 힘들었어요. 냄새도 너무 강했어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트  1개",
+    "ReviewScore": "3",
+    "Syllable": "49",
+    "Word": "12",
+    "RDate": "20190703",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용이 불편해서 너무 힘들었어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 너무 강했어요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "767969",
+    "RawText": "한번 사면 3명도 할수있는 양이네요. 파마도 잘 되는데 냄새가 별로라서 좀 아쉬워요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트  1개",
+    "ReviewScore": "5",
+    "Syllable": "47",
+    "Word": "12",
+    "RDate": "20190826",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "한번 사면 3명도 할수있는 양이네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "파마도 잘 되는데 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새가 별로라서 좀 아쉬워요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "767988",
+    "RawText": "매직이 잘 안 됩니다. 머릿결도 많이 상해서 에센스 바르고 있습니다. 양도 적어서 여러 번 할 수 없습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트  1개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "17",
+    "RDate": "20191017",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "매직이 잘 안 됩니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결도 많이 상해서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 적어서 여러 번 할 수 없습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "767992",
+    "RawText": "처음 사용했어요. 사용하기 번거로운 것 같습니다. 가격도 비싼 것 같아요. 미용실에서 하는 게 더 좋은 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트  1개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "17",
+    "RDate": "20191109",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기 번거로운 것 같습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 비싼 것 같아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768001",
+    "RawText": "1제 바르고 넘 오래 있었는지 살짝 머리결 상했어요. 양이 많아 한번더 사용할수 있겠는데 담에는 머릿결이 상하지 않게 해보려구요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트  1개",
+    "ReviewScore": "4",
+    "Syllable": "72",
+    "Word": "18",
+    "RDate": "20200102",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "살짝 머리결 상했어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양이 많아 한번더 사용할수 있겠는데 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "768008",
+    "RawText": "딸아이 셀프로 매직 해줬습니다. 머리숱이 너무 많아 힘들었는데 매직도 잘 안 되어서 아쉬웠습니다. 가격도 비싸서 추천 하고 싶지 않습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트  1개",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "19",
+    "RDate": "20200211",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "매직도 잘 안 되어서 아쉬웠습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 비싸서 추천 하고 싶지 않습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768009",
+    "RawText": "매직을 하기 위해 샀는데 처음 사용하는 제품입니다. 여기가 제일 비싼 것 같네요. 또 한 가지 아쉬운 점은 구성이 더 좋게 나와야 한다고 생각이 드네요. 생각보다 좋지 않아 추천은 하지 않습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트  1개",
+    "ReviewScore": "5",
+    "Syllable": "109",
+    "Word": "30",
+    "RDate": "20200214",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "여기가 제일 비싼 것 같네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성이 더 좋게 나와야 한다고 생각이 드네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768017",
+    "RawText": "미용실에서 하는 것과 같은 결과는 바라면 안되겠죠? 파마가 잘 안됐어요. 2명이 하는데 1세트면 충분할 양이네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트  1개",
+    "ReviewScore": "4",
+    "Syllable": "63",
+    "Word": "15",
+    "RDate": "20200508",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "파마가 잘 안됐어요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "2명이 하는데 1세트면 충분할 양이네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "768020",
+    "RawText": "머리카락 상할까봐 걱정이 되서 머리가 긴편인데도 약을 조금만 사용했습니다. 그래서 그런지 파마가 안됐어요. 냄새도 별로였는데 다시 해야한다니 생각만 해도 피곤하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트  1개",
+    "ReviewScore": "5",
+    "Syllable": "92",
+    "Word": "20",
+    "RDate": "20200514",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "파마가 안됐어요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 별로였는데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768023",
+    "RawText": "남편 머리카락이 곱슬이라 항상 부시시한데 미용실 가기에는 매달 스트레이트 가격이 비싸서 이 제품을 사게 되었는데 머릿결도 많이 상하고 앞 머리 곱슬도 잘 펴지지 않아서 추천 하지 않습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트  1개",
+    "ReviewScore": "5",
+    "Syllable": "105",
+    "Word": "27",
+    "RDate": "20200520",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결도 많이 상하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "앞 머리 곱슬도 잘 펴지지 않아서 추천 하지 않습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768042",
+    "RawText": "받자마자 셀프매직 해봤어요. 허리까지오는 아주긴 머리지만 혼자서 섹션 나눠가면서 꼼꼼히 했더니 파마가 잘 나왔네요. 약이 다른 매직약보다 순해서 어느정도 시간 차이나도 그렇게 결과에 영향을 주진 않는것 같습니다. 저처럼 셀프매직하실분은 800원짜리 영양제 두개 사셔서 1제,2제에 각각 한봉씩 섞어서 쓰시면 머리 덜 상하고 결과도 좋을거예요. 긴머리이신분은 받침대도 사세요. 이게 별거 아닌것 같지만 약바르고 대기하는동안 사용하면서 돌아다니기 아주 좋더라구요. 양도 한번 더 쓸만큼 남아서 곱슬끼 다시 올라오면 쓸 예정이에요. 다음에 또 구매하려구요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트  1개",
+    "ReviewScore": "5",
+    "Syllable": "308",
+    "Word": "69",
+    "RDate": "20200703",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "파마가 잘 나왔네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "약이 다른 매직약보다 순해서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 한번 더 쓸만큼 남아서 곱슬끼 다시 올라오면 쓸 예정이에요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "768047",
+    "RawText": "믿거나 말거난데, 대박 상품입니다. 1번으로 쫙쫙 펴주고 있다가 3ㅡ4가닥 잡고 늘려 본 다음 늘어나면 감고 다 말려주고 그 다음 매직기로 자연스럽게 펴주고 2번 중화제로 1번 하듯이 펴주고 15분 있다 감으면 완성되는데, 펌이 잘 되어서 좋습니다. 머릿결 손상도 적어서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트  1개",
+    "ReviewScore": "5",
+    "Syllable": "157",
+    "Word": "39",
+    "RDate": "20200715",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "펌이 잘 되어서 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결 손상도 적어서 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "768054",
+    "RawText": "처음 사용하는 매직 약입니다. 쿠폰 적용이 안 되어서 비싸게 구입했습니다. 사은품도 좋지 않아서 아쉬운 제품입니다. 추천 하지 않아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트  1개",
+    "ReviewScore": "4",
+    "Syllable": "75",
+    "Word": "18",
+    "RDate": "20200724",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰 적용이 안 되어서 비싸게 구입했습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품도 좋지 않아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768058",
+    "RawText": "딸 아이 머리 펴주었는데 잘 안 된 것 같아서 아쉽습니다. 매직이 자연스럽게 안 됩니다. 다음에는 다른 제품 사야겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트  1개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "18",
+    "RDate": "20200818",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "딸 아이 머리 펴주었는데 잘 안 된 것 같아서 아쉽습니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "매직이 자연스럽게 안 됩니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768060",
+    "RawText": "냄새도 심하고 피부 자극도 심한 것 같습니다. 사용하기에도 불편한 것 같습니다. 매직도 잘 안 되는 제품입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트  1개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "16",
+    "RDate": "20200916",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 심하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "피부 자극도 심한 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기에도 불편한 것 같습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "매직도 잘 안 되는 제품입니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768071",
+    "RawText": "매직 항상 미용실 가서 하다가 집에서 하기 시작했는데 미용실에 할 때 본 것을 경험으로 사게 되었습니다. 하지만 제가 해서 그런지는 몰라도 매직이 잘 안 되는 것 같습니다. 괜히 엄청 많이 구매한 것 같습니다. 용량도 생각보다 적어서 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트  1개",
+    "ReviewScore": "5",
+    "Syllable": "136",
+    "Word": "37",
+    "RDate": "20210131",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "매직이 잘 안 되는 것 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량도 생각보다 적어서 아쉽네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768085",
+    "RawText": "처음으로 이거 사서 셀프 매직했는데 파마가 제가 원하는대로 안나왔어요. 혼자하기 좀 힘들어요. 지속력도 길지 않아 금방 풀리네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트  1개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "17",
+    "RDate": "20210302",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "파마가 제가 원하는대로 안나왔어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "혼자하기 좀 힘들어요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력도 길지 않아 금방 풀리네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768107",
+    "RawText": "처음 사서 앞 머리 뿌리 매직 했는데 쫙 펴지지 않아서 아쉽습니다. 머릿결도 많이 상해서 마음이 안 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트  1개",
+    "ReviewScore": "4",
+    "Syllable": "60",
+    "Word": "17",
+    "RDate": "20220111",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "앞 머리 뿌리 매직 했는데 쫙 펴지지 않아서 아쉽습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결도 많이 상해서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768111",
+    "RawText": "머릿결이 많이 상하고 매직이 잘 나오지 않습니다. 사용하는 법도 어려워서 좋지 않아요. 다른 제품 사시는 것을 추천 하고 싶어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트  1개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "19",
+    "RDate": "20170411",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결이 많이 상하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "매직이 잘 나오지 않습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하는 법도 어려워서 좋지 않아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768114",
+    "RawText": "머리가 워낙 길고 숱이 많은데 곱슬이라 혼자 파마하는게 너무 힘들었어요. 가격이 저렴하지만 그만큼 고생해야하네요. 양도 많아서 남은 건 앞머리가 다시 곱슬해지면 그때 쓸 생각입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트  1개",
+    "ReviewScore": "4",
+    "Syllable": "101",
+    "Word": "24",
+    "RDate": "20210510",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "혼자 파마하는게 너무 힘들었어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가격이 저렴하지만 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 많아서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "768126",
+    "RawText": "저번에는 빨간색 사서 했었는데 머릿결이 너무 상해서 이번에는 파란색으로 구매를 했습니다. 이 제품 역시 매직이 잘 안 나오네요. 머릿결도 많이 상해서 아쉽고 양도 적어서 한 번 밖에 못하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트  1개",
+    "ReviewScore": "5",
+    "Syllable": "107",
+    "Word": "28",
+    "RDate": "20170805",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "매직이 잘 안 나오네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결도 많이 상해서 아쉽고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 적어서 한 번 밖에 못하네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768138",
+    "RawText": "혼자서 사용하기 불편한 제품인 것 같아요. 저는 혼자 해서 그런지 실패했습니다. 괜히 한 것 같습니다. 머릿결이 많이 상했고 쭉쭉 잘 펴지지도 않았습니다. 잘 안 펴져서 아직도 곱슬기가 있는 것 같습니다. 몇 번 해보고 싶은데 양도 적어서 1번 밖에 못하는 것 같습니다. 가성비 없어요. 미용실 가서 그냥 해야겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트  1개",
+    "ReviewScore": "5",
+    "Syllable": "178",
+    "Word": "47",
+    "RDate": "20180604",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "혼자서 사용하기 불편한 제품인 것 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결이 많이 상했고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "쭉쭉 잘 펴지지도 않았습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "잘 안 펴져서 아직도 곱슬기가 있는 것 같습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 적어서 1번 밖에 못하는 것 같습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 없어요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768142",
+    "RawText": "머리 제일 위쪽 탈색부분이 끊겼어요. 머릿결도 뻣뻣해졌어요. 그냥 미용실가서 하려구요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트  1개",
+    "ReviewScore": "5",
+    "Syllable": "48",
+    "Word": "10",
+    "RDate": "20180719",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머리 제일 위쪽 탈색부분이 끊겼어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결도 뻣뻣해졌어요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768150",
+    "RawText": "처음 사용을 한 제품인데 머릿결이 많이 상한 것 같습니다. 머리숱 많은 기장인데 양이 너무 부족한 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트  1개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "17",
+    "RDate": "20190213",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결이 많이 상한 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양이 너무 부족한 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768155",
+    "RawText": "안터지게 잘 포장해서 왔네요. 파마할때 생각보다 불편하고 힘드네요. 그래도 미용실보다는 저렴하니 집에서 하게 되네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트  1개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "14",
+    "RDate": "20190428",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "파마할때 생각보다 불편하고 힘드네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "미용실보다는 저렴하니 집에서 하게 되네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "768158",
+    "RawText": "오자마자 해봤는데 너무 짧은 시간 내에 해서 매직이 잘 안 되었습니다. 양도 너무 적어서 아쉬운 것 같아요. 재구매는 안 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트  1개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "20",
+    "RDate": "20190511",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "매직이 잘 안 되었습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 너무 적어서 아쉬운 것 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768162",
+    "RawText": "좋지 않습니다. 양도 적고 비싸게 주고 산 것 같습니다. 셀프 매직은 처음인데 잘 되고 싶어서 샀는데 기대가 너무 컸습니다. 동네 미용실에서 하는 것이 가격은 비싸지만 더 잘 되는 것 같습니다. 더 하고 싶어도 양이 적어서 하지 못하네요. 다음에는 절대 사지 않을 것 같습니다. 추천 하지 않습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트  1개",
+    "ReviewScore": "5",
+    "Syllable": "167",
+    "Word": "46",
+    "RDate": "20200130",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 적고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "비싸게 주고 산 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양이 적어서 하지 못하네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "동네 미용실에서 하는 것이 가격은 비싸지만 더 잘 되는 것 같습니다.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768171",
+    "RawText": "언니가 곱슬머리인데 저보고 해달라고 해서 구매했습니다. 머릿결이 상하면 어쩌나 걱정했는데, 머릿결도 찰랑거리고 펌도 아주 잘 펴져서 좋습니다. 미용실에서 한 것보다 훨씬 펌이 잘 되어서 깜짝 놀랐습니다. 다만 혼자하니 시간이 오래 걸려 힘들고 불편합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트  1개",
+    "ReviewScore": "5",
+    "Syllable": "142",
+    "Word": "33",
+    "RDate": "20200313",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결도 찰랑거리고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "펌도 아주 잘 펴져서 좋습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "미용실에서 한 것보다 훨씬 펌이 잘 되어서 깜짝 놀랐습니다. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "혼자하니 시간이 오래 걸려 힘들고 불편합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768176",
+    "RawText": "배송이 빨라서 맘에 들어요. 늘 쓰던 제품으로 양이 많아서 뿌리쪽만 발라가며 조금씩 쓰면 오래 쓸 수 있어서 좋습니다. 다만 가격은 좀 비싼 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트  1개",
+    "ReviewScore": "5",
+    "Syllable": "86",
+    "Word": "24",
+    "RDate": "20170811",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양이 많아서 뿌리쪽만 발라가며 조금씩 쓰면 오래 쓸 수 있어서 좋습니다.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 좀 비싼 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768179",
+    "RawText": "드라마틱한 미용실 매직 느낌은 아니지만 확실히 차분해졌네요. 어머님도 해드렸는데 파마가 잘되서 차분해져서 좋다고 하십니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트  1개",
+    "ReviewScore": "4",
+    "Syllable": "68",
+    "Word": "14",
+    "RDate": "20180320",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "드라마틱한 미용실 매직 느낌은 아니지만 확실히 차분해졌네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "파마가 잘되서 차분해져서 좋다고 하십니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "768182",
+    "RawText": "배송이 너무 느려서 원하는 날짜에 받지 못했습니다. 오자마자 뜯어서 했습니다. 숱도 많고 길어서 미용실 값이 부담스러워서 샀는데 매직도 잘 안 되고 냄새가 너무 심해서 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트  1개",
+    "ReviewScore": "5",
+    "Syllable": "99",
+    "Word": "25",
+    "RDate": "20180516",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "매직도 잘 안 되고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새가 너무 심해서 아쉽네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768185",
+    "RawText": "대박 상품이라고 해서 구매했는데 생각보다 좋지 않습니다. 곱슬 머리 딸 머리가 잘 펴지지 않습니다. 괜히 산 것 같습니다. 미용실 매직을 하는 게 더 좋은 것 같아요. 이거는 머릿결도 많이 상하고 양도 적어서 아쉽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트  1개",
+    "ReviewScore": "5",
+    "Syllable": "123",
+    "Word": "33",
+    "RDate": "20180702",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "곱슬 머리 딸 머리가 잘 펴지지 않습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결도 많이 상하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 적어서 아쉽습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768206",
+    "RawText": "머리 숱이 많고 곱슬이 너무 심해서 미용실 가서 스트레이트 하면 비용이 많이 들어요. 도저히 감당이 안 될 지경이라 하는 수 없이 집에서 하기로 했네요. 그래서 직접 할 수 있는 좋은 약 찾다가 주문했어요. 일단 비용이 적게 들어서 좋은데 머리가 예쁘게 잘 펴지면 좋겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트  1개",
+    "ReviewScore": "5",
+    "Syllable": "153",
+    "Word": "43",
+    "RDate": "20200313",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "비용이 적게 들어서 좋은데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "머리가 예쁘게 잘 펴지면 좋겠네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "768207",
+    "RawText": "제품이 좋지 않습니다. 생각보다 머리가 잘 펴지지 않습니다. 머릿결 손상도 심해서 재구매 의사가 없네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트  1개",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "14",
+    "RDate": "20200313",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "생각보다 머리가 잘 펴지지 않습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결 손상도 심해서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768210",
+    "RawText": "미용실 가기도 그렇고 제가 먼저 해보고 잘되면 딸 머리 해주려고 구매했습니다. 제 머리가 좀 숱도 많고 두껍고 강해서 파마,염색이 잘 안되는 머리라서 오랜만에 해봤습니다. 역시 머릿결이 안 좋아지고 매직도 잘 안 되네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트  1개",
+    "ReviewScore": "5",
+    "Syllable": "123",
+    "Word": "32",
+    "RDate": "20200411",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결이 안 좋아지고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "매직도 잘 안 되네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768218",
+    "RawText": "미용실에서 하는 것이 더 좋네요. 사용하기 어려운 제품이네요. 시간도 너무 오래 걸려서 불편합니다. 효과도 없습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트  1개",
+    "ReviewScore": "4",
+    "Syllable": "65",
+    "Word": "15",
+    "RDate": "20200519",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기 어려운 제품이네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "시간도 너무 오래 걸려서 불편합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과도 없습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768228",
+    "RawText": "매직비가 부담이 되어서 못하고 있다고 언니가 해준다고 해서 인터넷 검색했습니다. 이 제품이 있길래 반신반의 하며 구매를 하게 되었습니다. 배송 받고 했는데 머릿결이 너무 빳빳해져서 아쉬웠습니다. 머릿결 손상이 심한 것 같아서 마음이 아픕니다. 펌도 잘 안 되어서 머리가 차분해지지 않습니다. 미용실에서 하는 것이 역시 좋은 것 같아요. 언니가 잘 못해줘서 그런 걸 수도 있지만 저는 추천하고 싶지 않은 제품이네요. 환불하고 싶은 마음이 굴뚝입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트  1개",
+    "ReviewScore": "5",
+    "Syllable": "250",
+    "Word": "62",
+    "RDate": "20200717",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결이 너무 빳빳해져서 아쉬웠습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결 손상이 심한 것 같아서 마음이 아픕니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "펌도 잘 안 되어서 머리가 차분해지지 않습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "미용실에서 하는 것이 역시 좋은 것 같아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768233",
+    "RawText": "작은 딸 곱슬이라 뿌리 매직 펌 하는데 매직 잘 안 되고 머릿결 손상도 심해서 재구매는 없습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트  1개",
+    "ReviewScore": "5",
+    "Syllable": "54",
+    "Word": "16",
+    "RDate": "20201009",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "매직 잘 안 되고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결 손상도 심해서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768241",
+    "RawText": "OOO 사용하다가 다른 매직약은 사용 못할 것 같아요. 미용실에서 15만원 주고 하다가 지금은 OOO 구입해서 셀프로 하고 있어요. 혼자서 사용하기도 괜찮고 잘 펴져서 만족하고 있어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트  1개",
+    "ReviewScore": "5",
+    "Syllable": "103",
+    "Word": "25",
+    "RDate": "20210127",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "혼자서 사용하기도 괜찮고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "잘 펴져서 만족하고 있어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "768267",
+    "RawText": "다른 제품에 비해 이 제품은 머리가 잘 펴지지 않습니다. 저는 1제 방치를 오래 했는지 머릿결이 많이 상했습니다. 곱슬기를 못 펴줘서 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트 1개",
+    "ReviewScore": "5",
+    "Syllable": "80",
+    "Word": "21",
+    "RDate": "20160205",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "머리가 잘 펴지지 않습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결이 많이 상했습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "곱슬기를 못 펴줘서 아쉽네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768269",
+    "RawText": "배송이 너무 느리고 가격이 비싼 것 같습니다. 머리가 많이 길어서 그런지는 몰라도 양이 너무 부족한 것 같습니다. 다른 제품도 여러 개 써서 아는데 전처리를 하고 안하고 따라 머릿결이 다른데 이 제품은 해도 머릿결 손상이 심한 것 같아서 추천 안 해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트 1개",
+    "ReviewScore": "5",
+    "Syllable": "141",
+    "Word": "40",
+    "RDate": "20160226",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 비싼 것 같습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양이 너무 부족한 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결 손상이 심한 것 같아서 추천 안 해요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768274",
+    "RawText": "주변에서 추천받아 주문해봤는데 유통기한도 짧고 설명서도 없어요. 물건만 보내와서 뒷면에 영어 설명보고 사용해야 할 것 같네요. 샘플도 하나도 없어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트 1개",
+    "ReviewScore": "5",
+    "Syllable": "83",
+    "Word": "19",
+    "RDate": "20190109",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한도 짧고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "샘플도 하나도 없어요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768279",
+    "RawText": "처음 집에서 이런 걸 해봐서 그런지 약 냄새가 너무 독해서 오래 못 있었습니다. 눈도 너무 따가운 것 같습니다. 머리 감고 보니까 머리가 잘 안 펴져서 아쉽습니다. 완벽하지 않은 제품이라 추천 하지 않습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트 1개",
+    "ReviewScore": "3",
+    "Syllable": "116",
+    "Word": "32",
+    "RDate": "20170209",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "약 냄새가 너무 독해서 오래 못 있었습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "눈도 너무 따가운 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "머리가 잘 안 펴져서 아쉽습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768282",
+    "RawText": "배송은 보통이고 가성비는 괜찮아요. 다른 곳에서 파는 가격 보다 여기가 저렴합니다. 미용실 가서 하면 15만원 정도 하는데 집에서 하니 시간도 절약되고 좋습니다. 추천해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트 1개",
+    "ReviewScore": "1",
+    "Syllable": "96",
+    "Word": "23",
+    "RDate": "20170524",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비는 괜찮아요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "다른 곳에서 파는 가격 보다 여기가 저렴합니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "집에서 하니 시간도 절약되고 좋습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "768287",
+    "RawText": "배송은 엄청 빠르네요. 용량도 적당해 두어번 사용하기 딱 좋은데 머리카락은 좀 상했어요. 재구매하는건 생각해봐야 할 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트 1개",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "17",
+    "RDate": "20160221",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량도 적당해 두어번 사용하기 딱 좋은데 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머리카락은 좀 상했어요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768291",
+    "RawText": "매직 약이 양도 적고 집에서 했는데 순하지 않아서 머릿결도 많이 상한 것 같습니다. 아들 해주려고 샀는데 양이 너무 부족한 것 같습니다. 가격도 비싸서 추천 안 해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트 1개",
+    "ReviewScore": "5",
+    "Syllable": "93",
+    "Word": "26",
+    "RDate": "20160330",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "매직 약이 양도 적고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "순하지 않아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결도 많이 상한 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양이 너무 부족한 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 비싸서 추천 안 해요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768295",
+    "RawText": "양이 많아서 단발머리 일반 숱 기준으로 한번 시술하고도 반이 남아요. 가격도 화장품 가게에서 구입하는 것 보다 싼 것 같네요. 앰플도 구입했는데 좋은지는 모르겠는데 가격은 싸지 않네요. 앰플 대신 대용량 헤어팩 사는 게 효과가 더 좋을 것 같아 앰플은 비추입니다. 그리고 스트레이트하고 머리 상하는 건 어쩔 수 없는 듯해요. 리뷰에 머리 안 상한다고 해서 효과 기대했는데 그렇지 않네요. 미용실 보다 머릿결 보호 되지는 않는다는 점은 감안하시고 사용하셔야 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트 1개",
+    "ReviewScore": "5",
+    "Syllable": "259",
+    "Word": "67",
+    "RDate": "20160404",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양이 많아서 단발머리 일반 숱 기준으로 한번 시술하고도 반이 남아요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 화장품 가게에서 구입하는 것 보다 싼 것 같네요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "스트레이트하고 머리 상하는 건 어쩔 수 없는 듯해요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "리뷰에 머리 안 상한다고 해서 효과 기대했는데 그렇지 않네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "미용실 보다 머릿결 보호 되지는 않는다는 점은 감안하시고 사용하셔야 합니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768299",
+    "RawText": "배송도 너무 느리고 써보니까 좋지 않습니다. 이전에 쓰던 제품이 더 좋은 것 같아요. 약이 너무 부족한 것 같습니다. 미용실에서 하는 게 더 좋네요. 매직이 너무 잘 안 됩니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트 1개",
+    "ReviewScore": "5",
+    "Syllable": "99",
+    "Word": "28",
+    "RDate": "20160420",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "약이 너무 부족한 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "매직이 너무 잘 안 됩니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768300",
+    "RawText": "머리가 곱슬이라 조금만 지나면 뿌실뿌실해지는 머리여서 주기적으로 미용실을 안가면 정말 추해보이거든요. 미용실에 자주가서 매직기 대기도 뭐하고 해서 셀프 도전해봤어요. 머리가 곱슬이긴 한데 이 약을 바르고 잘못하면 머리 탈까봐 빗질만 해주고 매직기는 안댔어요. 그래서 그런지 파마가 생각보다 잘 안됐네요. 머리카락은 상하지 않았지만 파마 냄새가 강하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트 1개",
+    "ReviewScore": "5",
+    "Syllable": "197",
+    "Word": "44",
+    "RDate": "20160427",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "파마가 생각보다 잘 안됐네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머리카락은 상하지 않았지만 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "파마 냄새가 강하네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768301",
+    "RawText": "오늘 받아서 했는데 혼자 하느라 약을 제대로 발랐는지 확인을 하지 못한 채 대충 했습니다. 그냥 골고루 듬뿍 바르자는 생각만 했습니다. 그래서 그런 것인 지는 몰라도 매직이 잘 안 되었습니다. 머릿결도 많이 상한 것 같습니다. 약 냄새가 너무 심했습니다. 다른 제품이 더 좋은 것 같네요. 이전 제품은 머릿결이 많이 상하지 않았거든요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트 1개",
+    "ReviewScore": "5",
+    "Syllable": "187",
+    "Word": "50",
+    "RDate": "20160427",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "매직이 잘 안 되었습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결도 많이 상한 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "약 냄새가 너무 심했습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768309",
+    "RawText": "배송도 느리고 집에서 편하게 사용하지는 못할 것 같습니다. 가격 대비 성능도 좋지 않고 이번에 처음 구매했는데 만족하지 않아서 재구매 안 해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트 1개",
+    "ReviewScore": "3",
+    "Syllable": "80",
+    "Word": "21",
+    "RDate": "20160505",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "집에서 편하게 사용하지는 못할 것 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "가격 대비 성능도 좋지 않고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768311",
+    "RawText": "배송이 너무 오래 걸렸습니다. 다음 날 받으려고 일찍 주문했는데 서울인데 배송이 너무 느립니다. 별점을 좋게 줄 수가 없어요. 가격 대비 품질도 좋지 않고 매직도 잘 나오지 않았습니다. 효과 없는 제품이라서 추천을 해주고 싶지 않은 제품입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트 1개",
+    "ReviewScore": "3",
+    "Syllable": "136",
+    "Word": "35",
+    "RDate": "20160514",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격 대비 품질도 좋지 않고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "매직도 잘 나오지 않았습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과 없는 제품이라서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768313",
+    "RawText": "집에서 볼륨 약으로 펌 한지 좀 되었는데 미용실이 너무 비싸서 집에서 하려고 샀습니다. 저렴한 거 구입하다가 이 제품이 비싸지만 샀는데 매직이 잘 안 되었습니다. 기술이 좋아야 할 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트 1개",
+    "ReviewScore": "2",
+    "Syllable": "108",
+    "Word": "29",
+    "RDate": "20160527",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "비싸지만 샀는데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "매직이 잘 안 되었습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768315",
+    "RawText": "이 제품이 유명하고 후기도 많아서 구매를 하게 되었습니다. 미용실에서 하면 가격이 너무 비싸서 샀습니다. 하지만 사용을 해보니 품질도 좋지 않고 냄새가 너무 심하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트 1개",
+    "ReviewScore": "5",
+    "Syllable": "93",
+    "Word": "23",
+    "RDate": "20160615",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 좋지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새가 너무 심하네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768316",
+    "RawText": "이제 집에서 ㅇㅇㅇ 약으로 매직할 수 있어서 좋다고 생각했는데 머릿결도 상하고 가격도 싸지 않아서 재구매 생각없습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트 1개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "16",
+    "RDate": "20160615",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결도 상하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 싸지 않아서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768319",
+    "RawText": "셀프 매직하려고 ㅇㅇㅇ 매직약 주문해봤어요. 배송도 이틀만에 빨리 왔어요. 한번 해봤더니 머리결이 좀 상했어요. 미용실에서 하는거랑 차이가 많이 나네요. 파마약 냄새도 강해서 별로네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트 1개",
+    "ReviewScore": "5",
+    "Syllable": "103",
+    "Word": "23",
+    "RDate": "20160618",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머리결이 좀 상했어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "파마약 냄새도 강해서 별로네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768324",
+    "RawText": "머리가 잘 펴지지 않아서 아쉽습니다. 시간을 잘 맞춰서 하는 게 중요한 것 같네요. 머릿결 손상도 심해서 후회가 심합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트 1개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "18",
+    "RDate": "20160629",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "머리가 잘 펴지지 않아서 아쉽습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결 손상도 심해서 후회가 심합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768328",
+    "RawText": "손상 모발용 이라고 해서 구매를 했는데 효과가 없습니다. 1제를 조금 더 오래 할까 생각을 했지만 그냥 했는데 머릿결 손상이 너무 심해서 마음에 안 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트 1개",
+    "ReviewScore": "5",
+    "Syllable": "87",
+    "Word": "24",
+    "RDate": "20160723",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과가 없습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결 손상이 너무 심해서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768329",
+    "RawText": "셀프로 하기 전이라 걱정이 많이 되었는데 매직하기전에 사용법과 동영상을 자세히 보고 했더니 혼자서 쉽게 할 수 있었어요. 원하는 시간에 빨리할 수 있어 편하네요. 헤어샵에서 하면 15 만원은 들었을 텐데 저렴하게 해서 정말 좋아요. 추천 드려요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트 1개",
+    "ReviewScore": "4",
+    "Syllable": "137",
+    "Word": "35",
+    "RDate": "20160726",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "혼자서 쉽게 할 수 있었어요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "원하는 시간에 빨리할 수 있어 편하네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "헤어샵에서 하면 15 만원은 들었을 텐데 저렴하게 해서 정말 좋아요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "768331",
+    "RawText": "반곱슬이 심해서 3~4개월마다 뿌리가 붕 떠서 매직 하러 미용실 갔었는데 뿌리 매직 가격도 전체 매직이랑 가격도 같고 매번 전체 매직 하려니 머릿결 손상도 걱정이 되고 셀프 매직 검색해보고 반신반의로 구입해 처음 했는데 생각보다 매직이 잘 안 되어서 아쉽습니다. 미용실이 비싼 이유가 있는 것 같습니다. 매직 약 가격도 생각보다 비싸서 추천하고 싶지 않습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트 1개",
+    "ReviewScore": "4",
+    "Syllable": "201",
+    "Word": "52",
+    "RDate": "20160803",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "생각보다 매직이 잘 안 되어서 아쉽습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "매직 약 가격도 생각보다 비싸서 추천하고 싶지 않습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768337",
+    "RawText": "반신반의 하며 주문해서 집에서 해봤더니 머리결이 안좋아지네요. 용량도 작아서 긴 머리는 두개를 써야하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트 1개",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "13",
+    "RDate": "20160816",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머리결이 안좋아지네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량도 작아서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768338",
+    "RawText": "동생 머리 해줬는데 앰플 사용해도 머릿결이 안 좋아졌고 매직도 잘 안 되었습니다. 동생도 불만이 많아서 해준 제가 미안해지네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트 1개",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "18",
+    "RDate": "20160817",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "앰플 사용해도 머릿결이 안 좋아졌고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "매직도 잘 안 되었습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768339",
+    "RawText": "곱슬이라 앞머리만 하려고 샀습니다. 냄새가 너무 심하고 머리가 많이 상해서 아쉽습니다. 배송도 너무 느려서 마음에 들지 않습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트 1개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "17",
+    "RDate": "20160818",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새가 너무 심하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머리가 많이 상해서 아쉽습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768340",
+    "RawText": "처음 파마약사다가 셀프로 해봤는데 별로네요. 파마가 생각보다 잘 안됐어요. 머릿결도 많이 상해서 속상하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트 1개",
+    "ReviewScore": "4",
+    "Syllable": "60",
+    "Word": "13",
+    "RDate": "20160827",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "파마가 생각보다 잘 안됐어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결도 많이 상해서 속상하네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768341",
+    "RawText": "고데기 기술이 부족한 지는 몰라도 매직이 잘 안 되어서 아쉽습니다. 머릿결도 많이 상해서 아쉽고 효과가 없는 것 같아서 재구매는 없습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트 1개",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "20",
+    "RDate": "20160827",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "매직이 잘 안 되어서 아쉽습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결도 많이 상해서 아쉽고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과가 없는 것 같아서 재구매는 없습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768342",
+    "RawText": "효과가 생각보다 좋아요. 양도 많아서 반정도 남아 있네요. 앰플 사고 해도 미용실에 가는 것 절반 밖에 안 들어서 다시 재구매 해서 쓰려구요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트 1개",
+    "ReviewScore": "4",
+    "Syllable": "79",
+    "Word": "22",
+    "RDate": "20160829",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과가 생각보다 좋아요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 많아서 반정도 남아 있네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "768344",
+    "RawText": "여기서 구매했는데 제일 비싸고 머리도 잘 펴지지 않습니다. 괜히 사용한 것 같습니다. 시간도 너무 오래 걸려서 사용하기 불편하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트 1개",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "18",
+    "RDate": "20160904",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "제일 비싸고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "머리도 잘 펴지지 않습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "시간도 너무 오래 걸려서 사용하기 불편하네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768345",
+    "RawText": "배송은 정말 빠르네요. 모발손상용으로 샀는데도 머리카락이 상하네요. 냄새도 미용실만큼 심하네요. 양은 많아서 여러번 할 수 있을 양이에요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트 1개",
+    "ReviewScore": "4",
+    "Syllable": "77",
+    "Word": "17",
+    "RDate": "20160907",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머리카락이 상하네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 미용실만큼 심하네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양은 많아서 여러번 할 수 있을 양이에요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "768346",
+    "RawText": "머릿결이 안 좋아져서 아쉽습니다. 다시는 구매하고 싶지 않아요. 배송도 느려서 또 구매하고 싶지 않습니다. 구성품도 좋지 않습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트 1개",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "17",
+    "RDate": "20160909",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결이 안 좋아져서 아쉽습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성품도 좋지 않습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768348",
+    "RawText": "받아보고 오늘 뿌리매직 처음 했는데 매직이 너무 잘 되었어요. 두피는 조금 가려웠고 머릿결도 조금  상한 듯합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트 1개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "16",
+    "RDate": "20160911",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "매직이 너무 잘 되었어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "두피는 조금 가려웠고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결도 조금  상한 듯합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768349",
+    "RawText": "어제 염색했는데 염색이 너무 잘 되어서 좋아요. 미용실 갈 필요가 없는 거 같아요. 색감이 이쁘게 잘 나와서 만족해요. 머릿결 손상도 적어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트 1개",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "21",
+    "RDate": "20160914",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색이 너무 잘 되어서 좋아요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "색감이 이쁘게 잘 나와서 만족해요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결 손상도 적어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "768350",
+    "RawText": "혼자서 해봤습니다. 곱슬 머리라 매직을 했는데 잘 안 되어서 아쉽습니다. 약이 냄새가 너무 심하고 눈이 따가워서 사용 못 할 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트 1개",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "21",
+    "RDate": "20160919",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "곱슬 머리라 매직을 했는데 잘 안 되어서 아쉽습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "약이 냄새가 너무 심하고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "눈이 따가워서 사용 못 할 것 같습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768351",
+    "RawText": "매직약 저렴한것도 써봤지만 쓸만한 브랜드에 가격도 저렴하고 일단 머리가 많이 상하지 않고 매직이 잘되는 약이에요. 두번째 사용하는데 역시 ㅇㅇㅇ가 좋네요. 풀리면 다시 하려구요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트 1개",
+    "ReviewScore": "4",
+    "Syllable": "99",
+    "Word": "23",
+    "RDate": "20160922",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "일단 머리가 많이 상하지 않고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "매직이 잘되는 약이에요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "768352",
+    "RawText": "셀프 매직 처음으로 해봤는데 그렇게 눈에 띄는 효과가 없습니다. 전문가가 아니라 그런 걸 수도 있지만 머릿결이 많이 안 좋아져서 아쉽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트 1개",
+    "ReviewScore": "4",
+    "Syllable": "78",
+    "Word": "20",
+    "RDate": "20160926",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "그렇게 눈에 띄는 효과가 없습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결이 많이 안 좋아져서 아쉽습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768354",
+    "RawText": "최근에 한 파마가 너무 뽀글거려서 집에서 살짝만 펴보려고 구입했어요. 원래 곱슬이라서 1년에 2번 정도는 미용실에서 매직을 해봐서 괜찮을 줄 알았는데 매직기 사용 안하고 제품 바르고 15분만에 바로 머리 감았는데도 머리가 완전 다 펴졌어요. 스트레이트 약 성능이 너무 기가 막히게 잘 되네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트 1개",
+    "ReviewScore": "5",
+    "Syllable": "163",
+    "Word": "41",
+    "RDate": "20160927",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "매직기 사용 안하고 제품 바르고 15분만에 바로 머리 감았는데도 머리가 완전 다 펴졌어요. ",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "스트레이트 약 성능이 너무 기가 막히게 잘 되네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "768355",
+    "RawText": "다른 제품 쓰는 게 더 좋을 것 같습니다. 이 제품 추천 하고 싶지 않습니다. 머릿결이 많이 안 좋아지고 냄새가 너무 심해서 추천 안 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트 1개",
+    "ReviewScore": "4",
+    "Syllable": "79",
+    "Word": "24",
+    "RDate": "20160930",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결이 많이 안 좋아지고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새가 너무 심해서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768357",
+    "RawText": "집에서 파마해보기는 처음인데 혼자하기 너무 불편하고 번거롭네요. 파마냄새도 심하네요. 미용실에서 만큼 깔끔히 파마가 되지는 않아요. 그냥 부시시한 반곱슬 잡아주는 정도입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트 1개",
+    "ReviewScore": "5",
+    "Syllable": "97",
+    "Word": "20",
+    "RDate": "20161004",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "혼자하기 너무 불편하고 번거롭네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "파마냄새도 심하네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "미용실에서 만큼 깔끔히 파마가 되지는 않아요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "그냥 부시시한 반곱슬 잡아주는 정도입니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "768363",
+    "RawText": "악성 골슬 남자 친구 매직 스트레이트 했는데 용량도 적어서 다음에 재사용도 불가능합니다. 머릿결이 너무 상해서 재구매 의사 없습니다. 귀 덮개를 주문했는데 오배송으로 오지 않아서 당황했는데 문의 글도 불친절 해서 서비스가 안 좋은 것 같습니다. 설명서 대로 해도 매직이 잘 안 되는 것 같습니다. 미용실에서 하는 것이 더 좋은 것 같아요. 남자 친구가 머리를 보더니 실망한 표정이 가득합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트 1개",
+    "ReviewScore": "4",
+    "Syllable": "219",
+    "Word": "57",
+    "RDate": "20161011",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량도 적어서 다음에 재사용도 불가능합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결이 너무 상해서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "매직이 잘 안 되는 것 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "미용실에서 하는 것이 더 좋은 것 같아요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768365",
+    "RawText": "브랜드가 좋아서 상품을 사용했는데 냄새가 너무 독하고 머릿결이 완전 푸석해졌습니다. 그동안 사용했던 다른 제품이 더 좋은 것 같습니다. 앞으로는 이 제품을 사용하지 않을 것 같습니다. 그리고 눈 따가움이 너무 심합니다. 자극이 있어서 한 번 사용하고 안 쓰고 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트 1개",
+    "ReviewScore": "3",
+    "Syllable": "150",
+    "Word": "38",
+    "RDate": "20161012",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새가 너무 독하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결이 완전 푸석해졌습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "눈 따가움이 너무 심합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "자극이 있어서 한 번 사용하고 안 쓰고 있습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768367",
+    "RawText": "파마 후에 머릿결이 상했어요. 혼자 파마하기 너무 불편하고 번거롭네요. 담에는 미용실에서 하려구요. 배송은 빨랐어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트 1개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "14",
+    "RDate": "20161019",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "파마 후에 머릿결이 상했어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "혼자 파마하기 너무 불편하고 번거롭네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768371",
+    "RawText": "머릿결이 부드럽지 않고 가성비가 없습니다. 양도 적어서 사용하기 좋지 않아요. 앞으로는 미용실 가서 해야겠습니다. 셀프 매직은 좋지 않습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트 1개",
+    "ReviewScore": "3",
+    "Syllable": "79",
+    "Word": "18",
+    "RDate": "20161030",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결이 부드럽지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비가 없습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 적어서 사용하기 좋지 않아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768372",
+    "RawText": "긴 머리인데다가 양이 넉넉하지 않아서 그런지 한 개로 두 번은 못하겠네요. 혼자 펌하기 쉽지 않아요. 그냥 미용실에 가서 하는 게 낫겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트 1개",
+    "ReviewScore": "4",
+    "Syllable": "78",
+    "Word": "21",
+    "RDate": "20161101",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "긴 머리인데다가 양이 넉넉하지 않아서 그런지 한 개로 두 번은 못하겠네요. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "혼자 펌하기 쉽지 않아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768373",
+    "RawText": "구성품이 너무 쓸모 없는 것만 와서 아쉽습니다. 배송도 너무 느린 것 같습니다. 배송만 약간 더 빨랐으면 괜찮을 수도 있는데 정말 느린 것 같습니다. 제가 이 제품으로 셀프 매직을 했는데 정말 좋지 않아요. 머릿결이 너무 상해서 아쉽습니다. 인터넷에서 사용 방법을 찾아 봤는데 그대로 했는데 별로네요. 가격도 비싼 편이라 추천하고 싶지 않습니다. 차라리 다른 제품 사서 하시길 바랍니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트 1개",
+    "ReviewScore": "4",
+    "Syllable": "216",
+    "Word": "56",
+    "RDate": "20161106",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성품이 너무 쓸모 없는 것만 와서 아쉽습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결이 너무 상해서 아쉽습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 비싼 편이라 추천하고 싶지 않습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768374",
+    "RawText": "생각보다 머리가 많이 상했어요. 미용실에서 하는 이유 알 것 같아요. 손상모라 더한것 같아요. 파마냄새도 심하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트 1개",
+    "ReviewScore": "1",
+    "Syllable": "64",
+    "Word": "15",
+    "RDate": "20161115",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "생각보다 머리가 많이 상했어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "파마냄새도 심하네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768375",
+    "RawText": "미용실 안 가고 집에서 해보려고 준비 했어요. 미용실 만큼 잘 안 펴지고 냄새도 좀 나는 것 같아요. 다음에는 미용실에 하기로 했어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트 1개",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "21",
+    "RDate": "20161115",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "미용실 만큼 잘 안 펴지고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 좀 나는 것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768378",
+    "RawText": "처음 사 보는 제품인데 품질이 별로라 괜히 샀습니다. 전문가가 아니고 혼자 하는 매직이라 잘 펴지지 않았습니다. 미용실 가면 더 좋았을 것 같네요. 셀프 매직 제품으로 추천 하고 싶지 않습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트 1개",
+    "ReviewScore": "5",
+    "Syllable": "108",
+    "Word": "29",
+    "RDate": "20170121",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 별로라 괜히 샀습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "매직이라 잘 펴지지 않았습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "미용실 가면 더 좋았을 것 같네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768449",
+    "RawText": "워낙 유명한 제품이라 가격이 비싸도 한번 사봤어요. 생각보다 혼자 매직하려니 불편하고 번거롭더라구요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트 1개",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "12",
+    "RDate": "20160823",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "유명한 제품이라 가격이 비싸도 한번 사봤어요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "생각보다 혼자 매직하려니 불편하고 번거롭더라구요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768450",
+    "RawText": "배송도 너무 느려서 아쉽습니다. 다른 브랜드가 더 품질이 좋은 것 같네요. 가격도 비싸서 아쉬웠습니다. 재구매는 안 할 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트 1개",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "19",
+    "RDate": "20160405",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "다른 브랜드가 더 품질이 좋은 것 같네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 비싸서 아쉬웠습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768452",
+    "RawText": "약 바르는 빗을 비닐캡 안에 넣어 주셔서 비닐캡이 구멍이 나서 사용 못했네요. 머릿결은 좀 차분해졌는데 미용실만한 효과는 없었어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트 1개",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "18",
+    "RDate": "20160602",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "머릿결은 좀 차분해졌는데 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "미용실만한 효과는 없었어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768453",
+    "RawText": "효과가 안 좋은 것 같습니다. 냄새가 너무 심하게 납니다. 머리가 잘 안 펴져서 아쉽습니다. 곱슬 머리인데 매직이 잘 안 되었습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트 1개",
+    "ReviewScore": "4",
+    "Syllable": "74",
+    "Word": "20",
+    "RDate": "20160426",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과가 안 좋은 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새가 너무 심하게 납니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "머리가 잘 안 펴져서 아쉽습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "곱슬 머리인데 매직이 잘 안 되었습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768455",
+    "RawText": "미용실에서 쓰던 사이즈보다 작은 것 같습니다. 혼자 사용하는 제품인데 용량이 너무 작은 것 같아요. 다른 제품 새로 사는 것이 좋을 것 같습니다. 괜히 샀습니다. 일본 제품 안 쓰고 싶어서 일단 사용을 했는데 머릿결도 많이 상해서 마음이 아픕니다. 빨리 좋은 국산 제품이 개발이 되면 좋을 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트 1개",
+    "ReviewScore": "5",
+    "Syllable": "169",
+    "Word": "46",
+    "RDate": "20160430",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량이 너무 작은 것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결도 많이 상해서 마음이 아픕니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "미용실에서 쓰던 사이즈보다 작은 것 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768462",
+    "RawText": "셀프로 집에서 해도 좋을 것 같아 사서 해봤는데 머리가 너무 상했고 파마가 잘 안돼서 머릿결이 차분해지지도 않았어요. 다시는 안 해야겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트 1개",
+    "ReviewScore": "1",
+    "Syllable": "78",
+    "Word": "20",
+    "RDate": "20160522",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머리가 너무 상했고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "파마가 잘 안돼서 머릿결이 차분해지지도 않았어요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768467",
+    "RawText": "미용실에서 매직 하려면 15만원 내야 해서 셀프로 해보자 하고 샀는데 머리가 잘 펴지지 않네요. 원래 심한 곱슬이라 기대도 안 했지만 매직이 너무 잘 안 되어서 아쉽습니다. 머릿결도 많이 상했습니다. 동생한테 부탁해서 발랐는데 1제 바르는 시간이 너무 오래 걸려서 사용하기 불편한 것 같습니다. 고데기로 열심히 펴고 중화제도 했는데 괜히 고생 했습니다. 차라리 미용실에 가서 하는 편이 좋은 것 같습니다. 가격도 저렴한 편은 아닙니다. 추천 하지 않아요. ",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트 1개",
+    "ReviewScore": "5",
+    "Syllable": "255",
+    "Word": "65",
+    "RDate": "20160609",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "머리가 잘 펴지지 않네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "매직이 너무 잘 안 되어서 아쉽습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결도 많이 상했습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "1제 바르는 시간이 너무 오래 걸려서 사용하기 불편한 것 같습니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴한 편은 아닙니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768472",
+    "RawText": "가늘고 상한 머리카락이라서 구입 후 조심스럽게 사용했어요. 1제 바르고 빗질하지 않고 10분 있다가 미온수로 헹구고 찬바람에 말렸더니 엄청 잘 펴졌어요. 이때부터 기대하며 고데기로 펴고 2제 바르고 조금 있다가 린스로 헹구고 찬바람 말렸어요. 미용실 보다 시간도 절약되고 가격도 저렴하게 할 수 있어서 만족했네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트 1개",
+    "ReviewScore": "5",
+    "Syllable": "175",
+    "Word": "42",
+    "RDate": "20160705",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "1제 바르고 빗질하지 않고 10분 있다가 미온수로 헹구고 찬바람에 말렸더니 엄청 잘 펴졌어요. ",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "미용실 보다 시간도 절약되고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하게 할 수 있어서 만족했네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "768474",
+    "RawText": "빠른배송 너무 감사해요. 머리가 부시시해서 매직을 가끔씩 해줘야 차분해지는대요. ㅇㅇㅇ를 처음으로 써봤는데 머리카락이 좀 상했어요. 파마도 잘 나오진 않았네요. 셀프로 하는거라 불편하고 힘들어서 제대로 못했어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트 1개",
+    "ReviewScore": "4",
+    "Syllable": "118",
+    "Word": "25",
+    "RDate": "20170325",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머리카락이 좀 상했어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "파마도 잘 나오진 않았네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "셀프로 하는거라 불편하고 힘들어서 제대로 못했어요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768475",
+    "RawText": "아이 부분매직 하려고 주문했어요. 숱도 많고 귀찮아서 대충하고 망치면 미용실 보내려고 했는데 너무 잘 나왔네요. 약 바르고 헹구고 매직하고 중화하고 샴푸해도 한시간이면 충분하니 시간도 많이 절약됩니다. 그런데도 생각보다 훨씬 잘 나오네요. 약에 영양제도 섞어서 사용했더니 머릿결도 좋아졌어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트 1개",
+    "ReviewScore": "5",
+    "Syllable": "163",
+    "Word": "37",
+    "RDate": "20170328",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "숱도 많고 귀찮아서 대충하고 망치면 미용실 보내려고 했는데 너무 잘 나왔네요. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "약 바르고 헹구고 매직하고 중화하고 샴푸해도 한시간이면 충분하니 시간도 많이 절약됩니다. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "생각보다 훨씬 잘 나오네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "약에 영양제도 섞어서 사용했더니 머릿결도 좋아졌어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "768487",
+    "RawText": "전문가용이라 그런지 좋은 것 같아요. 정말 잘 펴지고 가격 대비 괜찮았어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트 1개",
+    "ReviewScore": "5",
+    "Syllable": "42",
+    "Word": "11",
+    "RDate": "20180908",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "정말 잘 펴지고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 대비 괜찮았어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "768496",
+    "RawText": "미용실 가면 너무 비싸서 앞머리 정도는 혼자 해보려고 주문하게 되었어요. 근데 생각보다 머릿결이 좀 상했고 펌도 잘 안 나왔어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트 1개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "19",
+    "RDate": "20190430",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "생각보다 머릿결이 좀 상했고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "펌도 잘 안 나왔어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "768501",
+    "RawText": "앞머리용을 구입했는데 전체 다 해도 좋을 것 같았어요. 미용실에서 할 필요 없이 충분히 집에서 혼자 할 만 하네요. 스트레이트가 잘 펴져서 만족합니다. 친구도 구입해서 집에서 하겠다고 하네요. OOO 역시 마음에 드는 제품입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 시** 스트레이트 1개",
+    "ReviewScore": "5",
+    "Syllable": "128",
+    "Word": "32",
+    "RDate": "20170413",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "충분히 집에서 혼자 할 만 하네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "스트레이트가 잘 펴져서 만족합니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]

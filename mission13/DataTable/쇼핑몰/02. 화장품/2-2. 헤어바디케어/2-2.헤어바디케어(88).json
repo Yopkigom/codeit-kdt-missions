@@ -1,0 +1,3338 @@
+[
+  {
+    "Index": "780957",
+    "RawText": "어제 받아서 지금 머리를 감아봤습니다. 냄새부터 맡아보니 은은한 향이 나서 좋아요. 머리를 감을 때는 거의 무향이라 아쉬웠지만 조금만 사용했는데 거품이 풍성하게 잘 나고 머릿결이 부드러운 느낌이 나서 좋았어요. 중요한 탈모 개선 효과는 몇 달 더 사용해 봐야 알 것 같아요. 처음 사용해 본 느낌은 나쁘지 않았습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "177",
+    "Word": "46",
+    "RDate": "20210507",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새부터 맡아보니 은은한 향이 나서 좋아요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "머리를 감을 때는 거의 무향이라 아쉬웠지만",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "거품력",
+        "SentimentText": "조금만 사용했는데 거품이 풍성하게 잘 나고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결이 부드러운 느낌이 나서 좋았어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "탈모 개선 효과는 몇 달 더 사용해 봐야 알 것 같아요. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "780958",
+    "RawText": "나이가 들었는지 점점 탈모가 생기는 느낌이 들어서 어떤 탈모 샴푸가 좋을지 검색해 봤어요. 여러가지 검색하던 중 이 제품이 전성분도 훌륭하고 평도 좋아서 구매해 봤어요. 향은 민트향처럼 시원한 느낌이고, 성분이 좋아 거품은 많이 안 날 줄 알았는데, 의외로 양을 조금만 써도 풍성한 거품이 납니다. 헹구고 나면 시원해지는 청량감이 너무 좋습니다. 다 쓰면 재구매할게요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "206",
+    "Word": "52",
+    "RDate": "20210507",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분",
+        "SentimentText": "전성분도 훌륭하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 민트향처럼 시원한 느낌이고,",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "성분이 좋아",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "거품력",
+        "SentimentText": "풍성한 거품이 납니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "시원해지는 청량감이 너무 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "780961",
+    "RawText": "머릿결이 부드럽고 상큼한 느낌으로 샴푸하고 난 후에는 시원하고 상쾌한 기분이 듭니다. 머리를 감고 난 후에 한결 머리가 빠지는 것이 눈에 보이지 않아 만족스럽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "92",
+    "Word": "23",
+    "RDate": "20210506",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결이 부드럽고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "시원하고 상쾌한 기분이 듭니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "한결 머리가 빠지는 것이 눈에 보이지 않아",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "상큼한 느낌으로 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "780963",
+    "RawText": "ㅇㅇㅇ 샴푸 잘 받았습니다. 머리카락 빠짐 때문에 구매해봤는데요. 향이 좀 쎈것 같아서 아쉽네요. 그래도 사용해보고 탈모에 효과 있으면 계속 구매해보려구요.  여러가지 탈모샴푸 써 봤는데 아직 제대로 효과 본 제품은 없었어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "126",
+    "Word": "30",
+    "RDate": "20210506",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 좀 쎈것 같아서 아쉽네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "그래도 사용해보고 탈모에 효과 있으면 계속 구매해보려구요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "780964",
+    "RawText": "탈모라서 구매했습니다. 드라마틱한 효과는 오랫동안 사용해봐야 알것 같습니다. 시원한 멘톨향이 나면서 은은한 시원함이 느껴집니다. 거품은 잘납니다. 머리가 덜 빠졌으면 하는 마음으로 계속 사용하고 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "114",
+    "Word": "24",
+    "RDate": "20210506",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "드라마틱한 효과는 오랫동안 사용해봐야 알것 같습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "시원한 멘톨향이 나면서 은은한 시원함이 느껴집니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품은 잘납니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "머리가 덜 빠졌으면 하는 마음으로 계속 사용하고 있습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "780967",
+    "RawText": "ㅇㅇㅇ 샴푸 잘 받았네요. 배송도 빨랐어요. 종이로 박스와 테이핑 처리되어서 환경에도 도움이 되는 것 같네요. 사은품도 잘 받았고 스타벅스커피 쿠폰도 준다고 해서 좋네요. 여러가지로 잘 챙겨주셔서 감사합니다. 탈모방지 효과도 좋았으면 좋겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "136",
+    "Word": "31",
+    "RDate": "20210505",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품도 잘 받았고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "탈모방지 효과도 좋았으면 좋겠네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "780968",
+    "RawText": "몇일 사용해본 결과 저는 만족합니다.  거품도 잘나고 린스 안해도 머릿결이 뻣뻣하지 않아서 좋아요. 증정품으로 온 민감샴푸는 좀 더 뽀득거리는 세정감이네요. 탈모는 모르겠습니다. 재구매 하려구요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "109",
+    "Word": "24",
+    "RDate": "20210505",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품도 잘나고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "린스 안해도 머릿결이 뻣뻣하지 않아서 좋아요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "증정품으로 온 민감샴푸는 좀 더 뽀득거리는 세정감이네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "탈모는 모르겠습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "780970",
+    "RawText": "거품 많이 나서 좋고 3분 있다가 마사지하고 씻어내니 두피가 시원하고 개운한 느낌이 드네요. 머리카락도 덜 빠지는 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "18",
+    "RDate": "20210505",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품 많이 나서 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "두피가 시원하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "개운한 느낌이 드네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "머리카락도 덜 빠지는 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "780971",
+    "RawText": "40대 후반이 되면서 필요한 제품인 것 같아 주문했어요. 거품은 많이 나지 않지만 머리카락이 좀 덜 빠지는 느낌 들어서 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "19",
+    "RDate": "20210505",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품은 많이 나지 않지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "머리카락이 좀 덜 빠지는 느낌 들어서 좋네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "780979",
+    "RawText": "믿고 쓰는 제품입니다. 요새 머리가 많이 빠져서 샀습니다. 풍성한 거품 너무 좋습니다. 싼 가격에 너무 잘 산 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "19",
+    "RDate": "20210505",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "거품력",
+        "SentimentText": "풍성한 거품 너무 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "싼 가격에 너무 잘 산 것 같습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "780984",
+    "RawText": "탈모를 걱정하는 신랑에게 선물했습니다. 3분정도 방치하라고 알려줬습니다. 신랑은 시원한 느낌이 든다고 합니다. 좋은 효과를 기대해봅니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "76",
+    "Word": "15",
+    "RDate": "20210504",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "시원한 느낌이 든다고 합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "좋은 효과를 기대해봅니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "780989",
+    "RawText": "평이 좋아서 구매했습니다. 생각보다 거품이 잘 나지는 않습니다. 조금 더 써봐야 알겠지만 효과 있었으면 좋겠습니다. 효과 있으면 재구매 하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "82",
+    "Word": "19",
+    "RDate": "20210504",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품이 잘 나지는 않습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "조금 더 써봐야 알겠지만 효과 있었으면 좋겠습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과 있으면 재구매 하겠습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "780998",
+    "RawText": "유해성분도 없으면서 탈모증상도 완화된다고 해서 비싸지만 구입해봤습니다. 그런데 샴푸 후에 두피가 좀 가려워서 쓰기 망설여지네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "71",
+    "Word": "15",
+    "RDate": "20210503",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "비싸지만 구입해봤습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "샴푸 후에 두피가 좀 가려워서 쓰기 망설여지네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "유해성분도 없으면서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "780999",
+    "RawText": "저희 남편 머리카락이 많이 빠져 구입해봤어요. 기존에 사용하던 제품보다 머리가 뻣뻣하다고 해요. 유통기한도 짧은게 와서 왠지 빨리 써야 할 것 같아요. 탈모방지 효과는 더 써봐야 할 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "109",
+    "Word": "28",
+    "RDate": "20210503",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "기존에 사용하던 제품보다 머리가 뻣뻣하다고 해요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한도 짧은게 와서 왠지 빨리 써야 할 것 같아요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "탈모방지 효과는 더 써봐야 할 것 같습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "781005",
+    "RawText": "안전하게 배송 잘 받았어요. 이 샴푸 구매평이 좋아서 기대하고 구매했네요. 기분 좋은 상쾌한 향 덕분에 좋습니다. 사용감이 좋기를 기대합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "79",
+    "Word": "19",
+    "RDate": "20210503",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "기분 좋은 상쾌한 향 덕분에 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용감",
+        "SentimentText": "사용감이 좋기를 기대합니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "781007",
+    "RawText": "박스가 터져서 와서 내용물이 훼손 되었을 까봐 걱정했는데 다행히 잘 도착했습니다. 투명한 색상이고 거품은 완전 쫀쫀하고 샴푸 후 개운합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "19",
+    "RDate": "20210503",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "투명한 색상이고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품은 완전 쫀쫀하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "샴푸 후 개운합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "781008",
+    "RawText": "탈모때문에 이것저것 웬만한 샴푸는 다 써봤는데 이 제품은 처음 구입했습니다. 아직까지 정착할 수 있는 제품을 만나지 못했는데, 이 제품은 저에게 잘 맞았으면 좋겠습니다. 제가 좋아하는 향은 아니지만, 제발 효과만 있었으면 좋겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "130",
+    "Word": "31",
+    "RDate": "20210503",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "저에게 잘 맞았으면 좋겠습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "제가 좋아하는 향은 아니지만, ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과만 있었으면 좋겠습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "781010",
+    "RawText": "쓰고 있던 샴푸인데 행사 중이라 싸게 구입해서 좋았어요. 유해 성분이 없어서 좋아요. 너무 뻣뻣하지 않고 세정력도 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "17",
+    "RDate": "20210502",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "행사 중이라 싸게 구입해서 좋았어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "유해 성분이 없어서 좋아요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "너무 뻣뻣하지 않고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "세정력도 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "781012",
+    "RawText": "모발이 가늘고 많이 빠지는 것 같아서 구매했습니다. 같은 브랜드의 트리트먼트 쓰니 좋은 것 같아서 샴푸도 구매했습니다. 민트향이라 향이 시원합니다. 그리고 사용 후 개운해서 만족합니다. 마이크로바이옴등 좋은성분이 들어있어 두피에도 모발에 좋은 것 같습니다. ㅇㅇㅇ에서 만들었다니까 믿고 꾸준히 쓰려고요. 유통기한도 25년 5월5일까지로 넉넉해요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "192",
+    "Word": "41",
+    "RDate": "20210502",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "민트향이라 향이 시원합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "개운해서 만족합니다.  ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "마이크로바이옴등 좋은성분이 들어있어 두피에도 모발에 좋은 것 같습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두피보호",
+        "SentimentText": "두피에도 모발에 좋은 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "모발에 좋은 것 같습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한도 25년 5월5일까지로 넉넉해요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "781013",
+    "RawText": "ㅇㅇㅇ 초록 뚜껑이랑 연두색 민감 써봤는데 조금만 써도 크리미한 거품이 잘나고 머리카락이 많이 뻣뻣해지는 않아요. 아직까지는 두피에 빨간 뽀드락지도 안나서 좋아요. 연두색은 질감때문인지 ㅇㅇ랑 비슷해보이네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "116",
+    "Word": "25",
+    "RDate": "20210502",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "거품력",
+        "SentimentText": "조금만 써도 크리미한 거품이 잘나고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머리카락이 많이 뻣뻣해지는 않아요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "아직까지는 두피에 빨간 뽀드락지도 안나서 좋아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "781017",
+    "RawText": "구매후 3일정도 사용하고 후기 작성하는데요. 최근 들어 탈모가 심해지는것 같아서 탈모샴푸를 알아보게 됐어요. 그동안 그냥 일반샴푸만 사용하다가 탈모샴푸를 처음 써봐서 다른 제품과의 비교는 할 수 없지만 나름대로 느낌점을 써보는데요. 제형이 밀도가 높다는 느낌이 들었어요. 그리고 은은한 민트향이 너무 좋았네요. 앞으로 꾸준히 사용해봐야 효과를 볼 수 있겠지만 짧게나마 느낀점 작성해봅니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "217",
+    "Word": "49",
+    "RDate": "20210502",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 밀도가 높다는 느낌이 들었어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "은은한 민트향이 너무 좋았네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "꾸준히 사용해봐야 효과를 볼 수 있겠지만",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "781018",
+    "RawText": "괜찮을까 생각하고 구매했지만 생각보다는 별로인 듯 하네요. 샴푸만 하면 머리결이 별로예요. 향도 제가 안좋아하는 향이네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "15",
+    "RDate": "20210502",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "샴푸만 하면 머리결이 별로예요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 제가 안좋아하는 향이네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "781019",
+    "RawText": "배송은 빨리 왔습니다. 샴푸를 써보니 생각보다 거품도 잘나서 좋았습니다. 샴푸 후 느껴지는 향이 괜찮았어요. 사은품도 생각보다 용량이 커서 놀랐습니다. 머리감고 시원하네요. 여름에 쓰면 좋을 것 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "112",
+    "Word": "26",
+    "RDate": "20210502",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품도 잘나서 좋았습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 향이 괜찮았어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품도 생각보다 용량이 커서 놀랐습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "머리감고 시원하네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": " 여름에 쓰면 좋을 것 같아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "781021",
+    "RawText": "상쾌함이 너무 좋습니다. 머리가 많이 빠져서 구매했습니다. 써보고 효과가 있기를 기대 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "52",
+    "Word": "12",
+    "RDate": "20210501",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "상쾌함이 너무 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "써보고 효과가 있기를 기대 합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "781022",
+    "RawText": "탈모효과는 잘모르겠고 린스를 안해도 머리카락이 뻣뻣하지 않은정도긴 합니다. 린스하면 오히려 기름져서 안좋은듯 해요. 원래 샴푸만 쓰시던분들은 뻣뻣하지 않아 사용하기 괜찮을거같고 트리트먼트 쓰시던 사람들한테는 기름져서 잘 안맞을거 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "133",
+    "Word": "27",
+    "RDate": "20210501",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "탈모효과는 잘모르겠고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "린스를 안해도 머리카락이 뻣뻣하지 않은정도긴 합니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "원래 샴푸만 쓰시던분들은 뻣뻣하지 않아 사용하기 괜찮을거같고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "트리트먼트 쓰시던 사람들한테는 기름져서 잘 안맞을거 같습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "781025",
+    "RawText": "탈모방지에 좋다고 해서 사봤는데요. 사용해보니 머리 빠짐이 사용전이랑 크게 차이가 없네요. 가격은 일반샴푸보다 더 비싼데 탈모방지 효과는 없으니 좀 아깝다는 생각이 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "96",
+    "Word": "22",
+    "RDate": "20210501",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "사용해보니 머리 빠짐이 사용전이랑 크게 차이가 없네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가격은 일반샴푸보다 더 비싼데 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "탈모방지 효과는 없으니 좀 아깝다는 생각이 듭니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "781026",
+    "RawText": "일단 거품이 풍성하고 두피가 시원하며 5분 있다가 부드럽게 마시지 하고 씻어내면 두피가 개운하네요. 머리카락도 훨씬 풍성한 느낌이 드네요. 오늘 하나 더 주문하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "94",
+    "Word": "22",
+    "RDate": "20210501",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품이 풍성하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "두피가 시원하며",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "두피가 개운하네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "머리카락도 훨씬 풍성한 느낌이 드네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "781028",
+    "RawText": "쿠폰 적용으로 싼 가격에 구매해서 써볼 수 있어 좋습니다. 배송도 완전 만족합니다. 사용해보니 산뜻한 느낌이라 좋습니다. 효과도 기대가 됩니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "80",
+    "Word": "19",
+    "RDate": "20210501",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰 적용으로 싼 가격에 구매해서 써볼 수 있어 좋습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "산뜻한 느낌이라 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과도 기대가 됩니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "781031",
+    "RawText": "평이 좋아 엄마 드리려고 구매했습니다. 조금만 써도 거품이 쫀득하면서 풍성하게 나고 깨끗하게 씻기는 느낌이라고 하십니다. 꾸준히 써보고 좋으면 재구매 할게요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "88",
+    "Word": "20",
+    "RDate": "20210501",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품이 쫀득하면서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "거품력",
+        "SentimentText": "풍성하게 나고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "깨끗하게 씻기는 느낌이라고 하십니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "781032",
+    "RawText": "점점 가늘어지는 머리카락이 꽤 신경쓰이는 요즘 탈모 샴푸를 찾다가 이 제품으로 구매했습니다. 한 번 사용해서 아직 효과는 잘 모르겠습니다. 꾸준히 사용해서 효과 있기를 기대해 볼께요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "102",
+    "Word": "25",
+    "RDate": "20210501",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "한 번 사용해서 아직 효과는 잘 모르겠습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "꾸준히 사용해서 효과 있기를 기대해 볼께요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "781038",
+    "RawText": "샴푸가 순한 느낌입니다. 향도 시원하니 좋습니다. 탈모증상 완화에 도움이 된다고 해서 기대됩니다. 열심히 사용하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "14",
+    "RDate": "20210501",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "샴푸가 순한 느낌입니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 시원하니 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "탈모증상 완화에 도움이 된다고 해서 기대됩니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "781039",
+    "RawText": "요즘 머리 감을때마다 빠지는 머리카락이 늘어나 관리의 필요성이 느껴져 탈모방지샴푸를 알아보던 중 리뷰가 좋아서 구입해봤어요. 가격이 생각보다 비싸네요. 그래도 탈모개선 효과가 꼭 있었으면 좋겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "110",
+    "Word": "24",
+    "RDate": "20210430",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 생각보다 비싸네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "탈모개선 효과가 꼭 있었으면 좋겠네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "781043",
+    "RawText": "부모님 흰머리가 부담스러웠는데 굳이 미용실 안가도 되겠네요. 1번 감았는데 모발색이 갈색으로 변했어요. 염색효과 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "14",
+    "RDate": "20220829",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "1번 감았는데 모발색이 갈색으로 변했어요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색효과 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "781053",
+    "RawText": "5일쯤 되면 흰머리가 갈색으로 변하고 머릿결이 부드럽고 머리카락에서 윤기가 나는 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "51",
+    "Word": "12",
+    "RDate": "20220824",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "흰머리가 갈색으로 변하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결이 부드럽고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머리카락에서 윤기가 나는 것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "781054",
+    "RawText": "한 달 넘게 썼는데 염색처럼 되진 않지만 그래도 커버는 아주 조금 되어서 사용 중입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "49",
+    "Word": "14",
+    "RDate": "20220823",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색처럼 되진 않지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "커버는 아주 조금 되어서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "781059",
+    "RawText": "손톱에 까맣게 물들지만, 향도 좋고 머릿결도 부드러워지고 새치도 자연스럽게 물들어 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "51",
+    "Word": "11",
+    "RDate": "20220821",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "이염",
+        "SentimentText": "손톱에 까맣게 물들지만, ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결도 부드러워지고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "새치도 자연스럽게 물들어 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "781063",
+    "RawText": "한달이상 쓰고 있습니다. 새치가 그대로 드러나서 염색을 다시 했습니다. 고액을 들여 샀는데 너무 후회합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "1",
+    "Syllable": "60",
+    "Word": "14",
+    "RDate": "20220819",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "새치가 그대로 드러나서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "고액을 들여 샀는데 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "781078",
+    "RawText": "염색이 잘 되지 않는 것 같아요. 너무 오랫동안 원하는 색상이 나오지는 않습니다. 그래서 결국엔 미용실 갔다 왔습니다. 계속 사용해 보겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "80",
+    "Word": "20",
+    "RDate": "20220813",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색이 잘 되지 않는 것 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "원하는 색상이 나오지는 않습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "781079",
+    "RawText": "OO 샴푸 쓰고 있는데 흰머리 때문에 이 샴푸를 구매해 봤어요. 써보니 두피가 많이 가렵고 트러블이 생기네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "61",
+    "Word": "16",
+    "RDate": "20220813",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "두피가 많이 가렵고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "트러블이 생기네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "781082",
+    "RawText": "배송은 빠릅니다. OOO샴푸를 써봐서 믿고 주문했는데, 일단 향이 좋습니다. 염색이 되는거라 그런지 헹굴때 약간 머리결이 뻣뻣합니다. 염색약으로 염색할 때보단 덜 뻣뻣합니다. 신랑이 더 좋아합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "110",
+    "Word": "24",
+    "RDate": "20220810",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "헹굴때 약간 머리결이 뻣뻣합니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "염색약으로 염색할 때보단 덜 뻣뻣합니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "781084",
+    "RawText": "새치커버가 잘 안돼요. 거품이 검은색이라 욕실 바닥에 이염됩니다. 머리 앞부분은 세수하는 부분이라 색이 안 변해요. 한 개만 사서 다행입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "79",
+    "Word": "19",
+    "RDate": "20220808",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "새치커버가 잘 안돼요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "이염",
+        "SentimentText": "거품이 검은색이라 욕실 바닥에 이염됩니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "머리 앞부분은 세수하는 부분이라 색이 안 변해요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "781085",
+    "RawText": "또 구매하진 않을듯 싶습니다. 머릿결이 너무 뻣뻣해지는거 같습니다. 염색은 일주일동안 계속 사용해봐도 전혀 물들지 않아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "15",
+    "RDate": "20220808",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결이 너무 뻣뻣해지는거 같습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색은 일주일동안 계속 사용해봐도 전혀 물들지 않아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "781089",
+    "RawText": "짧은머리인데 염색 효과가 빠른 것 같습니다. 며칠만 사용해도 색상의 변화를 조금씩 확인할 수 있어요. 흰머리가 많아서 염색력의 기대감이 커져가요. 지속적으로 사용하려고 노력하는중입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "103",
+    "Word": "22",
+    "RDate": "20220804",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "짧은머리인데 염색 효과가 빠른 것 같습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "며칠만 사용해도 색상의 변화를 조금씩 확인할 수 있어요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "흰머리가 많아서 염색력의 기대감이 커져가요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "781090",
+    "RawText": "후기가 좋아서 의심 없이 구매했어요. 이 제품은 아직 사용한 지 얼마 되지 않아서 염색 효과는 좀 더 써봐야 알 것 같습니다. 여러 번 사용했을 때 새치 염색이 잘 됐으면 좋겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "101",
+    "Word": "30",
+    "RDate": "20220804",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "아직 사용한 지 얼마 되지 않아서 염색 효과는 좀 더 써봐야 알 것 같습니다. ",
+        "SentimentWord": "14",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "새치 염색이 잘 됐으면 좋겠어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "781098",
+    "RawText": "3주간 매일 사용했습니다. 뿌리 염색하는 사람에게는 효과 없습니다. 흰머리가 이제 막 나기 시작해서 어쩌다 몇 개씩 보이는 사람들에게는 효과가 좋을지도 모르겠네요. 제품 사용 설명에서 시키는대로 다 했는데 그냥 금색 정도만 착색되었습니다. 게다가 흰머리 부분만이 아니라 검게 염색한 부분에도 착색이 되니 최악입니다. 흰머리는 금색이 되고 염색모는 더 진해져서 색 차이가 확연히 나니 난감합니다. 흰머리가 새로 올라와도 자연스럽게 보이도록 신중하게 색상을 골라서 염색한 상태였는데 이 샴푸 때문에 밸런스가 깨져서 염색 자체를 새로 해야 하게 됐습니다. 다시 구매할 일은 없을 것 같네요. 머리 감고 나면 두피가 시원하긴 하지만 시원하려고 산 게 아니라서 장점으로 느끼지 않습니다. 가벼운 염색으로 염색 주기를 늘려 준다더니 이런 식이면 효과 없습니다. 원래 하던대로 염색하고 이거 살 돈으로 미용실 트리트먼트라도 한 번 더 받는 게 이득이겠습니다. 헛돈 썼네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "481",
+    "Word": "118",
+    "RDate": "20220801",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "뿌리 염색하는 사람에게는 효과 없습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "흰머리가 이제 막 나기 시작해서 어쩌다 몇 개씩 보이는 사람들에게는 효과가 좋을지도 모르겠네요.",
+        "SentimentWord": "13",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "그냥 금색 정도만 착색되었습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "흰머리 부분만이 아니라 검게 염색한 부분에도 착색이 되니 최악입니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "흰머리는 금색이 되고 염색모는 더 진해져서 색 차이가 확연히 나니 난감합니다.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "머리 감고 나면 두피가 시원하긴 하지만",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "이런 식이면 효과 없습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "헛돈 썼네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "781102",
+    "RawText": "언니가 써보고 괜찮다고 해서 다른 염색샴푸에서 쓰다가 이 제품으로 구매했어요. 염색 효과는 좀 더 사용해야 알 것 같네요. 탈모방지 효과도 기대해 봅니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "86",
+    "Word": "22",
+    "RDate": "20220730",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색 효과는 좀 더 사용해야 알 것 같네요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "탈모방지 효과도 기대해 봅니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "781103",
+    "RawText": "혹시나 해서 단품한개 주문하길 잘한거 같아요. 흰머리 많으면 염색효과 별로네요. 머리결도 뻣뻣해 지고 염색 잘 안돼요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "1",
+    "Syllable": "65",
+    "Word": "16",
+    "RDate": "20220730",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "흰머리 많으면 염색효과 별로네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머리결도 뻣뻣해 지고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색 잘 안돼요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "781105",
+    "RawText": "몇 번 사용하지 않아서 새치 커버 효과는 아직 모르겠지만 일단 순하네요. 단 사용 시 손에 이염되니 장갑은 하시는 것이 좋을 듯합니다. 사용 후 손톱에 잠시 물이 들었어요. 금방 제거되기는 하지만 외출할 때 신경 쓰이니까요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "125",
+    "Word": "34",
+    "RDate": "20220728",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "몇 번 사용하지 않아서 새치 커버 효과는 아직 모르겠지만",
+        "SentimentWord": "9",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "순하네요.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "이염",
+        "SentimentText": "사용 시 손에 이염되니 장갑은 하시는 것이 좋을 듯합니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "이염",
+        "SentimentText": "사용 후 손톱에 잠시 물이 들었어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "클렌징/제거력",
+        "SentimentText": "금방 제거되기는 하지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "781111",
+    "RawText": "7일 사용해보고 상품평 남기네요. 효과 있어요. 직원들이 염색했냐고 물어볼 정도로 염색이 잘 됩니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "56",
+    "Word": "13",
+    "RDate": "20220727",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과 있어요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "직원들이 염색했냐고 물어볼 정도로 염색이 잘 됩니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "781121",
+    "RawText": "몇 번 사용했는데 부작용이 너무 심해서 사용 안 하고 있어요. 머리의 피부뿐만 아니라 얼굴까지 붉은 반점이 생기고 가려워요. 반품 처리하고 환불받았습니다. 구입하기 전에 충분히 비교도 하고 고민 끝에 구입했는데 후회됩니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "2",
+    "Syllable": "124",
+    "Word": "30",
+    "RDate": "20220722",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "부작용이 너무 심해서 사용 안 하고 있어요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "머리의 피부뿐만 아니라 얼굴까지 붉은 반점이 생기고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "가려워요. ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "781128",
+    "RawText": "염색약이 아니라서 염색과 같은 효과를 기대하시면 실망하실 것 같아요. 살짝 색을 변하게 해줘서 염색 기간이 늘어나는 용도로는 쓸 만합니다. 한 달에 한 번 하던 염색을 두 달에 한 번으로 염색 횟수가 줄어드니 나쁘진 않아요. 다만 처음에는 몰랐는데 오래 쓰니 머릿결이 푸석해지네요. 그래서 지금은 두피와 새치 부분은 이 샴푸를 쓰고 모발 끝은 트리트먼트로 관리합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "205",
+    "Word": "53",
+    "RDate": "20220720",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색약이 아니라서 염색과 같은 효과를 기대하시면 실망하실 것 같아요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "살짝 색을 변하게 해줘서 염색 기간이 늘어나는 용도로는 쓸 만합니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "한 달에 한 번 하던 염색을 두 달에 한 번으로 염색 횟수가 줄어드니 나쁘진 않아요. ",
+        "SentimentWord": "15",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결이 푸석해지네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "781139",
+    "RawText": "사용했더니 손톱이 까매지고 수건에도 묻어나고 머리카락 색은 그대로고 그렇네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "3",
+    "Syllable": "43",
+    "Word": "9",
+    "RDate": "20220714",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "이염",
+        "SentimentText": "손톱이 까매지고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "이염",
+        "SentimentText": "수건에도 묻어나고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "머리카락 색은 그대로고 그렇네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "781151",
+    "RawText": "하루 정도 썼는데 효과는 조금 더 써봐야 알 듯하네요. 염색이 잘 되기를 바라면서 꾸준히 써보겠습니다. 향은 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "17",
+    "RDate": "20220708",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과는 조금 더 써봐야 알 듯하네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색이 잘 되기를 바라면서 꾸준히 써보겠습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "781165",
+    "RawText": "샴푸를 꼼꼼히 하게 되니 머릿결도 좋아지고 가려움도 없어집니다. 꾸준히 사용해서 염색 안 하고도 흰머리 커버할 수 있어 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "18",
+    "RDate": "20220702",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결도 좋아지고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두피보호",
+        "SentimentText": "가려움도 없어집니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색 안 하고도 흰머리 커버할 수 있어 좋습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "781174",
+    "RawText": "딸이랑 같이 썼는데 한달정도 사용했는데 비추예요. 딸은 두피 다뒤집어지고 전 머리색이 얼룩덜룩하게 나왔어요. 그냥 미용실가는게 편할 듯 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "2",
+    "Syllable": "80",
+    "Word": "18",
+    "RDate": "20220630",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "딸은 두피 다뒤집어지고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "전 머리색이 얼룩덜룩하게 나왔어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "781175",
+    "RawText": "부작용이 심하네요. 샴푸 후 몇 분 기다리는데 두피가 따가워요. 사타구니에도 털이 흰색이어서 사용했는데 피부가 다 헐었어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "1",
+    "Syllable": "69",
+    "Word": "16",
+    "RDate": "20220630",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "부작용이 심하네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "샴푸 후 몇 분 기다리는데 두피가 따가워요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "피부가 다 헐었어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "781176",
+    "RawText": "제품은 괜찮은 듯합니다. 생각보다 거품도 잘나고 머리 밑도 시원하고 하지만 염색이 되는지 아직 잘 모르겠습니다. 염색력은 조금 더 사용해봐야 할 듯합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "86",
+    "Word": "21",
+    "RDate": "20220629",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "거품력",
+        "SentimentText": "생각보다 거품도 잘나고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "머리 밑도 시원하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색이 되는지 아직 잘 모르겠습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색력은 조금 더 사용해봐야 할 듯합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "781181",
+    "RawText": "염색 잘 돼요. 흰 새치가 완벽히 커버되진 않지만 경계가 선명하게 안 보이게 염색 돼서 보기에 두드러지지 않으니 마음이 편합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "19",
+    "RDate": "20220626",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색 잘 돼요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "흰 새치가 완벽히 커버되진 않지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "경계가 선명하게 안 보이게 염색 돼서",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "781192",
+    "RawText": "블랙으로 염색되는건 아니고 살짝 갈변하는 정도입니다. 염색효과가 별로라 새치가 많으면 염색해야할것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "12",
+    "RDate": "20220622",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "블랙으로 염색되는건 아니고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "살짝 갈변하는 정도입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색효과가 별로라 새치가 많으면 염색해야할것 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "781197",
+    "RawText": "아직은 효과를 모르겠고 남편은 머리에 각질이 생긴다고 합니다. 그래도 저는 한통은 끝까지 사용해볼까 하네요,",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "60",
+    "Word": "14",
+    "RDate": "20220621",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "아직은 효과를 모르겠고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "두피보호",
+        "SentimentText": "머리에 각질이 생긴다고 합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "781199",
+    "RawText": "5월 말에 구입해서 바로 사용했는데 지금 거의 한 달 정도 되어 가는데 왜 샀나 싶습니다. 머릿결만 뻣뻣하고 새치 커버도 되는 것 같지 않습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "81",
+    "Word": "23",
+    "RDate": "20220621",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결만 뻣뻣하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "새치 커버도 되는 것 같지 않습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "781207",
+    "RawText": "아직 사용한지 일주일 밖에 안돼서 색의 변화는 모르겠는데 트리트먼트 안하면 머리 감을 때 너무 뻑뻑합니다.  2주 넘게 사용해보고 더 내용 추가 예정입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "87",
+    "Word": "22",
+    "RDate": "20220618",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "아직 사용한지 일주일 밖에 안돼서 색의 변화는 모르겠는데",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "트리트먼트 안하면 머리 감을 때 너무 뻑뻑합니다.  ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "781210",
+    "RawText": "OOO 블랙 샴푸를 구입해 한 달 동안 샴푸를 사용해 봤어요. 머리색이 까만색으로 변하지 않고 갈색으로 조금 변해서 염색 효과는 별로예요. 머리 감고 기다려야 되니 사용하기도 불편하고 반품하고 싶네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "1",
+    "Syllable": "112",
+    "Word": "28",
+    "RDate": "20220617",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "머리색이 까만색으로 변하지 않고 갈색으로 조금 변해서 염색 효과는 별로예요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "머리 감고 기다려야 되니 사용하기도 불편하고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "781213",
+    "RawText": "흰머리가 많아 희망을 갖고 구매했는데 이틀에 한번씩 한달반 가까이 사용했는데도 아주 살짝 노란빛이 들었을 정도네요. 그대신 다른 분들처럼 손톱주변이 까매지는 현상도 별로 없습니다. 너무 실망이지만 린스도 구매해 계속 사용하려합니다. 탈모라 탈모에 좋은 이 제품 외에는 방법이 없어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "158",
+    "Word": "37",
+    "RDate": "20220616",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "이틀에 한번씩 한달반 가까이 사용했는데도 아주 살짝 노란빛이 들었을 정도네요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "이염",
+        "SentimentText": "다른 분들처럼 손톱주변이 까매지는 현상도 별로 없습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "탈모라 탈모에 좋은 이 제품 외에는 방법이 없어요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "781215",
+    "RawText": "남편이 사용하는데 가격은 비싸지만 효과는 있는 것 같아요. 흰머리가 약간 연한 갈색으로 변하고 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "14",
+    "RDate": "20220615",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 비싸지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과는 있는 것 같아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "흰머리가 약간 연한 갈색으로 변하고 있습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "781216",
+    "RawText": "가격은 너무나 비싸지만 비싼 만큼 기능이 좋습니다. 염색과 탈모 증상 완화까지 돼요. 아쉽지만 가격이 너무 비싼 것이 단점이네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "18",
+    "RDate": "20220615",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 너무나 비싸지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "비싼 만큼 기능이 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색과 탈모 증상 완화까지 돼요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "탈모 증상 완화까지 돼요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 너무 비싼 것이 단점이네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "781217",
+    "RawText": "3주째 사용하고 있는데 흰머리카락은 없어 졌는데 금색으로 염색이 됩니다. 까만색으로 변하려면 시간이 더 필요한건지는 모르겠습니다. 어쨌든 만족해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "82",
+    "Word": "17",
+    "RDate": "20220615",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "흰머리카락은 없어 졌는데 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "금색으로 염색이 됩니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "까만색으로 변하려면 시간이 더 필요한건지는 모르겠습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "781218",
+    "RawText": "아빠가 사용해보고 싶다고 해서 주문했는데 아무래도 트리트먼트와 같이 사용하지 않으면 색이 진해지는 시간이 오래 걸리는 듯하네요. 효과도 생각보다 좋지 않고 샴푸 특유의 향이 강해서 아쉽고 3분 방치하고 있어야 해서 불편하며 샴푸하고 나오면 화장실에 안 좋은 냄새가 가득하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "154",
+    "Word": "37",
+    "RDate": "20220615",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "색이 진해지는 시간이 오래 걸리는 듯하네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과도 생각보다 좋지 않고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "샴푸 특유의 향이 강해서 아쉽고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "3분 방치하고 있어야 해서 불편하며",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "샴푸하고 나오면 화장실에 안 좋은 냄새가 가득하네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "781223",
+    "RawText": "한 달 이상 사용해 봤는데 염색력이 생각보다 좋지 않아요. 한 달 지나서 결국에는 염색했습니다. 염색력이 좋지는 않지만 염색 횟수는 줄어드는 거 같아요. 단 샴푸하고 3분 방치 시에는 염색 효과가 없고 10분 방치하니 염색 횟수가 줄어드는 것 같습니다. 손톱에 물이 들어요. 어느 순간 손톱 밑이 때가 낀 것처럼 변합니다. 손 보이기 창피해요. 이염 때문에 장갑 끼고 샴푸해야 할 듯합니다. 이거 다 사용하면 더는 사용 안 할 거예요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "243",
+    "Word": "66",
+    "RDate": "20220613",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "한 달 이상 사용해 봤는데 염색력이 생각보다 좋지 않아요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색력이 좋지는 않지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색 횟수는 줄어드는 거 같아요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "샴푸하고 3분 방치 시에는 염색 효과가 없고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "10분 방치하니 염색 횟수가 줄어드는 것 같습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "이염",
+        "SentimentText": "손톱에 물이 들어요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "이염",
+        "SentimentText": "어느 순간 손톱 밑이 때가 낀 것처럼 변합니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "이염",
+        "SentimentText": "이염 때문에 장갑 끼고 샴푸해야 할 듯합니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "781238",
+    "RawText": "새치머리가 3번 정도 사용하니 맑은 갈색으로 색이 바뀝니다. 거품도 풍부하게 나고 세정력도 마음에 들어요. 더 사용 후에 색이 더 진해지길 기대합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "84",
+    "Word": "21",
+    "RDate": "20220609",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "새치머리가 3번 정도 사용하니 맑은 갈색으로 색이 바뀝니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품도 풍부하게 나고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "세정력도 마음에 들어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "더 사용 후에 색이 더 진해지길 기대합니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "781244",
+    "RawText": "장기 사용을 하려 샀는데 색이 정말 연하게 염색 되어 아쉽네요. 특히 뿌리 부분은 염색이 잘 안 됩니다. 역시나 미용실 가야겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "20",
+    "RDate": "20220607",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "색이 정말 연하게 염색 되어 아쉽네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "뿌리 부분은 염색이 잘 안 됩니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "781251",
+    "RawText": "이 샴푸 덕분에 2달째 염색 안하고 있습니다. 지금 머리색이랑 비슷하진 않지만 계속 쓰다 보면 갈색으로 변할것 같습니다. 써보길 정말 잘한 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "84",
+    "Word": "22",
+    "RDate": "20220605",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "이 샴푸 덕분에 2달째 염색 안하고 있습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "지금 머리색이랑 비슷하진 않지만 계속 쓰다 보면 갈색으로 변할것 같습니다. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "781259",
+    "RawText": "2일에 한번씩 일주일이 지났는데 가족들은 염색의 변화가 없다고 합니다. 제가 봤을때 흰색이 갈색으로 조금 바뀐 것 같습니다. 염색 수준은 아니네요. 자연스럽게 새치커버가 되어 흰머리 노출정도만 되어도 좋겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "118",
+    "Word": "27",
+    "RDate": "20220605",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "2일에 한번씩 일주일이 지났는데 가족들은 염색의 변화가 없다고 합니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "제가 봤을때 흰색이 갈색으로 조금 바뀐 것 같습니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색 수준은 아니네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "자연스럽게 새치커버가 되어 흰머리 노출정도만 되어도 좋겠습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "781260",
+    "RawText": "머릿결이 좋아지고 머리도 덜 빠지는 듯하네요. 염색 효과는 당장은 모르겠는데 꾸준히 써보면 알 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "15",
+    "RDate": "20220604",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결이 좋아지고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "머리도 덜 빠지는 듯하네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색 효과는 당장은 모르겠는데 꾸준히 써보면 알 것 같아요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "781267",
+    "RawText": "사용한 지 15회 정도 된 거 같은데, 갈색빛이 돌긴 하나 약해서 염색은 계속 해야할 것 같습니다. 간편해서 사용하기는 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "19",
+    "RDate": "20220602",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "갈색빛이 돌긴 하나 약해서 염색은 계속 해야할 것 같습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "간편해서 사용하기는 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "781268",
+    "RawText": "염색되는 다른 샴푸를 사용하다가 이 제품이 나왔다는 소식을 듣고 바로 주문했습니다. 사용감은 다른 제품과 비슷하고 효과도 비슷한 거 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "19",
+    "RDate": "20220602",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사용감",
+        "SentimentText": "사용감은 다른 제품과 비슷하고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과도 비슷한 거 같습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "781270",
+    "RawText": "염색하기 싫은데 이젠 염색 안 하면 안 되어서 사 봤습니다. 3주 정도 써보겠습니다. 머릿결이 부드럽지는 않습니다. 기존에 쓰던 샴푸 보다 머리카락이 심하게 빠집니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "93",
+    "Word": "23",
+    "RDate": "20220602",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결이 부드럽지는 않습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "기존에 쓰던 샴푸 보다 머리카락이 심하게 빠집니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "781273",
+    "RawText": "한 번 사용해 보고 좋아서 재구매했습니다. 염색 성분이 두피 또는 눈에 걱정은 되지만, 몇 번 사용하지 않아도 눈에 띄게 흰머리가 감추어지는 느낌이 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "88",
+    "Word": "23",
+    "RDate": "20220601",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분",
+        "SentimentText": "염색 성분이 두피 또는 눈에 걱정은 되지만,",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "몇 번 사용하지 않아도 눈에 띄게 흰머리가 감추어지는 느낌이 좋습니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "781277",
+    "RawText": "새치가 갑자기 늘어서 구매했어요. 샴푸 후 방치했다가 헹구고 있어요. 새치커버 및 탈모완화에 도움 된다 하니 기대됩니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "16",
+    "RDate": "20220601",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "새치커버 및 탈모완화에 도움 된다 하니 기대됩니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "탈모완화에 도움 된다 하니 기대됩니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "781280",
+    "RawText": "사용 중인데 흰머리가 잘 보이지 않을 정도는 되네요. 샴푸 후 기다리는 시간이 좀 있어서 사용하기 번거롭네요. 매일 사용하는데 효과는 있는 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "85",
+    "Word": "22",
+    "RDate": "20220531",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "사용 중인데 흰머리가 잘 보이지 않을 정도는 되네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "샴푸 후 기다리는 시간이 좀 있어서 사용하기 번거롭네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "매일 사용하는데 효과는 있는 것 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "781283",
+    "RawText": "OOO 쓰다가 넘어왔는데, 머리카락이 덜 빠지면 좋겠습니다. 향은 여성스러운 향이라 적응해야 할 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "14",
+    "RDate": "20220530",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "머리카락이 덜 빠지면 좋겠습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 여성스러운 향이라 적응해야 할 것 같아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "781286",
+    "RawText": "생각보다 염색 효과는 없네요. 다만 염색 기간이 늘면서 염색 횟수가 줄어드는 역할은 하는 거 같습니다. 그리고 머리가 좀 뻣뻣해져요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "19",
+    "RDate": "20220529",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "생각보다 염색 효과는 없네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색 기간이 늘면서 염색 횟수가 줄어드는 역할은 하는 거 같습니다",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머리가 좀 뻣뻣해져요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "781287",
+    "RawText": "한달 정도 써본 결과 정말 미세하게 갈색으로 변해갑니다. 세정력은 아쉬움이 남아요. 손톱 가장자리가 같이 물들었습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "66",
+    "Word": "15",
+    "RDate": "20220529",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "정말 미세하게 갈색으로 변해갑니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "세정력은 아쉬움이 남아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "이염",
+        "SentimentText": " 손톱 가장자리가 같이 물들었습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "781290",
+    "RawText": "첫 사용부터 새치가 갈색으로 변한 것이 느껴지고 1주일 되었는데 새치가 갈색으로 확실하게 바뀌었습니다. 장점이라면 효과가 빠르다는 거고 단점이라면 검은 머리도 살짝 갈색으로 변한다는 것입니다. 향도 좋은 편이고 자극도 강한 느낌은 아니었습니다. 가격이 좀 비싼 편이나 전반적으로 만족해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "161",
+    "Word": "37",
+    "RDate": "20220528",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "첫 사용부터 새치가 갈색으로 변한 것이 느껴지고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "1주일 되었는데 새치가 갈색으로 확실하게 바뀌었습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "장점이라면 효과가 빠르다는 거고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "단점이라면 검은 머리도 살짝 갈색으로 변한다는 것입니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋은 편이고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 좀 비싼 편이나",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "자극도 강한 느낌은 아니었습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "781294",
+    "RawText": "샴푸만으로 염색된다고 해서 써보았는데 염색약 성분이 있다 해서 실망했어요. 염색은 약한 갈색으로 되는데 흰머리가 많은 분은 염색 효과가 약한 거 같아요. 새치 커버 정도는 괜찮은 거 같은데 성분 때문에 재구매는 안 할 거 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "128",
+    "Word": "34",
+    "RDate": "20220528",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "성분",
+        "SentimentText": "염색약 성분이 있다 해서 실망했어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색은 약한 갈색으로 되는데 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "흰머리가 많은 분은 염색 효과가 약한 거 같아요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "새치 커버 정도는 괜찮은 거 같은데",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "성분 때문에 재구매는 안 할 거 같아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "781303",
+    "RawText": "몇 번 사용한 지 안 되어 그런지 아직 염색이 된다는 느낌은 들지 않네요. 머리를 감으니 검정색 거품이 나긴 하네요. 거품도 풍성하게 나오네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "80",
+    "Word": "22",
+    "RDate": "20220526",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "아직 염색이 된다는 느낌은 들지 않네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품도 풍성하게 나오네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "781304",
+    "RawText": "지금 사용한지 일주일정도가 지났는데 새치커버 효과가 있는 것 같습니다. 한달정도 사용하면 새치머리가 어떻게 될지 정말 기대가 됩니다.  새치케어가 잘 되었으면 합니다. 배송은 정말 빨랐습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "107",
+    "Word": "24",
+    "RDate": "20220526",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": " 일주일정도가 지났는데 새치커버 효과가 있는 것 같습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "한달정도 사용하면 새치머리가 어떻게 될지 정말 기대가 됩니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "새치케어가 잘 되었으면 합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "781308",
+    "RawText": "12회 이상 사용했는데 생각보다 물은 잘 안드네요. 좀 어두운 실내에서 자세히 보지 않으면 흰머리가 반짝이는 옅은 갈색으로 보이는데 조금만 밝은데서 보면 누가 봐도 흰머리예요. 뿌리 염색을 다시 하고싶은 마음 굴뚝 같지만 조금 더 사용해보고 지켜보려고 해요. 저는 3~4회 사용할 때나 지금이나 염색이 더 진해진다는 생각이 안들어서 솔직히 만족스럽지는 않네요. 구매했으니 일단 써보자는 생각입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "222",
+    "Word": "53",
+    "RDate": "20220525",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "12회 이상 사용했는데 생각보다 물은 잘 안드네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "자세히 보지 않으면 흰머리가 반짝이는 옅은 갈색으로 보이는데 조금만 밝은데서 보면 누가 봐도 흰머리예요. ",
+        "SentimentWord": "14",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "3~4회 사용할 때나 지금이나 염색이 더 진해진다는 생각이 안들어서 솔직히 만족스럽지는 않네요. ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "781317",
+    "RawText": "염색을 할 때마다 번거로워서 구매했어요. 이 주일을 사용했는데 아주 옅은 갈색으로 변하고 있습니다. 이 주일 더 사용했을 때의 염색 효과가 기대됩니다. 향은 강해서 별로예요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "97",
+    "Word": "24",
+    "RDate": "20220523",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "이 주일을 사용했는데 아주 옅은 갈색으로 변하고 있습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "이 주일 더 사용했을 때의 염색 효과가 기대됩니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 강해서 별로예요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "781321",
+    "RawText": "샴푸 냄새는 한약재 냄새가 나서 별로인 거 같아요. 그리고 저는 머리카락이 짧아서 색깔이 변하는 속도가 느린 것 같습니다. 한 달 정도 사용했는데 약한 갈색 정도로 변해서 아쉽네요. 광고처럼 색이 변하기를 기대하며 매일 사용해 볼게요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "131",
+    "Word": "34",
+    "RDate": "20220521",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "샴푸 냄새는 한약재 냄새가 나서 별로인 거 같아요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "머리카락이 짧아서 색깔이 변하는 속도가 느린 것 같습니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "한 달 정도 사용했는데 약한 갈색 정도로 변해서 아쉽네요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "광고처럼 색이 변하기를 기대하며 매일 사용해 볼게요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "781326",
+    "RawText": "아직 사용은 안 해 봤지만 지인이 사용해 보더니 좋다고 해서 구매했어요. 가격이 있는 만큼 염색 효과도 있었으면 좋겠습니다. 염색하기도 지겨워요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "81",
+    "Word": "20",
+    "RDate": "20220520",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 있는 만큼",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색 효과도 있었으면 좋겠습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "781327",
+    "RawText": "남편이 이거 효과있다고 합니다. 일주일 사용하니 새치가 역간 갈색으로 코팅됐네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "45",
+    "Word": "10",
+    "RDate": "20220520",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "남편이 이거 효과있다고 합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "일주일 사용하니 새치가 역간 갈색으로 코팅됐네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "781347",
+    "RawText": "이제 열흘 썼는데 이마 쪽 앞머리 잔머리새치는 확실히 안보이는것 같은데 정수리 쪽은 많고 좀 길게 나와서인지 아직 뚜렷이 효과는 없네요. 한두달 써봐야 안다니 효과를 기대하며 꾸준히 써보렵니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "108",
+    "Word": "27",
+    "RDate": "20220517",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "정수리 쪽은 많고 좀 길게 나와서인지 아직 뚜렷이 효과는 없네요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "한두달 써봐야 안다니 효과를 기대하며 꾸준히 써보렵니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "이마 쪽 앞머리 잔머리새치는 확실히 안보이는것 같은데",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "781348",
+    "RawText": "반신반의 하면서 샀는데 탈모증상완화만 크게 써 있고 새치 염색에 관해서는 없는 것 같네요. 목적은 탈모 완화에 효과 보려고 꾸준히 쓰고 있는데 새치 커버가 좀 되는 느낌이 들어요. 탈모 완화에 확실한 효과가 있는지는 더 써봐야 얘기할 수 있을 것 같아요. 더 먼저 나온 제품으로 사려다 OOO가 아무래도 대기업 제품이라 믿고 사용하고 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "192",
+    "Word": "51",
+    "RDate": "20220517",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "탈모 완화에 효과 보려고 꾸준히 쓰고 있는데 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "새치 커버가 좀 되는 느낌이 들어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "탈모 완화에 확실한 효과가 있는지는 더 써봐야 얘기할 수 있을 것 같아요.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "781354",
+    "RawText": "아직 더 사용해봐야 효과를 알 것 같네요. 향이 좋으나 손과 손톱이 까맣게 되서 놀랬어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "50",
+    "Word": "14",
+    "RDate": "20220516",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "아직 더 사용해봐야 효과를 알 것 같네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 좋으나",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "이염",
+        "SentimentText": "손과 손톱이 까맣게 되서 놀랬어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "781355",
+    "RawText": "일단 샴푸젤이 진한 색이라 놀랐습니다. 많이 쓰면 손톱에 물들 것 같은 느낌입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "46",
+    "Word": "12",
+    "RDate": "20220516",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "샴푸젤이 진한 색이라 놀랐습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "이염",
+        "SentimentText": "많이 쓰면 손톱에 물들 것 같은 느낌입니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "781359",
+    "RawText": "염색이 잘 됩니다. 10회 정도 사용하니 새치가 밝은 갈색이 됩니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "38",
+    "Word": "10",
+    "RDate": "20220515",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색이 잘 됩니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "10회 정도 사용하니 새치가 밝은 갈색이 됩니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "781362",
+    "RawText": "가격 대비 효과는 아직 모르겠습니다. 쿠폰 쓰니 다른 곳보다 여기가 조금 저렴하긴 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "50",
+    "Word": "13",
+    "RDate": "20220515",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "가격 대비 효과는 아직 모르겠습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰 쓰니 다른 곳보다 여기가 조금 저렴하긴 합니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "781368",
+    "RawText": "향은 별로입니다. 샴푸하니 시원한 느낌이 좋습니다. 염색효과는 몇번 더 해봐야 알 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "53",
+    "Word": "13",
+    "RDate": "20220514",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 별로입니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "샴푸하니 시원한 느낌이 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색효과는 몇번 더 해봐야 알 것 같습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "781372",
+    "RawText": "드라마틱하게 색이 변하는 효과가 있는 건 아니지만 이 정도면 만족해요. 자세히 보면 흰 머리카락이 갈색으로 점점 물들어 가는 게 보입니다. 3분 기다려야 되니 생각보다 사용하기는 불편해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 려** 블랙 샴푸 543ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "105",
+    "Word": "26",
+    "RDate": "20220513",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "드라마틱하게 색이 변하는 효과가 있는 건 아니지만 이 정도면 만족해요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "자세히 보면 흰 머리카락이 갈색으로 점점 물들어 가는 게 보입니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "3분 기다려야 되니 생각보다 사용하기는 불편해요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  }
+]

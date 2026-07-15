@@ -1,0 +1,3404 @@
+[
+  {
+    "Index": "119001",
+    "RawText": "아들사주었는데 밖에나갈 때  수시로 입어요    생각보다 편하고 조끼랑같이입으면  더바랄께없네요^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 피** 리버시블 퀼팅 세트(코트+베스트)",
+    "ReviewScore": "100",
+    "Syllable": "55",
+    "Word": "9",
+    "RDate": "20190323",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "활용성",
+        "SentimentText": "밖에나갈 때  수시로 입어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "생각보다 편하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "조끼랑같이입으면  더바랄께없네요^^",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119004",
+    "RawText": "조끼는 작고 자켓은 딱 맞아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 피** 리버시블 퀼팅 세트(코트+베스트)",
+    "ReviewScore": "100",
+    "Syllable": "16",
+    "Word": "5",
+    "RDate": "20190118",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "조끼는 작고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "자켓은 딱 맞아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119005",
+    "RawText": "싸게 잘삿어요. 상품평에 비해 물건 가성비 좋아요. 정사이즈에요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 피** 리버시블 퀼팅 세트(코트+베스트)",
+    "ReviewScore": "100",
+    "Syllable": "35",
+    "Word": "8",
+    "RDate": "20190117",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸게 잘삿어요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋아요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "정사이즈에요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119010",
+    "RawText": "자켓은 잘맞는데 베스트는 사이즈가 작아요. 자켓 큰사이즈 많이좀 만들어주세요. 아들은 바지는 40도 만들어주셔서 고맙게 입는데 자켓은 110까지만 나오네요. 120도 만들어주세요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 피** 리버시블 퀼팅 세트(코트+베스트)",
+    "ReviewScore": "100",
+    "Syllable": "100",
+    "Word": "20",
+    "RDate": "20190209",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "자켓은 잘맞는데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "베스트는 사이즈가 작아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "119015",
+    "RawText": "매사 조금은 까다로운 님편이라 이 옷에 대해 만족도가 낮은 편입니다. 배가 조금 나온 듯한 중년의 남성들은 추천 안합니다. 품질 별로예요. 가격도 비싸요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 피** 리버시블 퀼팅 세트(코트+베스트)",
+    "ReviewScore": "100",
+    "Syllable": "86",
+    "Word": "22",
+    "RDate": "20190117",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질 별로예요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 비싸요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "119019",
+    "RawText": "약간 두꺼워 보이진 않지만  그래도 따뜻하고 좋은데요 가격대비 저렴하고 싸게구입했어요    ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 피** 리버시블 퀼팅 세트(코트+베스트)",
+    "ReviewScore": "100",
+    "Syllable": "51",
+    "Word": "10",
+    "RDate": "20190114",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "약간 두꺼워 보이진 않지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻하고 좋은데요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119020",
+    "RawText": "정말 엉성함 다시는 사고싶지 않음 조끼하고 패딩 사이즈가 넘 조화가 안 맞음 95인데 몸 자체가 안 맞음 패딩은 오히려 큼 정말 어이 없음",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 피** 리버시블 퀼팅 세트(코트+베스트)",
+    "ReviewScore": "40",
+    "Syllable": "77",
+    "Word": "23",
+    "RDate": "20190108",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "조끼하고 패딩 사이즈가 넘 조화가 안 맞음",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "95인데 몸 자체가 안 맞음",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "패딩은 오히려 큼",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "119030",
+    "RawText": "가격이 저렴해 품질이 어떨까 햇는데 아주 대만족입ㄴ다 색감이 예쁘고 고급스럽네요~ㅎ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 피** 리버시블 퀼팅 세트(코트+베스트)",
+    "ReviewScore": "100",
+    "Syllable": "46",
+    "Word": "10",
+    "RDate": "20190105",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴해",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 어떨까 햇는데 아주 대만족입ㄴ다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색감이 예쁘고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "고급스럽네요~ㅎ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119032",
+    "RawText": "신랑이 옷에 관심이 없는 편이라 편한 마음으로 주문했는데 급관심을 가지더라구요ㆍ편하고 따숩게 입을 수 있겠다고 칭찬 받았네요ㆍ배송도 빠르고 가볍고 따뜻한 착용감에 만족합니다ㆍ앞으로도 좋은 상품 기대하며 귀사의 발전을 기원합니다~^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 피** 리버시블 퀼팅 세트(코트+베스트)",
+    "ReviewScore": "100",
+    "Syllable": "129",
+    "Word": "27",
+    "RDate": "20190211",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따숩게 입을 수 있겠다고 칭찬 받았네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "따뜻한 착용감에 만족합니다ㆍ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119033",
+    "RawText": "까다로운 남편이 받아보고, 디자인과 가격 품질 통과~ 일단 입어보겠다합니다 ^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 피** 리버시블 퀼팅 세트(코트+베스트)",
+    "ReviewScore": "100",
+    "Syllable": "44",
+    "Word": "10",
+    "RDate": "20190126",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인과 가격 품질 통과~ ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 품질 통과~ ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질 통과~ ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119035",
+    "RawText": "남동생 사줬는데 좋네요  점퍼기장도 좋고 조끼도 가볍고 따뜻해서 완전 강추입니다  겨울엔 이너로 봄엔  아우터로 좋을것같네요 많이사시고 많이파세요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 프** 경량다운",
+    "ReviewScore": "100",
+    "Syllable": "81",
+    "Word": "17",
+    "RDate": "20190109",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "길이",
+        "SentimentText": "점퍼기장도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "조끼도 가볍고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻해서 완전 강추입니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "겨울엔 이너로 봄엔  아우터로 좋을것같네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119036",
+    "RawText": "방송에서 보는거 보다는 얇은 느낌이지만 가성비 좋은 제품입니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 프** 경량다운",
+    "ReviewScore": "100",
+    "Syllable": "34",
+    "Word": "8",
+    "RDate": "20190106",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "방송에서 보는거 보다는 얇은 느낌이지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가성비 좋은 제품입니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119038",
+    "RawText": "항상 신랑 출퇴근길에 추울까봐 걱정했는데 딱맞는 제품이 나와서 좋네요.  신랑도 가볍고 따뜻하다고 좋아하더라구요.  감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 프** 경량다운",
+    "ReviewScore": "100",
+    "Syllable": "71",
+    "Word": "14",
+    "RDate": "20190104",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻하다고 좋아하더라구요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119039",
+    "RawText": "시청했을때는 가격도 싸고 픙성하게 보여서 가성비 좋을것 같아서 구매했지만 막상 받아보고 입어보니... 이거 무슨 비닐 옷 입는것 같은 두께의 느낌...빵빵은 커녕 볼륨도 없어요...진짜 옷 질이 싷망 그 자체네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 프** 경량다운",
+    "ReviewScore": "20",
+    "Syllable": "118",
+    "Word": "28",
+    "RDate": "20190103",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 싸고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": " 픙성하게 보여서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋을것 같아서 구매했지만 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "이거 무슨 비닐 옷 입는것 같은 두께의 느낌...",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "빵빵은 커녕 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "볼륨도 없어요...",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "옷 질이 싷망 그 자체네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "119040",
+    "RawText": "사이즈가 정사이즈보다 조금  작게 나왔어요 가격이 다른곳에 비해  가격이 좋았어요 ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 프** 경량다운",
+    "ReviewScore": "80",
+    "Syllable": "46",
+    "Word": "10",
+    "RDate": "20190104",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 정사이즈보다 조금  작게 나왔어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "다른곳에 비해  가격이 좋았어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119041",
+    "RawText": "너무 얇아서 속지용이네요 반품하기 귀찮아서 속에 입지하고 걍입습니다 화면에서는 겨울철에 입을 수 있겠다 싶었는데 실망임",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 프** 경량다운",
+    "ReviewScore": "100",
+    "Syllable": "66",
+    "Word": "15",
+    "RDate": "20190109",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "너무 얇아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": " 겨울철에 입을 수 있겠다 싶었는데 실망임",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "119043",
+    "RawText": "경량다운 이름그대로 얇고 가벼워요 봄가을용으로도 좋겠네요 만족~^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 프** 경량다운",
+    "ReviewScore": "100",
+    "Syllable": "37",
+    "Word": "7",
+    "RDate": "20190108",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "이름그대로 얇고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "봄가을용으로도 좋겠네요 만족~^^",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119045",
+    "RawText": "겨울이라 추운데 따틋하고 날씬해보이구 여러모로 좋다네요 방송그대로 입니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 프** 경량다운",
+    "ReviewScore": "100",
+    "Syllable": "40",
+    "Word": "8",
+    "RDate": "20190106",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "따틋하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "날씬해보이구",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119047",
+    "RawText": "상품 일요일 저녁 방송보고 주문했는데 금방 도착했어요^^하나가격에 두개를 받아 만족스럽고요 얇고 정말 가볍네요 코트입을 때 셔츠만 입으면 쌀쌀했는데 따뜻해서 너무 좋아요 잘입을게요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 프** 경량다운",
+    "ReviewScore": "100",
+    "Syllable": "100",
+    "Word": "22",
+    "RDate": "20190108",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "하나가격에 두개를 받아 만족스럽고요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "정말 가볍네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "코트입을 때 셔츠만 입으면 쌀쌀했는데 따뜻해서 너무 좋아요 ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119049",
+    "RawText": "아들에게 주려고 구매했는데.젊은아이인데도 별로라고  맘에안들어하네요..가성비 꽝!! 핏도 안이뻐요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 프** 경량다운",
+    "ReviewScore": "100",
+    "Syllable": "54",
+    "Word": "8",
+    "RDate": "20190108",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 꽝!! ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏도 안이뻐요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "119054",
+    "RawText": "경량이지만 따뜻합니다. 정사이즈로 주문하세요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 프** 경량다운",
+    "ReviewScore": "100",
+    "Syllable": "25",
+    "Word": "4",
+    "RDate": "20190104",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "경량이지만 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻합니다.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "정사이즈로 주문하세요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119056",
+    "RawText": "가격좋아 추울때 안에 받쳐입을려고 구매했는데 질감은 괜찮았습니다   가볍고 부드러워 마음에 들어 바로 입었는데  털빠짐이 장난아닙니다  오리털파카 많은데 이렇게 털빠지는건 처음봅니다  제 롱패딩안쪽하고 티셔츠에 달라붙어 난리났습니다  품질이시장물건에 잭필드 로고붙여 파는거 같습니다 OO쇼핑 믿고 구매한건데 실망입니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 프** 경량다운",
+    "ReviewScore": "20",
+    "Syllable": "177",
+    "Word": "34",
+    "RDate": "20190103",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격좋아 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "질감은 괜찮았습니다 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": " 가볍고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "부드러워",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "털빠짐이 장난아닙니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "이렇게 털빠지는건 처음봅니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "롱패딩안쪽하고 티셔츠에 달라붙어 난리났습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이시장물건에 잭필드 로고붙여 파는거 같습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "119058",
+    "RawText": "착한가격. 두껍지 않고 얇아서 간절기에 좋겠어요  생각보다 괞찮네요       ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 프** 경량다운",
+    "ReviewScore": "100",
+    "Syllable": "44",
+    "Word": "8",
+    "RDate": "20190223",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "착한가격. ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "두껍지 않고 얇아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "간절기에 좋겠어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119065",
+    "RawText": "가벼워서좋ㄱ기는한데 겨울욜은 아니고 두께가 애매하네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 프** 경량다운",
+    "ReviewScore": "100",
+    "Syllable": "29",
+    "Word": "5",
+    "RDate": "20190306",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워서좋ㄱ기는한데",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "겨울욜은 아니고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "두께가 애매하네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "119071",
+    "RawText": "아무리싼게비지떡이라지만 하루만에결결이뜯어지더라고요 너무얇다했드만 너무한거아닙니까 눈가리고아웅두정도껏이지 참나 OO쇼핑 물건 막파네",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 프** 경량다운",
+    "ReviewScore": "20",
+    "Syllable": "72",
+    "Word": "9",
+    "RDate": "20190113",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "아무리싼게비지떡이라지만",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "결결이뜯어지더라고요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "너무얇다했드만 너무한거아닙니까",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "119073",
+    "RawText": "얇은감은 있지만 따뜻하네요.가볍고 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 프** 경량다운",
+    "ReviewScore": "80",
+    "Syllable": "23",
+    "Word": "4",
+    "RDate": "20190112",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇은감은 있지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻하네요.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119075",
+    "RawText": "상품평에도 나와있듯이 많이 얇긴합니다 가격대비 별로에요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 프** 경량다운",
+    "ReviewScore": "80",
+    "Syllable": "30",
+    "Word": "6",
+    "RDate": "20190118",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": " 많이 얇긴합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 별로에요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "119077",
+    "RawText": "가격대비 너무 좋아요. 평소 100사이즈 입는데 100사니 딱이네요. 정사이즈 구매하면 될것 같긴한데 폭은 딱 맞으나  팔이 좀 짧은 느낌이 들긴해요.  어차피 속에 입으려고 샀으니 감안하고 입어야죠. 속주머니가 없는게 좀 아쉽긴 하지만 가격대비 좋아요. 다른색 하나더 구매할까 생각중이에요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 프** 경량다운",
+    "ReviewScore": "100",
+    "Syllable": "163",
+    "Word": "37",
+    "RDate": "20190112",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 너무 좋아요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "평소 100사이즈 입는데 100사니 딱이네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "정사이즈 구매하면 될것 같긴한데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "폭은 딱 맞으나",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "팔이 좀 짧은 느낌이 들긴해요.  ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "속주머니가 없는게 좀 아쉽긴 하지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 좋아요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119081",
+    "RawText": "가격대비 만족합니다 사이즈는 넉넉하게 주문하시길",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 프** 경량다운",
+    "ReviewScore": "100",
+    "Syllable": "26",
+    "Word": "5",
+    "RDate": "20190111",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 만족합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈는 넉넉하게 주문하시길",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "119082",
+    "RawText": "가성비갑 단지 단점은 소매가 짧아요. 조금 타이트합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 프** 경량다운",
+    "ReviewScore": "80",
+    "Syllable": "31",
+    "Word": "7",
+    "RDate": "20190111",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비갑",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "단점은 소매가 짧아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "조금 타이트합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "119085",
+    "RawText": "배송도 늦고 해서 제품이 얼마나 좋게 만들지 기대를 많이 했는데 영 제품 품질이 좀 그러네요ᆢ 그렇잖아도 얇은데 팔 쪽에는 털이 너무 허당이네요ᆢ ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 프** 경량다운",
+    "ReviewScore": "100",
+    "Syllable": "82",
+    "Word": "22",
+    "RDate": "20190211",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "영 제품 품질이 좀 그러네요ᆢ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "그렇잖아도 얇은데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "팔 쪽에는 털이 너무 허당이네요ᆢ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "119087",
+    "RawText": "무슨 이런걸 제품이라고 판매를 하는지 모르겠습니다. 오리텔이 바느질사이로 전부 빠져나오고있고 전정기는 과히 충격적이고 도저히 옷이라고 할수없는제품을 뻐졋이 판매를하고있네요. 이건 사기도 보통사기가 아닙니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 프** 경량다운",
+    "ReviewScore": "100",
+    "Syllable": "115",
+    "Word": "22",
+    "RDate": "20190208",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "무슨 이런걸 제품이라고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "오리텔이 바느질사이로 전부 빠져나오고있고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "전정기는 과히 충격적이고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "도저히 옷이라고 할수없는제품을 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "119088",
+    "RawText": "처음 받았을때 글쎄..였는데.. 실용적이고 입어보니 편하고 좋아요..",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 프** 경량다운",
+    "ReviewScore": "80",
+    "Syllable": "38",
+    "Word": "7",
+    "RDate": "20190111",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "활용성",
+        "SentimentText": "실용적이고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "입어보니 편하고 좋아요..",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119091",
+    "RawText": "일할때 입을려고 샀어요. 가격대비 저렴하고 질도 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 프** 경량다운",
+    "ReviewScore": "100",
+    "Syllable": "31",
+    "Word": "7",
+    "RDate": "20190106",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 질도 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119093",
+    "RawText": "착용감! 활동성! 모두 마음에 듭니다.특히 배송이 정말 빠르네요!",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 프** 경량다운",
+    "ReviewScore": "100",
+    "Syllable": "36",
+    "Word": "8",
+    "RDate": "20190115",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감! 활동성! 모두 마음에 듭니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "활동성! 모두 마음에 듭니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119095",
+    "RawText": "두께 엄청 얇습니다.베스트는 두께가 무슨 나시같고,다운패딩은 기모 티보다 더 얇아요..반품하고 싶지만 귀찬아서 안하고 티랑 나시티라 생각하고 입으려구요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 프** 경량다운",
+    "ReviewScore": "20",
+    "Syllable": "85",
+    "Word": "17",
+    "RDate": "20190109",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "두께 엄청 얇습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "베스트는 두께가 무슨 나시같고,",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "다운패딩은 기모 티보다 더 얇아요..",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "119101",
+    "RawText": "후기가 호불호가 많아  주문해놓고도 반신반의..생각보다 괜찮습니다.블랙이나 네이비 아우터는 많아 베이지 주문했는데 그레이빛도는 베이지라 괜찮습니다.다만 후기쓰신분들처럼 마감이 깔끔하진 않네요.가볍게 한두해 이너로 입기엔 좋을듯 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 프** 경량다운",
+    "ReviewScore": "100",
+    "Syllable": "131",
+    "Word": "23",
+    "RDate": "20190111",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "베이지 주문했는데 그레이빛도는 베이지라 괜찮습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": " 마감이 깔끔하진 않네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "가볍게 한두해 이너로 입기엔 좋을듯 합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119102",
+    "RawText": "얇고 가벼워서 편한데 영하의 날씨에입긴 그러네요 광고와 다르게 벗을때 정전기 엄청생깁니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 프** 경량다운",
+    "ReviewScore": "60",
+    "Syllable": "49",
+    "Word": "11",
+    "RDate": "20190112",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편한데",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "영하의 날씨에입긴 그러네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "벗을때 정전기 엄청생깁니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "119103",
+    "RawText": "2% 부족하네요 지퍼부분이 매끄럽지 않고 부드럽지 않네요 그외는 가격대비 훌륭한 제품이네요        ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 프** 경량다운",
+    "ReviewScore": "80",
+    "Syllable": "58",
+    "Word": "11",
+    "RDate": "20190111",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "지퍼부분이 매끄럽지 않고 부드럽지 않네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 훌륭한 제품이네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119106",
+    "RawText": "유니땡보다 얇은 느낌은 있지만 이 가격에 이 구성 좋네요~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 프** 경량다운",
+    "ReviewScore": "100",
+    "Syllable": "32",
+    "Word": "9",
+    "RDate": "20190128",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "유니땡보다 얇은 느낌은 있지만 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "이 가격에 이 구성 좋네요~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119108",
+    "RawText": "배가 많이 나오셔서 맞는 사이즈 찾기 힘들었는데 사이즈 딱 맞고 좋아요 색상도 마음에 들어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 프** 경량다운",
+    "ReviewScore": "100",
+    "Syllable": "51",
+    "Word": "14",
+    "RDate": "20190209",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈 딱 맞고 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 마음에 들어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119112",
+    "RawText": "설전 완벽배송이라더니.. 발송만 해놓고 오늘에야 받았습니다 ㅋㅋ 걍 사무실에서 입을 거라서 무난하게 입을 수 있겠네요.  ..라고 생각했는데 너무 얇군요. 충전재는 있는지 없는지 모르겠고요. 한기가 숭숭 들어옵니다. 구입하실 분 반드리 참고하시기 바랍니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 프** 경량다운",
+    "ReviewScore": "40",
+    "Syllable": "143",
+    "Word": "31",
+    "RDate": "20190207",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "너무 얇군요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "충전재는 있는지 없는지 모르겠고요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "한기가 숭숭 들어옵니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "119113",
+    "RawText": "한 겨울에 입기엔 좀 얇아요 코트안이나 점프안에 껴입기해야 할것같네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 프** 경량다운",
+    "ReviewScore": "80",
+    "Syllable": "38",
+    "Word": "9",
+    "RDate": "20190110",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "한 겨울에 입기엔 좀 얇아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "코트안이나 점프안에 껴입기해야 할것같네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "119115",
+    "RawText": "얇아도 넘 얇아 깜짝 놀랐어요 반면 가볍고 부드러워서 편하게 입을 수 있겠네요 ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 프** 경량다운",
+    "ReviewScore": "100",
+    "Syllable": "44",
+    "Word": "12",
+    "RDate": "20190111",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇아도 넘 얇아 깜짝 놀랐어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "부드러워서 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편하게 입을 수 있겠네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119116",
+    "RawText": "상품평 잘 안쓰는데 다른 분들이 사실까봐 글 남깁니다. 일단 얇은 건 둘째치고 털빠짐이 장난이 아닙니다. 한번 입고 벗으면 닭장에서 일한 듯 털이 풀풀 날려요. 사진 첨부하니 참고하세요. 품질이 최악이에요...",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 프** 경량다운",
+    "ReviewScore": "20",
+    "Syllable": "117",
+    "Word": "29",
+    "RDate": "20190123",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇은 건 둘째치고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "털빠짐이 장난이 아닙니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "닭장에서 일한 듯 털이 풀풀 날려요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 최악이에요...",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "119117",
+    "RawText": "엄마가 입는데 체격이 커서 구입했는데 가볍고 활동성이 편하다고 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 프** 경량다운",
+    "ReviewScore": "100",
+    "Syllable": "39",
+    "Word": "9",
+    "RDate": "20190121",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "활동성이 편하다고 합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119118",
+    "RawText": "매우 가벼우면서 따뜻하고 착용시 촉감이 너무 부드럽고 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 프** 경량다운",
+    "ReviewScore": "100",
+    "Syllable": "34",
+    "Word": "8",
+    "RDate": "20190110",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "매우 가벼우면서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "촉감이 너무 부드럽고 좋네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119121",
+    "RawText": "가볍고  가성비가 좋네요  부담없이 입을 수 있어 재구매해  선물합니다~ ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 프** 경량다운",
+    "ReviewScore": "100",
+    "Syllable": "41",
+    "Word": "9",
+    "RDate": "20190117",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비가 좋네요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119126",
+    "RawText": "알뜰히 두루두루 잘 입을거같네요  봄까지 잘 입을듯해요 조깅이나 헬스장 갈때 유용하게 사용될거같아요추천합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 프** 경량다운",
+    "ReviewScore": "100",
+    "Syllable": "60",
+    "Word": "12",
+    "RDate": "20190121",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "활용성",
+        "SentimentText": "알뜰히 두루두루 잘 입을거같네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "봄까지 잘 입을듯해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "조깅이나 헬스장 갈때 유용하게 사용될거같아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119129",
+    "RawText": "신년 기념으루 아버지 선물 사드렸어용~ 품질이나 옷 사이즈 등 맘에 든다구 하시네용 ㅎㅎ 남동생이랑도 같이 입을수 있다고 하니 디자인도 범용적인 것 같네요! 잘 산듯!!",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 프** 경량다운",
+    "ReviewScore": "80",
+    "Syllable": "94",
+    "Word": "24",
+    "RDate": "20190106",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이나 옷 사이즈 등 맘에 든다구 하시네용 ㅎㅎ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "옷 사이즈 등 맘에 든다구 하시네용 ㅎㅎ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 범용적인 것 같네요!",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119130",
+    "RawText": "신랑사줬는데 디자인 이뿌다고 좋아하네요~~자크올리기가 쫌 불편하다.그러는데 잘입고다니네요~ ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 프** 경량다운",
+    "ReviewScore": "100",
+    "Syllable": "51",
+    "Word": "7",
+    "RDate": "20190107",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 이뿌다고 좋아하네요~~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "자크올리기가 쫌 불편하다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "119131",
+    "RawText": "품질이 별로네요 너무 작고 얇아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 프** 경량다운",
+    "ReviewScore": "20",
+    "Syllable": "18",
+    "Word": "5",
+    "RDate": "20190104",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "너무 작고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇아요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 별로네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "119135",
+    "RawText": "ㅇㅇㅇ경량다운점퍼셋트를 남편이 소원하여 네이비로 샀어요 사이즈는 105. 남편이 팔이 긴편인지 점퍼소매가 약간 짧네요. 조끼랑 같이 입어도 핏이 별로에요 그래도 적립금이 적지않아서 적립금 이용하여 이불셋트도 구입할수 있어서 그건 다행이네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 프** 경량다운",
+    "ReviewScore": "100",
+    "Syllable": "133",
+    "Word": "28",
+    "RDate": "20190211",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "길이",
+        "SentimentText": "남편이 팔이 긴편인지 점퍼소매가 약간 짧네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "조끼랑 같이 입어도 핏이 별로에요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "119138",
+    "RawText": "가격대비 착용감이나 신축성 디자인 또한 아주 만족합니다. 고급 정장옷보다 편하고 참 좋습니다.사업번창하시길 기원합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 울** 재킷 2종",
+    "ReviewScore": "100",
+    "Syllable": "65",
+    "Word": "13",
+    "RDate": "20190210",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "가격대비 착용감이나 신축성 디자인 또한 아주 만족합니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": " 신축성 디자인 또한 아주 만족합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 또한 아주 만족합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "고급 정장옷보다 편하고 참 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119140",
+    "RawText": "자켓을 이런 가격에 두개를 구매할수있어서 좋구요 울터치라 요즘같은 간절기에 입으면 덥지도 춤지도 않을때 안성맞춤이란 생각이 듭니다 디자인도 좋아서 양복대신 입어도 무난하게 입을수있어서 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 울** 재킷 2종",
+    "ReviewScore": "100",
+    "Syllable": "106",
+    "Word": "23",
+    "RDate": "20190506",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "자켓을 이런 가격에 두개를 구매할수있어서 좋구요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "울터치라 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "양복대신 입어도 무난하게 입을수있어서 좋네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "요즘같은 간절기에 입으면 덥지도 춤지도 않을때 안성맞춤이란 생각이 듭니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119141",
+    "RawText": "색상이 코디하기 좀 불편하지만 가격대비 괜찮은거 같아용~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 울** 재킷 2종",
+    "ReviewScore": "60",
+    "Syllable": "31",
+    "Word": "7",
+    "RDate": "20190220",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 코디하기 좀 불편하지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 괜찮은거 같아용~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119142",
+    "RawText": "품질 좋고 어떻게 이가격에 가능한지 놀라울 뿐입니다 간절기용으로 최고이고 전 소매를 약간 줄여서 입습니다. 품질은 의심하지 될 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 울** 재킷 2종",
+    "ReviewScore": "100",
+    "Syllable": "78",
+    "Word": "19",
+    "RDate": "20190216",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "어떻게 이가격에 가능한지 놀라울 뿐입니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "간절기용으로 최고이고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "전 소매를 약간 줄여서 입습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질은 의심하지 될 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119143",
+    "RawText": "매우 저렴한 가격에 남는게 있을까  살짝염려 입니다 신축성,  촉감 좋고  디자인  색감  모두 좋습니다. 아들이 만족해 합니다. 날씨 풀리면  티 위에 가볍게 입으면  아주 좋을듯 해요 잘 입겠습니다. 번창하세요. ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 울** 재킷 2종",
+    "ReviewScore": "100",
+    "Syllable": "121",
+    "Word": "29",
+    "RDate": "20190215",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "매우 저렴한 가격에 남는게 있을까  살짝염려 입니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": "신축성,  촉감 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "촉감 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인  색감  모두 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색감  모두 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "날씨 풀리면  티 위에 가볍게 입으면  아주 좋을듯 해요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119146",
+    "RawText": "사회 첫 발 내딛는 아들에 입혔더니 신축성도 좋고 색감도 가격도 맘에 든다며 좋아하네요~^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 울** 재킷 2종",
+    "ReviewScore": "100",
+    "Syllable": "51",
+    "Word": "13",
+    "RDate": "20190215",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "신축성",
+        "SentimentText": "신축성도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": " 색감도 가격도 맘에 든다며 좋아하네요~^^",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 맘에 든다며 좋아하네요~^^",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119149",
+    "RawText": "간절기에  딱이네요 부드럽고 따뜻하게  잘  입겠어요~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 울** 재킷 2종",
+    "ReviewScore": "100",
+    "Syllable": "30",
+    "Word": "6",
+    "RDate": "20190219",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "간절기에  딱이네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "부드럽고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻하게  잘  입겠어요~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119151",
+    "RawText": "핏이 딱 이쁜데 불편하지도 않고 아주 좋습니다!",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 울** 재킷 2종",
+    "ReviewScore": "100",
+    "Syllable": "26",
+    "Word": "7",
+    "RDate": "20190214",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏이 딱 이쁜데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "불편하지도 않고 아주 좋습니다!",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119155",
+    "RawText": "착용감이 좋고 재질이  부드러워 움직임이 좋습니다 ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 울** 재킷 2종",
+    "ReviewScore": "100",
+    "Syllable": "28",
+    "Word": "6",
+    "RDate": "20190327",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감이 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질이  부드러워",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "움직임이 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119158",
+    "RawText": "가격대비 저렴하고 좋아요  스판이 함유되어  편하네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 울** 재킷 2종",
+    "ReviewScore": "100",
+    "Syllable": "29",
+    "Word": "6",
+    "RDate": "20190325",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 저렴하고 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": "스판이 함유되어  편하네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119160",
+    "RawText": "집사람이 편하게 입으라고 주문했는데  가볍고 입기 편안합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 울** 재킷 2종",
+    "ReviewScore": "100",
+    "Syllable": "33",
+    "Word": "7",
+    "RDate": "20190323",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "입기 편안합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119169",
+    "RawText": "착용감 좋고 핏 좋음 강추합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 울** 재킷 2종",
+    "ReviewScore": "100",
+    "Syllable": "17",
+    "Word": "5",
+    "RDate": "20190423",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏 좋음 강추합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119171",
+    "RawText": "좋은 제품입니다  이가격에 너무 싸지만 퀄리티있는 옷입니다.  ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 울** 재킷 2종",
+    "ReviewScore": "100",
+    "Syllable": "35",
+    "Word": "7",
+    "RDate": "20190306",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "이가격에 너무 싸지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "퀄리티있는 옷입니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119172",
+    "RawText": "물빨래가 되는 자켓이라면 참 편안한 옷이죠  간절기 등에 가볍게 밖에 입고 나갈 수 있는 그런 옷인거같아요 정장입을곳엔 아닌거 같고요 신축성도 좋아서 편하나 바느질과 단추부분 약간 우는곳이 있어요 이가격이면  그냥  편하게 입을만 하면 한거 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 울** 재킷 2종",
+    "ReviewScore": "100",
+    "Syllable": "138",
+    "Word": "34",
+    "RDate": "20190407",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "물빨래가 되는 자켓이라면 참 편안한 옷이죠",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "간절기 등에 가볍게 밖에 입고 나갈 수 있는 그런 옷인거같아요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "정장입을곳엔 아닌거 같고요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": "신축성도 좋아서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "바느질과 단추부분 약간 우는곳이 있어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "이가격이면  그냥  편하게 입을만 하면 한거 같아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편하나",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119175",
+    "RawText": "자켓소재가 넘 얇네요 그래서 주름도 넘잘져요 반품할려고 했는데 남의편이 입고 출근해서 하지도 못하네요 ㅠㅜ ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 울** 재킷 2종",
+    "ReviewScore": "100",
+    "Syllable": "60",
+    "Word": "14",
+    "RDate": "20190214",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "자켓소재가 넘 얇네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "주름도 넘잘져요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "119177",
+    "RawText": "가격대비좋고 품질도 괜찮아요~ 봄가을에입기좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 울** 재킷 2종",
+    "ReviewScore": "100",
+    "Syllable": "26",
+    "Word": "4",
+    "RDate": "20190213",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비좋고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 품질도 괜찮아요~ ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "봄가을에입기좋아요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119180",
+    "RawText": "가격대비 옷은 핏 예쁘고 품질 좋은거 같은데 아쉬운게 팔이랑 총기장이 좀 길어서 그렇네요.  그래도 이왕 산거 잘 입어야 되니 블랙 3만+블루 4만 총 7만원 수선비 들였습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 울** 재킷 2종",
+    "ReviewScore": "60",
+    "Syllable": "99",
+    "Word": "26",
+    "RDate": "20190219",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "핏",
+        "SentimentText": "가격대비 옷은 핏 예쁘고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질 좋은거 같은데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "팔이랑 총기장이 좀 길어서 그렇네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "블랙 3만+블루 4만 총 7만원 수선비 들였습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "119182",
+    "RawText": "보풀 생길꺼같은 재질에  안좋은 예감이 들지만 색상이나 핏이  가격대비 만족~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 울** 재킷 2종",
+    "ReviewScore": "100",
+    "Syllable": "43",
+    "Word": "10",
+    "RDate": "20190224",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "보풀 생길꺼같은 재질에",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이나 핏이  가격대비 만족~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏이  가격대비 만족~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119188",
+    "RawText": "겨울용은 아니고 간절기용입니다. 두벌에 이가격이니 그저나마찬가지네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 울** 재킷 2종",
+    "ReviewScore": "100",
+    "Syllable": "37",
+    "Word": "6",
+    "RDate": "20190316",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "겨울용은 아니고 간절기용입니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "두벌에 이가격이니 그저나마찬가지네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119189",
+    "RawText": "자켓이 스타일리쉬해 잘어울리네요. 원단이 생각과는 다르기는 하지만 이 가격에 만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 울** 재킷 2종",
+    "ReviewScore": "100",
+    "Syllable": "48",
+    "Word": "10",
+    "RDate": "20190316",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "자켓이 스타일리쉬해 잘어울리네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "원단이 생각과는 다르기는 하지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "이 가격에 만족합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119195",
+    "RawText": "몸이불편하신 아빠한테 선물했는데 신축성이 있어서 활동하시기 편하시데요. 착용감도 좋다고 하세요. 감사해요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 울** 재킷 2종",
+    "ReviewScore": "100",
+    "Syllable": "59",
+    "Word": "11",
+    "RDate": "20190312",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "신축성",
+        "SentimentText": "신축성이 있어서  ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감도 좋다고 하세요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "활동하시기 편하시데요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119196",
+    "RawText": "가격이 너무 저렴해서 설마설마하고 주문했어요.. 받아보고 별로면 반품할 생각으로요.. 근데 신랑도 가격을 의심할 퀄러티네요.. 울자켓 두벌에 48000원이라니..^^ 3월 내내 넘 잘 입을 것 같아요^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 울** 재킷 2종",
+    "ReviewScore": "100",
+    "Syllable": "113",
+    "Word": "24",
+    "RDate": "20190317",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 너무 저렴해서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 가격을 의심할 퀄러티네요..",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "울자켓 두벌에 48000원이라니..^^",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "3월 내내 넘 잘 입을 것 같아요^^",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119200",
+    "RawText": "배송은 빠르네요 받았는데 구김이 너무많아서 세탁소 다녀와아될듯 가격대비 디자인은 좋아요 그런데 보풀이 일어날듯 싶네요 암튼 디자인은 만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 울** 재킷 2종",
+    "ReviewScore": "100",
+    "Syllable": "79",
+    "Word": "17",
+    "RDate": "20190316",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "받았는데 구김이 너무많아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "가격대비 디자인은 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 보풀이 일어날듯 싶네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인은 만족합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119209",
+    "RawText": "가성비 최고 인 듯하나  소재가 구김이가고 조금 큰편으로 소매. 기장을 줄여 입어야 할 듯~~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 울** 재킷 2종",
+    "ReviewScore": "100",
+    "Syllable": "52",
+    "Word": "14",
+    "RDate": "20190318",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 최고 인 듯하나",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재가 구김이가고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "조금 큰편으로 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "소매. 기장을 줄여 입어야 할 듯~~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "119210",
+    "RawText": "저렴하지만 싼게 비지떡이라 조금 입어 보니 소매쪽에 버풀레기가 많이 생겨요 참조.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 울** 재킷 2종",
+    "ReviewScore": "60",
+    "Syllable": "45",
+    "Word": "11",
+    "RDate": "20190408",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하지만",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "소매쪽에 버풀레기가 많이 생겨요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "싼게 비지떡이라",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "119212",
+    "RawText": "디자인 괜찬아요 날씬해 보여요  신축성 좋아요  만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 울** 재킷 2종",
+    "ReviewScore": "100",
+    "Syllable": "32",
+    "Word": "7",
+    "RDate": "20190402",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 괜찬아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "날씬해 보여요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": "신축성 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119213",
+    "RawText": "소재도 부드럽고 가격도 저렴하고 봄 가을에 입기좋을거같아요 캐주얼하게 입기좋아서  만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 울** 재킷 2종",
+    "ReviewScore": "100",
+    "Syllable": "51",
+    "Word": "10",
+    "RDate": "20190402",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재도 부드럽고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "봄 가을에 입기좋을거같아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "캐주얼하게 입기좋아서  만족합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119219",
+    "RawText": "키 181, 몸무게 90kg에 팔이 약간 긴 편인데 105사이즈가 딱 맞네요. 색감이 다소 어두운 듯 한거 말고는 가볍고 편안하고 날 풀리면 입을 수 있겠어요. 봄/가을에 적합할 듯.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 울** 재킷 2종",
+    "ReviewScore": "80",
+    "Syllable": "102",
+    "Word": "27",
+    "RDate": "20190212",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "키 181, 몸무게 90kg에 팔이 약간 긴 편인데 105사이즈가 딱 맞네요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색감이 다소 어두운 듯 한거 말고는",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편안하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": " 날 풀리면 입을 수 있겠어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "봄/가을에 적합할 듯.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119222",
+    "RawText": "이래서 직접 보고 사야 되는거 같네요  가격 그대로 싼맛에 그냥입을래요.  품질이 정말 별루네요ㅜㅜ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 울** 재킷 2종",
+    "ReviewScore": "60",
+    "Syllable": "55",
+    "Word": "13",
+    "RDate": "20190323",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 그대로 싼맛에 그냥입을래요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 정말 별루네요ㅜㅜ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "119223",
+    "RawText": "가격대비 디자인 재질 최고임 이정도 가격에 이정도 퀄리티면 거져임",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 울** 재킷 2종",
+    "ReviewScore": "100",
+    "Syllable": "36",
+    "Word": "9",
+    "RDate": "20190322",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "가격대비 디자인 재질 최고임",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질 최고임",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "이정도 가격에 이정도 퀄리티면 거져임",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119226",
+    "RawText": "빠른 베송 감사합니다. 디자인, 핏 다  맘에  들고  여유가 있어 입기 편안해요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 울** 재킷 2종",
+    "ReviewScore": "100",
+    "Syllable": "46",
+    "Word": "12",
+    "RDate": "20190428",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인, 핏 다  맘에  들고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏 다  맘에  들고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "여유가 있어 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "입기 편안해요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119227",
+    "RawText": "팔길이 줄이는데 수선비가 들어갔고 비싸네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 울** 재킷 2종",
+    "ReviewScore": "100",
+    "Syllable": "23",
+    "Word": "5",
+    "RDate": "20190427",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "길이",
+        "SentimentText": "팔길이 줄이는데 수선비가 들어갔고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "비싸네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "119230",
+    "RawText": "편하게 어디서도 가볍게 입을수 있을듯 하여 구매한 옷 파랑색옷은 좀.. 디자인은 굿",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 울** 재킷 2종",
+    "ReviewScore": "80",
+    "Syllable": "46",
+    "Word": "12",
+    "RDate": "20190510",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "파랑색옷은 좀..",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인은 굿",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119235",
+    "RawText": "가격대비 좋아요 편하게 입기 좋아요 신축성두  좋구요 가격만큼 하는옷",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 울** 재킷 2종",
+    "ReviewScore": "100",
+    "Syllable": "38",
+    "Word": "9",
+    "RDate": "20190301",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편하게 입기 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": "신축성두  좋구요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격만큼 하는옷",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "119236",
+    "RawText": "생각보다 얇아요 디자인이 고급져 보이는 느낌은 없는데 가격대비 두벌이니 입을 만 합니다 단추가 너무 싼 느낌이라 그게 아쉽네요  ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 울** 재킷 2종",
+    "ReviewScore": "100",
+    "Syllable": "72",
+    "Word": "18",
+    "RDate": "20190220",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "생각보다 얇아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 고급져 보이는 느낌은 없는데",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "가격대비 두벌이니 입을 만 합니다 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "단추가 너무 싼 느낌이라 그게 아쉽네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "119238",
+    "RawText": "신축성이 조금 있으니 훨씬 편하다네요 입고 운전하기도 타이트한 정장이 많은데  편하게 입을수 있는 소재에 가격도 완전 착해요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 울** 재킷 2종",
+    "ReviewScore": "100",
+    "Syllable": "69",
+    "Word": "17",
+    "RDate": "20190218",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "신축성",
+        "SentimentText": "신축성이 조금 있으니",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "훨씬 편하다네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "편하게 입을수 있는 소재에",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 완전 착해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119239",
+    "RawText": "홈쇼핑에서 저렴한 자켓 사면 늘 실패였는데 그중에서도 최고로 저렴한 편이라 속는셈 치고 샀는데 기대 이상입니다. 정말 만족합니다. 완벽한 핏의 이라고 하진 못하더라도  무난한 스타일에 가격을 생각하면 득템이라는 생각이 절로 드네요. ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 울** 재킷 2종",
+    "ReviewScore": "100",
+    "Syllable": "130",
+    "Word": "30",
+    "RDate": "20190214",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "최고로 저렴한 편이라",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "완벽한 핏의 이라고 하진 못하더라도",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "무난한 스타일에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격을 생각하면 득템이라는 생각이 절로 드네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119242",
+    "RawText": "생각보다  얇긴  한게  아쉽지만 겨울철에는  못  입고  따듯  해지면  편안하고  활동성  있게  입을  만  하네요 ^^   좋습니다......",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 울** 재킷 2종",
+    "ReviewScore": "80",
+    "Syllable": "83",
+    "Word": "17",
+    "RDate": "20190213",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "생각보다  얇긴  한게  아쉽지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "겨울철에는  못  입고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편안하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": " 활동성  있게  입을  만  하네요 ^^",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119243",
+    "RawText": "잭필드 남성 울 터치 자켓 2종 사이즈도 정확하고 재질도 적당하니 착용감이 좋습니다. 한가지 아쉬운점이 있다면 블랙생상에는 안주머니가 있는데 네이버색상에 안주머니가 없는점이 아쉽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 울** 재킷 2종",
+    "ReviewScore": "100",
+    "Syllable": "103",
+    "Word": "22",
+    "RDate": "20190226",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈도 정확하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질도 적당하니",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감이 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "블랙생상에는 안주머니가 있는데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "네이버색상에 안주머니가 없는점이 아쉽습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "119244",
+    "RawText": "가격대비 품질 만족합니다..마감이 다소 허접한 느낌이지만 그정도는가격에비해 마감 괜찮은 편입니다 ..추천합니다다른 분꺼도  춪던합니다..선물하려고 합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 울** 재킷 2종",
+    "ReviewScore": "100",
+    "Syllable": "85",
+    "Word": "14",
+    "RDate": "20190213",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격대비 품질 만족합니다..",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "마감이 다소 허접한 느낌이지만  ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "그정도는가격에비해 마감 괜찮은 편입니다 ..",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119248",
+    "RawText": "남자 자켓 브라운 밝은톤이면 어떻게 하나 고민했는데 다행이 블랙에 가까운 브라인 너무예쁘고 핏도 좋아 울남편이 아주좋아하네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 도** 남성 양가죽 자켓",
+    "ReviewScore": "100",
+    "Syllable": "69",
+    "Word": "16",
+    "RDate": "20190306",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "블랙에 가까운 브라인 너무예쁘고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏도 좋아 울남편이 아주좋아하네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119249",
+    "RawText": "남편선물로 샀는데 사이즈 딱 맞고 디자인 깔끔,심플 하고  양가죽이라 엄청 부드러워요 가볍고.. 잘 샀어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 도** 남성 양가죽 자켓",
+    "ReviewScore": "100",
+    "Syllable": "59",
+    "Word": "14",
+    "RDate": "20190304",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈 딱 맞고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 깔끔,심플 하고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "양가죽이라 엄청 부드러워요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고..",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "심플 하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119250",
+    "RawText": "정말 맘에 듭니다. 착용감도 좋고 옷감 질도 최고입니다. 더이상의 찬사는 필요없을 듯 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 도** 남성 양가죽 자켓",
+    "ReviewScore": "100",
+    "Syllable": "52",
+    "Word": "13",
+    "RDate": "20190418",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "옷감 질도 최고입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119251",
+    "RawText": "정사이즈도여유있어요가죽도부드럽고팔부분이조각이음새가있는것이좀아쉬워요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 도** 남성 양가죽 자켓",
+    "ReviewScore": "80",
+    "Syllable": "36",
+    "Word": "1",
+    "RDate": "20190226",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "정사이즈도여유있어요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "가죽도부드럽고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "팔부분이조각이음새가있는것이좀아쉬워요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "119254",
+    "RawText": "가죽이 좀 얇네요 그리고 가죽에서 냄새가 좀 나고요 가격은 괜챦은것 같네요 가성비는 괜챦아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 도** 남성 양가죽 자켓",
+    "ReviewScore": "80",
+    "Syllable": "51",
+    "Word": "13",
+    "RDate": "20190307",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "가죽이 좀 얇네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "냄새",
+        "SentimentText": "가죽에서 냄새가 좀 나고요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 괜챦은것 같네요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가성비는 괜챦아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119256",
+    "RawText": "싸게사서 좋네요 가죽질감도 좋구요 신랑이 맘에든다네요 브라운 이뻐요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 도** 남성 양가죽 자켓",
+    "ReviewScore": "100",
+    "Syllable": "37",
+    "Word": "8",
+    "RDate": "20190309",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸게사서 좋네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "가죽질감도 좋구요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "브라운 이뻐요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "119258",
+    "RawText": "품질좋고 핏이  좋아  잘  입고 있답니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 도** 남성 양가죽 자켓",
+    "ReviewScore": "100",
+    "Syllable": "23",
+    "Word": "6",
+    "RDate": "20190324",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질좋고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": " 핏이  좋아  잘  입고 있답니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]

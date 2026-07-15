@@ -1,0 +1,3122 @@
+[
+  {
+    "Index": "742514",
+    "RawText": "다른 후기에 다 좋은데 향이 별로라는 말이 있던데 저는 향도 좋았습니다. 근데 받아보고 사이즈가 너무 커서 놀랐습니다. 오래 쓸 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 에** 스프레이 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "21",
+    "RDate": "20190515",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋았습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "사이즈가 너무 커서 놀랐습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "742521",
+    "RawText": "가격도 가장 싼 거 같고 금방 받을 수 있어서 좋습니다. 용량이 커서 오래 쓸 거 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 에** 스프레이 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "50",
+    "Word": "16",
+    "RDate": "20190720",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 가장 싼 거 같고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량이 커서 오래 쓸 거 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "742522",
+    "RawText": "고정력이 엄청 강하지는 않은 것 같습니다. 그래도 머리카락이 심하게 딱딱해지지 않아서 너무 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 에** 스프레이 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "13",
+    "RDate": "20190725",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "고정력이 엄청 강하지는 않은 것 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "머리카락이 심하게 딱딱해지지 않아서 너무 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "742523",
+    "RawText": "미용실에서 머리 손질 받다가 고정력이 좋기에 어느 제품 사용한 건지 물어봐서 구매했어요. 성능에 매우 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 에** 스프레이 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "15",
+    "RDate": "20190813",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "고정력이 좋기에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "성능에 매우 만족합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "742527",
+    "RawText": "유튜브에서 추천한 스프레이 3종 중에 하나이고 가격도 1만원대라 저렴해서 구매했어요. 향은 개인적으로 좋아하지 않지만 세척력이 좋은 편이고 셋팅한 머리 고정도 잘되는 것 같아요. 드라이로 컬 잡고 중력에 의해 내려가려는 머리 고정하는 용도로 잘 사용하고 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 에** 스프레이 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "147",
+    "Word": "35",
+    "RDate": "20190907",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 1만원대라 저렴해서 구매했어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 개인적으로 좋아하지 않지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "클렌징/제거력",
+        "SentimentText": "세척력이 좋은 편이고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "셋팅한 머리 고정도 잘되는 것 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "머리 고정하는 용도로 잘 사용하고 있습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "742529",
+    "RawText": "이 스프레이가 제일 좋네요. 향도 좋고 세팅도 부드럽게 잘 되어서 추천합니다. 배송도 빠릅니다. 많이 파시길 바랍니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 에** 스프레이 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "16",
+    "RDate": "20191024",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "세팅도 부드럽게 잘 되어서 추천합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "742535",
+    "RawText": "동생이 좋다고 해서 주문해 봤는데 머리에 떡 안 지고 자연스럽게 고정됩니다. 소프트한 스프레이입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 에** 스프레이 500ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "56",
+    "Word": "13",
+    "RDate": "20191127",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "머리에 떡 안 지고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "자연스럽게 고정됩니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "742536",
+    "RawText": "다니는 미용실에서 추천해줘서 쓰고 있습니다. 하루 종일 흐트러지지는 않으면서도 스타일은 유지해주고 냄새 또한 없어서 사용하기 정말 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 에** 스프레이 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "17",
+    "RDate": "20191129",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "하루 종일 흐트러지지는 않으면서도 스타일은 유지해주고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새 또한 없어서 사용하기 정말 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "742545",
+    "RawText": "주문하고 하루 만에 배송 받았어요. 만족스러운 제품입니다. 성능이 너무 좋습니다. 용량도 크고 너무 좋아요. 번창하세요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 에** 스프레이 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "15",
+    "RDate": "20200225",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "성능이 너무 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량도 크고 너무 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "742546",
+    "RawText": "배송 빨라서 좋았어요. 박스 포장으로 안전하게 배송 되었습니다. 사이즈가 커서 좋고 향도 괜찮네요. 사용하기 편해서 잔머리 정리할 때 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 에** 스프레이 500ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "79",
+    "Word": "19",
+    "RDate": "20200304",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "사이즈가 커서 좋고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 괜찮네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기 편해서 잔머리 정리할 때 좋아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "742554",
+    "RawText": "스프레이 특유의 뭉침이나 뻣뻣함이 없습니다. 고데기 하고 고정용으로 샀는데 안 했을 때보다 훨씬 유지력이 좋습니다. 최고예요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 에** 스프레이 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "16",
+    "RDate": "20200701",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "스프레이 특유의 뭉침이나 뻣뻣함이 없습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "안 했을 때보다 훨씬 유지력이 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "742557",
+    "RawText": "용량이 생각보다 커서 놀랐어요. 조금 멀리서 뿌려서 그런지는 몰라도 지속력이 반나절도 안 가서 아쉬운 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 에** 스프레이 500ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "64",
+    "Word": "16",
+    "RDate": "20200710",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량이 생각보다 커서 놀랐어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력이 반나절도 안 가서 아쉬운 것 같습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "742559",
+    "RawText": "처음 보는데 생각보다 용기가 길어서 신기했어요. 고정력 나쁘진 않지만 막 엄청 좋은지도 모르겠습니다. 헤어스프레이 자체를 처음 써봤는데 비오는 날 써서 그런지 효과는 잘 모르겠네요. 분사력은 엄청 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 에** 스프레이 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "115",
+    "Word": "27",
+    "RDate": "20200722",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용기",
+        "SentimentText": "생각보다 용기가 길어서 신기했어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "고정력 나쁘진 않지만 막 엄청 좋은지도 모르겠습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "헤어스프레이 자체를 처음 써봤는데 비오는 날 써서 그런지 효과는 잘 모르겠네요",
+        "SentimentWord": "11",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "분사력",
+        "SentimentText": "분사력은 엄청 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "742575",
+    "RawText": "웨이브하고 스프레이 뿌리고 빗으로 빗으면 딱딱하지 않고 자연스러운 웨이브가 만들어져요. 향도 나쁘지 않아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 에** 스프레이 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "13",
+    "RDate": "20200118",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "딱딱하지 않고 자연스러운 웨이브가 만들어져요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 나쁘지 않아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "742586",
+    "RawText": "항상 쓰는 스프레이입니다. 향도 좋고 고정력도 있고 마음에 들어요. 다 쓰면 또 주문할 생각입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 에** 스프레이 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "14",
+    "RDate": "20171124",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "고정력도 있고 마음에 들어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "742587",
+    "RawText": "향도 진하지 않아서 좋고 뿌려도 부드러워서 마음에 듭니다. 저렴하게 잘 산 거 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 에** 스프레이 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "48",
+    "Word": "13",
+    "RDate": "20171129",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 진하지 않아서 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "뿌려도 부드러워서 마음에 듭니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 산 거 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "742590",
+    "RawText": "드라이하고 항상 뿌리는데 냄새도 좋고 머릿결이 뻣뻣하지 않아서 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 에** 스프레이 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "39",
+    "Word": "9",
+    "RDate": "20191003",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결이 뻣뻣하지 않아서 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "742597",
+    "RawText": "생각했던 것보다 사이즈가 엄청 커서 사용하기 불편해요. 냄새도 좀 많이 나네요. 하지만 효과는 좋은 것 같습니다. 추천합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 에** 스프레이 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "17",
+    "RDate": "20200217",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "생각했던 것보다 사이즈가 엄청 커서 사용하기 불편해요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 좀 많이 나네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과는 좋은 것 같습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "742599",
+    "RawText": "최저가라서 제일 저렴합니다. 냄새가 조금 별로지만 용량도 많아서 좋은 것 같습니다. 다 쓰고 재구매 하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 에** 스프레이 500ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "62",
+    "Word": "15",
+    "RDate": "20200430",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "최저가라서 제일 저렴합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새가 조금 별로지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량도 많아서 좋은 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "742606",
+    "RawText": "꾸준히 쓰던 제품인데 유난히 고정이 안 되는 것 같습니다. 날씨 탓인가 했는데 쨍쨍한 날에도 머리 고정이 잘 안 됩니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 에** 스프레이 500ml 1개",
+    "ReviewScore": "1",
+    "Syllable": "67",
+    "Word": "19",
+    "RDate": "20200823",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "고정이 안 되는 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "쨍쨍한 날에도 머리 고정이 잘 안 됩니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "742610",
+    "RawText": "미용실에서도 이용하는 거라고 해서 구매해봤습니다. 딱딱해지지 않아서 마음에 들고 고정력도 좋은 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 에** 스프레이 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "13",
+    "RDate": "20170823",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "딱딱해지지 않아서 마음에 들고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "고정력도 좋은 것 같습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "742620",
+    "RawText": "요즘 인기가 많길래 구매해 봤어요. 고정력이 좋아서 잘 안 풀리고 여러 번 덧뿌려도 뭉치지 않고 빗질 가능해서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 에** 스프레이 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "18",
+    "RDate": "20180707",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "고정력이 좋아서 잘 안 풀리고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "여러 번 덧뿌려도 뭉치지 않고 빗질 가능해서 좋습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "742621",
+    "RawText": "유명한 제품이라 구매해 봤는데 너무 만족해요. 뿌려도 딱딱해지지 않아서 티 안 나고 고정이 잘 되네요. 용량도 엄청 많아서 오랫동안 잘 쓸 수 있을 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 에** 스프레이 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "89",
+    "Word": "25",
+    "RDate": "20180718",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "뿌려도 딱딱해지지 않아서 티 안 나고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "고정이 잘 되네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량도 엄청 많아서 오랫동안 잘 쓸 수 있을 것 같아요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "742626",
+    "RawText": "기대를 넘 많이 했나 봐요. 고정력도 없고 냄새도 별로에요. 분사력은 좋습니다. 양도 많아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 에** 스프레이 500ml 1개",
+    "ReviewScore": "1",
+    "Syllable": "52",
+    "Word": "13",
+    "RDate": "20200516",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "고정력도 없고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 별로에요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "분사력",
+        "SentimentText": "분사력은 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 많아요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "742635",
+    "RawText": "늘 사용하고 있어요. 가볍게 쓰기 좋습니다. 머리숱도 없고 힘도 없어서 자주 사용하고 있어요. 제형이 하드 타입이 아니라서 헤어 수정도 가능해서 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 에** 스프레이 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "85",
+    "Word": "21",
+    "RDate": "20171013",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "가볍게 쓰기 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 하드 타입이 아니라서 헤어 수정도 가능해서 좋아요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "742657",
+    "RawText": "같은 브랜드 크림 왁스만 사용했는데 요즘 신제품으로 변경되어 구매하여 사용해봤는데 제형이 너무 묽어서 전 제품보다는 스타일링도 안되고 무광이 아닌 느낌이 들어 못쓰겠습니다. 혹시나 해서 이건 어떤지 사용 해보려고 구매 해봤어요. 사용 후 정확한 후기 올릴게요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 매트왁스 110ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "145",
+    "Word": "35",
+    "RDate": "20220719",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 너무 묽어서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "전 제품보다는 스타일링도 안되고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "무광이 아닌 느낌이 들어 못쓰겠습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "742662",
+    "RawText": "적은 양으로도 세팅력 좋고 가성비는 좋은데 뚜껑 디자인에 문제가 있어서 매번 조금씩 새어나오고 그것이 굳어버려서 버리게 되는 단점이 있네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 매트왁스 110ml 1개",
+    "ReviewScore": "3",
+    "Syllable": "78",
+    "Word": "19",
+    "RDate": "20220701",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "적은 양으로도 세팅력 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비는 좋은데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "뚜껑 디자인에 문제가 있어서 매번 조금씩 새어나오고 그것이 굳어버려서 버리게 되는 단점이 있네요.",
+        "SentimentWord": "13",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "742678",
+    "RawText": "손바닥에 짤 때는 제형이 부드러움이 느껴지는데 손질하면 약간 머리카락이 딱딱합니다. 고정력은 좋은 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 매트왁스 110ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "14",
+    "RDate": "20220510",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 부드러움이 느껴지는데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "손질하면 약간 머리카락이 딱딱합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "고정력은 좋은 것 같습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "742699",
+    "RawText": "잘 받았어요. 써보고 마음에 들어서 재주문 했어요. 헤어젤을 주로 썼는데 왁스로 자연스러운 스타일링이 됩니다. 향도 나쁘지 않은 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 매트왁스 110ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "19",
+    "RDate": "20220311",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "자연스러운 스타일링이 됩니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 나쁘지 않은 것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "742700",
+    "RawText": "끈적임 없고 자연스럽게 스타일링 해주네요. 젤처럼 머리카락이 딱딱하지 않고 부드러운 웨이브가 만들어지네요. 잘 쓸게요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 매트왁스 110ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "14",
+    "RDate": "20220309",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "끈적임 없고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "자연스럽게 스타일링 해주네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "젤처럼 머리카락이 딱딱하지 않고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "부드러운 웨이브가 만들어지네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "742708",
+    "RawText": "배송 빠르고 포장도 꼼꼼하게 보내주셨습니다. 기존에 7번 쓰다가 7번은 튜브형이 없어서 10번 사봤습니다. 손톱에 왁스가 안 묻어 나서 너무 좋습니다. 유통 기한도 넉넉해서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 매트왁스 110ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "102",
+    "Word": "24",
+    "RDate": "20220211",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "밀착력/접착력",
+        "SentimentText": "손톱에 왁스가 안 묻어 나서 너무 좋습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통 기한도 넉넉해서 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "742726",
+    "RawText": "약간 뻑뻑하게 발리지만 그만큼 고정은 잘되네요. 튜브타입 뚜껑에 왁스가 많이 끼어 조금만 지저분해지면 뚜껑이 잘 안닫겨 불편하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 매트왁스 110ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "17",
+    "RDate": "20211110",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "발림성",
+        "SentimentText": "약간 뻑뻑하게 발리지만 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "그만큼 고정은 잘되네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "튜브타입 뚜껑에 왁스가 많이 끼어 조금만 지저분해지면 뚜껑이 잘 안닫겨 불편하네요",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "742746",
+    "RawText": "좋은 가격에 잘 산 거 같습니다. 유통기한도 넉넉해서 맘에 듭니다. 잘 사용하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 매트왁스 110ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "48",
+    "Word": "12",
+    "RDate": "20210716",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 가격에 잘 산 거 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한도 넉넉해서 맘에 듭니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "742748",
+    "RawText": "이 제품이 최고인 것 같습니다. 긴머리에 사용하고 있는데, 컬 세팅력이 최고네요. 가격도 저렴해서 앞으로도 계속 사용할 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 매트왁스 110ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "18",
+    "RDate": "20210615",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "컬 세팅력이 최고네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "742761",
+    "RawText": "행사해서 저렴하게 잘 샀습니다. 타 마트에 비해서 훨씬 저렴합니다. 머리 고정도 잘 되네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "51",
+    "Word": "13",
+    "RDate": "20220829",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "행사해서 저렴하게 잘 샀습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "타 마트에 비해서 훨씬 저렴합니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "머리 고정도 잘 되네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "742814",
+    "RawText": "젤이 나오는 용기 부분이 약간 안쪽으로 되어 있어서 사용시 젤이 아래로 흘러 불편하네요. 고정력은 괜찮네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "15",
+    "RDate": "20220512",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용기",
+        "SentimentText": "젤이 나오는 용기 부분이 약간 안쪽으로 되어 있어서 사용시 젤이 아래로 흘러 불편하네요.",
+        "SentimentWord": "13",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "고정력은 괜찮네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "742821",
+    "RawText": "몇년째 사용하고 있는 제품입니다. 딱딱하지 않아서 스타일을 만드는 게 펀하고 흐트러짐도 없이 고정되어 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "14",
+    "RDate": "20220503",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "딱딱하지 않아서 스타일을 만드는 게 펀하고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "흐트러짐도 없이 고정되어 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "742836",
+    "RawText": "오랫동안 써온 제품입니다. 제형이 끈적이지 않고 냄새도 약해서 좋아요. 고정력도 좋고 저녁까지 잘 유지됩니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "14",
+    "RDate": "20220405",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 끈적이지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 약해서 좋아요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "고정력도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "저녁까지 잘 유지됩니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "742837",
+    "RawText": "손에 제형의 끈적거림이 덜해서 좋습니다. 향과 고정력도 과하지 않아 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "43",
+    "Word": "10",
+    "RDate": "20220403",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "손에 제형의 끈적거림이 덜해서 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향과 고정력도 과하지 않아 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "고정력도 과하지 않아 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "742850",
+    "RawText": "늘 사용해오던거라 다 사용하면 재구매하는 상품입니다. 마트보다 저렴해서 언제나 인터넷으로 구매를 하고 있는데 향도 은은하고 제형이 묽은 액상이라 잘 발리고 물을 좀 발라 스타일링 해주면 엄청 단단하게 굳어 고정되니 바람불어도 한결같이 그대로예요. 적은 양으로도 최고의 효과를 내는 ㅇㅇㅇ 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "166",
+    "Word": "39",
+    "RDate": "20220321",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 은은하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 묽은 액상이라 잘 발리고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "잘 발리고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "물을 좀 발라 스타일링 해주면 엄청 단단하게 굳어 고정되니 ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "적은 양으로도 최고의 효과를 내는 ㅇㅇㅇ 좋습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "바람불어도 한결같이 그대로예요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "742875",
+    "RawText": "다른 제품과 달리 젤을 바른 후에 너무 딱딱해지지 않아서 좋고 향도 좋네요. 제품 양도 넉넉해서 좋고 저렴하게 구매해서 아주 만족하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "20",
+    "RDate": "20220207",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "딱딱해지지 않아서 좋고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 넉넉해서 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "742908",
+    "RawText": "고정력이 완전 하드 타입이 아니라서 더욱 좋습니다. 번들거리지 않고 머리를 차분하게 만들어 주면서도 고정이 잘되어 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "16",
+    "RDate": "20211118",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "고정력이 완전 하드 타입이 아니라서 더욱 좋습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "번들거리지 않고 머리를 차분하게 만들어 주면서도 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "고정이 잘되어 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "742921",
+    "RawText": "고정력은 잘 모르겠어요. 발림성은 괜찮습니다. 가격도 비교적 저렴해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "39",
+    "Word": "8",
+    "RDate": "20211014",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "고정력은 잘 모르겠어요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성은 괜찮습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 비교적 저렴해요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "742928",
+    "RawText": "10년전부터 사용해서 사용한지 오래된 제품입니다. 부드럽게 밀착되면서 자연스럽게 고정시키고 향도 적당히 은은해서 다른 헤어제품보다 이 제품을 사용하게 됩니다. 젖은 머리에 조금만 사용해도 하루종일 잘 유지되어 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "122",
+    "Word": "26",
+    "RDate": "20211003",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "밀착력/접착력",
+        "SentimentText": "부드럽게 밀착되면서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "자연스럽게 고정시키고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 적당히 은은해서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "하루종일 잘 유지되어 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "742944",
+    "RawText": "일단 가격이 저렴해서 좋아요. 머리 스타일링이 잘 고정되어 좋습니다. 만족해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "44",
+    "Word": "10",
+    "RDate": "20210911",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴해서 좋아요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "머리 스타일링이 잘 고정되어 좋습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "742958",
+    "RawText": "데일리 필수템입니다. 퍼머한 머리에 사용하면 깔끔하게 스탕일링 됩니다. 강력한 세팅이 돼요. 지속력 좋습니다. 추천해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "14",
+    "RDate": "20210805",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "데일리 필수템입니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "퍼머한 머리에 사용하면 깔끔하게 스탕일링 됩니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "강력한 세팅이 돼요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "742965",
+    "RawText": "스타일링 금방 고정되어 좋지만, 머릿결이 딱딱해져서 아쉽네요. 일단 이번에 그냥저냥 쓰겠지만, 재구매는 생각해 보려고 하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "3",
+    "Syllable": "70",
+    "Word": "15",
+    "RDate": "20210729",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "스타일링 금방 고정되어 좋지만,",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "머릿결이 딱딱해져서 아쉽네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "742969",
+    "RawText": "이 제품은 신랑이 쓰고 있는데 거의 다 써서 검색하니 여기가 가장 가격이 착해서 구입했습니다. 세팅력도 좋고 용량도 커서 한참 쓸 수 있고 유통기한도 넉넉해서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "94",
+    "Word": "25",
+    "RDate": "20210723",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "여기가 가장 가격이 착해서 구입했습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "세팅력도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량도 커서 한참 쓸 수 있고 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한도 넉넉해서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "742979",
+    "RawText": "이 상품만 구매하고 있습니다. 뭉치지 않고 원하는 스타일로 잘 세팅되어 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "45",
+    "Word": "11",
+    "RDate": "20210630",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "뭉치지 않고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "원하는 스타일로 잘 세팅되어 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "743003",
+    "RawText": "굉장히 만족스럽게 사용하는 중입니다. 원하는 대로 세팅도 하고 오래가며, 세정도 잘 되어서 대만족입니다. 강추해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "14",
+    "RDate": "20210513",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "원하는 대로 세팅도 하고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "오래가며,",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "클렌징/제거력",
+        "SentimentText": "세정도 잘 되어서 대만족입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "743008",
+    "RawText": "신랑이 사용하는 헤어젤입니다. 적당한 고정력에 사용하기 편리하고 용량도 많아서 정말 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "52",
+    "Word": "11",
+    "RDate": "20210504",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "적당한 고정력에 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기 편리하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": " 용량도 많아서 정말 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "743010",
+    "RawText": "저는 이 상품만 쓰고 있습니다. 머리카락이 얇아서 고정하기 위해서 사용하는데, 고정력 괜찮습니다. 이 제품을 약간 손에 짜고 물을 다른 손에 묻혀서 물기가 약간 있는 상태에서 비벼서 사용하고 있어요. 물기가 없는 상태에서 바르면 머리가 뭉치고 엉켜서 엉망이 됩니다. 냄새도 거의 없어서 좋아요. 이 상품을 쓴지 벌써 3년이 넘었는데 단종될까봐 걱정이네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "198",
+    "Word": "49",
+    "RDate": "20210424",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "고정력 괜찮습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "물기가 없는 상태에서 바르면 머리가 뭉치고 엉켜서 엉망이 됩니다. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 거의 없어서 좋아요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "743012",
+    "RawText": "잘 고정돼서 좋습니다. 귀찮아서 마트에서 구매하다가 요즘은 계속 OOO에서 주문하고 있네요. 저렴하고 배송도 빨라서 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "71",
+    "Word": "15",
+    "RDate": "20210418",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "잘 고정돼서 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하고 배송도 빨라서 만족합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "743031",
+    "RawText": "제형이 약간 묽어요. 고정력은 보통 이라 많은 양을 바르게 됩니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "37",
+    "Word": "10",
+    "RDate": "20210228",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 약간 묽어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": " 고정력은 보통 이라 많은 양을 바르게 됩니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "743045",
+    "RawText": "세팅력이 좋아서 항상 이 제품만 사용합니다. 용량도 넉넉해서 오래 사용할 수 있어서 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "51",
+    "Word": "13",
+    "RDate": "20210128",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "세팅력이 좋아서 항상 이 제품만 사용합니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량도 넉넉해서 오래 사용할 수 있어서 좋아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "743047",
+    "RawText": "빠른 배송에 저렴하고 편하게 구입했습니다. 250ml쓰다가 이번에는 500ml넉넉한 용량으로 주문했는데 OOO 마트 보다 더 저렴했어요. 몇 년째 출근할 때 사용하고 있고 자연스러운 앞머리와 옆머리 흩날리지 않게 고정이 잘 되고 좋고 향도 독하지 않아 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "146",
+    "Word": "34",
+    "RDate": "20210114",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하고 편하게 구입했습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "마트 보다 더 저렴했어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "자연스러운 앞머리와 옆머리 흩날리지 않게 고정이 잘 되고",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 독하지 않아 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "743059",
+    "RawText": "남편 헤어 케어용으로 샀네요. 용량 크고 펌핑 되는 용기라 편합니다. 지속력도 무난합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "50",
+    "Word": "12",
+    "RDate": "20201229",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량 크고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "펌핑 되는 용기라 편합니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력도 무난합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "743093",
+    "RawText": "머리 정리가 잘 되지 않아서 구매했습니다. 그런데 조금 펌프 해서 발라보니 파마머리가 차분 해지고 스타일도 살아납니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "16",
+    "RDate": "20201026",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "파마머리가 차분 해지고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "스타일도 살아납니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "743098",
+    "RawText": "남편이 펌핑 스타일의 젤을 찾아서 구매했는데 용기에서 흘러내리지 않아 깔끔하게 쓸 수 있어 좋아해요. 제품 자체도 고정력이나 발림성이 좋다고 합니다. 가격도 저렴하게 구매해서 만족합니다. 앞으로도 계속 이용할 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "123",
+    "Word": "29",
+    "RDate": "20201013",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기에서 흘러내리지 않아 깔끔하게 쓸 수 있어 좋아해요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "고정력이나 발림성이 좋다고 합니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성이 좋다고 합니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하게 구매해서 만족합니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "743101",
+    "RawText": "자연스럽게 헤어스타일 연출이 되고 아침에 스타일 변경할 때도 고정이 잘 돼서 편합니다. 아무튼 젤 쓰시는 분들 선택하셔도 후회 하지 않을 듯 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "83",
+    "Word": "22",
+    "RDate": "20200911",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "자연스럽게 헤어스타일 연출이 되고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "스타일 변경할 때도 고정이 잘 돼서 편합니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "743103",
+    "RawText": "드라마틱한 고정은 안 됩니다. 긴 앞머리에 하려고 구매했는데 스타일링이 잘 안되네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "47",
+    "Word": "11",
+    "RDate": "20200901",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "드라마틱한 고정은 안 됩니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "긴 앞머리에 하려고 구매했는데 스타일링이 잘 안되네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "743104",
+    "RawText": "헤어 고정용으로 아주 좋습니다. 샤워하면서 머리감고 고정하면 하루종일 오래 유지됩니다 요즘에는 이 제품으로 마무리하면 좋습니다. 드라이 없이도 고정력이 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "90",
+    "Word": "19",
+    "RDate": "20200901",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "헤어 고정용으로 아주 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "고정하면 하루종일 오래 유지됩니다 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": " 드라이 없이도 고정력이 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "743106",
+    "RawText": "OOO 헤어젤 너무 좋습니다. 이 제품 말고도 여러 제품 써 봤는데 OOO 만큼 가성비 좋고 좋은 품질의 제품은 없는 것 같아요. 헤어스타일링도 너무 잘 되는 것 같아 이것만 쓰게 되네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "105",
+    "Word": "30",
+    "RDate": "20200823",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "OOO 만큼 가성비 좋고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "좋은 품질의 제품은 없는 것 같아요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "헤어스타일링도 너무 잘 되는 것 같아 이것만 쓰게 되네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "743108",
+    "RawText": "머리숱이 너무 많아 여러가지 헤어 용품을 다 써보았지만 이 제품 같이 차분히 고정 시켜 주는 제품은 없는 것 같아요. 번들거리지 않아 너무 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "82",
+    "Word": "23",
+    "RDate": "20200818",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "이 제품 같이 차분히 고정 시켜 주는 제품은 없는 것 같아요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "번들거리지 않아 너무 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "743118",
+    "RawText": "10년째 구매해서 사용중인데요. 저렴하고 향도 괜찮아서 계속 애용중이에요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "41",
+    "Word": "8",
+    "RDate": "20200717",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 괜찮아서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "743122",
+    "RawText": "생각보다 고정이 잘 되지는 않네요. 양은 많아서 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "31",
+    "Word": "8",
+    "RDate": "20200701",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "생각보다 고정이 잘 되지는 않네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양은 많아서 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "743125",
+    "RawText": "타사 제품 사용하다 이번에 ㅇㅇㅇ으로 바꿨는데 좋네요. 고정력도 좋고 남편이랑 같이 쓰는데 좋네요.  이젠 ㅇㅇㅇ으로 찜 했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "17",
+    "RDate": "20200618",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "고정력도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "남편이랑 같이 쓰는데 좋네요.  ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "743142",
+    "RawText": "ㅇㅇㅇ 헤어젤 500ml 세팅력도 좋고 스타일링도 아주 잘 되요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "36",
+    "Word": "9",
+    "RDate": "20200523",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "세팅력도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "스타일링도 아주 잘 되요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "743161",
+    "RawText": "싸고 지속력도 좋아요. 무엇보다 냄새도 좋고 제형의 끈적임이 없는 것이 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "45",
+    "Word": "11",
+    "RDate": "20200413",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력도 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "무엇보다 냄새도 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형의 끈적임이 없는 것이 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "743164",
+    "RawText": "남편이 늘 사용하는 제품입니다. 스타일링 잘 되고 1+1으로 가성비 좋게 구매했어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "47",
+    "Word": "11",
+    "RDate": "20200409",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "스타일링 잘 되고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "1+1으로 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋게 구매했어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "743175",
+    "RawText": "ㅇㅇㅇ꺼는 ㅇㅇ과 달리 시간이 지나도 자연스럽고 엉겨 붙지 않습니다. 손에 물을 살짝 묻혀서 머리를 헤어스타일을 재정리 할 수 있어요. 품질도 정말 최고예요. 추천해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "94",
+    "Word": "23",
+    "RDate": "20200328",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "시간이 지나도 자연스럽고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "엉겨 붙지 않습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "손에 물을 살짝 묻혀서 머리를 헤어스타일을 재정리 할 수 있어요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 정말 최고예요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "743176",
+    "RawText": "이 제품을 스트롱 홀드 헤어젤 하드라 하기에는 절대로 강하게 고정되는 제품은 아니라 생각해요. 이정도 제품은 집에 있습니다. 헤어젤 하드라고 하길래 구입한건데 일반 다른 제품이랑 고정력이 차이가 없습니다. 참고하세요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "3",
+    "Syllable": "121",
+    "Word": "28",
+    "RDate": "20200326",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "절대로 강하게 고정되는 제품은 아니라 생각해요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "일반 다른 제품이랑 고정력이 차이가 없습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "743194",
+    "RawText": "생각보다 너무 굳어서 머리 감을때 씻어내기 힘드네요. 아주 소량 사용해야 할 듯 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "49",
+    "Word": "13",
+    "RDate": "20200229",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "생각보다 너무 굳어서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "클렌징/제거력",
+        "SentimentText": "머리 감을때 씻어내기 힘드네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "743206",
+    "RawText": "원래 쓰는 제품인데 용량이 많은데 저렴해서 또 샀습니다. 강추합니다. 펌에 살짝에 묻히면 오래 유지가 되요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "15",
+    "RDate": "20200210",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량이 많은데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴해서 또 샀습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "펌에 살짝에 묻히면 오래 유지가 되요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "743209",
+    "RawText": "배송은 파손없이 빠르게 잘 받았어요. 헤어쪽은 거의 ㅇㅇㅇ 라인으로 바꾸고 있습니다. 헤어젤도 ㅇㅇㅇ으로 바꿨네요. 향도 맘에 들고 착한 가격에 잘 샀습니다. 감사해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "94",
+    "Word": "22",
+    "RDate": "20200206",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 맘에 들고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "착한 가격에 잘 샀습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "743212",
+    "RawText": "지속적으로 사용하던 제품입니다. 품질에 만족하고 오프라인 매장에서 구입하는 것 보다 저렴하게 샀습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "12",
+    "RDate": "20200203",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질에 만족하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "오프라인 매장에서 구입하는 것 보다 저렴하게 샀습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "743216",
+    "RawText": "롱 헤어 고정하려고 구매했습니다. 드라이한 후 반쯤 펌핑한 후 컬 살려서 발라봤어요. 고정력은 적당하네요. 하드 타입이라 너무 세게 고정될까 걱정했는데 자연스럽게 세팅되네요. 젤 바르고 나면 손이 끈적이는 건 어쩔 수 없는 거 같아요. 가성비 괜찮습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "142",
+    "Word": "35",
+    "RDate": "20200202",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "고정력은 적당하네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "자연스럽게 세팅되네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "젤 바르고 나면 손이 끈적이는 건 어쩔 수 없는 거 같아요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 괜찮습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "743220",
+    "RawText": "헤어젤은 이 제품이 뻣뻣하지 않고 잘 씻겨서 헤어 복원도 되고 다른 제품에 비해 품질이 월등히 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "16",
+    "RDate": "20200129",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "뻣뻣하지 않고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "클렌징/제거력",
+        "SentimentText": "잘 씻겨서 헤어 복원도 되고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "다른 제품에 비해 품질이 월등히 좋네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "743235",
+    "RawText": "자주 사용하는 제품이에요. ㅇㅇ 덕분에 아주 저렴하게 구입했어요. ㅇㅇㅇ 헤어젤 남편이 세팅이 잘 된다고 해요. 감사해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "16",
+    "RDate": "20200112",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구입했어요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "ㅇㅇㅇ 헤어젤 남편이 세팅이 잘 된다고 해요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "743242",
+    "RawText": "친정엄마 사드렸는데 향도 좋고 좋다고 하십니다. 저렴하게 좋은 제품 감사해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "43",
+    "Word": "10",
+    "RDate": "20191223",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 좋은 제품 감사해요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "743258",
+    "RawText": "십년이상 써오는 제품이에요. 머리 정리하고 흐트러짐이 없이 헤어 스타일을 하루종일 유지하기에는 아주 좋은 헤어젤이에요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "14",
+    "RDate": "20191122",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "머리 정리하고 흐트러짐이 없이 헤어 스타일을 하루종일 유지하기에는 아주 좋은 헤어젤이에요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "흐트러짐이 없이 헤어 스타일을 하루종일 유지하기에는 아주 좋은 헤어젤이에요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "743260",
+    "RawText": "적은 양으로도 원하는 스타일을 만들 수 있다는 점도 좋았습니다. 우선은 마트보다 저렴해서 살짝 걱정했는데, 걱정 할 필요가 없었네요. 재구매 하려구요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "84",
+    "Word": "20",
+    "RDate": "20191112",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "적은 양으로도 원하는 스타일을 만들 수 있다는 점도 좋았습니다. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "우선은 마트보다 저렴해서 살짝 걱정했는데, 걱정 할 필요가 없었네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "743290",
+    "RawText": "애들 아빠머리가 완전 직모인데 이 제품을 쓰니까 좋다고 해서 늘 쓰던 제품이네요. 여기가 훨씬 저렴해서 좀 많이 여러개 구매를 했어요. 유통기한도 깁니다. 번창하시길 바래요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "97",
+    "Word": "24",
+    "RDate": "20190808",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "여기가 훨씬 저렴해서 좀 많이 여러개 구매를 했어요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한도 깁니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "743303",
+    "RawText": "시중보다 많이 저렴하고 배송도 엄청 빠릅니다. 딱 쓰기 좋은 정도의 고정력이라 스타일링하기 무난하고 좋습니다. 양도 많고 사용기한도 넉넉합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "80",
+    "Word": "18",
+    "RDate": "20190728",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "시중보다 많이 저렴하고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "딱 쓰기 좋은 정도의 고정력이라 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "스타일링하기 무난하고 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 많고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "사용기한도 넉넉합니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "743323",
+    "RawText": "다른 제품보다 힘있게 잘 고정이 되서 온 가족이 함께 유용하게 활용하고 있습니다. ㅇㅇ이 좋은 가격과 구성이라 꾸준히 주문하네요. 용량도 커서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "85",
+    "Word": "21",
+    "RDate": "20190530",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "다른 제품보다 힘있게 잘 고정이 되서",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "온 가족이 함께 유용하게 활용하고 있습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 가격과 구성이라 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성이라 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량도 커서 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "743328",
+    "RawText": "배송도 빠르고 가성비도 최고네요. 또, 유통 기한도 엄청 깁니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "36",
+    "Word": "9",
+    "RDate": "20190515",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비도 최고네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통 기한도 엄청 깁니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "743351",
+    "RawText": "가격도 저렴했고. 배송도 빨랐어요. 사이즈도 커서 오래 쓸 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "39",
+    "Word": "10",
+    "RDate": "20181017",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴했고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "사이즈도 커서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "743353",
+    "RawText": "아주 저렴하게 구매했습니다. 매일 쓰는거라 대용량으로 샀는데 크네요. 생각보다 엄청 빨리 왔습니다. 택배 아저씨도 친절하시네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "15",
+    "RDate": "20180930",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "아주 저렴하게 구매했습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "매일 쓰는거라 대용량으로 샀는데 크네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "743362",
+    "RawText": "항상 구매하는 제품이에요. 세팅력이 좋습니다. 용량 대비 가격도 괜찮습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "42",
+    "Word": "9",
+    "RDate": "20180801",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "세팅력이 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "용량 대비 가격도 괜찮습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "743368",
+    "RawText": "하드젤 500ml/  헤어젤 하드라 원하는 스타일을 만들어 주네요. 유통기한도 넉넉하고 저렴한 가격에 양도 많아 오래 사용할 수 있어 만족스럽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "82",
+    "Word": "19",
+    "RDate": "20180624",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "헤어젤 하드라 원하는 스타일을 만들어 주네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한도 넉넉하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 많아",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "743370",
+    "RawText": "늘 사용하는 제품입니다. 꾸준하게 구입할 때는 이유가 있습니다. 세팅력도, 향기도 만족스럽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "54",
+    "Word": "11",
+    "RDate": "20180521",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "세팅력도, 향기도 만족스럽습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기도 만족스럽습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "743377",
+    "RawText": "특별한 향은 없으나 끈적이지 않고 잘 고정되서 남편이 애용해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "35",
+    "Word": "9",
+    "RDate": "20180412",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "특별한 향은 없으나 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "끈적이지 않고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "잘 고정되서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "743402",
+    "RawText": "시중보단 저렴합니다.  안끈적거린다고 해서 구매 했었는데 끈적거리네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "39",
+    "Word": "7",
+    "RDate": "20171217",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "시중보단 저렴합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "안끈적거린다고 해서 구매 했었는데 끈적거리네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "743418",
+    "RawText": "저렴하게 구매해서 좋습니다. 사용기한도 넉넉하니 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "31",
+    "Word": "6",
+    "RDate": "20170830",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구매해서 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "사용기한도 넉넉하니 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "743422",
+    "RawText": "남자인데 딱 적당한 세팅력인 것 같네요. 이것 저것 사용해 보았는데 너무 저렴하면 두피에 문제 있을 것 같아요. 어떤것은 하얀 가루가 생기기도 하는데 ㅇㅇㅇ은 하얀가루가 생기지 않고 깔끔하고 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "112",
+    "Word": "28",
+    "RDate": "20170815",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "딱 적당한 세팅력인 것 같네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "ㅇㅇㅇ은 하얀가루가 생기지 않고 깔끔하고 좋습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "743433",
+    "RawText": "ㅇㅇㅇ 가격은 완전 싸네요. 품질은 오프라인 제품이랑 같습니다. 아쉬운점은 배송이 마니 늦네요. 그래도 저렴해서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "15",
+    "RDate": "20170725",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "ㅇㅇㅇ 가격은 완전 싸네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질은 오프라인 제품이랑 같습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴해서 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "743437",
+    "RawText": "제형은 글레이즈와 하드젤의 중간 점도입니다. 제형이 너무 하드 하지 않아서 좋고 발림성이 가볍고 좋습니다. 향도 은은하고 저렴한 가격에 용량도 많아서 매일 써도 부담 없어 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "101",
+    "Word": "25",
+    "RDate": "20170720",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형은 글레이즈와 하드젤의 중간 점도입니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 너무 하드 하지 않아서 좋고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성이 가볍고 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 은은하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량도 많아서 매일 써도 부담 없어 좋습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "743452",
+    "RawText": "적당히 딱딱하지 않게 잘 고정이 되어 꾸준히 구매하는 상품이에요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "36",
+    "Word": "9",
+    "RDate": "20170524",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "적당히 딱딱하지 않게 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "잘 고정이 되어 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "743464",
+    "RawText": "시중에서 사는것 보다 훨씬 싸게 구입할 수 있어서 만족해요. 향도 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "42",
+    "Word": "11",
+    "RDate": "20170413",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "시중에서 사는것 보다 훨씬 싸게 구입할 수 있어서 만족해요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "743468",
+    "RawText": "오래전부터 남편이 사용해온 제품이에요. 머리감고 스타일 살리는데 최고네요. 머리숱이 가늘고 힘이 없어 ㅇㅇㅇ 바르면 흐트러지지 않고 하루종일 고정되어서 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 헤어젤 하드 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "89",
+    "Word": "19",
+    "RDate": "20170403",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "스타일 살리는데 최고네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "ㅇㅇㅇ 바르면 흐트러지지 않고 하루종일 고정되어서 좋아요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "하루종일 고정되어서 좋아요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]

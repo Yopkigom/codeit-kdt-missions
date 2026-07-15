@@ -1,0 +1,3223 @@
+[
+  {
+    "Index": "99183",
+    "RawText": "제품 가격이 저렴해서 좋아요. 저렴한거 사서 자주 교체해주는게 좋음. ㅋ 제품 퀄리티(마감, 재질, 이음새 등)도 우수해서 만족해요.  흡입력은 타사 제품과 거의 비슷한데 사용하기 좋아요.  ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "파세코 PHD-S605",
+    "ReviewScore": "4",
+    "Syllable": "107",
+    "Word": "24",
+    "RDate": "20201024",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "제품 가격이 저렴해서 좋아요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "제품 퀄리티(마감, 재질, 이음새 등)도 우수해서 만족해요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "흡입력은 타사 제품과 거의 비슷한데 사용하기 좋아요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99185",
+    "RawText": "OOO 회사 제품이 유명해서 믿고 구입했는데 사용해보니 너무 안 좋네요ㅜ 제품 표면이 거칠거리고 철판이 찌그러져 있네요. ㅜ 실망이 큽니다.  LED 등 밝기가 어두워 밤에 별로 도움이 안되네요. 대실망.  필터도 진짜 종잇장처럼 얇아서 마음에 안 들어요.  다행히 팬 소음은 거의 없고 조용한 편입니다. 굿~",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "파세코 PHD-S605",
+    "ReviewScore": "2",
+    "Syllable": "173",
+    "Word": "43",
+    "RDate": "20171009",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제조일/제조사",
+        "SentimentText": "OOO 회사 제품이 유명해서 믿고 구입했는데 사용해보니 너무 안 좋네요ㅜ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "제품 표면이 거칠거리고 철판이 찌그러져 있네요. ㅜ 실망이 큽니다. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "LED 등 밝기가 어두워 밤에 별로 도움이 안되네요. 대실망. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "필터도 진짜 종잇장처럼 얇아서 마음에 안 들어요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "다행히 팬 소음은 거의 없고 조용한 편입니다. 굿~",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99186",
+    "RawText": "기존 사용하던 제품에 비해 풍량이 좋아서 만족해요..  다만 소음은 생각보다 무척 시끄러워서 안 좋네요..  ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "파세코 PHD-S605",
+    "ReviewScore": "4",
+    "Syllable": "61",
+    "Word": "14",
+    "RDate": "20180722",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "기존 사용하던 제품에 비해 풍량이 좋아서 만족해요.. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "다만 소음은 생각보다 무척 시끄러워서 안 좋네요.. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99187",
+    "RawText": "인터넷 최저가로 제품 구입해서 마음이 흡족합니다.  제품 사이즈도 적당해서 저희집 상판과 딱 맞아 만족해요..  ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "한샘이펙스 HSGC-E330",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "14",
+    "RDate": "20220526",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "인터넷 최저가로 제품 구입해서 마음이 흡족합니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "제품 사이즈도 적당해서 저희집 상판과 딱 맞아 만족해요.. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99188",
+    "RawText": "내부 용량이 많이 작아서 실망스럽네요. ㅜ  제품 외형은 무척 깔끔하고 심플해서 만족해요.  타사 비슷한 가격대 제품 대비 기능이 매우 우수해서 마음에 들어요.  세척이 깨끗하게 되어 좋고, 소음도 거의없고 조용해요.. 사용해보니 만족감이 크네요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "SK매직 DWA-2800P",
+    "ReviewScore": "5",
+    "Syllable": "138",
+    "Word": "32",
+    "RDate": "20201117",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용량",
+        "SentimentText": "내부 용량이 많이 작아서 실망스럽네요. ㅜ ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "제품 외형은 무척 깔끔하고 심플해서 만족해요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "타사 비슷한 가격대 제품 대비 기능이 매우 우수해서 마음에 들어요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "세척이 깨끗하게 되어 좋고,",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "소음도 거의없고 조용해요.. 사용해보니 만족감이 크네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99189",
+    "RawText": "부품 구입해 셀프로 정수기 급수라인 자동급수 연결해 보았는데 연결 방법이 간편하고 쉬워서 만족해요..  제품 성능이 우수해 세척 및 헹굼이 무척 잘 되어 마음에 들어요.  다만 예상보다 부피가 커서 안 좋네요.  또 건조 기능은 매우 기대에 못 미치네요. ㅜ 실망입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "SK매직 DWA-2800P",
+    "ReviewScore": "5",
+    "Syllable": "151",
+    "Word": "39",
+    "RDate": "20201209",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "조작성",
+        "SentimentText": "부품 구입해 셀프로 정수기 급수라인 자동급수 연결해 보았는데 연결 방법이 간편하고 쉬워서 만족해요.. ",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "제품 성능이 우수해 세척 및 헹굼이 무척 잘 되어 마음에 들어요. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "다만 예상보다 부피가 커서 안 좋네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "또 건조 기능은 매우 기대에 못 미치네요. ㅜ 실망입니다. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99190",
+    "RawText": "애벌로 물로 한번 헹군뒤에 넣어줘야 해서 불편해서 안 좋네요 . ㅜ  다만 제품 사용후부터는 시간이 절약되어 좋고 , 예상보다 깨끗하게 잘 닦여서 마음에 듭니다. 잘 샀어요",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "SK매직 DWA-2800P",
+    "ReviewScore": "4",
+    "Syllable": "96",
+    "Word": "26",
+    "RDate": "20210228",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성",
+        "SentimentText": "애벌로 물로 한번 헹군뒤에 넣어줘야 해서 불편해서 안 좋네요 . ㅜ ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "다만 제품 사용후부터는 시간이 절약되어 좋고 ,",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": " 예상보다 깨끗하게 잘 닦여서 마음에 듭니다. 잘 샀어요 ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99191",
+    "RawText": "제품 외형이 깔끔하고 간결해서 주방과 잘 어울려요 대만족.  타사 제품에 비해 세로 길이가 길어서 더 많은 그릇들이 수납되어 좋네요..  특히나 자동 문열림 기능은 넘 마음에 들어요",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "SK매직 DWA-2800P",
+    "ReviewScore": "4",
+    "Syllable": "101",
+    "Word": "26",
+    "RDate": "20210219",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "제품 외형이 깔끔하고 간결해서 주방과 잘 어울려요 대만족. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "타사 제품에 비해 세로 길이가 길어서 더 많은 그릇들이 수납되어 좋네요.. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "특히나 자동 문열림 기능은 넘 마음에 들어요 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99192",
+    "RawText": "젖병 세척용으로 구입.  하루에 엄청 쏟아져 나오는 젖병을 책임져주니 너무 편리해서 대만족입니다.  다만 고체 세제 투입하면 바닥으로 좀 세서 아쉽네요. ㅜ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "SK매직 DWA-2800P",
+    "ReviewScore": "5",
+    "Syllable": "87",
+    "Word": "21",
+    "RDate": "20210223",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성",
+        "SentimentText": "하루에 엄청 쏟아져 나오는 젖병을 책임져주니 너무 편리해서 대만족입니다. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "다만 고체 세제 투입하면 바닥으로 좀 세서 아쉽네요. ㅜ ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99193",
+    "RawText": "12인용 살까 고민했는데 소량 설거지는 나오는대로 하는 편이라 제게는 딱 적당하네요. 좋아요 ^^  세척력이 우수해 잔여물 없이 아주 뽀득하게 닦여서 대만족입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "SK매직 DWA-2910P",
+    "ReviewScore": "5",
+    "Syllable": "91",
+    "Word": "21",
+    "RDate": "20220504",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량",
+        "SentimentText": "12인용 살까 고민했는데 소량 설거지는 나오는대로 하는 편이라 제게는 딱 적당하네요. 좋아요 ^^ ",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "세척력이 우수해 잔여물 없이 아주 뽀득하게 닦여서 대만족입니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99194",
+    "RawText": "내부 용량이 많이 작아서 실망이에요ㅜ  5식구 아침 점심 분량 정도 들어가네요.. 소음은 기존 제품과 비슷한데 거슬리지 않아서 만족해요.  작동이 종료되면 건조되라고 자동으로 문이 열려서 마음에 들어요..  세척력이 매우 우수해서 뽀득하게 잘 닦여서 좋습니다.. 강추~!",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "SK매직 DWA-2910P",
+    "ReviewScore": "5",
+    "Syllable": "151",
+    "Word": "34",
+    "RDate": "20220602",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용량",
+        "SentimentText": "내부 용량이 많이 작아서 실망이에요ㅜ  5식구 아침 점심 분량 정도 들어가네요..",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "소음은 기존 제품과 비슷한데 거슬리지 않아서 만족해요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "작동이 종료되면 건조되라고 자동으로 문이 열려서 마음에 들어요.. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "세척력이 매우 우수해서 뽀득하게 잘 닦여서 좋습니다.. 강추~! ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99195",
+    "RawText": "설거지 하느라 그동안 고생 많았는데 편해져서 대만족입니다.  다만 건조기능이 별도로 없는 제품이라 아쉬워요. ㅜ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "SK매직 DWA-2910P",
+    "ReviewScore": "4",
+    "Syllable": "62",
+    "Word": "14",
+    "RDate": "20220822",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성",
+        "SentimentText": "설거지 하느라 그동안 고생 많았는데 편해져서 대만족입니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "다만 건조기능이 별도로 없는 제품이라 아쉬워요. ㅜ  ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99196",
+    "RawText": "최근에 제조된 최신상품이라서 기분 좋네요.  제품 외형이 심플하고 깨끗해서 마음에 들어요.  뽀득하게 잘 닦여서 좋고, 사용종료 후에는 문열림까지 자동으로 되어 너무 편해요.. 성능 최고~! ^^",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "SK매직 DWA-2910P",
+    "ReviewScore": "5",
+    "Syllable": "109",
+    "Word": "25",
+    "RDate": "20220429",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제조일/제조사",
+        "SentimentText": "최근에 제조된 최신상품이라서 기분 좋네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "제품 외형이 심플하고 깨끗해서 마음에 들어요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "뽀득하게 잘 닦여서 좋고, 사용종료 후에는 문열림까지 자동으로 되어 너무 편해요.. 성능 최고~! ^^",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99197",
+    "RawText": "3인용 가족이 사용중.  제품 외형이 무척 예뻐서 좋네요.  다만 화면보다 실물 사이즈가 훨씬 커서 깜짝 놀랐어요.. 아쉬워요. ㅜ  제품 성능이 우수해 그릇들을 뽀득뽀득하게 닦아주어 대만족입니다.  다만 건조기능이 없는 제품이라 슬프네요. ㅜ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "SK매직 DWA-2910P",
+    "ReviewScore": "3",
+    "Syllable": "136",
+    "Word": "31",
+    "RDate": "20220602",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "제품 외형이 무척 예뻐서 좋네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "다만 화면보다 실물 사이즈가 훨씬 커서 깜짝 놀랐어요.. 아쉬워요. ㅜ ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "제품 성능이 우수해 그릇들을 뽀득뽀득하게 닦아주어 대만족입니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "다만 건조기능이 없는 제품이라 슬프네요. ㅜ ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99198",
+    "RawText": "6인용으로 구입 제품 사용하고부터 예전보다 훨씬 편리해져서 만족감이 큽니다.  제품 사이즈가 적당해서 공간을 많이 차지 하지 않아서 최고로 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "SK매직 DWA-2910P",
+    "ReviewScore": "5",
+    "Syllable": "82",
+    "Word": "19",
+    "RDate": "20220520",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성",
+        "SentimentText": "제품 사용하고부터 예전보다 훨씬 편리해져서 만족감이 큽니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "제품 사이즈가 적당해서 공간을 많이 차지 하지 않아서 최고로 좋아요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99199",
+    "RawText": "제품 외형이 깔끔하고 멋지네요.. 맘에 들어요..  컴팩트한 사이즈라 공간 많이 차지 하지 않아서 만족해요..  건조되어 나온 그릇들을 살펴보니 얼룩 자국이 전혀 없어서 좋네요..  조작방법도 매우 간편하고 쉬워 사용하기 편리해요. 굿~ 내부 용량이 크고 2단이라 6인용임에도 식기들이 제법 많이 들어가서 마음에 쏙드네요..",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "SK매직 DWA-2910P",
+    "ReviewScore": "5",
+    "Syllable": "181",
+    "Word": "41",
+    "RDate": "20220420",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "제품 외형이 깔끔하고 멋지네요.. 맘에 들어요.. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "컴팩트한 사이즈라 공간 많이 차지 하지 않아서 만족해요.. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "건조되어 나온 그릇들을 살펴보니 얼룩 자국이 전혀 없어서 좋네요.. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "조작방법도 매우 간편하고 쉬워 사용하기 편리해요. 굿~",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "내부 용량이 크고 2단이라 6인용임에도 식기들이 제법 많이 들어가서 마음에 쏙드네요.. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99201",
+    "RawText": "예상보다 제품 크기가 완전 커서 놀랐어요.. 주방이 더 비좁아 보여서 안 좋아요. ㅜ  제품 외형이 심플하고 예뻐서 좋아요.  세척력도 매우 우수해서 식기류들이 뽀득거리네요.. 만족합니다.  다만 건조되어 나온 그릇들이 물자국이 살짝씩 남아 있어서 아쉬워요.ㅜ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "SK매직 트리플케어 DWA-19R1P",
+    "ReviewScore": "5",
+    "Syllable": "145",
+    "Word": "33",
+    "RDate": "20220522",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "예상보다 제품 크기가 완전 커서 놀랐어요.. 주방이 더 비좁아 보여서 안 좋아요. ㅜ ",
+        "SentimentWord": "13",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "제품 외형이 심플하고 예뻐서 좋아요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "세척력도 매우 우수해서 식기류들이 뽀득거리네요.. 만족합니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "다만 건조되어 나온 그릇들이 물자국이 살짝씩 남아 있어서 아쉬워요.ㅜ ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99202",
+    "RawText": "장모님 선물로 구입.  사용하시던 제품에 비해 기능이 훨씬 다양해지고 세척력이 좋아졌다고 만족해하시네요..  세일할때 저렴한 가격으로 좋은 제품 구입해서 기분 좋네요..",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "SK매직 트리플케어 DWA-19R1P",
+    "ReviewScore": "5",
+    "Syllable": "94",
+    "Word": "20",
+    "RDate": "20220309",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "사용하시던 제품에 비해 기능이 훨씬 다양해지고 세척력이 좋아졌다고 만족해하시네요.. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "세일할때 저렴한 가격으로 좋은 제품 구입해서 기분 좋네요.. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99203",
+    "RawText": "와이프 선물로 구입 처음 사용해보니 손세척한 것보다 훨씬 깨끗하게 닦여 있어 감탄했어요. 세척력 너무 우수하네요.. 굿~! 제품 사이즈도 저희 주방에 딱 좋네요.. 구입하길 잘했어요 ^^",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "SK매직 트리플케어 DWA-19R1P",
+    "ReviewScore": "5",
+    "Syllable": "104",
+    "Word": "25",
+    "RDate": "20220601",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "처음 사용해보니 손세척한 것보다 훨씬 깨끗하게 닦여 있어 감탄했어요. 세척력 너무 우수하네요.. 굿~!",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "제품 사이즈도 저희 주방에 딱 좋네요.. 구입하길 잘했어요 ^^ ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99204",
+    "RawText": "친정집 선물로 구입.  제품 외형이 세련되고 깔끔해서 주방 가전들과 조화를 이루어 마음에 듭니다.  그릇 닦느라 허리 아프고 고생했었는데 좋은 제품 구입해서 노동에서 해방되어 만족해요.  ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "SK매직 트리플케어 DWA-19R1P",
+    "ReviewScore": "5",
+    "Syllable": "105",
+    "Word": "24",
+    "RDate": "20220225",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "제품 외형이 세련되고 깔끔해서 주방 가전들과 조화를 이루어 마음에 듭니다. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "그릇 닦느라 허리 아프고 고생했었는데 좋은 제품 구입해서 노동에서 해방되어 만족해요. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99205",
+    "RawText": "OOO제품 사용해보니 만족감이 커서 다시 OOO회사 제품으로 구입했어요.. 굿 ^^ 제품 사이즈가 저희 주방에서 사용하기 딱 좋은 크기라 마음에 들어요. 내부 구조가 조금 바뀌고, 날개도 커져서 그런지 구제품보다 세척력이 훨씬 좋아졌네요.. 만족합니다.  다만 정제소금을 구비해놓고 투입해야 하는 점이 생소하고 귀찮네요.. ㅜ 별로에요",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "디오스 LG전자 스팀 DFB22MA 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "187",
+    "Word": "42",
+    "RDate": "20210306",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "제조일/제조사",
+        "SentimentText": "OOO제품 사용해보니 만족감이 커서 다시 OOO회사 제품으로 구입했어요.. 굿 ^^",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "제품 사이즈가 저희 주방에서 사용하기 딱 좋은 크기라 마음에 들어요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "내부 구조가 조금 바뀌고, 날개도 커져서 그런지 구제품보다 세척력이 훨씬 좋아졌네요.. 만족합니다. ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "다만 정제소금을 구비해놓고 투입해야 하는 점이 생소하고 귀찮네요.. ㅜ 별로에요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99207",
+    "RawText": "제품 구입후부터는 저녁 시간이 아주 여유롭네요.. 너무 좋아요.  다만 기름 묻은 그릇, 음식 남긴 그릇등은 애벌 세척해서 넣어줘야 하는 점이 불편하네요. ㅜ 아쉬워요.  세척력은 매우 우수해 제가 씻은 것보다 훨씬 깨끗해서 감탄했어요.. 대만족~!",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "디오스 LG전자 스팀 DFB22MA 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "139",
+    "Word": "33",
+    "RDate": "20210718",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성",
+        "SentimentText": "제품 구입후부터는 저녁 시간이 아주 여유롭네요.. 너무 좋아요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "다만 기름 묻은 그릇, 음식 남긴 그릇등은 애벌 세척해서 넣어줘야 하는 점이 불편하네요. ㅜ 아쉬워요. ",
+        "SentimentWord": "15",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "세척력은 매우 우수해 제가 씻은 것보다 훨씬 깨끗해서 감탄했어요.. 대만족~! ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99208",
+    "RawText": "제품이 진화해서 부분세척, 스팀기능, 자동문열림, 세척 남은시간 알림 등이 모두 가능해서 너무 편리해요.. 대만족입니다.  다만 생각보다 작동할때 소음이 많이 커서 거실에서 티비볼때 거슬리네요 ㅜ 그점은 안 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "디오스 LG전자 스팀 DFB22MA 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "120",
+    "Word": "27",
+    "RDate": "20210420",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "제품이 진화해서 부분세척, 스팀기능, 자동문열림, 세척 남은시간 알림 등이 모두 가능해서 너무 편리해요.. 대만족입니다. ",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "다만 생각보다 작동할때 소음이 많이 커서 거실에서 티비볼때 거슬리네요 ㅜ 그점은 안 좋아요.",
+        "SentimentWord": "13",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99209",
+    "RawText": "와우 ~~ 스팀기능으로 깨끗하게 설거지 되어 나오니 정말 신세계네요.. 대만족입니다.  사용할때 작동 소음 거의 없어서 좋고, 남은 시간이 LED창에 표시되어 다른일 보기도 좋아요.. 작동 완료되면 자동으로 문이 열리고 건조되네요..  스스로 알아서 다해주니 정말 편리합니다. 굿~! ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "디오스 LG전자 스팀 DFB22MA 일반구매",
+    "ReviewScore": "4",
+    "Syllable": "159",
+    "Word": "35",
+    "RDate": "20201114",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "와우 ~~ 스팀기능으로 깨끗하게 설거지 되어 나오니 정말 신세계네요.. 대만족입니다. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "사용할때 작동 소음 거의 없어서 좋고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "남은 시간이 LED창에 표시되어 다른일 보기도 좋아요..",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "작동 완료되면 자동으로 문이 열리고 건조되네요..  스스로 알아서 다해주니 정말 편리합니다. 굿~!",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99210",
+    "RawText": "OOO회사 가전들은 정말 고장 없는 걸로 유명하지요.. 신뢰가 가서 구입했는데 실물 보니 기분 좋네요 ^^ 최신형 제품이라 사용할때 훨씬 조용해져서 흡족합니다.  사은품으로 주신 세제도 감사하게 잘 쓸게요.. ^^",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "디오스 LG전자 스팀 DFB22WA",
+    "ReviewScore": "5",
+    "Syllable": "119",
+    "Word": "28",
+    "RDate": "20211109",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제조일/제조사",
+        "SentimentText": "OOO회사 가전들은 정말 고장 없는 걸로 유명하지요.. 신뢰가 가서 구입했는데 실물 보니 기분 좋네요 ^^",
+        "SentimentWord": "15",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "최신형 제품이라 사용할때 훨씬 조용해져서 흡족합니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품으로 주신 세제도 감사하게 잘 쓸게요.. ^^ ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99211",
+    "RawText": "제품에 정말 다양한 기능들이 있어서 너무 편리하고 좋아요.. 색상은 은색으로 구입했는데 저희 주방이 다 실버색 가전이라 세트처럼 딱 어울려 만족해요..  비슷한 스팩 제품군 중에 가장 저렴한 가격으로 구입해서 마음에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "디오스 LG전자 스팀 DFB22WA",
+    "ReviewScore": "5",
+    "Syllable": "125",
+    "Word": "30",
+    "RDate": "20220511",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "제품에 정말 다양한 기능들이 있어서 너무 편리하고 좋아요..",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상은 은색으로 구입했는데 저희 주방이 다 실버색 가전이라 세트처럼 딱 어울려 만족해요.. ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "비슷한 스팩 제품군 중에 가장 저렴한 가격으로 구입해서 마음에 듭니다. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99212",
+    "RawText": "와우 제품 내부 사이즈가 무척 넓어서 냄비에 프라이팬까지 다 들어가니 너무 좋네요.  다만 세척을 위해 소금 또는 린스가 필요하다네요.. 별도 구입해야 할 것들이 많아서 구찮긴해요. ㅜ 아쉬워요. ㅜ ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "디오스 LG전자 스팀 DUB22SA 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "112",
+    "Word": "28",
+    "RDate": "20210414",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용량",
+        "SentimentText": "와우 제품 내부 사이즈가 무척 넓어서 냄비에 프라이팬까지 다 들어가니 너무 좋네요. ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "다만 세척을 위해 소금 또는 린스가 필요하다네요.. 별도 구입해야 할 것들이 많아서 구찮긴해요. ㅜ 아쉬워요. ㅜ",
+        "SentimentWord": "16",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99213",
+    "RawText": "대리점보다 훨씬 더 저렴한 가격에 인터넷에서 구입해서 만족해요.  다만 사용할때 본체에서 뜨거운 열감이 느껴져서 주변 온도가 올라가 안 좋네요. ㅜ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "디오스 LG전자 스팀 DUB22SA 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "82",
+    "Word": "20",
+    "RDate": "20210601",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "대리점보다 훨씬 더 저렴한 가격에 인터넷에서 구입해서 만족해요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성",
+        "SentimentText": "다만 사용할때 본체에서 뜨거운 열감이 느껴져서 주변 온도가 올라가 안 좋네요. ㅜ ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99214",
+    "RawText": "고온살균 스팀기능으로 새그릇인듯 뽀드득하게 닦아주어 너무 만족스럽네요..  왜 가전하면 OOO브랜드가 최고라고 하는지 써보니 알겠어요.  설거지로 고생 이제 안녕 ㅋ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "디오스 LG전자 스팀 DUB22SA 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "92",
+    "Word": "19",
+    "RDate": "20220201",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "고온살균 스팀기능으로 새그릇인듯 뽀드득하게 닦아주어 너무 만족스럽네요.. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제조일/제조사",
+        "SentimentText": "왜 가전하면 OOO브랜드가 최고라고 하는지 써보니 알겠어요.  설거지로 고생 이제 안녕 ㅋ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99215",
+    "RawText": "걸레받이 사이즈가 맞지 않아 문이 활짝 열렸을때 걸려서 안 좋아요. ㅜ  제품이 좋아서 청소는 깨끗하게 되어 만족해요. 성능 좋네요.  상품설명서에 걸레받이 사이즈에 대한 표시가 없어서 불편하네요.ㅜ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "디오스 LG전자 스팀 DUB22WA 일반구매",
+    "ReviewScore": "4",
+    "Syllable": "111",
+    "Word": "26",
+    "RDate": "20210605",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "걸레받이 사이즈가 맞지 않아 문이 활짝 열렸을때 걸려서 안 좋아요. ㅜ ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "제품이 좋아서 청소는 깨끗하게 되어 만족해요. 성능 좋네요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "상품설명서에 걸레받이 사이즈에 대한 표시가 없어서 불편하네요.ㅜ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99216",
+    "RawText": "제품 내부 용량이 무척 커서 후라이팬, 냄비까지 모두 세척이 가능해서 마음에 들어요.  세척력도 매우 우수해서 그릇들이 잘 닦여 나오네요.. 좋아요 ^^  ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "디오스 LG전자 스팀 DUB22WA 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "87",
+    "Word": "21",
+    "RDate": "20220321",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량",
+        "SentimentText": "제품 내부 용량이 무척 커서 후라이팬, 냄비까지 모두 세척이 가능해서 마음에 들어요. ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "세척력도 매우 우수해서 그릇들이 잘 닦여 나오네요.. 좋아요 ^^ ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99217",
+    "RawText": "세척이 끝나면 자동으로 문이 열리는 기능이 있어서 대만족입니다.  제품이 업그레이드 되어 구제품보다 매우 세척력이 좋아져서 마음에 듭니다.  다만 생각보다 내부 용량이 작아서 그릇이 많이 안들어가네요. ㅜ 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "디오스 LG전자 스팀 DUB22WA 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "120",
+    "Word": "27",
+    "RDate": "20220330",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "세척이 끝나면 자동으로 문이 열리는 기능이 있어서 대만족입니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "제품이 업그레이드 되어 구제품보다 매우 세척력이 좋아져서 마음에 듭니다. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "다만 생각보다 내부 용량이 작아서 그릇이 많이 안들어가네요. ㅜ 아쉽네요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99218",
+    "RawText": "세척하느라 낭비되는 시간이 많이 줄어 아주 만족해요..  혁명이네요 . ㅋㅋ 다만 스팀건조되어 나와도 그릇들이 완벽히 건조되어 나오지는 않네요..  그점이 아쉬워요. ㅜ  제품 기능이 다양해서 사용하기 편리해서 좋고 , 용량이 커서 많은 그릇들을 한꺼번에 세척할 수 있어서 마음에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "디오스 LG전자 스팀 DUB22WA 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "161",
+    "Word": "38",
+    "RDate": "20220124",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성",
+        "SentimentText": "세척하느라 낭비되는 시간이 많이 줄어 아주 만족해요..  혁명이네요 . ㅋㅋ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "다만 스팀건조되어 나와도 그릇들이 완벽히 건조되어 나오지는 않네요..  그점이 아쉬워요. ㅜ ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "제품 기능이 다양해서 사용하기 편리해서 좋고 ,",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "용량이 커서 많은 그릇들을 한꺼번에 세척할 수 있어서 마음에 듭니다. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99219",
+    "RawText": "제품 사이즈가 주방에 딱 맞아서 기분 좋네요.. 별도로 공사 안하고 사용할 수 있어서 좋아요. 외형이 무척 깔끔해서 마음에 듭니다.  할인 행사할때 저렴한 가격으로 제품 구입해서 흡족해요..",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "디오스 LG전자 스팀 DUB22WA 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "106",
+    "Word": "26",
+    "RDate": "20211105",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "제품 사이즈가 주방에 딱 맞아서 기분 좋네요.. 별도로 공사 안하고 사용할 수 있어서 좋아요.",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "외형이 무척 깔끔해서 마음에 듭니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인 행사할때 저렴한 가격으로 제품 구입해서 흡족해요.. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99220",
+    "RawText": "세척력이 매우 우수해서 그릇들에서 광이 나네요.. 대만족입니다.  또 작동할때 소음이 없고 조용해서 마음에 들어요.  가전하면 OOO 제품이고 판매량이 제일 높아 구입했는데 써보니 이유를 알겠어요. 너무 좋네요 ^^ 저녁 먹은 후에도 노동시간이 사라져 부담없고 여유롭게 티비 볼 수 있어서 행복해요. ~! 강추~",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "디오스 LG전자 스팀 DUB22WA 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "174",
+    "Word": "41",
+    "RDate": "20211122",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "세척력이 매우 우수해서 그릇들에서 광이 나네요.. 대만족입니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "또 작동할때 소음이 없고 조용해서 마음에 들어요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제조일/제조사",
+        "SentimentText": "가전하면 OOO 제품이고 판매량이 제일 높아 구입했는데 써보니 이유를 알겠어요. 너무 좋네요 ^^",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "저녁 먹은 후에도 노동시간이 사라져 부담없고 여유롭게 티비 볼 수 있어서 행복해요. ~! 강추~",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99222",
+    "RawText": "이 제품 덕분에 저녁 먹고 시간 여유가 생겨서 너무 만족해요.  세척력이 우수해 식기류들이 깨끗하게 닦여서 좋고 살균 효과와 트루스팀 기능까지 사용해보니 대만족입니다. 강추~!",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "디오스 LG전자 스팀 DUB22WA 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "98",
+    "Word": "23",
+    "RDate": "20211113",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성",
+        "SentimentText": "이 제품 덕분에 저녁 먹고 시간 여유가 생겨서 너무 만족해요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "세척력이 우수해 식기류들이 깨끗하게 닦여서 좋고 살균 효과와 트루스팀 기능까지 사용해보니 대만족입니다. 강추~! ",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99223",
+    "RawText": "제품 용량이 무척 커서 많은 식기류들이 세척이 가능해 만족해요..  자동 문열림 기능이 가능해서 사용해보니 아주 편리해 마음에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "디오스 LG전자 스팀 DUB22WA 일반구매",
+    "ReviewScore": "4",
+    "Syllable": "75",
+    "Word": "18",
+    "RDate": "20220321",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량",
+        "SentimentText": "제품 용량이 무척 커서 많은 식기류들이 세척이 가능해 만족해요.. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "자동 문열림 기능이 가능해서 사용해보니 아주 편리해 마음에 듭니다. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99224",
+    "RawText": "세척 완료 되었다고 해서 살펴보니 허옇게 얼룩지고 밥솥 실리콘 패킹에 이물질이 남아 찝찝해요. ㅜ 세척력 실망입니다.  헹굼 추가 기능이 별도로 없어서 아쉬워요.ㅜ  또 예전 사용하던 제품에 비해 세척 시간이 너무 길어서 안 좋네요.ㅜ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "디오스 LG전자 스팀 DUB22WA 일반구매",
+    "ReviewScore": "3",
+    "Syllable": "131",
+    "Word": "33",
+    "RDate": "20211214",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "세척 완료 되었다고 해서 살펴보니 허옇게 얼룩지고 밥솥 실리콘 패킹에 이물질이 남아 찝찝해요. ㅜ 세척력 실망입니다. ",
+        "SentimentWord": "16",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "헹굼 추가 기능이 별도로 없어서 아쉬워요.ㅜ ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "또 예전 사용하던 제품에 비해 세척 시간이 너무 길어서 안 좋네요.ㅜ ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99225",
+    "RawText": "저렴한 가격에 제품 구입해서 만족해요.  이상없이 잘 작동되어 좋고, 특히나 와이프가 성능이 너무 마음에 든다고 하네요..  흰색 구입했는데 깔끔하니 예쁘네요. 굿~!",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "디오스 LG전자 스팀 DUB22WA 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "93",
+    "Word": "21",
+    "RDate": "20220304",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 제품 구입해서 만족해요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "이상없이 잘 작동되어 좋고, 특히나 와이프가 성능이 너무 마음에 든다고 하네요.. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "흰색 구입했는데 깔끔하니 예쁘네요. 굿~! ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99226",
+    "RawText": "설거지 그릇들이 아주 깨끗하게 세척되어 가사 노동이 많이 줄어 대만족입니다.  제품 용량이 3인 가족에 아주 딱 알맞아 좋네요..  크기가 자그마해서 공간 많이 차지하지 않아서 강력 추천입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "비스포크 삼성전자 키친핏 DW50A4075U1 빌트인",
+    "ReviewScore": "5",
+    "Syllable": "108",
+    "Word": "26",
+    "RDate": "20220509",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "설거지 그릇들이 아주 깨끗하게 세척되어 가사 노동이 많이 줄어 대만족입니다. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "제품 용량이 3인 가족에 아주 딱 알맞아 좋네요.. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "크기가 자그마해서 공간 많이 차지하지 않아서 강력 추천입니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99227",
+    "RawText": "10년전에 샀던 제품이나 이 제품나 성능이 좋아진게 없어서 실망입니다. ㅜ  다 사용하면 자동으로 문열리는 것만 나아졌어요.. 그나마 쓰기 편해 좋네요.  작동시간은 예전 제품보다 더 길어져 불만족스러워요.ㅜ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "삼성전자 DW50R4055FS",
+    "ReviewScore": "2",
+    "Syllable": "116",
+    "Word": "26",
+    "RDate": "20200519",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "10년전에 샀던 제품이나 이 제품나 성능이 좋아진게 없어서 실망입니다. ㅜ ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "다 사용하면 자동으로 문열리는 것만 나아졌어요.. 그나마 쓰기 편해 좋네요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "작동시간은 예전 제품보다 더 길어져 불만족스러워요.ㅜ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99228",
+    "RawText": "인터넷 검색해서 40만원도 안되게 저렴한 가격으로 제품 사서 기분 좋네요.. 다만 소비전력이 1760W로 높아서 대식구인 저희 집에서 매일 사용하니 전기요금이 많이 나오네요. 그점만 아쉬워요. ㅜ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "삼성전자 DW50R4055FS",
+    "ReviewScore": "5",
+    "Syllable": "109",
+    "Word": "25",
+    "RDate": "20200413",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "인터넷 검색해서 40만원도 안되게 저렴한 가격으로 제품 사서 기분 좋네요..",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소비전력",
+        "SentimentText": "다만 소비전력이 1760W로 높아서 대식구인 저희 집에서 매일 사용하니 전기요금이 많이 나오네요. 그점만 아쉬워요. ㅜ ",
+        "SentimentWord": "15",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99229",
+    "RawText": "가격대비 제품 성능에 매우 만족해요..  알아서 설거지 다 해주니 너무 편해서 행복해요.  다만 기름진건 세척이 잘 안되네요. ㅜ 실망이에요.   그외에 일반적인 그릇들은 세척 잘돼서 좋아요..  작동 소음이 세탁기 돌아가는 소리 정도 나서 조용하지 않아요.  소음 커서 안 좋네요. ㅜ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "삼성전자 DW50R4055FS",
+    "ReviewScore": "5",
+    "Syllable": "160",
+    "Word": "39",
+    "RDate": "20200419",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "가격대비 제품 성능에 매우 만족해요.. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "알아서 설거지 다 해주니 너무 편해서 행복해요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "다만 기름진건 세척이 잘 안되네요. ㅜ 실망이에요.  ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": " 그외에 일반적인 그릇들은 세척 잘돼서 좋아요.. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "작동 소음이 세탁기 돌아가는 소리 정도 나서 조용하지 않아요.  소음 커서 안 좋네요. ㅜ ",
+        "SentimentWord": "14",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99230",
+    "RawText": "2식구 쓰기에 용량이 크지 않고 적당해서 만족해요.  제품 세척력이 우수해서 이사후 먼지묻은 식기들 깨끗하게 닦여 있어서 기분 좋아요.  작동 소음은 거의 없고 조용해서 마음에 듭니다. 잘 샀어요. .",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "삼성전자 DW50R4055FS",
+    "ReviewScore": "5",
+    "Syllable": "112",
+    "Word": "28",
+    "RDate": "20200605",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량",
+        "SentimentText": "2식구 쓰기에 용량이 크지 않고 적당해서 만족해요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "제품 세척력이 우수해서 이사후 먼지묻은 식기들 깨끗하게 닦여 있어서 기분 좋아요. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "작동 소음은 거의 없고 조용해서 마음에 듭니다. 잘 샀어요. .",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99231",
+    "RawText": "제품 외형이 무척 깔끔해서 만족해요.  작동할때 소음이 거의 없고 조용해요.  굿~! 다만 다 끝나고 그릇을 보니 물기들이 약간씩 남아 있어서 아쉬워요. ㅜ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "삼성전자 DW50R4055FS",
+    "ReviewScore": "5",
+    "Syllable": "87",
+    "Word": "22",
+    "RDate": "20200604",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "제품 외형이 무척 깔끔해서 만족해요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "작동할때 소음이 거의 없고 조용해요.  굿~!",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "다만 다 끝나고 그릇을 보니 물기들이 약간씩 남아 있어서 아쉬워요. ㅜ ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99232",
+    "RawText": "세척 기능이 우수해 뽀득뽀득 잘 닦여 나와서 만족해요.  다만 건조기능이 안되는 제품이라 문을 열고 자연 건조 시켜야 해서 편의성이 떨어지네요. ㅜ 아쉬워요.  올인원 세제 사용하는데 면적이 넓으면 물자국이 많이 생겨서 안 좋네요. ㅜ  ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "삼성전자 DW50R4055FS",
+    "ReviewScore": "4",
+    "Syllable": "133",
+    "Word": "33",
+    "RDate": "20200920",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "세척 기능이 우수해 뽀득뽀득 잘 닦여 나와서 만족해요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "다만 건조기능이 안되는 제품이라 문을 열고 자연 건조 시켜야 해서 편의성이 떨어지네요. ㅜ 아쉬워요. ",
+        "SentimentWord": "14",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "올인원 세제 사용하는데 면적이 넓으면 물자국이 많이 생겨서 안 좋네요. ㅜ ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99233",
+    "RawText": "제품 사이즈가 딱 적당해서 마음에 들어요.  작동 소음이 거의 없어서 귀를 가까이 대봤어요.. 조용해서 너무 좋네요.  97분 코스로 돌려봤는데 그릇들이 깨끗하게 닦여 나와서 기분 좋아요.  ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "삼성전자 DW50R4055FS",
+    "ReviewScore": "5",
+    "Syllable": "107",
+    "Word": "25",
+    "RDate": "20200815",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "제품 사이즈가 딱 적당해서 마음에 들어요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "작동 소음이 거의 없어서 귀를 가까이 대봤어요.. 조용해서 너무 좋네요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "97분 코스로 돌려봤는데 그릇들이 깨끗하게 닦여 나와서 기분 좋아요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99234",
+    "RawText": "예상보다 소음이 조용해서 만족해요.  제품 성능도 우수해서 세척된 그릇들을 보니 뽀득뽀득 깨끗하네요.. 너무 좋아요. 스팀건조 기능이 있어서 스스로 마무리까지 알아서 해주니 너무 편리하네요. 잘샀어요 ^^",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "삼성전자 DW50R4055FS",
+    "ReviewScore": "5",
+    "Syllable": "114",
+    "Word": "25",
+    "RDate": "20200926",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소음",
+        "SentimentText": "예상보다 소음이 조용해서 만족해요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "제품 성능도 우수해서 세척된 그릇들을 보니 뽀득뽀득 깨끗하네요.. 너무 좋아요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "스팀건조 기능이 있어서 스스로 마무리까지 알아서 해주니 너무 편리하네요. 잘샀어요 ^^ ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99235",
+    "RawText": "제품이 소음이 작아서 아침 저녁 사용하고 있어요.. 좋아요  제품 크기가 아담해서 자리 차지 안해서 만족해요..  ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "삼성전자 DW50R4055FS",
+    "ReviewScore": "4",
+    "Syllable": "64",
+    "Word": "15",
+    "RDate": "20200304",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소음",
+        "SentimentText": "제품이 소음이 작아서 아침 저녁 사용하고 있어요.. 좋아요 ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "제품 크기가 아담해서 자리 차지 안해서 만족해요.. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99237",
+    "RawText": "핫딜 세일 할때 싼 가격에 제품 구입해서 만족해요.  주방에 빌트인 하려면 추가 시공비용이 9만원 든다고 하셔서 기분 안 좋네요.  그냥 수납 공간하려고 패스했어요.  예상보다 제품 사이즈가 무척 커서 당황했어요. ㅜ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "삼성전자 DW50R4055FS",
+    "ReviewScore": "5",
+    "Syllable": "121",
+    "Word": "30",
+    "RDate": "20200928",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "핫딜 세일 할때 싼 가격에 제품 구입해서 만족해요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "주방에 빌트인 하려면 추가 시공비용이 9만원 든다고 하셔서 기분 안 좋네요. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "예상보다 제품 사이즈가 무척 커서 당황했어요. ㅜ ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99238",
+    "RawText": "비싸게 제품 구입해서 부담되고 안 좋아요. ㅜ  주변에서 OOO회사 추천해서 믿고 주문했는데 사용해보니 역시 좋네요..  사은품으로 칼 가위 세트도 주셔서 만족해요..  다만 세척하기가 쉽지 않아서 불편하고 불만족스러워요.  제품 용량은 큰 편이라 5인 가족이 사용하기 딱 좋아요. 굿~!",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠진 나이프케어 시즌2 COZ-1000UV + 에지리 프레스티지 칼세트 크림화이트",
+    "ReviewScore": "5",
+    "Syllable": "161",
+    "Word": "37",
+    "RDate": "20220317",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "비싸게 제품 구입해서 부담되고 안 좋아요. ㅜ ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제조일/제조사",
+        "SentimentText": "주변에서 OOO회사 추천해서 믿고 주문했는데 사용해보니 역시 좋네요.. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품으로 칼 가위 세트도 주셔서 만족해요.. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "다만 세척하기가 쉽지 않아서 불편하고 불만족스러워요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "제품 용량은 큰 편이라 5인 가족이 사용하기 딱 좋아요. 굿~! ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99239",
+    "RawText": "할인 행사할때 좋은 가격으로 제품 구입해서 만족해요.  제품의 넓은 입구 덕분에 수저와 부엌도구들 모두 살균 소독이 가능해서 마음에 들어요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠진 나이프케어 시즌2 COZ-1000UV + 에지리 프레스티지 칼세트 크림화이트",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "19",
+    "RDate": "20220223",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인 행사할때 좋은 가격으로 제품 구입해서 만족해요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "제품의 넓은 입구 덕분에 수저와 부엌도구들 모두 살균 소독이 가능해서 마음에 들어요. ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99240",
+    "RawText": "칼갈이 할때 오른쪽은 조용한데 왼쪽에서 거슬릴만큼 소리가 들려서 안 좋네요.  집에 칼 많은데 또 사은품으로 칼세트가 와서 불만족스러워요. ㅜ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠진 나이프케어 시즌2 COZ-1000UV + 에지리 프레스티지 칼세트 크림화이트",
+    "ReviewScore": "4",
+    "Syllable": "79",
+    "Word": "19",
+    "RDate": "20220419",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "소음",
+        "SentimentText": "칼갈이 할때 오른쪽은 조용한데 왼쪽에서 거슬릴만큼 소리가 들려서 안 좋네요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "집에 칼 많은데 또 사은품으로 칼세트가 와서 불만족스러워요. ㅜ ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99242",
+    "RawText": "제품 부피가 많이 커서 주방이 비좁게 느껴지네요. ㅜ 마음에 안들어요.  구성품으로 칼세트가 와서 너무 좋네요.  주방 집기류들을 살균 소독 보관까지 한꺼번에 해줘서 너무 편리하네요.. 대만족입니다.  ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠진 나이프케어 시즌2 COZ-1000UV + 에지리 프레스티지 칼세트 크림화이트",
+    "ReviewScore": "4",
+    "Syllable": "113",
+    "Word": "25",
+    "RDate": "20211028",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "제품 부피가 많이 커서 주방이 비좁게 느껴지네요. ㅜ 마음에 안들어요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성품으로 칼세트가 와서 너무 좋네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "주방 집기류들을 살균 소독 보관까지 한꺼번에 해줘서 너무 편리하네요.. 대만족입니다. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99243",
+    "RawText": "주방에서 필요한 기능들이 하나로~!! 살균, 건조기능도 되고 칼갈이 까지 가능해서 대만족입니다  다만 사이즈가 많이 커서 안 좋고,  예상보다 소음도 커서 불만족스럽네요.  성능대비 가격도 많이 비싼 것 같아 아쉬워요.ㅜ 그래도 주방 집기류 한번에 모아서 사용하기 매우 유용해서 마음에 들어요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠진 나이프케어 시즌2 COZ-1000UV + 에지리 프레스티지 칼세트 크림화이트",
+    "ReviewScore": "4",
+    "Syllable": "164",
+    "Word": "38",
+    "RDate": "20220613",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "주방에서 필요한 기능들이 하나로~!! 살균, 건조기능도 되고 칼갈이 까지 가능해서 대만족입니다 ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "다만 사이즈가 많이 커서 안 좋고, ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": " 예상보다 소음도 커서 불만족스럽네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "성능대비 가격도 많이 비싼 것 같아 아쉬워요.ㅜ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "그래도 주방 집기류 한번에 모아서 사용하기 매우 유용해서 마음에 들어요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99244",
+    "RawText": "제품 색상이 넘 예뻐서 마음에 들어요.  제품 하나로 수저까지 소독이 가능해 위생적이네요. 아주 편리해서 만족합니다.  칼갈이에 칼 갈아보니 아주 샤프해져서 잘 짤리고 좋네요..",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠진 나이프케어 시즌2 COZ-1000UV + 에지리 프레스티지 칼세트 크림화이트",
+    "ReviewScore": "5",
+    "Syllable": "99",
+    "Word": "23",
+    "RDate": "20220513",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "제품 색상이 넘 예뻐서 마음에 들어요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "제품 하나로 수저까지 소독이 가능해 위생적이네요. 아주 편리해서 만족합니다. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "칼갈이에 칼 갈아보니 아주 샤프해져서 잘 짤리고 좋네요.. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99245",
+    "RawText": "예상보다 제품 사이즈가 작아서 공간 차지하지 않아 좋네요.  위생이 늘 염려되었는데 제품 하나로 살균 건조까지 가능해서 만족해요.  입구가 좀 작아서  집기류가 많이 안들어가네요. ㅜ  아쉬워요. ㅜ    ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠진 나이프케어 시즌2 COZ-1000UV + 에지리 프레스티지 칼세트 크림화이트",
+    "ReviewScore": "4",
+    "Syllable": "115",
+    "Word": "26",
+    "RDate": "20220528",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "예상보다 제품 사이즈가 작아서 공간 차지하지 않아 좋네요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "위생이 늘 염려되었는데 제품 하나로 살균 건조까지 가능해서 만족해요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "입구가 좀 작아서 집기류가 많이 안들어가네요. ㅜ  아쉬워요. ㅜ ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99246",
+    "RawText": "소음이 살짝 나는 편이라 안 좋네요.  또 물받이 재질이 허접하고 싼티나서 불만족스러워요.  중복 쿠폰과 카드할인까지 적용받아 매우 저렴한 가격에 제품 구매해 기분 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠진 나이프케어 시즌2 COZ-1000UV + 에지리 프레스티지 칼세트 크림화이트",
+    "ReviewScore": "4",
+    "Syllable": "96",
+    "Word": "23",
+    "RDate": "20220429",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "소음",
+        "SentimentText": "소음이 살짝 나는 편이라 안 좋네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "또 물받이 재질이 허접하고 싼티나서 불만족스러워요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "중복 쿠폰과 카드할인까지 적용받아 매우 저렴한 가격에 제품 구매해 기분 좋네요. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99247",
+    "RawText": "편하게 나이프케어와 수저를 동시에  살균할 수 있어 기능에 만족해요.  작지만 기능이 다양해서 (열풍건조, 자외선건조, 칼갈이 기능 등) 마음에 듭니다.  제품 사이즈가 주방에서 사용하기에 적당한 크기라 좋아요.  걱정했던 작동 소음도 조용한 편이라 흡족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠진 나이프케어 시즌2 COZ-1000UV + 에지리 프레스티지 칼세트 크림화이트",
+    "ReviewScore": "5",
+    "Syllable": "146",
+    "Word": "32",
+    "RDate": "20220826",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "편하게 나이프케어와 수저를 동시에  살균할 수 있어 기능에 만족해요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "작지만 기능이 다양해서 (열풍건조, 자외선건조, 칼갈이 기능 등) 마음에 듭니다. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "제품 사이즈가 주방에서 사용하기에 적당한 크기라 좋아요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "걱정했던 작동 소음도 조용한 편이라 흡족합니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99248",
+    "RawText": "코로나 시국이라 소독이 중요한데 부엌의 집기류들 몽땅 꺼내놓고 소독하니 위생적이라 너무 기분 좋네요.. 사은품으로 칼세트도 주셔서 만족해요. 지금 소독중입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠진 나이프케어 시즌2 COZ-1000UV + 에지리 프레스티지 칼세트 크림화이트",
+    "ReviewScore": "5",
+    "Syllable": "89",
+    "Word": "19",
+    "RDate": "20220507",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "코로나 시국이라 소독이 중요한데 부엌의 집기류들 몽땅 꺼내놓고 소독하니 위생적이라 너무 기분 좋네요..",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품으로 칼세트도 주셔서 만족해요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99250",
+    "RawText": "제품 핏이 예뻐고 화사해서 만족해요.  앞으로는 집기류들 그릇에 담아 삶는 건 안해도 되니 편해져서 너무 기분 좋네요..  사은품으로 주신 칼세트도 에뻐서 맘에 들어요..   다만 가위가 무척 작아서 아쉽네요..  정품 보증서도 함께 동봉되어 와서 왠지 고가의 물건 같네요. ㅋㅋ 잘 샀어요 ^^",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠진 나이프케어 시즌2 COZ-1000UV + 에지리 프레스티지 칼세트 크림화이트",
+    "ReviewScore": "5",
+    "Syllable": "165",
+    "Word": "41",
+    "RDate": "20220607",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "제품 핏이 예뻐고 화사해서 만족해요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "앞으로는 집기류들 그릇에 담아 삶는 건 안해도 되니 편해져서 너무 기분 좋네요.. ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품으로 주신 칼세트도 에뻐서 맘에 들어요..  ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "다만 가위가 무척 작아서 아쉽네요.. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "정품 보증서도 함께 동봉되어 와서 왠지 고가의 물건 같네요. ㅋㅋ 잘 샀어요 ^^",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99251",
+    "RawText": "제품 하나로 수정통과 칼걸이를 다 사용할 수 있어서 편리해 좋아요.  제품 성능이 좋아 세균 걱정 안해도 되고 살균과 건조 모두 가능해서 기분 좋네요..  외형이 깔끔하고 화사해서 만족해요..  다만 생각보다 제품 부피가 커서 안그래도 좁은 주방이 더 비좁게 느껴지네요. ㅜ 아쉬워요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠진 나이프케어 시즌2 COZ-1000UV + 에지리 프레스티지 칼세트 크림화이트",
+    "ReviewScore": "5",
+    "Syllable": "159",
+    "Word": "40",
+    "RDate": "20220208",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성",
+        "SentimentText": "제품 하나로 수정통과 칼걸이를 다 사용할 수 있어서 편리해 좋아요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "제품 성능이 좋아 세균 걱정 안해도 되고 살균과 건조 모두 가능해서 기분 좋네요.. ",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "외형이 깔끔하고 화사해서 만족해요.. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "다만 생각보다 제품 부피가 커서 안그래도 좁은 주방이 더 비좁게 느껴지네요. ㅜ 아쉬워요. ",
+        "SentimentWord": "13",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99252",
+    "RawText": "주방의 집기류들을 한꺼번에 꽂아 놓으니 지저분했던 주방이 말끔해졌어요. 너무 기분 좋네요. ^^ 다만 제품 구입하고 일주일만에 특가 세일 올라와서 속상하네요.  정가주고 구입한 저만 바보 된것 같아요. ㅜ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠진 나이프케어 시즌2 COZ-1000UV + 에지리 프레스티지 칼세트 크림화이트",
+    "ReviewScore": "5",
+    "Syllable": "114",
+    "Word": "27",
+    "RDate": "20220430",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성",
+        "SentimentText": "주방의 집기류들을 한꺼번에 꽂아 놓으니 지저분했던 주방이 말끔해졌어요. 너무 기분 좋네요. ^^",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "다만 제품 구입하고 일주일만에 특가 세일 올라와서 속상하네요.  정가주고 구입한 저만 바보 된것 같아요. ㅜ ",
+        "SentimentWord": "15",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99253",
+    "RawText": "두번째 구입. 제품 작동방법이 매우 편리해서 사용하기 좋아요..  다만 예상보다 제품 무게가 무거워서 옮길때 팔 아프네요.ㅜ 그점만 안좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠진 나이프케어 시즌2 COZ-1000UV + 에지리 프레스티지 칼세트 크림화이트",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "18",
+    "RDate": "20220506",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "조작성",
+        "SentimentText": "제품 작동방법이 매우 편리해서 사용하기 좋아요.. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "다만 예상보다 제품 무게가 무거워서 옮길때 팔 아프네요.ㅜ 그점만 안좋아요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99254",
+    "RawText": "제품 색상이 깨끗한 화이트라 주방과 잘 어울려서 만족해요.  제품 성능이 우수해 세균 번식 걱정을 없애줘서 마음에 들어요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠진 나이프케어 시즌2 COZ-1000UV + 에지리 프레스티지 칼세트 크림화이트",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "17",
+    "RDate": "20220508",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "제품 색상이 깨끗한 화이트라 주방과 잘 어울려서 만족해요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "제품 성능이 우수해 세균 번식 걱정을 없애줘서 마음에 들어요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99255",
+    "RawText": "칼도 갈아보고 건조도 작동시켜봤는데 잘 되어서 기능에 만족해요..  지인이 OOO회사 제품 좋다고 해서 구입했는데 사용해보니 마음에 드네요.. 다만 작동 소음이 커서 귀에 거슬려고 신경쓰여 안 좋네요. ㅜ  ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠진 나이프케어 시즌2 COZ-1000UV + 에지리 프레스티지 칼세트 크림화이트",
+    "ReviewScore": "4",
+    "Syllable": "116",
+    "Word": "27",
+    "RDate": "20211211",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "칼도 갈아보고 건조도 작동시켜봤는데 잘 되어서 기능에 만족해요.. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제조일/제조사",
+        "SentimentText": "지인이 OOO회사 제품 좋다고 해서 구입했는데 사용해보니 마음에 드네요..",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "다만 작동 소음이 커서 귀에 거슬려고 신경쓰여 안 좋네요. ㅜ ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99256",
+    "RawText": "칼을 갈아봤더니 야채, 고기 등 다 잘 짤려서 좋아요.  제품 건조 소음이 좀 큰편이지만 날카로운 소음은 아니여서 그럭저럭 괜찮아요.  여름에 세균 번식이 염려되었는데 칼, 가위를 살균할 수 있어서 편리성에 만족해요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠진 나이프케어 시즌2 COZ-1000UV + 에지리 프레스티지 칼세트 크림화이트",
+    "ReviewScore": "5",
+    "Syllable": "121",
+    "Word": "30",
+    "RDate": "20220718",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "칼을 갈아봤더니 야채, 고기 등 다 잘 짤려서 좋아요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "제품 건조 소음이 좀 큰편이지만 날카로운 소음은 아니여서 그럭저럭 괜찮아요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "여름에 세균 번식이 염려되었는데 칼, 가위를 살균할 수 있어서 편리성에 만족해요. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99257",
+    "RawText": "제품 가격 조건이 괜찮아 구매했어요.. 저렴한 가격에 사서 만족해요.  여름이라 식중독 걱정 되었는데 부엌에서 사용하는 집기류들을 모두 살균, 소독, 건조시켜주니 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠진 나이프케어 시즌2 COZ-1000UV + 에지리 프레스티지 칼세트 크림화이트",
+    "ReviewScore": "5",
+    "Syllable": "95",
+    "Word": "21",
+    "RDate": "20220527",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "제품 가격 조건이 괜찮아 구매했어요.. 저렴한 가격에 사서 만족해요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "여름이라 식중독 걱정 되었는데 부엌에서 사용하는 집기류들을 모두 살균, 소독, 건조시켜주니 좋아요. ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99258",
+    "RawText": "고민하다 흰색으로 선택했는데 실물이 훨씬 화사하고 예뻐서 만족해요.  상품평에 소음이 크다고 해서 걱정했는데 생각보다 크지 않아 마음에 듭니다.  ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠진 나이프케어 시즌2 COZ-1000UV + 에지리 프레스티지 칼세트 크림화이트",
+    "ReviewScore": "4",
+    "Syllable": "82",
+    "Word": "18",
+    "RDate": "20220324",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "고민하다 흰색으로 선택했는데 실물이 훨씬 화사하고 예뻐서 만족해요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "상품평에 소음이 크다고 해서 걱정했는데 생각보다 크지 않아 마음에 듭니다. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99259",
+    "RawText": "버튼 한개만 터치하면 4단계부터 정지까지 가능해서 간편해서 좋아요.  자동으로 꺼지고 잘 작동해서 만족해요. 성능 좋네요. ^^  처음 제품 도착했을때 나사 하나가 풀려서 박스 안에 떨어져 있어서 조여놨어요. ㅜ 그점은 좀 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CDD-A9010S",
+    "ReviewScore": "5",
+    "Syllable": "130",
+    "Word": "31",
+    "RDate": "20200713",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "조작성",
+        "SentimentText": "버튼 한개만 터치하면 4단계부터 정지까지 가능해서 간편해서 좋아요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "자동으로 꺼지고 잘 작동해서 만족해요. 성능 좋네요. ^^ ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "처음 제품 도착했을때 나사 하나가 풀려서 박스 안에 떨어져 있어서 조여놨어요. ㅜ 그점은 좀 아쉽네요. ",
+        "SentimentWord": "15",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99260",
+    "RawText": "주변에서 OOO회사 좋다고 추천해줘서 구입했어요. 써보니 좋네요 ^^ 카드 세일할때 저렴한 가격에 제품 구입해서 만족해요.  2단 아랫부분까지 청소하기 편리해서 마음에 듭니다. 제품 용량이 3인 가족 사용하기 딱 적당해서 만족합니다.  기본 시간으로 설정했는데 건조 완전 잘되네요.. 기능 너무 좋네요.. 굿~!  ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CDD-A9010S",
+    "ReviewScore": "4",
+    "Syllable": "176",
+    "Word": "39",
+    "RDate": "20211230",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제조일/제조사",
+        "SentimentText": "주변에서 OOO회사 좋다고 추천해줘서 구입했어요. 써보니 좋네요 ^^",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "카드 세일할때 저렴한 가격에 제품 구입해서 만족해요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "2단 아랫부분까지 청소하기 편리해서 마음에 듭니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "제품 용량이 3인 가족 사용하기 딱 적당해서 만족합니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "기본 시간으로 설정했는데 건조 완전 잘되네요.. 기능 너무 좋네요.. 굿~! ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99261",
+    "RawText": "제품 가격이 합리적이라 만족해요..  대리점에서 50만원 하던데 온라인으로 세일할때 저렴한 가격으로 구입했어요. ^^ 제품 사용해보니 무척 편리하고 실용적이라 마음에 듭니다.  사은품도 챙겨받아 기분 아주 좋아요. ^^",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CDW-A0611 화이트",
+    "ReviewScore": "5",
+    "Syllable": "122",
+    "Word": "26",
+    "RDate": "20211028",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "제품 가격이 합리적이라 만족해요..  대리점에서 50만원 하던데 온라인으로 세일할때 저렴한 가격으로 구입했어요. ^^",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "제품 사용해보니 무척 편리하고 실용적이라 마음에 듭니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품도 챙겨받아 기분 아주 좋아요. ^^ ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99262",
+    "RawText": "큰 사이즈와 고민하다가 주방이 좁아서 작은 사이즈로 구매했는데 딱 적당해서 좋아요 잘 사용하고 있어요 생각보다 내부가 넓어서 식기들이 많이 들어가서 좋아요.  설거지 나올때마다 모아서 바로 사용할수 있어서 만족해요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CDW-A0611 화이트",
+    "ReviewScore": "5",
+    "Syllable": "120",
+    "Word": "28",
+    "RDate": "20211228",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "큰 사이즈와 고민하다가 주방이 좁아서 작은 사이즈로 구매했는데 딱 적당해서 좋아요",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "생각보다 내부가 넓어서 식기들이 많이 들어가서 좋아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99263",
+    "RawText": "기대이상으로 가격대비 가성비가 너무 좋아요~~ 디자인이 굉장히 세련되고 모던해서 만족스럽습니다",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CDW-A0611 화이트",
+    "ReviewScore": "5",
+    "Syllable": "52",
+    "Word": "10",
+    "RDate": "20220228",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "기대이상으로 가격대비 가성비가 너무 좋아요~~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 굉장히 세련되고 모던해서 만족스럽습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99264",
+    "RawText": "가성비 좋아서 샀는데 만족합니다.  사용하다보니 테트리스처럼 처음에 자리를 잘 놓아야 해요. 안그럼 안닫힙니다ㅠ 그리고 자동문열림기능이 없어서도 아쉽습니다",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CDW-A0611 화이트",
+    "ReviewScore": "5",
+    "Syllable": "86",
+    "Word": "17",
+    "RDate": "20220108",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋아서 샀는데 만족합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "사용하다보니 테트리스처럼 처음에 자리를 잘 놓아야 해요. 안그럼 안닫힙니다ㅠ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "그리고 자동문열림기능이 없어서도 아쉽습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99265",
+    "RawText": "사용해본 식기세척기 중에 가성비가 제일 좋은 제품이에요. 사이즈가 생각보다 커서 자리를 많이 차지하네요ㅠ. 내부용량은 저희집에서 쓰기 딱 적당해요^^. 아쉬운점은 건조 해제 옵션이랑 자동 문열림 기능이 없어서ㅠ 추가되면 참 좋겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CDW-A0611 화이트",
+    "ReviewScore": "3",
+    "Syllable": "130",
+    "Word": "29",
+    "RDate": "20211122",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "사용해본 식기세척기 중에 가성비가 제일 좋은 제품이에요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 생각보다 커서 자리를 많이 차지하네요ㅠ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "내부용량은 저희집에서 쓰기 딱 적당해요^^",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "아쉬운점은 건조 해제 옵션이랑 자동 문열림 기능이 없어서ㅠ 추가되면 참 좋겠습니다 ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99266",
+    "RawText": "신제품, 구제품 선택놓고 고민 많이했는데 구제품선택 만족합니다. 수동이지만 직접 문열면 되니까 전혀 불편하지 않아요^^~ 평좋은이유 실감중입니다 가성비 대만족입니다!!",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CDW-A0611 화이트",
+    "ReviewScore": "5",
+    "Syllable": "93",
+    "Word": "18",
+    "RDate": "20220425",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제조일/제조사",
+        "SentimentText": "신제품, 구제품 선택놓고 고민 많이했는데 구제품선택 만족합니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "수동이지만 직접 문열면 되니까 전혀 불편하지 않아요^^~",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "평좋은이유 실감중입니다 가성비 대만족입니다!!",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99267",
+    "RawText": "세척할때 시끄러우면 어쩌나 걱정했는데 조용해서 넘 좋아요. 진작에 살걸 ^^ 손으로 했을때보다 훨씬 깨끗하고 소독까지되니 넘 만족스럽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CDW-A0611 화이트",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "17",
+    "RDate": "20211013",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소음",
+        "SentimentText": "세척할때 시끄러우면 어쩌나 걱정했는데 조용해서 넘 좋아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "진작에 살걸 ^^ 손으로 했을때보다 훨씬 깨끗하고 소독까지되니 넘 만족스럽습니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99268",
+    "RawText": "부모님댁에 사드렸는데 건조기능에 살균세척, 자동세척까지 되서 넘 좋아하셔요. 디자인도 깔끔해서 부모님주방에 잘어울립니다. 내부용량도 꽤 커서 그릇이 생각보다 많이 들어간다고 칭찬들었습니다 ㅎㅎ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CDW-A0611 화이트",
+    "ReviewScore": "5",
+    "Syllable": "107",
+    "Word": "21",
+    "RDate": "20220118",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "부모님댁에 사드렸는데 건조기능에 살균세척, 자동세척까지 되서 넘 좋아하셔요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 깔끔해서 부모님주방에 잘어울립니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "내부용량도 꽤 커서 그릇이 생각보다 많이 들어간다고 칭찬들었습니다 ㅎㅎ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99269",
+    "RawText": "고민했던 사간이 아까울만큼 만족스럽습니다. 대용량이라 후라이팬도 들어가고 2인식구 쓰기 딱좋아요. 단지, 집이 워낙 조용해서 인지 소리가 크게 느껴집니다ㅠ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CDW-A0611 화이트",
+    "ReviewScore": "5",
+    "Syllable": "86",
+    "Word": "18",
+    "RDate": "20211221",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용량",
+        "SentimentText": "고민했던 사간이 아까울만큼 만족스럽습니다. 대용량이라 후라이팬도 들어가고 2인식구 쓰기 딱좋아요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "단지, 집이 워낙 조용해서 인지 소리가 크게 느껴집니다ㅠ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99270",
+    "RawText": "가성비 좋은제품 찾다 구입했는데 가성비 넘넘 만족스럽습니다. 식기세척기 덕분에 나만의 시간 활용할수있어 넘좋고 손으로 했을때보다 설거지가 더 깨끗합니다. 강력추천합니다",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CDW-A0611 화이트",
+    "ReviewScore": "5",
+    "Syllable": "93",
+    "Word": "19",
+    "RDate": "20220320",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋은제품 찾다 구입했는데 가성비 넘넘 만족스럽습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "식기세척기 덕분에 나만의 시간 활용할수있어 넘좋고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "손으로 했을때보다 설거지가 더 깨끗합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99271",
+    "RawText": "식기세척기 덕분에 고부간 대화 시간이 생기네요. 설거지했을시간에 휴식할수있으니 넘 좋은거같아요. 그리고 기대이상으로 세척이랑 건조가 훌륭해서 그릇이 뽀송뽀송합니다. 만족스럽습니다",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CDW-A0611 화이트",
+    "ReviewScore": "5",
+    "Syllable": "99",
+    "Word": "18",
+    "RDate": "20211217",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성",
+        "SentimentText": "식기세척기 덕분에 고부간 대화 시간이 생기네요. 설거지했을시간에 휴식할수있으니 넘 좋은거같아요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "그리고 기대이상으로 세척이랑 건조가 훌륭해서 그릇이 뽀송뽀송합니다. 만족스럽습니다 ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99272",
+    "RawText": "용량이 충분해서 그릇이 꽤 많이 들어갑니다^^ 크기 적당해서 주방에 자리차지 많이 안해서 좋습니다. 씽크대 바로 옆에 놓고 쓰기 넘좋아요!!",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CDW-A0611 화이트",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "19",
+    "RDate": "20220715",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량",
+        "SentimentText": "용량이 충분해서 그릇이 꽤 많이 들어갑니다^^",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "크기 적당해서 주방에 자리차지 많이 안해서 좋습니다. 씽크대 바로 옆에 놓고 쓰기 넘좋아요!!",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99273",
+    "RawText": "내부용량이 생각했던 것보다 훨씬 커요^^ 4인가족인대도 여유있어 좋아요. 다른거보다 강력 코스에 헹굼까지 하고나면 그릇이 뽀득뽀득 기분까지 상쾌해집니다.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CDW-A0611 화이트",
+    "ReviewScore": "5",
+    "Syllable": "85",
+    "Word": "17",
+    "RDate": "20220821",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량",
+        "SentimentText": "내부용량이 생각했던 것보다 훨씬 커요^^ 4인가족인대도 여유있어 좋아요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "다른거보다 강력 코스에 헹굼까지 하고나면 그릇이 뽀득뽀득 기분까지 상쾌해집니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99275",
+    "RawText": "설거지시간에 다른거 할수있어서 더 일찍 들이지 못한게 아쉬울 정도구요 수저세척이 제일 귀찮았는데 넘 편해요. 머그컵 많이쓰는 집인데 컵걸이 한 단 내려서 쓰니 딱 좋았습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CDW-A0611 화이트",
+    "ReviewScore": "5",
+    "Syllable": "97",
+    "Word": "24",
+    "RDate": "20211030",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성",
+        "SentimentText": "설거지시간에 다른거 할수있어서 더 일찍 들이지 못한게 아쉬울 정도구요 수저세척이 제일 귀찮았는데 넘 편해요.",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "머그컵 많이쓰는 집인데 컵걸이 한 단 내려서 쓰니 딱 좋았습니다. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99276",
+    "RawText": "시아버님 댁에 선물드리고 제가 가서 써보니 성능도 세척 잘되고 건조까지 훌륭해서 탐나네요 ㅎㅎ 다른제품들보다 저렴해서 넘 좋구요 대만족입니다!!",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CDW-A0611 화이트",
+    "ReviewScore": "5",
+    "Syllable": "80",
+    "Word": "18",
+    "RDate": "20220109",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "시아버님 댁에 선물드리고 제가 가서 써보니 성능도 세척 잘되고 건조까지 훌륭해서 탐나네요 ㅎㅎ",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "다른제품들보다 저렴해서 넘 좋구요 대만족입니다!!",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99277",
+    "RawText": "인생 첫 식기세척기입니다. 세척에, 살균소독까지 잘 되서 대만족이에요. 4인가족 사용중인데 부족함없이 용량도 충분합니다",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CDW-A0611 화이트",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "13",
+    "RDate": "20211005",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "인생 첫 식기세척기입니다. 세척에, 살균소독까지 잘 되서 대만족이에요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "4인가족 사용중인데 부족함없이 용량도 충분합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99278",
+    "RawText": "와이프한테 칭찬받았습니다!! 세상편하다고~ 그렇게 좋아하네요. 정말 편리합니다!! 밖에서 보는것보다 내부공간이 더 커서 좋구요.  초벌 세척후 사용하면 넘 깨끗하게 됩니다.^^ 사이즈가 커서ㅠ 어디에 놓을지 잘 정해놓으셔야 합니다. 참고하세요",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CDW-A0611 화이트",
+    "ReviewScore": "5",
+    "Syllable": "135",
+    "Word": "27",
+    "RDate": "20211107",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성",
+        "SentimentText": "와이프한테 칭찬받았습니다!! 세상편하다고~ 그렇게 좋아하네요. 정말 편리합니다!! 밖",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "밖에서 보는것보다 내부공간이 더 커서 좋구요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "초벌 세척후 사용하면 넘 깨끗하게 됩니다.^^",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 커서ㅠ 어디에 놓을지 잘 정해놓으셔야 합니다. 참고하세요 ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99279",
+    "RawText": "6인용만큼 넣으면 잘 안씻깁니다ㅠ바스켓에 꽉 채우지 않고 헹굼 1회 추가해야 세척이 깔끔하게 되네요.  기능들중에 특히 살균세척 기능이 99%라 안심되고 제일 맘에 들어요 그리고 가성비가 훌륭합니다!!",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CDW-A0611 화이트",
+    "ReviewScore": "4",
+    "Syllable": "112",
+    "Word": "25",
+    "RDate": "20220514",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용량",
+        "SentimentText": "6인용만큼 넣으면 잘 안씻깁니다ㅠ바스켓에 꽉 채우지 않고 헹굼 1회 추가해야 세척이 깔끔하게 되네요",
+        "SentimentWord": "13",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "기능들중에 특히 살균세척 기능이 99%라 안심되고 제일 맘에 들어요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "그리고 가성비가 훌륭합니다!!",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99280",
+    "RawText": "세척이 제대로 될까 의심했는데 괜한 생각이었어요. 세척기능 훌륭해서 제 삶의 질이 달라졌습니다 ㅎㅎ 그전엔 설거지감 안만들려 냄비채놓고 먹었는데 이젠 무조건 그릇씁니다 넘 편해졌어요. 필수템이에요",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CDW-A0611 화이트",
+    "ReviewScore": "5",
+    "Syllable": "109",
+    "Word": "24",
+    "RDate": "20220211",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "세척이 제대로 될까 의심했는데 괜한 생각이었어요. 세척기능 훌륭해서 제 삶의 질이 달라졌습니다 ㅎㅎ",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "그전엔 설거지감 안만들려 냄비채놓고 먹었는데 이젠 무조건 그릇씁니다 넘 편해졌어요. 필수템이에요",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99281",
+    "RawText": "애벌없이도 세척 잘되고 뽀득뽀득 살균까지 완벽하니 상쾌한 이기분!! 신세계입니다. 훌륭해요. 설거지를 세척기가 해주니 시간절약되서 넘 좋아요. 꼭 써보세요!!",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CDW-A0611 화이트",
+    "ReviewScore": "5",
+    "Syllable": "88",
+    "Word": "18",
+    "RDate": "20220127",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "애벌없이도 세척 잘되고 뽀득뽀득 살균까지 완벽하니 상쾌한 이기분!! 신세계입니다. 훌륭해요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "설거지를 세척기가 해주니 시간절약되서 넘 좋아요. 꼭 써보세요!!",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99282",
+    "RawText": "OOO 식기세척기 소문대로 정말 좋으네요!! 이렇게까지 편할수가 있다니!! 식세기들이고 여유생겨 감동입니다. 세척기능도 넘 좋아서 깨끗하게 세척되고 만족스럽습니다. 강추합니다!!",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CDW-A0611 화이트",
+    "ReviewScore": "5",
+    "Syllable": "99",
+    "Word": "18",
+    "RDate": "20211231",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제조일/제조사",
+        "SentimentText": "OOO 식기세척기 소문대로 정말 좋으네요!!",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "이렇게까지 편할수가 있다니!! 식세기들이고 여유생겨 감동입니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "세척기능도 넘 좋아서 깨끗하게 세척되고 만족스럽습니다. 강추합니다!!",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99283",
+    "RawText": "고민끝에 후기 좋은 OOO로 구입했습니다. 디자인도 심플하면서 깔끔해서 매우 맘에 들구요. 따뜻한 물로 세척에 뽀득뽀득 깨끗하게 마무리되어 만족스럽습니다. 손으로 할때보다 물절약까지 할수있어서 아내가 좋아하네요!!",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CDW-A0611 화이트",
+    "ReviewScore": "5",
+    "Syllable": "119",
+    "Word": "24",
+    "RDate": "20211112",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제조일/제조사",
+        "SentimentText": "고민끝에 후기 좋은 OOO로 구입했습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 심플하면서 깔끔해서 매우 맘에 들구요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻한 물로 세척에 뽀득뽀득 깨끗하게 마무리되어 만족스럽습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "손으로 할때보다 물절약까지 할수있어서 아내가 좋아하네요!!",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99284",
+    "RawText": "OOO제품 후기가 좋아서 샀는데 기대이상으로 만족스럽습니다. 수납용량도 4인가족 한끼 그릇 다 넣고도 충분할만큼 커서 만족하구요.  좋은제품 가격까지 저렴해서 대만족입니다!! 적극 추천합니다",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CDW-A0611 화이트",
+    "ReviewScore": "5",
+    "Syllable": "106",
+    "Word": "21",
+    "RDate": "20211227",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제조일/제조사",
+        "SentimentText": "OOO제품 후기가 좋아서 샀는데 기대이상으로 만족스럽습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "수납용량도 4인가족 한끼 그릇 다 넣고도 충분할만큼 커서 만족하구요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은제품 가격까지 저렴해서 대만족입니다!! 적극 추천합니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99285",
+    "RawText": "3단에 UV살균 가능이라 샀는데 세척도 깔끔하게 잘되서 좋아요 만족입니다. 자동문열림은 보너스같네요 ㅎㅎ 컬러도 깨끗해보이는 화이트라 예뻐서 만족스럽습니다",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "터치온 SK매직 플러스 DWA-81U1D",
+    "ReviewScore": "5",
+    "Syllable": "86",
+    "Word": "17",
+    "RDate": "20210303",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "3단에 UV살균 가능이라 샀는데 세척도 깔끔하게 잘되서 좋아요 만족입니다. 자동문열림은 보너스같네요 ㅎㅎ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "컬러도 깨끗해보이는 화이트라 예뻐서 만족스럽습니다 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99286",
+    "RawText": "쓰던제품은 사이즈가 작아서 잘 안썼는데 12인용으로 바꾸니 한번에 많이 들어가요^^왜 이제야 바꿨나 싶네요^^  디자인이 깔끔해서 부엌도 더 깨끗해보이고 완전 대만족입니다!!",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "터치온 SK매직 플러스 DWA-81U1D",
+    "ReviewScore": "5",
+    "Syllable": "97",
+    "Word": "20",
+    "RDate": "20220322",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량",
+        "SentimentText": "쓰던제품은 사이즈가 작아서 잘 안썼는데 12인용으로 바꾸니 한번에 많이 들어가요^^왜 이제야 바꿨나 싶네요^^",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 깔끔해서 부엌도 더 깨끗해보이고 완전 대만족입니다!!",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99287",
+    "RawText": "비교많이 했는데 제일 저렴해서 얼른 구입했습니다. 식기세척기 구매에 세제도 같이 보내주셔서 넘 좋았습니다 감사해요",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "터치온 SK매직 플러스 DWA-81U1D",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "14",
+    "RDate": "20210515",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "비교많이 했는데 제일 저렴해서 얼른 구입했습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "식기세척기 구매에 세제도 같이 보내주셔서 넘 좋았습니다 감사해요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99288",
+    "RawText": "OOO 식기세척기 너무 만족스러워 동생에게 강력추천했습니다. 주방 분위기에 맞춰 화이트로 했는데 화사해서 주방이 예뻐보입니다^^ 식세기쓰고 생활이 편해졌다고 동생이 엄청 좋아하네요!!  가격까지 착해서 더 흐뭇합니다",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "터치온 SK매직 플러스 DWA-81U1D",
+    "ReviewScore": "5",
+    "Syllable": "120",
+    "Word": "24",
+    "RDate": "20220202",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "OOO 식기세척기 너무 만족스러워 동생에게 강력추천했습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "주방 분위기에 맞춰 화이트로 했는데 화사해서 주방이 예뻐보입니다^^",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "식세기쓰고 생활이 편해졌다고 동생이 엄청 좋아하네요!!",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격까지 착해서 더 흐뭇합니다 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99289",
+    "RawText": "플라스틱 탄냄새가 심해요ㅠ 통세척을 해도 참 거슬리고. 밥이 주걱이랑 내솥에 밥이 심하게 달라 붙어요ㅠ 가격도 비싼데 ㅠ10만원대랑 차이를 모르겠네요",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CRP-CHP1010FD 일반구매",
+    "ReviewScore": "2",
+    "Syllable": "83",
+    "Word": "19",
+    "RDate": "20220804",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "플라스틱 탄냄새가 심해요ㅠ 통세척을 해도 참 거슬리고. 밥이 주걱이랑 내솥에 밥이 심하게 달라 붙어요ㅠ",
+        "SentimentWord": "14",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 비싼데 ㅠ10만원대랑 차이를 모르겠네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99290",
+    "RawText": "취사를 했는데도 밥이 덜익고 재가열하고 밥도 하루만 지나면 딱딱해져서 돌밥이 되어버리니 아주 실망스럽네요 ㅜ 그래도 디자인도 심플하니 예뻐서 만족해요  ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 에그 CR-0375FW 일반구매",
+    "ReviewScore": "2",
+    "Syllable": "85",
+    "Word": "19",
+    "RDate": "20220223",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "취사를 했는데도 밥이 덜익고 재가열하고 밥도 하루만 지나면 딱딱해져서 돌밥이 되어버리니 아주 실망스럽네요 ㅜ",
+        "SentimentWord": "14",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "그래도 디자인도 심플하니 예뻐서 만족해요 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]

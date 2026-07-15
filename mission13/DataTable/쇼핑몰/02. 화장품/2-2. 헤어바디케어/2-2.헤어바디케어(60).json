@@ -1,0 +1,3152 @@
+[
+  {
+    "Index": "759409",
+    "RawText": "아직 사용은 안해봤습니다. 힘들이지 않게 염색할수 있을 것 같아 구매했습니다. 염색도 잘 되었으면 좋겠네요. 발색도 잘 되면 좋겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 프리미엄 물염색 3개",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "18",
+    "RDate": "20201124",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색도 잘 되었으면 좋겠네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "발색도 잘 되면 좋겠습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "759413",
+    "RawText": "냄새는 안 나요. 그런데 흰 머리카락 염색이 잘 안 되네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 프리미엄 물염색 3개",
+    "ReviewScore": "5",
+    "Syllable": "33",
+    "Word": "10",
+    "RDate": "20201124",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새는 안 나요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "흰 머리카락 염색이 잘 안 되네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759418",
+    "RawText": "염색이 잘 안됩니다. 사용하는데 불편함을 느꼈습니다. 설명보다는 염색이 덜 되고 사용하기 불편합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 프리미엄 물염색 3개",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "12",
+    "RDate": "20201124",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색이 잘 안됩니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": " 사용하는데 불편함을 느꼈습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "설명보다는 염색이 덜 되고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기 불편합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759422",
+    "RawText": "타사 제품을 사용하다가 궁금해서 구입했는데 너무 사용하기 불편하고 염색도 잘 안 되고 발색도 별로입니다. 다 쓰면 다시 전에 쓰던 거 구입해야겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 프리미엄 물염색 3개",
+    "ReviewScore": "5",
+    "Syllable": "84",
+    "Word": "21",
+    "RDate": "20201124",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "너무 사용하기 불편하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색도 잘 안 되고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "발색도 별로입니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759424",
+    "RawText": "사용하기 불편합니다. 염색도 잘 안되네요. 가격도 비싸서 별로에요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 프리미엄 물염색 3개",
+    "ReviewScore": "5",
+    "Syllable": "37",
+    "Word": "8",
+    "RDate": "20201124",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기 불편합니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색도 잘 안되네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 비싸서 별로에요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759428",
+    "RawText": "요즘 염색약들은 냄새가 많이 안 나는데 이 염색약은 냄새가 많이 나네요. 헤어캡은 1포에 1개 정도 구성에 있었으면 해요. 재사용이 안 되는 거라서요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 프리미엄 물염색 3개",
+    "ReviewScore": "5",
+    "Syllable": "84",
+    "Word": "22",
+    "RDate": "20201124",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새가 많이 나네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "헤어캡은 1포에 1개 정도 구성에 있었으면 해요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759432",
+    "RawText": "냄새 심하네요. 머릿결이 많이 상했습니다. 발색도 별로에요. 머릿결이 푸석거려요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 프리미엄 물염색 3개",
+    "ReviewScore": "5",
+    "Syllable": "45",
+    "Word": "9",
+    "RDate": "20201124",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새 심하네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결이 많이 상했습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "발색도 별로에요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": " 머릿결이 푸석거려요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759435",
+    "RawText": "염색하기는 쉽고 간편한데 냄새가 심하고 염색이 골고루 잘 되지 않아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 프리미엄 물염색 3개",
+    "ReviewScore": "5",
+    "Syllable": "39",
+    "Word": "10",
+    "RDate": "20201124",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "염색하기는 쉽고 간편한데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새가 심하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색이 골고루 잘 되지 않아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759436",
+    "RawText": "물염색하고 나서 머릿결이 안 좋다는 걸 느낍니다. 정말 머릿결이 많이 상했어요. 앞으론 물염색 안 할 거 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 프리미엄 물염색 3개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "17",
+    "RDate": "20201124",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결이 안 좋다는 걸 느낍니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "정말 머릿결이 많이 상했어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759442",
+    "RawText": "다른 염색체 쓰고 있었는데 남편 짧은 머리 염색하려니 두피가 신경쓰여서 바꿔보려고 구매했네요. 쇼호스트분들 시연할때 맨살에 묻혔다 닦고 깨끗해진 모습 보면서 남편 염색제로 괜찮지 않을까 기대해봐요. 가격은 똑같은데 구성이 달라져서 아쉽네요. 염색이 잘 되길 기대해봅니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 프리미엄 물염색 3개",
+    "ReviewScore": "5",
+    "Syllable": "151",
+    "Word": "34",
+    "RDate": "20201124",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "가격은 똑같은데 구성이 달라져서 아쉽네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색이 잘 되길 기대해봅니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "759444",
+    "RawText": "한 번 구매했다가 사용이 너무 불편하여 다시 재구매했습니다. 튜브가 막히는 건 여전하지만 염색약은 좋습니다. 속머리가 비어 보이지 않고 머릿결도 좋습니다. 암모니아 냄새는 나지만 아주 역하진 않습니다. 잘 쓸게요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 프리미엄 물염색 3개",
+    "ReviewScore": "5",
+    "Syllable": "119",
+    "Word": "28",
+    "RDate": "20201124",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용이 너무 불편하여",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "튜브가 막히는 건 여전하지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "속머리가 비어 보이지 않고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결도 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "암모니아 냄새는 나지만 아주 역하진 않습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "759447",
+    "RawText": "염색은 잘 되는 편인 것 같아요. 그런데 물 빠짐이 좀 심한 편이네요. 그래도 냄새가 안 나고 염색약이 순해서 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 프리미엄 물염색 3개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "19",
+    "RDate": "20201124",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색은 잘 되는 편인 것 같아요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "물 빠짐이 좀 심한 편이네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새가 안 나고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "염색약이 순해서 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "759456",
+    "RawText": "저는 머리카락이 긴데 염색제 1봉으로는 용량이 모자라서 물 한 번 분량에 염색제 2봉을 넣어 좀 오래 흔들었습니다. 미지근한 물을 사용하면 더 좋아요. 염색은 자극 없고, 두피에는 물들지 않고 골고루 염색이 잘 됐습니다. 샴푸 건조 후 머리카락이 반짝반짝 윤이 났습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 프리미엄 물염색 3개",
+    "ReviewScore": "5",
+    "Syllable": "151",
+    "Word": "39",
+    "RDate": "20201124",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량이 모자라서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "자극 없고,",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "이염",
+        "SentimentText": "두피에는 물들지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "골고루 염색이 잘 됐습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머리카락이 반짝반짝 윤이 났습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "759457",
+    "RawText": "섞는다고 섞었는데 가루제형이라 그런지 안섞인 부분이 있었어요. 50분정도 오래 방치해 뒀는데도 염색이 잘 안됐습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 프리미엄 물염색 3개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "14",
+    "RDate": "20201124",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "가루제형이라 그런지 안섞인 부분이 있었어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "50분정도 오래 방치해 뒀는데도 염색이 잘 안됐습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759458",
+    "RawText": "생각보다 별로예요. 병에 넣어 섞는데 불편해요. 동생들이랑 같이 했는데 동생들도 재구매 의사 없다고 하네요. 품질이 별로라 가격이 비싼편으로 느껴집니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 프리미엄 물염색 3개",
+    "ReviewScore": "5",
+    "Syllable": "85",
+    "Word": "19",
+    "RDate": "20201124",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용기",
+        "SentimentText": "병에 넣어 섞는데 불편해요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 품질이 별로라 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 비싼편으로 느껴집니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759461",
+    "RawText": "가격이 좀 비싸지만 후기가 좋아서 사봤는데 피부에 자극이 있어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 프리미엄 물염색 3개",
+    "ReviewScore": "5",
+    "Syllable": "36",
+    "Word": "9",
+    "RDate": "20201124",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 좀 비싸지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "피부에 자극이 있어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759473",
+    "RawText": "두피에 자극이 없고 냄새가 없다고 해서 주문해 봤어요. 아직 써보지는 않고 상품만 받은 상태인데 사용해 보고 좋으면 계속 사용하려고 합니다. 가격이 더 내리면 좋겠고 샘플 하나 없는 건 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 프리미엄 물염색 3개",
+    "ReviewScore": "5",
+    "Syllable": "109",
+    "Word": "29",
+    "RDate": "20201124",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 더 내리면 좋겠고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "샘플 하나 없는 건 아쉽네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759482",
+    "RawText": "아버님 사드렸는데 자극도 심하고 염색도 잘 안되고 그리고 염색후 머릿결이 푸석거려서 속상합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 프리미엄 물염색 3개",
+    "ReviewScore": "5",
+    "Syllable": "53",
+    "Word": "12",
+    "RDate": "20201124",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "자극도 심하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색도 잘 안되고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결이 푸석거려서 속상합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759484",
+    "RawText": "나쁘지 않은 거 같아요. 일단 향이 독하지 않습니다. 혼자서 쉽게 할 수 있다고 광고하길래 구매하고 받아서 바로 했는데 염색하기 쉽고 간편했어요. 미용실에서 매달 염색약 바르고 기다리는 동안 두피가 따가워서 매번 힘들었는데 이 제품은 자극이 없어서 좋아요. 더 저렴하게 판매해 주셨으면 좋겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 프리미엄 물염색 3개",
+    "ReviewScore": "5",
+    "Syllable": "165",
+    "Word": "41",
+    "RDate": "20201124",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 독하지 않습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "염색하기 쉽고 간편했어요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "자극이 없어서 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "더 저렴하게 판매해 주셨으면 좋겠어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759487",
+    "RawText": "염색하기도 불편하고 냄새도 나며 염색 후에 트리트먼트를 했는데도 머릿결이 안 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 프리미엄 물염색 3개",
+    "ReviewScore": "5",
+    "Syllable": "48",
+    "Word": "11",
+    "RDate": "20201124",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "염색하기도 불편하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 나며",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결이 안 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759491",
+    "RawText": "물로 하는 염색약을 지인이 추천해 줘서 주문했는데 제품 받고 바로 염색했습니다. 얼룩덜룩하게 염색이 됐어요. 제 기술이 문제인지 모르겠지만 쉽게 잘 할 수 있는 제품은 아닌 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 프리미엄 물염색 3개",
+    "ReviewScore": "5",
+    "Syllable": "103",
+    "Word": "27",
+    "RDate": "20201124",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "얼룩덜룩하게 염색이 됐어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "쉽게 잘 할 수 있는 제품은 아닌 것 같아요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759492",
+    "RawText": "냄새가 너무 독합니다. 헹굼시 잘 지워지지 않아서 고생했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 프리미엄 물염색 3개",
+    "ReviewScore": "5",
+    "Syllable": "35",
+    "Word": "8",
+    "RDate": "20201124",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새가 너무 독합니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "클렌징/제거력",
+        "SentimentText": " 잘 지워지지 않아서 고생했습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759496",
+    "RawText": "쓰던 게 많이 남았지만 광고 믿고 구매했어요. 저는 가르마만 집중적으로 염색하거든요. 바르고 비닐 캡 쓰고 있다가 감았습니다. 염색 잘 됐고 피부에도 확실히 덜 묻네요. 내일 한 번 더 감아봐야겠지만 일단 마음에 듭니다. 구성품에 포함된 비닐 캡은 별로네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 프리미엄 물염색 3개",
+    "ReviewScore": "5",
+    "Syllable": "144",
+    "Word": "37",
+    "RDate": "20201124",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색 잘 됐고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "이염",
+        "SentimentText": "피부에도 확실히 덜 묻네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "759499",
+    "RawText": "물로 섞어 염색하고 암모니아, 타르 색소. 헤나 성분이 없어 안심 되고 특히 두피와 모발 건강에 좋은 자연유래 성분이 함유되어 있다던데 믿고 사용해 보려고 합니다. 분말 제형이라 휴대하기도 간편하고 기대돼요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 프리미엄 물염색 3개",
+    "ReviewScore": "5",
+    "Syllable": "116",
+    "Word": "29",
+    "RDate": "20201124",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분",
+        "SentimentText": "암모니아, 타르 색소. 헤나 성분이 없어 안심 되고",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "두피와 모발 건강에 좋은 자연유래 성분이 함유되어 있다던데",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "분말 제형이라 휴대하기도 간편하고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "759516",
+    "RawText": "염색이 정말 깨끗하게 잘 되요. 독한 냄새가 없고 향기가 있어 정말 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 프리미엄 물염색 3개",
+    "ReviewScore": "5",
+    "Syllable": "42",
+    "Word": "12",
+    "RDate": "20201124",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색이 정말 깨끗하게 잘 되요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "독한 냄새가 없고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기가 있어 정말 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "759522",
+    "RawText": "생각보다 머리에 물이 잘 안들었습니다. 그리고 머리 감을 때마다 물이 빠져요. 그래서 타올에 베는게 많네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 프리미엄 물염색 3개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "15",
+    "RDate": "20201124",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "머리에 물이 잘 안들었습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "머리 감을 때마다 물이 빠져요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "이염",
+        "SentimentText": "타올에 베는게 많네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759523",
+    "RawText": "흰머리 염색 때문에 주문했습니다. 생수병에 염색제를 물과 섞어서 사용했어요. 다른 제품보다 사용이 불편하고 염색도 더 잘 안 되어 실망입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 프리미엄 물염색 3개",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "19",
+    "RDate": "20201124",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용이 불편하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색도 더 잘 안 되어 실망입니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759524",
+    "RawText": "냄새가 심해서 별로네요. 색상은 브라운은 염색이 잘 안되고 검정은 발색이 너무 진해요. 섞어써야 하나보네요.  ",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 프리미엄 물염색 3개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "14",
+    "RDate": "20201124",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새가 심해서 별로네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "색상은 브라운은 염색이 잘 안되고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "검정은 발색이 너무 진해요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759526",
+    "RawText": "염색이 잘 됩니다. 설명대로 30분두고 있다 감았는데 이쁘게 염색됩니다. 새치가 많아서 자주 염색하는데 걱정없이 해도 될 것 같습니다. 살짝 머리속이 가렵기는 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 프리미엄 물염색 3개",
+    "ReviewScore": "5",
+    "Syllable": "93",
+    "Word": "22",
+    "RDate": "20201124",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색이 잘 됩니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "이쁘게 염색됩니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "머리속이 가렵기는 합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759529",
+    "RawText": "가루제형이 잘 섞이지 않아서 불편합니다. 긴병 용기라서 불편합니다. 그릇에 솔로 잘 섞어야 할 것 같네요. 염색도 잘 안 됩니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 프리미엄 물염색 3개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "19",
+    "RDate": "20201124",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "가루제형이 잘 섞이지 않아서 불편합니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "긴병 용기라서 불편합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색도 잘 안 됩니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759531",
+    "RawText": "흰머리가 많은 편이데 염색이 노랗게 됐습니다. 하라는 대로 다 했는데 염색이 되다 마네요. 방송에 속았어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 프리미엄 물염색 3개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "15",
+    "RDate": "20201124",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색이 노랗게 됐습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색이 되다 마네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759532",
+    "RawText": "긴머리라서 그런지 하나로는 용량이 부족해서 3개를 다 사용했어요. 사용하기는 간편한데 두피가 따갑고 머릿결이 푸석하네요. 생각보다 별로예요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 프리미엄 물염색 3개",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "16",
+    "RDate": "20201124",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "긴머리라서 그런지 하나로는 용량이 부족해서 3개를 다 사용했어요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기는 간편한데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "두피가 따갑고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결이 푸석하네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759538",
+    "RawText": "상품 품질이 안 좋습니다. 마음에 안 들어요. 제형이 흘러 내려서 안 좋아요. 냄새도 심합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 프리미엄 물염색 3개",
+    "ReviewScore": "5",
+    "Syllable": "53",
+    "Word": "14",
+    "RDate": "20201124",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "상품 품질이 안 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 흘러 내려서 안 좋아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 냄새도 심합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759544",
+    "RawText": "잘 받았습니다. 물로 하는 염색이라 순할 것 같아 고민 없이 구입했어요. 아직 사용해 보지 않았지만, 상품평에 물 빠짐이 있다 그래서 걱정되기는 해요. 다른 염색약에 비해 간편한 거 같습니다. 사용할 때 물 빠짐이 없으면 좋겠고 쉽게 혼자서 할 수 있는 제품이었으면 좋겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 프리미엄 물염색 3개",
+    "ReviewScore": "5",
+    "Syllable": "154",
+    "Word": "41",
+    "RDate": "20201124",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "다른 염색약에 비해 간편한 거 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "물 빠짐이 없으면 좋겠고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "쉽게 혼자서 할 수 있는 제품이었으면 좋겠어요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "759545",
+    "RawText": "품질이 너무 안 좋습니다. 널찍한 용기에 덜어서 사용해야지 용기 자체로 직접 두피에 사용하기 불편합니다. 용기 입구가 잘 막혀서 불편합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 프리미엄 물염색 3개",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "19",
+    "RDate": "20201124",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 너무 안 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "널찍한 용기에 덜어서 사용해야지 용기 자체로 직접 두피에 사용하기 불편합니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": " 용기 입구가 잘 막혀서 불편합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759548",
+    "RawText": "진한갈색으로 했더니 너무 어둡게 색이 나왔어요. 물염색인데도 두피는 조금 화끈거리는건 왜인지 모르겠네요. 그리고 양이 너무 작습니다. 앞부분 뿌리염색만 하는데도 한포로는 좀 모자랍니다. 두포정도는 필요할것 같네요. 좀 밝게하고 싶은데 저같은 경우에도 밝은색으로 하면 물이 잘 들지 모르겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 프리미엄 물염색 3개",
+    "ReviewScore": "5",
+    "Syllable": "163",
+    "Word": "36",
+    "RDate": "20201124",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "발색력",
+        "SentimentText": "진한갈색으로 했더니 너무 어둡게 색이 나왔어요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "물염색인데도 두피는 조금 화끈거리는건 왜인지 모르겠네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양이 너무 작습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "부분 뿌리염색만 하는데도 한포로는 좀 모자랍니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759550",
+    "RawText": "이번에 추천 받고 구매해봤습니다. 냄새가 너무 강해서 별로에요. 피부에 자극도 심한 것 같아요. 비추합니다. 머릿결도 푸석거리고 안 좋습니다. 염색도 잘 안되요. 물이 많이 빠져요. 암튼 뿌염하러 다시 미용실 가야겠습니다. 사용하기 너무 번거롭고 가격도 비싸서 불만족입니다. 앞으로 더 이상 구매할 생각 없습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 프리미엄 물염색 3개",
+    "ReviewScore": "5",
+    "Syllable": "175",
+    "Word": "41",
+    "RDate": "20201124",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새가 너무 강해서 별로에요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "피부에 자극도 심한 것 같아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결도 푸석거리고 안 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색도 잘 안되요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "물이 많이 빠져요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기 너무 번거롭고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 비싸서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759603",
+    "RawText": "다른 쇼핑몰에서 꾸준히 구매하던 건데 없어져서 못 쓰다가 여기에 있어서 구매해요. 저는 6NG색상이 잘 맞습니다. 색이 오래가거나 냄새가 안 나거나 하진 않는데 이 색상이 새치 염색으로 찾기는 좀 힘듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 골** 헤어컬러 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "115",
+    "Word": "29",
+    "RDate": "20200305",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "저는 6NG색상이 잘 맞습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "색이 오래가거나 냄새가 안 나거나 하진 않는데",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새가 안 나거나 하진 않는데",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "이 색상이 새치 염색으로 찾기는 좀 힘듭니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "759605",
+    "RawText": "싸고 염색이 잘 되는 거 같아서 쓰고 있는데 물이 좀 빨리 빠지는 것 같아요. 그런데 발색이 마음에 들어서 계속 쓰고 있어요. 눈은 약간 매워요. 튜브 용기도 타제품보다 잘 짜져서 편해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 골** 헤어컬러 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "105",
+    "Word": "30",
+    "RDate": "20200713",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색이 잘 되는 거 같아서 쓰고 있는데",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "물이 좀 빨리 빠지는 것 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "발색이 마음에 들어서 계속 쓰고 있어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "눈은 약간 매워요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "튜브 용기도 타제품보다 잘 짜져서 편해요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "759623",
+    "RawText": "안전하고 빠르게 배송 받았습니다. 흰머리 염색이 필요해서 브랜드 보고 믿고 주문했습니다. 흰머리 염색이 잘 안됩니다. 냄새도 강하고요. 6개이상 사면 무료배송이라고 해서 구매했는데 반품합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 골** 헤어컬러 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "107",
+    "Word": "23",
+    "RDate": "20200717",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "흰머리 염색이 잘 안됩니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 강하고요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759680",
+    "RawText": "OO컬러크림의 색조와 OOO라인에 매우 만족해요. 다만 OO쇼핑몰 행사 때 카드 할인 받았으면 좋았을 텐데 놓쳐서 가격 손해 본 기분이네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 골** 헤어컬러 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "19",
+    "RDate": "20211204",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색조와 OOO라인에 매우 만족해요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "카드 할인 받았으면 좋았을 텐데 놓쳐서 가격 손해 본 기분이네요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759696",
+    "RawText": "냄새도 아주 고약하고 염색후 두피 가려움도 있고 색도 잘 안나와요. 새치 염색하려고 가격이 비싸도 샀는데 실망이에요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 골** 헤어컬러 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "16",
+    "RDate": "20220209",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 아주 고약하고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "염색후 두피 가려움도 있고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "색도 잘 안나와요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 비싸도 샀는데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759697",
+    "RawText": "염색력이 약합니다. 비추입니다. 새치커버가 전혀 안됩니다. 가격도 비싸요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 골** 헤어컬러 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "41",
+    "Word": "8",
+    "RDate": "20170524",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색력이 약합니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "새치커버가 전혀 안됩니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 비싸요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759698",
+    "RawText": "1:1로 섞긴하지만 그래도 다른 컬러보다 색이 잘 안나와요. 산화제도 좀 독한 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 골** 헤어컬러 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "50",
+    "Word": "13",
+    "RDate": "20170524",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "발색력",
+        "SentimentText": "다른 컬러보다 색이 잘 안나와요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "산화제도 좀 독한 것 같아요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759699",
+    "RawText": "가격도 비싸요. 흰 머리 염색이 전혀 안됩니다. 발색이 너무 밝아요. 품질이 별로에요. 다른 제품으로 다시 구매해 봐야겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 골** 헤어컬러 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "17",
+    "RDate": "20170524",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 비싸요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "흰 머리 염색이 전혀 안됩니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "발색이 너무 밝아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 별로에요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759700",
+    "RawText": "검정색으로 염색이 잘 안 됩니다. 양도 적고 가격도 비싸고 독한 냄새도 납니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 골** 헤어컬러 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "44",
+    "Word": "12",
+    "RDate": "20170525",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "검정색으로 염색이 잘 안 됩니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 적고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 비싸고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "독한 냄새도 납니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759701",
+    "RawText": "새치커버는 무난하게 잘 되는데 너무 어둡게 발색되어서 별로예요. 가격도 비싸고 두피도 따가워요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 골** 헤어컬러 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "53",
+    "Word": "12",
+    "RDate": "20170525",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "새치커버는 무난하게 잘 되는데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "너무 어둡게 발색되어서 별로예요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 비싸고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "두피도 따가워요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759703",
+    "RawText": "저렴하면서 좋은 제품을 만나기가 너무 쉽지 않네요. 염색도 잘 안 되고 냄새도 독해서 별로예요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 골** 헤어컬러 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "53",
+    "Word": "14",
+    "RDate": "20170525",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색도 잘 안 되고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 독해서 별로예요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759707",
+    "RawText": "밝은 색감 치고는 나쁘지 않게 나오는 것 같습니다. 너무 바랜 색도 아니고 붉은기 싫어하시는 분들께 추천해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 골** 헤어컬러 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "16",
+    "RDate": "20170530",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "발색력",
+        "SentimentText": "밝은 색감 치고는 나쁘지 않게 나오는 것 같습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "너무 바랜 색도 아니고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "붉은기 싫어하시는 분들께 추천해요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "759712",
+    "RawText": "염색제 색상이 별로 마음에 들지 않네요. 염색후 물이 잘 빠지는 둣 합니다. 그리고 이염도 심해서 수건에 계속 묻어나요. 정말 별로에요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 골** 헤어컬러 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "20",
+    "RDate": "20170603",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "염색제 색상이 별로 마음에 들지 않네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "물이 잘 빠지는 둣 합니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "이염",
+        "SentimentText": "이염도 심해서 수건에 계속 묻어나요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759715",
+    "RawText": "이 제품 너무 괜찮습니다. 커버력이 가끔씩은 떨어지지만 그래도 커버력에 기복이 있는 것만 빼면 사용할 때 나쁘지 않은 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 골** 헤어컬러 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "19",
+    "RDate": "20170604",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "커버력이 가끔씩은 떨어지지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "커버력에 기복이 있는 것만 빼면",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759717",
+    "RawText": "구성품인 산화제도 잘 챙겨주시고 좋았어요. 용량도 적당해요. 냄새도 나쁘지 않아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 골** 헤어컬러 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "46",
+    "Word": "10",
+    "RDate": "20170604",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성품인 산화제도 잘 챙겨주시고 좋았어요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량도 적당해요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 나쁘지 않아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "759723",
+    "RawText": "커버도 잘 안 되고 산화제랑 섞었을 때 냄새도 독해서 너무 안 좋습니다. 두피도 따갑습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 골** 헤어컬러 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "51",
+    "Word": "14",
+    "RDate": "20170605",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "커버도 잘 안 되고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 독해서 너무 안 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "두피도 따갑습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759724",
+    "RawText": "후기가 좋아서 속는 셈 치고 구입해 봤어요. 가격은 저렴한데 새치커버력이 생각보다 안 좋아요. 별로예요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 골** 헤어컬러 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "14",
+    "RDate": "20170606",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 저렴한데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "새치커버력이 생각보다 안 좋아요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759725",
+    "RawText": "갈색으로 나오기보다는 그냥 검정보다 아주 조금 밝은 그런 느낌입니다. 커버력도 좋지 않습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 골** 헤어컬러 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "52",
+    "Word": "12",
+    "RDate": "20170606",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "발색력",
+        "SentimentText": "갈색으로 나오기보다는 그냥 검정보다 아주 조금 밝은 그런 느낌입니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "커버력도 좋지 않습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759726",
+    "RawText": "80% 그레이 헤어에 도포해 봤는데 색감도 좋게 나오고 예쁘게 나옵니다. 흰머리 커버력도 괜찮아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 골** 헤어컬러 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "13",
+    "RDate": "20170606",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "발색력",
+        "SentimentText": "색감도 좋게 나오고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "예쁘게 나옵니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "흰머리 커버력도 괜찮아요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "759727",
+    "RawText": "그레이 커버도 잘 안되고 가격대비 저한테는 안맞는 것 같아요. 냄새도 독한편이구요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 골** 헤어컬러 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "46",
+    "Word": "11",
+    "RDate": "20170607",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "그레이 커버도 잘 안되고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "가격대비 저한테는 안맞는 것 같아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 독한편이구요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759737",
+    "RawText": "중간 명도의 색상이 필요했는데 다행히 있어서 좋습니다. 색조가 세분되어 있어서 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 골** 헤어컬러 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "48",
+    "Word": "11",
+    "RDate": "20170607",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "중간 명도의 색상이 필요했는데 다행히 있어서 좋습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색조가 세분되어 있어서 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "759739",
+    "RawText": "산화제를 온것 만으로는 쓰면 너무 독해서 다른 산화제를 쓰고 있어요. 머리가 뻣뻣해져서 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 골** 헤어컬러 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "54",
+    "Word": "13",
+    "RDate": "20170608",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "산화제를 온것 만으로는 쓰면 너무 독해서 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머리가 뻣뻣해져서 아쉽네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759741",
+    "RawText": "회색을 커버용으로 쓰려고 샀습니다. 반신반의했는데 역시 커버가 잘 안 됩니다. 커버력이 별로네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 골** 헤어컬러 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "54",
+    "Word": "12",
+    "RDate": "20170608",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "커버가 잘 안 됩니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "커버력이 별로네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759746",
+    "RawText": "발색이 그닥 밝지 않습니다.  잘못하면 완전 어둡게 나옵니다. 산화제로 조절을 해야할것 같네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 골** 헤어컬러 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "53",
+    "Word": "12",
+    "RDate": "20170626",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "발색력",
+        "SentimentText": "발색이 그닥 밝지 않습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "잘못하면 완전 어둡게 나옵니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759747",
+    "RawText": "전에 샀던 색상보다는 발색이 살짝 붉은 감은 있지만 염색도 잘 되고 마음에 듭니다. 가격 대비 나쁘지 않습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 골** 헤어컬러 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "17",
+    "RDate": "20170628",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "발색력",
+        "SentimentText": "전에 샀던 색상보다는 발색이 살짝 붉은 감은 있지만",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색도 잘 되고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 대비 나쁘지 않습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "759751",
+    "RawText": "배송도 빠르고 가격도 저렴하고 색감도 나쁘지 않게 나옵니다. 산화제를 잘 써야 할 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 골** 헤어컬러 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "53",
+    "Word": "14",
+    "RDate": "20170630",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "색감도 나쁘지 않게 나옵니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "759752",
+    "RawText": "밝으면서 쿨톤이 도는 색상을 찾는 중에 12T가 있어서 구매했습니다. 써보니깐 매트한 느낌이 좀 있습니다. 발색이 생각보다 예쁘지는 않네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 골** 헤어컬러 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "18",
+    "RDate": "20170630",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "매트한 느낌이 좀 있습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "발색이 생각보다 예쁘지는 않네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759753",
+    "RawText": "그레이커버는 잘 안되네요. 용량도 부족하구요. 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 골** 헤어컬러 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "31",
+    "Word": "6",
+    "RDate": "20170630",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "그레이커버는 잘 안되네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량도 부족하구요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759756",
+    "RawText": "배송도 빠르고 가격도 저렴하고 색감은 양 조절을 잘해서 넣어야겠습니다. 많이 넣으면 색감이 어둡게 발색 됩니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 골** 헤어컬러 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "15",
+    "RDate": "20170630",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "많이 넣으면 색감이 어둡게 발색 됩니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759759",
+    "RawText": "용량도 넉넉하고 가격도 저렴해서 좋은데 새치 커버는 잘 안 되는 거 같아요. 사용하기도 불편해요. 재구매 의사는 없어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 골** 헤어컬러 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "17",
+    "RDate": "20170702",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량도 넉넉하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴해서 좋은데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "새치 커버는 잘 안 되는 거 같아요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기도 불편해요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759760",
+    "RawText": "새치커버나 톤다운할때 쓰려고 샀어요. 근데 용량이 생각보다 많지 않아서 두팩은 써야 할 것 같아요. 같이 오는 산화제도 좀 독해서 산화제는 따로 샀어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 골** 헤어컬러 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "85",
+    "Word": "22",
+    "RDate": "20170702",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량이 생각보다 많지 않아서 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "같이 오는 산화제도 좀 독해서 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759765",
+    "RawText": "색상이 용이하게 자주 쓰는 칼라라서 샀는데 염색이 잘 안되네요. 비싸게 주고 샀는데 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 골** 헤어컬러 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "52",
+    "Word": "13",
+    "RDate": "20170704",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색이 잘 안되네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "비싸게 주고 샀는데 아쉽네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759768",
+    "RawText": "처음에 몇 개만 쓰다가 지금은 종류가 많이 늘어났습니다. 쓰기는 편해졌는데 가격 대비 용량을 늘려주면 좋겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 골** 헤어컬러 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "15",
+    "RDate": "20170704",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "쓰기는 편해졌는데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "가격 대비 용량을 늘려주면 좋겠습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759771",
+    "RawText": "탈색을 하고 검정머리가 올라와서 찾다가 여기 염색약이 괜찮을거 같아서 시켜서 해봤어요 근데 생각보다 염색이 잘 안되네요. 색이 다 빠지는건 아니고 얼룩덜룩 빠져서 보기 싫으네요. 광고나 사진에는 너무 깨끗하게 염색이 되는 것 처럼 나와 있던데 역시 과대광고였나보다 생각합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 골** 헤어컬러 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "154",
+    "Word": "37",
+    "RDate": "20170705",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "생각보다 염색이 잘 안되네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "색이 다 빠지는건 아니고 얼룩덜룩 빠져서 보기 싫으네요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759772",
+    "RawText": "좋아하는 칼라여서 재구매합니다. 색감 진심 예쁘게 나와요. 용량도 넉넉하고 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 골** 헤어컬러 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "47",
+    "Word": "10",
+    "RDate": "20170707",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "좋아하는 칼라여서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "색감 진심 예쁘게 나와요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량도 넉넉하고 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "759773",
+    "RawText": "행사 기간이 지났는데 1+1로 구매할 수 있어서 좋았어요. 그런데 염색제 색상이 생각보다 별로예요. 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 골** 헤어컬러 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "14",
+    "RDate": "20170707",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "행사 기간이 지났는데 1+1로 구매할 수 있어서 좋았어요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "염색제 색상이 생각보다 별로예요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759774",
+    "RawText": "머리가 길어서 그런지 하나로는 양이 부족했어요. 염색도 예쁘게 되지 않네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 골** 헤어컬러 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "42",
+    "Word": "10",
+    "RDate": "20170707",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "머리가 길어서 그런지 하나로는 양이 부족했어요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "염색도 예쁘게 되지 않네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759775",
+    "RawText": "용량도 작고 가격도 비싸고 너무 실망스럽습니다. 다음엔 다른 거 써야겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 골** 헤어컬러 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "43",
+    "Word": "10",
+    "RDate": "20170707",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량도 작고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 비싸고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759778",
+    "RawText": "집에서 계속 혼자 염색하는데 염색이 자연스럽게 잘 안되네요. 가격은 비쌌는데 품질은 별로네요. 배송은 정말 빨랐습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 골** 헤어컬러 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "15",
+    "RDate": "20170817",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색이 자연스럽게 잘 안되네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 비쌌는데 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질은 별로네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759782",
+    "RawText": "배송은 빨라서 좋았어요. 냄새도 좋고 서비스로 주신 산화제도 잘 받았습니다. 그런데 산화제 뚜껑이 열려서 내용물이 다 새어 나왔어요. 포장에 신경 좀 써주시면 좋겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 골** 헤어컬러 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "94",
+    "Word": "23",
+    "RDate": "20180118",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "서비스로 주신 산화제도 잘 받았습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "산화제 뚜껑이 열려서 내용물이 다 새어 나왔어요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759799",
+    "RawText": "색이 별로 안예뻐요. 유통기한이 짧아 아쉽네요. 다음에 재구매는 안하고 싶어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 골** 헤어컬러 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "44",
+    "Word": "10",
+    "RDate": "20200723",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색이 별로 안예뻐요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": " 유통기한이 짧아 아쉽네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759805",
+    "RawText": "염색이 잘 안 돼서 별로네요. 가격 대비 매우 실망입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 골** 헤어컬러 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "32",
+    "Word": "9",
+    "RDate": "20201203",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색이 잘 안 돼서 별로네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 대비 매우 실망입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759806",
+    "RawText": "ㅇㅇㅇ 붉은색 계통으로 색이 너무 밝아요. 비싸게 구입했는데 아쉽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 골** 헤어컬러 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "40",
+    "Word": "9",
+    "RDate": "20201203",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "ㅇㅇㅇ 붉은색 계통으로 색이 너무 밝아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "비싸게 구입했는데 아쉽습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759810",
+    "RawText": "1+1으로 하던 걸 값 올려서 판 거네요. 제조일자도 몇 년 지나서 유통기한 임박했네요. 상품 받고 이렇게 기분 나빠 보긴 처음입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 골** 헤어컬러 120g 1개",
+    "ReviewScore": "1",
+    "Syllable": "75",
+    "Word": "20",
+    "RDate": "20170622",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "값 올려서 판 거네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한 임박했네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759814",
+    "RawText": "그레이 커버용이랑 다크하게 할 때 주로 쓰는데 색감이 잘 나오는 것 같습니다. 독한 냄새도 안 나서 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 골** 헤어컬러 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "17",
+    "RDate": "20170609",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "발색력",
+        "SentimentText": "색감이 잘 나오는 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "독한 냄새도 안 나서 좋아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "759815",
+    "RawText": "다크하게 염색할때 쓰려고 샀는데 발색이 진하게 안나오네요. 머릿결도 좀 상했어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 골** 헤어컬러 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "45",
+    "Word": "10",
+    "RDate": "20170609",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "발색력",
+        "SentimentText": "발색이 진하게 안나오네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결도 좀 상했어요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759818",
+    "RawText": "중간 명도의 색이 있어서 괜찮은 것 같습니다. 용량은 일반적이고 구성품으로 산화제도 같이 보내주셔서 잘 쓰겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 골** 헤어컬러 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "15",
+    "RDate": "20170611",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "중간 명도의 색이 있어서 괜찮은 것 같습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량은 일반적이고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성품으로 산화제도 같이 보내주셔서 잘 쓰겠습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "759822",
+    "RawText": "내츄럴 브라운 색상 구매했어요. 그런데 발색이 자연스럽지 않아요. 새치 커버도 잘 안 되네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 골** 헤어컬러 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "52",
+    "Word": "13",
+    "RDate": "20170612",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "발색력",
+        "SentimentText": "발색이 자연스럽지 않아요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "새치 커버도 잘 안 되네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759823",
+    "RawText": "밝으면서 쿨톤이 도는 색상입니다. 비싸고 냄새가 강하긴 하지만 그냥 쓰려구요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 골** 헤어컬러 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "43",
+    "Word": "10",
+    "RDate": "20170612",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "밝으면서 쿨톤이 도는 색상입니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "비싸고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새가 강하긴 하지만 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759826",
+    "RawText": "흰머리 커버가 잘 안 되고 블랙 발색이 안 예쁘게 빠지는 것 같습니다. 가격에 비해 별로예요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 골** 헤어컬러 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "52",
+    "Word": "15",
+    "RDate": "20170612",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "흰머리 커버가 잘 안 되고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "블랙 발색이 안 예쁘게 빠지는 것 같습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격에 비해 별로예요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759827",
+    "RawText": "이 색상은 자주 쓰게 될 것 같아서 구매해봤는데요. 흰머리 커버도 안되고 양도 너무 작아서 두팩을 써야하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 골** 헤어컬러 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "16",
+    "RDate": "20170612",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "흰머리 커버도 안되고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 너무 작아서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759829",
+    "RawText": "짙은 갈색 도포했는데 색상이 잘 안 나옵니다. 머릿결도 상하고 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 골** 헤어컬러 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "40",
+    "Word": "10",
+    "RDate": "20170613",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "발색력",
+        "SentimentText": "색상이 잘 안 나옵니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결도 상하고 아쉽네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759840",
+    "RawText": "비싼편이에요. 할인을 해도 비쌉니다. 가격이 비싸면 염색도 잘 될줄 알았는데 아니네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 골** 헤어컬러 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "48",
+    "Word": "11",
+    "RDate": "20170625",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "비싼편이에요. ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인을 해도 비쌉니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "가격이 비싸면 염색도 잘 될줄 알았는데 아니네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759841",
+    "RawText": "그레이 색상이 커버에 좋은 레벨입니다. 만족해요. 가격도 용량도 나쁘지 않습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 골** 헤어컬러 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "45",
+    "Word": "10",
+    "RDate": "20170625",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "그레이 색상이 커버에 좋은 레벨입니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 용량도 나쁘지 않습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량도 나쁘지 않습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "759843",
+    "RawText": "어두운 갈색으로 했는데 안 좋은 것 같습니다. 가격도 비싸고 용량도 적으면서 커버도 잘 안 되는 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 골** 헤어컬러 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "17",
+    "RDate": "20170625",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 비싸고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량도 적으면서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "커버도 잘 안 되는 것 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759845",
+    "RawText": "산화제를 잘못 썼는지 결과물을 보니 색상이 안 예쁘게 나왔어요. 용량도 빠듯합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 골** 헤어컬러 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "46",
+    "Word": "11",
+    "RDate": "20170630",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "발색력",
+        "SentimentText": "색상이 안 예쁘게 나왔어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량도 빠듯합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759847",
+    "RawText": "흰머리 커버할때 쓰려고 샀는데 흰머리 커버가 잘 안되네요. 용량도 부족하고 가격도 비싸고 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 골** 헤어컬러 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "13",
+    "RDate": "20170630",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "흰머리 커버가 잘 안되네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량도 부족하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 비싸고 아쉽네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759853",
+    "RawText": "명도가 낮은 색상이 필요해서 구매했어요. 그런데 생각보다 용량이 작아요. 가격대비 별로예요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 골** 헤어컬러 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "51",
+    "Word": "11",
+    "RDate": "20170714",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "생각보다 용량이 작아요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 별로예요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759856",
+    "RawText": "거의 블랙에 가까운 다크한 색상으로 발색되네요. 밝게 염색하고 싶었는데 발색이 좀 아쉽네요. 시간도 좀 길게 둬야해서 힘들어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 골** 헤어컬러 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "17",
+    "RDate": "20170714",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "발색력",
+        "SentimentText": "거의 블랙에 가까운 다크한 색상으로 발색되네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "밝게 염색하고 싶었는데 발색이 좀 아쉽네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "시간도 좀 길게 둬야해서 힘들어요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759857",
+    "RawText": "OO은 염색제 컬러는 좋은데 물빠짐이 좀 많은 것 같습니다. 지속력이 좀 길었으면 좋겠는데 아무튼 쓰기에 나쁘지 않습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 골** 헤어컬러 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "17",
+    "RDate": "20170714",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "염색제 컬러는 좋은데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "물빠짐이 좀 많은 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력이 좀 길었으면 좋겠는데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759878",
+    "RawText": "머리가 길어서 여러 개 샀어요. 가격은 저렴한데 용량이 작아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 골** 헤어컬러 120g 1개",
+    "ReviewScore": "4",
+    "Syllable": "35",
+    "Word": "9",
+    "RDate": "20220104",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 저렴한데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량이 작아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "759880",
+    "RawText": "긴머리에 용량은 작은 편인데 저렴하게 사서 괜찮습니다. 가성비 무난해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 골** 헤어컬러 120g 1개",
+    "ReviewScore": "4",
+    "Syllable": "40",
+    "Word": "9",
+    "RDate": "20220105",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "긴머리에 용량은 작은 편인데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 사서 괜찮습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 무난해요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "759947",
+    "RawText": "유통기한도 길고 배송은 빨라서 좋았어요. 그런데 항상 쓰던 제품이라 여러 개 구매했는데 사은품으로 주신다는 산화제는 하나만 와서 좀 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 골** 헤어컬러 120g 1개",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "19",
+    "RDate": "20190627",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한도 길고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "여러 개 구매했는데 사은품으로 주신다는 산화제는 하나만 와서 좀 아쉽네요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  }
+]

@@ -1,0 +1,3200 @@
+[
+  {
+    "Index": "733273",
+    "RawText": "머리 감고 바르니 머리가 부들부들해져서 너무 좋습니다. 특히 향기가 너무 좋은 거 같아요. 잘 사용하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 코** 데미지케어 120ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "15",
+    "RDate": "20210102",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머리가 부들부들해져서 너무 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기가 너무 좋은 거 같아요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733280",
+    "RawText": "성분이 좋아서 구매한 제품입니다. 향도 좋고 제품도 좋아서 계속 쓸 거 같아요. 배송도 빠르고 할인받아 저렴히 구매해서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 코** 데미지케어 120ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "18",
+    "RDate": "20210116",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분",
+        "SentimentText": "성분이 좋아서 구매한 제품입니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인받아 저렴히 구매해서 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733282",
+    "RawText": "1+1은 좋은데 유통기한이 하나는 23년까지이고 또 다른 하나는 25년까지로 차이가 나서 별로네요. 기분이 안 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 코** 데미지케어 120ml 2개",
+    "ReviewScore": "3",
+    "Syllable": "66",
+    "Word": "15",
+    "RDate": "20210119",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "1+1은 좋은데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한이 하나는 23년까지이고 또 다른 하나는 25년까지로 차이가 나서 별로네요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "733287",
+    "RawText": "몇 년째 이것만 쓰고 있어요. 효과가 좋은지는 솔직히 모르겠어요. 그래도 쓰면 차분해지는 거 같아서 사용하고 있어요. 저렴하게 사서 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 코** 데미지케어 120ml 2개",
+    "ReviewScore": "4",
+    "Syllable": "78",
+    "Word": "19",
+    "RDate": "20210205",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과가 좋은지는 솔직히 모르겠어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "그래도 쓰면 차분해지는 거 같아서 사용하고 있어요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 사서 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733306",
+    "RawText": "향도 좋고 머리 감고 나서 물기 살짝 제거 후 발라주고 말리면 머릿결이 너무 부드럽고 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 코** 데미지케어 120ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "53",
+    "Word": "15",
+    "RDate": "20220215",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "물기 살짝 제거 후 발라주고 말리면 머릿결이 너무 부드럽고 좋습니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733314",
+    "RawText": "항상 쓰는 제품이네요. 미용실에서 구입해서 샀는데 이곳이 많이 저렴하네요. 향도 좋고 유분감도 적어서 너무 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 코** 데미지케어 120ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "15",
+    "RDate": "20210519",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "이곳이 많이 저렴하네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "유분감도 적어서 너무 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733315",
+    "RawText": "가격이 전보다 올라서 아쉽네요. 이것보다 향 좋은 건 못 찾겠어서 수 년째 사용 중이네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 코** 데미지케어 120ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "50",
+    "Word": "14",
+    "RDate": "20210525",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 전보다 올라서 아쉽네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "이것보다 향 좋은 건 못 찾겠어서 수 년째 사용 중이네요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733323",
+    "RawText": "미용실에서 사용해봤는데 머릿결이 너무 찰랑거려서 좋았습니다. 그래서 인터넷으로 저렴하게 구매했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 코** 데미지케어 120ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "10",
+    "RDate": "20210421",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결이 너무 찰랑거려서 좋았습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "인터넷으로 저렴하게 구매했습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733330",
+    "RawText": "추천 받아 구매했는데 향도 좋고 끈적거리지 않고 제형이 가벼워서 좋습니다. 머리 말릴 때 바르고 드라이 하면 하루 종일 좋은 향이 납니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 코** 데미지케어 120ml 2개",
+    "ReviewScore": "4",
+    "Syllable": "77",
+    "Word": "21",
+    "RDate": "20210604",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "끈적거리지 않고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 가벼워서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "하루 종일 좋은 향이 납니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733335",
+    "RawText": "ooo 제품은 사용하기에 머릿결도 좋아져서 너무 좋은데 좀 가격이 비싼 게 흠인 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 코** 데미지케어 120ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "52",
+    "Word": "14",
+    "RDate": "20210617",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결도 좋아져서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 비싼 게 흠인 것 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "733337",
+    "RawText": "배송 빠르고 제품 마음에 듭니다. 미용실에서 사서 쓰다가 여기가 더 저렴해서 구매했습니다. 향도 진하고 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 코** 데미지케어 120ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "15",
+    "RDate": "20210622",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "여기가 더 저렴해서 구매했습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 진하고 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733353",
+    "RawText": "매일 쓰고 있어요. 은은한 향도 좋고 끈적함도 없어서 항상 재구매하네요. 다른 건 쓸 마음이 안 듭니다. 제 의견으로는 강력 추천합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 코** 데미지케어 120ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "20",
+    "RDate": "20211020",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "은은한 향도 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "끈적함도 없어서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733355",
+    "RawText": "사용하던 제품이라 너무 좋습니다. 향이 고급스럽고 잔향도 은은하고 가격도 저렴해서 좋은 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 코** 데미지케어 120ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "13",
+    "RDate": "20211027",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 고급스럽고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "잔향도 은은하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴해서 좋은 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733357",
+    "RawText": "안 바르고 하루를 넘기기 힘든 제품입니다. 10년 동안 다른 좋다는 것들을 많이 사봤는데 이 만한 제품은 어디에도 없었습니다. 손상 모발을 관리해주고 머릿결이 차분해져서 스타일링 효과도 있는 제품입니다. 꾸준하게 사용하면 머릿결이 좋아지는 효과를 경험할 수 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 코** 데미지케어 120ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "149",
+    "Word": "35",
+    "RDate": "20211030",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "손상 모발을 관리해주고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "머릿결이 차분해져서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "스타일링 효과도 있는 제품입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "꾸준하게 사용하면 머릿결이 좋아지는 효과를 경험할 수 있습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733358",
+    "RawText": "벌써 10년 정도 쓰는 거 같습니다. 헤어 드라이 전에 바르면 머리카락에서 은은하게 좋은 향이 나네요. 머릿결이 좋아져서 다른 제품은 못 쓰겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 코** 데미지케어 120ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "83",
+    "Word": "21",
+    "RDate": "20211104",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "머리카락에서 은은하게 좋은 향이 나네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결이 좋아져서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733359",
+    "RawText": "머리 감고 약간 말린 상태에서 덜어서 모발에 발라줍니다. 향이 은은하고 머릿결이 부드러워져 기분이 좋습니다. 적극 추천합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 코** 데미지케어 120ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "16",
+    "RDate": "20211108",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 은은하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결이 부드러워져 기분이 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733372",
+    "RawText": "너무 과하지 않은 향이 좋고 부담스럽지 않는 오일 제형이라 너무 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 코** 데미지케어 120ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "41",
+    "Word": "11",
+    "RDate": "20220201",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "너무 과하지 않은 향이 좋고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "부담스럽지 않는 오일 제형이라 너무 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733374",
+    "RawText": "샵에서 구매해서 쓰다가 여기가 더 저렴하게 팔아서 주문했습니다. 머리 감고 나와서 물기 좀 제거하고 이거 바르고 드라이기 사용하면 머릿결이 찰랑찰랑하게 변하네요. 자녀들도 써보더니 좋은 거 알아서 쓰고 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 코** 데미지케어 120ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "118",
+    "Word": "28",
+    "RDate": "20220208",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "여기가 더 저렴하게 팔아서 주문했습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결이 찰랑찰랑하게 변하네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733381",
+    "RawText": "계속 쓰고 있는 제품입니다. 이 제품만 사서 쓰고 있습니다. 향기도 은은하게 나고 머릿결도 부드럽고 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 코** 데미지케어 120ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "15",
+    "RDate": "20220329",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기도 은은하게 나고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결도 부드럽고 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733424",
+    "RawText": "선물 받아서 사용하다가 직접 구매합니다. 우선 향이 너무 좋아서 기분까지 좋아지고 사용 후 머릿결이 부드러워 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 코** 데미지케어 120ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "16",
+    "RDate": "20201215",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 너무 좋아서 기분까지 좋아지고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결이 부드러워 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733454",
+    "RawText": "향기가 너무 좋고 머릿결도 너무 좋아지는 것 같습니다. 주변 사람들이 향이 너무 좋다고 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 코** 데미지케어 120ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "53",
+    "Word": "14",
+    "RDate": "20210713",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기가 너무 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결도 너무 좋아지는 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "주변 사람들이 향이 너무 좋다고 합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733525",
+    "RawText": "항상 쓰던 제품인데 향이 정말 좋아서 잘 사용하고 있어요. 별 하나 뺀 건 가격이 조금 비싸지 않나 하는 아쉬움이 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 코** 데미지케어 120ml 2개",
+    "ReviewScore": "4",
+    "Syllable": "69",
+    "Word": "20",
+    "RDate": "20220628",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 정말 좋아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 조금 비싸지 않나 하는 아쉬움이 있습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "733532",
+    "RawText": "전에 누구한테 받아서 사용해 보고 반해서 구매하게 됐습니다. 머릿결도 좋아지는 것 같고 향도 좋아서 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 코** 데미지케어 120ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "15",
+    "RDate": "20201219",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결도 좋아지는 것 같고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733535",
+    "RawText": "늘 사용하는 제품이라 없으면 걱정부터 되는 제품이네요. 요즘은 가격이 자꾸 올라서 걱정 되긴 하지만 그래도 필요하니까 구매하네요. 다음에는 다른 곳보다는 조금이라도 착한 가격으로 구매할 수 있기를 바랍니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 코** 데미지케어 120ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "115",
+    "Word": "27",
+    "RDate": "20210129",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 자꾸 올라서 걱정 되긴 하지만",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "다른 곳보다는 조금이라도 착한 가격으로 구매할 수 있기를 바랍니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "733537",
+    "RawText": "향이 좋습니다. 듬뿍 발라도 기름지지 않아요. 피부에 트러블도 안올라와서 너무 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 코** 데미지케어 120ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "48",
+    "Word": "11",
+    "RDate": "20210223",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "듬뿍 발라도 기름지지 않아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "피부에 트러블도 안올라와서 너무 좋아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733549",
+    "RawText": "오랫동안 계속 사용하고 있네요. 향이 너무 좋습니다. 머릿결도 윤기 있다는 얘기를 들었습니다. 앞으로도 계속 사용할 생각입니다. 추천해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 코** 데미지케어 120ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "17",
+    "RDate": "20210819",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 너무 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결도 윤기 있다는 얘기를 들었습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733556",
+    "RawText": "이 브랜드 제품을 전에도 사용했는데 다 사용하고 다시 헤어 로션 제품을 검색해보니까 제품이 제일 가격도 착하고 양도 많아서 몇 개를 더 주문했습니다. 머리 샴푸 후 헤어 세럼 사용하고 바로 이 제품을 꼭 발라주고 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 과** 컨퓸 헤어 밀키 로션 600ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "124",
+    "Word": "34",
+    "RDate": "20220409",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "제일 가격도 착하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 많아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733562",
+    "RawText": "배송도 빠르고 저렴하고 양도 많아서 좋네요. 다음에도 구매하겠습니다. 인터넷 사이트 중에 제일 저렴한 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 과** 컨퓸 헤어 밀키 로션 600ml 1개",
+    "ReviewScore": "3",
+    "Syllable": "64",
+    "Word": "15",
+    "RDate": "20161102",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 많아서 좋네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "인터넷 사이트 중에 제일 저렴한 것 같습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733570",
+    "RawText": "딱 제가 찾던 제품입니다. 많이 끈적이지도 않고 저렴한 가격에 양도 많아서 좋습니다. 엄마도 좋아하십니다. 다 쓰면 다음에 또 구입하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 과** 컨퓸 헤어 밀키 로션 600ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "19",
+    "RDate": "20160526",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "많이 끈적이지도 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 많아서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733572",
+    "RawText": "양도 많고 가격도 저렴하고 품질도 좋으니 말 다 했습니다. 어깨 기장 굵은 웨이브 파마 머리인데 건성이고 푸석푸석합니다. 바르니 머리카락이 촉촉해서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 과** 컨퓸 헤어 밀키 로션 600ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "88",
+    "Word": "21",
+    "RDate": "20160615",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 많고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 좋으니",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "머리카락이 촉촉해서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733595",
+    "RawText": "저렴하면서 상품평에 나온 것처럼 향도 은은하고 좋습니다. 자녀가 린스 쓰기를 별로 안 좋아해서 방법을 바꿔봤습니다. 향이 좋다고 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 과** 컨퓸 헤어 밀키 로션 600ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "18",
+    "RDate": "20210730",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하면서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 은은하고 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 좋다고 합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733596",
+    "RawText": "물품 이상 없이 잘 받았네요. 품질도 좋고 만족하네요. 유통기한이 길어서 좋습니다. 감사하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 과** 컨퓸 헤어 밀키 로션 600ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "53",
+    "Word": "12",
+    "RDate": "20220128",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한이 길어서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733604",
+    "RawText": "뻑뻑한 게 싫어서 로션 타입으로 바꿨습니다. 부드럽게 발리고 향도 자극적이지 않고 순하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 과** 컨퓸 헤어 밀키 로션 600ml 1개",
+    "ReviewScore": "3",
+    "Syllable": "51",
+    "Word": "12",
+    "RDate": "20200518",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "발림성",
+        "SentimentText": "부드럽게 발리고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 자극적이지 않고 순하네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733606",
+    "RawText": "자연스럽게 스타일링하기 좋습니다. 젤처럼 고정이 잘 되지는 않습니다. 양이 많아서 오래 쓸 수 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 과** 컨퓸 헤어 밀키 로션 600ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "14",
+    "RDate": "20200716",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "자연스럽게 스타일링하기 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "젤처럼 고정이 잘 되지는 않습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양이 많아서 오래 쓸 수 있습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733607",
+    "RawText": "다른 제품 쓰다가 구매해 봤어요. 가성비가 좋아요. 향기도 은은하고 머릿결도 탱탱하고 탄력 있게 유지해 줘서 좋네요. 배송은 뭐 말할 것도 없이 좋습니다. 다 쓰면 재구매할게요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 과** 컨퓸 헤어 밀키 로션 600ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "99",
+    "Word": "25",
+    "RDate": "20200910",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비가 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기도 은은하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결도 탱탱하고 탄력 있게 유지해 줘서 좋네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "유지해 줘서 좋네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733625",
+    "RawText": "펌으로 머리카락이 푸석해서 언제나 이 제품을 쓰고 있어요. 로션 타입으로 끈적이지 않고 촉촉하고 바른 듯 안 바른 듯 자연스러운 컬을 만들어 주네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 과** 컨퓸 헤어 밀키 로션 600ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "83",
+    "Word": "22",
+    "RDate": "20190921",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "로션 타입으로 끈적이지 않고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "바른 듯 안 바른 듯 자연스러운 컬을 만들어 주네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733629",
+    "RawText": "이 제품은 처음 구입했어요. 향도 좋고 용량이 넉넉해서 좋아요. 온 가족이 사용하기 좋은 제품입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 과** 컨퓸 헤어 밀키 로션 600ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "56",
+    "Word": "14",
+    "RDate": "20200220",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량이 넉넉해서 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "온 가족이 사용하기 좋은 제품입니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733632",
+    "RawText": "건조해서 부스스한 머리를 머리를 차분하게 만들어 줍니다. 윤기가 흐르는 머리를 만들고 싶으신 분께 추천합니다. 마른 머리 상태에서 발라봤는데 로션 자체에 수분이 꽤 수분이 있어서 머리카락이 촉촉해지는 느낌이 마음에 들어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 과** 컨퓸 헤어 밀키 로션 600ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "124",
+    "Word": "29",
+    "RDate": "20211228",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "건조해서 부스스한 머리를 머리를 차분하게 만들어 줍니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "윤기가 흐르는 머리를 만들고 싶으신 분께 추천합니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "로션 자체에 수분이 꽤 수분이 있어서",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "머리카락이 촉촉해지는 느낌이 마음에 들어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733635",
+    "RawText": "염색과 탈색을 자주 해서 머리카락이 부스스했는데 발라보니 촉촉해지네요. 샴푸 후에 좀 젖은 머리에 바르면 효과가 좋아요. 헤어로션은 처음 써보는데 만족해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 과** 컨퓸 헤어 밀키 로션 600ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "87",
+    "Word": "20",
+    "RDate": "20200520",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉해지네요.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "샴푸 후에 좀 젖은 머리에 바르면 효과가 좋아요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733636",
+    "RawText": "재구매했습니다. OOO 헤어로션을 바르면 컬이 자연스럽게 살아나고 끈적임이 없어요. 다른 제품은 너무 끈적이고 자연스럽지 못하고 뻣뻣해서 사용하기 부담스럽더라고요. 물론 원하는 모양으로 유지할 수는 있겠지만 자연스럽지 못하여 OOO 헤어로션을 애용하고 있어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 과** 컨퓸 헤어 밀키 로션 600ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "145",
+    "Word": "30",
+    "RDate": "20160208",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "컬이 자연스럽게 살아나고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "끈적임이 없어요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733637",
+    "RawText": "머리가 확실히 촉촉해 보입니다. 비싼 트리트먼트나 에센스 써도 푸석해 보이던 머릿결이 좋아 보입니다. 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 과** 컨퓸 헤어 밀키 로션 600ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "14",
+    "RDate": "20160716",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "머리가 확실히 촉촉해 보입니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "비싼 트리트먼트나 에센스 써도 푸석해 보이던 머릿결이 좋아 보입니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733646",
+    "RawText": "받자마자 마른 머리에 발랐을 땐 떡진 머리처럼 됐는데 젖은 머리에 바르고 말리니 부드럽고 좋습니다. 양 조절 실패하면 떡진 머리가 될 수 있으니 조심하세요. 저렴한 가격에 구입해서 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 과** 컨퓸 헤어 밀키 로션 600ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "107",
+    "Word": "27",
+    "RDate": "20170217",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "마른 머리에 발랐을 땐 떡진 머리처럼 됐는데",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "젖은 머리에 바르고 말리니 부드럽고 좋습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "양 조절 실패하면 떡진 머리가 될 수 있으니 조심하세요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 구입해서 만족합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733725",
+    "RawText": "매번 마트에서 비싸게 주고 샀는데 인터넷에서 이렇게 저렴한 가격에 사게 되어서 만족합니다. 유통기한도 넉넉한 제품이 와서 기분이 좋습니다. 가격이 제일 저렴해서 좋은 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 과** 컨퓸 헤어 밀키 로션 600ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "100",
+    "Word": "24",
+    "RDate": "20160701",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "인터넷에서 이렇게 저렴한 가격에 사게 되어서 만족합니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한도 넉넉한 제품이 와서 기분이 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 제일 저렴해서 좋은 것 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733728",
+    "RawText": "몇 년째 쓰고 있는 제품입니다. 재구매했어요. 향이 좋고 머릿결도 좋아져요. 추천합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 과** 컨퓸 헤어 밀키 로션 600ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "49",
+    "Word": "11",
+    "RDate": "20160621",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결도 좋아져요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733732",
+    "RawText": "머리카락이 푸석해서 사용하려고 구입했는데 구입하길 잘 한 거 같아요. 향이 나쁘지 않고 머릿결이 찰랑거려요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 과** 컨퓸 헤어 밀키 로션 600ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "14",
+    "RDate": "20160720",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 나쁘지 않고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결이 찰랑거려요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733734",
+    "RawText": "가격도 엄청 싸게 사고 배송비 때문에 2개 구입 했습니다. 용량도 많고 제품 품질도 좋은 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 과** 컨퓸 헤어 밀키 로션 600ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "16",
+    "RDate": "20170114",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 엄청 싸게 사고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량도 많고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "제품 품질도 좋은 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733740",
+    "RawText": "헤어크림으로 여러가지를 사용해 보았는데 젤 성분이 강한 것은 너무 뻣뻣한 느낌이 들어 머릿결 같지 않아서 이 로션을 사용하고 있네요. 자연스러운 스타일링을 만들어줘서 좋고 모발을 튼튼하게 만드는 것에 도움이 되는 것 같아 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 과** 컨퓸 헤어 밀키 로션 600ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "128",
+    "Word": "32",
+    "RDate": "20161220",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "자연스러운 스타일링을 만들어줘서 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "모발을 튼튼하게 만드는 것에 도움이 되는 것 같아 좋네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733741",
+    "RawText": "제형에 약간 수분감이 많다 싶게 느껴지지만 향도 좋고 양도 많아 좋습니다. 바르고 나서 손에 살짝 미끈함 정도는 남아요. 배송 속도는 보통이었습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 과** 컨퓸 헤어 밀키 로션 600ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "83",
+    "Word": "21",
+    "RDate": "20210325",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형에 약간 수분감이 많다 싶게 느껴지지만",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 많아 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "바르고 나서 손에 살짝 미끈함 정도는 남아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "733805",
+    "RawText": "늘 사용하는 제품입니다. 모발을 부드럽게 해주고 떡지지 않고 끈적이지 않아서 좋은 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 과** 컨퓸 헤어 밀키 로션 600ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "53",
+    "Word": "13",
+    "RDate": "20161002",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "모발을 부드럽게 해주고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "떡지지 않고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "끈적이지 않아서 좋은 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733814",
+    "RawText": "ooo 헤어로션은 가성비가 너무 좋고 머릿결도 부드러워져서 만족하네요. 이 브랜드 헤어 제품군은 모두 좋은 것 같습니다. 번창하시길 바랍니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 과** 컨퓸 헤어 밀키 로션 600ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "18",
+    "RDate": "20180603",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비가 너무 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결도 부드러워져서 만족하네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733818",
+    "RawText": "제형이 스프레이보단 부드럽고 탄력있게 스타일링 됩니다. 너무 소프트한건 금방 풀리는데 웨이브머리 고정에는 정말 좋을 듯 합니다. 그리고 가격이 정말 맘에 드네요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 과** 컨퓸 헤어 밀키 로션 600ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "89",
+    "Word": "21",
+    "RDate": "20180724",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 스프레이보단 부드럽고 탄력있게 스타일링 됩니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "웨이브머리 고정에는 정말 좋을 듯 합니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 정말 맘에 드네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733824",
+    "RawText": "전에 쓰던 제품이 일반 로션같이 힘없이 흘러내리고 세팅력이 별로였는데 이건 달라요 조금 발라보니 견고한게 말랑말랑하면서 세팅력도 있는게 향도 좋고 머리가 떡지지 않으면서 붙어요. 잘 산거 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 과** 컨퓸 헤어 밀키 로션 600ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "109",
+    "Word": "26",
+    "RDate": "20180901",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "견고한게",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "말랑말랑하면서 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "머리가 떡지지 않으면서 붙어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "세팅력도 있는게 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733825",
+    "RawText": "엄마가 이 제품을 좋아해서 자주 쓰십니다. 이걸 바르면 머리카락이 안 휘날린다네요. 고정력이 참 강한 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 과** 컨퓸 헤어 밀키 로션 600ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "16",
+    "RDate": "20180919",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "이걸 바르면 머리카락이 안 휘날린다네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "고정력이 참 강한 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733836",
+    "RawText": "묶음보다 저렴해서 구매했습니다. 요즘 풍성한 머리 관리에 신경 쓰고 있습니다. 머릿결에 영양 공급이 잘 되는 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 과** 컨퓸 헤어 밀키 로션 600ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "17",
+    "RDate": "20190125",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "묶음보다 저렴해서 구매했습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결에 영양 공급이 잘 되는 것 같습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733839",
+    "RawText": "이 로션은 머리 말린 후에 늘 바르고 있습니다. 매직기 사용 전에 필수로 바르고 있어요. 머릿결이 상하는 걸 막아주는 거 같습니다. 향도 좋아서 다 쓰고 나면 또 구매하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 과** 컨퓸 헤어 밀키 로션 600ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "99",
+    "Word": "27",
+    "RDate": "20190128",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결이 상하는 걸 막아주는 거 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733842",
+    "RawText": "배송이 잘 되다가 OO배송 측에서 뭔가 오류가 있어서 배송이 오래 걸렸어요. 택배사에 오래 있다 와서 그런지 제품 하나가 조금 찌그러져서 있었지만 사용하는데 문제없을 것 같습니다. 이 제품 늘 사용하는데 머리에 바르면 머릿결이 부드러워져서 좋아요. 고정력도 좋고 세정력도 좋습니다. 거의 무향이라 더욱 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 과** 컨퓸 헤어 밀키 로션 600ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "174",
+    "Word": "42",
+    "RDate": "20190215",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머리에 바르면 머릿결이 부드러워져서 좋아요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "고정력도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "클렌징/제거력",
+        "SentimentText": "세정력도 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "거의 무향이라 더욱 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733843",
+    "RawText": "보통은 흰색인데 이 제품은 노란색 헤어로션이라서 특이합니다. 부드럽게 잘 발리고 끝이 갈라지는 머릿결에 바르니 부드러워서 좋습니다. 고정력도 조금 있습니다. 끈적이지 않고 세척도 잘 됩니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 과** 컨퓸 헤어 밀키 로션 600ml 1개",
+    "ReviewScore": "3",
+    "Syllable": "106",
+    "Word": "24",
+    "RDate": "20190215",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "노란색 헤어로션이라서 특이합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "부드럽게 잘 발리고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "끝이 갈라지는 머릿결에 바르니 부드러워서 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "고정력도 조금 있습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "끈적이지 않고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "클렌징/제거력",
+        "SentimentText": "세척도 잘 됩니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733869",
+    "RawText": "구형 제품 사용했는데 맘에 들어서 재구매 했습니다. 가성비 짱이고 물에도 잘 씻기니 만족스러워요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 과** 컨퓸 헤어 밀키 로션 600ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "54",
+    "Word": "13",
+    "RDate": "20200714",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 짱이고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "클렌징/제거력",
+        "SentimentText": "물에도 잘 씻기니 만족스러워요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733873",
+    "RawText": "아주 예전부터 사용해오고 있는 제품입니다. 세팅력이 좋아요. 세정도 잘됩니다. 많이 바르면 번들거려서 왁스 후 조금만 바르고 있어요. 주기적으로 구매하고 있는 제품입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 과** 컨퓸 헤어 밀키 로션 600ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "95",
+    "Word": "21",
+    "RDate": "20201027",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "세팅력이 좋아요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "클렌징/제거력",
+        "SentimentText": "세정도 잘됩니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "많이 바르면 번들거려서 왁스 후 조금만 바르고 있어요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "733879",
+    "RawText": "고정력이 살짝 있네요. 남편은 이것만 사용합니다. 가격이 너무 저렴하고 이것만 오랫동안 쓰는 거 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 과** 컨퓸 헤어 밀키 로션 600ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "14",
+    "RDate": "20210619",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "고정력이 살짝 있네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 너무 저렴하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733886",
+    "RawText": "예전부터 사용하던 제품이에요. 세팅력 우수하고 제품에 향이 강하지 않아서 사용후에도 상큼해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 과** 컨퓸 헤어 밀키 로션 600ml 1개",
+    "ReviewScore": "3",
+    "Syllable": "52",
+    "Word": "11",
+    "RDate": "20210914",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "세팅력 우수하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 강하지 않아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "사용후에도 상큼해요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733893",
+    "RawText": "오래 전부터 이 제품 한 가지만 사용하고 있어요. 매번 구매해 사용할 때마다 한결같은 효과를 주는 제품이에요. 가격 또한 성능대비 매우 훌륭해요. 이러한 OOO을 구매하고자 하는 분들에게 최상의 제품이라고 추천하고 싶어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 과** 컨퓸 헤어 밀키 로션 600ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "124",
+    "Word": "30",
+    "RDate": "20220310",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "한결같은 효과를 주는 제품이에요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 또한 성능대비 매우 훌륭해요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733903",
+    "RawText": "머리에 힘이 없어 정리하기 힘들었습니다. 이제는 마음에 들게 스타일링이 잘 되어서 좋고 세팅력도 마음에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 과** 컨퓸 헤어 밀키 로션 600ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "15",
+    "RDate": "20220712",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "마음에 들게 스타일링이 잘 되어서 좋고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "세팅력도 마음에 듭니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733908",
+    "RawText": "가성비가 좋습니다. 양도 많고 파마 머리에 발라보니 머리가 차분해져서 좋은 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 과** 컨퓸 헤어 밀키 로션 600ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "49",
+    "Word": "12",
+    "RDate": "20190904",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비가 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 많고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "머리가 차분해져서 좋은 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733915",
+    "RawText": "부드러운 발림성이 좋습니다. 머릿결이 부드럽고 살짝 고정력이 있네요. 다른 제품 쓰다가 단종 되어서 샀는데 나름 괜찮은 것 같습니다. 가격도 저렴하고 양도 많아서 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 과** 컨퓸 헤어 밀키 로션 600ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "95",
+    "Word": "23",
+    "RDate": "20200420",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "발림성",
+        "SentimentText": "부드러운 발림성이 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결이 부드럽고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 많아서 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "살짝 고정력이 있네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733917",
+    "RawText": "이 제품만 사용합니다. 향도 좋고 머릿결도 부드러워서 좋습니다. 오래 전 사 놓은 걸 깜박 하고 또 구매해서 총 5개 입니다. 현재 하나 사용 중이고 유통기한은 짧아서 살짝 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 과** 컨퓸 헤어 밀키 로션 600ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "102",
+    "Word": "28",
+    "RDate": "20201016",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결도 부드러워서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한은 짧아서 살짝 아쉽네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "733918",
+    "RawText": "파마 머리에 바르려고 구매했습니다. 끈적임이 없고 사용하기 편해서 좋습니다. 용량도 많아서 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 과** 컨퓸 헤어 밀키 로션 600ml 1개",
+    "ReviewScore": "3",
+    "Syllable": "55",
+    "Word": "12",
+    "RDate": "20210809",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "끈적임이 없고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기 편해서 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량도 많아서 좋아요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733921",
+    "RawText": "당일 쿠폰 받아 할인 받아서 저렴하게 구매했습니다. 헤어 로션을 파마 머리에 사용해보니 푸석하지 않아서 좋은 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 과** 컨퓸 헤어 밀키 로션 600ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "17",
+    "RDate": "20180228",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "당일 쿠폰 받아 할인 받아서 저렴하게 구매했습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "파마 머리에 사용해보니 푸석하지 않아서 좋은 것 같습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733932",
+    "RawText": "평상시 젤을 바르시는 엄마를 위해 구매했어요. 사용감과 향이 좋다며 만족해 하셔서 기분이 좋았습니다. 용량도 커서 동생과 아버지도 같이 쓰신다고 하시니 다 쓰면 또 사드려야 겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 과** 컨퓸 헤어 밀키 로션 600ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "102",
+    "Word": "25",
+    "RDate": "20161103",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사용감",
+        "SentimentText": "사용감과 향이 좋다며 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 좋다며 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량도 커서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "동생과 아버지도 같이 쓰신다고 하시니 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733942",
+    "RawText": "상품이 오자마자 발라보았는데 제형 농도가 적당하고 향도 괜찮았습니다. 농도가 짙으면 머릿결에 뭉쳐서 안 좋습니다. 이 제품은 부드럽게 잘 발라지네요. 양도 많아서 오래도록 사용할 수 있어서 마음에 드네요. 가성비 최고네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 과** 컨퓸 헤어 밀키 로션 600ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "124",
+    "Word": "29",
+    "RDate": "20170504",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형 농도가 적당하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 괜찮았습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "부드럽게 잘 발라지네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 많아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 최고네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733951",
+    "RawText": "묽은 로션 농도입니다. 사용해 보니 약간 떡진 느낌이 듭니다. 제가 양조절을 실패해서 그런 것 같습니다. 한 번 펌핑했을 때 꽤 많은 양이 나오는데 전에 쓰던 타제품 생각하고 퍽퍽 두 번 눌렀더니 손바닥 한가득 나와서 그런 것 같아요. 내일은 약간만 짜서 발라야겠어요. 향은 은은하고 괜찮습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 과** 컨퓸 헤어 밀키 로션 600ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "165",
+    "Word": "44",
+    "RDate": "20170617",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "묽은 로션 농도입니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "약간 떡진 느낌이 듭니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 은은하고 괜찮습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733952",
+    "RawText": "이 제품 좋은 것 같습니다. 머릿결이 푸석푸석 했는데 바르면 좋아집니다. 용량도 많아서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 과** 컨퓸 헤어 밀키 로션 600ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "54",
+    "Word": "13",
+    "RDate": "20170621",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결이 푸석푸석 했는데 바르면 좋아집니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량도 많아서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733975",
+    "RawText": "항상 쓰는 제품이라서 믿고 사네요. 향도 좋고 기능도 좋은 것 같고 세팅도 잘 되어서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 과** 컨퓸 헤어 밀키 로션 600ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "53",
+    "Word": "15",
+    "RDate": "20200729",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "기능도 좋은 것 같고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "세팅도 잘 되어서 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733976",
+    "RawText": "마트에서 제품이 빠져서 인터넷으로 주문했습니다. 향도 좋고 헤어 스타일링 하기도 최고입니다. 감사한 제품입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 과** 컨퓸 헤어 밀키 로션 600ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "13",
+    "RDate": "20200828",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "스타일링 하기도 최고입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "733984",
+    "RawText": "헤어 오일 바르고 에센스 로션 바르고 마지막에 글레이즈 발라서 마무리합니다. 푸석하고 상한 머리라 이렇게 바르면 촉촉하고 머릿결이 차분해져서 항상 쓰고 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 과** 컨퓸 헤어 밀키 로션 600ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "90",
+    "Word": "21",
+    "RDate": "20220414",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "머릿결이 차분해져서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "734002",
+    "RawText": "완전 대용량이라 좋습니다. 편하게 막 바를 수 있어서 좋고 향도 강하지 않아서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 과** 컨퓸 헤어 밀키 로션 600ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "49",
+    "Word": "13",
+    "RDate": "20200906",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "완전 대용량이라 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "편하게 막 바를 수 있어서 좋고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 강하지 않아서 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "734003",
+    "RawText": "항상 애용하는 제품인데 가격대비 품질이 괜찮아요. 강한 고정력이 있는건 아니지만 부스스한 잔머리를 차분하게 해 주고 머릿결에 영양을 주는 느낌이어서 마음에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 과** 컨퓸 헤어 밀키 로션 600ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "91",
+    "Word": "21",
+    "RDate": "20201005",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격대비 품질이 괜찮아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "강한 고정력이 있는건 아니지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "부스스한 잔머리를 차분하게 해 주고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결에 영양을 주는 느낌이어서 마음에 듭니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "734006",
+    "RawText": "기대만큼 촉촉하지는 않지만 가격에 대비해서는 용량도 많고 품질도 무난하네요. 향기는 처음에만 아주 약하게 향긋한 냄새가 나고 바른 후에는 향이 나지 않아서 아쉽네요. 그리고 손에 약간 끈적임이 남는 게 좀 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 과** 컨퓸 헤어 밀키 로션 600ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "120",
+    "Word": "30",
+    "RDate": "20211001",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "기대만큼 촉촉하지는 않지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "가격에 대비해서는 용량도 많고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 무난하네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기는 처음에만 아주 약하게 향긋한 냄새가 나고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "바른 후에는 향이 나지 않아서 아쉽네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "손에 약간 끈적임이 남는 게 좀 아쉽네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "734009",
+    "RawText": "요즘 매장에서는 잘 찾기 어려웠습니다. 여러가지 에센스와 젤 등을 사용해봤는데 이 제품이 가성비가 좋고 사용감이 좋네요. 너무 끈적이지 않고 사용 후 자연스럽게 펌 머리를 차분하게 해주네요. 자세한 유통기한이 없고 1년 이상 이라고 되어있어서 고민하고 소량 구매했는데 유통기한이 짧아서 아쉬웠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 과** 컨퓸 헤어 밀키 로션 600ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "167",
+    "Word": "39",
+    "RDate": "20181105",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비가 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용감",
+        "SentimentText": "사용감이 좋네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "너무 끈적이지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "자연스럽게 펌 머리를 차분하게 해주네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한이 짧아서 아쉬웠습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "734015",
+    "RawText": "파마와 염색을 자주해서 머리결을 보호하기 위해서 꾸준히 사용하는 제품입니다. 머리결이 상하지 않고 보습효과도 좋습니다. 웨이브 유지에도 도움이 많이 된답니다",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 꽂** 케라틴  에센스 500ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "87",
+    "Word": "19",
+    "RDate": "20160416",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머리결이 상하지 않고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "보습효과도 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "웨이브 유지에도 도움이 많이 된답니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "734022",
+    "RawText": "왜 지금 알았을까 아쉽습니다. 끈적임도 없고 향도 나쁘지 않습니다. 머릿결도 차분하게 해주고 영양도 주고 가성비 좋습니다. 배송도 빠르고 완전 만족해요. 다 쓰면 재구매 하려고 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 꽂** 케라틴  에센스 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "103",
+    "Word": "25",
+    "RDate": "20200826",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "끈적임도 없고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 나쁘지 않습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "머릿결도 차분하게 해주고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "영양도 주고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "734030",
+    "RawText": "머릿결이 찰랑찰랑 하고 머릿결이 반짝반짝 윤기가 납니다. 따로 손질이 필요 없습니다. 몇 년 간 잘 쓰고 있습니다. 이 제품 영원히 만들어 주시길 바랍니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 꽂** 케라틴  에센스 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "87",
+    "Word": "23",
+    "RDate": "20160216",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결이 찰랑찰랑 하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결이 반짝반짝 윤기가 납니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "734037",
+    "RawText": "잦은 염색으로 머릿결이 많이 안 좋아져서 구매했습니다. 샴푸 후 바르고 나니 머릿결이 찰랑하니 좋아진 기분이네요. 유통기한도 넉넉하고 포장도 안전하게 배송도 빨리 왔습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 꽂** 케라틴  에센스 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "96",
+    "Word": "22",
+    "RDate": "20201113",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결이 찰랑하니 좋아진 기분이네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한도 넉넉하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "734041",
+    "RawText": "가을 겨울에 머리카락이 윤기가 없고 푸석푸석 했습니다. 에센스 바르니 윤기가 좔좔 흐르는 것이 정말 좋습니다. 좋은 가격에 잘 구매한 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 꽂** 케라틴  에센스 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "82",
+    "Word": "21",
+    "RDate": "20211029",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "윤기가 좔좔 흐르는 것이 정말 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 가격에 잘 구매한 것 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "734043",
+    "RawText": "몇 년째 쓰고 있는 제품입니다. 에센스에 오일을 조금 섞어 사용하면 파마 머리도 푸석거리지 않고 윤기나는 머릿결로 바뀌네요. 가격도 저렴하고 향도 나름 괜찮아서 떨어지기 전에 미리미리 구입해 사용하고 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 꽂** 케라틴  에센스 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "117",
+    "Word": "28",
+    "RDate": "20220226",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "파마 머리도 푸석거리지 않고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "윤기나는 머릿결로 바뀌네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 나름 괜찮아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "734045",
+    "RawText": "항상 사용하는 제품입니다. 코로나 때문에 마트를 못가서 인터넷으로 구매했습니다. 배송비가 붙어도 마트보다 저렴합니다. 용량도 많고 파마머리 차분하게 해줘서 매일 아침에 출근할 때 꼭 사용합니다. 뽁뽁이로 포장도 잘 되어 왔습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 꽂** 케라틴  에센스 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "128",
+    "Word": "29",
+    "RDate": "20200416",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "마트보다 저렴합니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량도 많고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "파마머리 차분하게 해줘서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "매일 아침에 출근할 때 꼭 사용합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "734082",
+    "RawText": "계속 쓰고 있습니다. 이 상품 바르고 가면 머릿결이 윤기나고 촉촉해 보인다고 칭찬 받습니다. 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 꽂** 케라틴  에센스 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "14",
+    "RDate": "20181011",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결이 윤기나고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉해 보인다고 칭찬 받습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "734105",
+    "RawText": "저는 긴 파마 머리인데 이 제품 사용하면 머릿결이 엉키지 않아 부드럽고 차분해져서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 꽂** 케라틴  에센스 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "51",
+    "Word": "13",
+    "RDate": "20170202",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결이 엉키지 않아 부드럽고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "차분해져서 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "734126",
+    "RawText": "향도 은은해서 좋고 끈적이지 않아서 좋습니다. 포장도 하나하나 꼼꼼하게 해주셨습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 꽂** 케라틴  에센스 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "47",
+    "Word": "10",
+    "RDate": "20191128",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 은은해서 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "끈적이지 않아서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "734149",
+    "RawText": "배송 빠릅니다. 바를 때마다 머리카락 윤기가 오래 지속이 되어서 외출 시 사용하면 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 꽂** 케라틴  에센스 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "51",
+    "Word": "13",
+    "RDate": "20210306",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머리카락 윤기가 오래 지속이 되어서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "오래 지속이 되어서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "734162",
+    "RawText": "머릿결 좋아져서 좋지만 냄새가 별로입니다. 밖에 바르고 나가기엔 향이 별로입니다. 주말에 머리 감고 말린 후 집에서 바르고 있기 좋습니다. 저는 이거 일요일 아침에 바르고 일요일 쭉 집에 있다가 월요일 아침에 머리 감습니다. 머릿결은 정말 좋아집니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 꽂** 케라틴  에센스 500ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "140",
+    "Word": "35",
+    "RDate": "20160412",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결 좋아져서 좋지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새가 별로입니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "밖에 바르고 나가기엔 향이 별로입니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결은 정말 좋아집니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "734165",
+    "RawText": "머리결이 많이 가라앉는건 아니지만, 안 썼을때보다 머리가 부드러워지고 차분해지는 느낌입니다. 덕분에 차분해져서 사자머리 탈출했습니다. 향도 괜찮습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 꽂** 케라틴  에센스 500ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "84",
+    "Word": "16",
+    "RDate": "20160704",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "머리결이 많이 가라앉는건 아니지만,",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "안 썼을때보다 머리가 부드러워지고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "차분해지는 느낌입니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "차분해져서 사자머리 탈출했습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 괜찮습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "734181",
+    "RawText": "늘 쓰는 제품 이네요. 머리카락이 가늘어 힘이 없습니다. 이 제품을 바르면 머릿결이 부드러우면서도 모발에 힘이 생깁니다. 가격도 저렴해서 마음에 드는 상품이네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 꽂** 케라틴  에센스 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "90",
+    "Word": "21",
+    "RDate": "20200915",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결이 부드러우면서도",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "모발에 힘이 생깁니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "734186",
+    "RawText": "세팅력은 없으나 바르면 머리결이 한결 부드러워져요. 양도 많아서 오래 쓸 것 같아요.  배송은 완전 빠르네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 꽂** 케라틴  에센스 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "15",
+    "RDate": "20180330",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세팅력/고정력",
+        "SentimentText": "세팅력은 없으나",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "바르면 머리결이 한결 부드러워져요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 많아서 오래 쓸 것 같아요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "734189",
+    "RawText": "향이 좋고 머릿결이 매끄러워지는 듯한 느낌이 들어 기분이 좋아지는 제품입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 꽂** 케라틴  에센스 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "43",
+    "Word": "10",
+    "RDate": "20180510",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결이 매끄러워지는 듯한 느낌이 들어 기분이 좋아지는 제품입니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "734190",
+    "RawText": "늘 쓰던 상품 너무 만족하네요. 바르고 나면 촉촉하고 스타일링 하기 너무 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 꽂** 케라틴  에센스 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "46",
+    "Word": "12",
+    "RDate": "20180519",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "스타일링 하기 너무 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "734191",
+    "RawText": "한 달 넘게 사용하고 있습니다. 머리숱이 많아서 뜬머리와 잔머리가 심해서 구입했습니다. 용량도 넉넉하고 말릴 때 이거 바르니 머릿결도 덜 손상이 되고 확실히 펌해서 부시시한 머리를 차분하게 해주네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 꽂** 케라틴  에센스 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "111",
+    "Word": "27",
+    "RDate": "20210914",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량도 넉넉하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결도 덜 손상이 되고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "펌해서 부시시한 머리를 차분하게 해주네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "734193",
+    "RawText": "저렴하게 구입했습니다. 품질도 좋은 것 같아요. 샴푸 후 물게 대충 닦아내고 머리 끝 부분 위주로 발라주면 빗질도 잘 되어서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 꽂** 케라틴  에센스 500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "20",
+    "RDate": "20180202",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구입했습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 좋은 것 같아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "빗질도 잘 되어서 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "734196",
+    "RawText": "향도 좋고 값도 싸고 사용감도 좋고 사용 후 번들거리지 않아서 좋습니다. 고민하시는 분들은 얼른 사용을 하시길 권해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 꽂** 케라틴  에센스 500ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "66",
+    "Word": "17",
+    "RDate": "20180309",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "값도 싸고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용감",
+        "SentimentText": "사용감도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "스타일링효과",
+        "SentimentText": "번들거리지 않아서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "734204",
+    "RawText": "가성비 갑인 상품이네요. 몇 년째 사용 중인데 몇 만원씩 하는 상품도 마음에 들지 않는데 이 상품은 머리카락이 힘이 있게 만들어 줘서 찾아서 구매하는 제품이네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 꽂** 케라틴  에센스 500ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "90",
+    "Word": "24",
+    "RDate": "20220420",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 갑인 상품이네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "머리카락이 힘이 있게 만들어 줘서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]

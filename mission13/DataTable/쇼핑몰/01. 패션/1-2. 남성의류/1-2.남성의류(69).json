@@ -1,0 +1,3409 @@
+[
+  {
+    "Index": "123288",
+    "RawText": "가격이 저렴 해서 샀으나 어깨 부분과 목 부분에 추위가 느껴 집니다 같이 주신 신발도 발시려워요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 롱** 벤치코트+오리털 슈즈",
+    "ReviewScore": "80",
+    "Syllable": "53",
+    "Word": "15",
+    "RDate": "20171214",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴 해서 샀으나",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "어깨 부분과 목 부분에 추위가 느껴 집니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "123290",
+    "RawText": "남편이 새벽에 나가서 추울까봐 주문했어요~ 입혀보니 사이즈도 안맞고 덤으로 주신 신발도 발시렵데요~ 다운치고는 좀 덜 빵빵하네요 딱 가격만큼인 옷이네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 롱** 벤치코트+오리털 슈즈",
+    "ReviewScore": "100",
+    "Syllable": "84",
+    "Word": "19",
+    "RDate": "20171119",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈도 안맞고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "다운치고는 좀 덜 빵빵하네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "딱 가격만큼인 옷이네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "123297",
+    "RawText": "어릴때도 안 입어본 아빠와 아들 커플룩~~ 토탈패션^^ 이가격으로 오리털 롱패딩과 오리털 운동화를 받을수 있다니 놀랍습니다. 방송중 계속 놓치다 알림신청해놓고 드뎌 득템^^ 착한가격 감사하고 올겨울 따뜻하게 잘알 입겠습니다~ 부자되세요♡",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 롱** 벤치코트+오리털 슈즈",
+    "ReviewScore": "100",
+    "Syllable": "132",
+    "Word": "28",
+    "RDate": "20171219",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "이가격으로 오리털 롱패딩과 오리털 운동화를 받을수 있다니 놀랍습니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "착한가격 감사하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "올겨울 따뜻하게 잘알 입겠습니다~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "123298",
+    "RawText": "아들 사줫는데 맘에 들어하네요~~신발은 조금넉넉히 시켯음에도 꽉쪼여 불편하다고......그래도 점퍼가 색상과 디자인이 맘에들어 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 롱** 벤치코트+오리털 슈즈",
+    "ReviewScore": "100",
+    "Syllable": "75",
+    "Word": "13",
+    "RDate": "20171209",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "점퍼가 색상과 디자인이 맘에들어 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 맘에들어 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "123299",
+    "RawText": "따뜻하고 좋아요. 95사이즈로했는데, 교복 위에 입으니 100 사이즈가 더 좋읕 듯,  아들은 스타일 좋다고 하니 다행이네요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 롱** 벤치코트+오리털 슈즈",
+    "ReviewScore": "100",
+    "Syllable": "70",
+    "Word": "16",
+    "RDate": "20171120",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻하고 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "95사이즈로했는데, 교복 위에 입으니 100 사이즈가 더 좋읕 듯",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "아들은 스타일 좋다고 하니 다행이네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "123300",
+    "RawText": "가격대비 완전 짱이네요 길이감도 딱이고 완전 따뜻하고 핏 잘살고. . . 신발은 정말 어떻게신으라는건지 ㅋㅋ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 롱** 벤치코트+오리털 슈즈",
+    "ReviewScore": "100",
+    "Syllable": "60",
+    "Word": "15",
+    "RDate": "20171130",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 완전 짱이네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "길이감도 딱이고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "완전 따뜻하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏 잘살고. . . ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "123304",
+    "RawText": "날씨도 추워지고 입을옷이 마땅치않아 고심하던중 우연히 TV보다 주문했어요. 방수되고 따스한 신발도 같이 준다길래 사긴샀는데....옷은 길이감도좋고 따뜻하니 좋은데 신발은 영~발목부분이 엄청 타이트해서 신는것부터가 난관이었어요 160 사이즈를 시켰음에도 불구하고 거의 발을 구겨넣다시피해서 신긴했는데 원래이런건가요? 신발신다 종아리에 쥐나보기는 처음이네요ㅠㅠ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 롱** 벤치코트+오리털 슈즈",
+    "ReviewScore": "40",
+    "Syllable": "199",
+    "Word": "36",
+    "RDate": "20171122",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "길이",
+        "SentimentText": "옷은 길이감도좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻하니 좋은데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "123306",
+    "RawText": "받아보니 생각했던것보다 훨씬 맘에 듭니다~ 다운이라 그런지 시간이 지날수록 복실복실 부풀어 오르고 길이도 길고 좋습니다~ 아무튼 좋은가격에 신발까지 잘산것 같습니다~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 롱** 벤치코트+오리털 슈즈",
+    "ReviewScore": "100",
+    "Syllable": "92",
+    "Word": "20",
+    "RDate": "20171119",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "다운이라 그런지 시간이 지날수록 복실복실 부풀어 오르고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "길이도 길고 좋습니다~ ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "아무튼 좋은가격에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "123310",
+    "RawText": "비추에요...신발까지 세트라서 맘에 들었는데 올겨울 입기에는 추울 것 같아요 외출할때도 못입겠어요 신발도 불편하고 별로라고 하네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 롱** 벤치코트+오리털 슈즈",
+    "ReviewScore": "100",
+    "Syllable": "72",
+    "Word": "15",
+    "RDate": "20171117",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "신발까지 세트라서 맘에 들었는데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "올겨울 입기에는 추울 것 같아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "외출할때도 못입겠어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "123311",
+    "RawText": "다른데보다 저렴하구요.  우선 옷도 따뜻하고 디자인 심플하네요. 신발은 좀 작은듯싶어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 롱** 벤치코트+오리털 슈즈",
+    "ReviewScore": "100",
+    "Syllable": "48",
+    "Word": "10",
+    "RDate": "20171130",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "다른데보다 저렴하구요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "옷도 따뜻하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 심플하네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "신발은 좀 작은듯싶어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "123312",
+    "RawText": "별로라고 해야겠네요. 많이 두껍고 가격생각하면 비싸다고 느껴지고 신발까지,, 신발은 반사이즈 업하니 딱이네요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 롱** 벤치코트+오리털 슈즈",
+    "ReviewScore": "100",
+    "Syllable": "61",
+    "Word": "12",
+    "RDate": "20171129",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "많이 두껍고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격생각하면 비싸다고 느껴지고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "123314",
+    "RawText": "남편이 춥다고 사달래서 혹시나하는맘에 샀는데 무겁고 춥다고 신랑이 별로라고 해서 맘이 안좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 롱** 벤치코트+오리털 슈즈",
+    "ReviewScore": "100",
+    "Syllable": "52",
+    "Word": "12",
+    "RDate": "20171116",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "무겁고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "춥다고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "123316",
+    "RawText": "홈쇼핑 의류를 평소 신뢰하지않는데 아내의 강권으로 구매했는데 왜 진작 구매하지않았나 생각할정도로 품질 맘에듭니다 다만 오리털슈즈가 털이 있어서인지 작아서 교환한것외에는 아주 좋습니다 대박상품이예요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 롱** 벤치코트+오리털 슈즈",
+    "ReviewScore": "100",
+    "Syllable": "109",
+    "Word": "22",
+    "RDate": "20171201",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질 맘에듭니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "오리털슈즈가 털이 있어서인지",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "작아서 교환한것외에는 아주 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "123317",
+    "RawText": "출근할때 입으라고 산건데 신발부터 돈이 아깝지않네요 정말 마음에 들어요~ 작년에 샀던 30만원 넘는것보다 좋아요 후회 없어요~ 180에 70정도인데 길이도 딱 좋고 핏도 이뻐요 신발도 270 신는데 딱 맞다네요~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 롱** 벤치코트+오리털 슈즈",
+    "ReviewScore": "100",
+    "Syllable": "118",
+    "Word": "28",
+    "RDate": "20171122",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "신발부터 돈이 아깝지않네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "180에 70정도인데 길이도 딱 좋고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏도 이뻐요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "신발도 270 신는데 딱 맞다네요~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "123319",
+    "RawText": "보기보단 빵빵하진 않지만 따듯하네요..가볍기도 정장 또는 그냥 외투로도 입기 딱 좋습니다..",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 구스다운 패딩자켓 세트",
+    "ReviewScore": "80",
+    "Syllable": "51",
+    "Word": "11",
+    "RDate": "20171202",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "보기보단 빵빵하진 않지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": " 따듯하네요..",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍기도 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "정장 또는 그냥 외투로도 입기 딱 좋습니다..",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "123325",
+    "RawText": "장점 가격대비 괜찮은 제품 헤비다운치고 가벼움 디자인 무난함   단점 혹한기는 안에 더껴입던가 더따뜻한 제품 구입해야할듯 오늘 뜯었는데 이미 깃털 삐집고 나와있음  전체적으로 가볍게 적당히 추운 겨울에 입기 좋음..",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 헤비 롱 덕다운 1종",
+    "ReviewScore": "60",
+    "Syllable": "120",
+    "Word": "28",
+    "RDate": "20180102",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 괜찮은 제품",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "헤비다운치고 가벼움",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 무난함 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "혹한기는 안에 더껴입던가 더따뜻한 제품 구입해야할듯",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "깃털 삐집고 나와있음",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "가볍게 적당히 추운 겨울에 입기 좋음",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "123328",
+    "RawText": "길이감도 적당하고 보온성도 괜찮아보임 사이즈는 정사이즈보다 100사이즈기준 약간 큰듯한느낌 활동성 편함 전체적으로 가격대비 우수함",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 헤비 롱 덕다운 1종",
+    "ReviewScore": "100",
+    "Syllable": "72",
+    "Word": "14",
+    "RDate": "20171219",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "길이",
+        "SentimentText": "길이감도 적당하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "보온성도 괜찮아보임 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈는 정사이즈보다 100사이즈기준 약간 큰듯한느낌 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "활동성 편함 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "전체적으로 가격대비 우수함",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "123330",
+    "RawText": "300g 이상 충전재가 들어가서 무게감이 무거워요. 지퍼를 위로 쭉 올렸을 때 코까지 가릴 만큼 방한이 됐으면 하는 아쉬움이 있어요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 헤비 롱 덕다운 1종",
+    "ReviewScore": "100",
+    "Syllable": "74",
+    "Word": "19",
+    "RDate": "20171219",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게감이 무거워요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "코까지 가릴 만큼 방한이 됐으면 하는 아쉬움이 있어요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "123331",
+    "RawText": "거짓말아니고  갠적으로 짱입니다 디자인 스포티하고 핏도 잘나옵니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 헤비 롱 덕다운 1종",
+    "ReviewScore": "100",
+    "Syllable": "36",
+    "Word": "7",
+    "RDate": "20171225",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 스포티하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏도 잘나옵니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "123333",
+    "RawText": "가격이 저렴해서 혹시나해서 구입했는데 품질이 대체적으로는 만족하는데 재봉선쪽에서 솜털이 빠져나오느 현삼이 있고 좀 무거운 느낌이 드네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 헤비 롱 덕다운 1종",
+    "ReviewScore": "80",
+    "Syllable": "75",
+    "Word": "16",
+    "RDate": "20171223",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 대체적으로는 만족하는데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "재봉선쪽에서 솜털이 빠져나오느 현삼이 있고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "좀 무거운 느낌이 드네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "123335",
+    "RawText": "호스트들이  이중박음질해서 깃털이안빠진다고 입이닳도록 얘기해서  고르고골라서샀는데 입고벗으면 티셔츠에 털이하얗게 달라붙어있고 착용시 온몸이가려워요. 반품을할수도없고 기분좋게입어야하는데 짜증나네요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 헤비 롱 덕다운 1종",
+    "ReviewScore": "20",
+    "Syllable": "109",
+    "Word": "15",
+    "RDate": "20171221",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "입고벗으면 티셔츠에 털이하얗게 달라붙어있고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "착용시온몸이가려워요.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "123338",
+    "RawText": "가격대비 별로입니다 사이즈는 95인데 살짝 큰감이 있네요~~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 헤비 롱 덕다운 1종",
+    "ReviewScore": "100",
+    "Syllable": "33",
+    "Word": "7",
+    "RDate": "20171220",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 별로입니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈는 95인데 살짝 큰감이 있네요~~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "123347",
+    "RawText": "배송 느립니다~~ 편하지 않아 잘 안입을 것 같아요 가격도 비싸고 잘못 산것 같습니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 프** 경량 다운 세트",
+    "ReviewScore": "100",
+    "Syllable": "47",
+    "Word": "13",
+    "RDate": "20180110",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편하지 않아 잘 안입을 것 같아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 비싸고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "123351",
+    "RawText": "받는순간 아속았구나 했어여 뭐이런 옷이 걍나이론 아니 비닐비옷입니다 이런옷을보고 좋아요 하는분들은 뭐지요 경량옷을처음본거처럼 허허 바지잘입고있어서 믿고구매했드니 완전 비닐우비임 ㅋ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 프** 경량 다운 세트",
+    "ReviewScore": "20",
+    "Syllable": "100",
+    "Word": "19",
+    "RDate": "20180110",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "옷이 걍나이론 아니 비닐비옷입니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "완전 비닐우비임 ㅋ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "123352",
+    "RawText": "생각보다 많이 얇아서 당황했지만 구입한 가격에 비하면 이해 되네요 ~ 어디서나 편하게 질 입을 것 같아요 배송도 빠르고 만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 프** 경량 다운 세트",
+    "ReviewScore": "60",
+    "Syllable": "72",
+    "Word": "19",
+    "RDate": "20180119",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "생각보다 많이 얇아서 당황했지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "구입한 가격에 비하면 이해 되네요 ~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "어디서나 편하게 질 입을 것 같아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "123354",
+    "RawText": "가격대비 넘좋아요 핏도 이쁘고 가겍도 싸고 잘샀습니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 울코트 1종",
+    "ReviewScore": "100",
+    "Syllable": "29",
+    "Word": "7",
+    "RDate": "20180117",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 넘좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏도 이쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가겍도 싸고 잘샀습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "123355",
+    "RawText": "가격대비 품질도는 만족합니다. 핏도 예쁘고 촉감도 아주 좋습니다. 아쉬운점은 조금 무겁다는 느낌이 드네요. 배송은 빠릅니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 울코트 1종",
+    "ReviewScore": "100",
+    "Syllable": "69",
+    "Word": "15",
+    "RDate": "20180209",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격대비 품질도는 만족합니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏도 예쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "촉감도 아주 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "아쉬운점은 조금 무겁다는 느낌이 드네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "123357",
+    "RawText": "제품의질이좋은데착한가격에구입하여만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 울코트 1종",
+    "ReviewScore": "100",
+    "Syllable": "22",
+    "Word": "1",
+    "RDate": "20180117",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "제품의질이좋은데",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "착한가격에구입하여만족합니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "123363",
+    "RawText": "정말 가성비좋은 잭필드 하프다운코트 가격대비 질도좋고 기장도길고 좋아요.. 잭필드다른제품 2세트제품사이즈 다이트하고 짧게 나와반품하고 이제품 다시구매 잘구매한것같네요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 클** 하프다운 자켓",
+    "ReviewScore": "100",
+    "Syllable": "93",
+    "Word": "16",
+    "RDate": "20180122",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가성비좋은 잭필드 하프다운코트",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격대비 질도좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "기장도길고 좋아요..",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "123367",
+    "RawText": "조금만 더 도톰했으면 아쉽지만 번들거리지 않는 소재로 정장 느낌의 가벼운 아우터로 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 클** 하프다운 자켓",
+    "ReviewScore": "100",
+    "Syllable": "49",
+    "Word": "12",
+    "RDate": "20180131",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "조금만 더 도톰했으면 아쉽지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "번들거리지 않는 소재로",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "정장 느낌의 가벼운 아우터로 좋아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "123368",
+    "RawText": "가볍고 착용감은 좋은데 실밥이 일어나네요 ㅠ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 클** 하프다운 자켓",
+    "ReviewScore": "100",
+    "Syllable": "24",
+    "Word": "6",
+    "RDate": "20180308",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감은 좋은데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "실밥이 일어나네요 ㅠ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "123374",
+    "RawText": "가볍고 보온성 가격 모두 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 구스다운 코트+패딩자켓",
+    "ReviewScore": "100",
+    "Syllable": "18",
+    "Word": "5",
+    "RDate": "20190117",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "보온성 가격 모두 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 모두 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "123375",
+    "RawText": "대박 상품 디자인이 고급스럽고 멋져요 저렴하기까지 해요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 구스다운 코트+패딩자켓",
+    "ReviewScore": "100",
+    "Syllable": "30",
+    "Word": "7",
+    "RDate": "20181016",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 고급스럽고 멋져요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "멋져요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하기까지 해요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "123377",
+    "RawText": "디자인이 고급스러워  보이고  은근 핏이  좋내요  격식있는자리에도  손색이  없었어요  ㅎㅎ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 구스다운 코트+패딩자켓",
+    "ReviewScore": "100",
+    "Syllable": "52",
+    "Word": "10",
+    "RDate": "20181023",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 고급스러워  보이고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "은근 핏이  좋내요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "격식있는자리에도  손색이  없었어요  ㅎㅎ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "123380",
+    "RawText": "싸이즈도 잘 맞고 디자인도 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 구스다운 코트+패딩자켓",
+    "ReviewScore": "100",
+    "Syllable": "18",
+    "Word": "5",
+    "RDate": "20180826",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": " 싸이즈도 잘 맞고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 디자인도 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "123382",
+    "RawText": "173. 63 인데 바지32 상의95 겨울 사무실서입으려고 샀는데 재킷은 95입는데 100 구매했더니 넉넉하게 입을수 있겠어요 솜이 부풀어오르는것도 없어서 아쉽네요 코트는 와인 인데 여자꺼 같아요 자주빛와인톤 ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 구스다운 코트+패딩자켓",
+    "ReviewScore": "80",
+    "Syllable": "117",
+    "Word": "25",
+    "RDate": "20180807",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "재킷은 95입는데 100 구매했더니 넉넉하게 입을수 있겠어요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "솜이 부풀어오르는것도 없어서 아쉽네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "코트는 와인 인데 여자꺼 같아요 자주빛와인톤",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "123384",
+    "RawText": "구스다운하고 패딩자켓 두가지를동시에 두께도적당하고 겨울에 잘입을수있겠어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 구스다운 코트+패딩자켓",
+    "ReviewScore": "100",
+    "Syllable": "40",
+    "Word": "6",
+    "RDate": "20180805",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "두께도적당하고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "겨울에 잘입을수있겠어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구스다운하고 패딩자켓 두가지를동시에 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "123385",
+    "RawText": "이렇게 가격 착한 옷이 있다니 놀랍습니다. 가격 대비 엄청 훌륭한 양질의 옷입니다.강추! ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 구스다운 코트+패딩자켓",
+    "ReviewScore": "100",
+    "Syllable": "50",
+    "Word": "12",
+    "RDate": "20180907",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "이렇게 가격 착한 옷이 있다니 놀랍습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격 대비 엄청 훌륭한 양질의 옷입니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "123393",
+    "RawText": "가격이 나무저렴해서 그냥주문했는데 기대이상입니다. 가볍고 따뜻하게잘입겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 구스다운 코트+패딩자켓",
+    "ReviewScore": "100",
+    "Syllable": "43",
+    "Word": "6",
+    "RDate": "20180908",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 나무저렴해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻하게잘입겠습니다.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "123401",
+    "RawText": "디자인부터 재질까지 완전 마음에 쏙 들어요~!!!  방수도 되고, 한 겨울에도 따뜻할 충전재에 그리 무겁지 않아 겨울에 입어도 둔해지지 않을 것 같아 너무 좋구요  색감도 세련되게 잘 빠졌네요~^^  특히, 모자에 퍼가 정말 디자인 그뤠잇 입니다!!!",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 그** 롱 벤치코트 1종",
+    "ReviewScore": "100",
+    "Syllable": "140",
+    "Word": "34",
+    "RDate": "20181107",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인부터 재질까지 완전 마음에 쏙 들어요~!!!",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질까지 완전 마음에 쏙 들어요~!!!",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "방수도 되고, ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "한 겨울에도 따뜻할 충전재에",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "그리 무겁지 않아",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "겨울에 입어도 둔해지지 않을 것 같아 너무 좋구요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색감도 세련되게 잘 빠졌네요~^^",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "모자에 퍼가 정말 디자인 그뤠잇 입니다!!!",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "123403",
+    "RawText": "조카한테 선물했는데 디자인 무난하고 따뜻하고 매일 입고 다닌답니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 그** 롱 벤치코트 1종",
+    "ReviewScore": "80",
+    "Syllable": "36",
+    "Word": "8",
+    "RDate": "20181124",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 무난하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "123410",
+    "RawText": "가격대비 별로에요 동생들한테도 추천못하겠어요 올겨울 따뜻하게는 못보내겠네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남여공용 롱 벤치코트 1종",
+    "ReviewScore": "100",
+    "Syllable": "41",
+    "Word": "7",
+    "RDate": "20181031",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 별로에요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "올겨울 따뜻하게는 못보내겠네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "123414",
+    "RawText": "디자인 품질이 가격대비 별로입니다 세탁후에도 복원력이 어떨지는 잘 모르겠지만 현재는 마음에 안들어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남여공용 롱 벤치코트 1종",
+    "ReviewScore": "100",
+    "Syllable": "55",
+    "Word": "12",
+    "RDate": "20181029",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 품질이 가격대비 별로입니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 가격대비 별로입니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "123416",
+    "RawText": "가성비 최고입니다. 충전재가 빵빵합니다. 한파에도 입어보니 춥지 않습니다!",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남여공용 롱 벤치코트 1종",
+    "ReviewScore": "100",
+    "Syllable": "41",
+    "Word": "8",
+    "RDate": "20190107",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 최고입니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "충전재가 빵빵합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "한파에도 입어보니 춥지 않습니다!",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "123418",
+    "RawText": "가성비 좋구요 정사이즈 사시면 낙낙하게 입을 수 있어요~ 딱 옷태가 나는 건 아니지만 따수워요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남여공용 롱 벤치코트 1종",
+    "ReviewScore": "80",
+    "Syllable": "52",
+    "Word": "14",
+    "RDate": "20181120",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋구요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "정사이즈 사시면 낙낙하게 입을 수 있어요~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "딱 옷태가 나는 건 아니지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따수워요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "123424",
+    "RawText": "보플이 입을  수록 엄청 일어나네요 검정 바지에 보플이 계속 붙고...",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 울코트+베스트",
+    "ReviewScore": "100",
+    "Syllable": "39",
+    "Word": "10",
+    "RDate": "20181213",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "보플이 입을  수록 엄청 일어나네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "검정 바지에 보플이 계속 붙고...",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "123425",
+    "RawText": "가격이 저렴해서 재질에대한 우려를했지만 막상받압느니 디자인 고급스럽고 두꺼.고 띠듯해요 정말마음에듭니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 울코트+베스트",
+    "ReviewScore": "100",
+    "Syllable": "57",
+    "Word": "10",
+    "RDate": "20181214",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 고급스럽고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "두꺼.고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "띠듯해요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "123429",
+    "RawText": "배송도 빠르고 너무 저렴해서 좋아요~^^ 상품도 2배는 더 비싸 보여요~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 울코트+베스트",
+    "ReviewScore": "100",
+    "Syllable": "40",
+    "Word": "10",
+    "RDate": "20181201",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "너무 저렴해서 좋아요~^^",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "상품도 2배는 더 비싸 보여요~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "123430",
+    "RawText": "코트는 몇번 안 입었는데 보풀이 엄청 생겼네요. 세트구성인 패딩조끼는 원단이 비닐인줄 알았네요. 왜그리 얇은지... 남자친구한테 선물했는데 괜히 미안해지네요. 이럴거면 조끼 빼고 코트값을 내려서 받으세요... 홈쇼핑으로 이딴식으로 싸구려로 만들지 맙시다~!",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 울코트+베스트",
+    "ReviewScore": "20",
+    "Syllable": "143",
+    "Word": "29",
+    "RDate": "20181213",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "몇번 안 입었는데 보풀이 엄청 생겼네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "패딩조끼는 원단이 비닐인줄 알았네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "왜그리 얇은지...",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "이럴거면 조끼 빼고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "코트값을 내려서 받으세요...",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "홈쇼핑으로 이딴식으로 싸구려로 만들지 맙시다~!",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "123431",
+    "RawText": "생각보다 두께가 있어 너무 무겁고 안에 베스트는 어깨.안.쪽에 퍈하게 움직일수없이 잘 늘어나지 않아 불편하고... 보풀이 금방 나갈까 걱정이긴한데..아직 자세히 못 봐서 ..불량 흠집 있는 경우 교환 가능하죠??  수고하세요...♧",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 울코트+베스트",
+    "ReviewScore": "80",
+    "Syllable": "129",
+    "Word": "28",
+    "RDate": "20181122",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "생각보다 두께가 있어",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "너무 무겁고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": " 베스트는 어깨.안.쪽에 퍈하게 움직일수없이 잘 늘어나지 않아",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "불편하고...",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "123432",
+    "RawText": "오늘 배송바자마자 입었는데 정말편하고 디자인 멋스럽네요 디자인 무난하고 고급스러운 검정색 정말 잘산듯 싶네요ㅡ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 울코트+베스트",
+    "ReviewScore": "100",
+    "Syllable": "61",
+    "Word": "13",
+    "RDate": "20181115",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "정말편하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 멋스럽네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 무난하고 고급스러운",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "고급스러운",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "검정색 정말 잘산듯 싶네요ㅡ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "123435",
+    "RawText": "아주 만족스럽지 못합니다! 기대 이상으로 디자인도 별로고 가격대비 꽝이네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 울코트+베스트",
+    "ReviewScore": "100",
+    "Syllable": "41",
+    "Word": "9",
+    "RDate": "20181120",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 디자인도 별로고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 꽝이네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "123436",
+    "RawText": "광고방송은 패딩이 빵빵 그자체더니 받아본 제품 대실망입니다 충전재는 다 어디로가고 완전 경랑 보다 못하고 오늘 입고 나갔다가  추워서 죽는줄~ 어깨가 시리고 등 부분도 빅백을 맷는데도 따뜻함은 전혀 없고 앞으로 바람이 숭숭 들어오고 이 패딩 입고 출.퇴근하면서 화가 나서 혼났어요 어쩜  고객을 이렇게 기만하는지 판매자에게  이 패딩 입혀 보고 싶습니다   ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남녀공용 벤치코트",
+    "ReviewScore": "20",
+    "Syllable": "200",
+    "Word": "49",
+    "RDate": "20181206",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "충전재는 다 어디로가고 완전 경랑 보다 못하고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "입고 나갔다가  추워서 죽는줄~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "어깨가 시리고 등 부분도 빅백을 맷는데도 따뜻함은 전혀 없고",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "앞으로 바람이 숭숭 들어오고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "123444",
+    "RawText": "싸이즈도 조코 입엇을때 너무나 따뜻해요가격도 만족 함니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남녀공용 롱 벤치코트",
+    "ReviewScore": "100",
+    "Syllable": "31",
+    "Word": "7",
+    "RDate": "20181203",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "싸이즈도 조코",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "입엇을때 너무나 따뜻해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 만족 함니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "123446",
+    "RawText": "가격 품질 색상 모두맘에들어요 추천합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남녀공용 롱 벤치코트",
+    "ReviewScore": "100",
+    "Syllable": "22",
+    "Word": "5",
+    "RDate": "20181130",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 품질 색상 모두맘에들어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질 색상 모두맘에들어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상 모두맘에들어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "123451",
+    "RawText": "홈쇼핑가 99.000원 할인후가격 83.300원  가격대비 품질은 별로에요 실제로 받은 상품에 달린 택에는 189.000원 적혀있네요 올겨울 따뜻하게 보내고 싶었는데 아쉽네요. 흰색이 부담스러워서 별로에요 비추입니다. ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남녀공용 롱 벤치코트",
+    "ReviewScore": "100",
+    "Syllable": "122",
+    "Word": "23",
+    "RDate": "20181202",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격대비 품질은 별로에요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "올겨울 따뜻하게 보내고 싶었는데 아쉽네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "흰색이 부담스러워서 별로에요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "123454",
+    "RawText": "배송빨라서 놀람습니다 옷을착용해보니 따듯하고 겉촉감은부드럽고 가벼운데 모자에 달린털이 그다지 좋치않습니다 털이 거의 한쪽으로 눌려서 배송 왓고요 니트입고착용해봣는데  벗을때 약간 정전기 일어나네여  개인생각으로 가격대비 보통 입니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 아** 롱패딩코트",
+    "ReviewScore": "60",
+    "Syllable": "129",
+    "Word": "25",
+    "RDate": "20181115",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "따듯하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "겉촉감은부드럽고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼운데 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 모자에 달린털이 그다지 좋치않습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "니트입고착용해봣는데  벗을때 약간 정전기 일어나네여 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 보통 입니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "123455",
+    "RawText": "너무 두꺼운 패딩은 싫어해서 구매했는데 비록 충전재지만 따뜻하고 가격도 저렴해서 괜찮은것같아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 그** 롱 벤치코트 1종",
+    "ReviewScore": "60",
+    "Syllable": "52",
+    "Word": "11",
+    "RDate": "20181217",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "비록 충전재지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻하고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가격도 저렴해서 괜찮은것같아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "123459",
+    "RawText": "앞호주머니 빗살무늬가 참 좋네요 포인트로 아주 좋고 기장이 좀 짧게 나온것같아 사이즈큰거 시켰는데 그리 짧지않네요 가격부담없이 저렴한 패딩 추천합니다  ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남여공용 롱 벤치코트 1종",
+    "ReviewScore": "100",
+    "Syllable": "85",
+    "Word": "19",
+    "RDate": "20181123",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "앞호주머니 빗살무늬가 참 좋네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "포인트로 아주 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "기장이 좀 짧게 나온것같아 사이즈큰거 시켰는데 그리 짧지않네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격부담없이 저렴한",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "123463",
+    "RawText": "남편과 하나씩 주문했어요. 원래 넉넉하게 입는거 좋아해서 화이트 95와 남편꺼 100시켰는데 사이즈가 굉장히 넉넉하게 나와서 한치수 작게 입으시면 더 예쁠것같아요. 무엇보다 친절하게 상담해주셨던 OO쇼핑과 담당업체분께 정말 감사했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남여공용 롱 벤치코트 1종",
+    "ReviewScore": "100",
+    "Syllable": "132",
+    "Word": "27",
+    "RDate": "20190104",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 굉장히 넉넉하게 나와서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "한치수 작게 입으시면 더 예쁠것같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "123469",
+    "RawText": "아주 추운날씨에는 못입을것같아요 좀 얇은느낌입니다 가볍긴한데 한겨울에는 비추이여  속에 뭔가  껴입고 입어야할것같아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 에** 구스 롱다운코트 1종",
+    "ReviewScore": "60",
+    "Syllable": "65",
+    "Word": "12",
+    "RDate": "20181211",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "아주 추운날씨에는 못입을것같아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "좀 얇은느낌입니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍긴한데",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "한겨울에는 비추이여 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "123471",
+    "RawText": "직접 입었는데 115로 주문하기 잘했네요 원래 110입는데 혹 작을것 같아 115로 주문했는데 딱 밪아요 털은 많이 빠지네요 그렇게 따뜻하지도 않은것 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 에** 구스 롱다운코트 1종",
+    "ReviewScore": "100",
+    "Syllable": "87",
+    "Word": "21",
+    "RDate": "20181213",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "원래 110입는데 혹 작을것 같아 115로 주문했는데 딱 밪아요 ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "털은 많이 빠지네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "그렇게 따뜻하지도 않은것 같아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "123472",
+    "RawText": "친정 아버지께 패딩 선물 해 드렸는데 속상하네요 길이도 좀 짧고 춥다고 하시네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 에** 구스 롱다운코트 1종",
+    "ReviewScore": "100",
+    "Syllable": "44",
+    "Word": "12",
+    "RDate": "20181211",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "길이",
+        "SentimentText": "길이도 좀 짧고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "춥다고 하시네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "123474",
+    "RawText": "몇번안입고 똑딱단추가 빠져나가  단추자리 구멍이 뚫려 털이줄줄 빠저나오고있네요 구매한지 한달도 안되 못입고 있어 as접수했는데 한주가 지나도 업체와 홈쇼핑측 연락없었고 약이 오를대로 올라 환불해달라며 4번의  전화끝에 교환해준다네요 14일부타 28일까지의 실갱이끝에 물건 수거해갔어요 이렇네 길게 글을 쓰는이유는 oo홈쇼핑에서 파는 물건 절대 사면 안된다는말 싼게 비지떡입니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 에** 구스 롱다운코트 1종",
+    "ReviewScore": "40",
+    "Syllable": "210",
+    "Word": "43",
+    "RDate": "20190128",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "단추자리 구멍이 뚫려 털이줄줄 빠저나오고있네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "싼게 비지떡입니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "123476",
+    "RawText": "많이 두껍진읺지만  질은 괜찮아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남녀공용 롱 벤치코트",
+    "ReviewScore": "100",
+    "Syllable": "18",
+    "Word": "4",
+    "RDate": "20190107",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "많이 두껍진읺지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "질은 괜찮아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "123485",
+    "RawText": "이상 없는줄 알고 가격표 뜯고 담음날 출근할때 입었는데 나중에 보니 모자가 불량이었습니다. 가격표 뜯고 입었다고 교환 안해준대요. 수선은 해준다길래 연락 기다렸는데 나중에 전화오더니 집근처 매장이 있다며 거기다 맡기면 더 빠르다고 하길래 귀찮아서 그런다 했는데 막상 매장가서 맡기니 15일은 걸린다 하네요. 모자만 불량이긴 한데 그래도 불량품 받아 짜증나네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남녀공용 롱 벤치코트",
+    "ReviewScore": "20",
+    "Syllable": "200",
+    "Word": "47",
+    "RDate": "20181223",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": " 모자가 불량이었습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "모자만 불량이긴 한데 그래도 불량품 받아 짜증나네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "123486",
+    "RawText": "웰론 패딩을 찾던중 가격도 적당하고 따뜻하고 좋아요 사이즈가 조금 커서 교환신청했는데 빨리교환배송이 이루어졌어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남녀공용 롱 벤치코트",
+    "ReviewScore": "100",
+    "Syllable": "62",
+    "Word": "13",
+    "RDate": "20181221",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 적당하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻하고 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 조금 커서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "123487",
+    "RawText": "무게는 나가지만 입으니 편하네요.한사이즈 작게 할걸 그랬어요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남녀공용 롱 벤치코트",
+    "ReviewScore": "100",
+    "Syllable": "34",
+    "Word": "7",
+    "RDate": "20181219",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게는 나가지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "입으니 편하네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "한사이즈 작게 할걸 그랬어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "123490",
+    "RawText": "배송도 빠르고 상품도 품질이 좋아요  가슴둘레가 설명과 달라서 놀랬지만 한치수 여유있어야 합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남녀공용 롱 벤치코트",
+    "ReviewScore": "100",
+    "Syllable": "53",
+    "Word": "12",
+    "RDate": "20181222",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "상품도 품질이 좋아요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "가슴둘레가 설명과 달라서 놀랬지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "한치수 여유있어야 합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "123494",
+    "RawText": " 평소 77입는데 95가 무척 작네요. 소매도 짧고요. 겨울에는 속에 입은 옷도 두꺼워지고 소매로 손까지 가려야 해서 불편해요 디자인도 마음에 안들고 택도 이미 떼어버렸거든요.  비추입니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남녀공용 롱 벤치코트",
+    "ReviewScore": "100",
+    "Syllable": "105",
+    "Word": "24",
+    "RDate": "20181219",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "평소 77입는데 95가 무척 작네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "소매도 짧고요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "겨울에는 속에 입은 옷도 두꺼워지고 소매로 손까지 가려야 해서 불편해요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 마음에 안들고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "123495",
+    "RawText": "166에 58키로인데요 망설이다가 95 주문했는데 크네요.66이 딱맞았겠어요.제가 팔이 길어서 코트종류는 팔이짧아가꼬 77주문했는데..반품하기도 그렇고 그냥입을까?말까?사은품 장갑도 안오고 배송은 5일이나 걸리고..짜증나서 고민중입니다 내일 아침에 결정해야지.아 옷은 절개선이 밑단에 없어서 요즘 나오는 다른 패딩보다는 쫌 둔해보이고 가격대비 별로",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남녀공용 롱 벤치코트",
+    "ReviewScore": "80",
+    "Syllable": "194",
+    "Word": "35",
+    "RDate": "20181219",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "95 주문했는데 크네요.66이 딱맞았겠어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "절개선이 밑단에 없어서 요즘 나오는 다른 패딩보다는 쫌 둔해보이고",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 별로",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "123501",
+    "RawText": "넉넉하게 입고싶서 한치수 크게 주문했는데 키가작아선지 넘 빠지는 느낌~  키큰딸 줬더니 넉넉하니 좋네요 천도 맘에 늘고 따뜻하다네요~~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남녀공용 롱 벤치코트",
+    "ReviewScore": "100",
+    "Syllable": "75",
+    "Word": "17",
+    "RDate": "20181226",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "넉넉하게 입고싶서 한치수 크게 주문했는데 키가작아선지 넘 빠지는 느낌~",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "키큰딸 줬더니 넉넉하니 좋네요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "천도 맘에 늘고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻하다네요~",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "123508",
+    "RawText": "배송이 그다지 빠른것도 아니구 장갑은 안주는건지 박스 아무리 뒤져봐도 없고 S사이즈인데 생각보다 크고 소매도 길고 ㅠ  그냥 반품 귀찮아서 입기로 했는데 고객과의 약속을 져버리다니.. 애초부터 사은품 준다는 말은 하지말던지...",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남녀공용 롱 벤치코트",
+    "ReviewScore": "60",
+    "Syllable": "127",
+    "Word": "29",
+    "RDate": "20181219",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": " 장갑은 안주는건지 박스 아무리 뒤져봐도 없고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": " S사이즈인데 생각보다 크고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "소매도 길고 ㅠ ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "123510",
+    "RawText": "가격인하 소리에  뚫어져라  티비 보다가  다시 없을  가격에  깔끔한  디자인까지~~바로  질러  버렸습니다. 포장도 깔끔하고  바느질도 꼼꼼하게 살펴  봤는데  역시나 굳~~! 신랑 깜짝 선물 줄려다가 그새를 못참고  짜잔~~그리고 다시 보고  그날이후 신랑님  교복처럼  입고 다니심.   완전  성공  아이템입니다!",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남녀공용 롱 벤치코트",
+    "ReviewScore": "100",
+    "Syllable": "180",
+    "Word": "37",
+    "RDate": "20181222",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "다시 없을  가격에  ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 깔끔한  디자인까지~~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "바느질도 꼼꼼하게 살펴  봤는데  역시나 굳~~!",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "123517",
+    "RawText": "아들이 아빠 생일 선물로 사줬는데 아빠가 만족합니다 옷 스타일이 맘에 들어합니다 살짝 무게감이 있어서 가볍지는 않지만 가격대비 만족입니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 울코트+베스트",
+    "ReviewScore": "100",
+    "Syllable": "76",
+    "Word": "18",
+    "RDate": "20190102",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "옷 스타일이 맘에 들어합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "살짝 무게감이 있어서 가볍지는 않지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 만족입니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "123518",
+    "RawText": "가격이 넘 저렴해서 싼티날까 걱정했는데 역시 그러네요!! 이 품질이면 정말 잘 못산거같아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 울코트+베스트",
+    "ReviewScore": "100",
+    "Syllable": "50",
+    "Word": "12",
+    "RDate": "20181231",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 넘 저렴해서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "싼티날까 걱정했는데 역시 그러네요!! ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "이 품질이면 정말 잘 못산거같아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "123524",
+    "RawText": "정사이즈이구요,약간 무게감은 있네요, 스판은 괞찮구요, 소매는 약간깁니다,",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 울코트+베스트",
+    "ReviewScore": "100",
+    "Syllable": "41",
+    "Word": "7",
+    "RDate": "20190104",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "정사이즈이구요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "약간 무게감은 있네요,",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": "스판은 괞찮구요,",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": " 소매는 약간깁니다,",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "123525",
+    "RawText": "따뜻해요 안감 처리도 깔끔하게 되어 있네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 울코트+베스트",
+    "ReviewScore": "100",
+    "Syllable": "23",
+    "Word": "6",
+    "RDate": "20190104",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻해요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "안감 처리도 깔끔하게 되어 있네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "123526",
+    "RawText": "괜찮아요 가성비도 좋구. 좀 무겁지만 스타일 괜찮네요. ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 울코트+베스트",
+    "ReviewScore": "100",
+    "Syllable": "31",
+    "Word": "7",
+    "RDate": "20190104",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비도 좋구. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": " 좀 무겁지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 스타일 괜찮네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "123527",
+    "RawText": "신랑이 입었는데 방송보다 색상 더 괜찮네요 소재가 누빔 돼있어서 좋고 배스트가 있어서 더 좋네요 이왕이면 배스트 색상 맞춰 주셨으면 더 좋았을텐데 그래도 만족입니다 ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 울코트+베스트",
+    "ReviewScore": "80",
+    "Syllable": "92",
+    "Word": "23",
+    "RDate": "20181231",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "방송보다 색상 더 괜찮네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재가 누빔 돼있어서 좋고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "배스트가 있어서 더 좋네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "이왕이면 배스트 색상 맞춰 주셨으면 더 좋았을텐데",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "123530",
+    "RawText": "따뜻하고  디자인이 멋있네요. 단지  약간 무겁네요.   그래도  좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 울코트+베스트",
+    "ReviewScore": "80",
+    "Syllable": "42",
+    "Word": "8",
+    "RDate": "20181230",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 멋있네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "단지  약간 무겁네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "123531",
+    "RawText": "무거운거 때문에 남편도 맘에 안든다네요 잘받았습니다 핏도 안이뻐요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 울코트+베스트",
+    "ReviewScore": "80",
+    "Syllable": "36",
+    "Word": "8",
+    "RDate": "20181231",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "무거운거 때문에 남편도 맘에 안든다네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": " 핏도 안이뻐요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "123532",
+    "RawText": "따뜻합니다. 생각보다 폼은 조금 넓고 기본 스타일 입니다. 베스트는 조금 실망입니다.(똑딱이 버튼이라 잘 풀어짐)",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 울코트+베스트",
+    "ReviewScore": "80",
+    "Syllable": "63",
+    "Word": "14",
+    "RDate": "20181230",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻합니다.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "생각보다 폼은 조금 넓고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "베스트는 조금 실망입니다.(똑딱이 버튼이라 잘 풀어짐)",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "123533",
+    "RawText": "세트가격이 저렴하고 실용적임.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 울코트+베스트",
+    "ReviewScore": "100",
+    "Syllable": "16",
+    "Word": "3",
+    "RDate": "20190217",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "세트가격이 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": " 실용적임.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "123534",
+    "RawText": "남편이 울코트가 필요하대서 구입했는데 입어보고 약간 무겁지는 하지만 따뜻하고 전반적으로 마음에 들어하네요. 좋은 상품 저렴하게 잘 구입했어요.^^           ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 울코트+베스트",
+    "ReviewScore": "60",
+    "Syllable": "92",
+    "Word": "17",
+    "RDate": "20190327",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "입어보고 약간 무겁지는 하지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 구입했어요.^^",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "123536",
+    "RawText": "신랑 넘 불편하고 길이도 길다면서 집에 오자마쟈 입어보더니 마음에 안든데요 모임갈때 입고 나갈려고 했는데 안되겠데요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 울코트+베스트",
+    "ReviewScore": "100",
+    "Syllable": "64",
+    "Word": "15",
+    "RDate": "20181226",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "신랑 넘 불편하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "길이도 길다면서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "모임갈때 입고 나갈려고 했는데 안되겠데요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "123539",
+    "RawText": "먼지는 좀 묻어 있지만 털고 입으니 따듯하고 정사이즈로 딱 맞네요.  생각이상으로  싸고 좋아요. 베이직구매했는데  색상도  마음에  들어요^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 울코트+베스트",
+    "ReviewScore": "100",
+    "Syllable": "80",
+    "Word": "17",
+    "RDate": "20181227",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "먼지는 좀 묻어 있지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따듯하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "정사이즈로 딱 맞네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "생각이상으로  싸고 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "베이직구매했는데  색상도  마음에  들어요^^",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "123540",
+    "RawText": "신랑이 배가 좀 많이 나왔는데 코트가 딱 가려주네요~~ 살짝 무게감은 있으나 가격이 만족스러워 그냥 편하게 입기로 했어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 울코트+베스트",
+    "ReviewScore": "100",
+    "Syllable": "67",
+    "Word": "17",
+    "RDate": "20181228",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "배가 좀 많이 나왔는데 코트가 딱 가려주네요~~",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "살짝 무게감은 있으나",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 만족스러워 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "123543",
+    "RawText": "평소 95사이즈 입는데 코트사이즈 정사이즈로 95가  잘맞네요 길이도 적당하고..하지만 올드한 코트처럼 묵직합니다. 가볍지만 않고요..디자인은 좋은데 딱한가지 어깨가 너무 큽니다. 어깨길이가 너무커서 바보처럼 보인다는게 흠이네요. 베스트는 품질을 기대하지 않는게 좋을듯..  가성비로는 괜찮아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 울코트+베스트",
+    "ReviewScore": "60",
+    "Syllable": "164",
+    "Word": "31",
+    "RDate": "20181228",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "평소 95사이즈 입는데 코트사이즈 정사이즈로 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "95가  잘맞네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "길이도 적당하고..",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "올드한 코트처럼 묵직합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍지만 않고요..",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인은 좋은데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "어깨가 너무 큽니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "어깨길이가 너무커서 바보처럼 보인다는게 흠이네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "베스트는 품질을 기대하지 않는게 좋을듯.. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비로는 괜찮아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "123546",
+    "RawText": "남편이 주문해달라고해서 주문했어요. 몇번입지도않았는데 전체적으로 보플이 생겼어요. 이가격도 비쌈 ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 울코트+베스트",
+    "ReviewScore": "20",
+    "Syllable": "54",
+    "Word": "9",
+    "RDate": "20181226",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "전체적으로 보플이 생겼어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "이가격도 비쌈",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "123547",
+    "RawText": "가격대비 좋아요. 옷도 따뜻하고 너무 좋아용  검정 베이지 두개 삿어용 잘 입을게요  사은품 두개 잘 챙겨주세용 ^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 울코트+베스트",
+    "ReviewScore": "100",
+    "Syllable": "65",
+    "Word": "17",
+    "RDate": "20190113",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 좋아요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "옷도 따뜻하고 너무 좋아용 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "123549",
+    "RawText": "아들이 디자인이 무난하고 괜찮다고 하네요^ 가성비 좋습니다 그레이 색상도 예쁩니다 속에입는 패딩베스트도 따뜻하고 좋다고 하네요~ 100사이즈 정사이즈 맞습니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 울코트+베스트",
+    "ReviewScore": "80",
+    "Syllable": "88",
+    "Word": "18",
+    "RDate": "20190116",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 무난하고 괜찮다고 하네요^",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "그레이 색상도 예쁩니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "패딩베스트도 따뜻하고 좋다고 하네요~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "100사이즈 정사이즈 맞습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "123553",
+    "RawText": "원단이 좋고 디자인이 아주 마음에 듭니다. 안감이 누벼저서 따뜻하고 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 울코트+베스트",
+    "ReviewScore": "100",
+    "Syllable": "42",
+    "Word": "10",
+    "RDate": "20190109",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "원단이 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 아주 마음에 듭니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "안감이 누벼저서 따뜻하고 좋아요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "123555",
+    "RawText": "조금  무겁긴하지만 가격대비  잘구입했어요 정말 추운날   빼고는  겨울  내내  잘입을것 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 울코트+베스트",
+    "ReviewScore": "100",
+    "Syllable": "54",
+    "Word": "11",
+    "RDate": "20190104",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "조금  무겁긴하지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비  잘구입했어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "겨울  내내  잘입을것 같아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "123558",
+    "RawText": "조카한테사줫는데 맘에들어하네요.가격도좋고구성도좋고 목도리까지받을수잇으니 풀장짝입니ㅣ다. 겨울나기에 딱이에요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 울코트+베스트",
+    "ReviewScore": "100",
+    "Syllable": "59",
+    "Word": "6",
+    "RDate": "20181230",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도좋고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성도좋고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "목도리까지받을수잇으니 풀장짝입니ㅣ다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "겨울나기에 딱이에요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "123560",
+    "RawText": "남편이 밝은 컬러가 없어서 보다가 베이지색 구입했습니다 베이지가 너무 밝을까봐 걱정했는데 화면으로 보는것보다는 조금 더 어두운 컬러라 오히려 더 마음에 들었어요 남편이 입고 나가더니 따뜻하다고 가격대비 너무 좋다고 하네요 다만 몇 번 입으니 보풀이 일어나기 시작해서 관리를 잘 해야할거 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 울코트+베스트",
+    "ReviewScore": "80",
+    "Syllable": "163",
+    "Word": "40",
+    "RDate": "20190106",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "어두운 컬러라 오히려 더 마음에 들었어요 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "남편이 입고 나가더니 따뜻하다고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 너무 좋다고 하네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "보풀이 일어나기 시작해서 관리를 잘 해야할거 같아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "123561",
+    "RawText": "어깨가 넓고  팔길이가 길어 기성복 맞추기가  어려웠는데 맞츰 처럼 사이즈 잘 맞아요 촉강도 부드럽고  기장도 딱 좋아아는 기장입니다   ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 울코트+베스트",
+    "ReviewScore": "80",
+    "Syllable": "77",
+    "Word": "18",
+    "RDate": "20181230",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "맞츰 처럼 사이즈 잘 맞아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "촉강도 부드럽고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "기장도 딱 좋아아는 기장입니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "123563",
+    "RawText": "사이즈는 쫌 큰편이나 활동성도 좋고 너무 편합니다. 앞으로도 좋은 제품 많이 만들어 주세요.^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 울코트+베스트",
+    "ReviewScore": "100",
+    "Syllable": "53",
+    "Word": "13",
+    "RDate": "20190104",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈는 쫌 큰편이나",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": " 활동성도 좋고 너무 편합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "123564",
+    "RawText": "저렴한 가격이라 크게 기대안했는데, 그리 싼티나지않고 촉감도 보들하니 좋아요. 살짝 묵직하나 문제될 정도 아니구요. 사이즈는 정사이즈 하심 될 듯합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 울코트+베스트",
+    "ReviewScore": "100",
+    "Syllable": "85",
+    "Word": "19",
+    "RDate": "20190104",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격이라 크게 기대안했는데,",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "그리 싼티나지않고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "촉감도 보들하니 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "살짝 묵직하나 문제될 정도 아니구요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈는 정사이즈 하심 될 듯합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "123565",
+    "RawText": "화면보다 두께감이 잇었고 안감누빔이 좋아요ᆞ생각보다 따뜻도 하고 좋앗습니다강추요^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 울코트+베스트",
+    "ReviewScore": "100",
+    "Syllable": "46",
+    "Word": "8",
+    "RDate": "20190104",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "화면보다 두께감이 잇었고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "안감누빔이 좋아요ᆞ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "생각보다 따뜻도 하고 좋앗습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]

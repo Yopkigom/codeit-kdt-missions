@@ -1,0 +1,4166 @@
+[
+  {
+    "Index": "581142",
+    "RawText": "여드름 피부에 쓰고 있는데 제형이 산뜻하면서 거품도 많이 나고 노폐물도 제거되는 듯 합니다. 비싼 가격과 적은 양은 좀 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 레** 클리어 수딩폼 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "19",
+    "RDate": "20210520",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "여드름 피부에 쓰고 있는데 제형이 산뜻하면서 거품도 많이 나고 노폐물도 제거되는 듯합니다.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 산뜻하면서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "거품도 많이 나고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "노폐물도 제거되는 듯 합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "비싼 가격과 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "적은 양은 좀 아쉽네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "581143",
+    "RawText": "OOO를 써보고 화장품 전체를 바꾸고 있어요. 피부에 자극이 없고, 세안력도 깔끔한게 마음에 듭니다.  피부가 깨끗해진 느낌입니다. 사용기간은 좀 아쉬운 점이 있네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 레** 클리어 수딩폼 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "93",
+    "Word": "21",
+    "RDate": "20210520",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "피부에 자극이 없고,",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "세안력도 깔끔한게 마음에 듭니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "피부가 깨끗해진 느낌입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "사용기간은 좀 아쉬운 점이 있네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "581146",
+    "RawText": "사용해 보니 품질이 최악입니다. ㅇㅇㅇ 클렌징폼은 세정 효과 없어요. 거품도 잘 안 나고, 피부가 잘 씻겨지는 듯 하지만 피부가 땡기고, 쉽게 피부가 기름져요. 사용 후 아이 피부가 여드름이 더 났어요. ㅇㅇㅇ클렌징폼은 얼굴에 기름기 많고  민감성 피부에는 비추합니다. 제가 사용해 보니 피부 땅김이 심하고 그렇다고 세정력이 좋은 것도 아니에요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 레** 클리어 수딩폼 150ml 1개",
+    "ReviewScore": "1",
+    "Syllable": "193",
+    "Word": "48",
+    "RDate": "20210519",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 최악입니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "세정 효과 없어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "거품도 잘 안 나고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "피부가 잘 씻겨지는 듯 하지만 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "피부가 땡기고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "쉽게 피부가 기름져요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "여드름이 더 났어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "피부타입",
+        "SentimentText": "민감성 피부에는 비추합니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "피부 땅김이 심하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "세정력이 좋은 것도 아니에요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "581156",
+    "RawText": "순하고, 거품도 잘나고, 세정도 잘 됩니다. 씻고 나서 건조하지 않고 트러블 올라오지 않아서 좋네요. 배송 빠르고 포장도 마음에 들었어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 레** 클리어 수딩폼 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "19",
+    "RDate": "20210515",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "순하고, ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "거품도 잘나고, ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "세정도 잘 됩니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "씻고 나서 건조하지 않고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "트러블 올라오지 않아서 좋네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "581159",
+    "RawText": "약산성 클렌징 매일 잘 하고 있습니다. 거품도 풍성한 편이고, 세안 후에 촉촉한 느낌이네요. 화장도 말끔히 지워지고, 피부에 자극적이지 않아 좋아요. 양은 좀 적은 듯하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 레** 클리어 수딩폼 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "97",
+    "Word": "24",
+    "RDate": "20210514",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분",
+        "SentimentText": "약산성 클렌징",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "거품도 풍성한 편이고, ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "세안 후에 촉촉한 느낌이네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "화장도 말끔히 지워지고, ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "피부에 자극적이지 않아 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "양은 좀 적은 듯하네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "581167",
+    "RawText": "여드름 민감성 피부에 좋아요. 약산성이라서 세안 후 살짝 미끄덩거리네요 저자극에 세정력도 괜찮아서 만족해요. 잘 산 것 같네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 레** 클리어 수딩폼 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "17",
+    "RDate": "20210512",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "피부타입",
+        "SentimentText": "여드름 민감성 피부에 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "약산성이라서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "세안 후 살짝 미끄덩거리네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "저자극에 세정력도 괜찮아서 만족해요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "세정력도 괜찮아서 만족해요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "581168",
+    "RawText": "처음 사용하는 제품입니다. 좋다고 해서 써보니 향도 진하지 않고 은은해서 좋아요. 적은 양으로도 거품이 많이 나고, 세정도 잘되네요. 피부가 매끄러워졌어요. 가격대비 괜찮네요. 양은 좀 적은 듯하지만, 담에 재구매할 계획입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 레** 클리어 수딩폼 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "127",
+    "Word": "29",
+    "RDate": "20210512",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 진하지 않고 은은해서 좋아요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "적은 양으로도 거품이 많이 나고,",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "세정도 잘되네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "피부가 매끄러워졌어요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 괜찮네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "양은 좀 적은 듯하지만, ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "581169",
+    "RawText": "많이 비싸다고 생각하지만 OO니까 그러려니 합니다. 비싸긴 해도 민감 피부에는 OO 만한 데가 없어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 레** 클리어 수딩폼 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "14",
+    "RDate": "20210512",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "많이 비싸다고 생각하지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "비싸긴 해도",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "민감 피부에는 OO 만한 데가 없어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "581185",
+    "RawText": "아이 여드름 때문에 약 산성으로 구매 해 봤습니다. 향은 좀 별루네요. 효과는 아직 잘 모르겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 레** 클리어 수딩폼 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "15",
+    "RDate": "20210507",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향은 좀 별루네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과는 아직 잘 모르겠습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "581186",
+    "RawText": "순하고 여드름에 좋다고 해서 구매해 봤습니다. 사용해봤는데 유분에 대한 세정력도 괜찮고 수분을 많이 뺏어가지도 않아서 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 레** 클리어 수딩폼 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "16",
+    "RDate": "20210507",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "순하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "세정력도 괜찮고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "수분을 많이 뺏어가지도 않아서 만족합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "581188",
+    "RawText": "거품이 나야 클렌징을 할 텐데 이 제품은 거품이 너무 안납니다. 손에 아무리 비벼도 거품이 안나고 세정도 잘 되는지 모르겠네요. 이걸로 씻으면 하나도 안 개운해요. 이런 품질인 줄 알았으면 안 샀어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 레** 클리어 수딩폼 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "112",
+    "Word": "30",
+    "RDate": "20210507",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "거품이 너무 안납니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "손에 아무리 비벼도 거품이 안나고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "세정도 잘 되는지 모르겠네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "이걸로 씻으면 하나도 안 개운해요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "이런 품질인 줄 알았으면 안 샀어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "581212",
+    "RawText": "OO 클렌징폼이 여드름피부에 효과가 좋다기에 중학생 딸 주려고 주문했습니다. 자극 없이 순하네요. 거품도 풍성하고 제형이 밀도 있게 쫀쫀하고요. 그런데 향은 별로예요. 향긋하지가 않고 특유의 냄새가 은근하게 있어요. 향료 성분을 안 넣어서 그런가본데, 피부에는 향료 성분 무첨가가 좋다고 하니 괜찮습니다. 오프라인보다 저렴하게 샀습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 레** 클리어 수딩폼 150ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "188",
+    "Word": "42",
+    "RDate": "20210428",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "자극 없이",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "순하네요.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "거품도 풍성하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향은 별로예요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향긋하지가 않고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "특유의 냄새가 은근하게 있어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "향료 성분을 안 넣어서 그런가본데,",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "피부에는 향료 성분 무첨가가 좋다고 하니 괜찮습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "오프라인보다 저렴하게 샀습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 밀도 있게 쫀쫀하고요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "581226",
+    "RawText": "복합성 피부이고 세안 후 건조한 것을 싫어해서 클렌징 폼은 세안 후 부드럽고 당김 없는 걸로 구매하는 편인데 평도 좋고 성분도 착해서 구매하게 되었습니다. 세안 후 당김도 없고 피부도 부들부들해져서 마음에 듭니다. 효과도 좋았으면 좋겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 레** 클리어 수딩폼 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "134",
+    "Word": "34",
+    "RDate": "20210422",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "당김도 없고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "피부도 부들부들해져서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과도 좋았으면 좋겠어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "성분도 착해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "581228",
+    "RawText": "로션이나 스킨, 기초세안용품 등, 순하고, 세정력 좋은 제품을 찾다가 한번 사용해보았는데 너무 좋네요. 다 쓰고 재구매할 듯합니다. 향은 없어 아쉽지만, 그만큼 순하고, 세정력 좋은 제품이라 만족합니다. 양은 좀 아쉽고, 사용기간이 좀 길면 좋겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 레** 클리어 수딩폼 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "140",
+    "Word": "33",
+    "RDate": "20210422",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "순하고, 세정력 좋은 제품을 찾다가 한번 사용해보았는데 너무 좋네요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "세정력 좋은 제품을 찾다가 한번 사용해보았는데 너무 좋네요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향은 없어 아쉽지만,",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "순하고, ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "세정력 좋은 제품이라 만족합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "양은 좀 아쉽고, ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "사용기간이 좀 길면 좋겠어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "581235",
+    "RawText": "생각했던 것보다 배송도 빠르고 제품도 저렴하게 잘 산 것 같습니다. 사용 기간이 짧아서 효과는 아직 모르겠습니다. 이 제품 사용 해 보고 효과가 있으면 좋겠어요. 괜찮으면 재 주문 하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 레** 클리어 수딩폼 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "107",
+    "Word": "28",
+    "RDate": "20210416",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 산 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과는 아직 모르겠습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과가 있으면 좋겠어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "581236",
+    "RawText": "상품 품질이 좋아요. 마음에 듭니다. 내용물은 진주펄 같은 느낌의 색상이 나서 좋아요. 얼굴에 트러블이 올라와서 사용해 보려고 구매했어요. 소량만 사용해도 거품이 많이 나고 무향에 자극적이지 않아 만족스러워요. 무엇보다 약산성이라고 하니 더욱 좋은 것 같습니다. 피부엔 약산성이 좋으니까요. 아이 쓰게 하려고 구매했는데 저도 사용하게 되네요. 추가 구매의사 있어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 레** 클리어 수딩폼 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "204",
+    "Word": "47",
+    "RDate": "20210415",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "상품 품질이 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "진주펄 같은 느낌의 색상이 나서 좋아요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "소량만 사용해도 거품이 많이 나고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "무향에 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "자극적이지 않아 만족스러워요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "약산성이라고 하니 더욱 좋은 것 같습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "아이 쓰게 하려고 구매했는데 저도 사용하게 되네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "581239",
+    "RawText": "첫 구매라 피부에 맞지 않을까 걱정했지만 자극 없이 깔끔하게 세정이 되어서 좋습니다. 생각보다 촉촉함은 덜하지만 제품은 만족합니다. 적립금이 있어서 착한 가격에 구매해서 좋았는데 구성 증정품까지 주셔서 좋았습니다. 피부장벽보호 효과 기대해볼게요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 레** 클리어 수딩폼 150ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "137",
+    "Word": "30",
+    "RDate": "20210414",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "자극 없이",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "깔끔하게 세정이 되어서 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉함은 덜하지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "적립금이 있어서 착한 가격에 구매해서 좋았는데",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성 증정품까지 주셔서 좋았습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "피부장벽보호 효과 기대해볼게요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "581240",
+    "RawText": "상품 품질이 좋아요. 사춘기 자녀 전용 세안제로 사용합니다. 트러블도 없고 여드름에 좋은 성분이 들어있어서 자녀 세안제로 사용하겠습니다. 자주 사용해서 효과가 발휘 되었으면 좋겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 레** 클리어 수딩폼 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "103",
+    "Word": "23",
+    "RDate": "20210414",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "상품 품질이 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "트러블도 없고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "여드름에 좋은 성분이 들어있어서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과가 발휘 되었으면 좋겠습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "581242",
+    "RawText": "복합성 피부에 사용하려고 주문했습니다. 다른 제품 사용중에 온라인에서 좋다는 후기가 있어 구매해서 사용해보니 좋다고 하네요. 여드름성 복합성 피부에 자극 없고 세정력도 좋다고해요. 향은 별로인 듯하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 레** 클리어 수딩폼 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "113",
+    "Word": "25",
+    "RDate": "20210413",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "여드름성 복합성 피부에 자극 없고 세정력도 좋다고 해요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "피부타입",
+        "SentimentText": "복합성 피부에 자극 없고 세정력도 좋다고 해요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "피부에 자극 없고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "세정력도 좋다고해요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향은 별로인 듯하네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "581248",
+    "RawText": "약산성이 좋다고 해서 바꿨네요.  그 동안은 OOO 클렌저를 사용했네요. 약산성성분 클렌징 오일이랑 함께 사용 중인데  여드름 피부에는 드라마틱한 효과는 없지만 쓰고 나면 당기지 않고  부드럽고 자극적이지 않아서 저는 좋습니다. 가격도 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 레** 클리어 수딩폼 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "136",
+    "Word": "31",
+    "RDate": "20210409",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "여드름 피부에는 드라마틱한 효과는 없지만 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "쓰고 나면 당기지 않고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "부드럽고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "자극적이지 않아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 좋네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "581249",
+    "RawText": "향은 우유 상한 냄새가 나서 좋지 않았습니다. 거품은 잘 생깁니다. 근데 세정이 잘 안되는건지 뾰루지가 잘 안없어집니다. 사용감도 개운하지 않습니다. 후기 보고 구입했는데 지복합성인 제 피부에는 안 맞습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 레** 클리어 수딩폼 150ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "116",
+    "Word": "28",
+    "RDate": "20210409",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향은 우유 상한 냄새가 나서 좋지 않았습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "거품은 잘 생깁니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "세정이 잘 안되는건지",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "뾰루지가 잘 안없어집니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사용감",
+        "SentimentText": "사용감도 개운하지 않습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "피부타입",
+        "SentimentText": "지복합성인 제 피부에는 안 맞습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "581260",
+    "RawText": "무난하게 쓸만해서 재 구매 했습니다. 인생템 까지는 아니어도 건조하지 않게 사용하고 싶은 분들께 추천 드립니다. 세정하고 나서 피부가 건조하게 마르지 않고 촉촉하게 마무리 됩니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 레** 클리어 수딩폼 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "100",
+    "Word": "24",
+    "RDate": "20210405",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "건조하지 않게 사용하고 싶은 분들께 추천 드립니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "건조하게 마르지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하게 마무리 됩니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "581268",
+    "RawText": "방송인 추천으로 구했습니다. 세안 시 자극이 너무 강하게 느껴지지 않고 따끔거리는 느낌도 없네요. 매일 사용하기에도 부담스럽지 않네요. 세정력도 좋습니다. 세안 후 건조한 느낌은 거의 받지 못했어요. 효과 기대해봅니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 레** 클리어 수딩폼 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "122",
+    "Word": "28",
+    "RDate": "20210401",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "자극이 너무 강하게 느껴지지 않고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "따끔거리는 느낌도 없네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "세정력도 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "건조한 느낌은 거의 받지 못했어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과 기대해봅니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "매일 사용하기에도 부담스럽지 않네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "581341",
+    "RawText": "저렴하게 좋은 제품 샀습니다. 배송도 하루 만에 와서 엄청 빠릅니다. 세정력도 좋습니다. 가볍게 잘 지워져서 만족합니다. 효과도 기대해볼게요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "18",
+    "RDate": "20220826",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 좋은 제품 샀습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "세정력도 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "가볍게 잘 지워져서 만족합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과도 기대해볼게요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "581352",
+    "RawText": "좋아하는 클렌징 오일입니다. 잘 씻기고, 제형이 끈적거리지 않아서 좋아요. 그리고 세정력도 좋고, 가성비가 좋은 제품입니다. 제품 양은 좀 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "83",
+    "Word": "19",
+    "RDate": "20220825",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "잘 씻기고, ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 끈적거리지 않아서 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "세정력도 좋고, ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비가 좋은 제품입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "제품 양은 좀 아쉽네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "581357",
+    "RawText": "OO OOO 클렌징 오일만 써요. 겨울에 세안 후에는 조금 당기는 감이 있지만, 자극없이 순해서 참 좋습니다. 유통기한도 25년 10월까지 아주 넉넉해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "86",
+    "Word": "21",
+    "RDate": "20220825",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "자극없이",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "순해서 참 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한도 25년 10월까지 아주 넉넉해요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "겨울에 세안 후에는 조금 당기는 감이 있지만,",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "581380",
+    "RawText": "선물 받아서 사용했는데 만족해서 인터넷으로 구매했습니다. 복합성이라서 오일 제품 사용하면 트러블 나서 사용 안 하는데 이 제품 사용 후 편견이 깨졌습니다. 펌핑 두 번 사용 후 얼굴 잘 문지른 후 물 묻으면 간편하게 클렌징 폼이 되어서 만족합니다. 여기가 저렴해 구매했는데 배송도 빠르고 만족합니다. 효과도 좋기를 바랍니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "181",
+    "Word": "46",
+    "RDate": "20220819",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "간편하게 클렌징 폼이 되어서 만족합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴해 구매했는데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과도 좋기를 바랍니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "581394",
+    "RawText": "오래 사용해도ㅇㅇㅇ클렌징 만하게 없네요.극지성이라 오일제품을 쓰면 안될 것 같지만 OOO을 문지르고 세안하면 화장이 잘 닦여 나오는 것 같아요.  ㅇㅇㅇ 오일 세안 후 올라오는 트러블도 없고 피부도 깨끗해진 느낌입니다. 추천하면 모두 만족하는 제품이라 가격이 좀 부담스럽긴 하지만, 계속 사용 할 것 같네요. 제 피부를 위해 계속 사용하려고 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "195",
+    "Word": "47",
+    "RDate": "20220814",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "트러블도 없고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "피부도 깨끗해진 느낌입니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 좀 부담스럽긴 하지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "피부타입",
+        "SentimentText": "극지성이라 오일제품을 쓰면 안될 것 같지만 OOO을 문지르고 세안하면 화장이 잘 닦여 나오는 것 같아요. ",
+        "SentimentWord": "15",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": " 세안하면 화장이 잘 닦여 나오는 것 같아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "581431",
+    "RawText": "화장 후 데일리로 화장 지울 때 사용하면 화장이 엄청 잘 지워지고 깔끔하게 지워지는 느낌이 나서 좋습니다. 사용해보시면 좋습니다. 효과도 기대가 됩니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "85",
+    "Word": "21",
+    "RDate": "20220802",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "화장이 엄청 잘 지워지고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "깔끔하게 지워지는 느낌이 나서 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과도 기대가 됩니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "581439",
+    "RawText": "클렌징뿐만 아니라 일주일에 두 번 정도 오일만 하거나 아님 곡물 가루랑 함께하면 각질 관리가 잘 됩니다. 코나 턱에 하면 좋습니다. 샘플까지 종류도 다양하게 줘서 너무 잘 씁니다. 배송도 빠르고 쿠폰 할인까지 가격이 좋습니다. 이 가격에 살 수 있어서 좋습니다. 효과만 더 나타난다면 더 좋을 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "171",
+    "Word": "46",
+    "RDate": "20220729",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "각질 관리가 잘 됩니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "샘플까지 종류도 다양하게 줘서 너무 잘 씁니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰 할인까지 가격이 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "이 가격에 살 수 있어서 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과만 더 나타난다면 더 좋을 것 같습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "581445",
+    "RawText": "항상 애용하는 클렌징 오일 입니다. 순하고, 세정력도 좋아요. 미끌거리지도 않고, 제품 품질 좋습니다. 가끔씩 다른 브랜드 제품은 어떤가 기웃거리고 써보다가 다시 OOO 클렌징 오일을 사용하게 되네요. 가격이 좀 비싸고 용량이 좀 아쉽지만, 좋은 제품이라 만족하고 구매합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "154",
+    "Word": "36",
+    "RDate": "20220725",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "순하고, ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "세정력도 좋아요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "미끌거리지도 않고, ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "제품 품질 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 좀 비싸고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "용량이 좀 아쉽지만, ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "581465",
+    "RawText": "저렴한 가격에 클렌징 오일 샀습니다. 품질도 만족하고 늘 쓰던 거라 트러블도 없습니다. 잘 닦이는 것도 좋습니다. 잘 쓰겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "72",
+    "Word": "18",
+    "RDate": "20220713",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 클렌징 오일 샀습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 만족하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "트러블도 없습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "잘 닦이는 것도 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "581474",
+    "RawText": "OOO 클렌징 오일 쓴지 오래 됐습니다. 순해서 민감한 제 피부에 맞아요. 이거 쓰면 따로 각질 제거 안해도 괜찮습니다. 가격만 조금 더 저렴하면 금상첨화겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "91",
+    "Word": "23",
+    "RDate": "20220710",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "순해서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "민감한 제 피부에 맞아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "이거 쓰면 따로 각질 제거 안해도 괜찮습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격만 조금 더 저렴하면 금상첨화겠습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "581485",
+    "RawText": "클렌징오일은 ㅇㅇㅇ만 사용하게 됩니다. 자극도 없고 향도 은은하고 건조하지 않아 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "50",
+    "Word": "11",
+    "RDate": "20220707",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": " 자극도 없고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 은은하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "건조하지 않아 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "581487",
+    "RawText": "매일 저녁에 클렌징으로 사용하고 있습니다. 자극 없고 순하고 당김 없어서 만족하며 오랜 기간 사용해오고 있습니다. 근데 가격 조금만 낮춰주세요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "80",
+    "Word": "19",
+    "RDate": "20220706",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "자극 없고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "당김 없어서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 조금만 낮춰주세요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "순하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "581505",
+    "RawText": "11년은 넘게 쓴 제품입니다. 오일로 지우는 게 마음도 놓이고 다른 제품에 비해 깔끔하게 마무리되지만 세정력은 좋은 편이어서 이 제품을 씁니다. 하지만 이번에는 세정력이 줄어든 느낌입니다. 그래도 다른 제품을 쓰면 결국 다시 이 제품으로 돌아오게 됩니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "142",
+    "Word": "35",
+    "RDate": "20220701",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "세정력은 좋은 편이어서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "이번에는 세정력이 줄어든 느낌입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "581514",
+    "RawText": "타제품 사용하다 지인 추천으로 OOO로 갈아탔는데 좋네요. 세정력도 좋고, 무엇보다 순해서 좋습니다. 용량이 좀 적고, 가격이 비싸지만, 재구매할 계획입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "88",
+    "Word": "19",
+    "RDate": "20220627",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "세정력도 좋고, ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "순해서 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "용량이 좀 적고, ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 비싸지만,",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "581515",
+    "RawText": "세정력도 좋고, 무엇보다 순해서 좋습니다. 자극없이 세정되고, 촉촉함도 좋습니다. 양이 적어 아쉽고, 가격이 저렴하진 않지만, 다음에도 또 구매하려 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "87",
+    "Word": "19",
+    "RDate": "20220627",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "세정력도 좋고,",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "순해서 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "자극없이 세정되고,",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉함도 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "양이 적어 아쉽고, ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴하진 않지만, ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "581569",
+    "RawText": "재구매해요. 순하고 피부에 자극이 없어서 좋아요. ○○○ 클렌징오일이 사용해본 오일중 가장 마음에 들어요. 세정력은 뛰어나진 않은데 순해서 가장 좋아요. 다 사용하고 재구매할께요. 양도 많은데 세일할때 싸게 잘 샀어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "122",
+    "Word": "28",
+    "RDate": "20220607",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "순하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "피부에 자극이 없어서 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "세정력은 뛰어나진 않은데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "순해서 가장 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "양도 많은데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "세일할때 싸게 잘 샀어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "581583",
+    "RawText": "샘플 써보고 좋아서 본품 구매했습니다. 사용감이 가볍고, 메이크업 잔여물 없이 잘 녹아 깔끔하게 지워지네요. 세안 후 당김없고, 촉촉해요. 가격은 좀 있네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "88",
+    "Word": "21",
+    "RDate": "20220604",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사용감",
+        "SentimentText": "사용감이 가볍고, ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "메이크업 잔여물 없이 잘 녹아 깔끔하게 지워지네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "세안 후 당김없고, ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉해요.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 좀 있네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "581587",
+    "RawText": "OOO 클렌징 오일은 건성 피부에도 순하고, 눈도 따갑지 않고 좋네요. 가격대비 양이 적어요. 향은 좀 아쉽고, 사용기간이 여유가 있음 좋을 듯합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "84",
+    "Word": "21",
+    "RDate": "20220602",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "피부타입",
+        "SentimentText": "건성 피부에도 순하고, 눈도 따갑지 않고 좋네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "순하고, ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "눈도 따갑지 않고 좋네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "가격대비 양이 적어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향은 좀 아쉽고,",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "사용기간이 여유가 있음 좋을 듯합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "581602",
+    "RawText": "우연히 샘플을 사용해보니 피부에 맞는 것 같아 본품을 주문했어요. 건성 피부에 각질도 많이 생기는데 세안전 마사지하듯 부드럽게 닦아 주니 피부가 한결 부드러워진 듯합니다. 꾸준히 사용하면 피부가 더 좋아질 듯합네요. 가격은 좀 내렸으면 좋겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "137",
+    "Word": "33",
+    "RDate": "20220531",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "피부타입",
+        "SentimentText": "건성 피부에 각질도 많이 생기는데 세안전 마사지하듯 부드럽게 닦아 주니 피부가 한결 부드러워진 듯합니다. ",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "각질도 많이 생기는데 세안전 마사지하듯 부드럽게 닦아 주니 피부가 한결 부드러워진 듯합니다. ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "피부가 한결 부드러워진 듯합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "꾸준히 사용하면 피부가 더 좋아질 듯합네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 좀 내렸으면 좋겠어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "피부에 맞는 것 같아",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "581678",
+    "RawText": "제품을 바르는 것보다 클렌징이  중요한데 ㅇㅇㅇ 클렌징 오일은 과도하게 씻어내지 않고 깔끔하게 클렌징 되서 좋습니다. 대용량인데 샘플까지 포함된 세트라서 아주 맘에 들어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "96",
+    "Word": "22",
+    "RDate": "20220518",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "과도하게 씻어내지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "깔끔하게 클렌징 되서 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "대용량인데",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "샘플까지 포함된 세트라서 아주 맘에 들어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "581684",
+    "RawText": "순해서 피부 자극도 없습니다. 클렌징 효과도 좋아서 항상 사용하고 있어요. 가정의 달이라서 OO몰에서 할인도 많이 해서 좋은 가격으로 구매했어요. 다만 향이 좀 아쉽네요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "94",
+    "Word": "23",
+    "RDate": "20220517",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "순해서 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "피부 자극도 없습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "클렌징 효과도 좋아서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인도 많이 해서 좋은 가격으로 구매했어요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 좀 아쉽네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "581689",
+    "RawText": "OOO 클렌징 사용하다가 매장이 없어지고, 구매가 쉽지 않아 다른 제품의 클렌징 오일 찾다가 후기에 OOO 대체용으로 좋다고 해서 구매하게 되었어요. 제품이 순하고, 자극적이지 않고, 세안력은 좋은 듯합니다. 가격은 저렴하지 않고, 양도 좀 적은 듯해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "142",
+    "Word": "34",
+    "RDate": "20220516",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "순하고, ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "자극적이지 않고, ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "세안력은 좋은 듯합니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 저렴하지 않고, ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "양도 좀 적은 듯해요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "581690",
+    "RawText": "항상 사용하던 제품으로 만족하며 사용합니다. 세정력이 좋아 1차 세안만 해도 싹 지워집니다. 자극적이지도 않고 피부 타입 상관없이 사용해도 좋습니다. 사용하면서 따로 각질 제거 안해도 됩니다. 클렌징은 OO가 최고네요. 다만 가격이 조금 더 저렴해지면 좋겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "146",
+    "Word": "34",
+    "RDate": "20220516",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "세정력이 좋아 1차 세안만 해도 싹 지워집니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "자극적이지도 않고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "피부 타입 상관없이 사용해도 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "따로 각질 제거 안해도 됩니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 조금 더 저렴해지면 좋겠네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "581691",
+    "RawText": "언제나 피부 자극 없이 잘 사용하고 있는 제품이에요. 타 상품에 비해 거품이 좀 적어요. 그리고 헹군 후에 제형의 미끄덩거림이 거슬려 여러 번 헹구게 되는 게 불편해요. 그래도 세정력은 좋은 거 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "114",
+    "Word": "31",
+    "RDate": "20220516",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "피부 자극 없이 잘 사용하고 있는 제품이에요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "거품이 좀 적어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형의 미끄덩거림이 거슬려 여러 번 헹구게 되는 게 불편해요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "세정력은 좋은 거 같습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "581692",
+    "RawText": "샘플로 들어 있던 거 써 봤는데 좋아서 구입했습니다. 세정력도 좋고 향도 좋네요. 양도 많아서 오래 잘 쓸 것 같습니다. 가격도 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "21",
+    "RDate": "20220516",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "세정력도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 좋네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "양도 많아서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "581698",
+    "RawText": "ㅇㅇㅇ 클렌징 오일 세정력 최고입니다. 계속 사용하다 보니 이젠 세안 전에 오일을 꼭 사용합니다. 효과가 좋아서 지인들에게 오일 홍보하고 있어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "81",
+    "Word": "20",
+    "RDate": "20220514",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "세정력 최고입니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과가 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "581702",
+    "RawText": "제형이 가벼운 오일이네요. 묵직한 오일 제형을 선호하는 편이라서 별로입니다. 세정력은 나쁘지 않고 자극은 없습니다. 세안 후 많이 촉촉하지는 않았네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "84",
+    "Word": "19",
+    "RDate": "20220513",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 가벼운 오일이네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "묵직한 오일 제형을 선호하는 편이라서 별로입니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "세정력은 나쁘지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "자극은 없습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "많이 촉촉하지는 않았네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "581704",
+    "RawText": "OOO클렌징오일은 처음 사용해보는데, 자극적이지 않아서 다행이네요. 가격도 괜찮습니다. 효과는 아직 잘 모르네요. 재구매 의사는 아직 없습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "80",
+    "Word": "16",
+    "RDate": "20220512",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "자극적이지 않아서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 괜찮습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과는 아직 잘 모르네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "581705",
+    "RawText": "끈적임이 없고 잔여물 없이 깨끗하게 지워져서 애용하는 제품이에요. ㅇㅇㅇ 클렌징 오일 최고에요. 계속 잘 이용하고 하겠습니다. 감사합니다.  ㅇㅇㅇ 클렌징 오일 추천 합니다. 재 구매 의사 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "111",
+    "Word": "26",
+    "RDate": "20220512",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "끈적임이 없고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "잔여물 없이",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "깨끗하게 지워져서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "581714",
+    "RawText": "점성이 부드럽고, 순해서 피부 자극이 없어서 좋아요.  샘플 써보고 좋아서 또 구입했어요. 세정력이 좋고 피부가 깔끔한 느낌입니다. 씻고 나서 당김 없어서 좋아요. 가격 행사할 때 싸게 구입해서 잘 쓰고 있어요. 가성비도 좋아서 재구매 할 듯합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "139",
+    "Word": "35",
+    "RDate": "20220510",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "점성이 부드럽고, ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "순해서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "피부 자극이 없어서 좋아요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "세정력이 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "피부가 깔끔한 느낌입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "씻고 나서 당김 없어서 좋아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 행사할 때 싸게 구입해서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비도 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "581719",
+    "RawText": "기초 스킨케어를 OO제품으로 쓰고 있어서 세안제도 같이 쓰게 됐어요. 사용 후 얼굴 당김 없이 마무리 되어서 좋고 자극적이지 않아서 맘에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "81",
+    "Word": "21",
+    "RDate": "20220509",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "얼굴 당김 없이 마무리 되어서 좋고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "자극적이지 않아서 맘에 듭니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "581723",
+    "RawText": "제형이 부드럽고 가벼운 오일이라 피부에도 부담 없이 쓰고 있습니다. 세정력도 좋은 것 같고 다른 오일에 비해서 바를 때 발림이 무겁지 않고 가볍고 저렴한 가격의 오일은 바르면 무겁고 피부에 겉도는 느낌이라 싫었는데 이 제품은 품질이 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "135",
+    "Word": "35",
+    "RDate": "20220508",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 부드럽고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "가벼운 오일이라",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "세정력도 좋은 것 같고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "바를 때 발림이 무겁지 않고 가볍고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격의",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "581726",
+    "RawText": "오랫동안 쓰고 있는 제품이에요. 늘 느끼지만 피부가 깨끗해지는 느낌입니다. 지인 분께도 많이 홍보하고 있어요. 많은 제품을 사용해 보았지만 만족스러운 제품입니다. 사은품도 많이 포함되어 있어 좋은데, 제품 양도 좀 많으면 좋을 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "133",
+    "Word": "32",
+    "RDate": "20220507",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "피부가 깨끗해지는 느낌입니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품도 많이 포함되어 있어 좋은데, ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "제품 양도 좀 많으면 좋을 것 같아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "581756",
+    "RawText": "꾸준히 애용하는 제품입니다 순해서 데일리로 쓰기 좋네요. 이 제품만 사용하면 세정이 덜 되는 것 같아서 폼 클렌징으로 한번 더 세안 해주면 정말 개운한 느낌이 들어요. 계속 쓰고 싶은데 가격이 비싼감이 있어서 고민중이에요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "124",
+    "Word": "32",
+    "RDate": "20220502",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "순해서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "데일리로 쓰기 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "이 제품만 사용하면 세정이 덜 되는 것 같아서",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 비싼감이 있어서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "581764",
+    "RawText": "감사해요. 잘 받았네요. 향도 거의 없고 자극적이지 않아 항상 사용하는 클렌징 오일 제품이예요. 기획세트로 구성되었고 ○○○몰에서 할인까지 받아서 좋은 가격에 잘 구입하였네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "98",
+    "Word": "22",
+    "RDate": "20220501",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 거의 없고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "자극적이지 않아",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인까지 받아서 좋은 가격에 잘 구입하였네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "581772",
+    "RawText": "OOO 클렌징 오일은 처음 구매했어요. 세정력 좋고, 아이전용 리무버를 사용하지 않아도 하나면 충분합니다. 할인해서서 저렴한 가격에 잘 구매했어요. 양은 좀 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "93",
+    "Word": "21",
+    "RDate": "20220430",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "세정력 좋고,",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "아이전용 리무버를 사용하지 않아도 하나면 충분합니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인해서서 저렴한 가격에 잘 구매했어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "양은 좀 아쉽네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "581774",
+    "RawText": "점성이 부드럽고, 순하면서 오일의 끈적임 없이 께끗하게 클렌징 되는듯 하네요. 가격 대비 양이 좀 아쉽네요. 제품 사용기간이 좀 짧네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "19",
+    "RDate": "20220430",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "점성이 부드럽고, ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "순하면서 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "끈적임 없이 께끗하게 클렌징 되는듯 하네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "가격 대비 양이 좀 아쉽네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "제품 사용기간이 좀 짧네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "581781",
+    "RawText": "좋은 가격에 구매했네요. 오래 OO 클렌징 쓰는데 자극 없고 피부 화장이 깨끗하게 지워져서 좋습니다. 행사 가격에 포인트 써서 싸게 구매했습니다. 꾸준히 더 쓰면 효과가 좋아질 거라 기대합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "108",
+    "Word": "27",
+    "RDate": "20220429",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 가격에 구매했네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "자극 없고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "피부 화장이 깨끗하게 지워져서 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "행사 가격에 포인트 써서 싸게 구매했습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과가 좋아질 거라 기대합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "581791",
+    "RawText": "상품 품질이 좋아요. 마음에 들어서 딸이 이 제품만 사용하네요. 얼굴에 바르면 모공 안에 때나 나오는 기분이랍니다. 근데 눈 따가움 없이 순하고 잘 닦여서 이 제품을 사용합니다. 가격만 조금 더 저렴하면 좋겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "119",
+    "Word": "31",
+    "RDate": "20220427",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "상품 품질이 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "눈 따가움 없이",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "순하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "잘 닦여서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격만 조금 더 저렴하면 좋겠네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "얼굴에 바르면 모공 안에 때나 나오는 기분이랍니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "581809",
+    "RawText": "계절 바뀔 때 온도 습도 때문에 피부가 변합니다. 그래서 클렌징이 더 중요한 것 같습니다. OO 클렌징 제품은 피부에 순해서 자주 사용하게 되네요. 하루에 두 번 클렌징 해도 피부가 건조하거나 불편함이 안 느껴집니다.  피부가 약한 편인데 화장 진하게 하거나 약하게 했을 때 둘 다 세정도 잘되어서 이 제품만 사용한 지 오래됐습니다. 가격은 세일 안 할 때 사면 비쌉니다. 가격 할인을 자주 했으면 좋겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "229",
+    "Word": "62",
+    "RDate": "20220424",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "피부에 순해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "피부가 건조하거나 불편함이 안느껴집니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "세정도 잘되어서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 세일 안 할 때 사면 비쌉니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 할인을 자주 했으면 좋겠습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "581810",
+    "RawText": "몇 년 째 오래 쓰고 있는 제품입니다. 세정력도 괜찮고 순하고 제형이 오일리한데 사용감은 산뜻한 느낌이어서 좋아요. 대용량 버전도 나오는데 자주 나왔으면 좋겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "92",
+    "Word": "22",
+    "RDate": "20220424",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "세정력도 괜찮고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "순하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 오일리한데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "사용감",
+        "SentimentText": "사용감은 산뜻한 느낌이어서 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "대용량 버전도 나오는데 자주 나왔으면 좋겠습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "581832",
+    "RawText": "OO에서 가끔 최저가 수준으로 할인 할 때가 있어서 아주 싸게 샀습니다. 향도 좋고 가벼운 사용감이라 기분이 좋습니다. 효과 기대해보겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "19",
+    "RDate": "20220421",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "최저가 수준으로 할인 할 때가 있어서 아주 싸게 샀습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용감",
+        "SentimentText": "가벼운 사용감이라 기분이 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과 기대해보겠습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "581834",
+    "RawText": "사은품으로 받아서 써보고 좋아서 본품 사게 되었는데 사은품 많이 주셔서 좋습니다. 세정력도 좋고 사용하기 편합니다. 이전에는 화장 솜에 묻혀서 지우는 거 썼는데 오일은 짜서 하면 되니 편합니다. 효과 기대해보겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "121",
+    "Word": "29",
+    "RDate": "20220421",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품 많이 주셔서 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "세정력도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기 편합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "오일은 짜서 하면 되니 편합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과 기대해보겠습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "581839",
+    "RawText": "세일 기간에 저렴하게 샀습니다. 사은품도 들어 있고 순하고 피부가 촉촉해져서 좋네요. 아내가 써보고 좋다고 하셔서 구입했습니다. 자주 써서 좋은 효과를 맛보고 싶습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "94",
+    "Word": "22",
+    "RDate": "20220420",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "세일 기간에 저렴하게 샀습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품도 들어 있고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "순하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "피부가 촉촉해져서 좋네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "좋은 효과를 맛보고 싶습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "581848",
+    "RawText": "사용해서 받자마자 바로 하나 더 구매했습니다. 클렌징 오일 중 최고입니다. OO오일로 1차 세안 후 OO폼클렌징으로 세안하면 깔끔하네요. 샘플까지 와서 좋습니다. 가격만 조금 더 내려갔으면 하는 바람입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "115",
+    "Word": "26",
+    "RDate": "20220419",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "샘플까지 와서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격만 조금 더 내려갔으면 하는 바람입니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "581855",
+    "RawText": "너무 마음에 들어 추천해요. 유일하게 트러블 안 생기는 클렌징 오일입니다. 블랙 헤드 화이트 헤드 싹 빼주고 메이크업 클렌징은 기본입니다. 세안 후 끈적이지 않아서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "97",
+    "Word": "24",
+    "RDate": "20220418",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "트러블 안 생기는 클렌징 오일입니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "블랙 헤드 화이트 헤드 싹 빼주고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "세안 후 끈적이지 않아서 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "581867",
+    "RawText": "또 구매했어요. 양도 진짜 많고 세정력도 좋고 ㅇㅇㅇ 보다 더 좋습니다. 샘플도 많이 보내주셨습니다. 가격대비 이만한 품질의 제품이 없네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "19",
+    "RDate": "20220416",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량",
+        "SentimentText": "양도 진짜 많고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "세정력도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "샘플도 많이 보내주셨습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격대비 이만한 품질의 제품이 없네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "581886",
+    "RawText": "미끌거리지 않고 티슈로 닦고 물로 헹구니 보송해서 좋습니다. 휴지로 닦는 게 피부에 자극 생기고 불편하긴 하지만 물로도 마무리가 잘 되어서 좋습니다. 좋은 효과 기대해봅니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "97",
+    "Word": "24",
+    "RDate": "20220416",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "미끌거리지 않고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "보송해서 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "좋은 효과 기대해봅니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "581929",
+    "RawText": "OO 클렌징 오일 깨끗하고 촉촉하게 클렌징됩니다. 피부 자극도 없고 부드럽게 롤링하고 세안 하니 사용감이 개운하네요. 좋은 효과 기대중입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "18",
+    "RDate": "20220413",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하게 클렌징됩니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "피부 자극도 없고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용감",
+        "SentimentText": "사용감이 개운하네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "좋은 효과 기대중입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "581949",
+    "RawText": "트러블도 없고 유분기도 많이 없고 눈에 자극도 없고 괜찮은 것 같습니다. 같이 온 샘플들도 좋습니다. 효과 기대해봅니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "17",
+    "RDate": "20220411",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "트러블도 없고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "유분기도 많이 없고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "눈에 자극도 없고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "같이 온 샘플들도 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과 기대해봅니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "581956",
+    "RawText": "그동안 사용한 클렌징오일 중에 최고입니다. 잘 닦이고 발림성이 부드럽고 촉촉합니다. 단지 용량이 작아서 아쉽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "14",
+    "RDate": "20220410",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "잘 닦이고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성이 부드럽고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉합니다.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "용량이 작아서 아쉽습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "581967",
+    "RawText": "두 번째 구매입니다. 오일 클렌징 치고는 사용감이 답답합니다. 단점은 그렇게 잘 지워지지 않습니다. 눈 화장은 아이 전용 제품으로 사용하는 게 좋겠습니다. 눈 화장이 잘 안 지워집니다. 그래도 겨울에 사용하기는 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "123",
+    "Word": "30",
+    "RDate": "20220408",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사용감",
+        "SentimentText": "사용감이 답답합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "잘 지워지지 않습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "눈 화장이 잘 안 지워집니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "겨울에 사용하기는 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "581970",
+    "RawText": "OOO순행클렌징 오일 순하고 좋네요. 메이크업도 잘 세정되고 선크림 바르는 아들 세안제로도 사용하는데 씻고 난후 얼굴도 부드럽고 자극도 없어서 좋네요.이번 구성은 60ml 추가라서 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "105",
+    "Word": "23",
+    "RDate": "20220408",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "순하고 좋네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "메이크업도 잘 세정되고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "얼굴도 부드럽고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "자극도 없어서 좋네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "이번 구성은 60ml 추가라서 좋아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "581989",
+    "RawText": "ㅇㅇㅇ 클렌징 오일과 클렌징 폼을 쓰고 있습니다. 예민한 제 피부에도 순하게 잘 맞고, 세정력도 좋아서 마음에 쏙 들어요. 한방 향도 강하지 않고. 세안 후에 향이 금방 사라져서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "105",
+    "Word": "28",
+    "RDate": "20220405",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "예민한 제 피부에도 순하게 잘 맞고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "세정력도 좋아서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "한방 향도 강하지 않고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "세안 후에 향이 금방 사라져서 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "581995",
+    "RawText": "꾸준히 사용하고 있어요.  클렌징 오일 다양하게 사용해 봤는데 ㅇㅇㅇ 클렌징 오일이 세정력도 우수하고 피부 트러블 없어서 피부에 잘 맞습니다. 코피지 제거에 좋습니다. 한방 향을 좋아하지 않지만, 잘 사용하고 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "122",
+    "Word": "29",
+    "RDate": "20220404",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "세정력도 우수하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": " 피부 트러블 없어서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "피부에 잘 맞습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "한방 향을 좋아하지 않지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "코피지 제거에 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "581997",
+    "RawText": "클렌징폼만 쓰다가 클렌징폼이 좋아서 오일 찾아보니 오일도 자극없이 순하다고 해서 폼과 같이 쓰려고 구매했네요 오일을 사용해 보니 자극없이 잘 닦입니다 순하고 좋은것 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "95",
+    "Word": "23",
+    "RDate": "20220403",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "자극없이 잘 닦입니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "잘 닦입니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "순하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "582015",
+    "RawText": "같이 구매한 다른 제품은 잘 왔는데 이 제품은 구성품이 용기 불량으로 내용물이 다 새서 왔네요. 제대로 검수를 하긴 하는지 의심스럽습니다. 다른 물건에도 여기저기 묻고 다 새는 바람에 용기 안에 남은 내용물이 별로 없었습니다. 가격도 좀 나가는 제품인데 이런 식이라니요. 품질이 실망스러워요. 배송 전에 확인 잘 해주세요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "1",
+    "Syllable": "180",
+    "Word": "46",
+    "RDate": "20220330",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기 불량으로",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 좀 나가는 제품인데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 실망스러워요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "582025",
+    "RawText": "화장은 지우는 것이 중요합니다. 피부에 자극이 없고 화장품 잔여물이 남지 않는 게 중요한데 이 제품은 가격도 적당하고 피부에 자극을 최소로 해서 순합니다. 따로 아이 리무버를 쓰지 않아도 마스카라까지 잘 지워져서 좋습니다. 다만 제형은 가벼워 제 스타일은 아닙니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "148",
+    "Word": "37",
+    "RDate": "20220328",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 적당하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "피부에 자극을 최소로 해서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "순합니다.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "마스카라까지 잘 지워져서 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형은 가벼워 제 스타일은 아닙니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "582041",
+    "RawText": "○○○ 쓰다가 적당한것 찾아보다 사게 되었네요 리뷰가 좋아서 구매해봤는데 향이 강하네요. 그것 빼고는 다 좋습니다. 발림성 좋고 잘 지워집니다 재구매의사 있네요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "89",
+    "Word": "21",
+    "RDate": "20220321",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 강하네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "잘 지워집니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "582055",
+    "RawText": "늘 잘 쓰는 제품입니다. 순해서 좋습니다. 어떤 피부 타입이든 괜찮아서 사용하셔도 좋습니다. 온 가족이 같이 사용하기에 좋습니다. 화장도 잘 지워 집니다. 유화작업 할 때 하얘집니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "102",
+    "Word": "25",
+    "RDate": "20220315",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "순해서 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "어떤 피부 타입이든 괜찮아서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "온 가족이 같이 사용하기에 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "화장도 잘 지워 집니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "582057",
+    "RawText": "타 제품 사용하다가 지인 추천으로 갈아 탔는데 순하고 세정력이 좋습니다. 당김도 없어서 좋습니다. ㅇㅇㅇ 클렌징 추천합니다. 한방 향이 있지만 심하지는 않아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "89",
+    "Word": "21",
+    "RDate": "20220315",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "순하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "세정력이 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "당김도 없어서 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "한방 향이 있지만 심하지는 않아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "582060",
+    "RawText": "사용하던 제품인데 저렴하게 구매했네요. 유통기한도 길고 샘플도 있어서 만족했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "46",
+    "Word": "9",
+    "RDate": "20220312",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구매했네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한도 길고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "샘플도 있어서 만족했습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "582063",
+    "RawText": "향도 좋고 세정력도 좋네요. 잘 사용하고 있어요. 재 구매 의사도 있어요. 제품 구성 중 작은 것도 있어서 여행 갈 때 가져가기도 좋습니다. 구성도 마음에 들어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "91",
+    "Word": "25",
+    "RDate": "20220312",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "세정력도 좋네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "제품 구성 중 작은 것도 있어서 여행 갈 때 가져가기도 좋습니다",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "여행 갈 때 가져가기도 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성도 마음에 들어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "582089",
+    "RawText": "배송 잘 받았어요. 매번 사용하는 클렌징 오일 입니다. 수분 부족 건성이라 클렌징하고 나면 당기는데 ㅇㅇㅇ 은 순하면서 당김없이 촉촉합니다. 깔끔한 세정력에 만족하고 있습니다. 계속 구매하게 됩니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "111",
+    "Word": "26",
+    "RDate": "20220305",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "피부타입",
+        "SentimentText": "수분 부족 건성이라 클렌징하고 나면 당기는데 ㅇㅇㅇ 은 순하면서 당김없이 촉촉합니다.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "순하면서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "당김없이 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉합니다.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "깔끔한 세정력에 만족하고 있습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "582090",
+    "RawText": "지인에게 선물했는데 마음에 든다고 합니다. 가격도 저렴하게 잘 사서 좋습니다. ㅇㅇㅇ라  믿음이 갔는데 품질이 좋습니다. 화장품은 우리나라 제품이 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "86",
+    "Word": "19",
+    "RDate": "20220305",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하게 잘 사서 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "582098",
+    "RawText": "친구꺼 사용해 보고 좋아서 구매해서 사용합니다. 화이트 헤드 제거에 효과가 좋습니다. 전에는 한방 냄새 심했던 것 같은데, 향도 좋아졌어요. 가격이 저렴해지면 다시 구매하려고 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "102",
+    "Word": "24",
+    "RDate": "20220304",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "화이트 헤드 제거에 효과가 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 좋아졌어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴해지면",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "582105",
+    "RawText": "자극없이 순하고 세정이 잘 됩니다. 티슈로 닦지 않고 가볍게 문지른 후 물로 세안하면 되니 간편하게 잘 사용하고 있답니다. 오일이라 미끈거리는 잔여감은 남으니 가벼운 세안제로 2차 세안하면 더 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "112",
+    "Word": "28",
+    "RDate": "20220303",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "자극없이",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "순하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "세정이 잘 됩니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "간편하게 잘 사용하고 있답니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "오일이라 미끈거리는 잔여감은 남으니",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "582111",
+    "RawText": "매번 사용하는 제품입니다. 제형이 오일이다 보니 여러 번 씻는 게 귀찮아서 사용하기 힘들긴 해요. 하지만 씻고 나면 뽀득뽀득 개운해요. 블랙헤드가 제거 되는 것 같습니다.  여기서 사는 게 가격이 저렴하고 샘플도 다양해서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "131",
+    "Word": "32",
+    "RDate": "20220302",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 오일이다 보니 여러 번 씻는 게 귀찮아서 사용하기 힘들긴 해요",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "씻고 나면 뽀득뽀득 개운해요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "블랙헤드가 제거 되는 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "샘플도 다양해서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "582115",
+    "RawText": "타 클렌징 오일은 사용 시 눈이 따가워서 세안시 눈을 뜰 수가 없었는데. ㅇㅇㅇ클렌징은 향도 순하고 좋아요. 자극적이지 않아서 계속 사용하고 있어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "83",
+    "Word": "21",
+    "RDate": "20220301",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 순하고 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "자극적이지 않아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "582138",
+    "RawText": "ㅇㅇㅇ클렌징 오일 사용 후 타 제품 안 써요.  세안 후 미끈거림도 없고 잘 닦이고 좋습니다. 향은 제 취향이 아니지만 다른 건 좋은 것 같습니다..",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "83",
+    "Word": "24",
+    "RDate": "20220225",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "미끈거림도 없고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향은 제 취향이 아니지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "잘 닦이고 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "582141",
+    "RawText": "세정력도 좋고 냄새도 은은하니 좋습니다. OO 제품은 역시 믿을 수 있네요. 계속 사용하고 싶은 제품입니다. 가격도 OOO쇼핑이 제일 착하고 샘플도 많이 보내주셔서 매장에 사러 갈 필요가 없어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "109",
+    "Word": "27",
+    "RDate": "20220223",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "세정력도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "냄새도 은은하니 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 OOO쇼핑이 제일 착하고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "샘플도 많이 보내주셔서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "582150",
+    "RawText": "구성품도 좋고 만족스러운 제품이에요. 용량도 오래 쓰고 향도 은은해서 부담 없어요. 세정력도 좋고 당김 없습니다. OO 제품들로 함께 사용하고 있는데 다 좋아요. 샘플도 좋은 제품들이라 구매에 도움이 되네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "116",
+    "Word": "28",
+    "RDate": "20220222",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성품도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "용량도 오래 쓰고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 은은해서 부담 없어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "세정력도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "당김 없습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "샘플도 좋은 제품들이라",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "582152",
+    "RawText": "저렴하게 구입 했습니다. 샘플도 많고 휴대하기 적당합니다. 향은 좋아하는 향은 아니지만 순한 느낌이 들면서 바를 때 부드러워요.  처음 사용 할 때 부드러워서 안 닦아지는 거 아닌가 걱정 했는데 잘 씻어지고 좋은 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "126",
+    "Word": "33",
+    "RDate": "20220222",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구입 했습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "샘플도 많고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "휴대하기 적당합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "좋아하는 향은 아니지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "순한 느낌이 들면서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "바를 때 부드러워요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "잘 씻어지고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "582158",
+    "RawText": "수년간 ○○ 클렌징 오일을 사용하다가 최근 구매가 어려워져서 대체 상품으로 구매해 보았어요. 오일 제형도 과하게 끈적이지 않고 피부에 자극적이지 않은 제품이네요. 한방 향이 느껴지지만 사용하는데 불편함은 없네요. 하지만 향이  제 취향은 아니네요. ",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "139",
+    "Word": "32",
+    "RDate": "20220219",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "오일 제형도 과하게 끈적이지 않고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "피부에 자극적이지 않은 제품이네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "한방 향이 느껴지지만 사용하는데 불편함은 없네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이  제 취향은 아니네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "582159",
+    "RawText": "제일 좋아하는 클렌징오일이에요. 세정력도 좋고 순해서 피부에 부담이 없습니다. 몇 년째 쓸 정도로 만족이 커요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "15",
+    "RDate": "20220219",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "세정력도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "순해서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "피부에 부담이 없습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "582163",
+    "RawText": "너무 좋습니다. 오일을 잘 헹구고 클렌징폼으로 세안하면 촉촉함이 오래 유지됩니다. 살 때마다 잘 쓰는 제품이에요. 너무 만족해서 꾸준히 사용합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "82",
+    "Word": "19",
+    "RDate": "20220218",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉함이 오래 유지됩니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "오래 유지됩니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "582202",
+    "RawText": "눈에 자극 없고, 메이크업 세정력도 좋은 편이에요. 다만 블랙헤드 제거가 잘 안되는 듯합니다. 고정적으로 쓰던 클렌징 오일이 있었는데, 판매하지 않아서 클렌징 오일 바꿔볼 써봤어요. 그런데 클렌징 기능이 아쉽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 순** 클렌징오일 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "120",
+    "Word": "28",
+    "RDate": "20220208",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "눈에 자극 없고,",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "메이크업 세정력도 좋은 편이에요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "블랙헤드 제거가 잘 안되는 듯합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "클렌징 기능이 아쉽습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  }
+]

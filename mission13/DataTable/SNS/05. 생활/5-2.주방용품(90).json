@@ -1,0 +1,5442 @@
+[
+  {
+    "Index": "1034416",
+    "RawText": "친구 집들이선물 뭘 살까? 했는데 친구가 OO 통스텐 키친툴 7종을 사달라고 하더라구요^^  쿠폰으로 할인 받아서 싸게 구매했고 다른 용품과 함께 선물했어요ㅋ  심플한  디자인이  멋스러워 보이네요. 제품별 무게는 다르지만 적당한 무게감이 있어 튼튼하고 그립감이 좋아서 요리하기 편하다네요. 디자인이 일체형이라  손잡이까지  가열 될까 걱정했는데 괜찮다고 하네요 .근데 마감이 좋지 않아 끝이 날카로워  팬이 벗겨질까 조심한다고 .....  주방에 걸어두니  디자인이 깔끔해서 주방이 환해지니  요리하고 싶어 진다고 하네요 ㅋㅋ ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 7종 스텐 조리도구 세트",
+    "Syllable": "296",
+    "Word": "65",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰으로 할인 받아서 싸게 구매했고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "심플한  디자인이  멋스러워 보이네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "적당한 무게감이 있어 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "그립감",
+        "SentimentText": "그립감이 좋아서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 일체형이라  ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "열전도성",
+        "SentimentText": "손잡이까지  가열 될까 걱정했는데 괜찮다고 하네요 .",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "마감이 좋지 않아 끝이 날카로워  팬이 벗겨질까 조심한다고 .....",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 깔끔해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "요리하기 편하다네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1034417",
+    "RawText": "백화점에서 보고 너무 디자인이 고급져 보여서 집에 와서 주문했어요  OO 통스텐 키친툴 7종입니당 ^^~  백화점에서 보다 가격을 저렴하게 구입할수 있어 무엇보다 좋았어요 ㅋㅋ 딱 원하는 디자인이라  좋고  적당한  무게감도 있어 좋네요. 통스텐이라 음식물이 끼임이 없어 무엇보다 좋았어요.식기세척기도 사용가능하니 좋구요 ㅋㅋ 근데  각진 곳 몇 군데가  까칠하네요 마감이 살짝 아쉬워요 ㅠㅠ....  주방이 깔끔해  보여서  너무 좋아요~ 요리할 맛이 나네요  주방 분위기 한번  바꿔 보세요 ^^~ ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 7종 스텐 조리도구 세트",
+    "Syllable": "281",
+    "Word": "64",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 고급져 보여서 집에 와서 주문했어요 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "백화점에서 보다 가격을 저렴하게 구입할수 있어 무엇보다 좋았어요 ㅋㅋ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 딱 원하는 디자인이라  좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": " 적당한  무게감도 있어 좋네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "통스텐이라 음식물이 끼임이 없어 무엇보다 좋았어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "식기세척기도 사용가능하니 좋구요 ㅋㅋ ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "각진 곳 몇 군데가  까칠하네요 마감이 살짝 아쉬워요 ㅠㅠ....",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1034418",
+    "RawText": "이사하면서 주방용품을 다시 구입하면서 주방도구들도 모두 교체했어요ㅋㅋ  OO통스텐 키친툴 7종입니당 ^^~  크기가 좀 큰 것 같아 좀 고민했는데 오히려  큼직큼직해서  쓸때 속 편했어요 ㅎ 디자인도 심플하면서 예쁘네요.  꼭 필요한 것들로  다양하게 구성되어 있어서  좋았어요~~ 식용류로 깨끗이 잘 닦아  쓰고 있어요!! 그런데  걸이대  밑부분에 녹이 슬어 있더라구요 ㅠㅠ 검수 좀 잘해서 보내주시지 ...마감이 조금 별로 인 것 같네요..  어쨌든 주방이 더 환해져 보여서 좋아요 강추합니다 ^^~",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 7종 스텐 조리도구 세트",
+    "Syllable": "282",
+    "Word": "65",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "크기가 좀 큰 것 같아 좀 고민했는데 오히려 큼직큼직해서  쓸때 속 편했어요 ㅎ",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 심플하면서 예쁘네요.  ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "꼭 필요한 것들로  다양하게 구성되어 있어서  좋았어요~~ ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "걸이대  밑부분에 녹이 슬어 있더라구요 ㅠㅠ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "마감이 조금 별로 인 것 같네요..",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1034419",
+    "RawText": "친구집에 놀러갔다가 보고 디자인이 너무 예뻐서 집에 와서 저도 바로 구입했어요. OO 통스텐 키친툴 7종입니당^^~  부엌에서 주로 사용하는 조리도구들로 구성되어 있어 마음에 들었고 디자인이 너무 예쁘네요. 인테리어 효과도 짱이예요~~ 친구집에서 요리보다 도구가 더 눈에 들어오더라구요 ㅋㅋ  크기가 큼직해서 튼튼하게 보이고 그립감도 좋아요. 구성도 좋아서 여러 용도로 사용하고 있어요. 가격도 저렴해서 선물하기도 좋을 듯요!ㅋㅋ  엄마도 예쁘다하시길래 선물해  드렸어요 ㅋㅋ  ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 7종 스텐 조리도구 세트",
+    "Syllable": "268",
+    "Word": "58",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 너무 예뻐서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "부엌에서 주로 사용하는 조리도구들로 구성되어 있어 마음에 들었고",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 디자인이 너무 예쁘네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "크기가 큼직해서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하게 보이고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "그립감",
+        "SentimentText": "그립감도 좋아요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성도 좋아서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여러 용도로 사용하고 있어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴해서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "예쁘다하시길래 선물해  드렸어요 ㅋㅋ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1034454",
+    "RawText": "몇개 구매해서 여러가지 잡곡을 나눠 담아놓으니 보기에도 좋고 사용하기도 편합니다   항상 쌀봉투째 놓고 먹는데 친구가 좋다며 권해서 사봤습니다. 정리함으로는 만족합니다. 사 길 잘한 거 같네요. 보관하기에 크기도 적당하고 괜찮은거 같고 완전 싼가격에 잘샀어요~ 튼 튼하고 밀폐도 잘 돼요 역시 OO이라 믿을수 있네요 무엇보다 뚜껑이 있으니 벌 레가 들어갈 일이 없어서 편하고 좋습니다 바퀴가 달려 있어서 옮기기도 쉽네요  용기가 투명해서 내용물도 한눈에 보이고 사용해보시면 아주 만족하실 겁니다",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 밀폐 보관 용기 10kg",
+    "Syllable": "276",
+    "Word": "66",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 사용하기도 편합니다 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "정리성/수납력",
+        "SentimentText": "정리함으로는 만족합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "보관하기에 크기도 적당하고 괜찮은거 같고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "완전 싼가격에 잘샀어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "밀폐도 잘 돼요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 뚜껑이 있으니 벌레가 들어갈 일이 없어서 편하고 좋습니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "바퀴가 달려 있어서 옮기기도 쉽네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "용기가 투명해서 내용물도 한눈에 보이고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1034455",
+    "RawText": "밥맛도 좋고 누룽지도 가끔 만들어지는데 아주 구수하고 맛있습니다   쭉  OO꺼 사용하고 있었는데 인덕션으로 바꾸면서 인덕션용이라서 새로 샀어요 고민하다 4인용 샀는데 좀 작은 느낌이네요 가격대는 다른 제품보다 좀 있었지만 할인받아 서 저렴하게 잘 샀어요 대신 무겁다는 단점이 있습니다~ 손목이 조금 아프네요  압력밥솥 쓰니 이제 전기밥솥은 못 쓰겠더라구요 밥맛의 차이가 많이 나거든요 써보고 좋아 서 엄마 생신 선물로 구매해 드렸습니다 견고하고 튼튼하거든요   깔끔한 디자인에 밥맛이 아주 좋은 믿고 사용할 수 있는 밥솥이라 추천합니다",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 압력 밥솥 9종 2인용 ~ 50인용",
+    "Syllable": "300",
+    "Word": "71",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "인덕션용이라서 새로 샀어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": " 4인용 샀는데 좀 작은 느낌이네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대는 다른 제품보다 좀 있었지만 할인받아서 저렴하게 잘 샀어요 ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무겁다는 단점이 있습니다~손목이 조금 아프네요 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "밥맛의 차이가 많이 나거든요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": " 견고하고 튼튼하거든요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "깔끔한 디자인에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": " 밥맛이 아주 좋은 믿고 사용할 수 있는 밥솥이라",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "밥맛도 좋고 누룽지도 가끔 만들어지는데 아주 구수하고 맛있습니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1034456",
+    "RawText": "독립을 준비하는데  여기저기 찾아보다 주방용품은  OOO IH  후라이팬세트를 구입했네요 ^^~  심플한 디자인도 맘에 들고 필요한  것들로만 구성되어  있어서 좋았어요. 기스가 잘 나지 않고  코팅도  좋아  잘 달라붙지 않아서 사용감도 좋았어요 . 손잡이 소재는 우드라 예쁜데  가스렌지 사용시에는 손잡이가 타서 위험할 수 있으니  불조절  조심해서 사용해야겠어요.  그런데  무게가 있어서 손목에 무리가 있네요 ....또 손잡이 색은 화면과 왜 다를까요? 불량은 아니라고 하지만 ㅠㅠ  냄비가 예뻐서 주방은 깔끔하고 산뜻해보여요^^",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 오** IH  프라이팬 6종세트 ",
+    "Syllable": "300",
+    "Word": "66",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "심플한 디자인도 맘에 들고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "필요한  것들로만 구성되어  있어서 좋았어요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "기스가 잘 나지 않고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅도  좋아  잘 달라붙지 않아서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용감도 좋았어요 . ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "손잡이 소재는 우드라 예쁜데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "가스렌지 사용시에는 손잡이가 타서 위험할 수 있으니  불조절  조심해서 사용해야겠어요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게가 있어서 손목에 무리가 있네요 ....",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "손잡이 색은 화면과 왜 다를까요? 불량은 아니라고 하지만 ㅠㅠ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "냄비가 예뻐서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1034671",
+    "RawText": "안녕하세요!! 오늘은 제가 너무 예쁜 조리도구 세트 소개해드리겠습니다~  요리하다보면 이 도구 저 도구 종류별로 조리도구가 필요하잖아요~ 그래서 조리도구 세트를 구매하게 되었어요. 실리콘이라고 하면 비싸다고 생각할 수 있겠지만 이 제품은 아닙니다. 저렴하게 구매했어요. 잘 산 것 같아요. 이 제품 받아서 베이킹소다로 소독하고 사용중입니다.손잡이가 우드라서 좋기도 하고 튼튼해요. 실리콘 부분은 열탕소독이 되서 소재가 마음에 들고요. 열탕소독 되니까 위생적으로 쓸 수 있어요.   조리도구도 기왕이면 예쁜걸로 사용하세요~^^",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 우드핸들 실리콘 키친툴세트 8P",
+    "Syllable": "293",
+    "Word": "63",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "너무 예쁜 조리도구 세트 소개해드리겠습니다~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "실리콘이라고 하면 비싸다고 생각할 수 있겠지만 이 제품은 아닙니다. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구매했어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "손잡이가 우드라서 좋기도 하고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": " 튼튼해요. ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "실리콘 부분은 열탕소독이 되서 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재가 마음에 들고요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "열탕소독 되니까 위생적으로 쓸 수 있어요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "조리도구도 기왕이면 예쁜걸로 사용하세요~^^",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1034676",
+    "RawText": "요즘 실리콘이 대세죠?? 실리콘으로 된 조리도구 많이들 사용하고 계시잖아요~그래서 저도 사 본 실리콘 키친툴세트 소개해드리려고 합니다.  일단, 부담없는 가격으로 구매할 수 있어요. 깨끗하게 씻어서 사용중입니다. 구성이 좋아서 활용도가 높네요. 제육볶음이나 김치볶음 같은거 할 때 양념이 묻어도 잘 씻겨내려가고 좋네요!! 주의하실 점이 있어요!! 식기세척기에는 사용하시면 안됩니다~ 식기세척기에 넣으시면 손잡이 부분이 망가질 수가 있어요.   이 점만 주의하시면 다른건 만족하시면서 사용하실 수 있을 겁니다~^^",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 우드핸들 실리콘 키친툴세트 8P",
+    "Syllable": "286",
+    "Word": "61",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "일단, 부담없는 가격으로 구매할 수 있어요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성이 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "활용도가 높네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "제육볶음이나 김치볶음 같은거 할 때 양념이 묻어도 잘 씻겨내려가고 좋네요!!",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "식기세척기에는 사용하시면 안됩니다~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1034679",
+    "RawText": "날씨가 엄청 추워졌어요! 이제는 집밥의 계절입니다~~^^ 제가 잘 쓰고 있는 제품 소개해드릴께요~  저는 뭔가를 살 때에 많은 검색과 고민을 하는 편입니다. 그래서 제 포스팅은 믿으셔도 됩니다!!^^ 플라스틱은 뜨거운 제품에 사용하기가 불안하잖아요. 스텐인레스 제품은 후라이팬을 긁을수도 있으니 불편하구요~ 그래서 저는 실리콘을 선택했습니다. 이 제품은 구성이 무척 다양해서 좋아요. 크기도 적당해서 쓰기가 좋구요. 무게도 적당합니다. 색상도 모던해서 마음에 듭니다.  다른 소재 조리도구 사용하셨다면 이제는 바꿔보세요~ ^^",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 우드핸들 실리콘 키친툴세트 8P",
+    "Syllable": "294",
+    "Word": "64",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "이 제품은 구성이 무척 다양해서 좋아요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "크기도 적당해서 쓰기가 좋구요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게도 적당합니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": " 색상도 모던해서 마음에 듭니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "제가 잘 쓰고 있는 제품 소개해드릴께요~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1034683",
+    "RawText": "안녕하세요~ 조리도구 소개해드릴께요~  이 제품은 손잡이 부분은 나무이고 요리하는 부분은 실리콘이예요. 요리할 때 후라이팬 닿는 부분이 실리콘이라서 긁힐 걱정 없이 잘 쓰고 있습니다. 평소 핑크색 좋아해서 핑크색으로 샀느데 색감이 예쁘네요. 딸기우유 색깔 같아서 볼 때마다 기분이 좋아져요. 이 가격에 실리콘 키친툴세트라니 득템한것 같아요. 크기도 작을 줄 알았는데 딱 적당해요. 구성이 필요한 것만 알차게 있어서 쓰기가 좋네요.  너무너무 맘에 드는 키친툴세트 함께 사용해보세용~^^",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 우드핸들 실리콘 키친툴세트 8P",
+    "Syllable": "271",
+    "Word": "62",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "요리할 때 후라이팬 닿는 부분이 실리콘이라서 긁힐 걱정 없이 잘 쓰고 있습니다. ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "평소 핑크색 좋아해서 핑크색으로 샀느데 색감이 예쁘네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": " 딸기우유 색깔 같아서 볼 때마다 기분이 좋아져요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "이 가격에 실리콘 키친툴세트라니 득템한것 같아요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "크기도 작을 줄 알았는데 딱 적당해요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성이 필요한 것만 알차게 있어서 쓰기가 좋네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1034687",
+    "RawText": "여러분~ 어떤 조리도구로 요리 하시나요? 그냥 지나가다가 샀던 그런 것들로 깔맞춤 안되어 있는 도구들로 요리 하시나요? 기분전환 겸 조리도구 바꿔보시라고 소개해드리고 싶은 게 있어서 포스팅 합니다~  모던한 컬러감이 마음에 드는 조리도구 입니다. 구성도 알차서 만족하며 쓰고 있습니다. 색깔 너무 예쁘구요~ 그립감도 좋아요. 생각했던 것보다 튼튼해서 오래 쓸 수 있을 것 같아요. 사실 가격이 싸서 품질은 기대 안했는데 생각했던 것 이상입니다.  고민하고 계시다면 선택할만 합니다~추천 꾸욱~!!^^",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 우드핸들 실리콘 키친툴세트 8P",
+    "Syllable": "279",
+    "Word": "65",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "모던한 컬러감이 마음에 드는 조리도구 입니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성도 알차서 만족하며 쓰고 있습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색깔 너무 예쁘구요~ ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "그립감",
+        "SentimentText": "그립감도 좋아요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "생각했던 것보다 튼튼해서 오래 쓸 수 있을 것 같아요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 싸서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질은 기대 안했는데 생각했던 것 이상입니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1034690",
+    "RawText": "기존에 플라스틱 그릇을 썼었는데 환경호르몬 걱정이 되서 고민하다가 유리로 바꿔야지 생각했어요. 검색을 하다가 밥그릇 모양 도자기 제품을 발견해서 바로 주문하게 되었답니다.  밥해서 그릇에 넣어 냉동고에 넣어뒀다가 꺼내서 바로 전자레인지에 데워서 먹는데요. 그릇 모양이 밥그릇 모양 그대로라서 그대로 식탁에 올려두니 예뻐요. 그리고 무엇보다도 엄청 간편합니다. 정말 완전 대만족이예요. 내구성 좋은 실리콘뚜껑도 마음에 들어요. 뚜껑 디자인도 예쁘구요.   플라스틱 그릇 쓰고 계시다면 이번에 바꿔보세요~~^^",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 바** 도자기 밥용기 2개세트 ",
+    "Syllable": "283",
+    "Word": "61",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "그릇 모양이 밥그릇 모양 그대로라서 그대로 식탁에 올려두니 예뻐요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "무엇보다도 엄청 간편합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "내구성 좋은 실리콘뚜껑도 마음에 들어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "뚜껑 디자인도 예쁘구요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1034693",
+    "RawText": "저처럼 밥그릇 용기 찾던 분 계신가요? 그렇다면 여기 주목해주세요! 제가 아주 기막힌 밥그릇 용기 소개해드릴께요~  예전에 플라스틱 용기를 선물로 받은게 있어서 그걸 쓰고 있었는데 뭔가 그..찜찜한 느낌 있잖아요~ 자꾸 그릇 안쪽에 기스도 나는 것 같구 그 안으로 세제도 스며 들어있을 것 같고~ 그래서 너무너무 바꾸고 싶었거든요. 그래서 찾다가 발견한 제품이예요. 싸이즈 한끼 먹기 딱 좋구요. 데워서 뚜껑 열어서 그대로 식탁에 올리면 되니 편해요. 디자인 너무 마음에 들어요. 도자기 소재도 마음에 들구요.  냉동 보관했다가 드실 밥 그릇 용기 찾으신다면 이거예요!!",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 바** 도자기 밥용기 2개세트 ",
+    "Syllable": "319",
+    "Word": "79",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "싸이즈 한끼 먹기 딱 좋구요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "데워서 뚜껑 열어서 그대로 식탁에 올리면 되니 편해요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 너무 마음에 들어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "도자기 소재도 마음에 들구요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "냉동 보관했다가 드실 밥 그릇 용기 찾으신다면 이거예요!!",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1034696",
+    "RawText": "요즘에 집에서 밥 자주 드시나요? 퇴근하고 집에 오면 한끼 먹고 말텐데..그때마다 밥 해 먹을순 없잖아요~ 그래서 저도 밥을 해서 얼려놨다가 꺼내 먹는데요~ 그때! 딱인 제품 소개해드릴께요~  플라스틱 용기도 써보고 유리 용기도 써봤는데요~ 식탁에 올려놨을 때 밥그릇이 아니다 보니 대충 차려놓은 느낌이 있었어요. 그런데 이 제품은 그렇지 않더라구요~ 그냥 밥그릇에 밥 떠서 먹는 거랑 똑같아서 소재도 마음에 들고, 디자인도 마음에 들었어요. 뚜껑 색깔도 예뻐요.   안 써보신 분들은 써보시면 만족하실 꺼예요~ 추천드립니다!  ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 바** 도자기 밥용기 2개세트 ",
+    "Syllable": "296",
+    "Word": "70",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "저도 밥을 해서 얼려놨다가 꺼내 먹는데요~ 그때! 딱인 제품 소개해드릴께요~",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "그냥 밥그릇에 밥 떠서 먹는 거랑 똑같아서 소재도 마음에 들고, ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 마음에 들었어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "뚜껑 색깔도 예뻐요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1034700",
+    "RawText": "좋은 소재의 냉동보관용 밥 담는 용기 찾으신다면 이거예요! 소개해드릴께요~~  도자기 소재이니 안심하고 사용할 수 있어요. 유리 용기만 사용했었는데 밥 먹으려고 식탁에 올려놓으면 반찬용기에 밥 담은 것처럼 약간 어색했는데, 이건 아닙니다. 도자기 소재라서 진짜 밥 그릇이랑 같으니 좋아요. 사이즈도 딱 마음에 들구요. 남자분은 큰 사이즈, 여자분은 중간이나 작은 사이즈 괜찮아요~ 뚜껑은 실리콘인데 부드럽게 열리고 닫히니 좋네요. 뚜껑 색깔도 은은한 색으로 마음에 듭니다.  밥그릇 교체하지 않고 그대로 사용할 수 있는 밥용기 써보세요~!!  ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 바** 도자기 밥용기 2개세트 ",
+    "Syllable": "304",
+    "Word": "70",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "좋은 소재의 냉동보관용 밥 담는 용기 찾으신다면 이거예요! ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "도자기 소재이니 안심하고 사용할 수 있어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "도자기 소재라서 진짜 밥 그릇이랑 같으니 좋아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈도 딱 마음에 들구요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "남자분은 큰 사이즈, 여자분은 중간이나 작은 사이즈 괜찮아요~ ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "뚜껑은 실리콘인데 부드럽게 열리고 닫히니 좋네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "뚜껑 색깔도 은은한 색으로 마음에 듭니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "밥그릇 교체하지 않고 그대로 사용할 수 있는 밥용기 써보세요~!!",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1034702",
+    "RawText": "이번에 새로 산 도자기 밥용기의 장점과 단점 공유해드릴께요~  일단 저는 만족하면서 잘 쓰고 있습니다. 왜냐하면, 너무 간편하게 쓸 수가 있어서 좋아요. 밥 해서 냉동실에 넣어뒀다가 전자렌지에 데워서 그 그릇 그대로 밥상에 올려서 먹으면 되니, 얼마나 편하겠어요! 유리 그릇 쓸때만 해도 밥그릇에 옮겨 담았거든요~ 그러면 설거지가 많아지잖아요 ㅜㅜ 그런데 그럴 일이 없으니 너무 좋습니다. 그리고 디자인이 예뻐요. 내구성 좋아서 오래 쓸 수 있을 것 같아요. 단점은 위로위로 쌓으면 약간 불안한건 있어요ㅜㅜ 조심해서 쌓으면 되니까 그정도는 감안해야죠~  다음 우리집 살림템은 이걸로 하세요~!! 추천드립니다~",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 바** 도자기 밥용기 2개세트 ",
+    "Syllable": "340",
+    "Word": "81",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "일단 저는 만족하면서 잘 쓰고 있습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "너무 간편하게 쓸 수가 있어서 좋아요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "밥 해서 냉동실에 넣어뒀다가 전자렌지에 데워서 그 그릇 그대로 밥상에 올려서 먹으면 되니, 얼마나 편하겠어요! ",
+        "SentimentWord": "15",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 예뻐요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "내구성 좋아서 오래 쓸 수 있을 것 같아요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "정리성/수납력",
+        "SentimentText": "단점은 위로위로 쌓으면 약간 불안한건 있어요ㅜㅜ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "정리성/수납력",
+        "SentimentText": "조심해서 쌓으면 되니까 그정도는 감안해야죠~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "1035140",
+    "RawText": "오늘은 무쇠 그리들 소개해드리려고 해요~  캠핑의 계절 가을이 가고 겨울이 왔습니다. 그래도 우리 캠핑족들!! 캠핑 포기 할수 없겠죠? 캠핑 가면 고기 구워먹고 찌개 보글보글 끓여먹는것도 빼놓을 수 없죠! 캠핑의 필수품 무쇠 그리들인데요~ 무쇠라서 시즈닝은 해야하지만 길들이면 고기 맛은 아주 끝내줍니다! 구성도 마음에 들어요. 뚜껑이랑 파우치까지 있어서 만족스럽습니다. 무게도 적당해서 불편한감 없이 쓰고 있어요.  쓰면 쓸수록 매력있는 무쇠팬이라서 추천드려봅니다.",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 무쇠 그리들 불판 39cm 세트",
+    "Syllable": "261",
+    "Word": "58",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "요리력",
+        "SentimentText": "고기 맛은 아주 끝내줍니다! ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성도 마음에 들어요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "뚜껑이랑 파우치까지 있어서 만족스럽습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게도 적당해서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 불편한감 없이 쓰고 있어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1035142",
+    "RawText": "고기 구워먹는거 좋아하시는 분들께 이거 소개해드릴께요~!  저희 가족들은 고기를 참 좋아해요. 그동안 고기판 없이 후라이팬에 고기를 구워먹었어요. 불편하긴 했지만 그냥 살았거든요. 그런데 얼마 전에 동생이 그리들에 고기를 구워먹으라는거예요~ 집에서 사용할 수 있냐고 했더니 엄청 간편하고 좋데요~! 그래서 사봤지요. 크기는 4인가족 쓰기 딱 좋아요. 시즈닝되어있다고는 했지만 설명대로 추가로 여러번 기름 발라서 사용하고 있어요. 무쇠라서 코팅 벗겨질 일 없으니 좋네요. 세척하기도 편해요.   여러분도 집에 고기판 없으시면 무쇠 그리들 사용해보세요~^^",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 무쇠 그리들 불판 39cm 세트",
+    "Syllable": "309",
+    "Word": "67",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "크기는 4인가족 쓰기 딱 좋아요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "무쇠라서 코팅 벗겨질 일 없으니 좋네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "세척하기도 편해요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1035145",
+    "RawText": "여러모로 쓸모 좋은 그리들 불판 세트 소개해드립니다~^^  집에서도 쓰고 캠핑 가서도 쓸 불판 사려고 검색하다 발견했어요. 코팅된거 살까 무쇠 살까 하다가 무쇠로 선택~!! 무게가 무겁긴 해요. 그래도 그만큼 안정감은 있어서 화로 위에 올려놓으면 잘 안움직여서 좋네요. 불판, 뚜껑, 가방이 세트라서 구성이 좋아요. 그리들 크기도 좋고, 깊이도 적당해요. 캠핑가서 고기도 구워먹고 부대찌개도 끓여먹었어요.   고기판 필요하신 분들~!! 고민하지 마시고 그리들 사보세요~ 만족하실 꺼예요~!",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 무쇠 그리들 불판 39cm 세트",
+    "Syllable": "273",
+    "Word": "61",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여러모로 쓸모 좋은 그리들 불판 세트 소개해드립니다~^^",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게가 무겁긴 해요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "그래도 그만큼 안정감은 있어서 화로 위에 올려놓으면 잘 안움직여서 좋네요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "불판, 뚜껑, 가방이 세트라서 구성이 좋아요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "그리들 크기도 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "깊이/높이",
+        "SentimentText": "깊이도 적당해요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": " 캠핑가서 고기도 구워먹고 부대찌개도 끓여먹었어요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1035148",
+    "RawText": "지난번 명절에 동생이랑 이야기 나누다가 고기 구워먹을 땐 그리들이 좋다고 해서 사서 쓰고 있어요. 소개해드릴께요~  저는 고기를 참 좋아하는데요. 무쇠에 고기를 구워먹으면 맛이 다르다는 소리를 많이 듣긴 했었어요. 그래서 다른 브랜드 무쇠 불판 살까 했는데 가격에 비해서 크기가 너무 작더라구요. 그래서 검색하다가 발견한 불판이예요. 무쇠판에 고기를 구워보니 오~~ 후라이팬에 굽는 것보다 맛있네요! 고기가 너무 맛있게 구워져요. 볶음밥도 더 맛있게 볶아지는 것 같구요~^^  여러분도 무쇠 그리들 모르고 계셨다면 이번 기회에 장만해보세요~!!",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 무쇠 그리들 불판 39cm 세트",
+    "Syllable": "304",
+    "Word": "70",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "요리력",
+        "SentimentText": "무쇠판에 고기를 구워보니 오~~ 후라이팬에 굽는 것보다 맛있네요!",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "고기가 너무 맛있게 구워져요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "볶음밥도 더 맛있게 볶아지는 것 같구요~^^",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1035151",
+    "RawText": "아직 그리들 없으신가요??? 제가 써 본 그리들 소개해드릴께요~  그리들 불판에 고기를 구우면 예술입니다!!! 그리들 하나면 캠핑가서 모든 요리를 다 해 먹을 수 있어요. 다른 저렴한 불판들 많지만 저렴한건 싼 값을 하잖아요. 그래서 비싸긴 했지만 이 제품으로 선택해서 쓰고 있는데 후회는 없습니다. 디자인이 멋져요. 가방이랑 뚜껑까지 줘서 넘넘 좋아요~ 크기도 알맞아서 쓰기가 좋답니다. 무게감이 좋고, 설거지 하기도 좋아요.  고민하다가 구입했는데 잘 산 것 같아요~ 다들 써보세요~!!^^",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 무쇠 그리들 불판 39cm 세트",
+    "Syllable": "276",
+    "Word": "65",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "요리력",
+        "SentimentText": "그리들 불판에 고기를 구우면 예술입니다!!",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "그리들 하나면 캠핑가서 모든 요리를 다 해 먹을 수 있어요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 비싸긴 했지만 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 디자인이 멋져요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "가방이랑 뚜껑까지 줘서 넘넘 좋아요~ ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "크기도 알맞아서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "쓰기가 좋답니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게감이 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "설거지 하기도 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1035153",
+    "RawText": "가스레인지를 쓰니 눈이 너무 따가워서 인덕션으로 바꾸고 나서 인덕션에 사용할 수 있는 후라이팬 찾다가 구매한 제품 소개해드릴께요~  다른 회사 후라이팬을 쓰고 있었는데 너무 무겁기도 하고 인덕션에 인식이 잘 안되더라구요. 이 제품은 인덕션에 인식도 잘되고 열전도율이 좋은데 빨리 뜨거워져요. 그만큼 요리 시간이 단축이 됩니다. 너무 좋아서 매일 쓰고 있어요. 디자인도 예뻐요. 코팅력이 좋아서 그런지 눌러붙지 않구요. 눌러붙지 않으니 금방 닦여서 설거지 하기도 편해요.   다음 후라이팬 사실 때는 이 제품으로 써보세요~! 추천드려요~!",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 뉴** 티타늄 코팅 인덕션 후라이팬",
+    "Syllable": "300",
+    "Word": "70",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "이 제품은 인덕션에 인식도 잘되고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "열전도성",
+        "SentimentText": "열전도율이 좋은데 빨리 뜨거워져요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "그만큼 요리 시간이 단축이 됩니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "너무 좋아서 매일 쓰고 있어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 예뻐요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅력이 좋아서 그런지 눌러붙지 않구요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": " 눌러붙지 않으니",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "금방 닦여서 설거지 하기도 편해요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "인덕션에 사용할 수 있는 후라이팬 찾다가 구매한 제품",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1035155",
+    "RawText": "아침식사 하고 출근하시나요? 간편한 아침상 책임져줄 후라이팬 소개드립니다.  아침에 공복에 출근하면 기운 없고 일도 잘 안되는 것 같지 않으신가요? 아침밥으로 간단하게 계란이랑 토마토랑 달달 볶아서 드시고 가세요~~! 이 후라이팬이 있으면 후다닥 간편하게 아침 해드실 수 있어요~ 크기도 적당하고 편하게 쓰기가 좋아요. 바닥이 두꺼워서 볶음요리하거나 조림을 할 때도 눌러붙지 않아요. 저는 써보고 좋아서 엄마도 사드렸어요~^^조금 무겁긴 하지만 잘 쓰고 있어요~  여러분도 써보시고 주변에 선물도 해보세요~^^",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 뉴** 티타늄 코팅 인덕션 후라이팬",
+    "Syllable": "285",
+    "Word": "64",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "요리력",
+        "SentimentText": "이 후라이팬이 있으면 후다닥 간편하게 아침 해드실 수 있어요~",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "크기도 적당하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "편하게 쓰기가 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "바닥이 두꺼워서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "볶음요리하거나 조림을 할 때도 눌러붙지 않아요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "조금 무겁긴 하지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "잘 쓰고 있어요~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1035160",
+    "RawText": "자꾸자꾸 사용하게 되는 후리이팬 소개해드릴께요~  뚜껑이 포함된 구성이라서 좋아요. 무게감이 있긴 하지만 만족하며 사용하고 있습니다. 묵직해서 처음에 좀 버겁긴 했는데 사용하다 보니 익숙해져서 괜찮아요. 손잡이가 길어서 사용하기가 편해요. 코팅이 잘 되어 있어서 잘 타지 않고 설거지도 편하게 할 수 있어요. 다른 후라이팬도 있는데 이것만 사용하게 되네요~^^   저렴한 가격에 활용도 좋은 후라이팬 강력하게 추천드립니다~~ 모두모두 사용해보세요^^",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 뉴** 티타늄 코팅 인덕션 후라이팬",
+    "Syllable": "251",
+    "Word": "55",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "자꾸자꾸 사용하게 되는 후리이팬 소개해드릴께요~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "뚜껑이 포함된 구성이라서 좋아요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게감이 있긴 하지만 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "만족하며 사용하고 있습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "묵직해서 처음에 좀 버겁긴 했는데 사용하다 보니 익숙해져서 괜찮아요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "손잡이가 길어서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기가 편해요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅이 잘 되어 있어서 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "설거지도 편하게 할 수 있어요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "다른 후라이팬도 있는데 이것만 사용하게 되네요~^^ ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1035162",
+    "RawText": "OOO 후라이팬 장점과 단점 파헤치기 시작해볼께요~  후라이팬도 종류별로 필요한거 아시죠~!!? 크기별로 있어야 하고 재질별로도 있어야하구요~ 오늘은 그 중에서 티타늄 코팅 후라이팬 소개해드리려구요~ 무게감이 있어서 처음에 적응하는데 시간이 좀 걸렸어요~ 손잡이가 길어서 정리하기가 좀 불편하더라구요. 바닥이 두꺼워서 잘 타지 않는 것 같아요. 코팅력이 좋아서 눌러붙지 않고 세척하기도 편해요. 크기가 적당하게 자주 쓰게 됩니다. 뚜껑이 있어서 활용하기가 좋아요.  장단점 잘 보셨나요? 잘 살펴보시구 선택하세요~^^",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 뉴** 티타늄 코팅 인덕션 후라이팬",
+    "Syllable": "289",
+    "Word": "62",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": " 무게감이 있어서 처음에 적응하는데 시간이 좀 걸렸어요~",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "손잡이가 길어서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "정리성/수납력",
+        "SentimentText": "정리하기가 좀 불편하더라구요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "바닥이 두꺼워서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 잘 타지 않는 것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅력이 좋아서 눌러붙지 않고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "세척하기도 편해요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "크기가 적당하게 자주 쓰게 됩니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "뚜껑이 있어서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "활용하기가 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1035164",
+    "RawText": "집에서 생선구이 많이 해드시나요? 저도 그냥 후라이팬에 했었는데요~ 이번에 새로 산 후라이팬 너무 좋아서 소개해드리려고 해요~  받자마자 씻어서 사용해봤어요. 설명서에 써 있는 것처럼 뚜껑 밀폐력이 좋아요! 생선 구워 먹었는데 뚜껑 닫아놓으니 확실히 연기도 안나고 냄새도 별로 안났어요. 뚜껑 없을 땐 종이호일로 덮어서 기름 튀는거, 연기나는걸 좀 막았었는데요. 이제는 뚜껑이 있으니 편하게 열고 닫고 할 수 있어서 좋아요. 코팅력도 좋아서 생선이 타지 않고 잘 익어요. 맛있게 먹었답니다~  여러분도 저처럼 종이호일로 덮어서 생선 구우셨다면 이제 바꿔보세요~!!",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 냄새 연기 안나는 불판 생선구이팬",
+    "Syllable": "315",
+    "Word": "74",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "뚜껑 밀폐력이 좋아요!",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제연/냄새방지",
+        "SentimentText": "생선 구워 먹었는데 뚜껑 닫아놓으니 확실히 연기도 안나고 냄새도 별로 안났어요. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "이제는 뚜껑이 있으니",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "편하게 열고 닫고 할 수 있어서 좋아요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅력도 좋아서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "생선이 타지 않고 잘 익어요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1035166",
+    "RawText": "생선구울 때 냄새나서 하기 싫으신가요? 그렇다면 이 제품 사용해보세요~~!!  생선구이 좋아해서 양면팬도 사용해보고 그냥 후라이팬도 사용해봤는데요~ 양면팬은 설거지 하기가 너무 귀찮았어요. 그냥 후라이팬은 기름 두르고 생선 올리면 기름도 많이 튀고 연기도 나고 해서 냄새가 나서 불편해서 생선을 잘 안굽게 되더라구요. 그래서 찾다가 뚜껑 있는 팬을 사게 되었어요. 뒤집을 때는 어쩔 수 없지만 다 굽고 나면 확실히 냄새가 별로 안남아요. 잘 사용하고 있습니다.   맛잇게 요리해드세요~^^",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 냄새 연기 안나는 불판 생선구이팬",
+    "Syllable": "273",
+    "Word": "64",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "그래서 찾다가 뚜껑 있는 팬을 사게 되었어요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제연/냄새방지",
+        "SentimentText": "다 굽고 나면 확실히 냄새가 별로 안남아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "잘 사용하고 있습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1035167",
+    "RawText": "후라이팬 종류별로 써보셨나요? 요리도 장비빨이잖아요~ 생선, 고기는 전용 팬에 구워보세요~ 딱 좋은 후라이팬 소개해드릴께요~  스테이크 구워 먹을 때 기름이 튀어서 가스레인지 엉망이 된 경험 있으신가요? 집에서 반찬 없을 때 간단하게 스테이크 구워먹는걸 좋아하는데 기름이 너무 튀어서 항상 종이호일을 덮어서 굽곤 했어요. 그래서 뚜껑이 있으면 좋겠다 생각했는데 찾던중에 마침! 적당한 걸 찾아서 사용중이랍니다. 디자인 마음에 들고, 코팅력 좋아요. 뚜껑이 있어서 기름튀는게 방지 돼요.  깔끔하게 요리하고 싶으시다면 이걸로 선택하세요~!",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 냄새 연기 안나는 불판 생선구이팬",
+    "Syllable": "300",
+    "Word": "67",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 마음에 들고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅력 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "뚜껑이 있어서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "기름튀는게 방지 돼요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "깔끔하게 요리하고 싶으시다면 이걸로 선택하세요~!",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1035171",
+    "RawText": "울 언니가 써봤는데 넘 좋다고 추천한 후라이팬 소개해드릴께요~  생선도 고기도 해산물도 잘 구워지는 후라이팬이예요. 크기가 적당합니다. 사이즈는 생선 두마리 넣어서 구우면 딱 좋아요. 우리 세식구 먹기 좋은 양을 한번에 요리할 수 있는 크기라서 좋아요.  다른 후라이팬 보다 노릇노릇 맛있게 잘 구워져서 많이 쓰게 되네요. 뚜껑이 있으니 냄새가 확실히 덜 나서 좋아요. 저도 추천받아서 써봤지만 너무 만족스러워서 주변에도 많이 추천하고 있어요.   여러분도 써보시면 만족하실 꺼예요~ 꼭 써보세요~^^",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 냄새 연기 안나는 불판 생선구이팬",
+    "Syllable": "280",
+    "Word": "66",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "요리력",
+        "SentimentText": "생선도 고기도 해산물도 잘 구워지는 후라이팬이예요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈는 생선 두마리 넣어서 구우면 딱 좋아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "우리 세식구 먹기 좋은 양을 한번에 요리할 수 있는 크기라서 좋아요.  ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "다른 후라이팬 보다 노릇노릇 맛있게 잘 구워져서 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "많이 쓰게 되네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "뚜껑이 있으니",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제연/냄새방지",
+        "SentimentText": "냄새가 확실히 덜 나서 좋아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "크기가 적당합니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1035174",
+    "RawText": "안녕하세요~ 오늘은 와이드 팬 소개해드릴께요~  이거 하나면 모든 요리를 할 수가 있어요. 무게는 좀 무거운 편이예요. 근데 너무 가벼우면 내구성이 약한 것 같잖아요. 이 제품은 내구성도 좋은 것 같아요. 튼튼해 보여서 오래 쓸 수 있을 것 같아요. 손잡이 그립감이 너무 좋아요. 색상도 너무 예뻐요. OOO은 워낙 유명한 제품이라 믿고 사용해요~~ 마감도 깔끔하구요. 코팅력 좋아서 눌러붙지 않게 요리할 수 있구요. 세척하기도 좋답니다.  브랜드 믿고 사용해보세요~^^",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 팬 와이드 IH 22cm 3종 중 택1",
+    "Syllable": "263",
+    "Word": "64",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "요리력",
+        "SentimentText": "이거 하나면 모든 요리를 할 수가 있어요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게는 좀 무거운 편이예요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": " 이 제품은 내구성도 좋은 것 같아요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼해 보여서 오래 쓸 수 있을 것 같아요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "그립감",
+        "SentimentText": "손잡이 그립감이 너무 좋아요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 너무 예뻐요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "마감도 깔끔하구요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅력 좋아서 눌러붙지 않게 요리할 수 있구요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "세척하기도 좋답니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1035176",
+    "RawText": "우리집 주방에도 컬러를 더해보세요~~!! 다용도 팬 소개해드릴께요!~~  믿고 쓰는 브랜드죠! 워낙 유명해서 다용도 팬 찾다가 구매해서 쓰고 있어요~ 코팅력은 말할 것도 없이 잘 되어 있구요. 내구성이 좋아요. 튼튼해 보입니다. 사용하기도 편리해요. 색감도 예쁘게 나와서 우리집 주방이 화사해졌어요. 깊이가 있어서 볶음요리에도 쓰기가 좋고, 찌개도 끓일 수 있어요~ 코팅이 잘 되어 있어서 부침개도 해먹어요~! 사이즈도 딱이라서 활용도가 정말 높아요.  좋은 제품 좋은 가격에 구매했어요~ 써보시면 압니다~^^",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 팬 와이드 IH 22cm 3종 중 택1",
+    "Syllable": "285",
+    "Word": "64",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅력은 말할 것도 없이 잘 되어 있구요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "내구성이 좋아요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": " 튼튼해 보입니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 사용하기도 편리해요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색감도 예쁘게 나와서 우리집 주방이 화사해졌어요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "깊이/높이",
+        "SentimentText": "깊이가 있어서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "볶음요리에도 쓰기가 좋고, 찌개도 끓일 수 있어요~",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅이 잘 되어 있어서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "부침개도 해먹어요~!",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈도 딱이라서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1035177",
+    "RawText": "완판신화 팬이라고 해서 궁금해서 써봤어요~ 후기 들려드릴께요~  크지도 않고 작지도 않으면서 적당한 냄비를 찾고 있었는데 딱 이거예요!!! 써보니 왜 완판 했는지 알겠더라구요~받아서 써보니 쓰기 딱 좋은 사이즈고, 무게감도 적당해서 자주 쓰게 돼요. 냄비 하나로 부침개, 후라이, 볶음, 찌개 다 할 수가 있어요. 활용도가 정말 높아요~ 코팅이 잘되서 그런지 눌러붙지 않아서 좋더라구요. 색깔도 예뻐요. 가격도 적당해서 부담없이 구매할 수 있습니다.  이제품 꼭 사용해보세요~!!",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 팬 와이드 IH 22cm 3종 중 택1",
+    "Syllable": "268",
+    "Word": "62",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "크지도 않고 작지도 않으면서 적당한 냄비를 찾고 있었는데 딱 이거예요!!!",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "쓰기 딱 좋은 사이즈고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게감도 적당해서 자주 쓰게 돼요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "냄비 하나로 부침개, 후라이, 볶음, 찌개 다 할 수가 있어요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "활용도가 정말 높아요~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅이 잘되서 그런지 눌러붙지 않아서 좋더라구요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색깔도 예뻐요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 적당해서 부담없이 구매할 수 있습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1035181",
+    "RawText": "여러분~~~이 제품 아직 집에 없으신가요??? 집에 하나 꼭 소장하시면 좋을 팬 소개드려요~  크기가 작지도 않고 크지도 않고 성인 2명 먹기 딱 좋은 사이즈예요~ 저는 항상 이 제품 사용합니다. OOO 팬 소개되어 있는거 보시면 다용도 사용가능하다고 되어 있는데요. 진짜진짜예요!! 활용도가 굿이예요!!! 코팅이 잘 되어 있어서 볶고 지지고 끓여도 눌러붙지 않아요. 설거지하기도 참 좋답니다. 인덕션에도 쓸 수 있어요. 색깔도 예쁘게 나와서 볼 때마다 기분이 좋답니다~  아직 안사셔다면 품절 되기 전에 얼른 구매하세요!!",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 팬 와이드 IH 22cm 3종 중 택1",
+    "Syllable": "293",
+    "Word": "70",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "크기가 작지도 않고 크지도 않고 성인 2명 먹기 딱 좋은 사이즈예요~",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "저는 항상 이 제품 사용합니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "활용도가 굿이예요!!!",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅이 잘 되어 있어서 볶고 지지고 끓여도 눌러붙지 않아요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "설거지하기도 참 좋답니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "인덕션에도 쓸 수 있어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색깔도 예쁘게 나와서 볼 때마다 기분이 좋답니다~",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1035184",
+    "RawText": "계란말이 좋아하시나요? 계란은 완전식품이라서 하루에 두개씩 먹으면 좋다잖아요~ 저는 계란 요리 중에서 계란말이 좋아해서 많이 해먹거든요~ 그래서 쉽게 요리 해보고 싶어 구입한 후라이팬 소개해드리려구요~  동그랗고 큰 후라이팬에 계란말이 할 때는 모양이 예쁘게 안나와서 넘 불편했어요 ㅜ 그런데 이 제품 사용하고 나서 정말 편해졌답니다. 팬 자체가 묵직해서 손잡이쪽으로 기울지 않아서 좋아요. 크기도 적당하니 좋아요. 계란 3개로 도톰한 계란말이 할 수 있을 정도의 크기라 맘에 들어요.   진작 살껄 고민한게 후회될 정도네요~ 여러분도 사용해보세요!!!",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 인덕션 사각 에그팬",
+    "Syllable": "309",
+    "Word": "71",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "이 제품 사용하고 나서 정말 편해졌답니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "팬 자체가 묵직해서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "손잡이쪽으로 기울지 않아서 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "크기도 적당하니 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "계란 3개로 도톰한 계란말이 할 수 있을 정도의 크기라 맘에 들어요. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1035186",
+    "RawText": "계란요리를 쉽고 편하게 할 수 있는 후라이팬 소개해드릴께요~!!  날씨가 엄청 추워져서 집에서 밥 많이 드시고 계시죠? 만만한 반찬들 중 하나가 계란이잖아요~ 계란 한개나 두개 할 때는 큰 후라이팬 쓰기가 좀 불편했어요. 그래서 이 제품을 사게됐어요. 코팅력이 좋아요. 식용유 살짝 뿌리고 후라이 하면 계란이 미끄러지면서 눌러붙지 않고 잘 익어요. 오래오래 사용할 수 있으면 좋겠네요~^^ 열전도율이 좋아서 금방 뜨거워져요. 빠르게 요리할 수 있습니다.  장점 많은 후라이팬 사용해보세요~^^ 추천~!!",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 인덕션 사각 에그팬",
+    "Syllable": "281",
+    "Word": "66",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "요리력",
+        "SentimentText": "계란요리를 쉽고 편하게 할 수 있는 후라이팬 소개해드릴께요~!!",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅력이 좋아요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "식용유 살짝 뿌리고 후라이 하면 계란이 미끄러지면서 눌러붙지 않고",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": " 잘 익어요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "오래오래 사용할 수 있으면 좋겠네요~^^ ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "열전도성",
+        "SentimentText": "열전도율이 좋아서 금방 뜨거워져요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": " 빠르게 요리할 수 있습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1035191",
+    "RawText": "작은 후라이팬 찾으시나요? 그럼 여기 주목해주세요~!!!  마트에서도 지나가다 보면 네모난 후라이팬이 있긴 해요~ 그런데 뚜껑 있는건 못봤거든요. 이 제품은 뚜껑도 있어요~ 뚜껑이 있으니 기름 튀는걸 막아줘요. 가스레인지에 기름이 덜 튀니 좋더라구요. 특히 생선구이 할 때 잘 쓰고 있습니다. 코팅력이 좋아서 세척하기도 좋답니다. 손잡이는 조리하면서 뜨거워져요. 수건이나 장갑 끼고 잡으셔야해요. 무게가 좀 무겁긴 하지만 사이즈는 적당해요.   다음 후라이팬은 이 제품으로 선택해보세요~!",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 인덕션 사각 에그팬",
+    "Syllable": "273",
+    "Word": "60",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": " 이 제품은 뚜껑도 있어요~ ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "뚜껑이 있으니",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "기름 튀는걸 막아줘요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "가스레인지에 기름이 덜 튀니 좋더라구요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "특히 생선구이 할 때 잘 쓰고 있습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅력이 좋아서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "세척하기도 좋답니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "열전도성",
+        "SentimentText": "손잡이는 조리하면서 뜨거워져요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게가 좀 무겁긴 하지만 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈는 적당해요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1035192",
+    "RawText": "오늘은 인덕션도 사용할 수 있는 계란 후라이팬을 소개해드릴께요~~  이 제품은 뚜껑도 있고 너무 좋아요. 크기도 적당해서 간단하게 해먹기 좋아요. 계란후라이, 볶음밥, 계란말이, 야채볶음 등등 활용도가 좋아요. 특히 계란말이 할 때가 최고예요. 계란말이가 예쁘게 말아져요. 신랑이 계란말이 보더니 깜짝 놀라더라구요^^** 식당에서 파는 계란말이처럼 나오니 놀랄만도 하죠~^^ 코팅이 잘 되어 있어서 그런지 어떤 요리를 해도 눌러붙지 않네요. 디자인도 마음에 들어요.  부담없이 사용할 수 있는 후라이팬으로 추천합니다~!!",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 인덕션 사각 에그팬",
+    "Syllable": "291",
+    "Word": "64",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "오늘은 인덕션도 사용할 수 있는 계란 후라이팬을 소개해드릴께요~~",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": " 이 제품은 뚜껑도 있고 너무 좋아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "크기도 적당해서 간단하게 해먹기 좋아요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "계란후라이, 볶음밥, 계란말이, 야채볶음 등등 활용도가 좋아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "특히 계란말이 할 때가 최고예요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "계란말이가 예쁘게 말아져요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "신랑이 계란말이 보더니 깜짝 놀라더라구요^^**",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": " 식당에서 파는 계란말이처럼 나오니 놀랄만도 하죠~^^",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅이 잘 되어 있어서 그런지 어떤 요리를 해도 눌러붙지 않네요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 마음에 들어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1035205",
+    "RawText": "방학이 시작되었네요. 아이들은 무조건 좋아하던데, 주부인 전 힘이 드네요.. 더구나 쓰던 압력솥이 너무 용량이 큰 거라 매끼를 하려니 작은 압력솥이 필요해서 구매했어요.   매일 매끼 밥을 해야 하는데, 쓰던 거는 5리터라 무겁고 손목이 아파서 작은 걸 찾던 중에 OO 압력솥 중에 2리터짜리가 있어서 주문해 보았어요. 가격도 저렴해서 부담 없이 샀지요. 계량컵으로 두컵 반 정도 쌀밥을 했는데 밥 공기로 4공기가 나와서 제가 딱 찾던 용량이어서 너무 좋았어요. 인덕션에서 가능한 것도 너무 좋았고, 십 분도 안 되는 짧은 시간이 밥이 되니 방학 때 아이들 매끼 밥 하는데 정말 편리하게 잘 쓸 것 같아요. 디자인도 완전 예쁘고 밥도 맛나게 되니 정말 기분 좋은 구매였어요.   압력밥솥 바꾸고 손목도 안 아프고 ~~ 힘들지 않고 밥하니 일이 반으로 준 것 같아요.. 우리 이웃님들도 작은 압력솥으로 한번 바꿔보시는거 어떨까요?",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 시** 압력밥솥 ",
+    "Syllable": "463",
+    "Word": "121",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가격도 저렴해서 부담 없이 샀지요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": " 밥 공기로 4공기가 나와서 제가 딱 찾던 용량이어서 너무 좋았어요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "인덕션에서 가능한 것도 너무 좋았고,",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "십 분도 안 되는 짧은 시간이 밥이 되니 방학 때 아이들 매끼 밥 하는데 정말 편리하게 잘 쓸 것 같아요. ",
+        "SentimentWord": "20",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 완전 예쁘고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "밥도 맛나게 되니 정말 기분 좋은 구매였어요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1035244",
+    "RawText": "잘 썰어지니 야채 싫어하는 아들 볶음밥 후다닥 만들어 먹이기 참 좋습니다 소개합니다   사용하기도 쉽고 성능은 우수하네요 모든 야채들이 다 모여도 순식간에 채를 썰 수 있어서  요리하기 정말 편해요 먼저 사과를 채썰어봤는데 아주 예쁘게 잘 나와서 만족합니다 제품도 견고해서 잔고장없이 잘 쓰고 있습니다 다만 고구마나 감자 등 딱딱한 야채들 채썰때 는 다소 힘이 필요하네요. 야채가 들어가는 입구도 좁아서 잘라 넣어야 되고 고정판에 힘이  없어 자꾸 움직여서 조금 불편합니다    만능 슬라이서답게 모든 야채를 다 사용할 수 있다는 큰 장점이 있어서 한번 써보시라고 추 천합니다",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 만** 야채 슬라이서 ",
+    "Syllable": "322",
+    "Word": "82",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "잘 썰어지니",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "야채 싫어하는 아들 볶음밥 후다닥 만들어 먹이기 참 좋습니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기도 쉽고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "성능은 우수하네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "순식간에 채를 썰 수 있어서  요리하기 정말 편해요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "사과를 채썰어봤는데 아주 예쁘게 잘 나와서 만족합니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "제품도 견고해서 잔고장없이 잘 쓰고 있습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "고구마나 감자 등 딱딱한 야채들 채썰때 는 다소 힘이 필요하네요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "야채가 들어가는 입구도 좁아서 잘라 넣어야 되고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "고정판에 힘이  없어 자꾸 움직여서 조금 불편합니다  ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1035246",
+    "RawText": "생마늘을 좋아하고 잘먹는 울 가족에게는 참 유용한 제품이라 이렇게 자랑삼아 추천합니다   맛있는 마늘 초절임을 이걸로 만들었어요 크기도 적당하고 두께도 괜찮아서 맘에 쏙 듭니다  마늘썰기 힘들었는데 이거 있으니까 금방되고 편리하네요~ 마늘을 많이 넣으면 균일하게  잘 안 잘리는 면이 있긴 하지만 그런 걸 다 대수롭지 않게 넘길 만큼 너무나도 편합니다!! 이 런 좋은게 있다는 걸 친구가 알려주었어요 진작 알았으면 좋았겠단 생각이 듭니다  몸에 좋은 마늘을 이 마늘 절단기로 예쁘게 썰어서 여러 요리에 활용해서 많이 드시기 바랍니다",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마늘 절단기 ",
+    "Syllable": "297",
+    "Word": "74",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 참 유용한 제품이라 이렇게 자랑삼아 추천합니다 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "맛있는 마늘 초절임을 이걸로 만들었어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": " 크기도 적당하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "두께도 괜찮아서 맘에 쏙 듭니다 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "마늘썰기 힘들었는데 이거 있으니까 금방되고 편리하네요~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "마늘을 많이 넣으면 균일하게  잘 안 잘리는 면이 있긴 하지만",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "그런 걸 다 대수롭지 않게 넘길 만큼 너무나도 편합니다!! ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1035474",
+    "RawText": "장아찌를 담는게 취미인데 예쁘게 보관, 저장하고 싶어 OOO 숨쉬는 유리용기세트를 구입했네요^^~  장아찌 담기에 사이즈가 넘치지도 않고 너무 작지도 않고 용량이 적당하네요 냉장고에도 들어가는 사이즈라 좋았어요  또 장아찌 뿐만 아니라 뚜껑에 가스 빠지는 숨밸브가 있어 된장숙성도 잘 되어  크기별로 3종류 다  재구매 하여  된장 ,매실액기스, 간장도 보관하니 좋네요ㅋㅋ  내구성도 좋고 정말 활용성도 좋네요.   강화유리가 아니라 좀 불안하고 또 무게감도 있지만  그래도  튼튼해 보여서 괜찮아요ㅎㅎ  OOO은  믿고 쓰는 브랜드라 추천합니당^^~",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 숨** 요리용기 3p세트 ",
+    "Syllable": "308",
+    "Word": "68",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "장아찌 담기에 사이즈가 넘치지도 않고 너무 작지도 않고 용량이 적당하네요 ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "냉장고에도 들어가는 사이즈라 좋았어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "뚜껑에 가스 빠지는 숨밸브가 있어 된장숙성도 잘 되어 ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "된장 ,매실액기스, 간장도 보관하니 좋네요ㅋㅋ ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "내구성도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "정말 활용성도 좋네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "강화유리가 아니라 좀 불안하고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "또 무게감도 있지만  ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼해 보여서 괜찮아요ㅎㅎ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1035475",
+    "RawText": "엄마와 매실청을 담았는데 유리용기 보관세트를 찾다 OOO 숨쉬는 유리용기세트를 구매했어요  OOO  유리용기는 뚜컹에  숨쉬는  밸브가 있어서 뚜껑을 닫아놓아도 가스가 자연히 배출 되니 정말 신기 하네요 ㅋㅋ 유리가 강화유리는  아니지만  두껍고 튼튼해보여요 근데 생각보다 무게감은 있네요 디자인도 예뻐서 욕심이 ㅋㅋㅋ   세트를 더 구매 해  엄마랑  여러가지 담금주를 만들어서   쭉 나열했더니 깔끔하고 보기도 좋네요  ㅋㅋ   세트로 구매하니 가격도  저렴하네요 밀폐용기 추천합니당^^~ ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 숨** 요리용기 3p세트 ",
+    "Syllable": "276",
+    "Word": "59",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "뚜컹에  숨쉬는  밸브가 있어서 뚜껑을 닫아놓아도 가스가 자연히 배출 되니 정말 신기 하네요 ㅋㅋ",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "유리가 강화유리는  아니지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "두껍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼해보여요 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "생각보다 무게감은 있네요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 예뻐서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "세트로 구매하니 가격도  저렴하네요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1035476",
+    "RawText": "모처럼 파인애플식초를 만들려고  유리병을 찾아보다 OOO 숨쉬는 유리용기세트를 구입했네요^^~  지인집에 갔더니  너무 맛나더라구요~ 그래서 도전해 봤어요 ㅋ ㅋ  OOO은 믿을 수 있는 브랜드라 믿고 유리병을 구매했네요.  어머~ 그런데 스스로 숨쉬는 숨밸브가 있네요.  신기하네요 ㅋㅋ 역쉬~~  냉장고 4도어에  들어가는  높이라  사이즈도 딱이네요.  유리라서 무게는 좀 나가지만  플라스틱보다 위생적이라서 좋아요. 전에는 삼다수통에  담아 보관했는데 모두 버렸어요ㅋ  유리용기라  속이  보이고  인테리어 효과도 있을만큼 예뻐요^^  세트 구매 했으니 다른병에는  매실청도  담아야겠어요 ㅎㅎ ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 숨** 요리용기 3p세트 ",
+    "Syllable": "337",
+    "Word": "68",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "냉장고 4도어에  들어가는  높이라  사이즈도 딱이네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "유리라서 무게는 좀 나가지만 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "플라스틱보다 위생적이라서 좋아요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "유리용기라  속이  보이고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "인테리어 효과도 있을만큼 예뻐요^^",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1035477",
+    "RawText": "친구의 추천으로 고민하다가  결국 OOOO 진공 무선 쌀통을 구입했어요 ^^~  우선 디자인도 깔끔하고 예쁘고  사각에  가까워서  공간활용에도  효율적이라서 편하네요.  용량도 커서 10kg쌀과 잡곡을 한꺼번에 보관하니 좋네요. 사용방법도 간단하고 쌀통에  보관하니  냄새도 안나고 벌레도 안 생겨서 너무 좋아요~~ 밥 맛도 좋은거 같아요 ㅎㅎ  성능대비 가격도  좋아요 ~~   그런데 재질이 좀 약해 보이네요ㅠㅠ 잠금장치가 너무  약해보여  부서질까 불안해요 ㅠㅠ  고장 안나게 조심히 써야겠어요 ㅋ  진작 살 걸...ㅎㅎ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 무** 진공 쌀통",
+    "Syllable": "295",
+    "Word": "65",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "우선 디자인도 깔끔하고 예쁘고  ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사각에  가까워서  공간활용에도  효율적이라서 편하네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "용량도 커서 10kg쌀과 잡곡을 한꺼번에 보관하니 좋네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용방법도 간단하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제연/냄새방지",
+        "SentimentText": "쌀통에  보관하니  냄새도 안나고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "벌레도 안 생겨서 너무 좋아요~~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "밥 맛도 좋은거 같아요 ㅎㅎ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "성능대비 가격도  좋아요 ~~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "재질/질감",
+        "SentimentText": "재질이 좀 약해 보이네요ㅠㅠ ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "잠금장치가 너무  약해보여  부서질까 불안해요 ㅠㅠ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1035478",
+    "RawText": "지인이 쌀을 보내주셨는데 우리집은 식구가 적어서 보관 쌀통을 찾다가 OOOO  진공 무선 쌀통을 구입했어요^^^  장마가 가까워지니  아무리 잘 보관을 해도 습해지는 날에는 벌레가 생기더라구요.  그런데  OOOO 쌀통에 보관하니  쌀이 신선하게 보관이 되서 너무 좋네요. 디자인도 예쁘고  용량도 적당해서 딱 좋아요 ㅎㅎ  무선이라서 편하고 또  바퀴까지  있어서 이동도 편하네요~ 그런데 내구성은 좀 떨어지네요 ㅠㅠ   플라스틱으로 된 뚜껑이  마감처리가 좀 미흡했는지 삐꺽 거려요 ....  그래도  벌레  생기지 않게 보관 할 수 있어 좋아요^^ ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 무** 진공 쌀통",
+    "Syllable": "310",
+    "Word": "71",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "OOOO 쌀통에 보관하니  쌀이 신선하게 보관이 되서 너무 좋네요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 예쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "용량도 적당해서 딱 좋아요 ㅎㅎ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "무선이라서 편하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "또  바퀴까지  있어서 이동도 편하네요~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "내구성은 좀 떨어지네요 ㅠㅠ ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "플라스틱으로 된 뚜껑이  마감처리가 좀 미흡했는지 삐꺽 거려요 ....",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "그래도  벌레  생기지 않게 보관 할 수 있어 좋아요^^",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1035479",
+    "RawText": "엄마가  친구분이 사용하니  너무 좋다고 추천해 주셔서 나랑  동생에게  OOOO 진공 무선 쌀통을 선물해 주셨어요  ^^~  플라스틱통이나 포대에 넣어서 주방 베란다에 쌀을 보관했더니 시간이 지나니 밥이 맛이 없더라구요ㅠㅠ 엄마가 주신 진공 쌀통에 보관하였더니  초등 아들이  밥맛도  좋다고 하네요 ㅋㅋ  디자인도 깔끔하고 색상도 예쁘구요  무엇보다  진공처리기능도 자동으로 되니 좋네요 ㅋㅋ 근데  뚜껑이  여닫기가  힘들어요 ㅠㅠ  진공이 자주 풀려서 작동하는 소음도 좀 있구요...  어쨌든 쌀을  신선하게 잘 보관 할 수 있어서 너무 좋아요^^~ ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 무** 진공 쌀통",
+    "Syllable": "312",
+    "Word": "71",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "요리력",
+        "SentimentText": "엄마가 주신 진공 쌀통에 보관하였더니  초등 아들이  밥맛도  좋다고 하네요 ㅋㅋ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 깔끔하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": " 색상도 예쁘구요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "진공처리기능도 자동으로 되니 좋네요 ㅋㅋ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "뚜껑이  여닫기가  힘들어요 ㅠㅠ ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "진공이 자주 풀려서 작동하는 소음도 좀 있구요...",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "어쨌든 쌀을  신선하게 잘 보관 할 수 있어서 너무 좋아요^^~",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1035480",
+    "RawText": "쌀을 오랫동안 통에  보관하다보니 쌀벌레가 생겨서걱정했더니 지인이 OOOO 진공 무선 쌀통을 추천해주었어요 ^^~  디자인은 심플하니 예쁜데 생각보다 사이즈가  커서놓을 수 있는 공간을 많이 차지하니 불편해서  조금 아쉽네요ㅠㅠ 집이 작아서 ....  손잡이와 진공버튼이 위쪽에 같이 있어 쓰고 좋고  중간에 진공기능이 풀리면  스스로 작동해주니 좋네요. 이제 쌀보관을 걱정 안해도 되겠고 쌀도 처음 구입했을때랑 신선하니  똑같아요 ㅎㅎ 무선이라서  편하고  바퀴가 있어 이동도 편하네요^^  엄마집에도 선물해드려야겠어요 ㅎㅎ^^ ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 무** 진공 쌀통",
+    "Syllable": "297",
+    "Word": "63",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인은 심플하니 예쁜데 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "생각보다 사이즈가  커서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "놓을 수 있는 공간을 많이 차지하니 불편해서  조금 아쉽네요ㅠㅠ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "손잡이와 진공버튼이 위쪽에 같이 있어 쓰고 좋고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "중간에 진공기능이 풀리면  스스로 작동해주니 좋네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "이제 쌀보관을 걱정 안해도 되겠고 쌀도 처음 구입했을때랑 신선하니  똑같아요 ㅎㅎ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "무선이라서  편하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "바퀴가 있어 이동도 편하네요^^",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1035481",
+    "RawText": "집들이 선물로 OOOO 진공 무선 쌀통을 선물 받았어요^^~  전에는 생수통을 씻어서 깨끗하게 말려서 쌀을 보관 했는데 이렇게 진공쌀통을 선물받으니 너무 좋은 거 있죠 ㅋㅋㅋ  진공기능으로 관리가 되니 썩지도 않고 신선하게 보관할 수 있어 좋은 것 같네요  중간에 진공이 풀리면 하루에도 몇번씩 진공기능이 작동 되니 좋더라구요  근데 새벽에는  작동하는 소리가 신경쓰여요 울아들은 소음이 크다고 ..... 어쨌든  사이즈가 크니 많은 양을 보관 할수 있어 좋구요. 바퀴가 있어 이동도 편해서 좋아요^^~  디자인도 예뻐서 새집에 인테리어 효과도 있네요 ㅋㅋ ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 무** 진공 쌀통",
+    "Syllable": "312",
+    "Word": "75",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "진공기능으로 관리가 되니",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "썩지도 않고 신선하게 보관할 수 있어 좋은 것 같네요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "중간에 진공이 풀리면 하루에도 몇번씩 진공기능이 작동 되니 좋더라구요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "새벽에는  작동하는 소리가 신경쓰여요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "울아들은 소음이 크다고 ..... ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈가 크니",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "많은 양을 보관 할수 있어 좋구요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "바퀴가 있어 이동도 편해서 좋아요^^~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 예뻐서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1035482",
+    "RawText": "비싼  후라이팬도  스크래치가 가더라구요ㅜㅜ 그래서 자주 교체할 생각으로  가격이 저렴한 이 제품 OOOO 스톤코팅 후라이팬을 구입했어요 ^^~  정말 가성비  대박이네요!!  자주 사용하고 있습니다 가볍고 색감도  좋고  얇아서 너무 사용하기 좋네요~~손잡이도 튼튼하고 그립감도 좋구요!! 아이들에게 요리 해주느라 바쁘답니다 ㅋㅋ  관리도 편해서 좋아요.  열전도율도  높아서 요리도 빨리 되네요 ㅋ 확실히  많이 사용하니 뒤틀림이 있고 음식이 조금 타는 느낌이 있네요.  괜찮아요~ 너무 만족해서  다시 재구매할 거예요 ㅋㅋ 정말  막쓰기에   좋네요",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스톤코팅 프라이팬 26cm ",
+    "Syllable": "310",
+    "Word": "67",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴한 이 제품 OOOO 스톤코팅 후라이팬을 구입했어요 ^^~",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "정말 가성비  대박이네요!!",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "자주 사용하고 있습니다 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색감도  좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇아서 너무 사용하기 좋네요~~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "손잡이도 튼튼하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "그립감",
+        "SentimentText": "그립감도 좋구요!! ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "관리도 편해서 좋아요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "열전도성",
+        "SentimentText": "열전도율도  높아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1035483",
+    "RawText": "저렴한걸 사서 자주 교체 할 생각으로 가격이 저렴한 OOOO 스톤코팅 프라이팬을 구매했어요^^~  그래도 OOOO가 믿을 수 있는 브랜드라 가격 저렴한 이 프라이팬으로  구매했는데  충분히 달구어 주고 사용하니  눌러 붙지도 않고  코팅도 벗겨지지 않네요!!  사용 후 키친 타올로 싹 닦아주면 되니 세척도 편하네요ㅋㅋ  스톤코팅이 관리 잘하면 더 오래사용 가능 할 것 같네요 ㅋㅋ  근데 너무 깔끔하고   좋은데  프라이팬이 약간 휘어져 있어서  뚜껑이 꽉 닫히지 않네요 ㅠㅠ  같이 산 동생도  만족해서  다른 사이즈도 구매했다고 하네요 ㅎㅎ^^ ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스톤코팅 프라이팬 26cm ",
+    "Syllable": "308",
+    "Word": "74",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴한 OOOO 스톤코팅 프라이팬을 구매했어요^^~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "그래도 OOOO가 믿을 수 있는 브랜드라 가격 저렴한 이 프라이팬으로  구매했는데",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "충분히 달구어 주고 사용하니  눌러 붙지도 않고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅도 벗겨지지 않네요!!",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "사용 후 키친 타올로 싹 닦아주면 되니 세척도 편하네요ㅋㅋ ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "스톤코팅이 관리 잘하면 더 오래사용 가능 할 것 같네요 ㅋㅋ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "너무 깔끔하고   좋은데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "프라이팬이 약간 휘어져 있어서  뚜껑이 꽉 닫히지 않네요 ㅠㅠ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1035484",
+    "RawText": "언니가  편하게  잘 쓰고 있다고 해서 OOOO 스톤 코팅 후라이팬으로  구입했어요^^~  가성비  대박이네요~ 너무 편하게 잘 사용하고 있어요! 전에는 스텐후라이팬을 사용했는데  조리하기도 힘들고 씻기도 힘들어서 스톤 코팅 후라이팬으로 구입했는데  너무 사용하기 편하고  좋네요ㅋㅋ  가볍고  얇아서 요리할때  손목에는 무리가  가지 않네요!!  코팅이 잘 되어 있어  스크래치에도 강해요. 그런데 팬이 얇아 기름이 많이 필요하고 음식이 빨리 타네요ㅠㅠ  불조절은 잘 하셔야  할 듯 합니다 ^^~  엄마도  구입하셔서  사용하시는데 만족하신다고 합니다^^~ ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스톤코팅 프라이팬 26cm ",
+    "Syllable": "314",
+    "Word": "67",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비  대박이네요~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "너무 편하게 잘 사용하고 있어요! ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "스톤 코팅 후라이팬으로 구입했는데  너무 사용하기 편하고  좋네요ㅋㅋ ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇아서 요리할때  손목에는 무리가  가지 않네요!! ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅이 잘 되어 있어 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "스크래치에도 강해요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "팬이 얇아",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "기름이 많이 필요하고 음식이 빨리 타네요ㅠㅠ ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1035485",
+    "RawText": "프라이팬을 새로 구입해야되서  이번에 OOOO 스톤 코팅 후라이팬으로 교체했어요^^~  아무리 비싸고 좋은 후라이팬이라도 결국 스크래치가고  기름때도 생기더라구요.  그래서 후라이팬을 사서 자주교체해 주는게 좋을것 같아서 가격이 착한 OOOO 후라이팬을 샀어요. 그런데  가격대비 너무 좋은 거 있죠~~ 가볍고 코팅도  잘 되어있어  계란말이도 눌러 붙지 않아요!ㅋㅋ  손잡이도 그립감이 너무 좋구요~  그런데 생각보다  깊이는  좀 얕아서 더 깊으면 좋을 것 같네요..!  쓰기  편해서 1개  더  구입할거예요 ㅋㅋ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스톤코팅 프라이팬 26cm ",
+    "Syllable": "290",
+    "Word": "63",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 착한 OOOO 후라이팬을 샀어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 너무 좋은 거 있죠~~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅도  잘 되어있어  계란말이도 눌러 붙지 않아요!ㅋㅋ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "그립감",
+        "SentimentText": "손잡이도 그립감이 너무 좋구요~ ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "깊이/높이",
+        "SentimentText": "생각보다  깊이는  좀 얕아서 더 깊으면 좋을 것 같네요..!",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "쓰기  편해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1035486",
+    "RawText": "매직핸즈를 한번 쓰고 나서는 쭉 같은 라인 제품만 쓰게 되네요. 그래서 이번에도 OO 매직핸즈 실버 에디션세트로  구입했습니다 ^^~  세트구성이  사이즈가 다양하고 활용도 좋은  제품으로 구성되어  있어 좋아요 디자인도 깔끔하고 예쁘구요ㅎ   매직핸즈가 스테인리스로 나오니  안심하고 쓸수 있어 좋네요ㅎㅎ  냄비 안쪽은 코팅력도 좋아 손잡이 탈부착에도 기스가 잘 안 나고 유지 되네요. 열심히 사용하는데도 코팅이 벗겨짐도 없어요. 그래서  믿고 쓰는 OO입니다 ㅎㅎ  근데 뚜껑이 있는 구성이  좋은데 뚜껑이 잘 안 맞아서 불편해요...   그래도 계속  장점이 더 많은 OO이라 계속 재구매 할거랍니당^^~~ ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매직핸즈 스테인리스 실** 8p 세트",
+    "Syllable": "343",
+    "Word": "78",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "세트구성이  사이즈가 다양하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "활용도 좋은  제품으로 구성되어  있어 좋아요 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 깔끔하고 예쁘구요ㅎ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "매직핸즈가 스테인리스로 나오니  안심하고 쓸수 있어 좋네요ㅎㅎ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "냄비 안쪽은 코팅력도 좋아 손잡이 탈부착에도 기스가 잘 안 나고 유지 되네요.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "열심히 사용하는데도 코팅이 벗겨짐도 없어요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "뚜껑이 있는 구성이  좋은데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "뚜껑이 잘 안 맞아서 불편해요... ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1035487",
+    "RawText": "남편에게  옆구리 찔러서 선물 받았어요ㅋㅋ 바로 OO 매직핸즈  실버 에디션세트로 짠~~ 받아 냈어요 ㅋㅋㅋ   너무 구매하고 싶었거든요 .그래서 옆에서 궁실렁거렸더니 선물 해 줬어요. ㅋㅋ  스텐이라 무게감은 좀있지만 튼튼해  보이고 내구성도 좋고  무엇보다 예뻐요  ㅎㅎ  인덕션에 작동 잘 되어서  열전도율도 높네요~ 예열도 빠르고 코팅이 좋아서 눌지도  않아  음식하기  편해요.  또  매직핸즈라  남은 요리 냉장고에  보관도 너무 편하고  수납도  좋아  공간활용도도  높아요^^~  주방에서  요리 할 맛이 나서  남편에게  맛있는 요리 많이 해주고 있어요 ^^~ ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매직핸즈 스테인리스 실** 8p 세트",
+    "Syllable": "323",
+    "Word": "72",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "스텐이라 무게감은 좀있지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼해  보이고 내구성도 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "무엇보다 예뻐요  ㅎㅎ  ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "인덕션에 작동 잘 되어서 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "열전도성",
+        "SentimentText": "열전도율도 높네요~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "열전도성",
+        "SentimentText": "예열도 빠르고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅이 좋아서 눌지도  않아 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "음식하기  편해요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "정리성/수납력",
+        "SentimentText": "매직핸즈라  남은 요리 냉장고에  보관도 너무 편하고  ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "정리성/수납력",
+        "SentimentText": "수납도  좋아  공간활용도도  높아요^^~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1035488",
+    "RawText": "엄마가 구입을 원하셔서  OO 매직핸즈 실버 에디션세트로 선물해드렸어요 ^^~  엄마가 팬 사이즈도 다양하고 스텐냄비가 잘  눌러붙지 않아 너무 편하다고 하시네요ㅋㅋ. 스텐이라 무거울줄 알았는데 생각보다 무겁지 않아서 좋데요 스텐이라  디자인이 품격있어 보인다고 좋아하시네요 ㅋㅋ  손잡이가 없으니 식기세척기도 쓸 수 있어 편하고   냉장고보관도 너무 편하시다고 하세요 엄마가 주방에서 너무 편해지셨다고 좋아하시네요.~  엄마가 너무 만족하셔서  저도 기분 좋네요.간만에 효도했어요 ^^~ ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매직핸즈 스테인리스 실** 8p 세트",
+    "Syllable": "274",
+    "Word": "57",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "엄마가 팬 사이즈도 다양하고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "스텐냄비가 잘  눌러붙지 않아 너무 편하다고 하시네요ㅋㅋ. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "스텐이라 무거울줄 알았는데 생각보다 무겁지 않아서 좋데요 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "스텐이라  디자인이 품격있어 보인다고 좋아하시네요 ㅋㅋ  ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "손잡이가 없으니 식기세척기도 쓸 수 있어 편하고  ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "정리성/수납력",
+        "SentimentText": "냉장고보관도 너무 편하시다고 하세요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1035489",
+    "RawText": "이사를 하면서 주방용품을 모두 구입해야 해서 OO 매직핸즈 실버 에디션세트로 구입했네요 ^^~  디자인도  깔끔하니  넘 예쁘고 구성도 넘 알차게 구성되어 있어 좋았네요~ 꼭 필요한  구성들인데 사이즈가 생각보다  좀 작네요....스테인리스라 적당히 무게감도  있고 두께감도 있어 딱 원하던 제품이고  그리고 안심하고 쓸 수 있어요 ㅎㅎ  손잡이가 없어서 설거지도  편하고  보관도 편하네요. 진즉에 살걸 ㅋㅋㅋ  필요한 큰사이즈도 더 추가구매 했네요ㅋㅋ   새로 이사한  주방이 산뜻하고 환해졌어요 ^^~ ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매직핸즈 스테인리스 실** 8p 세트",
+    "Syllable": "284",
+    "Word": "63",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도  깔끔하니  넘 예쁘고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성도 넘 알차게 구성되어 있어 좋았네요~ ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈가 생각보다  좀 작네요....",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "스테인리스라 적당히 무게감도  있고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "두께감도 있어 딱 원하던 제품이고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "손잡이가 없어서 설거지도  편하고  ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "정리성/수납력",
+        "SentimentText": "보관도 편하네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "꼭 필요한  구성들인데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1035490",
+    "RawText": "원래 보관이 용이해 전 모델 OO을  사용했는데  바꿀때가  되어 다시  OO 매직핸즈  실버 에디션세트로 구입했습니다 ^^~  가장 활용도가 높은 제품들로 구성되어 있어 너무 좋았구요.  가격도 적당해서 좋았어요 ㅋㅋ 신혼때부터 OO을 쭉 너무 잘  사용하고 있었거든요.  스텐이라 디자인이 고급져 보이지만 무게감은 있어요 그래도 괜찮아요~ 이쁘니깐요 ㅎㅎ 매직핸즈라  부피가 적어 보관이  좋으건 모두 아실거예요.  근데 이번엔 손잡이가  좀 돌아가서 불편하네요 ㅠㅠ.....   그래도 잘 사용하고 있네요 담에도 재구매 할거예요~~ ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매직핸즈 스테인리스 실** 8p 세트",
+    "Syllable": "301",
+    "Word": "66",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "가장 활용도가 높은 제품들로 구성되어 있어 너무 좋았구요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 적당해서 좋았어요 ㅋㅋ ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "스텐이라 디자인이 고급져 보이지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게감은 있어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "그래도 괜찮아요~ 이쁘니깐요 ㅎㅎ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "매직핸즈라  부피가 적어 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "정리성/수납력",
+        "SentimentText": "보관이  좋으건 모두 아실거예요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "이번엔 손잡이가  좀 돌아가서 불편하네요 ㅠㅠ..... ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1035491",
+    "RawText": "두꺼운 고기도 잘 잘리고 활용성이 아주 좋은 가위 소개해 드립니다   이 가위는 다른 가위에 비해 크고 부드럽게 잘 잘리네요 절삭력 굿입니다 정교하게 디자인된 아주 멋진 가위네요 만들긴 잘 만들어져 품질이 좋습니다. 분가한 딸에게  주려고 하나 더 구매했습니다. 써 본 집안사람들이 모두 좋다고 한마디씩 하네요. 강추합니 다. 약간의 묵직함이 있는데 저는 더 좋아요 무엇보다 가격이 많이 저렴해서 만족합니다  이 가위는 아주 날카로우니 사용시에는 항상 조심하셔야 합니다",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 가위 260mm",
+    "Syllable": "262",
+    "Word": "65",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "두꺼운 고기도 잘 잘리고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "활용성이 아주 좋은 가위 소개해 드립니다 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "다른 가위에 비해 크고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "부드럽게 잘 잘리네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "절삭력 굿입니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "정교하게 디자인된 아주 멋진 가위네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "약간의 묵직함이 있는데 저는 더 좋아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 많이 저렴해서 만족합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "아주 날카로우니 사용시에는 항상 조심하셔야 합니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1035492",
+    "RawText": "매실 장아찌를 아주 좋아하는 우리 가족들을 위해 기대를 많이 하고 구입한 건데 아쉽습니다   기대감이 많았는데 저희 매실이 딱딱하지 않아서인지 이번에는 요긴하게 쓰지를 못했네요.  이 제품은 매실이 딱딱하고 커야 잘 되는 것 같아요 한번 사용해봤는데 씨앗에 매실이 붙어 서 깨끗하게 떨어지지 않는 것이 조금 아쉬웠습니다 다소 무게감도 있어서 손목이 아플 것  같고 가성비가 별로라 다음번에는 다른 제품을 알아봐야겠습니다  내년에는 성능이 아주 좋은 걸로 구입해서 맛있는 매실 장아찌를 꼭 만들어 보려고 합니다",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 매실망치/매실씨제거기",
+    "Syllable": "284",
+    "Word": "70",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": " 매실이 딱딱하고 커야 잘 되는 것 같아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "씨제거력",
+        "SentimentText": "씨앗에 매실이 붙어 서 깨끗하게 떨어지지 않는 것이 조금 아쉬웠습니다 ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "다소 무게감도 있어서 손목이 아플 것  같고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가성비가 별로라 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1035493",
+    "RawText": "혹시 손 다칠까봐 잘 드는 가위를 좋아하지 않았는데 한번 써 본 후에는 헤어나올 수가 없게  되었네요  절삭력은 거의 순삭이네요. 가위 자체는 너무 잘 들어 재단 가위로 써도 문제없을 것 같아요 재단용으로  구입한 건 아니지만 가격대비 좋습니다. 사각 거리는 소리가 꽤나 경쾌 해서 소리만 들어봐 도 얼마나 절삭력 좋은 가위인지 알 수 있을 것 같네요. 이것저것 다 썩썩 잘려지네요 엄마가 써  보시더니 잘 잘린다고 좋아하셔서 바로 구매해 드렸습니다  마음에 들어 주변 지인들에게 하나씩 선물하는 재미에 빠져 버렸습니다",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 가위 모음",
+    "Syllable": "290",
+    "Word": "76",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "절삭력은 거의 순삭이네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "소리만 들어봐도 얼마나 절삭력 좋은 가위인지 알 수 있을 것 같네요",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "이것저것 다 썩썩 잘려지네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "잘 잘린다고 좋아하셔서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "가위 자체는 너무 잘 들어 재단 가위로 써도 문제없을 것 같아요",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1035494",
+    "RawText": "너무 잘 들어서 사용할 때마다 조심해서 사용중인 가위인데 소개드릴게요. 일단 추천합니다   1+1이라 좋고 가격도 저렴하고 전에도 사용하던 건데 품질이 맘에 들어서 이번에 추가로 구 입했어요. 무엇보다 국산이라서 마음에 들고 양손으로 사용 가능하니 더 편하네요. 가성비도 좋 고  절삭력이 완전 좋아요 엄청 튼튼하기도 하고요 평범해 보이지만 절대 부족함 이 없는 가위입니다   보기보다 기능이 좋고 색상이 이뻐서 사용하실 때마다 만족감을 느끼시지 않을까 싶네요     ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 주방가위",
+    "Syllable": "262",
+    "Word": "61",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "너무 잘 들어서 사용할 때마다 조심해서 사용중인",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "1+1이라 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 품질이 맘에 들어서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 양손으로 사용 가능하니 더 편하네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비도 좋 고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "절삭력이 완전 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "엄청 튼튼하기도 하고요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "보기보다 기능이 좋고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 이뻐서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1035495",
+    "RawText": "저는 이 도마를 조리용으로 사용하기 아까워 아주 가끔 쟁반처럼 사용하고 있네요   혼자 쓰기 딱맞게 사이즈 작아서 좋고 디자인이 맘에 쏙 드네요 무엇보다 가볍고 양면을 다 사 용할 수 있어서 매우 활용도가 좋습니다 손잡이가 있어서 도마 이동시 편하고 미끄럼 방지  기능이 있어 도마 사용시 안전합니다 그리고 세척력이 일반 도마보다 훨씬 월등하고 슬림하여  좁은 공간에도 보관이 용이합니다 아쉬운 점은 가격이 조금 비쌉니다   주방에 걸어두면 인테리어 효과도 있을만큼 전체적으로 눈에 확 띄는 스타일의 도마입니다",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 항균 도마 로** 1호,2호,3호",
+    "Syllable": "285",
+    "Word": "71",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "이 도마를 조리용으로 사용하기 아까워 아주 가끔 쟁반처럼 사용하고 있네요 ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "혼자 쓰기 딱맞게 사이즈 작아서 좋고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 맘에 쏙 드네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무엇보다 가볍고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 양면을 다 사 용할 수 있어서 매우 활용도가 좋습니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "손잡이가 있어서 도마 이동시 편하고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 미끄럼 방지 기능이 있어 도마 사용시 안전합니다 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "세척력이 일반 도마보다 훨씬 월등하고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "정리성/수납력",
+        "SentimentText": "슬림하여  좁은 공간에도 보관이 용이합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 조금 비쌉니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1035496",
+    "RawText": "이 도마로 음식을 하면 웬지 더 즐겁고 건강해지는 것 같아서 요즘 매일 사용하고 있습니다   사이즈도 적당하고 두께도 좋고 상태 좋네요 물론 좀 더 저렴하고 비슷한 제품들이 있긴 하 지만 가성비를 따지자면 이만한 제품도 드문것 같습니다. 개인적으로 좋아하는 편백 향이 나 서 좋고 살아있는 나무의 질감도 너무 좋아요. 딱 봐도 나무가 꽤 좋은 나무라는 게 느껴지네 요 조금 무겁긴 하지만 위생적이라 만족합니다    주방에서 편백향이 은은하게 나니 저절로 건강해지는 기분을 느낄 수 있는 도마입니다   ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 편** 나무도마 ",
+    "Syllable": "280",
+    "Word": "72",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "요즘 매일 사용하고 있습니다 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈도 적당하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "두께도 좋고 상태 좋네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비를 따지자면 이만한 제품도 드문것 같습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "편백 향이 나서 좋고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "딱 봐도 나무가 꽤 좋은 나무라는 게 느껴지네 요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "조금 무겁긴 하지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "위생적이라 만족합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "주방에서 편백향이 은은하게 나니 저절로 건강해지는 기분을 느낄 수 있는 도마입니다 ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "재질/질감",
+        "SentimentText": "살아있는 나무의 질감도 너무 좋아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1035497",
+    "RawText": "모든게 다 마음에 들어서 여기저기 추천을 가장 많이 하고 있는 제품입니다   벌써 몇 번째 구매인지 모르겠습니다 너무 맘에 들어서 친정과 시댁에도 보내 드렸습니다.  두분 다 이젠 실리콘 도마만 쓰시네요. 정말 활용도 높고 보관이 편해서 다른 걸 못 쓰겠다고  하시면서요 저도 그렇구요. 무엇보다 좋은 점은  칼자국이 안 난다는 것입니다. 가볍고 가격도  비싸지 않아서 누구나 쓰기가 아주 좋습니다.   실리콘 재질이라 끓는 물에 소독도 할 수 있고 잘 마르고 무엇보다 색상이 예뻐요",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 실리콘 도마 ",
+    "Syllable": "270",
+    "Word": "69",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "정말 활용도 높고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "정리성/수납력",
+        "SentimentText": "보관이 편해서 다른 걸 못 쓰겠다고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 칼자국이 안 난다는 것입니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 비싸지 않아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "누구나 쓰기가 아주 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "실리콘 재질이라 끓는 물에 소독도 할 수 있고 잘 마르고 ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "무엇보다 색상이 예뻐요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1035498",
+    "RawText": "사과를 잘라보니 나무 도마보다 더 좋아서 마음에 들었습니다    쭉 작은 사이즈 도마만 사용하다 큰 사이즈 도마를 사용해보려고 구매했는데 가볍고 무늬가  고급스럽고 예쁘네요 크기도 딱 원하는 사이즈고요 튼튼해서 좋은데 항균까지 된다니 더 좋 습니다 특히 앞면과 뒷면 색상이 다르게 되어 있어서 육류나 생선 같이 냄새가 날 수  있는 것들과 야채 같은 것을 구분해서 쓸 수 있어 더 좋습니다. 별거 아닐 수 있지만 도마 상 단 손잡이 부분이 걸수 있게 처리된 것도 넘 만족스럽습니다   작은 도마 하나라도 항균 제품으로 가족들의 건강을 챙기시길 바랍니다   ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 항균 양면 도마 20종모음",
+    "Syllable": "311",
+    "Word": "81",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "무늬가  고급스럽고 예쁘네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "크기도 딱 원하는 사이즈고요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼해서 좋은데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 항균까지 된다니 더 좋 습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "앞면과 뒷면 색상이 다르게 되어 있어서  ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "정리성/수납력",
+        "SentimentText": "도마 상단 손잡이 부분이 걸수 있게 처리된 것도 넘 만족스럽습니다 ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "항균 제품으로 가족들의 건강을 챙기시길 바랍니다 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "육류나 생선 같이 냄새가 날 수  있는 것들과 야채 같은 것을 구분해서 쓸 수 있어 더 좋습니다. ",
+        "SentimentWord": "17",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1035499",
+    "RawText": "간만에 장점이 많은 마음에 쏙 드는 도마를 장만했습니다 기쁜마음에 리뷰 올립니다   이렇게 잘 휘어지는 소재는 처음 사용해봤는데요. 끝은 잡기 쉽게 접혀져 있네요 구멍이  있어 도마를 걸어서 보관할 수도 있고요. 특히 국물 등이 흐르지 않도록 가장자리를 따라 살 짝 파인 홈이 있어서 좋습니다. 며칠 써보니 칼로 그어도 흠집이 잘 나지 않아서 더 만족스럽 네요. 세척시 힘없이 구부러지다보니 불편함은 좀 있구요. 도마 검색하다 나름 유명한 제품인  것 같아 주문했는데 만족합니다  사용해보니 장점이 참 많은 도마입니다 불편한 점은 찾아봐도 거의 없습니다 추천합니다",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 항균 도마 세트 ",
+    "Syllable": "315",
+    "Word": "79",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "이렇게 잘 휘어지는 소재는 처음 사용해봤는데요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "끝은 잡기 쉽게 접혀져 있네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "정리성/수납력",
+        "SentimentText": "구멍이  있어 도마를 걸어서 보관할 수도 있고요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "국물 등이 흐르지 않도록 가장자리를 따라 살 짝 파인 홈이 있어서 좋습니다.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "칼로 그어도 흠집이 잘 나지 않아서 더 만족스럽 네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": " 세척시 힘없이 구부러지다보니 불편함은 좀 있구요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1035500",
+    "RawText": "이렇게 모양이 이쁘게 잘 잘려서 나오니 아이들이 정말 좋아하고 잘 먹네요.  일단 받자마자 호박으로 해봤는데 잘 되네요. 신기해서 감자도 해보고 오이도 해봤어요 모양 이 아주 예쁘게 나와서 그런지 요리가 더 맛있네요 개인적으로 두께기능이 한단계 더 얇은게 있다면 좋 겠다는 생각이 들었어요 엄마가 필요하다고 하셔서 저도 같이 구매하게 되었는데 배송도 정 말 빠르고 칼도 잘 들고 잘산거 같습니다. 역쉬 독일 채칼이 좋은 것 같아요~! 그치만 전 사용 하다가 손을 몇번 베였어요 조심히 사용하셔야해요  이런 채칼이 있는 줄 모르는 분들이 많을듯 해서 이렇게 소개해 드렸습니다 좋네요.",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 와** 슬라이스 채칼",
+    "Syllable": "325",
+    "Word": "84",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "모양이 이쁘게 잘 잘려서 나오니 아이들이 정말 좋아하고 잘 먹네요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "일단 받자마자 호박으로 해봤는데 잘 되네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "모양 이 아주 예쁘게 나와서 그런지 요리가 더 맛있네요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "두께기능이 한단계 더 얇은게 있다면 좋 겠다는 생각이 들었어요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "칼도 잘 들고 잘산거 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "전 사용 하다가 손을 몇번 베였어요 조심히 사용하셔야해요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1035501",
+    "RawText": "화면에서 보던 것처럼 손잡이도 있어서 사용하기는 참 편해서 당분간은 잘 사용해보려고요.   칼날이 여러개 있어서 좋긴한데 전체적으로 아주 튼튼한 느낌은 아닌거 같아요. 손잡이가 있 어서 편하긴 한데 칼날 교체는 어떻게 하는지 몰라서 첨에 온거 그대로 사용 중 이에요 처음  사서 양파나 고구마를 잘라봤는데 모양이 중구난방이더라고요 아무래도 안 짤려서 힘을 쓰 게 되서 그런 것 같아요 이 제품은 중국제조로 가격은 싸지만 국산제조 제품보다 절삭력이  별로라 리뷰 잘 보시고 사세요  사이즈 아담하고 디자인도 예쁘지만 성능만 좋으면 참 좋을텐데 하는 아쉬움이 남는 제품이에요",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 다용도 만** 채칼 세트 10종",
+    "Syllable": "319",
+    "Word": "79",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "손잡이도 있어서 사용하기는 참 편해서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "칼날이 여러개 있어서 좋긴한데 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": " 아주 튼튼한 느낌은 아닌거 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": " 양파나 고구마를 잘라봤는데 모양이 중구난방이더라고요 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "아무래도 안 짤려서 힘을 쓰 게 되서 그런 것 같아요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 싸지만 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "절삭력이  별로라 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈 아담하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 예쁘지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "성능만 좋으면 참 좋을텐데 하는 아쉬움이 남는 제품이에요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1035502",
+    "RawText": "평소에 눈여겨보고 있던 제품이라 조심히 사용을 잘 하고 있고 만족합니다   친하게 지내는 언니가 선물이라고 줘서 사용해 봤습니다  성능은 만족 합니다. 얇게 잘 깍이긴한데  매끈한 모양으로 잘리지를  않고 채칼 모양도 견고하지 않아서  활용도는 별로 없을 것 같아요 그리고 칼날이 날카롭기 때문에 사 용시 장갑 착용은 필수 입니다. 처음 사용이라 잘못하여 당근과 함께 제 손가락 살도 날아갔 네요 세척도 당근이 부분 칼날에 끼어서 불편합니다   날카로워 위험하니 조심히 사용하시면 성능이 좋아 아주 유용할 것 같습니다",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 손** 만능채칼",
+    "Syllable": "289",
+    "Word": "72",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "조심히 사용을 잘 하고 있고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "성능은 만족 합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "얇게 잘 깍이긴한데 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "매끈한 모양으로 잘리지를 않고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "채칼 모양도 견고하지 않아서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "활용도는 별로 없을 것 같아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "칼날이 날카롭기 때문에 사 용시 장갑 착용은 필수 입니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "세척도 당근이 부분 칼날에 끼어서 불편합니다 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "날카로워 위험하니 조심히 사용하시면 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "성능이 좋아 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1035503",
+    "RawText": "잔뜩 기대감 안고 구입한 기계라 배신감이 드네요 구매는 늘 신중해야 된다는 걸 배웠네요  집에서 삽겹살에 파무침을 즐겨먹는 편이라 파채 썰기 귀찮아서 가격이 비교적 착한 것이 맘 에 들어 주문했습니다 그런데 밑판 흡착이 조금 약한듯 해서 꽉 잡고 힘을 줘서 돌리다보니  몇 번 쓰지도 않았는데 손잡이 부분이 부러져 버렸습니다 진심 구매한거 후회합니다. 이렇게  부실할 수가~~ 울 아들이 좋아하는 레고보다 약하네요 나사 풀고 해부해서 청소해야 파 낀 거 다 뺄수 있으니 청소하기도 힘듭니다  후기도 꼼꼼하게 읽어 보지 않고 신중하게 구매하지 못한 제 잘못이라 후회가 자꾸 되네요",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 뉴** 파채칼 파채기계 ",
+    "Syllable": "323",
+    "Word": "84",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 비교적 착한 것이 맘 에 들어 주문했습니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡·접착력",
+        "SentimentText": "밑판 흡착이 조금 약한듯 해서 꽉 잡고 힘을 줘서 돌리다보니",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "몇 번 쓰지도 않았는데 손잡이 부분이 부러져 버렸습니다 ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "나사 풀고 해부해서 청소해야 파 낀 거 다 뺄수 있으니 청소하기도 힘듭니다",
+        "SentimentWord": "12",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "이렇게  부실할 수가~~ 울 아들이 좋아하는 레고보다 약하네요 ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1035504",
+    "RawText": "칼날이 굉장히 날카로워서 그만큼 잘 들어서 김장할 때 유용하게 잘 사용하고 만족감에 후기 올립니다    항상 채칼에 대한 두려움이 있어서 자주 사용하지는 않지만 김장하기 전에 장만하려고 주문 했습니다 편하게 잘 사용하고 있습니다 근데 두께가 균일하게 잘리진 않습니다 채칼날 아래쪽에 찌꺼기 가 껴서 씻을때 조금 신경이 쓰이기도 하고요 우선 당근을 사용해 봤는데 딱딱해서 그런지  힘이 좀 많이 들어가네요 그래도 안전홀드 덕분에 손 다치치 않게 끝까지 썰수 있어 좋아요 덕분에 김장은 무 난하게 잘 끝났습니다  안전홀드가 있으니 꼭 사용하셔서 손 다치지 않도록 조심하시기 바랍니다    ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 채칼 강판 양배추슬라이서",
+    "Syllable": "327",
+    "Word": "81",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "칼날이 굉장히 날카로워서 그만큼 잘 들어서 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "김장할 때 유용하게 잘 사용하고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 편하게 잘 사용하고 있습니다 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 두께가 균일하게 잘리진 않습니다 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "채칼날 아래쪽에 찌꺼기 가 껴서 씻을때 조금 신경이 쓰이기도 하고요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "당근을 사용해 봤는데 딱딱해서 그런지  힘이 좀 많이 들어가네요 ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "안전홀드 덕분에 손 다치치 않게 끝까지 썰수 있어 좋아요 ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "안전홀드가 있으니 꼭 사용하셔서 손 다치지 않도록 조심하시기 바랍니다  ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1035505",
+    "RawText": "이렇게 잘 잘리니 사용을 안 할 수도 없네요 부담없는 가격에 만족하며 잘 사용중입니다   일본 제품이라고 해서 구매하기 싫었지만 성능이 좋다는 걸 알고 있어서 망설이다 샀는데 확 실히 좋긴 하네요 돈가스 집에서 먹던 양배추처럼 잘 잘리네요 절삭력이 좋아 정말 얇게 잘  잘립니다 두께 조절이 가능하니 다양한 식재료를 손쉽게 원하는 두께로 썰 수 있어서 좋아요  다만 손 다치지 않게 조심히 사용해야 합니다    이젠 집에서도 돈가스 맛있게 튀겨서 얇게 잘 썬 양배추 곁들여서 맛난 식사 하세요",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 양배추채칼 두께조절",
+    "Syllable": "275",
+    "Word": "73",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "이렇게 잘 잘리니 사용을 안 할 수도 없네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "부담없는 가격에 만족하며",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "잘 사용중입니다 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 돈가스 집에서 먹던 양배추처럼 잘 잘리네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "절삭력이 좋아 정말 얇게 잘  잘립니다 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "두께 조절이 가능하니 다양한 식재료를 손쉽게 원하는 두께로 썰 수 있어서 좋아요 ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "다만 손 다치지 않게 조심히 사용해야 합니다  ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "성능이 좋다는 걸 알고 있어서 망설이다 샀는데 확 실히 좋긴 하네요 ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1035506",
+    "RawText": "양배추 샐러드 더 자주 만들어 먹으려고 구입했는데 너무 편해서 진작 살 걸 하는 아쉬움이  드네요    저는 양배추를 좋아해서 거의 매일 먹고 있는데 진작에 사고 싶어서 벼르고 벼르다 가격이  많이 다운되고 해서 드디어 구입했습니다 과일청 담을 때도 쓰려구요. 칼날이 무서울 정도로  날카로우니 손 꼭 조심하셔야 해요. 안전 손잡이 있으니 꼭 사용하세요 귀찮다고 그냥 하시 면 손 베일수 있네요 저도 손톱이 쬐금 날아갔어요 그래도 정말 얇게 썰려서 아주 만족스럽 습니다.   일정하게 잘 썰린 양배추는 좋지만 칼날이 정말 날카로우니 조심해서 사용하셔야 합니다",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 양배추 슬라이서",
+    "Syllable": "312",
+    "Word": "79",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "너무 편해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이  많이 다운되고 해서 드디어 구입했습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "칼날이 무서울 정도로  날카로우니 손 꼭 조심하셔야 해요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "안전 손잡이 있으니 꼭 사용하세요 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "정말 얇게 썰려서 아주 만족스럽 습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "일정하게 잘 썰린 양배추는 좋지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "칼날이 정말 날카로우니 조심해서 사용하셔야 합니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "과일청 담을 때도 쓰려구요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1035507",
+    "RawText": "아이들이 잡채랑 김밥을 좋아하는데 이젠 더 자주 만들어 줄 수 있을 것 같아 좋네요   늘 채썰면서 야채 끄트머리쪽으로 가면 손 다칠까 노심초사했는데 이젠 야채를 고정하며 야 무지게 잘 잡아주는 안전 손잡이가 있어서 걱정없이 끝까지 채치거나 편으로 썰수 있겠네요  아주 매끄럽게 절삭되지는 않지만 안전하게 쓸수 있어 가격대비 만족해요 가격도 정말 착했 어요 하늘색이라 색상도 예쁘네요 제일 얇은 칼날로 당근 채썰었는데 잘 썰려요 성능이 짱입 니다  늘 조심해야 하는 칼날이지만 안전하게 잘 만들어진것 같아서 믿고 추천해 드립니다",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 채칼 3종 올** 강판 슬라이서",
+    "Syllable": "295",
+    "Word": "75",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 이젠 더 자주 만들어 줄 수 있을 것 같아 좋네요 ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "이젠 야채를 고정하며 야 무지게 잘 잡아주는 안전 손잡이가 있어서 걱정없이 끝까지 채치거나 편으로 썰수 있겠네요 ",
+        "SentimentWord": "16",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "아주 매끄럽게 절삭되지는 않지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 안전하게 쓸수 있어",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 만족해요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 정말 착했 어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": " 하늘색이라 색상도 예쁘네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "제일 얇은 칼날로 당근 채썰었는데 잘 썰려요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "성능이 짱입 니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "늘 조심해야 하는 칼날이지만 안전하게 잘 만들어진것 같아서 ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1035508",
+    "RawText": "오늘도 솔직한 후기 들려드릴게요~ 오늘의 후기는 스텐 프라이팬입니다.  제가 이 프라이팬을 잘 길들였다고 생각했거든요? 근데 부침개를 해먹을 때마다 눌어붙더라 고요. 설명서에 쓰여있는대로 했는데 잘 안되었어요. 설명서에 저 같은 요리 초보를 위해 더  자세하게 쓰여있었으면 좋겠다는 생각을 했답니다. 그리고 이 제품 무겁습니다. 아이 키우면서 손목이 많이 약해져서 프라이팬 무게도 무겁다  보니까 힘들었어요.   잘 읽으셨나요? 또 솔직한 후기 보러 들러주세요~",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스** 스텐 프라이팬 풀세트",
+    "Syllable": "258",
+    "Word": "58",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "부침개를 해먹을 때마다 눌어붙더라고요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "설명서에 쓰여있는대로 했는데 잘 안되었어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "설명서에 저 같은 요리 초보를 위해 더  자세하게 쓰여있었으면 좋겠다는 생각을 했답니다.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "이 제품 무겁습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "손목이 많이 약해져서 프라이팬 무게도 무겁다  보니까 힘들었어요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1035509",
+    "RawText": "누구보다 빠르게 제품 사용한 후기 알려드립니다. 오늘의 제품은 OO 스텐 프라이팬입니 다.  이 제품 너무 고급스럽지 않나요? 저는 처음 받고 나서 쓰기 아깝다 생각이 들 정도로 디자인이  고급스러웠네요. 손잡이도 신경 써서 만들었더라고요. 손잡이 부분도 많이 뜨거워지잖아요? 이 제품은 손잡이가 뜨겁지 않게 되는 소재로 만 들어서 손잡이가 많이 안 뜨거워서 바로잡을 수 있었어요. 이런 섬세함이 저는 좋았답니다.  잘 보셨나요? 누구보다 빠른 후기로 또 돌아올게요.",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스** 스텐 프라이팬 풀세트",
+    "Syllable": "261",
+    "Word": "63",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "이 제품 너무 고급스럽지 않나요? ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 고급스러웠네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": " 손잡이가 뜨겁지 않게 되는 소재로 만들어서",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "열전도성",
+        "SentimentText": "손잡이가 많이 안 뜨거워서 바로잡을 수 있었어요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1035510",
+    "RawText": "오늘도 솔직한 후기 들려드릴게요. 오늘의 후기는 프라이팬 풀세트입니다.  스텐 프라이팬 사용하시기 전에 연마제 제거해야 하는 거 다 아시죠? 연마제 제거 쉽게 봤다가 큰코다쳤습니다. 프라이팬에서 연마제가 많이 나와서 손목 아파서  며칠 동안 파스 붙이고 있었네요. 그래도 다 제거해서 속은 시원했네요. 연마제 제거 다 하고 사용을 해봤는데요. 역시 스텐은 사용하기 쉽지 않더라구요. . 양념 다 눌러붙고ㅋㅋ 그나마  수세미로 쓱쓱 닦으면 씻겨 나가니 그건 괜찮네요. 길들여서 잘 쓸게요.  더 궁금하신 점 있으면 댓글로 알려주세요~",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스** 스텐 프라이팬 풀세트",
+    "Syllable": "297",
+    "Word": "71",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "프라이팬에서 연마제가 많이 나와서 손목 아파서  며칠 동안 파스 붙이고 있었네요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "역시 스텐은 사용하기 쉽지 않더라구요. .",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "양념 다 눌러붙고ㅋㅋ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "그나마  수세미로 쓱쓱 닦으면 씻겨 나가니 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "연마제 제거 쉽게 봤다가 큰코다쳤습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1035511",
+    "RawText": "오늘도 클릭해 주셔서 감사합니다. 오늘의 후기는 스텐 프라이팬입니다.  보통 프라이팬 세트에 곰솥이 포함이 안되는데 이 제품은 곰솥이 구성에 포함되어 있어서 너 무 좋았어요. 은근히 곰솥 쓸 일이 많거든요. 저는 여기에 고구마 쪄서 잘 먹는답니다. 스텐팬은 처음이라 길들이기가 어려울 줄 알았는데 설명서대로 따라 하니까 쉽게 길들여 졌어요. 계란 프라이로 실험을 해봤는데 눌어붙지도 않고 잘 되더라고요. 아주 잘 사용 중이랍니다.  여러분도 스텐 프라이팬 도전해 보세요~",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스** 스텐 프라이팬 풀세트",
+    "Syllable": "263",
+    "Word": "63",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "곰솥이 구성에 포함되어 있어서 너 무 좋았어요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여기에 고구마 쪄서 잘 먹는답니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "스텐팬은 처음이라 길들이기가 어려울 줄 알았는데 설명서대로 따라 하니까 쉽게 길들여 졌어요",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "계란 프라이로 실험을 해봤는데 눌어붙지도 않고 잘 되더라고요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "아주 잘 사용 중이랍니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1035512",
+    "RawText": "안녕하세요~ 여러분의 살림꾼 왔습니다. 오늘의 후기는 프라이팬 세트입니다.  스텐팬 써보셨나요? 스텐팬은 잘 길들여서 사용하면 오랫동안 사용하잖아요. 그래서 저도 한 번 도전해 봤네요. 설명서나 방송에서 길들이는 게 쉽다고 해서 저도 해봤는 데요. 저 같은 요리 초보에 스텐팬은 길들여서 사용하는 게 쉽지 않네요. 온도가 어느 정도가 정확 한지 몰라서 계란 프라이를 했는데 다 눌어붙었어요. 계속 연습해야겠어요. 가격 비싸게 샀으니 언젠가는 꼭 길들여서 사용해야겠어요.  끝까지 읽어주셔서 감사합니다. 다음에 또 돌아올게요.",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스** 스텐 프라이팬 풀세트",
+    "Syllable": "293",
+    "Word": "67",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 요리 초보에 스텐팬은 길들여서 사용하는 게 쉽지 않네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 계란 프라이를 했는데 다 눌어붙었어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 비싸게 샀으니",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1035513",
+    "RawText": "오늘도 솔직한 후기 들려드릴게요~ 오늘은 프라이팬 세트입니다.  이 프라이팬 넓어 마음에 들었어요. 넓어서 한꺼번에 많은 양을 할 수 있어서 좋았어요. 4인 가족이 마음껏 먹어도 되는 양을 해도 넘치지 않았답니다 다만 손잡이가 필요 이상으로 길었어요. 그래서 손잡이가 길고 무겁다 보니까  인덕션에서 팬이 들리고 빙글 돌아서 위험할 뻔했어요. 손잡이를 좀 짧게 만들어줬으면 좋았을 텐데 하는  아쉬움이 있었네요.  항상 끝까지 읽어주셔서 감사합니다. 부족한 점 댓글로 알려주시면 보고 발전해나갈게요~",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 크** IH 프라이팬 4종 세트",
+    "Syllable": "279",
+    "Word": "65",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "이 프라이팬 넓어 마음에 들었어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "넓어서  한꺼번에 많은 양을 할 수 있어서 좋았어요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": " 4인 가족이 마음껏 먹어도 되는 양을 해도 넘치지 않았답니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "손잡이가 필요 이상으로 길었어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "손잡이가 길고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무겁다 보니까 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "인덕션에서 팬이 들리고 빙글 돌아서 위험할 뻔했어요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "손잡이를 좀 짧게 만들어줬으면 좋았을 텐데 하는  아쉬움이 있었네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1035514",
+    "RawText": "안녕하세요~ 여러분의 살림꾼이 왔습니다. 오늘의 후기는 냄비 세트입니다.  이 세트에 있는 편수 후기 들려드릴게요. 다른 편수보다 무겁더라고요. 편수는 다른 냄비보 다 자주 사용하게 되는데 무거워서 손목에 무리가 왔어요. 무거운데 가볍겠거니 생각하고 막 들어서 그런 거 같아요. 그런데 이 편수 무수분 요리할 정도로 두 껍더라고요. 무수분 수육을 해봤는데 맛있게 잘 되었답니다. 장점과 단점이 있는 편수였어요.  끝까지 읽어주셔서 감사합니다. 다음에도 클릭해 주세요~",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 크** IH 프라이팬 4종 세트",
+    "Syllable": "261",
+    "Word": "60",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "다른 편수보다 무겁더라고요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "편수는 다른 냄비보다 자주 사용하게 되는데 무거워서 손목에 무리가 왔어요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무거운데 가볍겠거니 생각하고 막 들어서 그런 거 같아요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "무수분 요리할 정도로 두껍더라고요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "무수분 수육을 해봤는데 맛있게 잘 되었답니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1035515",
+    "RawText": "오늘도 클릭해 주셔서 감사합니다. 오늘의 후기는 냄비 세트입니다.  냄비 세트에 들어있는 계란말이 팬은 보통 프라이 한 개 정도 할 수 있는 크기로 오잖아요. 이 세트는 팬 사이즈가 엄청 커서 마음에 들었어요.  계란말이도 대왕 계란말이를 할 수 있는 큰 크기라서 좋았습니다.  토스트 같은 거 만들 때 참 편하더라구요. 식빵 2장이 다 들어가는 크기여서 한 장씩 안  하고 두 장 한꺼번에 올려서 시간 절약했네요. 다만 크기가 커서 조금 무거웠어요. 이 점 유의하세요~  끝까지 봐주셔서 감사합니다. 추천해 주실 제품 있으면 댓글로 알려주세요~",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 크** IH 프라이팬 4종 세트",
+    "Syllable": "305",
+    "Word": "79",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "팬 사이즈가 엄청 커서 마음에 들었어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": " 계란말이도 대왕 계란말이를 할 수 있는 큰 크기라서 좋았습니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "토스트 같은 거 만들 때 참 편하더라구요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "식빵 2장이 다 들어가는 크기여서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "한 장씩 안  하고 두 장 한꺼번에 올려서 시간 절약했네요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": " 크기가 커서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "조금 무거웠어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1035516",
+    "RawText": "오늘도 솔직한 후기 들고 왔습니다. 오늘의 후기는 프라이팬 4종 세트입니다.  저는 이 제품 사용하면서 가장 좋았던 게 20cm 편수인데요. 우리 보통 시중에서 나오는 편수가 거의 18cm 잖아요. 그래서 라면 2개 정도? 끓이는 크기 인데 이 제품은 20cm로 사이즈가 커서 좋았어요. 라면 3개도 가능한 큰 크기였어요. 또 편수에도 프라이팬과 같은 코팅이 잘 되어 있어 재료를 볶다가 국물을 넣는 요리에 너무 좋았 답니다.  오늘의 솔직한 후기 잘 보셨나요? 항상 솔직하게 후기 들려드릴게요~ ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 크** IH 프라이팬 4종 세트",
+    "Syllable": "278",
+    "Word": "70",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": " 이 제품은 20cm로 사이즈가 커서 좋았어요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "라면 3개도 가능한 큰 크기였어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "편수에도 프라이팬과 같은 코팅이 잘 되어 있어",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "재료를 볶다가 국물을 넣는 요리에 너무 좋았 답니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1035517",
+    "RawText": "안녕하세요~ 여러분의 살림꾼이 왔습니다. 오늘의 후기는 프라이팬 세트입니다.  프라이팬 좋은 거 써보려고 외국 비싼 제품도 사봤는데요. 우리나라 기술도 많이 좋아져서  그럴 필요가 없겠더라고요. 오늘 소개할 프라이팬은 외국 제품보다 저렴하지만 성능은 큰 차 이가 없었답니다. 코팅력이 좋아 기름을 조금 넣어도 달라붙는 게 하나도 없었어요. 명절에  전 부칠 때 코팅 덕분에 전 부칠 때 기름을 적게 넣어도 되니 다이어트 걱정 없이 전 맛있게 먹었네요.. 가격도 저렴하고  성능도 좋은 이 프라이팬 사용해 보세요~  끝까지 읽어주셔서 감사합니다. 궁금하신 점 댓글로 남겨주세요~ ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 크** IH 프라이팬 4종 세트",
+    "Syllable": "323",
+    "Word": "77",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "외국 제품보다 저렴하지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "성능은 큰 차이가 없었답니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅력이 좋아 기름을 조금 넣어도 달라붙는 게 하나도 없었어요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅 덕분에 전 부칠 때 기름을 적게 넣어도 되니 다이어트 걱정 없이 전 맛있게 먹었네요.",
+        "SentimentWord": "15",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "성능도 좋은 이 프라이팬 사용해 보세요~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1035518",
+    "RawText": "오늘의 솔직한 후기는 내열냄비 세트입니다. 솔직한 후기 기대해 주세요~  제가 이 제품을 사용하면서 느꼈던 점은 스팀 바스켓이 활용도가 좋았다는 점입니다. 지름이 20cm인 모든 냄비에 사용이 가능했어요. 그래서 설거지가 밀려도 아무 냄비나 꺼내서  편하게 사용하고 했네요. 또 고구마나 생선 찜 요리가 맛있게 되더라고요. 다만 밑에 냄비가 색상이 너무 희어서 센 불로 하면 그을음이 생기고, 또 음식물이 튀어 붙으면 잘  안 지워졌어요. 이점은 좀 아쉽네요~  잘 보셨나요? 남은 한 해 잘 마무리하세요~",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 내열냄비 세트+스팀바스켓",
+    "Syllable": "283",
+    "Word": "70",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "스팀 바스켓이 활용도가 좋았다는 점입니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "지름이 20cm인 모든 냄비에 사용이 가능했어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 설거지가 밀려도 아무 냄비나 꺼내서  편하게 사용하고 했네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "고구마나 생선 찜 요리가 맛있게 되더라고요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "밑에 냄비가 색상이 너무 희어서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "센 불로 하면 그을음이 생기고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "음식물이 튀어 붙으면 잘  안 지워졌어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1035519",
+    "RawText": "오늘도 클릭해 주셔서 감사합니다. 오늘의 후기는 내열냄비 세트입니다. 그럼 시작할게요~  이 브랜드 처음이시죠? 저도 처음 사용해 봤는데요. 이 냄비를 사용하면서 가장 좋았던 게  손잡이 부분인데요. 손잡이를 두껍게 만들어서 열전도율을 낮췄다고 해요. 진짜 펄펄 끓이고 손잡이를 바로잡아도 안 뜨거워서 따로 실리콘 냄비 손잡이를 준비 안 해 도 돼서 편했어요. 손잡이 그립감도 좋았답니다. 아! 이 제품은 다른 열원은 다 가능한데 인 덕션은 불가라고 합니다. 이 점 알아두세요!  항상 감사드리고 오늘 하루도 행복하게 보내세요~",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 내열냄비 세트+스팀바스켓",
+    "Syllable": "295",
+    "Word": "71",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "손잡이를 두껍게 만들어서 열전도율을 낮췄다고 해요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "열전도성",
+        "SentimentText": "손잡이를 바로잡아도 안 뜨거워서 따로 실리콘 냄비 손잡이를 준비 안 해도 돼서 편했어요",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "그립감",
+        "SentimentText": "손잡이 그립감도 좋았답니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "이 제품은 다른 열원은 다 가능한데",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "인덕션은 불가라고 합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1035520",
+    "RawText": "안녕하세요~ 여러분의 살림꾼이 왔습니다. 오늘의 후기는 내열냄비 세트입니다.  우리 주방기구 사용할 때 환경호르몬 걱정 많이 하잖아요? 이 제품은 글라스 세라믹 재질로  환경호르몬이 안 나오는 소재라 안심이 돼요. 심지어 세균 번식도 막아주는 효과가 있다고 해 요. 저는 그래서 가격이 비싸지만 가족들을 위해 이 냄비를 사용하고 있어요. 프랑스에서 만들었는데요. 냄비 겉 부분이 민무늬가 아니라 튤립 무늬로 되어있어 너무 우아 하고 아름답더라고요. 여러분도 한 번 사용해 보세요~  오늘도 잘 보셨나요? 항상 건강하고 행복한 하루 보내세요! ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 내열냄비 세트+스팀바스켓",
+    "Syllable": "303",
+    "Word": "72",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "글라스 세라믹 재질로  환경호르몬이 안 나오는 소재라 안심이 돼요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 세균 번식도 막아주는 효과가 있다고 해요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 비싸지만 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "냄비 겉 부분이 민무늬가 아니라 튤립 무늬로 되어있어 너무 우아 하고 아름답더라고요.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1035722",
+    "RawText": "곰솥까지는 아니더라도 좀 큰 사이즈에 냄비를 하나 사려던차에, OO 브랜드를 보고 구입한 곰솥과, 프라이팬. 리뷰로 올려 봅니다^^  이 브랜드 제품은 이미 구매해서 잘쓰고 있는 중인데, 찜통이 함께 있는 구성이 넘 맘에 들어 또 구매했네요 ㅎ. 팬 좋은건 이미 다 아는 건데요, 한가지 프라이팬은 손목에 묵직한 무게가 느껴지긴해요. 딱 요거 빼고는 찜통 사이즈도 좋고 다 좋아요. 곰솥은 연마제 닦아내느라 고생을 좀 하긴 했어요 ㅋ 그래도 좋은 가격에 넘 행복하네요.  새 주방용품은 요리시간을 더 즐겁게 해주네요^^ 리뷰 마칩니다~  ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 블** 프라이팬 세트+9L 곰솥[+찜기] ",
+    "Syllable": "301",
+    "Word": "76",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "찜통이 함께 있는 구성이 넘 맘에 들어 또 구매했네요 ㅎ.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "한가지 프라이팬은 손목에 묵직한 무게가 느껴지긴해요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "찜통 사이즈도 좋고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "곰솥은 연마제 닦아내느라 고생을 좀 하긴 했어요 ㅋ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 가격에 넘 행복하네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1035723",
+    "RawText": "오늘은 좋은 상품 알려드리고 싶은 마음에 상품 받자마자 먼저 보여드려요^^ 요런 주방용품도 있다는거 먼저 확인해보세요~  사용전 가성소다 넣고 끓이고, 식초물에 끓이고, 주방세제 세척 등등....복잡한 과정의 결론은 구석구석 연마제 힘들게 닦아냈습니다. 아직 사용은 못해봤어요ㅎㅎ 다른 제품들은 얼마 안쓰면 코팅 벗겨지고 늘러 붙고, 바닥에 이물질 생기고 했는데...이 제품은 변치 않고 오래오래 쓸수있길 기대해봅니다. 가격은 좀 있었지만, 곰솥까지 있는 좋은 구성이길래 구입해봤어요.  다음 포스팅에서는 찐 사용후기와 맛있게 요리하는 모습도 보여드릴테니 기대해주세요",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 블** 프라이팬 세트+9L 곰솥[+찜기] ",
+    "Syllable": "317",
+    "Word": "68",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "복잡한 과정의 결론은 구석구석 연마제 힘들게 닦아냈습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "이 제품은 변치 않고 오래오래 쓸수있길 기대해봅니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 좀 있었지만, ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "곰솥까지 있는 좋은 구성이길래 구입해봤어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1035724",
+    "RawText": "요즘 같이 추운날은 밖에 돌아다니기도 힘들어요. 조금만 추워도 손발이 꽁꽁, 정말 춥네요.다들 따뜻하게 잘 챙겨 입으시고 감기도 조심하시고요~ 오늘은 주방에 새로 들여놓은 후라이팬을 보여드릴게요~  프라이팬, 참 자주 사용하는데 다들 코팅이 오래가지를 않아 고민하고 있었는데 지인에게 같은 브랜드거를 추천받아 구매해봤어요. 두께도 적당히 두꺼워서 튼튼해 보이고, 사이즈도 딱 적당해서 잘 샀다싶네요. 요리하고 설거지를 해보면 쉽게 닦여서 더 좋구요. 더 오래~ 사용해봐야 알겠지만 지금은 대만족이네요.  팬 필요하시면 구매하셔도 좋을 듯해요. 그럼, 오늘의 리뷰를 마칩니다~",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "[팬2+냄비2] OO 블** 쿡웨어 4종 [+뚜껑 2종]",
+    "Syllable": "321",
+    "Word": "71",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "두께도 적당히 두꺼워서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "튼튼해 보이고,",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈도 딱 적당해서 잘 샀다싶네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "요리하고 설거지를 해보면 쉽게 닦여서 더 좋구요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1035725",
+    "RawText": "안녕하세요~ 오늘은 주부라면, 아니 요리에 관심이 있다면 많이들 아시는 브랜드 OO의 후라이팬을 리뷰해봅니다~ 끝까지 읽어봐 주세요~  후라이팬이야 자주 바꿔줘야 하는 주방용품인데도, 살때마다 이번엔 어떤걸 사볼까 고민을 하네요. 이번에 구매한 팬은 두께가 얇고 가벼워서 손목에 무리가 없어요. 웍은 생각보다 작아요. 닭볶음이라도 하려면 닭한마리를 요리하기에도 작아보이네요. 작은 후라이팬은 계란 하나 하기에 좋은 사이즈로 갖고 싶었던 팬이에요. 박스도 고급져서 선물하기에도 좋을거 같아요~  자세히 보셨나요? 후라이팬 구매 고민중이셨다면 도움 받으셨으면 합니다~",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트[20+28+양수웍28+뚜껑]",
+    "Syllable": "315",
+    "Word": "67",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "이번에 구매한 팬은 두께가 얇고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워서 손목에 무리가 없어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "웍은 생각보다 작아요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "닭볶음이라도 하려면 닭한마리를 요리하기에도 작아보이네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "작은 후라이팬은 계란 하나 하기에 좋은 사이즈로 갖고 싶었던 팬이에요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1035726",
+    "RawText": "주방에 두고 쓰는 주방가위, 요리중인데 안보이면 답답할 일이죠.ㅋ 우리집 주방엔 세개가 있는데, 그중 하나를 이번에 교체했어요.   OOO 가위는 한번 사면 10년간은 너무 잘 써서 모델은 달라도 이 브랜드 가위만 구매합니다. 이번에 산 가위는  중간에 조여지는 볼트도 튼튼해서 풀리지 않고 가위 그립도 좋고 딱 원하던 크기라 잘 샀어요. 새 가위인데다, 끝이 좀 날카로워 조심은 해야겠어요. 김치를 간단하게 가위로 자르는 편인데, 사용해보니 한번에 싹뚝 잘 썰리네요. 요 가위도 오래 사용하겠어요.        우리집 주방용품 중엔, 필요하지 않은건 없는거 같아요^^   오늘도 행복한 하루 보내세요~",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 마** 주방가위",
+    "Syllable": "337",
+    "Word": "79",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "이번에 산 가위는  중간에 조여지는 볼트도 튼튼해서 풀리지 않고 ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "그립감",
+        "SentimentText": "가위 그립도 좋고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "딱 원하던 크기라 잘 샀어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "새 가위인데다, 끝이 좀 날카로워 조심은 해야겠어요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "절삭력",
+        "SentimentText": "사용해보니 한번에 싹뚝 잘 썰리네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성/견고성",
+        "SentimentText": "요 가위도 오래 사용하겠어요.      ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1035727",
+    "RawText": "TV에서 달인들의 정리도 많이 참고하면서, 옷장이며, 수납장들 정리했었는데, 냉장고 정리는 항상 더 어려운거 같아요. 이번에 큰 도움받은 냉장고 정리용품이 있어 소개해봅니다.  살까 말까 고민하기를 수주동안 했는데 냉동실의 비닐들을 보면서 드디어 구매. 고민은 배송만 늦출 뿐이었네요 ㅎㅎ 진짜 냉동실 정리가 쉬우면서도 냉동실이 깔끔해졌어요. 조금 비싸다 생각했는데 상품은 정말 마음에 드네요. 소재도 냉동실에 쓰기에 좋은 소재인거 같아요.  정리에 관심있는 이웃님들이시면, 구매해 보셔도 좋을 듯합니다!",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 최대용량 냉동실 용기",
+    "Syllable": "282",
+    "Word": "62",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "정리성/수납력",
+        "SentimentText": "진짜 냉동실 정리가 쉬우면서도 냉동실이 깔끔해졌어요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "조금 비싸다 생각했는데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재도 냉동실에 쓰기에 좋은 소재인거 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1035728",
+    "RawText": "벌써 한해를 마무리하는 12월이네요. 모두들 연말 마무리 잘하시고 계시나요~ 이번 포스팅은 오래된 팬을 바꾸느라 구입한 후라이팬과 웍의 구매후기입니다~  사이즈도 적당해서 좋고 가벼워서 좋고 할인 받아서 싸게 샀고 배송도 빠르게 왔고 무엇보다 후라이팬은 OO이죠.  그런데 일반적인 후라이팬보다는 좀 두께가 얇습니다. 웍은 이 브랜드거 처음 써 보는거라 기대되고, 손잡이가 양쪽으로 달린 모양이라 참 좋아요. 불 조절 잘 해서 예쁘게 쓰려고요~~  여기까지 포스팅을 마치며, 읽어주셔서 감사합니다^^",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 퍼** 4종세트[20+28+양수웍28+뚜껑]",
+    "Syllable": "279",
+    "Word": "63",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "사이즈도 적당해서 좋고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워서 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인 받아서 싸게 샀고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "일반적인 후라이팬보다는 좀 두께가 얇습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "손잡이가 양쪽으로 달린 모양이라 참 좋아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1035729",
+    "RawText": "가족들 식탁에 올릴 음식은 늘 고민인데요. 그래도 제일 만만한게 생선구이지 않나 싶어요. 오늘은 생선 전용팬으로 사용하려고 구입한 사각팬을 소개드릴게요~  생선 거의 매일 굽는데 연기땜에 힘들어서 방송에서 보고 혹시나 하는 기대로 주문했어요.그냥 팬에 구울때보다 아무래도 뚜껑이 큰 역할을 하는지 연기는 확실히 덜해요. 익는것도 빨리 익는거 같고 생선도 더 촉촉하게 맛있는거 같네요.ㅎ  네모난 모양도 좋았고, 그러나...고무패킹 사이로 기름이 끼어 뚜껑 청소가 지옥 그 자체네요.ㅋㅋ  오늘 저녁 식탁엔 또 어떤 메뉴를 올릴지... 매일 고민이네요.^^",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 냄새해결 매** 사각팬 (27x21cm+유리뚜껑) ",
+    "Syllable": "310",
+    "Word": "71",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "제연/냄새방지",
+        "SentimentText": "그냥 팬에 구울때보다 아무래도 뚜껑이 큰 역할을 하는지 연기는 확실히 덜해요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "익는것도 빨리 익는거 같고 생선도 더 촉촉하게 맛있는거 같네요.ㅎ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "네모난 모양도 좋았고, ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "고무패킹 사이로 기름이 끼어 뚜껑 청소가 지옥 그 자체네요.ㅋㅋ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1035730",
+    "RawText": "친구가 써보라며 추천해준 사각후라이팬이 스테이크나 삼겹살 생선 등 굽기 용도로 괜찮을듯싶어 고민하다가, 드디어 주문. 여러분들께도 소개해봅니다~  뚜껑 열때 냄새가 나는건 당연한거라 어쩔 수 없지만 확실히 일반 후라이팬보다는 성능이 좋은 것 같아요~! 그런데 생각보다는 작은 크기라 굴비 두 마리 넣으니 꽉 차네요. 그래도 삼겹살등 고기나 생선 구울때 제일 유용하게 쓸거 같아요. 코팅도 짱짱해서 생선이 눌지 않고 좋네요.  사각팬 후기 잘보셨나요? 구매해보셔도 좋을듯 싶어 추천합니다!",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 냄새해결 매** 사각팬 (27x21cm+유리뚜껑) ",
+    "Syllable": "272",
+    "Word": "63",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "확실히 일반 후라이팬보다는 성능이 좋은 것 같아요~!",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "생각보다는 작은 크기라 굴비 두 마리 넣으니 꽉 차네요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "삼겹살등 고기나 생선 구울때 제일 유용하게 쓸거 같아요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "코팅력",
+        "SentimentText": "코팅도 짱짱해서 생선이 눌지 않고 좋네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1035731",
+    "RawText": "요리는 장비빨~ 요리 솜씨도 중요하지만 좋은 팬을 쓰는 것도 맛있는 요리의 핵심 ㅋ 그래서 생선 팬 하나 장만했습니다~  기존에 생선 구울때 사용하던 팬은 일반 후라이팬을 쓰던중인데, 낡기도 하고 지인들의 추천도 있고 해서 오로지 생선구이 목적으로만 구입하게 되었습니다. 아예 냄새가 안난다고 하면 거짓말이구 일반 팬에 할 때보다는 냄새가 적어 좋네요. 그리고 생선이 노릇노릇 더 맛있게 잘 구워지는 거 같습니다. 적당한 무게감도 있고 생선구이 전용 후라이팬으로 자주 사용할 거 같습니다. 좋은 상품 감사드려요!  여기까지 리뷰를 마치며, 저 처럼 생선팬 사시려는  분들께 도움되시길 바래요~",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 냄새해결 매** 사각팬 (27x21cm+유리뚜껑) ",
+    "Syllable": "331",
+    "Word": "81",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제연/냄새방지",
+        "SentimentText": "아예 냄새가 안난다고 하면 거짓말이구 일반 팬에 할 때보다는 냄새가 적어 좋네요. ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "생선이 노릇노릇 더 맛있게 잘 구워지는 거 같습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "적당한 무게감도 있고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "생선구이 전용 후라이팬으로 자주 사용할 거 같습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1035732",
+    "RawText": "안녕하세요~ 초보주부의 주방정리, 그중에 냉장고 정리는 항상 숙제인 거 같아요.  그런데, 이번에 구매한 냉동실 용기로 약간은 숙제를 해결 중이네요.  기대 안했는데 좋아요. 재질이 딱딱하지 않은 연질이라 냉동실에 쓰기도 좋고 정리하기도 편하고, 전에 쓰던 용기는 위아래로만 길쭉하고 딱딱해서 요즘 냉동실 구조상 정리하기 불편하고 쓰임새가 적었었는데, 이건 사이즈가 넓적해서 담을수 있는 음식도 여러가지라 쓰임새가 좋네요.  2인가족이라 기본세트 샀는데 충분한 구성이라 만족합니다.  요즘은 냉장고를 열면 정말 뿌듯하네요^^ 여러분께도 추천합니다!!",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 냉동실 용기 기본세트",
+    "Syllable": "307",
+    "Word": "66",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "재질/질감",
+        "SentimentText": "재질이 딱딱하지 않은 연질이라 냉동실에 쓰기도 좋고 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "정리성/수납력",
+        "SentimentText": "정리하기도 편하고, ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/용량",
+        "SentimentText": "이건 사이즈가 넓적해서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "담을수 있는 음식도 여러가지라 쓰임새가 좋네요.  ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "2인가족이라 기본세트 샀는데 충분한 구성이라 만족합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1035733",
+    "RawText": "주부 내공이 쌓이다 보니, 가격을 떠나서 품질이 좋은 스텐 주방용품이 건강에 도움되는 제품인것 같아서 스텐으로 바꿔가고 있어요. 이번엔 프라이팬을 스텐으로 바꿔봤어요~  꼼꼼하게 포장되었으나 팬에 살짝 잔기스가 있네용 큰 문제는 아니지만 약간 아쉽 ㅠ 무거운거 감안하고 구매했지만 무겁긴 하네요. 설명서대로 연마제 제거하는 작업했는데 쉽게 깨끗해지네요. 지금은 고기 계란후라이 맛있게 하고 있어요. 사용하고 설거지도 쉽게 되어서 좋고, 스텐 길들이기가 아직 쉽진 않지만 요리할 때마다 연구하며 찾아보고 있습니다.  다음엔 냄비도 스텐 제품으로 도전할 계획이에요~",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "주방용품",
+    "ProductName": "OO 스텐 통5중 커** 프라이팬 (28cm)",
+    "Syllable": "314",
+    "Word": "71",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "무거운거 감안하고 구매했지만 무겁긴 하네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "연마용이성",
+        "SentimentText": "설명서대로 연마제 제거하는 작업했는데 쉽게 깨끗해지네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "요리력",
+        "SentimentText": "고기 계란후라이 맛있게 하고 있어요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척용이성",
+        "SentimentText": "사용하고 설거지도 쉽게 되어서 좋고, ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]

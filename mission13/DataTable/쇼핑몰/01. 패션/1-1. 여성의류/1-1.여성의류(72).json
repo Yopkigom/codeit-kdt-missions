@@ -1,0 +1,3457 @@
+[
+  {
+    "Index": "33323",
+    "RawText": "오늘 배송 받았어요 상품 품질이 너무 맘에드네요 여름 정장으로 딱입니다 구김도 안가고요 추천합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 시스루 재킷 2종",
+    "ReviewScore": "100",
+    "Syllable": "54",
+    "Word": "13",
+    "RDate": "20210717",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "상품 품질이 너무 맘에드네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "여름 정장으로 딱입니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "구김도 안가고요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33326",
+    "RawText": "선물용으로 구매했어요. 받으신 분이 만족해하시네요, 편하게 잘 입고 다니신다고하니 좋네요. 가격이 너무 좋아서 걱정했는데~ 만족스럽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 시스루 재킷 2종",
+    "ReviewScore": "100",
+    "Syllable": "77",
+    "Word": "15",
+    "RDate": "20210711",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편하게 잘 입고 다니신다고하니 좋네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 너무 좋아서 걱정했는데~ 만족스럽습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33331",
+    "RawText": "너무 쫀쫀하게 늘어나져서 편하고 색감좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 시스루 재킷 2종",
+    "ReviewScore": "100",
+    "Syllable": "23",
+    "Word": "5",
+    "RDate": "20210720",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "신축성",
+        "SentimentText": "너무 쫀쫀하게 늘어나져서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색감좋네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33334",
+    "RawText": "속살이 다 비치는 채킷이고 가볍지않고  시원하지도 않아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 시스루 재킷 2종",
+    "ReviewScore": "100",
+    "Syllable": "31",
+    "Word": "7",
+    "RDate": "20210717",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "속살이 다 비치는 채킷이고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍지않고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "시원하지도 않아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "33337",
+    "RawText": "저렴하게 잘샀어요. 색상도 무난하고, 신축성 좋아서 편하게 잘입을듯합니다. 여름엔 마린룩이 최고죠^^생각지도못한 쿠폰이있어서 횡재한기분이었어요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 시스루 재킷 2종",
+    "ReviewScore": "80",
+    "Syllable": "80",
+    "Word": "13",
+    "RDate": "20210718",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘샀어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": " 색상도 무난하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": "신축성 좋아서 편하게 잘입을듯합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33342",
+    "RawText": "색상이 너무도 이쁘고 입으니 편하고 가벼워요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 시스루 재킷 2종",
+    "ReviewScore": "100",
+    "Syllable": "24",
+    "Word": "6",
+    "RDate": "20210721",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 너무도 이쁘고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "입으니 편하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33345",
+    "RawText": "얇고 신축성도 좋아요~ 에어컨 빵빵한 사무실에서 일하는분들은 딱 좋을듯 해요~ 여름에 잘 입고 다닐듯 해요~^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 시스루 재킷 2종",
+    "ReviewScore": "90",
+    "Syllable": "62",
+    "Word": "15",
+    "RDate": "20210717",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": "신축성도 좋아요~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "에어컨 빵빵한 사무실에서 일하는분들은 딱 좋을듯 해요~",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "여름에 잘 입고 다닐듯 해요~^^",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33355",
+    "RawText": "가걱대비괜찮은딧한데 스타일이 나이들어 보이는듯해요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 시스루 재킷 2종",
+    "ReviewScore": "70",
+    "Syllable": "27",
+    "Word": "4",
+    "RDate": "20210718",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가걱대비괜찮은딧한데",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "스타일이 나이들어 보이는듯해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "33358",
+    "RawText": "저렴하게 잘 구입했어요 ! 정사이즈가 딱 좋아요!",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 시스루 재킷 2종",
+    "ReviewScore": "100",
+    "Syllable": "27",
+    "Word": "7",
+    "RDate": "20210412",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 구입했어요 !",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "정사이즈가 딱 좋아요!",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33362",
+    "RawText": "신축성은  거의 고무줄수준~디자인이 카라부분과  어깨부분은  나름  정장느낌~전체적인  핏은  여름옷다운 느낌~품질이 그닥  고급진느낌은  기대안해야될듯",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 시스루 재킷 2종",
+    "ReviewScore": "100",
+    "Syllable": "85",
+    "Word": "13",
+    "RDate": "20210706",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "신축성",
+        "SentimentText": "신축성은  거의 고무줄수준~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 카라부분과  어깨부분은  나름  정장느낌",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "전체적인  핏은  여름옷다운 느낌",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 그닥  고급진느낌은  기대안해야될듯",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "33366",
+    "RawText": "상품평들이 다양해서 조금 걱정하다 샀는데 가격대비 좋아요. 제가 찾던 얇기라 여름에 가지고 다니며 에어컨 쎈 곳에서 입기 적당한거 같아요. 흰색은 단추하나인데 남색은 옆으로 단추2개인 형태네요. 전 단추하나가 좋은데 이점이 좀 아쉽지만 얇기나 어러모로 좋아요. 그런데 흰색 카라 옷감들 사이에 검은실인지 들어가서 눈에확 띠더라고요. 교환귀찮아서 간신히 바늘이용해 빼고 입네요. 요것땜에 별하나 뺐어요^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 시스루 재킷 2종",
+    "ReviewScore": "80",
+    "Syllable": "225",
+    "Word": "51",
+    "RDate": "20210705",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "제가 찾던 얇기라",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "전 단추하나가 좋은데 이점이 좀 아쉽지만",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": " 에어컨 쎈 곳에서 입기 적당한거 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇기나 어러모로 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "흰색 카라 옷감들 사이에 검은실인지 들어가서 눈에확 띠더라고요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "33370",
+    "RawText": "상품은 가격대비 마음에 드나 사이즈가 안 맞음어깨 등판 매무새ㅏ 이상함",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 시스루 재킷 2종",
+    "ReviewScore": "100",
+    "Syllable": "39",
+    "Word": "10",
+    "RDate": "20210522",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 마음에 드나",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 안 맞음",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "어깨 등판 매무새ㅏ 이상함",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "33390",
+    "RawText": "핏이 깔끔하고  가벼워서 입고다니기 편합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 시스루 재킷 2종",
+    "ReviewScore": "100",
+    "Syllable": "24",
+    "Word": "5",
+    "RDate": "20210701",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏이 깔끔하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "입고다니기 편합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33399",
+    "RawText": "그냥 편하게 입기 괜찮습니다  기장은  길어서 아쉽네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 시스루 재킷 2종",
+    "ReviewScore": "90",
+    "Syllable": "30",
+    "Word": "7",
+    "RDate": "20210428",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "그냥 편하게 입기 괜찮습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "기장은  길어서 아쉽네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "33422",
+    "RawText": "가격이 넘 사악해요 여름에 입기는 조금 더울것 같네요~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 시스루 재킷 2종",
+    "ReviewScore": "100",
+    "Syllable": "30",
+    "Word": "8",
+    "RDate": "20210505",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 넘 사악해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "여름에 입기는 조금 더울것 같네요~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "33424",
+    "RawText": "짱 좋아요 품도 좋고 시원하고 입기에 편하며 디자인이 예뻐요 역시 마르조 예요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 시스루 재킷 2종",
+    "ReviewScore": "100",
+    "Syllable": "43",
+    "Word": "12",
+    "RDate": "20210428",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "핏",
+        "SentimentText": "품도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "시원하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "입기에 편하며",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 예뻐요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33437",
+    "RawText": "팔길이가 조금 긴듯하지만  여름에 잘입을듯 합니다. 정장느낌도 있고 캐주얼도 가능하네요. 청바지, 반바지,치마 모두 잘 어울려요. 잘 입을께요.     ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 시스루 재킷 2종",
+    "ReviewScore": "80",
+    "Syllable": "85",
+    "Word": "17",
+    "RDate": "20210605",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "길이",
+        "SentimentText": "팔길이가 조금 긴듯하지만 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "여름에 잘입을듯 합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "청바지, 반바지,치마 모두 잘 어울려요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "정장느낌도 있고 캐주얼도 가능하네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33456",
+    "RawText": "쿠폰이 있어 더 저렴하게 샀어요~가격대비 좋네요~그런데 누가 반품한걸 보낸것처럼 박스테잎상태가  좋지않아 별하나 뺍니다~!옷은 한여름에 나시티입고 햇빛 가리는 용도로 아주 괜찮네요~!정장이나 캐주얼에 어울리네요~대체로 가격대비 만족합니다~!",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 시스루 재킷 2종",
+    "ReviewScore": "80",
+    "Syllable": "134",
+    "Word": "24",
+    "RDate": "20210624",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰이 있어 더 저렴하게 샀어요~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 좋네요~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "한여름에 나시티입고 햇빛 가리는 용도로 아주 괜찮네요~!",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "대체로 가격대비 만족합니다~!",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "정장이나 캐주얼에 어울리네요~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33460",
+    "RawText": "신축성이 있어서 편안하네요~~저렴한 가격에 2벌 적립금20%까지 굿이네요~~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 시스루 재킷 2종",
+    "ReviewScore": "100",
+    "Syllable": "42",
+    "Word": "7",
+    "RDate": "20210624",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "신축성",
+        "SentimentText": "신축성이 있어서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편안하네요~~",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 2벌 적립금20%까지 굿이네요~~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33471",
+    "RawText": "빠른 배송, 교환 처리도  생각보다 빨리 되어 넘 좋았네요. 다른 회사에서 나온거 보다 저렴하여 넘  기쁘게 주문했는데  역시 차이가 좀 있네요. ^^;; 생각보다 많이 얇아요. ㅎㅎㅎ 그래도 잘 입을거 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 시스루 재킷 2종",
+    "ReviewScore": "100",
+    "Syllable": "118",
+    "Word": "30",
+    "RDate": "20210526",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "다른 회사에서 나온거 보다 저렴하여",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "생각보다 많이 얇아요. ㅎㅎㅎ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "33486",
+    "RawText": "50대후반인데 블루 입어보니 디자인과 색상이  할머니옷 같고  천 재질도 싸보여서 실망 인데, 반품 귀찮아서 걍 내버려두었더니 구매결정 되었네요. ㅠㅠ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 시스루 재킷 2종",
+    "ReviewScore": "50",
+    "Syllable": "84",
+    "Word": "19",
+    "RDate": "20210421",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인과 색상이  할머니옷 같고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이  할머니옷 같고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "천 재질도 싸보여서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "33487",
+    "RawText": "품질이 딱 가격  만큼이네요ㅜ 재질이 넘 싸구려 같고 전체적으로 후줄근합니다ㅜㅜ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 시스루 재킷 2종",
+    "ReviewScore": "60",
+    "Syllable": "44",
+    "Word": "10",
+    "RDate": "20210629",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 딱 가격  만큼이네요ㅜ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질이 넘 싸구려 같고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "전체적으로 후줄근합니다ㅜㅜ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "33488",
+    "RawText": "팔이 짧은 저에게는 딱이네요 디자인이 넘 이쁘고 맘에 들어요 예쁘고 시원하게 입을께요 감사합니다~~~~^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 시스루 재킷 2종",
+    "ReviewScore": "100",
+    "Syllable": "59",
+    "Word": "13",
+    "RDate": "20210707",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "길이",
+        "SentimentText": "팔이 짧은 저에게는 딱이네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 넘 이쁘고 맘에 들어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33489",
+    "RawText": "얇으면서도 시원하고 디자인이 예쁘네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 시스루 재킷 2종",
+    "ReviewScore": "100",
+    "Syllable": "20",
+    "Word": "4",
+    "RDate": "20210708",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇으면서도",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "시원하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 예쁘네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33491",
+    "RawText": "색, 사이즈 모두 마음에 듭니다 입었을 때 조금 까칠까칠해서 날이 더울 때 입기 좋습니다 66으로 시켰는데 사이즈가 조금 큽니다 브릭 색깔은 TV에서 봤을 때보다 약간 색이 진하고 예쁩니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 시스루 재킷 2종",
+    "ReviewScore": "100",
+    "Syllable": "105",
+    "Word": "28",
+    "RDate": "20210706",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색, 사이즈 모두 마음에 듭니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": " 사이즈 모두 마음에 듭니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "입었을 때 조금 까칠까칠해서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "날이 더울 때 입기 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "66으로 시켰는데 사이즈가 조금 큽니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색이 진하고 예쁩니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33498",
+    "RawText": "디자인 고급스럽고 너무편하고  신축성도좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 시스루 재킷 2종",
+    "ReviewScore": "100",
+    "Syllable": "24",
+    "Word": "4",
+    "RDate": "20210521",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 고급스럽고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "너무편하고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": "신축성도좋아요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33517",
+    "RawText": "방송에서 봤던 그대로네요 촉감도 까슬까슬, 시원하고 스트레칭 잘 돼서 입기에 무척 편해요 게다가 날씬해보이기까지 굿입니다!",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 시스루 재킷 2종",
+    "ReviewScore": "100",
+    "Syllable": "68",
+    "Word": "15",
+    "RDate": "20210522",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감",
+        "SentimentText": "촉감도 까슬까슬,",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "시원하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": "스트레칭 잘 돼서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "입기에 무척 편해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "날씬해보이기까지 굿입니다!",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33518",
+    "RawText": "디자인은 다좋은데  네이비자켓 앞섭이 울어요 바느질 잘못인거같네요 수선해서 입어야겠네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 시스루 재킷 2종",
+    "ReviewScore": "70",
+    "Syllable": "48",
+    "Word": "9",
+    "RDate": "20210524",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인은 다좋은데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "네이비자켓 앞섭이 울어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "수선해서 입어야겠네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "33520",
+    "RawText": "디자인이 이쁘네요  사이즈도 넉넉하고  맘에 듭니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 시스루 재킷 2종",
+    "ReviewScore": "100",
+    "Syllable": "28",
+    "Word": "6",
+    "RDate": "20210522",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 이쁘네요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈도 넉넉하고  맘에 듭니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33544",
+    "RawText": "99샀는데 하늘하늘 스판재질이라  부담스러운 덩치로는 안보여요 사이즈가 여유가있고  기장이 약간 더 길어도 이쁠것같아요 너무 딱 정장 스러운 느낌은 있지만 단정한 자리에는 어울릴듯한 소장각나오는 옷입니다^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 시스루 재킷 2종",
+    "ReviewScore": "100",
+    "Syllable": "115",
+    "Word": "24",
+    "RDate": "20210531",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "하늘하늘 스판재질이라 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 여유가있고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "기장이 약간 더 길어도 이쁠것같아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "너무 딱 정장 스러운 느낌은 있지만 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": " 부담스러운 덩치로는 안보여요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "단정한 자리에는 어울릴듯한 소장각나오는 옷입니다^^",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33549",
+    "RawText": "여름자켓으로 재질이 얇은건 당연히 좋은데요. 소재가 너무 힘이 없어서인지 태가나질 않네요.  다른색상이 다 품절이라 브릭으로 했었는데 화이트였다면 낫지않았을까 싶구요.  착한가격에 2벌이라곤하지만 아무래도 손이 가질않을거 같아서 반품하려구요.  배송상태는 깔끔하고 좋았습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 시스루 재킷 2종",
+    "ReviewScore": "60",
+    "Syllable": "154",
+    "Word": "29",
+    "RDate": "20210530",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "여름자켓으로 재질이 얇은건 당연히 좋은데요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재가 너무 힘이 없어서인지 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "화이트였다면 낫지않았을까 싶구요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "착한가격에 2벌이라곤하지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": " 태가나질 않네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "33560",
+    "RawText": "촉감도 디자인도 이뻐요.  하늘색은  생각보다  어두운 느낌.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 시스루 재킷 2종",
+    "ReviewScore": "100",
+    "Syllable": "34",
+    "Word": "7",
+    "RDate": "20210414",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감",
+        "SentimentText": "촉감도 디자인도 이뻐요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 이뻐요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "하늘색은  생각보다  어두운 느낌.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "33561",
+    "RawText": "얇아서  여름용으로 괜찮아요 에어컨땜에 추울때 반소매만 입기 그랬는데 겉옷으로 입으면 될 것 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 시스루 재킷 2종",
+    "ReviewScore": "100",
+    "Syllable": "55",
+    "Word": "13",
+    "RDate": "20210622",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇아서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "여름용으로 괜찮아요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "겉옷으로 입으면 될 것 같아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33565",
+    "RawText": "가격 저렴하게 잘 구입했어요. 구김도 없고 가볍게 걸치기에 좋네요. 후줄근해 보이지도 않고 신축성도 있어서 편하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 시스루 재킷 2종",
+    "ReviewScore": "100",
+    "Syllable": "65",
+    "Word": "15",
+    "RDate": "20210522",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 저렴하게 잘 구입했어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "구김도 없고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "가볍게 걸치기에 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "후줄근해 보이지도 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": "신축성도 있어서 편하네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33576",
+    "RawText": "원단이 쉬폰이 아니네요. 소재가 시원했으면 좋겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 시스루 재킷 2종",
+    "ReviewScore": "100",
+    "Syllable": "29",
+    "Word": "6",
+    "RDate": "20210711",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "원단이 쉬폰이 아니네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재가 시원했으면 좋겠네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "33579",
+    "RawText": "가볍고 신축성이 좋으며 가격이 저렴해서 부담없이 재구매했어요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 시스루 재킷 2종",
+    "ReviewScore": "100",
+    "Syllable": "34",
+    "Word": "7",
+    "RDate": "20210704",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": "신축성이 좋으며",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴해서 부담없이 재구매했어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33583",
+    "RawText": "몸에 감기 는 촉감 도 좋구요...막 빨아 입어도 되기에 부담 없어서 좋아요...사이즈 도 정사이즈로 입으면 잘 맞아요...예전에 잘 입고 다녔었는데..코로나19덕분에 방콕 생활 을 오래 하다보니 늘어난 체중 때문에 작아져서 할수없이 좀 더 큰 사이즈로 구매했네요...어느 한 부분 만 집중적으로 찌는 바람에 그 부분 은 잘 맞긴하지만 나머지 부분 은 좀 크긴해요..핏이 아주 흉 할 정도 는 아니구요ㅎㅎㅎ아무튼 편하게 부담없이 잘 입을 수 있을거 같아요~^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 시스루 재킷 2종",
+    "ReviewScore": "100",
+    "Syllable": "257",
+    "Word": "64",
+    "RDate": "20210428",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감",
+        "SentimentText": "몸에 감기 는 촉감 도 좋구요...",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "막 빨아 입어도 되기에 부담 없어서 좋아요...",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈 도 정사이즈로 입으면 잘 맞아요..",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "그 부분 은 잘 맞긴하지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "나머지 부분 은 좀 크긴해요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏이 아주 흉 할 정도 는 아니구요ㅎㅎ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편하게 부담없이 잘 입을 수 있을거 같아요~^^",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33589",
+    "RawText": "품질이 가격  만큼하네요  그냥  아쉬은데로 입어야 겠네요 마음에 드는것은 아니지만 마감이 싼만큼 이네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 시스루 재킷 2종",
+    "ReviewScore": "50",
+    "Syllable": "58",
+    "Word": "13",
+    "RDate": "20210427",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 가격  만큼하네요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "마감이 싼만큼 이네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "33593",
+    "RawText": "가성비 좋고품질도 좋고 멋도 있어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 롤업 자켓",
+    "ReviewScore": "100",
+    "Syllable": "19",
+    "Word": "5",
+    "RDate": "20210829",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "멋도 있어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33605",
+    "RawText": "일단 쉬폰이라서 샀구오ㅡ 성품평보시면 소재가 하늘하늘하다는데 그렇친 않아요 소재가 약간 뻣뻣한감이구요 디자인이 원하던 스타일이라서 검정 화이트 두개 구입햇어요 사이즈는 66입는데 55시켰더니 딱맞아요 좀더 여유있고 뒤에 셔링 더잡으실거면 본사이즈시키면 될듯합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 롤업 자켓",
+    "ReviewScore": "80",
+    "Syllable": "146",
+    "Word": "29",
+    "RDate": "20210422",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "성품평보시면 소재가 하늘하늘하다는데 그렇친 않아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재가 약간 뻣뻣한감이구요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 디자인이 원하던 스타일이라서 검정 화이트 두개 구입햇어요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈는 66입는데 55시켰더니 딱맞아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "여유있고 뒤에 셔링 더잡으실거면 본사이즈시키면 될듯합니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "33607",
+    "RawText": "사늘사늘  디자인이 산뜻하고 가볍게 입어볼깨요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 롤업 자켓",
+    "ReviewScore": "100",
+    "Syllable": "25",
+    "Word": "5",
+    "RDate": "20210426",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 산뜻하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "가볍게 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33609",
+    "RawText": "여름소재로 더울지는모르겠지만  디자인은  무난하니  괜찮습니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 롤업 자켓",
+    "ReviewScore": "100",
+    "Syllable": "34",
+    "Word": "5",
+    "RDate": "20210422",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "여름소재로 더울지는모르겠지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인은  무난하니",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33614",
+    "RawText": "요즘같이 간절기에 입기 좋을듯 합니다만, 여름에는 더워서 못 입겠습니다 여름 에 입기에는두껍고 더운 소재네요  부드럽고 살랑살랑한 소재감을 원했지만 이 옷은 쉬폰소재 인데도 상당히 재질이 뻣뻣하고 감촉이 까끌거립니다    장마철 쌀쌀할때 입으려고 구입했으나 여름엔 절대로 못 입을듯 하네요 ㅠㅠ 통풍이 잘 되는 쉬폰이 아닙니다  계절감은 여름이 아니고  간절기용 인듯 하네요 요즘같이   일교차 심할때  이너로 7부 디셔츠 입고  아우터로 적당합니다    ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 롤업 자켓",
+    "ReviewScore": "80",
+    "Syllable": "255",
+    "Word": "57",
+    "RDate": "20210425",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "요즘같이 간절기에 입기 좋을듯 합니다만,",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "여름에는 더워서 못 입겠습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "여름 에 입기에는두껍고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "더운 소재네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "상당히 재질이 뻣뻣하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "감촉이 까끌거립니다  ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "여름엔 절대로 못 입을듯 하네요 ㅠㅠ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "통풍이 잘 되는 쉬폰이 아닙니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "계절감은 여름이 아니고  간절기용 인듯 하네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "요즘같이   일교차 심할때  이너로 7부 디셔츠 입고  아우터로 적당합니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33615",
+    "RawText": "품질이 가격 만큼의 제품입니다..... 천이 뻣뻣해요...",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 롤업 자켓",
+    "ReviewScore": "60",
+    "Syllable": "32",
+    "Word": "6",
+    "RDate": "20210612",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 가격 만큼의 제품입니다.....",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "천이 뻣뻣해요...",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "33621",
+    "RawText": "원단이 시원해보이고 디자인이 이뽀요^^ 근데 너무구겨져왔어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 롤업 자켓",
+    "ReviewScore": "100",
+    "Syllable": "33",
+    "Word": "6",
+    "RDate": "20210424",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "원단이 시원해보이고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 이뽀요^^ ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "근데 너무구겨져왔어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "33623",
+    "RawText": "약간 두꺼운 느낌이  있지만 괜찮아요 여름에 가디건보다는 얇아서 괜찮은 느낌이에요 한치수 작게 사면 딱 맞고 정사이즈는 약간 여유 있는 느낌이네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 롤업 자켓",
+    "ReviewScore": "100",
+    "Syllable": "81",
+    "Word": "20",
+    "RDate": "20210526",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "약간 두꺼운 느낌이  있지만 괜찮아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "여름에 가디건보다는 얇아서 괜찮은 느낌이에요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "한치수 작게 사면 딱 맞고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "정사이즈는 약간 여유 있는 느낌이네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33634",
+    "RawText": "약간 뻣뻣해요 그래도 디자인은 이뻐요 기장은 저한테는 좀길어서 줄여야겠네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 롤업 자켓",
+    "ReviewScore": "70",
+    "Syllable": "41",
+    "Word": "9",
+    "RDate": "20210422",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "촉감",
+        "SentimentText": "약간 뻣뻣해요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인은 이뻐요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "기장은 저한테는 좀길어서 줄여야겠네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "33645",
+    "RawText": "입어보니 가볍고 디자인도 예쁘네요 운동할때도좋고 등산갈때도 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성용 수트 2종",
+    "ReviewScore": "100",
+    "Syllable": "36",
+    "Word": "7",
+    "RDate": "20210405",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 예쁘네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "운동할때도좋고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "등산갈때도 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33662",
+    "RawText": "넉넉한 스타일 좋아해서 핏이 맘에 쏙들어요, 디자인 예쁘다고하네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 트** 후드 숏 재킷 ",
+    "ReviewScore": "100",
+    "Syllable": "36",
+    "Word": "8",
+    "RDate": "20210319",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏이 맘에 쏙들어요,",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 예쁘다고하네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33664",
+    "RawText": "비올 때 입으려고 샀어요. 싼 가격에 잘 구매했고 사이즈 넉넉합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웨더 코트 1종",
+    "ReviewScore": "100",
+    "Syllable": "38",
+    "Word": "10",
+    "RDate": "20211019",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "싼 가격에 잘 구매했고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈 넉넉합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33668",
+    "RawText": "저렴하게 잘 구입합니다  95싸이즈가 품절이라100구매햇는데 어깨 소매 크지만  입을만합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웨더 코트 1종",
+    "ReviewScore": "100",
+    "Syllable": "51",
+    "Word": "9",
+    "RDate": "20211102",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 구입합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "어깨 소매 크지만  입을만합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33670",
+    "RawText": "가성비갑이구요 전색깔별로 다샀네요 ㅎ 엄마도 사드렸는데 비올때 스타일이 특히 멋스럽구 방수 확실합니다 지인들한테 추천많이했네요 ㅎ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웨더 코트 1종",
+    "ReviewScore": "100",
+    "Syllable": "72",
+    "Word": "15",
+    "RDate": "20210911",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비갑이구요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "비올때 스타일이 특히 멋스럽구",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "방수 확실합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33672",
+    "RawText": "편하게 막입기 딱 좋아요  허벅지까지 충분히 가려주니  바람막이 웨더코트로 딱 입니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웨더 코트 1종",
+    "ReviewScore": "100",
+    "Syllable": "47",
+    "Word": "11",
+    "RDate": "20210922",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편하게 막입기 딱 좋아요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "허벅지까지 충분히 가려주니 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "바람막이 웨더코트로 딱 입니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33678",
+    "RawText": "베이지 색상 너무 예뻐요. 사려고 벼르고 있던 제품이라 가격이 너무 좋아서 다른 컬러도 같이 샀네요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웨더 코트 1종",
+    "ReviewScore": "100",
+    "Syllable": "56",
+    "Word": "15",
+    "RDate": "20210831",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "베이지 색상 너무 예뻐요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 너무 좋아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33682",
+    "RawText": "간절기에 입기 정말 좋은것같아요~ 길이감이 짧지않아 것두 좋아요 디자인은 다좋은데 소매부분이 스판성이 전혀없어 팔을 걷을수가없답니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웨더 코트 1종",
+    "ReviewScore": "70",
+    "Syllable": "73",
+    "Word": "15",
+    "RDate": "20210826",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "간절기에 입기 정말 좋은것같아요~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "길이감이 짧지않아 것두 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인은 다좋은데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": "소매부분이 스판성이 전혀없어",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "33685",
+    "RawText": "네이비 사고 만족해서 카키색까지 샀는데 디자인이 고급스럽고 예쁘네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웨더 코트 1종",
+    "ReviewScore": "100",
+    "Syllable": "37",
+    "Word": "8",
+    "RDate": "20210818",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 고급스럽고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "예쁘네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33694",
+    "RawText": "사이즈는 넉넉한 편이구요 가볍고 내구성이 좋네요 디자인도 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웨더 코트 1종",
+    "ReviewScore": "100",
+    "Syllable": "35",
+    "Word": "8",
+    "RDate": "20210820",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈는 넉넉한 편이구요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "내구성이 좋네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33695",
+    "RawText": "넉녹하게 싸게사서 비오는날 입게 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웨더 코트 1종",
+    "ReviewScore": "100",
+    "Syllable": "21",
+    "Word": "5",
+    "RDate": "20210821",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "넉녹하게",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸게사서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "비오는날 입게 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33698",
+    "RawText": "비올때 입으려고 샀는데 디자인은 예쁜데 사이즈가 커요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웨더 코트 1종",
+    "ReviewScore": "100",
+    "Syllable": "29",
+    "Word": "7",
+    "RDate": "20210825",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인은 예쁜데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 커요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "33700",
+    "RawText": "입어보니 착용감이 좋더라고요. 비올때만 입는게 아니라 바람불때도  다용도로 사용하기 편하넹요 잘샀다고 생각해요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웨더 코트 1종",
+    "ReviewScore": "100",
+    "Syllable": "62",
+    "Word": "12",
+    "RDate": "20210810",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "입어보니 착용감이 좋더라고요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "비올때만 입는게 아니라 바람불때도  다용도로 사용하기 편하넹요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33703",
+    "RawText": "길이가 아주 넉넉하고 품도 편해요~ 태풍 올 때 입고 나가려고요^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웨더 코트 1종",
+    "ReviewScore": "100",
+    "Syllable": "37",
+    "Word": "10",
+    "RDate": "20210808",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "길이",
+        "SentimentText": "길이가 아주 넉넉하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "품도 편해요~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "태풍 올 때 입고 나가려고요^^",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33707",
+    "RawText": "입기 편하고 사이즈가 넉넉하고 옷감도 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웨더 코트 1종",
+    "ReviewScore": "100",
+    "Syllable": "24",
+    "Word": "6",
+    "RDate": "20210813",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "입기 편하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": " 사이즈가 넉넉하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "옷감도 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33710",
+    "RawText": "이상품. 가격대비  너무 좋아요 자주입기는 엄청편하고 품질이 좋아요 입고다니면. 사람들이. 이쁘다고해서 어디서 구입했냐고 물어본사람도 있었다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웨더 코트 1종",
+    "ReviewScore": "100",
+    "Syllable": "78",
+    "Word": "15",
+    "RDate": "20210803",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "이상품. 가격대비  너무 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "자주입기는 엄청편하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33713",
+    "RawText": "기장이 길어요 사이즈가 크게 나와서 후회했어요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웨더 코트 1종",
+    "ReviewScore": "100",
+    "Syllable": "26",
+    "Word": "6",
+    "RDate": "20210806",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "길이",
+        "SentimentText": "기장이 길어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 크게 나와서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "33714",
+    "RawText": "약간 크게 나와서 넉넉하게 걸치기 좋아여",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웨더 코트 1종",
+    "ReviewScore": "100",
+    "Syllable": "22",
+    "Word": "6",
+    "RDate": "20210803",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "약간 크게 나와서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "넉넉하게 걸치기 좋아여",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33716",
+    "RawText": "가볍고 다 종은데 사이즈가 좀 크네요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웨더 코트 1종",
+    "ReviewScore": "100",
+    "Syllable": "21",
+    "Word": "6",
+    "RDate": "20210805",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 좀 크네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "33717",
+    "RawText": "지금 입기엔 좀 덥지만 한여름을 제외하곤 비옷때 입으면 좋을거같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웨더 코트 1종",
+    "ReviewScore": "100",
+    "Syllable": "38",
+    "Word": "9",
+    "RDate": "20210711",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "지금 입기엔 좀 덥지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "비옷때 입으면 좋을거같아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33718",
+    "RawText": "좀 애매합니다 길이도 키 작은 나에 어중간하고 다만 착한 가격이라 겟합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웨더 코트 1종",
+    "ReviewScore": "70",
+    "Syllable": "41",
+    "Word": "11",
+    "RDate": "20210803",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "길이",
+        "SentimentText": "길이도 키 작은 나에 어중간하고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "다만 착한 가격이라 겟합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33720",
+    "RawText": "가격대비 품질이 넘 만족한상품이네요~~^정사이즈로 착용감이 넘편안하고 발수ㆍ방수ㆍ방풍ㆍuv차단ㆍ 경량성 등등   거기다  통기성을 고려한  세심한까지ᆢ 여러모로 잘입을수있을것같네요   ~~좋은제품 감사합니다 ~^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웨더 코트 1종",
+    "ReviewScore": "100",
+    "Syllable": "119",
+    "Word": "18",
+    "RDate": "20210711",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격대비 품질이 넘 만족한상품이네요~~^",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "정사이즈로",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": " 착용감이 넘편안하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "발수ㆍ방수ㆍ방풍ㆍuv차단ㆍ 경량성 등등   거기다  통기성을 고려한  세심한까지ᆢ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "여러모로 잘입을수있을것같네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33726",
+    "RawText": "저 이거 사월에 49000원 때 샀는데 지금은 가격이 반의반 값이네요 단추나 마감자체가 고급스럽지는 않습니다 가볍게 비 옷으로 입으려고 샀는데 가격이 몇달 새 반의반 값이 되니 만족도가 더욱더 떨어지네요 애초에 이 가격이었구나 싶어서요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웨더 코트 1종",
+    "ReviewScore": "30",
+    "Syllable": "131",
+    "Word": "32",
+    "RDate": "20210804",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "지금은 가격이 반의반 값이네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "단추나 마감자체가 고급스럽지는 않습니다 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 몇달 새 반의반 값이 되니",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 애초에 이 가격이었구나 싶어서요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "33731",
+    "RawText": "가벼우면서따뜻하고색상도이뻐요 ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웨더 코트 1종",
+    "ReviewScore": "100",
+    "Syllable": "16",
+    "Word": "1",
+    "RDate": "20210719",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼우면서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도이뻐요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33736",
+    "RawText": "겨울만빼고는 모든계절 유용하게  쓰일수있을듯 합니다 사이즈도 크게나와 불편함이 전혀없구   하나 구매 후  다시 재구매했습니다   색상별로 다 구매하고싶습니다   쌀쌀한날 바람막이로도  최고예요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웨더 코트 1종",
+    "ReviewScore": "100",
+    "Syllable": "108",
+    "Word": "20",
+    "RDate": "20210716",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "활용성",
+        "SentimentText": "겨울만빼고는 모든계절 유용하게  쓰일수있을듯 합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈도 크게나와 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "쌀쌀한날 바람막이로도  최고예요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "불편함이 전혀없구",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33737",
+    "RawText": "구매하고 또할정도로 가격도 색상도  쓰임도 마음에 듭니다  엄마와함께 입으려고 구매했는데   색상도 다르게 구매해보니 모든색상이  다 만족스러울듯하네요  사이즈도 크고  계절별로 쓰임이 좋을듯합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웨더 코트 1종",
+    "ReviewScore": "100",
+    "Syllable": "110",
+    "Word": "21",
+    "RDate": "20210716",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 색상도  쓰임도 마음에 듭니다 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도  쓰임도 마음에 듭니다 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "쓰임도 마음에 듭니다 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "모든색상이  다 만족스러울듯하네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈도 크고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "계절별로 쓰임이 좋을듯합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33740",
+    "RawText": "가격노너무좋고원단도간절기때입기좋아요.구김도잘안가서좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웨더 코트 1종",
+    "ReviewScore": "100",
+    "Syllable": "30",
+    "Word": "1",
+    "RDate": "20210719",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격노너무좋고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "원단도간절기때입기좋아요.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "구김도잘안가서좋아요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33744",
+    "RawText": "가성비 최고 입니다. 기장도길어서 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웨더 코트 1종",
+    "ReviewScore": "100",
+    "Syllable": "22",
+    "Word": "5",
+    "RDate": "20210711",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 최고 입니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "기장도길어서 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33745",
+    "RawText": "비옷이라 그런가 살짝 큰데 디자인 좋고 질도 좋네요. 아직 입고 나가보지는 못했지만.. 등에 숨구멍도 있고 속우라가 있어서 비오는날 습해도 살에 안붙겠어요.  봉가을로 바람막이로 입어도 괜찮을듯 하네요. 만족~~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웨더 코트 1종",
+    "ReviewScore": "100",
+    "Syllable": "118",
+    "Word": "27",
+    "RDate": "20210725",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "살짝 큰데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "질도 좋네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "등에 숨구멍도 있고 속우라가 있어서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "봉가을로 바람막이로 입어도 괜찮을듯 하네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "비오는날 습해도 살에 안붙겠어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33747",
+    "RawText": "싸고 너무 좋은데요 더 못사는게 아쉽네요  길고 사이즈도 잘 맞아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웨더 코트 1종",
+    "ReviewScore": "100",
+    "Syllable": "37",
+    "Word": "10",
+    "RDate": "20210711",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸고 너무 좋은데요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "길고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈도 잘 맞아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33757",
+    "RawText": "한치수 낮춰서 주문햇는데 잘맞아요(100~ 95)베이지이뻐서 온식구 다 사줫어요 가격도 착하구 제꺼도 추가주문해서 입어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웨더 코트 1종",
+    "ReviewScore": "100",
+    "Syllable": "67",
+    "Word": "13",
+    "RDate": "20210706",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "한치수 낮춰서 주문햇는데 잘맞아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "베이지이뻐서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 착하구",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33767",
+    "RawText": "얇은 소재였으면 더 좋았을것 같아요~ 지퍼와 단추가 유광으로 튀지만 색상과 입었을때 핏은 예쁩니다~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웨더 코트 1종",
+    "ReviewScore": "80",
+    "Syllable": "55",
+    "Word": "13",
+    "RDate": "20210527",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "얇은 소재였으면 더 좋았을것 같아요~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "지퍼와 단추가 유광으로 튀지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상과 입었을때 핏은 예쁩니다~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "입었을때 핏은 예쁩니다~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33768",
+    "RawText": "소매에 스판성이전혀없어 소매가 안올라간다는 게 문제예요~ 소매를 안걷고 어떻게입으라는건지 이건 옷의 기본인데 황당하네요 ㅠㅠ 꼭 개선해주세요~~ 스타일은 나쁘지않아요 ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웨더 코트 1종",
+    "ReviewScore": "70",
+    "Syllable": "93",
+    "Word": "18",
+    "RDate": "20210318",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "신축성",
+        "SentimentText": "소매에 스판성이전혀없어 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "소매가 안올라간다는 게 문제예요~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "소매를 안걷고 어떻게입으라는건지",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "스타일은 나쁘지않아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33777",
+    "RawText": "디자인  색상 스타일 다좋은데 소매에 스판성이없어서 많이 아쉽네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웨더 코트 1종",
+    "ReviewScore": "80",
+    "Syllable": "36",
+    "Word": "8",
+    "RDate": "20210407",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인  색상 스타일 다좋은데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": " 색상 스타일 다좋은데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "스타일 다좋은데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": "소매에 스판성이없어서 많이 아쉽네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "33782",
+    "RawText": "생각보다 디자인이 넘 이뿌네요. 쌀쌀할 땐 이 옷만 입게 되네요. 강추합니다♡",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웨더 코트 1종",
+    "ReviewScore": "100",
+    "Syllable": "43",
+    "Word": "11",
+    "RDate": "20210426",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 넘 이뿌네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "쌀쌀할 땐 이 옷만 입게 되네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33787",
+    "RawText": "좀더 오버핏이면 좋았겠다싶어요 색상 디자인  너무 만족합니다 일주일만에 가격다운되어 속이 좀 쓰린것만 빼면 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웨더 코트 1종",
+    "ReviewScore": "100",
+    "Syllable": "63",
+    "Word": "14",
+    "RDate": "20210429",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "핏",
+        "SentimentText": "좀더 오버핏이면 좋았겠다싶어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상 디자인  너무 만족합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인  너무 만족합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격다운되어 속이 좀 쓰린것만 빼면 좋아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "33796",
+    "RawText": "저렴한데 디자인이 예쁘네요. 유행도 안타고 소재가 고급져 보여요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웨더 코트 1종",
+    "ReviewScore": "100",
+    "Syllable": "35",
+    "Word": "8",
+    "RDate": "20210414",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한데 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 예쁘네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재가 고급져 보여요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33799",
+    "RawText": "가볍고 바스락 바스락 소리가 나요.. 길이가 긴편이여서 비오는 날 입으면 좋을 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웨더 코트 1종",
+    "ReviewScore": "100",
+    "Syllable": "50",
+    "Word": "13",
+    "RDate": "20210324",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "길이가 긴편이여서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "비오는 날 입으면 좋을 것 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33801",
+    "RawText": "너무너무 맘에  들어요  66반입는  어깨가슴이 있는편이라 77했어요  핏이 이뿌네요 어깨는 약간크지만 다 잠그면 낙낙하니 괘안네요 봄이라 베이지하나더 구매예정입니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웨더 코트 1종",
+    "ReviewScore": "100",
+    "Syllable": "92",
+    "Word": "18",
+    "RDate": "20210402",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏이 이뿌네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "어깨는 약간크지만 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "다 잠그면 낙낙하니 괘안네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33811",
+    "RawText": "카키색 잘 선택한것 같아요.방송에서 OOO씨가 왜 카키색을 추천했는지 알겠더라구요.비오는날.바람이 많이 부는날 잘 활용할것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웨더 코트 1종",
+    "ReviewScore": "100",
+    "Syllable": "73",
+    "Word": "14",
+    "RDate": "20210425",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "카키색 잘 선택한것 같아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": ".비오는날.바람이 많이 부는날 잘 활용할것 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33821",
+    "RawText": "상품품질이 좋아요~ 카키,사이즈없어 \u0027베이지\u0027선택였는데,오히려 잘 한것같네요. 바느질,컬러,원단이 모두  품격이 있어보여, 기분좋아요! 잘 입을께요~^^~\u0027샤이니\u0027~한\u0027아이보리베이지\u0027톤여서, 세련되보여요!",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웨더 코트 1종",
+    "ReviewScore": "100",
+    "Syllable": "114",
+    "Word": "14",
+    "RDate": "20210317",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 좋아요~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "바느질,컬러,원단이 모두  품격이 있어보여, 기분좋아요!",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "컬러,원단이 모두  품격이 있어보여, 기분좋아요!",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "원단이 모두  품격이 있어보여, 기분좋아요!",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "\u0027샤이니\u0027~한\u0027아이보리베이지\u0027톤여서, 세련되보여요!",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33823",
+    "RawText": "품이  넉넉하고  길이가 깁니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웨더 코트 1종",
+    "ReviewScore": "90",
+    "Syllable": "17",
+    "Word": "4",
+    "RDate": "20210312",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "품이  넉넉하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "길이가 깁니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "33831",
+    "RawText": "화면하곤달리 밝은 아이보리톤이네요~제겐 색상이 환하게 잘 어울리는거같아요~천질감은 빳뻣힌데 핏은 예쁩니다~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웨더 코트 1종",
+    "ReviewScore": "100",
+    "Syllable": "59",
+    "Word": "10",
+    "RDate": "20210317",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "화면하곤달리 밝은 아이보리톤이네요~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "제겐 색상이 환하게 잘 어울리는거같아요~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "천질감은 빳뻣힌데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏은 예쁩니다~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33849",
+    "RawText": "네이비했는데진한네이비라검정색에가깝네요 옷은 디자인이 예쁘네요살짝크게나왔어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웨더 코트 1종",
+    "ReviewScore": "80",
+    "Syllable": "41",
+    "Word": "4",
+    "RDate": "20210309",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "네이비했는데진한네이비라검정색에가깝네요 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "옷은 디자인이 예쁘네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "살짝크게나왔어요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "33850",
+    "RawText": "한사이즈 크게 구입했는데  약간 여유입게 입으니 더 편안하고좋네요.  가격대비 성능이 몹시  우수해서 좋아요. 직장동료들이  다 따라살기세에요ㅋ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웨더 코트 1종",
+    "ReviewScore": "100",
+    "Syllable": "80",
+    "Word": "16",
+    "RDate": "20210513",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "약간 여유입게 입으니",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "더 편안하고좋네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "가격대비 성능이 몹시  우수해서 좋아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33851",
+    "RawText": "오~생각보다 핏이 더  예쁘네요   앞 뒤 모두 디자인 괜찮아요  마음에 듭니다  162  에 51 인 저에게  어깨가 너무 딱 맞네요 제가 어깨가좀 있는편이긴 합니다 참고가 될까해서남겨요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웨더 코트 1종",
+    "ReviewScore": "60",
+    "Syllable": "105",
+    "Word": "26",
+    "RDate": "20210409",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "핏",
+        "SentimentText": "오~생각보다 핏이 더  예쁘네요  ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 괜찮아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "어깨가 너무 딱 맞네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "33852",
+    "RawText": "웨더코트 사고싶었는데 품질이 아주 딱 맘에 들어요  핏도좋고 허리도 줄이고 늘리고할수있어 아주 실용적이에요 엄마꺼 레드 하나 더 구매하려는데 품절이네요 입고즉",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웨더 코트 1종",
+    "ReviewScore": "100",
+    "Syllable": "88",
+    "Word": "20",
+    "RDate": "20210319",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": " 품질이 아주 딱 맘에 들어요 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏도좋고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "허리도 줄이고 늘리고할수있어 아주 실용적이에요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33858",
+    "RawText": "비옷으로 구입했네요  워낙 상품평이 좋아 구매했는데 솔직히 좀 디자인 있는 비옷느낌이네요  원단이  비옷 스럽습니다  사이즈는 정사이즈인듯 하고 길이감도 있는 부분은 맘에듭니다 요즘 부쩍 비가 자주와 입기 좋을 듯 합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웨더 코트 1종",
+    "ReviewScore": "70",
+    "Syllable": "123",
+    "Word": "29",
+    "RDate": "20210520",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "솔직히 좀 디자인 있는 비옷느낌이네요 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "원단이  비옷 스럽습니다 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈는 정사이즈인듯 하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "길이감도 있는 부분은 맘에듭니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "요즘 부쩍 비가 자주와 입기 좋을 듯 합니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33861",
+    "RawText": "너무 예쁘게 잘 디자인 되었고 특히 비가 올 때 입으니 핏이 멋져요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웨더 코트 1종",
+    "ReviewScore": "100",
+    "Syllable": "37",
+    "Word": "12",
+    "RDate": "20210603",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "너무 예쁘게 잘 디자인 되었고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "비가 올 때 입으니 핏이 멋져요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33872",
+    "RawText": "디자인이 너너무이쁘네요바이올렛색깔도이쁘고 착용감이 편하네요ㅋ가성비갑이에요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웨더 코트 1종",
+    "ReviewScore": "100",
+    "Syllable": "40",
+    "Word": "4",
+    "RDate": "20210416",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 너너무이쁘네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "바이올렛색깔도이쁘고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": " 착용감이 편하네요ㅋ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비갑이에요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33881",
+    "RawText": "라벤더 색상도 입은 핏도 예뻐요.   싸이즈는  여유가 있어 편하게 잘입을듯 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웨더 코트 1종",
+    "ReviewScore": "100",
+    "Syllable": "47",
+    "Word": "11",
+    "RDate": "20210624",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "핏",
+        "SentimentText": "입은 핏도 예뻐요.   ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "싸이즈는  여유가 있어",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편하게 잘입을듯 합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33884",
+    "RawText": "핏도 예쁘고 색상도 예쁘고 다른 색상 또 주문하려고합니다. 넘 맘에 들어요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웨더 코트 1종",
+    "ReviewScore": "100",
+    "Syllable": "42",
+    "Word": "11",
+    "RDate": "20210309",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏도 예쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 예쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "33900",
+    "RawText": "가볍고 디자인 예뻐서 잘 입고 있습니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웨더 코트 1종",
+    "ReviewScore": "100",
+    "Syllable": "21",
+    "Word": "6",
+    "RDate": "20210519",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 디자인 예뻐서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]

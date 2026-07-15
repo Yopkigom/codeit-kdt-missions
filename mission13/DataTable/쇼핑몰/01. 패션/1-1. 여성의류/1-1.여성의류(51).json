@@ -1,0 +1,3529 @@
+[
+  {
+    "Index": "23683",
+    "RawText": "고퀄같은 느낌은 아니지만 가격대비 만족스런 상품입니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 경량다운 세트",
+    "ReviewScore": "80",
+    "Syllable": "29",
+    "Word": "6",
+    "RDate": "20190208",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "고퀄같은 느낌은 아니지만 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가격대비 만족스런 상품입니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23684",
+    "RawText": "엄마가 좋아하시네요. 핑크빛도 톤다운되서 그게 더 낫다고 좋아하세요. 사이즈도 정사이즈에요. 가볍고 겉감도 부들부들 좋아요. 제가 입어도 핏이 이쁘네요. 간절기에 입기 좋겠어요.  털 빠진다얘기, 지퍼약하다 얘기 있지만..최대한 없길 바래요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 경량다운 세트",
+    "ReviewScore": "100",
+    "Syllable": "135",
+    "Word": "28",
+    "RDate": "20190211",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "핑크빛도 톤다운되서 그게 더 낫다고 좋아하세요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈도 정사이즈에요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "겉감도 부들부들 좋아요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "제가 입어도 핏이 이쁘네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "간절기에 입기 좋겠어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23686",
+    "RawText": "평소 88입는데 여기는 99가 딱맞더라구요. 따뜻하고 마음에 들어요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 경량다운 세트",
+    "ReviewScore": "100",
+    "Syllable": "38",
+    "Word": "8",
+    "RDate": "20190511",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "99가 딱맞더라구요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻하고 마음에 들어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23693",
+    "RawText": "블랙이랑 고만하다가 블루했는데 너무 예뻐서 이곳저곳 소문내고 다니고있어요 가볍고 따듯하고 짱이에요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 경량다운 세트",
+    "ReviewScore": "100",
+    "Syllable": "54",
+    "Word": "11",
+    "RDate": "20190228",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "블루했는데 너무 예뻐서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따듯하고 짱이에요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23694",
+    "RawText": "엄마가 구입을 희망해서 주문해드렸더니  받아보시고 엄청가볍고 디자인 좋다고 하시네요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 경량다운 세트",
+    "ReviewScore": "100",
+    "Syllable": "47",
+    "Word": "9",
+    "RDate": "20190303",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "엄청가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 좋다고 하시네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23699",
+    "RawText": "엄마가 사이즈가 넉넉하니 맘에 드신데요 다소 얇은감은있지만 괜찮아요 ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 경량다운 세트",
+    "ReviewScore": "100",
+    "Syllable": "38",
+    "Word": "8",
+    "RDate": "20190113",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 넉넉하니 맘에 드신데요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "다소 얇은감은있지만 괜찮아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23701",
+    "RawText": "가볍고  따뜻합니다  봄가을에입기  딱입니다 ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 경량다운 세트",
+    "ReviewScore": "100",
+    "Syllable": "25",
+    "Word": "4",
+    "RDate": "20190118",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻합니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "봄가을에입기  딱입니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23702",
+    "RawText": "핑크컬러 좀 보라빛에 가까운거 같네요. 정사이즈고 핏도 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 경량다운 세트",
+    "ReviewScore": "100",
+    "Syllable": "35",
+    "Word": "8",
+    "RDate": "20190111",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "핑크컬러 좀 보라빛에 가까운거 같네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "정사이즈고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏도 좋네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23705",
+    "RawText": "가볍고  보온성도 뛰어나고 핑크라기보다 은은한 라벤더에요!^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 경량다운 세트",
+    "ReviewScore": "100",
+    "Syllable": "34",
+    "Word": "6",
+    "RDate": "20190123",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "보온성도 뛰어나고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "핑크라기보다 은은한 라벤더에요!^^",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23711",
+    "RawText": "사진이 함께 안올라가서 여러번 글을 다시쓰게 되네요 치수가 어깨는좀 크고 아래부분은 딱맞고 교환하려고 고민하다가 그냥 입어요 처움엔 털도 안빠지고 좋더만 입고 다니니 눌려서 천이 너무보드랍고 얇으니 천을 뚫고 옷밖으로 나오네요 천이좀더 두껍다면 더없이 좋을건데 그부분이좀 아쉽습니다 그래도 가벼워서 좋구요 삼품평 토데로 더좋게 상품질감 더낳길 바라면 평올려요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 경량다운 세트",
+    "ReviewScore": "100",
+    "Syllable": "200",
+    "Word": "46",
+    "RDate": "20190124",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "어깨는좀 크고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "천이 너무보드랍고 얇으니 천을 뚫고 옷밖으로 나오네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워서 좋구요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "아래부분은 딱맞고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "처움엔 털도 안빠지고 좋더만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "입고 다니니 눌려서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "천이좀더 두껍다면 더없이 좋을건데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "23712",
+    "RawText": "엄마 친구분이 입은거 보고 주문해 달라 그래서 사드렸는데 가볍고 조끼까지 세트로 있어 좋아하시네요~ 입고 다니는거 보고 친구분들이 사고 싶다 해서 두개 더 주문해드렸어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 경량다운 세트",
+    "ReviewScore": "80",
+    "Syllable": "94",
+    "Word": "23",
+    "RDate": "20190124",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "조끼까지 세트로 있어 좋아하시네요~ ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23714",
+    "RawText": "친정 엄마께서  말씀하셔서 사드렸는데 가격대비 색상 착용감 싸이즈 매우 만족하시네요 좋은 선물 할수있게 해주셔서 감사합니다~^^    ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 경량다운 세트",
+    "ReviewScore": "100",
+    "Syllable": "75",
+    "Word": "15",
+    "RDate": "20190119",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "가격대비 색상 착용감 싸이즈 매우 만족하시네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감 싸이즈 매우 만족하시네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "싸이즈 매우 만족하시네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23718",
+    "RawText": "가볍고 디자인 너무 예쁘다구 좋아하시네요  잘 입으실거 같아요 두개 겹치면 좀 추운겨울도 가능하구요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 경량다운 세트",
+    "ReviewScore": "100",
+    "Syllable": "55",
+    "Word": "13",
+    "RDate": "20190123",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 너무 예쁘다구 좋아하시네요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "두개 겹치면 좀 추운겨울도 가능하구요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23719",
+    "RawText": "엄마 드리려고 주문했어요.   가볍고 착한 가격..물빨래 가능까지..부담 없이 자주 입을것 같아요.         ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 경량다운 세트",
+    "ReviewScore": "100",
+    "Syllable": "64",
+    "Word": "11",
+    "RDate": "20190119",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "착한 가격..",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "물빨래 가능까지..",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "부담 없이 자주 입을것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23720",
+    "RawText": "엄마가 사달라고 해서 사드렸는데 가볍고 따뜻하고 좋다고 다른색으로 하나 더 구입하고 싶다고하네요 ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 경량다운 세트",
+    "ReviewScore": "100",
+    "Syllable": "54",
+    "Word": "12",
+    "RDate": "20190116",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻하고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23725",
+    "RawText": "한 사쥬 크게 사드렸더니 넉넉하니 가볍고 따숩다고 좋아하시네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 경량다운 세트",
+    "ReviewScore": "100",
+    "Syllable": "34",
+    "Word": "8",
+    "RDate": "20190116",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "한 사쥬 크게 사드렸더니 넉넉하니",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": " 가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따숩다고 좋아하시네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23728",
+    "RawText": "부드럽고 사이즈도 딱좋은데 털이 먼지 날리듯 해요 ㅠㅠ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 경량다운 세트",
+    "ReviewScore": "100",
+    "Syllable": "30",
+    "Word": "8",
+    "RDate": "20190125",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "촉감",
+        "SentimentText": "부드럽고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈도 딱좋은데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "털이 먼지 날리듯해요 ㅠㅠ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "23731",
+    "RawText": "가격대비 좋네요 근데 털이 좀 빠지는거같은데 훔",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 경량다운 세트",
+    "ReviewScore": "100",
+    "Syllable": "26",
+    "Word": "7",
+    "RDate": "20190122",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 좋네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "털이 좀 빠지는거같은데 훔",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "23733",
+    "RawText": "가격도  저렴하고   따뜻해서  넘  좋아요 딸아이랑  같이  이쁘게  잘  입고  있어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 경량다운 세트",
+    "ReviewScore": "100",
+    "Syllable": "50",
+    "Word": "11",
+    "RDate": "20190122",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도  저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻해서  넘  좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23736",
+    "RawText": "연핑크 선물드렸어요 색상도 연핑크 좋아하시  고 싸이즈55했는데 배도 가려지고 좋네요 조끼 활용도높아 잘입으실것같다고 하시네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 경량다운 세트",
+    "ReviewScore": "100",
+    "Syllable": "70",
+    "Word": "14",
+    "RDate": "20190114",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 연핑크 좋아하시고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "싸이즈 55했는데 배도 가려지고 좋네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "조끼 활용도높아 잘입으실것같다고 하시네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23740",
+    "RawText": "얇고 가벼운 경량잠바로 좋아요.그런데,먼지를 너무 끌어다니네요;;.정전기도 한몫하늣듯~ 가격도 비싼편이라 반품하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 경량다운 세트",
+    "ReviewScore": "80",
+    "Syllable": "67",
+    "Word": "10",
+    "RDate": "20190113",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼운 경량잠바로 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "그런데,먼지를 너무 끌어다니네요;;.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "정전기도 한몫하늣듯~ ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 비싼편이라 반품하겠습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "23741",
+    "RawText": "어머님이 이렇게 얇은게 따뜻하겠냐 하시더니 입고 다녀보시니땀이 날 정도라하셨습니다. 가볍고 색상도너무 이뻐요 어머님이 너무좋아하십니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 경량다운 세트",
+    "ReviewScore": "100",
+    "Syllable": "74",
+    "Word": "14",
+    "RDate": "20190124",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "이렇게 얇은게 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻하겠냐",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "입고다녀보시니땀이 날 정도라하셨습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도너무 이뻐요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23742",
+    "RawText": "엄마가 간단하게 입기좋다고 하시네요 봄철에 입으면 딱 맞는 두께입니다 편해서 좋은데 조금 얇아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 경량다운 세트",
+    "ReviewScore": "80",
+    "Syllable": "53",
+    "Word": "13",
+    "RDate": "20190115",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "봄철에 입으면 딱 맞는 두께입니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편해서 좋은데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "조금 얇아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "23744",
+    "RawText": "가벼워서 운전할때 입기 너무 좋아요  근데 지퍼가 좀 약한거 같아요 채울때 좀 잘 안되네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 경량다운 세트",
+    "ReviewScore": "100",
+    "Syllable": "50",
+    "Word": "14",
+    "RDate": "20190110",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "지퍼가 좀 약한거 같아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "채울때 좀 잘 안되네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "운전할때 입기 너무 좋아요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23745",
+    "RawText": "오늘받았는데  보통 55입으면  맞는데 이건 팔길이도크고  어깨도약간커서 볼품이없어요  조끼는 약간 넉넉한 55 입니다  그냥반품 하려합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 경량다운 세트",
+    "ReviewScore": "60",
+    "Syllable": "78",
+    "Word": "15",
+    "RDate": "20190109",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "길이",
+        "SentimentText": "팔길이도크고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "어깨도약간커서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "볼품이없어요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "조끼는 약간 넉넉한 55 입니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "23752",
+    "RawText": "핏도좋고품도맞아요쪽기는겨드랑ㅈ이쪽이조금째는데그냥그냥이에요쪽기자크밑에불량이라자크가자잘안올라가요기찮아그냥입기로했어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 경량다운 세트",
+    "ReviewScore": "80",
+    "Syllable": "62",
+    "Word": "1",
+    "RDate": "20190106",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏도좋고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "품도맞아요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "쪽기는겨드랑ㅈ이쪽이조금째는데",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "쪽기자크밑에불량이라",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "자크가자잘안올라가요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "23754",
+    "RawText": "자켓은 두께가 괜찮은데..조끼가 너~~무 얇아요.반품하기 귀찮아 그냥 입습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 경량다운 세트",
+    "ReviewScore": "60",
+    "Syllable": "44",
+    "Word": "8",
+    "RDate": "20190109",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "자켓은 두께가 괜찮은데..",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "조끼가 너~~무 얇아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "23755",
+    "RawText": "엄마 사드렸는데 너무 좋아하시네요 저렴도하고 따뜻하고 조끼대로 자켓대로 따로따로 유용하게 입을 수있어서 좋아하세요 잘입겠습니다 ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 경량다운 세트",
+    "ReviewScore": "100",
+    "Syllable": "71",
+    "Word": "14",
+    "RDate": "20190108",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴도하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "조끼대로 자켓대로 따로따로 유용하게 입을 수있어서 좋아하세요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23756",
+    "RawText": "이모 세분께 선물해 드렸는데 무거워서 싫다고 하시네요 전체적으로 한겨울 못입을듯 듯합니다. 조끼와 패딩으로 구성되어 활용면에선 좋습니다. 오리털+솜털 구성의 충전재로  되어 있으나 방송으로 본 것보다 충전재가 덜 풍성한 느낌입니다.  ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 경량다운 세트",
+    "ReviewScore": "80",
+    "Syllable": "131",
+    "Word": "28",
+    "RDate": "20190102",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "무거워서 싫다고 하시네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "전체적으로 한겨울 못입을듯 듯합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "조끼와 패딩으로 구성되어 활용면에선 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "방송으로 본 것보다 충전재가 덜 풍성한 느낌입니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "23757",
+    "RawText": "이제품을 입고싶었는데  가곅ㅇ도내리고  그래서구입했는데 너나도좋으네요 가볍고 따틋하고 디자인 예쁘고 옷태가나네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 경량다운 세트",
+    "ReviewScore": "100",
+    "Syllable": "62",
+    "Word": "10",
+    "RDate": "20190104",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가곅ㅇ도내리고  그래서구입했는데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따틋하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 예쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "옷태가나네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23758",
+    "RawText": "조끼의 뒤쪽 양쪽 팔부분 절개선부분의 박음이 불량으로 입어도 삐져나오게 불량으로 만들어졌습니다 자켓 안쪽 겨드랑이 부분의 원단이 헤어져서 불량입이다 지퍼는 단가만큼 저렴한걸로 사용되었구요 가격 저렴해서 그냥 박음질 수선해 입을께요~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 경량다운 세트",
+    "ReviewScore": "80",
+    "Syllable": "129",
+    "Word": "28",
+    "RDate": "20190221",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "마감",
+        "SentimentText": "조끼의 뒤쪽 양쪽 팔부분 절개선부분의 박음이 불량으로",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "입어도 삐져나오게 불량으로 만들어졌습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "자켓 안쪽 겨드랑이 부분의 원단이 헤어져서 불량입이다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "지퍼는 단가만큼 저렴한걸로 사용되었구요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 저렴해서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": " 그냥 박음질 수선해 입을께요~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "23759",
+    "RawText": "가격 구성 착용감 모두 만족해서 추가 구매도 진행하였습니다~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 경량다운 세트",
+    "ReviewScore": "100",
+    "Syllable": "33",
+    "Word": "8",
+    "RDate": "20190218",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 구성 착용감 모두 만족해서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성 착용감 모두 만족해서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감 모두 만족해서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23761",
+    "RawText": "싸이즈도 잘 맞고 가벼워서 넘넘 맘에 들어요~~~~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 경량다운 세트",
+    "ReviewScore": "100",
+    "Syllable": "28",
+    "Word": "7",
+    "RDate": "20190217",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "싸이즈도 잘 맞고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워서 넘넘 맘에 들어요~~~~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23768",
+    "RawText": "조금 얇은감은 있지만 가볍고 따뜻해서 좋아요~ 조끼랑 점퍼랑 같이 있는 구성이라서 활용하기도 좋네요~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 경량다운 세트",
+    "ReviewScore": "80",
+    "Syllable": "56",
+    "Word": "13",
+    "RDate": "20190201",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "조금 얇은감은 있지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": " 가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻해서 좋아요~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "조끼랑 점퍼랑 같이 있는 구성이라서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "활용하기도 좋네요~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23772",
+    "RawText": "그레이색상 너무 이뻐요~  베스트 롱코트 구성으로 외출할때 편하게 입기 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 경량다운 세트",
+    "ReviewScore": "100",
+    "Syllable": "44",
+    "Word": "10",
+    "RDate": "20190131",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "그레이색상 너무 이뻐요~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "외출할때 편하게 입기 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23773",
+    "RawText": "간절기에 입기 딱 적당한거같네요 색깔도 파스텔톤으로 예쁘고 싸이즈도 적당, 맘에듭니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 경량다운 세트",
+    "ReviewScore": "100",
+    "Syllable": "47",
+    "Word": "10",
+    "RDate": "20190131",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "간절기에 입기 딱 적당한거같네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색깔도 파스텔톤으로 예쁘고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "싸이즈도 적당, ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23774",
+    "RawText": "얇고 가벼워요 생각보다 품질이 고급져보여요 모자가 모양이 좀 그렇긴한데 그래도 핏이 예뻐요 날씬해 보여요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 경량다운 세트",
+    "ReviewScore": "100",
+    "Syllable": "58",
+    "Word": "14",
+    "RDate": "20190209",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "생각보다 품질이 고급져보여요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "모자가 모양이 좀 그렇긴한데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏이 예뻐요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "날씬해 보여요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23775",
+    "RawText": "어머니 사드렸는데 제일 큰 사이즈 약간 타이트했지만 그냥 입겠다고 하셨어요. 색상은 무난하네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 경량다운 세트",
+    "ReviewScore": "80",
+    "Syllable": "52",
+    "Word": "12",
+    "RDate": "20190208",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "제일 큰 사이즈 약간 타이트했지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상은 무난하네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23776",
+    "RawText": "배송은 그런대로 빠르게 진행이 되었습니다  그런데 생각보다 얇은 편이라 반품을 고민 중이에요  한겨울에 입기에는 맞지 않지만 그래도 초겨울이나 늦겨울 정도는 입고 다닐 수 있을 것 같습니다  그냥 경량 패딩이 아니라 초초 경량 패딩입니다  참고하시기 바랍니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 경량다운 세트",
+    "ReviewScore": "60",
+    "Syllable": "144",
+    "Word": "35",
+    "RDate": "20190209",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "생각보다 얇은 편이라",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "한겨울에 입기에는 맞지 않지만 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "초겨울이나 늦겨울 정도는 입고 다닐 수 있을 것 같습니다 ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "초초 경량 패딩입니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "23778",
+    "RawText": "조끼도 핏이 너무이쁨. 따로구매했던 4만원짜리조끼보다 더 핏이 이쁘고 코트까지 가볍고따습고...가격대비 굿!임다 ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 경량다운 세트",
+    "ReviewScore": "100",
+    "Syllable": "63",
+    "Word": "11",
+    "RDate": "20190207",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "핏",
+        "SentimentText": "조끼도 핏이 너무이쁨.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "따로구매했던 4만원짜리조끼보다 더 핏이 이쁘고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "코트까지 가볍고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따습고...",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 굿!임다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23783",
+    "RawText": "주머니에 큰 구멍이 뚫렸네요. 그냥 교환하기 귀찮아서 제가 꿰매입기로..ㅠ 그래도 핏은 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웜** 퀼팅 패딩코트 세트",
+    "ReviewScore": "60",
+    "Syllable": "53",
+    "Word": "12",
+    "RDate": "20190214",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "마감",
+        "SentimentText": "주머니에 큰 구멍이 뚫렸네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "그래도 핏은 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23786",
+    "RawText": "두껍네요 저렴한 가격에 잘샀습니당 부모님이 좋아하시네여",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웜** 퀼팅 패딩코트 세트",
+    "ReviewScore": "100",
+    "Syllable": "30",
+    "Word": "6",
+    "RDate": "20190217",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "두껍네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 잘샀습니당",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23788",
+    "RawText": "가겍대비 별로에요 싼가격에는 이유가 있겠죠 겨드랑이쪽 안감 바깥감을 이음할때 잘못해서 겨드랑이에 탁구공있는 줄 알았음ㅋㅋ 목 네크라인에 걍 천만 있어서 있으나마나한 넥이네요 ㅋㅋ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웜** 퀼팅 패딩코트 세트",
+    "ReviewScore": "80",
+    "Syllable": "99",
+    "Word": "22",
+    "RDate": "20190215",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가겍대비 별로에요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "싼가격에는 이유가 있겠죠",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "겨드랑이쪽 안감 바깥감을 이음할때 잘못해서 겨드랑이에 탁구공있는 줄 알았음ㅋㅋ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "목 네크라인에 걍 천만 있어서 있으나마나한 넥이네요 ㅋㅋ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "23795",
+    "RawText": "품도 넉넉하고 엄청 따뜻한데 저한텐 팔이 짧네요.. 엄마한테는 사이즈가 잘 맞아서 엄마 드렸어요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웜** 퀼팅 패딩코트 세트",
+    "ReviewScore": "100",
+    "Syllable": "54",
+    "Word": "13",
+    "RDate": "20190127",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "품도 넉넉하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "엄청 따뜻한데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "팔이 짧네요..",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "엄마한테는 사이즈가 잘 맞아서 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23798",
+    "RawText": "디자인도 좋고 가격대비 너무 좋아요 반신반의  하고 주문했는데 탁월한 선택이었습니다. 대박나세요^.~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웜** 퀼팅 패딩코트 세트",
+    "ReviewScore": "100",
+    "Syllable": "56",
+    "Word": "11",
+    "RDate": "20190127",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 너무 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23799",
+    "RawText": "같은 제품으로 두번째 입니다. 먼저번은 권색이였는데 이번에는 검정으로 구매했어요 가볍고 따뜻하고 가격도 착해요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웜** 퀼팅 패딩코트 세트",
+    "ReviewScore": "100",
+    "Syllable": "61",
+    "Word": "13",
+    "RDate": "20190112",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 착해요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23802",
+    "RawText": "뚱뚱해 보여  허리 라인이 조금 들어갔어면 좋을껄  먼지가 잘 타네요 차이나 카라 화장품이 잘 묻어",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웜** 퀼팅 패딩코트 세트",
+    "ReviewScore": "80",
+    "Syllable": "55",
+    "Word": "15",
+    "RDate": "20190211",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "핏",
+        "SentimentText": "뚱뚱해 보여  허리 라인이 조금 들어갔어면 좋을껄 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "먼지가 잘 타네요 차이나 카라 화장품이 잘 묻어",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "23805",
+    "RawText": "엄마가 입어보시고 무겁고 춥다고 잘 안 입으신다네요 조끼 주머니가 너무 위쪽에 있어서 불편하시대요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웜** 퀼팅 패딩코트 세트",
+    "ReviewScore": "80",
+    "Syllable": "54",
+    "Word": "13",
+    "RDate": "20190126",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "무겁고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "춥다고 잘 안 입으신다네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "조끼 주머니가 너무 위쪽에 있어서 불편하시대요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "23806",
+    "RawText": "안감이 기모가 있어서 부드럽고 따뜻해요 사이즈도 넉넉해서 편하게 입을 수 있어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웜** 퀼팅 패딩코트 세트",
+    "ReviewScore": "100",
+    "Syllable": "44",
+    "Word": "11",
+    "RDate": "20190202",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "안감이 기모가 있어서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "부드럽고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻해요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈도 넉넉해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편하게 입을 수 있어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23807",
+    "RawText": "사이즈도 딱 맞고 디자인이 너무 이쁘다고 좋아하시네요 간만에 효도한 느낌이네요 감사합니다^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웜** 퀼팅 패딩코트 세트",
+    "ReviewScore": "100",
+    "Syllable": "51",
+    "Word": "11",
+    "RDate": "20190211",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈도 딱 맞고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 너무 이쁘다고 좋아하시네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23809",
+    "RawText": "기대이상으로 옷 디자인은 좋아요 근데 55사이즈인 저에게 55사이즈도 살짝 패딩코트는 큰듯하나 원단두 따뜻함두 좋아요 가격대비 좋아요 후회는 없을듯합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웜** 퀼팅 패딩코트 세트",
+    "ReviewScore": "80",
+    "Syllable": "85",
+    "Word": "18",
+    "RDate": "20190126",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인은 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "55사이즈도 살짝 패딩코트는 큰듯하나",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "원단두 따뜻함두 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻함두 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23814",
+    "RawText": "배송도 빠르고 가격도 저렴한데 그닥 추천은 별로예요.. 딱 가격만큼 수준입니다. 충전재가 폴리라 정전기가 좀있고 천이 때가 잘타는 재질이고 뭐가 잘 들러붙는 재질이네요 한 철 입으면 딱 좋을듯요..",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웜** 퀼팅 패딩코트 세트",
+    "ReviewScore": "60",
+    "Syllable": "110",
+    "Word": "27",
+    "RDate": "20190205",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴한데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "딱 가격만큼 수준입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "충전재가 폴리라 정전기가 좀있고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "천이 때가 잘타는 재질이고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "뭐가 잘 들러붙는 재질이네요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "한 철 입으면 딱 좋을듯요..",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "23816",
+    "RawText": "편하고 좋아요. 조금 뻣뻣한 감은 없지 않지만 맘에 듭니다. 가격대비 좋은거같아요. ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웜** 퀼팅 패딩코트 세트",
+    "ReviewScore": "100",
+    "Syllable": "47",
+    "Word": "11",
+    "RDate": "20190129",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "조금 뻣뻣한 감은 없지 않지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 좋은거같아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23818",
+    "RawText": "가격대비 너무 마음에 듭니다. 사이즈가 좀 크게 나왔네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웜** 퀼팅 패딩코트 세트",
+    "ReviewScore": "100",
+    "Syllable": "31",
+    "Word": "8",
+    "RDate": "20190212",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 너무 마음에 듭니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 좀 크게 나왔네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "23820",
+    "RawText": "저렴한데 기모가있어서 따뜻하고 사람들이 가격듣고 놀라네여 싼티도안나고 편하게입을수 있겠어여 통은 여유핏이라 부해보일수있지만  속에 심하게 두껍지않게 입으면 괜찮을꺼같아여 강추입니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웜** 퀼팅 패딩코트 세트",
+    "ReviewScore": "100",
+    "Syllable": "100",
+    "Word": "18",
+    "RDate": "20190208",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한데",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "기모가있어서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "사람들이 가격듣고 놀라네여 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "싼티도안나고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편하게입을수 있겠어여",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "통은 여유핏이라",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "부해보일수있지만",
+        "SentimentWord": "1",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "심하게 두껍지않게 입으면 괜찮을꺼같아여 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23822",
+    "RawText": "원단이 너무 좋아요. 조끼 길이도 적당히 갈어 엉덩이를 덮어 주네요. 가뎍도 아주 저렴햐요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웜** 퀼팅 패딩코트 세트",
+    "ReviewScore": "100",
+    "Syllable": "51",
+    "Word": "13",
+    "RDate": "20190209",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "원단이 너무 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "조끼 길이도 적당히 갈어",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가뎍도 아주 저렴햐요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23824",
+    "RawText": "싼가격에구입했는데  기대이상이구요  주머니가안감이따뜻해서좋아요  조끼하고같이입으면 뚱해보여요  따로입는걸로",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웜** 퀼팅 패딩코트 세트",
+    "ReviewScore": "100",
+    "Syllable": "59",
+    "Word": "6",
+    "RDate": "20190201",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "싼가격에구입했는데  기대이상이구요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "주머니가안감이따뜻해서좋아요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "조끼하고같이입으면 뚱해보여요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "23825",
+    "RawText": "얼마나 잘입는지 몰라요~  편하고 케쥬얼하면서 길이도 길어서 매우 만족요~~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웜** 퀼팅 패딩코트 세트",
+    "ReviewScore": "100",
+    "Syllable": "42",
+    "Word": "9",
+    "RDate": "20190226",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "케쥬얼하면서 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "길이도 길어서 매우 만족요~~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23827",
+    "RawText": "가격은 저렴한데 입는데는 너무 두껍고 조금 불편하네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웜** 퀼팅 패딩코트 세트",
+    "ReviewScore": "60",
+    "Syllable": "29",
+    "Word": "7",
+    "RDate": "20190310",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 저렴한데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "너무 두껍고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "조금 불편하네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "23830",
+    "RawText": "빠른 배송 감사해요 ~^^ 색이 이쁜데 사이즈가 생각보다 크네요 실밥도 여기저기 보이고~                           ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웜** 퀼팅 패딩코트 세트",
+    "ReviewScore": "60",
+    "Syllable": "76",
+    "Word": "12",
+    "RDate": "20190117",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색이 이쁜데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 생각보다 크네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "실밥도 여기저기 보이고~ ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "23838",
+    "RawText": "잠바 부분 자크가 조금 뻑뻑하구요,  나중에 입다 보면 보풀이 생길것 같긴하기만..  전반적으로 디자인도 이쁘고 가성비 짱입니다. 봄가을용은 아니고 겨울용이네요^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웜** 퀼팅 패딩코트 세트",
+    "ReviewScore": "60",
+    "Syllable": "91",
+    "Word": "19",
+    "RDate": "20190201",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "잠바 부분 자크가 조금 뻑뻑하구요,",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "보풀이 생길것 같긴하기만..",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 이쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 짱입니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "봄가을용은 아니고 겨울용이네요^^",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23839",
+    "RawText": "올겨울도 긴 롱패딩만입다가 가격도저렴해서 구입했는데 너무따뜻하네요~~~편하게잘입을꺼같아여~~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 웜** 퀼팅 패딩코트 세트",
+    "ReviewScore": "100",
+    "Syllable": "51",
+    "Word": "6",
+    "RDate": "20190130",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도저렴해서 구입했는데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "너무따뜻하네요~~~",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편하게잘입을꺼같아여~~",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23845",
+    "RawText": "가성비 굿~~입니다요 베이지는 봄 간절기  나들이때  입으면 좋을듯요~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 겨울 패딩점퍼 2종",
+    "ReviewScore": "100",
+    "Syllable": "39",
+    "Word": "8",
+    "RDate": "20190219",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 굿~~입니다요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "베이지는 봄  간절기  나들이때  입으면 좋을듯요~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23847",
+    "RawText": "정사이즈로 아니네요ㅜㅜ. 정사이즈라는 평이 많아 정사이즈 신청했더니 작아요... 어깨가 끼어요... 잠그곤 입기 힘들듯 옷 스치면 소리가 많이나네요.. 디자인도 안이뻐용",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 겨울 패딩점퍼 2종",
+    "ReviewScore": "80",
+    "Syllable": "94",
+    "Word": "19",
+    "RDate": "20190213",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "정사이즈로 아니네요ㅜㅜ.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "정사이즈라는 평이 많아 정사이즈 신청했더니 작아요... ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "어깨가 끼어요... 잠그곤 입기 힘들듯",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "옷 스치면 소리가 많이나네요..",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 안이뻐용",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "23849",
+    "RawText": "아이보리색상은 디자인이 괜찮은데 검정색은 어깨 다지인이 각지고 뽕이 들어간듯 부자연스러워요. 입었을때 어깨선때문인지 핏이 너무 이상해요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 겨울 패딩점퍼 2종",
+    "ReviewScore": "60",
+    "Syllable": "75",
+    "Word": "15",
+    "RDate": "20190213",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "아이보리색상은 디자인이 괜찮은데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "검정색은 어깨 다지인이 각지고 뽕이 들어간듯 부자연스러워요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "입었을때 어깨선때문인지 핏이 너무 이상해요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "23852",
+    "RawText": "가격대비 쏘쏘 합니다. 그냥 집에서 슈퍼갈때 걸치고 나갈때 입어야 겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 겨울 패딩점퍼 2종",
+    "ReviewScore": "80",
+    "Syllable": "41",
+    "Word": "10",
+    "RDate": "20190215",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 쏘쏘 합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "슈퍼갈때 걸치고 나갈때 입어야 겠어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "23853",
+    "RawText": "저렴한가격에  잘산것같아요.  지금  입고다니기  딱이고요  조금  있으면  더워서   힘들듯~  아이보리색  질감이  빳빳해서  조금  아쉬워요.  아침  저녁으로   활용도가  높아요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 겨울 패딩점퍼 2종",
+    "ReviewScore": "80",
+    "Syllable": "105",
+    "Word": "18",
+    "RDate": "20190225",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한가격에  잘산것같아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "지금  입고다니기  딱이고요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "조금  있으면  더워서   힘들듯~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "아이보리색  질감이  빳빳해서  조금  아쉬워요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "아침  저녁으로   활용도가  높아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23854",
+    "RawText": "검정색을 샀는데 조금 사이즈가 꽉맞아서 불편하긴한데 가격대비 좋아 입으렵니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 겨울 패딩점퍼 2종",
+    "ReviewScore": "100",
+    "Syllable": "42",
+    "Word": "9",
+    "RDate": "20190223",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "조금 사이즈가 꽉맞아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "불편하긴한데",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 좋아 입으렵니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23855",
+    "RawText": "분명 77주문을 했는데 66이 왔네요.. 제가 실수했나해서 주문서 확인도 했는데 77이 맞아요 상품박스에는 77 안에있는 상품은 66.. 교환하기도 귀찮고 그럭저럭 맞기도 해서 그냥 입기는 하겠지만.. 넉넉하게 입으려했더니.. 출고전에 신중한 확인을 좀 했으면 합니다  ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 겨울 패딩점퍼 2종",
+    "ReviewScore": "20",
+    "Syllable": "151",
+    "Word": "33",
+    "RDate": "20190222",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "그럭저럭 맞기도 해서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "넉넉하게 입으려했더니..",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "23859",
+    "RawText": "싸이즈는 딱맞구요 2종으로 3종까지 코디할수있어 저렴한가격에 잘구입했어요 이쁘게 코디해서 입을께요  ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 겨울 패딩점퍼 2종",
+    "ReviewScore": "100",
+    "Syllable": "56",
+    "Word": "10",
+    "RDate": "20190213",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "싸이즈는 딱맞구요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "2종으로 3종까지 코디할수있어",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한가격에 잘구입했어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23860",
+    "RawText": "품질이 횡재한 기분이 드는 상품입니다. 딸에게 사쥤는데 제가 더 잘 입고 다닙니다...컬러이쁘고  디자인..활동성까지  모두 박수!",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 겨울 패딩점퍼 2종",
+    "ReviewScore": "100",
+    "Syllable": "73",
+    "Word": "15",
+    "RDate": "20190218",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": " 품질이 횡재한 기분이 드는 상품입니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "컬러이쁘고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 디자인..활동성까지  모두 박수!",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "활동성까지  모두 박수!",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23862",
+    "RawText": "팔이 좀 길고 천이 좀 뻣뻣한 감은 있지만  디자인은 맘에 들어요. 싸게 잘 구입했어요. 쌀쌀한 봄에 입기 딱인듯~~^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 겨울 패딩점퍼 2종",
+    "ReviewScore": "100",
+    "Syllable": "67",
+    "Word": "18",
+    "RDate": "20190213",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "길이",
+        "SentimentText": "팔이 좀 길고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "천이 좀 뻣뻣한 감은 있지만 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인은 맘에 들어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸게 잘 구입했어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "쌀쌀한 봄에 입기 딱인듯~~^^",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23865",
+    "RawText": "폼나게 보이려면 다른 스타일로 선택 해아 겠지만 한번 수술하고 난후 편한옷만 찾게 되네요 초봄에 추울때 그리고 겨울에도 조끼랑 입으면 괜찮을듯 해요 사이즈는 넉넉하지만 한사이즈 줄여 입으면 푸대 뒤집어 쓴거 처럼 보일수도 있어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 겨울 패딩점퍼 2종",
+    "ReviewScore": "100",
+    "Syllable": "127",
+    "Word": "32",
+    "RDate": "20190220",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "활용성",
+        "SentimentText": "초봄에 추울때 그리고 겨울에도 조끼랑 입으면 괜찮을듯 해요 ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈는 넉넉하지만 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "한사이즈 줄여 입으면 푸대 뒤집어 쓴거 처럼 보일수도 있어요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "23868",
+    "RawText": "이 가격에 세벌의 옷 구매한듯한 기분만은 좋네요 가격이 저렴하다보니 컬리티를 기대하긴 어렵네요 ㅋ 리버시블 잠바는 걍 동네에서 입고다지도 못할정도구요.. 흰잠바는 글쎄? 애매하네요 ㅋㅋㅋ 전체적으론 품질이 별로네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 겨울 패딩점퍼 2종",
+    "ReviewScore": "80",
+    "Syllable": "119",
+    "Word": "26",
+    "RDate": "20190215",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "이 가격에 세벌의 옷 구매한듯한 기분만은 좋네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격이 저렴하다보니 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "리버시블 잠바는 걍 동네에서 입고다지도 못할정도구요..",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "전체적으론 품질이 별로네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "컬리티를 기대하긴 어렵네요 ㅋ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "23871",
+    "RawText": "어머님 사서 보내드렸는데 사이즈도 그렇고 맘에 드신다고 하시네요 가격도 저렴하고 디자인도 괜찮고 좋네요~~^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 겨울 패딩점퍼 2종",
+    "ReviewScore": "100",
+    "Syllable": "61",
+    "Word": "13",
+    "RDate": "20190213",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈도 그렇고 맘에 드신다고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 괜찮고 좋네요~~^^",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23872",
+    "RawText": "폭은 큰거 같고 어깨선은 쪼임이 있네요. 가격도 비싸네요 반품 할래요. 따뜻할거 같지도 않네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 겨울 패딩점퍼 2종",
+    "ReviewScore": "80",
+    "Syllable": "52",
+    "Word": "13",
+    "RDate": "20190213",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "폭은 큰거 같고 어깨선은 쪼임이 있네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 비싸네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻할거 같지도 않네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "23875",
+    "RawText": "엄마와 함께 입으려고 큰 사이즈로 주문했는데 .. 99사이즈인데요..어깨가 착용감이 너무 불편합니다. 착용감이 갑갑하고 움직이기 불편하고 겉감은 뻣뻣하고 인감은 당기는듯 여유감이 없네요. 혹시 내가 받은것만 품질이 불량품 아닌가요?안감 때문에 옷이 입기 불편한것 같아요 ㅠ.ㅠ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 겨울 패딩점퍼 2종",
+    "ReviewScore": "20",
+    "Syllable": "154",
+    "Word": "33",
+    "RDate": "20190222",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "어깨가 착용감이 너무 불편합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감이 갑갑하고 움직이기 불편하고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "겉감은 뻣뻣하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "인감은 당기는듯 여유감이 없네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "내가 받은것만 품질이 불량품 아닌가요?",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "안감 때문에 옷이 입기 불편한것 같아요 ㅠ.ㅠ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "23877",
+    "RawText": "디자인은 무난하고 품질은 좋아요. 딸 줄라고 샀는데...잘 입었으면 좋겠어요. 지금 여행중이라서요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 겨울 패딩점퍼 2종",
+    "ReviewScore": "100",
+    "Syllable": "55",
+    "Word": "11",
+    "RDate": "20190213",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인은 무난하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 품질은 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23878",
+    "RawText": "리버시블인데 한면은 디자인이 그래요... 색상도어두워 한면은 못입어요 따뜻하지도 않고요옷이스치는소리가좀거슬리네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 겨울 패딩점퍼 2종",
+    "ReviewScore": "80",
+    "Syllable": "62",
+    "Word": "9",
+    "RDate": "20190222",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "리버시블인데 한면은 디자인이 그래요...",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도어두워 한면은 못입어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻하지도 않고요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "옷이스치는소리가좀거슬리네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "23881",
+    "RawText": "잘입고 다녔는데 상품평이 늦었네요  품질이 고급스럽지는 않지만 두루두루 입기 좋아요 따뜻하구요 ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 겨울 패딩점퍼 2종",
+    "ReviewScore": "100",
+    "Syllable": "53",
+    "Word": "11",
+    "RDate": "20190327",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 고급스럽지는 않지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "두루두루 입기 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻하구요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23886",
+    "RawText": "이른봄ㆍ가을에 입기 딱좋은 상품 ᆢ 착한가격에 득택했습니다ㆍ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 겨울 패딩점퍼 2종",
+    "ReviewScore": "100",
+    "Syllable": "33",
+    "Word": "7",
+    "RDate": "20190302",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "이른봄ㆍ가을에 입기 딱좋은 상품 ᆢ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "착한가격에 득택했습니다ㆍ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23887",
+    "RawText": "싸길래 구매해봤는데 정말 너너무 좋고 내 스타일이라 만만족 입니다~^^ 간절기 잠깐 입기도 좋네요~정사이즈라 교환 걱정 없어요ㅎㅎ 속 주머니도 있어서 더더더 좋았어요~^^ 이렇게 좋은걸 싸게 주셔서 감사해요~~~~^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 겨울 패딩점퍼 2종",
+    "ReviewScore": "100",
+    "Syllable": "121",
+    "Word": "26",
+    "RDate": "20190306",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸길래 구매해봤는데 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "내 스타일이라 만만족 입니다~^^",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "간절기 잠깐 입기도 좋네요~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "정사이즈라 교환 걱정 없어요ㅎㅎ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "속 주머니도 있어서 더더더 좋았어요~^^",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "이렇게 좋은걸 싸게 주셔서 감사해요~~~~^^",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23888",
+    "RawText": "옷이  빳뻐쌔서 부드러운감이 없어요  모양이 남자  옷 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 겨울 패딩점퍼 2종",
+    "ReviewScore": "100",
+    "Syllable": "34",
+    "Word": "8",
+    "RDate": "20190305",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "옷이  빳뻐쌔서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "모양이 남자  옷 같아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "부드러운감이 없어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "23892",
+    "RawText": "3월에 입기 딱이네요~ 옷이 좀 뻣뻣하긴하지만 저렴하고 괘안아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 겨울 패딩점퍼 2종",
+    "ReviewScore": "100",
+    "Syllable": "35",
+    "Word": "8",
+    "RDate": "20190304",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "3월에 입기 딱이네요~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "좀 뻣뻣하긴하지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하고 괘안아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23894",
+    "RawText": "착용시 디자인이 안 예쁨 소매가 너무 길고 목 밴딩 쪽이 조임 싼 맛에 구입.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 겨울 패딩점퍼 2종",
+    "ReviewScore": "60",
+    "Syllable": "43",
+    "Word": "14",
+    "RDate": "20190415",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "착용시 디자인이 안 예쁨",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "소매가 너무 길고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "목 밴딩 쪽이 조임",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "싼 맛에 구입.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23901",
+    "RawText": "홈쇼핑 본방을 보면서도 믿기지 않았는데 배송된 상자르류여는 순간~ 진짜~ 너무~~~ 마음에 들어서 매일매일 입게 되네요~~  정장에도 어울리고 캐주얼에도 어울리는 진짜 인생점퍼입니다~^^ 감사합니다~~ 잘 입을께요~ 다만..55라도 사이즈가 큰 편이라 루즈핏으로 입으면 괜찮아요~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 겨울 패딩점퍼 2종",
+    "ReviewScore": "100",
+    "Syllable": "156",
+    "Word": "31",
+    "RDate": "20190215",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "활용성",
+        "SentimentText": "정장에도 어울리고 캐주얼에도 어울리는 진짜 인생점퍼입니다~^^",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 큰 편이라",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "루즈핏으로 입으면 괜찮아요~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23903",
+    "RawText": "일단가격이 저롐해서 구입했는데 그냥 막 편안하게 입으면 될것같아요~~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 겨울 패딩점퍼 2종",
+    "ReviewScore": "80",
+    "Syllable": "38",
+    "Word": "8",
+    "RDate": "20190220",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "일단가격이 저롐해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "그냥 막 편안하게 입으면 될것같아요~~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23905",
+    "RawText": "디자인이나 길이감 다 안 좋은데 재질이 좀 뻗뻗해야 해야한 그렇네요. 반품하려합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 겨울 패딩점퍼 2종",
+    "ReviewScore": "60",
+    "Syllable": "46",
+    "Word": "11",
+    "RDate": "20190213",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이나 길이감 다 안 좋은데",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "길이감 다 안 좋은데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질이 좀 뻗뻗해야 해야한 그렇네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "23906",
+    "RawText": "디자인 무난하고 예뻐요. 다만 통통한 제 몸에는 팔 품이 넉넉하지 않은 거 같아요 그래서 어깨는 좀 크고 팔은 딱 맞아서 핏이 생각만큼 이쁘진 않네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 겨울 패딩점퍼 2종",
+    "ReviewScore": "80",
+    "Syllable": "83",
+    "Word": "24",
+    "RDate": "20190216",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인무난하고 예뻐요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": " 팔 품이 넉넉하지 않은 거 같아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": " 어깨는 좀 크고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": " 팔은 딱 맞아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏이 생각만큼 이쁘진 않네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "23909",
+    "RawText": "항공점퍼 디자인이 너무 이쁘고 좋와요. 같은사이즈인데 약간 차이는 있지만 딱 좋은것 같아요. 감사합니다. 대박나세요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 겨울 패딩점퍼 2종",
+    "ReviewScore": "100",
+    "Syllable": "65",
+    "Word": "14",
+    "RDate": "20190214",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 너무 이쁘고 좋와요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "같은사이즈인데 약간 차이는 있지만 딱 좋은것 같아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23912",
+    "RawText": "가격 품질 너무 좋아요..딸이랑 하나씩 나눠 입었는데 가볍고 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 겨울 패딩점퍼 2종",
+    "ReviewScore": "100",
+    "Syllable": "38",
+    "Word": "9",
+    "RDate": "20190312",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 품질 너무 좋아요..",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질 너무 좋아요..",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23914",
+    "RawText": "홈쇼핑보고 바로 주문.. 사이즈도 좋고.. 스타일별로 잘 입고 있어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 겨울 패딩점퍼 2종",
+    "ReviewScore": "100",
+    "Syllable": "38",
+    "Word": "9",
+    "RDate": "20190310",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈도 좋고.. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "스타일별로 잘 입고 있어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23917",
+    "RawText": "가격대비 품질이 만족스럽긴 한데  소재가  조금 부드러웠으면 더 좋았을것 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 겨울 패딩점퍼 2종",
+    "ReviewScore": "80",
+    "Syllable": "44",
+    "Word": "10",
+    "RDate": "20190301",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 품질이 만족스럽긴 한데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재가  조금 부드러웠으면 더 좋았을것 같아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "23922",
+    "RawText": "저렴해요.. 그냥, 무난한듯.. 사이즈는 좀큰듯..",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 겨울 패딩점퍼 2종",
+    "ReviewScore": "60",
+    "Syllable": "28",
+    "Word": "5",
+    "RDate": "20190314",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴해요..",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈는 좀큰듯..",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "23924",
+    "RawText": "겨울패딩인데 한겨울에는 좀 추울 것 같구요 3~4월에나 입어야겠어요 베이지 경우 색깔이 밝아서 겨울에는 별로, 봄 시즌에 맞는듯 하고 블랙은  디자인이 별로네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 겨울 패딩점퍼 2종",
+    "ReviewScore": "80",
+    "Syllable": "89",
+    "Word": "21",
+    "RDate": "20190403",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "겨울패딩인데 한겨울에는 좀 추울 것 같구요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "3~4월에나 입어야겠어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "베이지 경우 색깔이 밝아서 겨울에는 별로, 봄 시즌에 맞는듯 하고",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 블랙은  디자인이 별로네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "23930",
+    "RawText": "어머니 선물로 해드렸는데 디자인도 괜찮고 핏도예쁘고 마음에 들어하시네요 저렴한가격에 만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 겨울 패딩점퍼 2종",
+    "ReviewScore": "100",
+    "Syllable": "52",
+    "Word": "10",
+    "RDate": "20190117",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 괜찮고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏도예쁘고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한가격에 만족합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23931",
+    "RawText": "가격대비 가성비 좋은 제품입니다 정싸이즈 주문했는데 넉넉해요 저한테는 무릎까지 오네요 좋습니다 운좋게 득템한것 같아요 ㅎㅎ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 겨울 패딩점퍼 2종",
+    "ReviewScore": "100",
+    "Syllable": "68",
+    "Word": "15",
+    "RDate": "20190112",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 가성비 좋은 제품입니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "정싸이즈 주문했는데 넉넉해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23932",
+    "RawText": "가격저렴해서 기대안하고 편히입으려 구매했는데... 생각보다 좋네요  양면으로 입을수있어서   무진장 효율적이구 따뜻해요 막입기좋은 편한점퍼에요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 겨울 패딩점퍼 2종",
+    "ReviewScore": "100",
+    "Syllable": "79",
+    "Word": "13",
+    "RDate": "20190126",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격저렴해서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "양면으로 입을수있어서   무진장 효율적이구",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻해요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "막입기좋은 편한점퍼에요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23933",
+    "RawText": "한겨울에도 입을수 있을만큼 따뜻해요 오버핏이 예쁘네요 가성비 짱입니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 겨울 패딩점퍼 2종",
+    "ReviewScore": "100",
+    "Syllable": "38",
+    "Word": "8",
+    "RDate": "20190120",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "한겨울에도 입을수 있을만큼 따뜻해요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "오버핏이 예쁘네요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 짱입니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "23934",
+    "RawText": "적립금사용으로 저렴하게 구매했어요 엄마랑 나눠 입어요 초봄까지 따뜻하게 입을수 있을거같아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 겨울 패딩점퍼 2종",
+    "ReviewScore": "100",
+    "Syllable": "50",
+    "Word": "10",
+    "RDate": "20190125",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "적립금사용으로 저렴하게 구매했어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "초봄까지 따뜻하게 입을수 있을거같아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]

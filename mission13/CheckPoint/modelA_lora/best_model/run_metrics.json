@@ -1,0 +1,7 @@
+{
+  "run_name": "modelA_lora",
+  "train_runtime_sec": 1136.2603,
+  "samples_per_sec": 643.444,
+  "best_eval_f1": 0.8534274268355849,
+  "final_epoch": 5.0
+}

@@ -1,0 +1,3602 @@
+[
+  {
+    "Index": "810831",
+    "RawText": "손을 자주 씻는 직종이라 손이 건조해져서 핸드크림을 자주 많이 사용하는 편입니다. 향긋한 냄새도 좋고 발림성이 부드럽고 촉촉해서 너무 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 바** 크림 75ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "80",
+    "Word": "19",
+    "RDate": "20210504",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향긋한 냄새도 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성이 부드럽고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉해서 너무 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "810836",
+    "RawText": "미용인인데 사계절 물을 가까이 하고 있어 손이 많이 까칠해서 구매했어요. 이 제품 바르니 촉촉함이 오래 지속되어 쓰기 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 바** 크림 75ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "18",
+    "RDate": "20210430",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉함이 오래 지속되어 쓰기 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "오래 지속되어 쓰기 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "810838",
+    "RawText": "다양한 핸드크림을 사용해 봤지만 OO만큼 가성비 좋고 촉촉한 제품이 없는 듯합니다. 하지만 한여름철에 쓰면 조금 기름진 느낌일 듯해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 바** 크림 75ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "18",
+    "RDate": "20210430",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "OO만큼 가성비 좋고 촉촉한 제품이 없는 듯합니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉한 제품이 없는 듯합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "한여름철에 쓰면 조금 기름진 느낌일 듯해요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "조금 기름진 느낌일 듯해요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "810850",
+    "RawText": "재구매 합니다. 전에 사용하던 제품이 있는데 향은 좋지만 보습력이 떨어져 이제품으로 구매해서 사용해봤습니다. 보습력 아주 만족합니다. 유분기만 많은 제품이 아니라 보습력도 좋습니다. 흡수력도 좋아요. 이제품 사용후 건조함이 없어졌어요. 제품 입구가 평평해서 처음 사용할땐 불편했는데 계속 사용해보니 훨씬 깔끔하고 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 바** 크림 75ml 4개",
+    "ReviewScore": "4",
+    "Syllable": "180",
+    "Word": "39",
+    "RDate": "20210418",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "보습력 아주 만족합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "유분기만 많은 제품이 아니라",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": " 보습력도 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": " 흡수력도 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": " 이제품 사용후 건조함이 없어졌어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "제품 입구가 평평해서 처음 사용할땐 불편했는데  ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "계속 사용해보니 훨씬 깔끔하고 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "810861",
+    "RawText": "그동안 쓰던 핸드크림보다 효과가 별로네요. 끈적이는 느낌이 별로고 촉촉함이 오래가지도 않습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 바** 크림 75ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "53",
+    "Word": "11",
+    "RDate": "20210405",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "그동안 쓰던 핸드크림보다 효과가 별로네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "끈적이는 느낌이 별로고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "촉촉함이 오래가지도 않습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "810877",
+    "RawText": "원래 쓰는제품인데 크림형으로 된거 쓰다 튜브형으로 구매해봤는데요. 크림형보다 제형이 묽고 흘러서 튜브형이 사용하기 더 불편하네요. 보습력은 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 바** 크림 75ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "83",
+    "Word": "17",
+    "RDate": "20210323",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "크림형보다 제형이 묽고 흘러서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "튜브형이 사용하기 더 불편하네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "보습력은 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "810884",
+    "RawText": "좋은 제품 저렴하게 구매하게 해주셔서 정말 감사해요. 제품의 크기도 품질도 아주 좋아요. 제품이 좋아도 자주 구매하려면 가격에 부담이 없어야 하는데, 가격도 다른 온라인, 오프라인마트에 가서 비교해보아도 여기가 훨씬 저렴합니다. 너무 좋은 제품이라 다른 사람에게도 추천하고 싶어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 바** 크림 75ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "157",
+    "Word": "36",
+    "RDate": "20210321",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구매하게 해주셔서 정말 감사해요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "제품의 크기도 품질도 아주 좋아요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 아주 좋아요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 다른 온라인, 오프라인마트에 가서 비교해보아도 여기가 훨씬 저렴합니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "810886",
+    "RawText": "손이 항상 건조해서 사봤어요. 발림성이 뻑뻑하고 수분감도 부족한 것 같아서 별로네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 바** 크림 75ml 4개",
+    "ReviewScore": "3",
+    "Syllable": "47",
+    "Word": "11",
+    "RDate": "20210319",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성이 뻑뻑하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "수분감도 부족한 것 같아서 별로네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "810925",
+    "RawText": "손발이 거칠어 핸드크림, 풋크림 여러가지 써봤는데 이 제품이 제일 보습이 약한 것 같네요. 흡수가 잘 안되서 끈적임이 오래가네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 바** 크림 75ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "18",
+    "RDate": "20210304",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": " 이 제품이 제일 보습이 약한 것 같네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "흡수가 잘 안되서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "끈적임이 오래가네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "810961",
+    "RawText": "향이 별로예요. 잘 스며들지도 않고 끈적거려서 담에 구매할 일은 없을 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 바** 크림 75ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "46",
+    "Word": "12",
+    "RDate": "20210221",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 별로예요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "잘 스며들지도 않고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "끈적거려서 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "810967",
+    "RawText": "요즘 너무 건조해서 핸드크림 보던 중에 가격이 저렴해서 구매했습니다. 배송도 빠르게 도착했습니다. 일단 제조일자가 1년이 넘어서 사용기한이 짧아 아쉽네요. 향도 은은하지 않고 강하네요. 수분감도 부족한 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 바** 크림 75ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "120",
+    "Word": "27",
+    "RDate": "20210219",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "제조일자가 1년이 넘어서 사용기한이 짧아 아쉽네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 은은하지 않고 강하네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "수분감도 부족한 것 같습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "810984",
+    "RawText": "요즘처럼 손을 많이 씻는 상황에서대용량 핸드크림이 필수인거 같습니다. 주변에서 추천해서 사봤는데 생각보다 촉촉함이 오래가진 않습니다. 유통기한도 짧은게 와서 좀 아쉽네요. 그래도 꾸준히 사용해보려고 합니다. 배송 올때 제품에 뽁뽁이가 다 감아져 있진 않고 입구 부분만 뽁뽁이 있었지만 사이즈가 상자에 딱 맞아서인지 깨지진 않고 무사히 잘 왔어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 바** 크림 75ml 4개",
+    "ReviewScore": "4",
+    "Syllable": "193",
+    "Word": "45",
+    "RDate": "20210216",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "생각보다 촉촉함이 오래가진 않습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한도 짧은게 와서 좀 아쉽네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "811005",
+    "RawText": "여러 핸드크림 중에서 OOO이 저렴하고 보습력이 제일 좋은 것 같습니다. 향도 은은하니 괜찮아요. 디자인이 고급스럽지는 않지만 제품은 만족해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 바** 크림 75ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "80",
+    "Word": "18",
+    "RDate": "20210208",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "보습력이 제일 좋은 것 같습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 은은하니 괜찮아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 고급스럽지는 않지만 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "811006",
+    "RawText": "작은 사이즈만 사다가 큰 거 샀는데 이제품  제형이 묽어서 별로네요. 작은 사이즈는 약간 빡빡한데 개인적인 성향은 작은 게 좋네요. 향이 좀 더 은은했으면 좋겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 바** 크림 75ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "92",
+    "Word": "24",
+    "RDate": "20210208",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": " 제형이 묽어서 별로네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 좀 더 은은했으면 좋겠네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "811012",
+    "RawText": "OO의 OOO 핸드크림 잘 받았어요. 보습도 좋고 흡수도 잘 됩니다. 좋은 제품 감사해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 바** 크림 75ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "50",
+    "Word": "13",
+    "RDate": "20210207",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "보습도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "흡수도 잘 됩니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "811033",
+    "RawText": "겨울에 손에 꼭 필요한 필수템이라 쟁여두고 사용합니다. 이것저것 써봐도 ㅇㅇㅇ만한게 없습니다. 가격은 좀 비싸서 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 바** 크림 75ml 4개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "15",
+    "RDate": "20210203",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "겨울에 손에 꼭 필요한 필수템이라 쟁여두고 사용합니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 좀 비싸서 아쉽네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "811038",
+    "RawText": "거품형을 쓰니까 편리하고 좋네요. 향은 은은하고 좋고 용량이 대용량이라 오래 쓸 것 같아요. 가격은 좀 비싸네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "63",
+    "Word": "16",
+    "RDate": "20220830",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "거품형을 쓰니까 편리하고 좋네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 은은하고 좋고  ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량이 대용량이라 오래 쓸 것 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 좀 비싸네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "811053",
+    "RawText": "가격 대비 품질이 별로예요. 거품이 잘 안나고 손 닦은 후에 손이 쉽게 건조해져요. 향은 레몬향인데 그렇게 좋다고 느껴지지 않습니다. 그리고 가격대비 구성도 별로예요. 다음번엔 다른 제품으로 구입하려고 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "117",
+    "Word": "28",
+    "RDate": "20220827",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격 대비 품질이 별로예요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품이 잘 안나고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "손 닦은 후에 손이 쉽게 건조해져요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 레몬향인데 그렇게 좋다고 느껴지지 않습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "가격대비 구성도 별로예요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "811061",
+    "RawText": "거품형이라 사용하기 편리한데요 양이 작아서 금방 없어지네요. 향은 레몬향이 나는데 그렇게 좋은지 모르겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "13",
+    "RDate": "20220825",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "거품형이라 사용하기 편리한데요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양이 작아서 금방 없어지네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 레몬향이 나는데 그렇게 좋은지 모르겠어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "811062",
+    "RawText": "다른 쇼핑몰보다 조금 더 저렴해서 샀어요. 화장실 두군데 놓고 원래 있던 공병은 주방에 놨습니다. 펌프형식이 쓰기 편하고 깔끔해요. 근데 손이 금방 건조해집니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "90",
+    "Word": "22",
+    "RDate": "20220825",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "다른 쇼핑몰보다 조금 더 저렴해서 샀어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "화장실 두군데 놓고 원래 있던 공병은 주방에 놨습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "펌프형식이 쓰기 편하고 깔끔해요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "손이 금방 건조해집니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "811070",
+    "RawText": "손세정제를 많이 쓰다 보니 빨리 사용해서 대용량을 알아보던 중 평도 좋고 가격대도 괜찮아서 주문했어요. 향도 나름 좋은 것 같고 양도 많아서 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "83",
+    "Word": "22",
+    "RDate": "20220822",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대도 괜찮아서 주문했어요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 나름 좋은 것 같고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 많아서 좋네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "811080",
+    "RawText": "기대한 레몬의 향이 아니어서 아쉽긴 합니다. 그래도 상큼한 향은 나네요. 세정력은 좋습니다. 저렴하게 구입해서 사용할 수 있다는 것에 만족합니다. 대용량이라서 편하게 사용할 수 있어서 좋습니다. 추가 구성 공병 역시 넉넉해서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "131",
+    "Word": "31",
+    "RDate": "20220818",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "기대한 레몬의 향이 아니어서 아쉽긴 합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "상큼한 향은 나네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "세정력은 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구입해서 사용할 수 있다는 것에 만족합니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라서 편하게 사용할 수 있어서  좋습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "811094",
+    "RawText": "선물 받은 손세정제가 바닥나서 가격도 좋고 양도 많아서 구매했습니다. 향도 좋고 용기도 두 개나 있어서 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "16",
+    "RDate": "20220811",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 많아서 구매했습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "811099",
+    "RawText": "배송이 조금 늦어지긴 했지만 포장도 꼼꼼하고 공병이 2개 같이 와서 좋아요. 거품도 쫀쫀하고 향도 깔끔해서 좋습니다. 그리고 잔여감 없이 세정이 잘 되네요. 다 쓰고 나면 재구매할 거 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "108",
+    "Word": "28",
+    "RDate": "20220810",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품도 쫀쫀하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 깔끔해서 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "잔여감 없이 세정이 잘 되네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "811120",
+    "RawText": "손을 너무 자주 닦아서 대용량으로 구매했습니다. 작은 공병2개가 같이 배송 되었네요. 작은 입구에 따를 때만 고무버튼 같은 걸 누르면 돼서 흘리지 않게 되어 있네요. 향은 별로지만 가성비 좋아서 계속 쓰려구요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "117",
+    "Word": "30",
+    "RDate": "20220804",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "작은 공병2개가 같이 배송 되었네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 별로지만 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋아서 계속 쓰려구요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "작은 입구에 따를 때만 고무버튼 같은 걸 누르면 돼서 흘리지 않게 되어 있네요. ",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "811146",
+    "RawText": "처음 사용하는건데요. 제가 사용해보니 손이 많이 건조해져서 온가족이 사용하기 힘들거 같아요. 용기는 작은통에 덜어 쓰기 편하게 디자인 되어 있네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "82",
+    "Word": "19",
+    "RDate": "20220722",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "손이 많이 건조해져서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "온가족이 사용하기 힘들거 같아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기는 작은통에 덜어 쓰기 편하게 디자인 되어 있네요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "811158",
+    "RawText": "믿고 쓰는 제품이에요. 성분이 좋고 신뢰가 가는 회사에서 만든 제품이라 믿고 구매했습니다. 다른 제품 쓰다가 OOO로 넘어왔어요. 잘 씻기네요. 앞으로도 좋은 제품 많이 만들어 주시면 좋겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "108",
+    "Word": "26",
+    "RDate": "20220720",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분",
+        "SentimentText": "성분이 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "잘 씻기네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "811209",
+    "RawText": "다른 손 세정제 보다 비싸서 비록 할인 행사할 때나 구입하지만 덜어 쓰기 가장 편리한 핸드워시입니다. 리필 용기에 덜어 쓰기 편리해서 OOO만 사용하고 있어요. 피부에는 순하면서 거품은 풍성하고 손이 청결하게 잘 씻기는 것이 큰 장점입니다. 배송도 빠른 편이었어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "148",
+    "Word": "37",
+    "RDate": "20220715",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "다른 손 세정제 보다 비싸서 비록 할인 행사할 때나 구입하지만",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "덜어 쓰기 가장 편리한 핸드워시입니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "리필 용기에 덜어 쓰기 편리해서 OOO만 사용하고 있어요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "피부에는 순하면서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품은 풍성하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "손이 청결하게 잘 씻기는 것이 큰 장점입니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "811211",
+    "RawText": "배송도 빠르고 거품도 풍성하니 좋아요. OO 쓰다가 OOO 대용량이 있길래 구매했어요. 순하고 거품도 잘나고 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "15",
+    "RDate": "20220715",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품도 풍성하니 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "순하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품도 잘나고 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "811220",
+    "RawText": "배송은 박스나 에어캡 포장도 잘되서 왔는데요.  제품이 대용량이라 좋은데  제형이 묽고 흐르네요. 향도 진해서 별로예요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "15",
+    "RDate": "20220714",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": " 제품이 대용량이라 좋은데 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 묽고 흐르네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 진해서 별로예요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "811247",
+    "RawText": "파우더향에 질려서 레몬향 샀는데 향이 오래 가지 않아서 아쉽네요. 세정력은 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "47",
+    "Word": "11",
+    "RDate": "20220707",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "레몬향 샀는데 향이 오래 가지 않아서 아쉽네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "세정력은 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "811253",
+    "RawText": "OO는 좀 쓰니 용기가 잘 안 눌러져서 이 제품으로 바꿨어요. 이 제품은 용기가 잘 눌러져서 편하고 레몬향이 좋아요. 대용랑이라 넉넉해서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "82",
+    "Word": "21",
+    "RDate": "20220705",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기가 잘 눌러져서 편하고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "레몬향이 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용랑이라 넉넉해서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "811256",
+    "RawText": "생각했던 향은 아니라 좀 아쉽네요. 약간 중성적인 향이 나서 아쉽고 손이 많이 건조해지는것 같아서 로션을 꼭 발라줘야 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "18",
+    "RDate": "20220703",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "생각했던 향은 아니라 좀 아쉽네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "약간 중성적인 향이 나서 아쉽고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "손이 많이 건조해지는것 같아서 로션을 꼭 발라줘야 합니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "811258",
+    "RawText": "배송이 정말 빠르네요. 주문하고 만 하루 만에 배송 받았습니다. 배송도 엄청 빠를 뿐 아니라 안전하게 잘 받았어요. 이렇게 생긴 제품은 처음이라 어떻게 사용하는 건지 잠시 헷갈렸는데 설명이 잘 되어 있어서 금방 배웠습니다. 세정력도 좋고 향도 적당히 깔끔해서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "150",
+    "Word": "38",
+    "RDate": "20220702",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력",
+        "SentimentText": "세정력도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 적당히 깔끔해서 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "811259",
+    "RawText": "아기 태어나고 손세정제 너무 많이 사용하는데, 대용량이라 좋고, 공병도 주셔서 좋습니다. 레몬향이 너무 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "14",
+    "RDate": "20220702",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "레몬향이 너무 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "811260",
+    "RawText": "손세정제는 필수품이라 구입했습니다. 오늘 와서 박스 개봉했습니다. 아직 사용전이지만, 용량이 커서 좋습니다. 향도 좋네요. 잘 사용하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "16",
+    "RDate": "20220630",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량이 커서 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "811261",
+    "RawText": "한참 코로나 유행이었을때 손을 자주 씻다보니 대용량이라 좋아서 사게 되었는데 제가 안좋아하는 레몬향이네요. 손도 금방 건조해집니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "16",
+    "RDate": "20220630",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라 좋아서 사게 되었는데 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "제가 안좋아하는 레몬향이네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "손도 금방 건조해집니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "811277",
+    "RawText": "ㅇㅇ 상품 쓰다 싸서 넘어왔는데 잘 안씻겨  미끌거려서 더 닦아야 됩니다. 냄새도 별로예요. 비싸도 쓰던걸로 쓰려구요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "16",
+    "RDate": "20220626",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "ㅇㅇ 상품 쓰다 싸서 넘어왔는데",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "클렌징/제거력",
+        "SentimentText": "잘 안 씻겨  미끌거려서 더 닦아야 됩니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 별로예요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "811281",
+    "RawText": "잘 받았습니다. 더 큰걸로 살까하다 3500ml 사이즈로 샀는데 적당하니 잘한 것 같습니다. 따르기도 쉬워요. 뽀득하고 좋은데 약간 건조해지네요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "80",
+    "Word": "18",
+    "RDate": "20220625",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "3500ml 사이즈로 샀는데 적당하니 잘한 것 같습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": " 뽀득하고 좋은데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "약간 건조해지네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "따르기도 쉬워요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "811285",
+    "RawText": "원래 사용하던 제품이라 재구매했습니다. 제형이 묽지 않아 거품도 많이 나고 향도 좋아 마음에 듭니다. 미끈거림 없이 씻겨서 개운해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "18",
+    "RDate": "20220624",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 묽지 않아",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품도 많이 나고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋아 마음에 듭니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "미끈거림 없이 씻겨서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "개운해요.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "811287",
+    "RawText": "사무실에 두고 쓰려고 OOO 핸드워시 샀습니다. 전에는 다른 브랜드 걸로 쓰고 있었는데 이걸로 써 보려고 합니다. 레몬향으로 구매했는데 상큼한 향이라서 좋아요. 유통기한도 2025년까지라서 넉넉해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "111",
+    "Word": "24",
+    "RDate": "20220624",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "레몬향으로 구매했는데 상큼한 향이라서 좋아요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한도 2025년까지라서 넉넉해요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "811290",
+    "RawText": "용량도 많고 좋습니다. OO보다 좋을 거 같아서 이 제품으로 구매했어요. 향도 나쁘지 않고 거품도 잘나서 좋아요. 덜어서 사용하기 좋아서 무겁게 들고 따르지 않아도 되니 편리해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "100",
+    "Word": "25",
+    "RDate": "20220623",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량도 많고 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 나쁘지 않고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품도 잘나서 좋아요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "덜어서 사용하기 좋아서 무겁게 들고 따르지 않아도 되니 편리해요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "811296",
+    "RawText": "항상 사용하는 제품입니다. 사용한 지 몇 년 된 것 같네요. 쓰던 게 바닥이 보여서 새로 샀습니다. 향기도 좋고 세정력도 좋아요. 양이 많아 오래 쓸 수 있습니다. 집에 있는 작은 용기에 덜어서 사용하기도 좋습니다. 저렴하게 잘 샀습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "133",
+    "Word": "36",
+    "RDate": "20220622",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "세정력도 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양이 많아 오래 쓸 수 있습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 샀습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "덜어서 사용하기도 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "811307",
+    "RawText": "타 제품보다 거품 제형이 미세하고 부드러워 좋습니다. 레몬향보다는 시트러스향에 가까운데 좋아요. 통은 아까워서 세탁세제통으로 재활용하려고 합니다. 엎어놓고 쓰면 편해서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "99",
+    "Word": "20",
+    "RDate": "20220620",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "타 제품보다 거품 제형이 미세하고 부드러워 좋습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "레몬향보다는 시트러스향에 가까운데 좋아요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "통은 아까워서 세탁세제통으로 재활용하려고 합니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "엎어놓고 쓰면 편해서 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "811309",
+    "RawText": "장바구니에 담아 뒀다가 세일하기에 저렴하게 구입했는데 세정력도 있고 거품도 풍부하고 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "51",
+    "Word": "11",
+    "RDate": "20220618",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구입했는데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "세정력도 있고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품도 풍부하고 좋네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "811316",
+    "RawText": "상품 품질이 좋아요. 마음에 듭니다. 거품 제형도 생크림처럼 쫀득하고 거품이 부드럽네요. 향 지속력은 약한 것 같습니다. 지속력이 오래 갔으면 좋을 것 같아요. 그래도 지금까지 사용한 제품보다 품질이 월등히 좋아서 추천합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "126",
+    "Word": "30",
+    "RDate": "20220616",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "상품 품질이 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "거품 제형도 생크림처럼 쫀득하고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품이 부드럽네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향 지속력은 약한 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력이 오래 갔으면 좋을 것 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 월등히 좋아서 추천합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "811328",
+    "RawText": "OOO제품 쓰다가 이 제품으로 바꿨는데, 상품 품질이 좋아서 계속 사용하고 있습니다. 향은 무난합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "13",
+    "RDate": "20220615",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "상품 품질이 좋아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 무난합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "811334",
+    "RawText": "대용량은 처음써보는데요. 가격이 부담스러웠는데 대용량이라 부담없이 사용해서 좋네요. 향도 좋고 늘 사용하던 제품이라 만족해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "14",
+    "RDate": "20220614",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 부담스러웠는데 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라 부담없이 사용해서 좋네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "811337",
+    "RawText": "세정력, 향 전부 마음에 듭니다. 두고 두고 쓰려고 용량 큰 걸로 구매해서 든든합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "48",
+    "Word": "13",
+    "RDate": "20220613",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력",
+        "SentimentText": "세정력, 향 전부 마음에 듭니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향 전부 마음에 듭니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량 큰 걸로 구매해서 든든합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "811360",
+    "RawText": "향도 좋고 손 씻은 후 냄새가 오래 남아 있지 않고 독하지 않아요. 대용량 구매하니 양이 많아 오래 써서 좋고 잘 씻깁니다. 비누 쓰다가 핸드워시라는 게 나왔기에 바꾸었더니 쓰기 편하네요. 다른 향보다 레몬향이 더 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "125",
+    "Word": "34",
+    "RDate": "20220609",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "손 씻은 후 냄새가 오래 남아 있지 않고 독하지 않아요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량 구매하니 양이 많아 오래 써서 좋고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "잘 씻깁니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "쓰기 편하네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "다른 향보다 레몬향이 더 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "811362",
+    "RawText": "거품형 비누 리필 필요했는데 대용량이라 좋아서 구입했습니다. 리필을 붓는데 입구가 작아서 불편하네요. 향도 제가 생각했던 향이 아니라 아쉬워요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "80",
+    "Word": "18",
+    "RDate": "20220608",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라 좋아서 구입했습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "리필을 붓는데 입구가 작아서 불편하네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 제가 생각했던 향이 아니라 아쉬워요.  ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "811378",
+    "RawText": "배송이 늦게 도착했습니다. 공병이 귀엽습니다. 예전에 썼었는데, 금방 써서 이번엔 대용량으로 사서 오래 쓸 것 같습니다. 공병이 작아서 아쉽네요. 향도 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "89",
+    "Word": "21",
+    "RDate": "20220606",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량으로 사서 오래 쓸 것 같습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "811390",
+    "RawText": "사용하기도 편하고, 향도 은은해서 좋습니다. 세정도 잘 됩니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "35",
+    "Word": "8",
+    "RDate": "20220603",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기도 편하고, ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 은은해서 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "세정도 잘 됩니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "811393",
+    "RawText": "핸드워시이므로 보습력은 보통이지만 비누보다는 좋습니다. 구성으로 공병 2개 포함되어 좋습니다. 대용량이라 좋습니다. 가성비 최고네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "14",
+    "RDate": "20220602",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "보습력은 보통이지만 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성으로 공병 2개 포함되어 좋습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 최고네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "811422",
+    "RawText": "이벤트 해서 샀는데 너무 좋습니다. 제일 향도 좋고 세정력도 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "39",
+    "Word": "10",
+    "RDate": "20220526",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "제일 향도 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "세정력도 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "811431",
+    "RawText": "이번엔 레몬향 사봤어요. OOO가 손세정제중에서 저렴한거 같아서 구매했어요. 대용량이라 넉넉해서 오래 쓸 거 같아 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "15",
+    "RDate": "20220524",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "OOO가 손세정제중에서 저렴한거 같아서 구매했어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라 넉넉해서 오래 쓸 거 같아 좋습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "811439",
+    "RawText": "OO 핸드워시 대용량이라 좋고 용기 2개도 넣어 주셨네요. 저렴한 가격에 세정력도 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "50",
+    "Word": "12",
+    "RDate": "20220524",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "세정력도 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "811449",
+    "RawText": "데일리 필수 아이템으로 사용합니다. 가격은 비싸요. 특가할때 사면 되겠죠. 세정력은 좋습니다. 많이 파세요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "60",
+    "Word": "13",
+    "RDate": "20220521",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "데일리 필수 아이템으로 사용합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 비싸요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "세정력은 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "811463",
+    "RawText": "뽀드득뽀드득 잘씻기고 잔여물감도 없습니다. 용량도 넉넉하고 가격도 좋아요. 브랜드라 신뢰도도 가요. 여러가지 손세정제 다 써봤는데, 이제부터 이것만 쓰려고 해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "90",
+    "Word": "19",
+    "RDate": "20220519",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력",
+        "SentimentText": "뽀드득뽀드득 잘씻기고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "클렌징/제거력",
+        "SentimentText": "잔여물감도 없습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량도 넉넉하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 좋아요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "811466",
+    "RawText": "대용량을 처음 구매 해봤습니다. 근데 이 제품이 레몬향이 좀 강해서 아쉽네요. 그리고 사용 후에는 손이 많이 건조합니다. 저는 거품형이라 사용하기 불편하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "88",
+    "Word": "21",
+    "RDate": "20220519",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "레몬향이 좀 강해서 아쉽네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "사용 후에는 손이 많이 건조합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "거품형이라 사용하기 불편하네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "811502",
+    "RawText": "기대보다 깔끔하게 씻겨져서 좋습니다. 뽀드득 정도까지는 아니지만, 깨끗함은 느껴집니다. 안 써보신 분들에게 추천해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "13",
+    "RDate": "20220514",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력",
+        "SentimentText": "기대보다 깔끔하게 씻겨져서 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "뽀드득 정도까지는 아니지만,",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "깨끗함은 느껴집니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "811514",
+    "RawText": "전에 쓰던 제품의 용기보다 편리하게 변경되었어요. 펌핑 용기가 더 예뻐졌네요. 대용량이라 한번 사면 한참 써서 경제적이고 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "17",
+    "RDate": "20220512",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용기",
+        "SentimentText": "전에 쓰던 제품의 용기보다 편리하게 변경되었어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "펌핑 용기가 더 예뻐졌네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라 한번 사면 한참 써서 경제적이고 좋습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "811533",
+    "RawText": "향 좋고 거품도 풍성하며 부드럽고 세정력도 정말 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "32",
+    "Word": "8",
+    "RDate": "20220511",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품도 풍성하며 부드럽고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "세정력도 정말 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "811578",
+    "RawText": "손세정제 필요성을 못 느끼고 있었는데 한번 써보니 좋아요. 세정력이 비누보다 좋은 거 같습니다. 여러 제품 써봤지만 이 제품이 양도 많고 품질도 좋아요. 향도 마음에 듭니다. 추후에 다시 구입할 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "115",
+    "Word": "30",
+    "RDate": "20220507",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력",
+        "SentimentText": "세정력이 비누보다 좋은 거 같습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 많고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 좋아요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 마음에 듭니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "811601",
+    "RawText": "너무 마음에 듭니다. 추천해요. 양이 짐승 용량이라 당분간 걱정 없이 쓰겠어요. 덜어서 쓰기 좋아요. 손 세정제는 한동안 안 사도 될 것 같네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "81",
+    "Word": "22",
+    "RDate": "20220507",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양이 짐승 용량이라 당분간 걱정 없이 쓰겠어요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "덜어서 쓰기 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "811608",
+    "RawText": "세정력, 향기 모두 좋습니다. 대용량이라 오래 쓸 수 있을 것 같습니다. 빠른 배송 감사해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "52",
+    "Word": "14",
+    "RDate": "20220506",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력",
+        "SentimentText": "세정력, 향기 모두 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기 모두 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라 오래 쓸 수 있을 것 같습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "811617",
+    "RawText": "거품이 잘 씻기지는 않지만, 가격이 저렴하고 향도 무난하고 괜찮은 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "44",
+    "Word": "11",
+    "RDate": "20220504",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력",
+        "SentimentText": "거품이 잘 씻기지는 않지만, ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 무난하고 괜찮은 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "811626",
+    "RawText": "손세정제 다 떨어질 때마다 리필 사는 게 번거로워서 대용량으로 샀습니다. 가격도 리필 하나 사는 거에 비해 엄청 저렴하고 좋습니다. 공병에 덜어서 욕실이나 여기저기 두고 쓰기 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "102",
+    "Word": "26",
+    "RDate": "20220503",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 리필 하나 사는 거에 비해 엄청 저렴하고 좋습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "공병에 덜어서 욕실이나 여기저기 두고 쓰기 좋아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "811661",
+    "RawText": "손세정제를 이렇게 대량으로 사보긴 처음인데 용량이 넉넉해서 오래 쓸 거 같아 좋아요. 공병도 귀엽네요. 용기 펌핑도 잘 돼요. 향도 마음에 듭니다. 저렴하게 잘 산 거 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "98",
+    "Word": "26",
+    "RDate": "20220425",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량이 넉넉해서 오래 쓸 거 같아 좋아요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기 펌핑도 잘 돼요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 마음에 듭니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 산 거 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "811662",
+    "RawText": "대용량이라 저렴하고 안 아끼고 팍팍 써요. 뽀득뽀득 잘 닦이네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "36",
+    "Word": "9",
+    "RDate": "20220424",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "뽀득뽀득 잘 닦이네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "811691",
+    "RawText": "요즘 손 세정제는 필수인 거 같아요. 여러 제품들 써보다가 이번에 처음으로 주문했습니다. 세정효과는 다 비슷한 거 같아요. 아이들이 쓸 건데 헹굼도 빠르게 잘 되네요. 향이 레몬향이라는데 상큼한 레몬향은 아니라서 별로예요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "124",
+    "Word": "30",
+    "RDate": "20220420",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세정력",
+        "SentimentText": "세정효과는 다 비슷한 거 같아요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "클렌징/제거력",
+        "SentimentText": "헹굼도 빠르게 잘 되네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 레몬향이라는데 상큼한 레몬향은 아니라서 별로예요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "811700",
+    "RawText": "OOO 손세정제를 타브랜드만 사서 쓰다 처음 구매했어요. 거품이 쫀쫀하고 부드럽네요. 대용량이라 넉넉해서 오래 쓰겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "14",
+    "RDate": "20220419",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품이 쫀쫀하고 부드럽네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라 넉넉해서 오래 쓰겠어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "811736",
+    "RawText": "항상 사용하던 제품 대용량으로 구매해봤네요. 세정도 잘되고 씻고 나서 손이 건조하지 않아서 아주 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "14",
+    "RDate": "20220414",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력",
+        "SentimentText": "세정도 잘되고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": " 손이 건조하지 않아서 아주 좋네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "811758",
+    "RawText": "항상 사용하면서 통이 아까웠는데, 대용량이라 오래 쓸 수 있어 좋습니다. 촉촉하고 좋아서 앞으로도 계속 사용할 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "17",
+    "RDate": "20220412",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라 오래 쓸 수 있어 좋습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하고 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "811781",
+    "RawText": "대용량이라 마음에 쏙 들어요. 거기다 공병도 2개나 주네요. 주방에도 화장실에도 놔두고 사용하고 있습니다. 한동안 잘 사용할 것 같네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "18",
+    "RDate": "20220409",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라 마음에 쏙 들어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "주방에도 화장실에도 놔두고 사용하고 있습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "811789",
+    "RawText": "저렴하게 사서 좋아요. 항상 OO만 쓰다가 OOO 썼는데 항도 좋고 괜찮아서 또 구입했습니다. 낱개로 사면 금방 쓰는데 대용량이라 넉넉해서 오래 쓸 거 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "89",
+    "Word": "23",
+    "RDate": "20220408",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 사서 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "항도 좋고 괜찮아서 또 구입했습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라 넉넉해서 오래 쓸 거 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "811802",
+    "RawText": "좋은 가격에 잘 구매했어요. 대용량이 있는줄 몰랐는데 용량이 커서 부담없이 쓸 것 같습니다. 공병도 두개나 있어서 각자욕실에 비치하고 사용하기 좋습니다. 향도 은은하고 자극적이지 않아 온가족이 사용하기 좋습니다. 한가지 아쉬운건 씻고 나면 손이 좀 건조해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "144",
+    "Word": "34",
+    "RDate": "20220407",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 가격에 잘 구매했어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량이 커서 부담없이 쓸 것 같습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "공병도 두개나 있어서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "각자욕실에 비치하고 사용하기 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 은은하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "자극적이지 않아 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "온가족이 사용하기 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "한가지 아쉬운건 씻고 나면 손이 좀 건조해요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "811810",
+    "RawText": "손 세정제 대용량으로 사니까 편해요. 용기 입구 부분 아주 굿이에요. 거품이 그다지 풍성하지는 않아서 많이 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "16",
+    "RDate": "20220406",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "손 세정제 대용량으로 사니까 편해요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기 입구 부분 아주 굿이에요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품이 그다지 풍성하지는 않아서 많이 아쉽네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "811831",
+    "RawText": "비누 대신 핸드워시를 구매해서 자동거품 핸드워시에 넣어서 사용하고 있습니다. 자동워시다 보니 아이들도 잘 사용하고 있는데, 대용량이라 한번 사면 3달은 충분하게 사용해서 좋습니다. 사은품으로 공병도 주셔서 싱크대와 안방 욕실에 여기저기 두고 사용하니 편해서 좋습니다. 가성비도 좋습니다. 뽀드득 뽀드득 잘 씻기고, 향이나 성분이 자극적이지도 않아서 좋아요. 제품의 뚜껑을 보면 전면에는 펌핑용 후면에는 오픈형식으로 되어 있어서 골라서 편하게 사용할 수 있습니다. 손씻기에 있어서 이 제품만큼 기본에 도움이 되는 제품이 더 있을까 싶네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "300",
+    "Word": "69",
+    "RDate": "20220404",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라 한번 사면 3달은 충분하게 사용해서 좋습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "싱크대와 안방 욕실에 여기저기 두고 사용하니 편해서 좋습니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비도 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "뽀드득 뽀드득 잘 씻기고, ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이나 성분이 자극적이지도 않아서 좋아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "성분이 자극적이지도 않아서 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "뚜껑을 보면 전면에는 펌핑용 후면에는 오픈형식으로 되어 있어서 골라서 편하게 사용할 수 있습니다.",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "811835",
+    "RawText": "리필 사다가 대용량 구입해 봤습니다. 레몬향인데 상큼한 향은 아니네요. 대신 헹굴 때 미끈거리지 않고 뽀드득합니다. 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "16",
+    "RDate": "20220404",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "레몬향인데 상큼한 향은 아니네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "헹굴 때 미끈거리지 않고 뽀드득합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "811838",
+    "RawText": "타사 제품 쓰다가 바꿨는데 거품 밀도가 낮아서 성긴 느낌입니다. 풍성한 거품이 나지 않아 아쉽지만 대용량이라 한동안 걱정 없이 사용하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "19",
+    "RDate": "20220404",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품 밀도가 낮아서 성긴 느낌입니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "거품력",
+        "SentimentText": "풍성한 거품이 나지 않아 아쉽지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라 한동안 걱정 없이 사용하겠습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "811883",
+    "RawText": "용량 넉넉하고 풍부한데 용기가 아무래도 문제가 있는 것 같습니다. 용기가 거품을 잘 만들어내지 못해서 거품이 부드럽게 안 납니다. 세정력도 깔끔한 느낌이 안 들고 잘 씻긴 느낌이 아니라서 아쉽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "111",
+    "Word": "28",
+    "RDate": "20220331",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량 넉넉하고 풍부한데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기가 아무래도 문제가 있는 것 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기가 거품을 잘 만들어내지 못해서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품이 부드럽게 안 납니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "세정력도 깔끔한 느낌이 안 들고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "잘 씻긴 느낌이 아니라서 아쉽습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "811912",
+    "RawText": "포장 꼼꼼합니다. 대용량이라 좋습니다. 용기에 꼭지가 있어서 공병에 덜기 편했습니다. 레몬향이라고 하기엔 향이 좀 강합니다. 강한 향 때문에 거슬릴 때가 있어요. 그래도 만족해요. 손 자주 씻으니 금방금방 다 써서 대용량 사 놓으니 든든해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "135",
+    "Word": "33",
+    "RDate": "20220330",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기에 꼭지가 있어서 공병에 덜기 편했습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "레몬향이라고 하기엔 향이 좀 강합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "강한 향 때문에 거슬릴 때가 있어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량 사 놓으니 든든해요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "811977",
+    "RawText": "상품 품질이 좋네요. 마음에 듭니다. 대용량이라 엄청 오래 쓸거같습니다. 향기도 좋고 뽀득뽀득 잘 닦여요. 세균 걱정 안해도 될거 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "19",
+    "RDate": "20220322",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "상품 품질이 좋네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라 엄청 오래 쓸거같습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "뽀득뽀득 잘 닦여요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "세균 걱정 안해도 될거 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "811982",
+    "RawText": "배송은 빠릅니다. 박스에 잘 포장되어 왔어요. 향은 무난한 향입니다. 세정도 나쁘지 않아요. 대용량이라 양이 많아서 좋아요. 샀으니 꾸준히 잘 써야겠어요. 다른 것도 사용해 봤는데 이 제품이 세정력이 나쁘지 않으니 이것으로 계속 써야겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "134",
+    "Word": "32",
+    "RDate": "20220321",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 무난한 향입니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "세정도 나쁘지 않아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라 양이 많아서 좋아요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "세정력이 나쁘지 않으니",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "811994",
+    "RawText": "향도 은은하고 세정력도 좋습니다. 용량 큰 거 구매하니 떨어질 걱정 없어서 좋습니다. 추천합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "54",
+    "Word": "13",
+    "RDate": "20220319",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 은은하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "세정력도 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량 큰 거 구매하니 떨어질 걱정 없어서 좋습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "812008",
+    "RawText": "최근 사용해 본 손세정중에 제형의 질감이 가장 좋습니다. 순한 향도 무난히 좋습니다. 보습까지 굿이에요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "14",
+    "RDate": "20220317",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형의 질감이 가장 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "순한 향도 무난히 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "보습까지 굿이에요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "812011",
+    "RawText": "늘 OO만 사용했는데 이번에 대용량으로 구매하면서 처음 사용해 봐요. 향도 좋고 거품도 풍성해서 잘 씻기네요. 용량도 많고 가성비 좋은 제품입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "82",
+    "Word": "20",
+    "RDate": "20220317",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품도 풍성해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "잘 씻기네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량도 많고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋은 제품입니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "812019",
+    "RawText": "대용량이라 좋습니다. 제형이 쫀쫀해서 거품도 잘 나오고 세정력도 좋습니다. 다 쓰고 다음에 또 살 예정입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 세** 항균 핸드워시 레몬향 3500ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "15",
+    "RDate": "20220316",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량이라 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 쫀쫀해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품도 잘 나오고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "세정력도 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "812049",
+    "RawText": "열 몇개씩 사서 딸이랑 나눠쓰는데 거의 다 써가서 구매했습니다. 향이 진한 제품이 아니여서 더 좋고 이거 발라야 손이 촉촉해집니다. 다른건 바르고도 건조한 느낌있어서 이것만 대량 사게되요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 카** 클래식 핸드 앤 네일크림 100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "105",
+    "Word": "26",
+    "RDate": "20220607",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 진한 제품이 아니여서 더 좋고 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "이거 발라야 손이 촉촉해집니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "812052",
+    "RawText": "이 제품을 선물 받고나서 향이 너무 좋아 구입하게 됐네요. 부드럽게 발리고 손을 촉촉하게 유지해줘서 요즘처럼 손을 자주 씻어야할때 빠트리지않고 꼭 발라주고 있습니다. 맨손 설겆이 후 거칠어진 손톱과 피부에 아주 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 카** 클래식 핸드 앤 네일크림 100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "122",
+    "Word": "30",
+    "RDate": "20220527",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 너무 좋아 구입하게 됐네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "부드럽게 발리고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "손을 촉촉하게 유지해줘서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "맨손 설겆이 후 거칠어진 손톱과 피부에 아주 좋아요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "유지해줘서 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "812057",
+    "RawText": "배송비가 아깝긴 하지만 대량으로 구입하면 좋을 듯합니다. 다른 핸드크림 발라봤지만 이 제품만큼 가성비 좋고 용량 좋은 것은 못봤습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 카** 클래식 핸드 앤 네일크림 100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "18",
+    "RDate": "20220517",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량 좋은 것은 못봤습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "812060",
+    "RawText": "평소에 매장에서 자주 구매하는 제품인데 빠른 배송도 가능해서 구매해봤습니다. 핸드크림 많이 사용해봤는데 이 제품이 보습력도 좋고 향도 좋아서 주로 사용하고 있네요. 다른 제품이랑 비교해봤을 때 가성비도 좋고 촉촉함이 오래가서 너무 좋은 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 카** 클래식 핸드 앤 네일크림 100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "139",
+    "Word": "33",
+    "RDate": "20220515",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "보습력도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉함이 오래가서 너무 좋은 것 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "오래가서 너무 좋은 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "812062",
+    "RawText": "이 제품 오리지널보다 향이 약해서 아쉽습니다. 촉촉함도 덜한 느낌입니다. 그렇다고 촉촉하지 않은 건 아니라고 생각합니다. 한겨울에 바르기에는 촉촉함이 부족한 것 같습니다. 한겨울에는 오리지널을 바르는 게 좋을 것 같습니다. 오리지널보다 가벼운 느낌이라 전 별로인 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 카** 클래식 핸드 앤 네일크림 100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "154",
+    "Word": "35",
+    "RDate": "20220514",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "오리지널보다 향이 약해서 아쉽습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉함도 덜한 느낌입니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하지 않은 건 아니라고 생각합니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "한겨울에 바르기에는 촉촉함이 부족한 것 같습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉함이 부족한 것 같습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "오리지널보다 가벼운 느낌이라 전 별로인 것 같습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "812064",
+    "RawText": "촉촉하고 손이 부드러워집니다. 미끌 거리지 않아 좋네요. 건성 피부인데 충분히 촉촉합니다. 향이 은은해서 좋습니다. 핸드크림 필수인 사람입니다. 가족들도 함께 사용하고 있습니다. 더 큰 용량도 있으면 좋겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 카** 클래식 핸드 앤 네일크림 100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "117",
+    "Word": "26",
+    "RDate": "20220508",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "손이 부드러워집니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "미끌 거리지 않아 좋네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "피부타입",
+        "SentimentText": "건성 피부인데 충분히 촉촉합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "충분히 촉촉합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 은은해서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "가족들도 함께 사용하고 있습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "더 큰 용량도 있으면 좋겠네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "812068",
+    "RawText": "생각보다 촉촉하지 않고 끈적거립니다. 향이 강해서 자주 쓰지 않게 되네요. 핸드크림을 바르지 않으면 건조해져서 구매했는데 이 제품이 가격은 저렴하지만 촉촉함은 이전 제품보다 없는 것 같습니다. 배송도 느려서 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 카** 클래식 핸드 앤 네일크림 100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "121",
+    "Word": "28",
+    "RDate": "20220502",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "생각보다 촉촉하지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "끈적거립니다.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 강해서 자주 쓰지 않게 되네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 저렴하지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉함은 이전 제품보다 없는 것 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "812072",
+    "RawText": "OO 핸드크림 처음 사용해 보는데 일단 향이 취향에 딱 맞습니다. 향이 일단 마음에 들고, 발림성도 촉촉하니 좋습니다. 잘 스며드네요. 자기 전에 충분히 바르고 자면 다음날 손이 보들보들해서 참 마음에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 카** 클래식 핸드 앤 네일크림 100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "117",
+    "Word": "30",
+    "RDate": "20220423",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 취향에 딱 맞습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 일단 마음에 들고,",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성도 촉촉하니 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "잘 스며드네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "자기 전에 충분히 바르고 자면 다음날 손이 보들보들해서",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "다음날 손이 보들보들해서 참 마음에 듭니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "812078",
+    "RawText": "다른 많은 보습제 써 봤지만 그중에 저한테는 가장 잘 맞는 것 같네요. 지난해 살 때는 세트로 파는 게 있어서 싸게 구입해서 오래 썼는데 이번에는 없어서 조금 가격 차원에서 비싼 느낌은 있습니다. 그래도 보습력이 좋으니 만족하고 쓰고 있어요. 다 쓰고 나면 재구매 할 생각 이네요. 세 가지 종류가 있던데 솔직히 어떤 차이점이 있는지는 잘 모르겠지만 다 좋은 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 카** 클래식 핸드 앤 네일크림 100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "208",
+    "Word": "58",
+    "RDate": "20220410",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "저한테는 가장 잘 맞는 것 같네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 차원에서 비싼 느낌은 있습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "보습력이 좋으니 만족하고 쓰고 있어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "812079",
+    "RawText": "OO은 유럽 살 때부터 사용했는데 항상 보습감에는 만족하고 있어요. 다만 발림성이 안 좋은 편이에요. 바를 때 좀 뻑뻑하게 느껴질 정도여서 그런 느낌을 싫어 하시는 분은 다른 유사 제품 권장 드리고 싶습니다. 용량도 좋고 할인해서 사서 가격도 타 사이트 대비 더 만족스럽습니다. 가을철에 미리 할인해서 구매해 두고 사용할 수 있으면 정말 좋을 듯해요. 그런 행사 좀 미리 알 수 있게 해 주시면 좋겠어요. 기본형 제품 외에 다른 제품도 있는데 개인적으로 기능이 심플한 게 좋아서 기본형 선호해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 카** 클래식 핸드 앤 네일크림 100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "277",
+    "Word": "75",
+    "RDate": "20220407",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "보습감에는 만족하고 있어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성이 안 좋은 편이에요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "바를 때 좀 뻑뻑하게 느껴질 정도여서",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인해서 사서 가격도 타 사이트 대비 더 만족스럽습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "기능이 심플한 게 좋아서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "812085",
+    "RawText": "항상 사용하는 핸드크림이라 쟁여 놓고 쓰는데 다 떨어져 가서 구매하게 됐습니다. 품질 자체도 좋고 끈적이지도 않고 향도 거의 없어서 강한 향 나는 것보다는 괜찮은 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 카** 클래식 핸드 앤 네일크림 100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "98",
+    "Word": "26",
+    "RDate": "20220317",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질 자체도 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "끈적이지도 않고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 거의 없어서 강한 향 나는 것보다는 괜찮은 것 같습니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]

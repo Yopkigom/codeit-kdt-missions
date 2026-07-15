@@ -1,0 +1,3542 @@
+[
+  {
+    "Index": "691924",
+    "RawText": "처음 사용해보는 제품입니다. 향이 강해서 아쉽습니다. 남자 스킨 향이 너무 나서 별로네요. 발림도 안 좋고 끈적거려서 사용을 잘 안 하게 되네요. 가격도 비싼데 품질도 안 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "101",
+    "Word": "26",
+    "RDate": "20201021",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 강해서 아쉽습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "남자 스킨 향이 너무 나서 별로네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림도 안 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "끈적거려서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 비싼데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 안 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "691932",
+    "RawText": "올인원이라 편하게 사용합니다. 원래는 잘 안 바르는 성격입니다. 한 번에 바르는 제품이 있다고 해서 구매했어요. 향이 진하지 않아서 좋고 흡수도 잘 됩니다. 겨울에는 원래 다른 보습제를 사용했습니다. 이 제품은 겨울에 사용하기 좋은 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "136",
+    "Word": "34",
+    "RDate": "20201015",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "올인원이라 편하게 사용합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 진하지 않아서 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "흡수도 잘 됩니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "겨울에 사용하기 좋은 것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "691935",
+    "RawText": "가격이 싸서 구매했는데 생각보다 품질이 안 좋네요. 보습도 안 좋고 발림도 별로네요. 원래 쓰던 제품으로 다시 구매해야겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "17",
+    "RDate": "20201013",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 싸서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "생각보다 품질이 안 좋네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "보습도 안 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림도 별로네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "691936",
+    "RawText": "향도 너무 남성적이라 마음에 안 듭니다. 보습력도 좋지 않네요. 피부가 건조합니다. 다른 제품 쓰는 게 좋을 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "18",
+    "RDate": "20201012",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 너무 남성적이라 마음에 안 듭니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "보습력도 좋지 않네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "피부가 건조합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "691938",
+    "RawText": "저렴하게 구입한 것 같습니다. 남편이 좋아하네요. 향도 좋고 발림성도 좋다고 합니다. 비싸지 않아서 제일 좋았습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "15",
+    "RDate": "20201011",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구입한 것 같습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성도 좋다고 합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "비싸지 않아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "691939",
+    "RawText": "남자 화장품은 대체적으로 향이 강해서 역한데 이 제품은 향이 좋은 것 같아요. 올인원이라 한 번에 바르기 편해서 좋은 것 같아요. 얼굴 뿐 아니라 몸 전체에 바르기 좋네요. 그래서 자주 구매하게 되는 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "118",
+    "Word": "33",
+    "RDate": "20201011",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 좋은 것 같아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "올인원이라 한 번에 바르기 편해서 좋은 것 같아요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "얼굴 뿐 아니라 몸 전체에 바르기 좋네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "691940",
+    "RawText": "타 사이트랑 비교해 보고 샀습니다. 가격도 최저가이고 사용기한도 깁니다. 잘 쓰겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "49",
+    "Word": "11",
+    "RDate": "20201010",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 최저가이고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "사용기한도 깁니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "691949",
+    "RawText": "한 달 사용해보니 정말 좋습니다. 가장 큰 장점은 사용하기 편합니다. 발림성 좋고 향도 괜찮아서 좋습니다. 또 구매하겠습니다. 이상 한 달 사용 후기입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "87",
+    "Word": "22",
+    "RDate": "20201006",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기 편합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 괜찮아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "691951",
+    "RawText": "남편이 지성이고 밖에서 일할 때가 많습니다. 쿨링감이 좋아서 바르면 시원하다고 합니다. 잘 발리고 촉촉하다고 합니다. 이거 바르고 피부가 좋아 보입니다. 용량이 작아서 아쉽지만 그래도 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "109",
+    "Word": "25",
+    "RDate": "20201005",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "쿨링감이 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "바르면 시원하다고 합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "잘 발리고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "촉촉하다고 합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "피부가 좋아 보입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "용량이 작아서 아쉽지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "691952",
+    "RawText": "늘 사용하고 있었던 제품이네요. 다른 제품 쓰려고 했는데 이 제품이 향도 좋고 보습도 더 뛰어나네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "15",
+    "RDate": "20201005",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "보습도 더 뛰어나네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "691956",
+    "RawText": "올인원이라 한 번에 바를 수 있어서 너무 좋습니다. 유분을 잘 잡아주고 보습도 좋은 것 같아요. 발림성도 좋고 향도 은은해서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "20",
+    "RDate": "20201002",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "올인원이라 한 번에 바를 수 있어서 너무 좋습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "유분을 잘 잡아주고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "보습도 좋은 것 같아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 은은해서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "691962",
+    "RawText": "처음 구매한 제품입니다. 써보니 사용감이 좋지 않네요. 유분이 너무 많고 피부가 번들거립니다. 촉촉하지도 않아서 안 좋습니다. 재구매는 없을 듯하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "84",
+    "Word": "19",
+    "RDate": "20200929",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사용감",
+        "SentimentText": "사용감이 좋지 않네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "유분이 너무 많고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "피부가 번들거립니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "촉촉하지도 않아서 안 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "691964",
+    "RawText": "남편 주려고 샀는데 올인원이라서 편하다고 하네요. 끈적거리지 않고 잘 흡수 된다고 합니다. 다만 조금 비싸네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "15",
+    "RDate": "20200928",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "올인원이라서 편하다고 하네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "끈적거리지 않고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "잘 흡수 된다고 합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "조금 비싸네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "691967",
+    "RawText": "후기가 좋아서 친구 선물로 보냈더니 올인원이라 한번에 바를 수 있어 편하다고 좋아합니다. 샘플이 없어서 저는 좀 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "17",
+    "RDate": "20200926",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "올인원이라 한번에 바를 수 있어 편하다고 좋아합니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "샘플이 없어서 저는 좀 아쉽네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "691968",
+    "RawText": "스킨과 로션을 한 번에 바를 수 있는 올인원이라서 편한데 피부가 너무 끈적거립니다. 흡수력이 좋지 않아 보여서 아쉽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "17",
+    "RDate": "20200923",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "스킨과 로션을 한 번에 바를 수 있는 올인원이라서 편한데",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "피부가 너무 끈적거립니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "흡수력이 좋지 않아 보여서 아쉽습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "691969",
+    "RawText": "남편에게 선물로 줬는데 사용하기 간편해서 좋고 세안시 잘 씻긴다고 합니다. 품질이 좋고 제형의 촉감도 괜찮아서 만족스럽다고 합니다. 여러 개 바르기 귀찮아하는 남성들에게 딱입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "100",
+    "Word": "23",
+    "RDate": "20200923",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기 간편해서 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "세안시 잘 씻긴다고 합니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형의 촉감도 괜찮아서 만족스럽다고 합니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "여러 개 바르기 귀찮아하는 남성들에게 딱입니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "691975",
+    "RawText": "쓰던 화장품을 다 써 가서 다음에 쓰려고 구매했어요. 원래 쓰던 화장품에 비하면 향은 별로인 것 같습니다. 흡수력이나 보습력도 그저 그렇습니다. 사용감이 제 취향에 안 맞긴 한데 제품 자체는 그냥 보통 품질입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "119",
+    "Word": "31",
+    "RDate": "20200922",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향은 별로인 것 같습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "흡수력이나 보습력도 그저 그렇습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "보습력도 그저 그렇습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "사용감",
+        "SentimentText": "사용감이 제 취향에 안 맞긴 한데",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "보통 품질입니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "691981",
+    "RawText": "매일 사용하는 스킨 로션 제품을 어떤 걸 고를지 고민을 많이 했어요. 이곳저곳에서 많이 알아보다가 가격은 비싸지만 구매를 하게 되었어요. 한 달 동안 써보니 피부에 자극 없이 잘 쓰고 있습니다. 빠른 배송 아주 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "122",
+    "Word": "33",
+    "RDate": "20200917",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 비싸지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "피부에 자극 없이 잘 쓰고 있습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "691983",
+    "RawText": "아버지 선물로 보내드렸어요. 한번 사용하시고는 좋으시다고 계속 이 제품만 사 달라고 하시네요. 사용하기 간편하고 향도 좋아서 만족해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "17",
+    "RDate": "20200916",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기 간편하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "691990",
+    "RawText": "배송이 생각보다 빨리 와서 좋았어요. 감시합니다. 좋은 상품에 좋은 가격이라서 마음에 들어요. 촉촉해서 가을에 바르기 딱 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "17",
+    "RDate": "20200911",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 상품에 좋은 가격이라서 마음에 들어요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "촉촉해서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "가을에 바르기 딱 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "691996",
+    "RawText": "올인원 제품이 궁금해서 찾아보다가 오프라인 보다 온라인이 더 저렴해서 구입했습니다. 향도 좋고 발림도 부드러워서 좋은 것 같아요. 남자 친구 선물로 사 줬는데 좋아하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "95",
+    "Word": "23",
+    "RDate": "20200904",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "온라인이 더 저렴해서 구입했습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림도 부드러워서 좋은 것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "691998",
+    "RawText": "남편이 지성이기도 하고 약간 민감한 피부라서 여러 곳의 여러 제품들을 써봤지만 딱히 만족하는 제품이 없었습니다. 그런데 이 제품은 흡수력도 좋고 피부에 자극이 없고 발림성도 괜찮아서 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "108",
+    "Word": "26",
+    "RDate": "20200904",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "흡수력도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "피부에 자극이 없고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성도 괜찮아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "692000",
+    "RawText": "사우나 하고 나올 때 여러가지 바르기 불편하다고 해서 올인원으로 구매했어요. 사용감이 좋다고 하네요. 가격도 저렴해서 한꺼번에 여러 개 구입했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "83",
+    "Word": "19",
+    "RDate": "20200903",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사용감",
+        "SentimentText": "사용감이 좋다고 하네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "692002",
+    "RawText": "남편이 필요하다고 해서 구매했습니다. 올인원이라 사용하기 편하다고 하길래 또 다시 재구매 하게 되었어요. 향은 역하지 않아서 좋아요. 올인원이라 번거로운 거 싫어하는 남편이 사용하기도 좋은 제품입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "112",
+    "Word": "25",
+    "RDate": "20200903",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "올인원이라 사용하기 편하다고 하길래",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향은 역하지 않아서 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "올인원이라 번거로운 거 싫어하는 남편이 사용하기도 좋은 제품입니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "692003",
+    "RawText": "저희 남편 선물해 주었는데 아주 잘 쓰고 있습니다. 촉촉하고 발림도 부드럽고 향도 좋다고 합니다. 저렴하게 잘 구입한 것 같아요. 남편이 매일 사용하기 좋다고 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "93",
+    "Word": "24",
+    "RDate": "20200831",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "촉촉하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림도 부드럽고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 좋다고 합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 구입한 것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "남편이 매일 사용하기 좋다고 합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "692007",
+    "RawText": "처음 써 봤는데 생각보다 촉촉하지 않아서 건조하네요. 재구매는 안 할 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "46",
+    "Word": "12",
+    "RDate": "20200827",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "생각보다 촉촉하지 않아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "건조하네요.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "692012",
+    "RawText": "올인원이라서 편하긴 하지만 향이 너무 진해 좋지 않습니다. 바르고 나서 피부가 번들거려서 아쉬워요. 여름에는 사용하기 안 좋을 것 같아요. 용기가 펌핑형인데 잘 나오지 않아서 아쉽네요. 전체적으로 품질이 좋지 않습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "122",
+    "Word": "29",
+    "RDate": "20200823",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "올인원이라서 편하긴 하지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 너무 진해 좋지 않습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "피부가 번들거려서 아쉬워요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "여름에는 사용하기 안 좋을 것 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기가 펌핑형인데 잘 나오지 않아서 아쉽네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "전체적으로 품질이 좋지 않습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "692025",
+    "RawText": "스킨 로션 따로 쓸 필요 없이 하나만 발라도 되니 편해서 좋고 용기가 펌핑 타입인 것도 편합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "54",
+    "Word": "16",
+    "RDate": "20200812",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "스킨 로션 따로 쓸 필요 없이 하나만 발라도 되니 편해서 좋고",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기가 펌핑 타입인 것도 편합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "692027",
+    "RawText": "처음 사용해 봤는데 흡수력이 깔끔하고 좋아요. 하나만 발라도 되니 편해요. 보습도 잘 됩니다. 가격이 비싸지만 향이 좋아요. 선물용으로 좋은 거 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "85",
+    "Word": "21",
+    "RDate": "20200806",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "흡수력이 깔끔하고 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "하나만 발라도 되니 편해요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "보습도 잘 됩니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 비싸지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "692032",
+    "RawText": "형이 궁금하다고 해서 찾아보다가 여기서 저렴하게 구입했습니다. 제형이 묽어서 좋다고 합니다. 올인원이라 사용하기 좋은 것 같네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "16",
+    "RDate": "20200801",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구입했습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 묽어서 좋다고 합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "올인원이라 사용하기 좋은 것 같네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "692037",
+    "RawText": "남편이 올인원 제품이 궁금하다고 해서 찾아보다가 가격은 비싸지만 구매했습니다. 써보니 너무 향이 남자 스킨 냄새가 나서 아쉽네요. 향이 좋지 않은 것 같습니다. 바르고 나면 얼굴이 번들거려서 남편이 잘 쓰지 않는 것 같아요. 여름에 사용하기 안 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "142",
+    "Word": "36",
+    "RDate": "20200723",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 비싸지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 남자 스킨 냄새가 나서 아쉽네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 좋지 않은 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "얼굴이 번들거려서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "여름에 사용하기 안 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "692043",
+    "RawText": "이 제품이 궁금해서 처음 사용해봤습니다. 생각보다 용량이 적어서 아쉽네요. 용량이 큰 제품으로 나왔으면 좋겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "64",
+    "Word": "14",
+    "RDate": "20200719",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용량",
+        "SentimentText": "용량이 적어서 아쉽네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "용량이 큰 제품으로 나왔으면 좋겠습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "692055",
+    "RawText": "올인원이라 편해서 잘 사용하고 있습니다. 향도 마음에 들어요. 보습력이 아쉽긴 하지만 편하게 바를 수 있어 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "16",
+    "RDate": "20200627",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "올인원이라 편해서 잘 사용하고 있습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 마음에 들어요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "보습력이 아쉽긴 하지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "편하게 바를 수 있어 좋아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "692057",
+    "RawText": "건성 피부에 좋다고 해서 구매해 봤습니다. 봄, 여름에 쓰기 좋은 제품을 찾고 있었는데 이 제품은 여름에 쓰기에는 별로인 거 같아요. 올인원이라 편하긴 하지만 전에 쓰던 스킨 로션이 더 좋은 거 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "113",
+    "Word": "31",
+    "RDate": "20200624",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "여름에 쓰기에는 별로인 거 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "올인원이라 편하긴 하지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "692060",
+    "RawText": "구매했는데 케이스가 마음에 들지 않습니다. 케이스가 튼튼하지 않은 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "43",
+    "Word": "10",
+    "RDate": "20200616",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용기",
+        "SentimentText": "케이스가 마음에 들지 않습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "케이스가 튼튼하지 않은 것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "692068",
+    "RawText": "한방에 바를 수 있는 올인원 제품이라 사용하기 편하네요. 한방에 바르니 너무 편하고 발림성도 좋고 촉촉합니다. 향도 좋아서 만족해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "18",
+    "RDate": "20200601",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "한방에 바를 수 있는 올인원 제품이라 사용하기 편하네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "한방에 바르니 너무 편하고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "촉촉합니다.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 좋아서 만족해요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "692070",
+    "RawText": "피부에 자극이 있고 향이 은은하지 않아서 안 좋네요. 용기도 고급스럽지 않습니다. 올인원이라 사용하기 편하지만 이 외에는 장점이 없네요. 끈적거리고 건조합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "89",
+    "Word": "20",
+    "RDate": "20200531",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "피부에 자극이 있고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 은은하지 않아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기도 고급스럽지 않습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "올인원이라 사용하기 편하지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "끈적거리고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "건조합니다.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "692071",
+    "RawText": "향이 남성적이라 좋은 것 같아요. 잔향도 은은해서 좋습니다. 보습도 잘 되는 것 같고 가격도 저렴하게 잘 샀네요. 향이 강하지 않아서 추천합니다. 피부도 촉촉함이 오래 유지 되는 것 같아요. 일반적인 로션보다 보습력이 좋은 것 같아서 만족합니다. 아들이 사용하는데 잘 샀다고 하네요. 일반 남성용 화장품을 사용하시면 이 제품도 사용해보시면 좋을 것 같습니다. 용량도 많아서 아주 좋습니다. 재구매할 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "230",
+    "Word": "57",
+    "RDate": "20200531",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 남성적이라 좋은 것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "잔향도 은은해서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "보습도 잘 되는 것 같고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하게 잘 샀네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 강하지 않아서 추천합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "촉촉함이 오래 유지 되는 것 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "오래 유지 되는 것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "일반적인 로션보다 보습력이 좋은 것 같아서",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "용량도 많아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "692073",
+    "RawText": "이 제품을 처음 사용해 봤습니다. 스킨 로션 따로 사용하는 게 귀찮다고 해서 올인원 제품을 샀는데 가격이 너무 비싸네요. 가격이 더 저렴해지면 좋겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "86",
+    "Word": "22",
+    "RDate": "20200530",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 너무 비싸네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 더 저렴해지면 좋겠습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "692074",
+    "RawText": "가격은 저렴한데 지금까지 사용한 제품 중에 제일 좋은 것 같습니다. 올인원 제품이라서 한번에 사용 할 수 있어서 간편합니다. 그 전에 사용했던 제품은 바른 후에 당김이 있었는데 이 제품은 보습력이 좋은 거 같습니다. 1+1이라서 더 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "134",
+    "Word": "35",
+    "RDate": "20200530",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "올인원 제품이라서 한번에 사용 할 수 있어서 간편합니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "보습력이 좋은 거 같습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "1+1이라서 더 좋네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 저렴한데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "692079",
+    "RawText": "늘 쓰던 제품 마트보다 저렴하게 구매했습니다. 유통기한이 짧은 제품으로 주신 것은 살짝 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "54",
+    "Word": "13",
+    "RDate": "20200526",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구매했습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한이 짧은 제품으로 주신 것은 살짝 아쉽네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "692081",
+    "RawText": "사실 화장품이란 게 가격 차이는 극심하게 날 수 있어도 성능 차이는 크게 나지 않는 게 현실이죠. 비싼 건 브랜드 값인 것이죠. 다양한 화장품을 써보시면서 본인 피부에 맞는 것을 찾는 게 가장 1 순위에요. 그리고 2 순위로는 이 브랜드가 망하지 않을까 하는 여부를 보는 것이 좋습니다. 저한테는 인생 올인원 로션이네요. 보습력도 좋고 끈적이지 않아서 마음에 듭니다. 겨울에 사용하기 좋은 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "224",
+    "Word": "60",
+    "RDate": "20200526",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "보습력도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "끈적이지 않아서 마음에 듭니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "겨울에 사용하기 좋은 것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "692082",
+    "RawText": "양이 적어서 아쉽습니다. 아침 저녁으로 자주 사용하니 금방 없어지네요. 가격 대비 용량이 안 좋은 것 같습니다. 가격도 더 저렴해지면 좋겠어요. 생각보다 비싸서 놀랐네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "95",
+    "Word": "23",
+    "RDate": "20200525",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용량",
+        "SentimentText": "양이 적어서 아쉽습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": " 가격 대비 용량이 안 좋은 것 같습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 더 저렴해지면 좋겠어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "생각보다 비싸서 놀랐네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "692083",
+    "RawText": "아들이 면도 시작하면서 얼굴이 거칠어지는 것 같다고 하여 올인원 제품으로 구입하게 되었어요. 향기는 은은해서 좋습니다. 촉촉하고 끈적거림 없어서 좋다고 하네요. 바르고 난 후에 피부가 촉촉하고 윤기 있어 진다고 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "122",
+    "Word": "29",
+    "RDate": "20200523",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향기는 은은해서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "촉촉하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "끈적거림 없어서 좋다고 하네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "피부가 촉촉하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "윤기 있어 진다고 합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "692086",
+    "RawText": "신랑이 유분기 없고 발림성 좋은 올인원만 쓰는데 이거 처음 써보더니 좋다고 합니다. 가격도 저렴할 때 사서 만족합니다. 잘 쓰고 있는 거 같아서 좋아요. 향은 남자스킨향이긴한데 거부감 없습니다. 잔향이 은은하게 좋아서 향수 용도로 활용하기도 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "139",
+    "Word": "34",
+    "RDate": "20200522",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴할 때 사서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향은 남자스킨향이긴한데 거부감 없습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "잔향이 은은하게 좋아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "향수 용도로 활용하기도 합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "692087",
+    "RawText": "얼굴에 여러 가지 바르기 귀찮아하는데 주변에서 이 제품을 추천하길래 구입해 봤습니다. 하나만 발라도 되니 좋아요. 시원하고 좋은데 냄새는 제 취향이 아니네요. 그래도 1+1이라서 좋았어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "105",
+    "Word": "24",
+    "RDate": "20200521",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "하나만 발라도 되니 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "시원하고 좋은데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "냄새는 제 취향이 아니네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "1+1이라서 좋았어요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "692091",
+    "RawText": "처음 사용해보는 제품입니다. 남편이 스킨과 로션을 한 번에 바르는 것을 선호해서 사줬습니다. 유분이 적어서 좋은 것 같아요. 바르고 번들거리지 않아서 좋다고 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "92",
+    "Word": "22",
+    "RDate": "20200519",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "유분이 적어서 좋은 것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "번들거리지 않아서 좋다고 합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "692095",
+    "RawText": "처음 사보는 제품인데 가격이 너무 비쌉니다. 품질도 좋지 않아서 구매가 후회되네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "46",
+    "Word": "11",
+    "RDate": "20200517",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 너무 비쌉니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 좋지 않아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "692096",
+    "RawText": "남성 화장품 냄새가 너무 심하게 나서 안 좋네요. 향이 너무 강해서 머리가 아프네요. 보습도 잘 안 되어서 얼굴이 건조합니다. 몇 번 사용하고 안 쓰게 되는 제품이네요. 얼굴이 건조해서 많이 당깁니다. 주름 방지 효과도 없는 것 같습니다. 가격 대비 품질이 안 좋네요. 추천하지 않습니다. 남성용 화장품을 즐겨 사용하시는 분들은 차라리 다른 제품을 알아보시고 사는 게 좋을 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "216",
+    "Word": "57",
+    "RDate": "20200517",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "남성 화장품 냄새가 너무 심하게 나서 안 좋네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 너무 강해서 머리가 아프네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "보습도 잘 안 되어서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "얼굴이 건조합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "얼굴이 건조해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "많이 당깁니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "주름 방지 효과도 없는 것 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격 대비 품질이 안 좋네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "692102",
+    "RawText": "남편이 지성이라서 유분기 있는 건 피하는 편 입니다. 이 제품은 좋다고 해서 가격은 비싸지만 여러 번 구매해서 쓰고 있습니다. 스킨이랑 로션이 한번에 쓸 수 있어서 편하다고 하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "101",
+    "Word": "27",
+    "RDate": "20200515",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 비싸지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "스킨이랑 로션이 한번에 쓸 수 있어서 편하다고 하네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "692107",
+    "RawText": "이 제품만 사용합니다. 제형이 로션 같아서 좋고 끈적이지 않아서 좋습니다. 배송도 빠르고 가격도 저렴해서 좋은 것 같네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "17",
+    "RDate": "20200512",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 로션 같아서 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "끈적이지 않아서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "692110",
+    "RawText": "할인을 못 받아서 비싸게 샀어요. 그런데 향이 괜찮고 발림성도 좋은 거 같아요. 올인원이라 간편하게 사용할 수 있어서 좋습니다. 품질이 좋은 에센스입니다. 꾸준히 사용할 거 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "101",
+    "Word": "25",
+    "RDate": "20200511",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인을 못 받아서 비싸게 샀어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 괜찮고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성도 좋은 거 같아요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "올인원이라 간편하게 사용할 수 있어서 좋습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 좋은 에센스입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "692113",
+    "RawText": "이 제품이 광고에 나와서 궁금했습니다. 가격이 비싸서 고민하다가 구매했어요. 용량은 커서 좋은데 유통기한이 짧은 제품이 와서 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "17",
+    "RDate": "20200509",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용량",
+        "SentimentText": "용량은 커서 좋은데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한이 짧은 제품이 와서 아쉽네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 비싸서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "692114",
+    "RawText": "일단 포장이 고급스럽고 향도 부담 없어서 좋네요. 피부에 바르면 시원한 느낌이 나고 흡수력도 좋습니다. 데일리로 사용하기 좋은 제품인 것 같습니다. 요즘은 손을 자주 씻어야 하는 때이니 회사에도 하나 가져다 두고 수시로 바르네요. 끈적이지 않아서 좋은 거 같습니다. 재구매 의사 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "161",
+    "Word": "40",
+    "RDate": "20200509",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 부담 없어서 좋네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "피부에 바르면 시원한 느낌이 나고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "흡수력도 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "데일리로 사용하기 좋은 제품인 것 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "끈적이지 않아서 좋은 거 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "692116",
+    "RawText": "원래는 남성용 스킨만 바르다가 요새 날씨가 건조해서 로션이 필요할 것 같아서 이 제품을 구입했습니다. 올인원이라 바르기 편하고 보습도 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "19",
+    "RDate": "20200508",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "올인원이라 바르기 편하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "보습도 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "692123",
+    "RawText": "처음에는 남편이 여성용 화장품을 발랐습니다. 그 모습이 안쓰러워서 남성용 화장품을 찾다가 이 제품을 구매하게 되었습니다. 이 제품을 꾸준히 바르니 얼굴이 화사해졌습니다. 피부가 좋아 보이네요. 진정 효과가 탁월하다고 합니다. 가격만 저렴해지면 좋겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "142",
+    "Word": "31",
+    "RDate": "20200504",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "얼굴이 화사해졌습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "피부가 좋아 보이네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "진정 효과가 탁월하다고 합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격만 저렴해지면 좋겠습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "692133",
+    "RawText": "남편에게 주기 위해서 구매했습니다. 올인원이라 사용하기는 편하지만 민감성 피부에는 맞지 않는다고 하네요. 가격도 비쌉니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "14",
+    "RDate": "20200501",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "올인원이라 사용하기는 편하지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "피부타입",
+        "SentimentText": "민감성 피부에는 맞지 않는다고 하네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 비쌉니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "692144",
+    "RawText": "남편 사 줄라고 구매했는데 피부에 자극적이고 사용감이 생각보다 좋지는 않네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "43",
+    "Word": "10",
+    "RDate": "20200426",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "피부에 자극적이고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사용감",
+        "SentimentText": "사용감이 생각보다 좋지는 않네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "692147",
+    "RawText": "처음 구매하는데 품질이 좋지는 않네요. 가격도 비싸게 주고 구입해서 아쉽습니다. 유분기가 너무 많아서 번들거리네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "14",
+    "RDate": "20200424",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 좋지는 않네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 비싸게 주고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "유분기가 너무 많아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "번들거리네요.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "692152",
+    "RawText": "향은 별로고 용량도 생각보다 작고 촉촉함도 아쉬운 제품이네요. 가격은 마트가 더 저렴했어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "51",
+    "Word": "12",
+    "RDate": "20200422",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향은 별로고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "용량도 생각보다 작고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "촉촉함도 아쉬운 제품이네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 마트가 더 저렴했어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "692153",
+    "RawText": "향이 너무 강해서 마음에 안 드네요. 끈적거립니다. 품질이 전반적으로 좋지 않네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "46",
+    "Word": "11",
+    "RDate": "20200421",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 너무 강해서 마음에 안 드네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "끈적거립니다.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 전반적으로 좋지 않네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "692154",
+    "RawText": "아버지 선물로 사드렸습니다. 가격이 저렴해서 두 개 사서 보내드렸습니다. 아버지께서 사용감이 좋다고 만족 하시는 모습을 보니 저도 기분이 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "82",
+    "Word": "19",
+    "RDate": "20200421",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용감",
+        "SentimentText": "사용감이 좋다고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "692159",
+    "RawText": "스킨 로션 따로 쓰는 거 불편했는데 올인원이라 사용하기 편해요. 그런데 보습력이 부족해서 저녁에는 크림을 덧발라서 마무리하고 있어요. 향은 은은하니 괜찮은데 가격대비 용량이 적은 거 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "106",
+    "Word": "25",
+    "RDate": "20200419",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "올인원이라 사용하기 편해요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "보습력이 부족해서 저녁에는 크림을 덧발라서 마무리하고 있어요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향은 은은하니 괜찮은데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "가격대비 용량이 적은 거 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "692160",
+    "RawText": "흡수력이 좋지 않고 향이 너무 진해서 안 좋습니다. 올인원 제품 처음 샀는데 잘못 산 것 같네요. 보습도 안 좋아서 재구매는 안 할 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "80",
+    "Word": "24",
+    "RDate": "20200418",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "흡수력이 좋지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 너무 진해서 안 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "보습도 안 좋아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "692162",
+    "RawText": "배송도 느리고 제품도 건조합니다. 괜히 산 것 같습니다. 피부가 건조해져서 건성 타입에는 추천하지 않습니다. 성분도 좋지 않은 것 같고 진정 효과도 없는 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "92",
+    "Word": "24",
+    "RDate": "20200417",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "건조합니다.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "피부가 건조해져서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "피부타입",
+        "SentimentText": "건성 타입에는 추천하지 않습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "성분도 좋지 않은 것 같고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "진정 효과도 없는 것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "692163",
+    "RawText": "향도 강해서 아쉽고 세면 후 이 제품을 발랐는데 얼굴이 당기네요. 사용 안 하려고 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "50",
+    "Word": "14",
+    "RDate": "20200417",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 강해서 아쉽고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "얼굴이 당기네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "692166",
+    "RawText": "아빠가 화장품을 잘 안 바르시는데 이게 간편하다고 해서 선물해 드렸어요. 그런데 생각보다 사용하기 간편하지 않고 냄새가 별로라고 하시네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "18",
+    "RDate": "20200415",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "생각보다 사용하기 간편하지 않고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "냄새가 별로라고 하시네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "692168",
+    "RawText": "매번 구매하는 제품이네요. 배송도 빨리 와서 좋고 가격도 저렴해서 만족합니다. 여름에 사용하기 좋은 것 같아요. 바르면 시원합니다. 용량도 적당해서 구매 시점 잡기가 좋은 것 같아요. 비용 부담이 안 되어서 좋은 제품입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "125",
+    "Word": "31",
+    "RDate": "20200414",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴해서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "여름에 사용하기 좋은 것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "바르면 시원합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "용량도 적당해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "비용 부담이 안 되어서 좋은 제품입니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "692172",
+    "RawText": "다른 올인원 제품을 쓰다가 이 올인원 제품은 어떨까 싶어서 구매했습니다. 가격은 비싼 편입니다. 도착해서 사용해보니 생각보다 보습력이 좋지는 않네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "83",
+    "Word": "19",
+    "RDate": "20200410",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 비싼 편입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "보습력이 좋지는 않네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "692176",
+    "RawText": "향도 좋지 않고 가격 대비 용량이 적은 것 같습니다. 배송 과정에서 문제가 있어서 화장품이 살짝 깨져 왔습니다. 교환하기 귀찮아서 그냥 씁니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "80",
+    "Word": "21",
+    "RDate": "20200408",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 좋지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "가격 대비 용량이 적은 것 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "692183",
+    "RawText": "올인원 제품 다른 브랜드는 향이 너무 강해서 다른 제품 알아보다가 반신반의로 쓰게 된 제품이었는데 제일 괜찮은 것 같아 꾸준히 사용하고 있는 제품입니다. 여름에 사용하기 좋습니다. 다만 가격이 너무 비싸서 조금 더 저렴해지면 좋을 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "136",
+    "Word": "35",
+    "RDate": "20200403",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "여름에 사용하기 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 너무 비싸서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "조금 더 저렴해지면 좋을 것 같습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "692187",
+    "RawText": "펌프형보다 가격이 저렴합니다. 남편이 이것만 씁니다. 한 가지로 간편하게 바를 수 있어서요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "51",
+    "Word": "12",
+    "RDate": "20200401",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "한 가지로 간편하게 바를 수 있어서요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "692194",
+    "RawText": "보습력이 좋고 향도 좋아서 그런지 정말 마음에 듭니다. 잘 쓸게요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "37",
+    "Word": "10",
+    "RDate": "20200325",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "보습력이 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "692200",
+    "RawText": "스킨과 로션을 따로 썼는데 하나가 간편하다 해서 올인원으로 주문했습니다. 저렴하게 구입해서 좋습니다. 용량도 많네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "14",
+    "RDate": "20200319",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구입해서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "용량도 많네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "692205",
+    "RawText": "간단하게 하나로 해결 할 수 있는 제품을 찾다가 구매했는데 향이 너무 지독하고 보습이 잘 되는 것 같지 않아서 실망했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "19",
+    "RDate": "20200313",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 너무 지독하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "보습이 잘 되는 것 같지 않아서",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "692207",
+    "RawText": "평이 좋아서 궁금해서 구매했는데 제 생각에는 품질이 좋지 않은 것 같아요. 배송도 느리고 가격도 비싸고 모든 것이 마음에 들지 않습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "20",
+    "RDate": "20200313",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 좋지 않은 것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 비싸고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "692212",
+    "RawText": "배송도 빠르고 제품도 아주 만족합니다. 전보다 가격이 많이 비싸져서 당황스러웠습니다. 그래도 올인원이라 사용하기 편한 점은 큰 장점입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "17",
+    "RDate": "20200307",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 많이 비싸져서 당황스러웠습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "올인원이라 사용하기 편한 점은 큰 장점입니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "692213",
+    "RawText": "사은품 있다고 해서 구매했는데 사은품도 없이 박스에 제품만 들어있어서 기분 나쁘네요. 이럴 줄 알았으면 매장에서 살 껄 그랬어요. 사은품 증정 기간 끝났다고 설명이라도 해주셨으면 좋았을 거 같습니다. 박스 뜯어서 보니 용기에 흠집도 있네요. 사용한 흔적은 없어서 그냥 쓰지만 돈 아깝네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "3",
+    "Syllable": "161",
+    "Word": "40",
+    "RDate": "20200306",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품도 없이 박스에 제품만 들어있어서 기분 나쁘네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기에 흠집도 있네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "돈 아깝네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "692226",
+    "RawText": "순하고 사용감이 좋습니다. 특히 향이 과하지 않아서 좋은 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "39",
+    "Word": "10",
+    "RDate": "20200211",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "순하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용감",
+        "SentimentText": "사용감이 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 과하지 않아서 좋은 것 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "692227",
+    "RawText": "바쁜 아침 시간에 스킨 로션 에센스를 한번에 바를 수 있는 장점이 있습니다. 특히 여러가지 바르는 걸 부담스러워하는 분들에게는 사용하기 편합니다. 남편도 계속 이 제품만 사용하는데 강한 남성 화장품 향이 아니라 좋다고 합니다. 조금 남았는데 미리 주문했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "145",
+    "Word": "36",
+    "RDate": "20200208",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "스킨 로션 에센스를 한번에 바를 수 있는 장점이 있습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "여러가지 바르는 걸 부담스러워하는 분들에게는 사용하기 편합니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "강한 남성 화장품 향이 아니라 좋다고 합니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "692236",
+    "RawText": "연휴 앞두고도 이렇게 빨리 보내주셔서 좋네요. 아버지가 한번 써보시고 좋다고 하셔서 다시 구입하게 된 제품이네요. 향이 은은해서 좋고 올인원이라 사용하기 편합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "91",
+    "Word": "21",
+    "RDate": "20200123",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 은은해서 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "올인원이라 사용하기 편합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "692237",
+    "RawText": "잘 쓰고 있어요. 무엇보다 발림이 부드럽고 촉촉해요. 그리고 끈적임이 없어요. 피부가 딱 민감하지는 않으나 다른 제품을 쓰면 가려움이 있었습니다. 이 제품은 가려움도 없어서 좋아요. 떨어지기 전에 꼭 사서 써요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "118",
+    "Word": "29",
+    "RDate": "20200122",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림이 부드럽고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "촉촉해요.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "끈적임이 없어요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "가려움도 없어서 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "692251",
+    "RawText": "아빠가 이것만 쓰셔서 항상 구매하는 제품이네요. 향도 좋고 발림성도 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "43",
+    "Word": "10",
+    "RDate": "20191231",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성도 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "692261",
+    "RawText": "남편 쓰라고 사준 제품입니다. 인터넷에서 찾아보다가 올인원 제품 중에서는 이 제품이 평이 제일 좋아서 구매했어요. 향기가 은은하고 피부가 끈적이지 않아서 좋습니다. 제형도 적당한 타입이라 좋은 것 같습니다. 가격이 저렴해서 정말 좋습니다. 재구매 할 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "147",
+    "Word": "35",
+    "RDate": "20191206",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향기가 은은하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "피부가 끈적이지 않아서 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형도 적당한 타입이라 좋은 것 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴해서 정말 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "692263",
+    "RawText": "겨울에 사용하기 좋은 것 같습니다. 이걸 바르면 피부가 촉촉해집니다. 매년 겨울에 사용합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 라** 옴므 올인원 에센스 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "52",
+    "Word": "12",
+    "RDate": "20191204",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "겨울에 사용하기 좋은 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "피부가 촉촉해집니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "692267",
+    "RawText": "여름에 사용하기에 좋은 촉촉하면서 가벼운 제형의 로션입니다. 시원하면서도 산뜻합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 옴므 올인원 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "47",
+    "Word": "9",
+    "RDate": "20220828",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "여름에 사용하기에 좋은",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "촉촉하면서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "가벼운 제형의 로션입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "시원하면서도",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "산뜻합니다.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "692269",
+    "RawText": "이 제품을 얼굴에 바르면 끈적임이 없고 촉촉함이 하루 종일 지속 되어서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 옴므 올인원 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "45",
+    "Word": "12",
+    "RDate": "20220824",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "끈적임이 없고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "촉촉함이 하루 종일 지속 되어서 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "하루 종일 지속 되어서 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "692276",
+    "RawText": "포장이 엄청 대충 왔고 향도 안 좋고 디자인도 마음에 들지 않네요. 용기도 사용하기 좋지는 않네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 옴므 올인원 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "15",
+    "RDate": "20220811",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 안 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 마음에 들지 않네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기도 사용하기 좋지는 않네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "692290",
+    "RawText": "스킨 로션을 따로 바르지 않아도 되어서 편리합니다. 남자들은 귀찮은 거 안 합니다. 가격도 저렴하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 옴므 올인원 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "14",
+    "RDate": "20220725",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "스킨 로션을 따로 바르지 않아도 되어서 편리합니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "692291",
+    "RawText": "이 제품 처음 써보는데 품질이 좋지 않네요. 향도 좋지 않아서 한 번 쓰고 안 씁니다. 재구매는 없을 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 옴므 올인원 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "19",
+    "RDate": "20220723",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 좋지 않네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 좋지 않아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "692295",
+    "RawText": "자주 쓰는 제품으로 향도 적당하고 보습력도 적당해서 여름에 쓰기도 좋습니다. 무료 배송이고 저렴해서 늘 여기서 구매하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 옴므 올인원 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "16",
+    "RDate": "20220716",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 적당하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "보습력도 적당해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "여름에 쓰기도 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴해서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "692301",
+    "RawText": "남편이 궁금하다고 해서 구매해준 상품인데 바르고 나면 피부가 끈적거리고 산뜻하지 않습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 옴므 올인원 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "50",
+    "Word": "11",
+    "RDate": "20220713",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "피부가 끈적거리고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "산뜻하지 않습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "692302",
+    "RawText": "이것저것 다 써봤지만 저한테는 잘 맞습니다. 촉촉하고 번들거리지 않아서 좋은 것 같아요. 가격만 더 저렴해지면 좋겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 옴므 올인원 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "16",
+    "RDate": "20220711",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "저한테는 잘 맞습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "촉촉하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "번들거리지 않아서 좋은 것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격만 더 저렴해지면 좋겠어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "692306",
+    "RawText": "다른 지성용 제품 써봐도 피지 조절이 안 되어서 번질거림이 안 없어졌는데 이 제품은 피지 조절에 효과가 있어요. 피지가 많이 줄어들었어요. 용량이 작아서 아쉽지만 제품은 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 옴므 올인원 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "99",
+    "Word": "25",
+    "RDate": "20220705",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "피지 조절에 효과가 있어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "피지가 많이 줄어들었어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "용량이 작아서 아쉽지만 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "692309",
+    "RawText": "배송이 느리네요. 오자마자 써 봤는데 보습이 좋지 않습니다. 이 브랜드 제품 처음 써보는데 실망이네요. 품질이 좋지 않아서 재구매는 하지 않겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 옴므 올인원 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "83",
+    "Word": "20",
+    "RDate": "20220628",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "보습이 좋지 않습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 좋지 않아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "692318",
+    "RawText": "향이 순하고 끈적임이 없어서 바르고 나면 산뜻하네요. 가격도 저렴하고 바쁜 아침 시간에 스킨과 로션을 한번에 바르니 시간도 절약 되어서 편합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 옴므 올인원 150ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "81",
+    "Word": "20",
+    "RDate": "20220606",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 순하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "끈적임이 없어서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "산뜻하네요.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "스킨과 로션을 한번에 바르니 시간도 절약 되어서 편합니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "692340",
+    "RawText": "OO 에서 쿠폰 할인해서 훨씬 저렴하게 구매했어요. 사용해보니 끈적이지 않아서 좋습니다. 향도 강하지 않아서 맘에 들어요. 다음에도 또 구매할 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 옴므 올인원 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "87",
+    "Word": "21",
+    "RDate": "20220507",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰 할인해서 훨씬 저렴하게 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "끈적이지 않아서 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 강하지 않아서 맘에 들어요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "692348",
+    "RawText": "향이 좋지 않네요. 너무 남성적인 향이어서 안 좋네요. 부드럽게 발리지만 제형이 로션 같아서 마음에 들지 않습니다. 흡수도 잘 되는 편이 아니라서 여름에 사용하기에는 안 좋을 것 같습니다. 피부가 번들거려서 한 번 사용하고 더는 사용을 안 하게 되네요. 효과도 좋지 않은 것 같아서 다른 제품을 알아볼 생각입니다. 샘플도 하나 안 와서 아쉽네요. 추천하지 않고 재구매도 하지 않겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 옴므 올인원 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "216",
+    "Word": "56",
+    "RDate": "20220504",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 좋지 않네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "너무 남성적인 향이어서 안 좋네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "부드럽게 발리지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 로션 같아서 마음에 들지 않습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "흡수도 잘 되는 편이 아니라서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "여름에 사용하기에는 안 좋을 것 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "피부가 번들거려서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과도 좋지 않은 것 같아서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "샘플도 하나 안 와서 아쉽네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "692349",
+    "RawText": "다른 제품 쓰다가 지인이 이 제품을 추천하길래 OOO 올인원 제품을 구매해 봤습니다. 올인원이라 사용하기 편하네요. 향도 은은해서 좋은데 촉촉함이 오래 유지되지 않아서 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 옴므 올인원 150ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "99",
+    "Word": "23",
+    "RDate": "20220503",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "올인원이라 사용하기 편하네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "피부타입",
+        "SentimentText": "향도 은은해서 좋은데 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "촉촉함이 오래 유지되지 않아서 아쉽네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "692354",
+    "RawText": "흡수도 잘 되고 보습력이 좋아서 겨울에 사용하기 좋아요. 여러 브랜드를 써봤지만 가격대비 좋은 제품입니다. 추천합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 옴므 올인원 150ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "66",
+    "Word": "15",
+    "RDate": "20220428",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "흡수도 잘 되고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "보습력이 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "겨울에 사용하기 좋아요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 좋은 제품입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]

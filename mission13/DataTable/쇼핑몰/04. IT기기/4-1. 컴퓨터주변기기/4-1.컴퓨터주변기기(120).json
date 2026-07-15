@@ -1,0 +1,2827 @@
+[
+  {
+    "Index": "60099",
+    "RawText": "생각보다 이어폰 머리 부분이 마감이 깔끔해서 품질이 좋아요!! 음질도 맑아서 귀가 편안하네요~ 이어폰 헤드 부분은 사이즈가 적당해서 귀가 아프지 않아 굳굳~",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "87",
+    "Word": "21",
+    "RDate": "20220512",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "생각보다 이어폰 머리 부분이 마감이 깔끔해서 품질이 좋아요!",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "음질도 맑아서 귀가 편안하네요~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "이어폰 헤드 부분은 사이즈가 적당해서 귀가 아프지 않아 굳굳~",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60100",
+    "RawText": "비상용으로 샀는데 음질이 생각외로 훌륭하고 좋아요  소리 크기가 제멋대로 커졌다 작아졌다 할때가 있어 품질이 안 좋다는 생각이 들어요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "18",
+    "RDate": "20210622",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "비상용으로 샀는데 음질이 생각외로 훌륭하고 좋아요 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "소리 크기가 제멋대로 커졌다 작아졌다 할때가 있어 품질이 안 좋다는 생각이 들어요",
+        "SentimentWord": "12",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "60102",
+    "RawText": "꼬이지 않는 이어폰줄 너무 편리합니다. 귀에 딱 붙는 착용감~ 너무 좋아요. 유선인데 가격은 많이 비싸서 아쉬워요.",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "4",
+    "Syllable": "64",
+    "Word": "16",
+    "RDate": "20220331",
+    "Aspects": [
+      {
+        "Aspect": "편의성",
+        "SentimentText": "꼬이지 않는 이어폰줄 너무 편리합니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "귀에 딱 붙는 착용감~ 너무 좋아요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "유선인데 가격은 많이 비싸서 아쉬워요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "60103",
+    "RawText": "이정도 가격에 이런 성능을 보여주다니 정말 놀랍네요 색상은 흰색인데 금새 때가타서 조금 후회스럽네요ㅠㅠ",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "4",
+    "Syllable": "57",
+    "Word": "13",
+    "RDate": "20220706",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "이정도 가격에 이런 성능을 보여주다니 정말 놀랍네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상은 흰색인데 금새 때가타서 조금 후회스럽네요ㅠㅠ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "60104",
+    "RawText": "유선이면 음질이 더 좋을줄 알았는데 더 별로네요 실망했어요 노이즈캔슬링 기능 있다고 해서 샀는데 전혀 효과없어요 안좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "2",
+    "Syllable": "67",
+    "Word": "16",
+    "RDate": "20211020",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "유선이면 음질이 더 좋을줄 알았는데 더 별로네요 실망했어요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "노이즈캔슬링 기능 있다고 해서 샀는데 전혀 효과없어요 안좋네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "60105",
+    "RawText": "소리도 지지직거려서 귀도 아프고 성질나요 제품은 며칠안되서 고장이 나고 짜증만 올라오네요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "1",
+    "Syllable": "49",
+    "Word": "11",
+    "RDate": "20211210",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "소리도 지지직거려서 귀도 아프고 성질나요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 제품은 며칠안되서 고장이 나고 짜증만 올라오네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "60106",
+    "RawText": "소리가 선명하고 음량이 크고 잘 들려서 좋아요 연결잭이 000폰 충전기에 꽂아 사용할 수 있어 편리하게 잘 사용하고 있어요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "18",
+    "RDate": "20211222",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "소리가 선명하고 음량이 크고 잘 들려서 좋아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "연결잭이 000폰 충전기에 꽂아 사용할 수 있어 편리하게 잘 사용하고 있어요",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60107",
+    "RawText": "소리도 또렷하게 잘들려 좋네요 블루투스보다 유선이 사용하기 편리하네요 착용감은 귀에 쏙들어가는게 귀도 안아프고 만족스럽네요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "14",
+    "RDate": "20220511",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "소리도 또렷하게 잘들려 좋네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "블루투스보다 유선이 사용하기 편리하네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "착용감은 귀에 쏙들어가는게 귀도 안아프고 만족스럽네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60108",
+    "RawText": "음질도 소리가 뭉개지지않고 잘 들려 좋아요 배송도 빨라 맘에 들어요 C타입 이어폰이라 두루두루 사용하기 편리해요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "15",
+    "RDate": "20220608",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "음질도 소리가 뭉개지지않고 잘 들려 좋아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": " C타입 이어폰이라 두루두루 사용하기 편리해요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60109",
+    "RawText": "소음 차단이 완벽히는 아니지만 꽤 되서 좋아요 음질이 꽤 입체적이고 고음에서 특히 잘 들려서 좋아요 유선이어폰이라 무선보다는 귀에서 덜 빠져서 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "83",
+    "Word": "21",
+    "RDate": "20220317",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "소음 차단이 완벽히는 아니지만 꽤 되서 좋아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "음질이 꽤 입체적이고 고음에서 특히 잘 들려서 좋아요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "유선이어폰이라 무선보다는 귀에서 덜 빠져서 좋아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60110",
+    "RawText": "음질이 휴대폰보다 떨어져 별로네요  충전할 적엔 이어폰 사용을 못해 불편해요 하지만 선꼬임은 없어서 편해요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "2",
+    "Syllable": "59",
+    "Word": "14",
+    "RDate": "20210810",
+    "Aspects": [
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "음질이 휴대폰보다 떨어져 별로네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "충전할 적엔 이어폰 사용을 못해 불편해요 하지만 선꼬임은 없어서 편해요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "60111",
+    "RawText": "폰에 c타입 연결잭 이어폰이 필요해서 구입했는데 잘 연결되고 좋아요 사은품으로 주는 이어폰만 쓰다가 처음으로 구매해보는데 생각보다  비싸네요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "17",
+    "RDate": "20220610",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "조작성",
+        "SentimentText": "폰에 c타입 연결잭 이어폰이 필요해서 구입했는데 잘 연결되고 좋아요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "사은품으로 주는 이어폰만 쓰다가 처음으로 구매해보는데 생각보다 비싸네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "60112",
+    "RawText": "C타입 이어폰이라 음질이 좋네요!! 다만 충전하면서 사용은 못하는게 아쉬워요ㅠ",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "43",
+    "Word": "9",
+    "RDate": "20220426",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "C타입 이어폰이라 음질이 좋네요!! ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "다만 충전하면서 사용은 못하는게 아쉬워요ㅠ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "60114",
+    "RawText": "c타입 이어폰 없어 구매 했는데 음질도 깨끗해  라디오 듣기 좋네요. 음량 조절키가 너무 작아 어머니가 음량 조작이 불편하시다고합니다",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "18",
+    "RDate": "20220531",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "c타입 이어폰 없어 구매 했는데 음질도 깨끗해  라디오 듣기 좋네요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "음량 조절키가 너무 작아 어머니가 음량 조작이 불편하시다고합니다 ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "60115",
+    "RawText": "선이 좀 짧아서 불편하지만 제품 성능은 끊김없이 잘 들리고 좋았어요.",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "38",
+    "Word": "10",
+    "RDate": "20211129",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "선이 좀 짧아서 불편하지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "제품 성능은 끊김없이 잘 들리고 좋았어요 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60116",
+    "RawText": "역시 정품이라 마감이 깔끔하고 좋아요 정품이 좀 비싸서 부담이 되긴하지만 비싸도 괜찮아요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "49",
+    "Word": "12",
+    "RDate": "20210706",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "역시 정품이라 마감이 깔끔하고 좋아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "정품이 좀 비싸서 부담이 되긴하지만 비싸도 괜찮아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60117",
+    "RawText": "음질이 풍성하고 고음에서 특히 소리가 크게 나와서 좋아요  블루투스 처럼 연결이 끊기지 않으니 만족해요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "14",
+    "RDate": "20220513",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "음질이 풍성하고 고음에서 특히 소리가 크게 나와서 좋아요 ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "블루투스 처럼 연결이 끊기지 않으니 만족해요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60118",
+    "RawText": "역시 000 정품 제품을 사야하네요  소리도 잘 들리고 상대방에게도 전달이 잘 되서 업무볼때 잘 이용하고 있어요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "16",
+    "RDate": "20210702",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제조일/제조사",
+        "SentimentText": "역시 000 정품 제품을 사야하네요 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "소리도 잘 들리고 상대방에게도 전달이 잘 되서 업무볼때 잘 이용하고 있어요",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60119",
+    "RawText": "정품이라 소리가 다르고 좋네요  가격은 살짝 있어 비싸다는 생각이 들지만 제품에 만족해요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "49",
+    "Word": "12",
+    "RDate": "20220323",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "정품이라 소리가 다르고 좋네요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 살짝 있어 비싸다는 생각이 들지만 제품에 만족해요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60121",
+    "RawText": "이어폰 음질이 너무 좋아서 다른건 못쓰네요^^ 귀에 딱 맞아서 착용감이 정말 좋고 편해요!",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "50",
+    "Word": "13",
+    "RDate": "20220404",
+    "Aspects": [
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "이어폰 음질이 너무 좋아서 다른건 못쓰네요^^",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "귀에 딱 맞아서 착용감이 정말 좋고 편해요!",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60124",
+    "RawText": "c-type 이어폰 구매 했는데 사운드도 좋고 잘 들려요.블루투스 이어폰처럼 충전 필요 없고 그냥 꽂아 사용 할수 있어 넘 편해요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "19",
+    "RDate": "20211203",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "c-type 이어폰 구매 했는데 사운드도 좋고 잘 들려요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "블루투스 이어폰처럼 충전 필요 없고 그냥 꽂아 사용 할수 있어 넘 편해요 ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60125",
+    "RawText": "요즘 정품이 아닌제품도 많다고 고민하다 구매했는데 정품이라 좋아요 음질이 입체적이고 풍성해서 귀가 즐겁네요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "4",
+    "Syllable": "59",
+    "Word": "13",
+    "RDate": "20220303",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "요즘 정품이 아닌제품도 많다고 고민하다 구매했는데 정품이라 좋아요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "음질이 입체적이고 풍성해서 귀가 즐겁네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60127",
+    "RawText": "가격이 다른제품보다 저렴해서 구매했는데 마음에 들어요 음질이 풍성하고 저음은 좀 약하지만 고음에서 특히 소리가 크게 나와서 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "17",
+    "RDate": "20211125",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 다른제품보다 저렴해서 구매했는데 마음에 들어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "음질이 풍성하고 저음은 좀 약하지만 고음에서 특히 소리가 크게 나와서 좋아요 ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60128",
+    "RawText": "옛날 제품이 고무가 망가져 새로 샀습니다. 받고 싶은 날에 잘 도착했어요. 고장난 곳 없고 잡음 없이 음질 좋아 만족합니다. 노이즈캔슬링이 안되는건 안타까워요. 유선으로 노이즈캔슬링 되는거 만들어 주면 좋겠어요. 옛날 제품이 고무가 망가져 새로 샀습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "142",
+    "Word": "34",
+    "RDate": "20220402",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "고장난 곳 없고 잡음 없이 음질 좋아 만족합니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "노이즈캔슬링이 안되는건 안타까워요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "60129",
+    "RawText": "소리가 좀 작게 들려서 마음에 안들어요   유선이라 연결이 끊기거나 하는 부분이 없이 잘 쓰고있어요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "4",
+    "Syllable": "55",
+    "Word": "14",
+    "RDate": "20220526",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": " 소리가 좀 작게 들려서 마음에 안들어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "유선이라 연결이 끊기거나 하는 부분이 없이 잘 쓰고있어요 ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60130",
+    "RawText": "제품이 안테나 역할을 하는지 라디오 주파수 매우 잘 잡아 듣고 싶은 라디오를 들으니 좋네요. 통화할때 주변 소음이 다들려 시끄럽습니다. ㅜ.ㅜ",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "20",
+    "RDate": "20220303",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성",
+        "SentimentText": "제품이 안테나 역할을 하는지 라디오 주파수 매우 잘 잡아 듣고 싶은 라디오를 들으니 좋네요.",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "통화할때 주변 소음이 다들려 시끄럽습니다. ㅜ.ㅜ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "60132",
+    "RawText": "유선 이어폰 치고는 가격이 좀 비쌉니다 ㅜㅜ  무선도 음질 좋지만 유선 음질은 따라올 수가 없네요 정말 깨끗하게 잘 들려요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "19",
+    "RDate": "20220305",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "유선 이어폰 치고는 가격이 좀 비쌉니다 ㅜㅜ  ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": " 무선도 음질 좋지만 유선 음질은 따라올 수가 없네요 정말 깨끗하게 잘 들려요",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60133",
+    "RawText": "음량이 커서 음악 들을때 귀가 즐거워요 제품 좋네요 와이어가  튼튼해서 오래 사용할 수 있어서 좋고  피복이 고무가 아니라 나이론 끈으로 이쁘고 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "84",
+    "Word": "22",
+    "RDate": "20220102",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "음량이 커서 음악 들을때 귀가 즐거워요 제품 좋네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성",
+        "SentimentText": "와이어가  튼튼해서 오래 사용할 수 있어서 좋고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": " 피복이 고무가 아니라 나이론 끈으로 이쁘고 좋아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60134",
+    "RawText": "음질이 깨끗해서 듣기 좋아요, 잘 빠지지 않고 착용감도 편안합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "37",
+    "Word": "9",
+    "RDate": "20220611",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "음질이 깨끗해서 듣기 좋아요, ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "잘 빠지지 않고 착용감도 편안합니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60135",
+    "RawText": "음질이 생각보다 입체적이고 음량도 풍성해서 좋아요  이어탭도 사이즈별로 구별해서 제공하니 편리하네요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "11",
+    "RDate": "20220331",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "음질이 생각보다 입체적이고 음량도 풍성해서 좋아요 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "이어탭도 사이즈별로 구별해서 제공하니 편리하네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60136",
+    "RawText": "이어폰 음질이 정말 깨끗해서 너무 좋습니다~!! 비상용으로 산건데 품질도 좋아서 만족합니다~",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "51",
+    "Word": "11",
+    "RDate": "20210803",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "이어폰 음질이 정말 깨끗해서 너무 좋습니다~!! ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 비상용으로 산건데 품질도 좋아서 만족합니다~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60137",
+    "RawText": "음질도 깨끗하고 맘에 들어요. 무선보다는 전 유선이 사용하기 더 편한 것 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "44",
+    "Word": "12",
+    "RDate": "20220204",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "음질도 깨끗하고 맘에 들어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "무선보다는 전 유선이 사용하기 더 편한 것 같아요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60138",
+    "RawText": "동영상보다 전화오면 통화소리가 안들려서 뺏다가 다시 꼽아야하니 불편해요  잡음이 많아 소리에 집중이 잘 안되서 별로네요 음질도 무선보다 더 안좋고 음량이 제멋대로 왔다갔다해서 실망스러워요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "104",
+    "Word": "23",
+    "RDate": "20220112",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "동영상보다 전화오면 통화소리가 안들려서 뺏다가 다시 꼽아야하니 불편해요 ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "잡음이 많아 소리에 집중이 잘 안되서 별로네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "음질도 무선보다 더 안좋고 음량이 제멋대로 왔다갔다해서 실망스러워요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "60139",
+    "RawText": "폰 교체하면서 c타입 이어폰 첨 구매 했는데 저렴하게 잘 샀습니다. 너무 저렴해서 그런지 음질은 기대 이하입니다ㅜㅜ",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "16",
+    "RDate": "20220722",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "폰 교체하면서 c타입 이어폰 첨 구매 했는데 저렴하게 잘 샀습니다. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "너무 저렴해서 그런지 음질은 기대 이하입니다ㅜㅜ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "60140",
+    "RawText": "젠더를 사용할때보다 음질이 더 바로 왜곡없이 전달되서 좋게 느껴져요 젠더 없이 폰에 바로 사용하려고 구입했는데 디자인이 심플하고 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "18",
+    "RDate": "20220311",
+    "Aspects": [
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "젠더를 사용할때보다 음질이 더 바로 왜곡없이 전달되서 좋게 느껴져요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "젠더 없이 폰에 바로 사용하려고 구입했는데 디자인이 심플하고 좋네요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60141",
+    "RawText": "음질 부드러워 듣기 괜찮아요. 사은품으로  파우치까지 주셔서  감사합니다~^^",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "43",
+    "Word": "8",
+    "RDate": "20220419",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "음질 부드러워 듣기 괜찮아요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품으로  파우치까지 주셔서  감사합니다~^^",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60142",
+    "RawText": "폰에 이어폰 단자가 없어져서 잭에 맞는 유선으로 구입했어요 무선보다 선 있는게 편해서 좋아요 음질이 바로 전달되는 느낌이라 더 좋게 느껴져요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "20",
+    "RDate": "20220509",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "폰에 이어폰 단자가 없어져서 잭에 맞는 유선으로 구입했어요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "무선보다 선 있는게 편해서 좋아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "음질이 바로 전달되는 느낌이라 더 좋게 느껴져요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60143",
+    "RawText": "이어폰 연결 잭도 불량 없고, 음질도 선명하게 잘 들립니다.^^",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "35",
+    "Word": "9",
+    "RDate": "20211030",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "이어폰 연결 잭도 불량 없고, 음질도 선명하게 잘 들립니다.^^ ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "음질도 선명하게 잘 들립니다.^^",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60144",
+    "RawText": "유선이라 줄이 있는게 더 사용하기 편하고 좋네요 음질이 좋고 음량이 풍성하고 웅장해서 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "51",
+    "Word": "13",
+    "RDate": "20211104",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성",
+        "SentimentText": "유선이라 줄이 있는게 더 사용하기 편하고 좋네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "음질이 좋고 음량이 풍성하고 웅장해서 좋아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60145",
+    "RawText": "이어폰 귀에 착용시 착용감도 좋고 음질도 왜곡없이 좋지만 걸으면서 들을때는 약간 음질이 떨어져요 전체적으로 괜찮네요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "4",
+    "Syllable": "64",
+    "Word": "15",
+    "RDate": "20220731",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성",
+        "SentimentText": "이어폰 귀에 착용시 착용감도 좋고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "음질도 왜곡없이 좋지만 걸으면서 들을때는 약간 음질이 떨어져요 전체적으로 괜찮네요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "60146",
+    "RawText": "가격도 착해서 좋았는데 구성품에 이어폰 케이스까지 있네요~^^  음질도 맑아 마음에 들어요 적극추천~",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "12",
+    "RDate": "20220330",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 착해서 좋았는데 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성품에 이어폰 케이스까지 있네요~^^",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "음질도 맑아 마음에 들어요 적극추천~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60147",
+    "RawText": "이어폰의 소리는 잘 들리는데 마이크는 완벽히 들리지 않네요  전화통화 많이 하시면 마이크 소리가 잘 안들리는 이제품은 비추해요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "17",
+    "RDate": "20220313",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "이어폰의 소리는 잘 들리는데 마이크는 완벽히 들리지 않네요 ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "전화통화 많이 하시면 마이크 소리가 잘 안들리는 이제품은 비추해요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "60148",
+    "RawText": "이어폰을 잘 잃어버려 저렴한 이제품 구매했는데 가격 부담 없어 아주 좋네요~ 근데 싸서 그런지 좀 약해 보이고 부실하네요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "18",
+    "RDate": "20211023",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "이어폰을 잘 잃어버려 저렴한 이제품 구매했는데 가격 부담 없어 아주 좋네요~ ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성",
+        "SentimentText": "근데 싸서 그런지 좀 약해 보이고 부실하네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "60149",
+    "RawText": "전에 쓰던 이어폰 귀가 아파 이 제품 구매 했는데 착용감이 짱 좋아요! 파우치까지 주셔서 아주 유용하게 잘 쓰고 있어요 :)",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "20",
+    "RDate": "20220819",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성",
+        "SentimentText": "전에 쓰던 이어폰 귀가 아파 이 제품 구매 했는데 착용감이 짱 좋아요!",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "파우치까지 주셔서 아주 유용하게 잘 쓰고 있어요 :)",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60150",
+    "RawText": "이어폰 소리가 선명해서 좋아요. 이어폰 담을 파우치도 사이즈가 작아 보관하기 딱 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "48",
+    "Word": "12",
+    "RDate": "20220804",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "이어폰 소리가 선명해서 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "이어폰 담을 파우치도 사이즈가 작아 보관하기 딱 좋아요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60151",
+    "RawText": "이어폰인데 통화가 안된다는게 치명적인 단점이네요  음악듣다 전화오면 빼고 다시 통화해야하니 번거롭고 불편해요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "2",
+    "Syllable": "60",
+    "Word": "12",
+    "RDate": "20220217",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "이어폰인데 통화가 안된다는게 치명적인 단점이네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": " 음악듣다 전화오면 빼고 다시 통화해야하니 번거롭고 불편해요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "60152",
+    "RawText": "가격대비 가성비 높아 추천하고 싶은데. 정품이 아닌지 핸드폰에서 라디오가 안 잡혀요. ㅜㅜ  그런데 사운드는  깨끗하게 잘 들려요~",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "17",
+    "RDate": "20220615",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가격대비 가성비 높아 추천하고 싶은데.  ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "정품이 아닌지 핸드폰에서 라디오가 안 잡혀요. ㅜㅜ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": " 그런데 사운드는  깨끗하게 잘 들려요~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60153",
+    "RawText": "유선 이어폰 c 타입 잭 없어 새로 구매 했는데 음질은 선명해서 좋은데 소리가 약간 작아서 아쉽네요. 그래도 가격대비 가성비는 좋은 상품입니다^^",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "81",
+    "Word": "21",
+    "RDate": "20220822",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "유선 이어폰 c 타입 잭 없어 새로 구매 했는데 음질은 선명해서 좋은데 ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "소리가 약간 작아서 아쉽네요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "그래도 가격대비 가성비는 좋은 상품입니다^^ ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60154",
+    "RawText": "음질은 나쁘지 않아 사용할만해요 하지만 주변에서 나는 소음이 다 들어가니 시끄러운 환경에서는 사용못해서 안좋아요 40분쯤 착용하기 귀가 좀 아파서 착용감도 안좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "91",
+    "Word": "21",
+    "RDate": "20210811",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "음질은 나쁘지 않아 사용할만해요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "하지만 주변에서 나는 소음이 다 들어가니 시끄러운 환경에서는 사용못해서 안좋아요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "40분쯤 착용하기 귀가 좀 아파서 착용감도 안좋아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "60155",
+    "RawText": "마트보다 좀 비싼 편이지만 정품 사자는 심정으로 주문했어요 잘 들리고 이상없는 제품이라 마음에 들어요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "14",
+    "RDate": "20220428",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "마트보다 좀 비싼 편이지만 정품 사자는 심정으로 주문했어요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "잘 들리고 이상없는 제품이라 마음에 들어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60156",
+    "RawText": "불량이 올까봐 걱정했는데 양품와 기쁘네요. C타입 이어폰이라  음질이 깨끗하고 좋아요 ^^흰색 사고 싶었는데  못 사서 살짝 아쉽네요. 그래도 사은품도 챙겨받아  넘넘 좋아요~",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "4",
+    "Syllable": "98",
+    "Word": "22",
+    "RDate": "20220424",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "불량이 올까봐 걱정했는데 양품와 기쁘네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "C타입 이어폰이라  음질이 깨끗하고 좋아요 ^^",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "흰색 사고 싶었는데  못 사서 살짝 아쉽네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": " 그래도 사은품도 챙겨받아  넘넘 좋아요~ ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60157",
+    "RawText": "끊김없이 소리가 잘 들리니 양품인거 같아 좋아요 주머니가 있어 분실할 염려가 없어좋고 귀에 닿는 부분이 사이즈별로 선택할수 있어 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "19",
+    "RDate": "20220425",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "끊김없이 소리가 잘 들리니 양품인거 같아 좋아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "주머니가 있어 분실할 염려가 없어좋고 귀에 닿는 부분이 사이즈별로 선택할수 있어 좋아요",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60158",
+    "RawText": "음질이 작은소리도 잘 들려서 좋아요 유선이어폰이 무선보다 더 편할때가 있어 구매했는데 만족스러워요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "54",
+    "Word": "12",
+    "RDate": "20220503",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "음질이 작은 소리도 잘 들려서 좋아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "유선이어폰이 무선보다 더 편할때가 있어 구매했는데 만족스러워요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60159",
+    "RawText": "이어폰 꽂으면  라디오도 잘 나오고 음질도 깨끗해 잘 듣고있습니다",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "36",
+    "Word": "9",
+    "RDate": "20220425",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "이어폰 꽂으면  라디오도 잘 나오고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": " 음질도 깨끗해 잘 듣고 있습니다  ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60161",
+    "RawText": "우리나라 정품이라 품질은 믿음이 갑니다. 고장 없이 튼튼하네요. ^^ 전 c타입을 안써서 맞는거 찾기가 쉽지 않아 불편해요.",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "17",
+    "RDate": "20210619",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "우리나라 정품이라 품질은 믿음이 갑니다. 고장 없이 튼튼하네요. ^^",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "전 c타입을 안써서 맞는거 찾기가 쉽지 않아 불편해요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "60162",
+    "RawText": "저렴하게 잘 산거 같아요 성능도 좋아 외부소음 차단되고 소리가 끊김없이 잘 들려서 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "49",
+    "Word": "13",
+    "RDate": "20210826",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 산거 같아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "성능도 좋아 외부소음 차단되고 소리가 끊김없이 잘 들려서 좋아요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60163",
+    "RawText": "가격은 비싸지만 ㅇㅇㅇ 공식 사이트에서 정품 구매해서 좋습니다. 라디오도 잘 나오고 소리도 선명하게 잘 들려요.",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "4",
+    "Syllable": "62",
+    "Word": "15",
+    "RDate": "20220722",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격은 비싸지만 ㅇㅇㅇ 공식 사이트에서 정품 구매해서 좋습니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": " 라디오도 잘 나오고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "소리도 선명하게 잘 들려요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60164",
+    "RawText": "전에 쓰던 정품과 달라 정품이 의심되요 접촉불량으로 소리가 나오다 말다 별로예요 외부소음이 다 들려서 이어폰 소리가 잘 안들릴 정도예요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "1",
+    "Syllable": "75",
+    "Word": "19",
+    "RDate": "20220517",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": " 전에 쓰던 정품과 달라 정품이 의심되요 접촉불량으로 소리가 나오다 말다 별로예요",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "외부소음이 다 들려서 이어폰 소리가 잘 안들릴 정도예요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "60165",
+    "RawText": "가격이 착해서 너무 만족~ 음질이 좋아서 라디오 말소리도 잘 들리네요^^",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "40",
+    "Word": "10",
+    "RDate": "20210805",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 착해서 너무 만족~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "음질이 좋아서 라디오 말소리도 잘 들리네요^^",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60166",
+    "RawText": "너무 비싸요 ㅜㅜ 많이 부담되는 가격대입니다.. 그래도 색상이 고급진 유광블랙으로 멋져요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "49",
+    "Word": "11",
+    "RDate": "20220825",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "너무 비싸요 ㅜㅜ 많이 부담되는 가격대입니다..",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "그래도 색상이 고급진 유광블랙으로 멋져요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60167",
+    "RawText": "귓구멍 작은 아이들한테 잘맞는 크기라서 만족해요 그러나 단점은 충전하면서 음악은 들을 수 없다는 점이 매우 불편합니다 ㅜ",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "4",
+    "Syllable": "67",
+    "Word": "17",
+    "RDate": "20211007",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "귓구멍 작은 아이들한테 잘맞는 크기라서 만족해요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "그러나 단점은 충전하면서 음악은 들을 수 없다는 점이 매우 불편합니다 ㅜ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "60168",
+    "RawText": "정품이라고 되어 있지만 의심이 되는 정황이 많네요 ㅠㅠ 생각보다 커서 이어폰 끼우는데 너무 뻑뻑해요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "4",
+    "Syllable": "55",
+    "Word": "14",
+    "RDate": "20220226",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "정품이라고 되어 있지만 의심이 되는 정황이 많네요 ㅠㅠ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "생각보다 커서 이어폰 끼우는데 너무 뻑뻑해요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "60169",
+    "RawText": "라디오기능있다했는데 안잡히는데요? 뭐죠..? 다른곳이 더 싸서 여기 비싸요..;;;",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "1",
+    "Syllable": "46",
+    "Word": "8",
+    "RDate": "20210714",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "라디오기능있다했는데 안잡히는데요? 뭐죠..?",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "다른곳이 더 싸서 여기 비싸요..;;;",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "60170",
+    "RawText": "확인해보니 정품맞네요 시리얼번호 인증했습니다 다만 이어폰 한쪽 소리가 날카로워서 아쉽습니다ㅠㅠ",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "4",
+    "Syllable": "52",
+    "Word": "10",
+    "RDate": "20210804",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "확인해보니 정품맞네요 시리얼번호 인증했습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "다만 이어폰 한쪽 소리가 날카로워서 아쉽습니다ㅠㅠ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "60172",
+    "RawText": "귓구멍보다 이어폼이 작아 잘 빠져서 불편해요 음량이 커서 잘 들려서 마음에 들어요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "45",
+    "Word": "12",
+    "RDate": "20211026",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "귓구멍보다 이어폼이 작아 잘 빠져서 불편해요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "음량이 커서 잘 들려서 마음에 들어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60173",
+    "RawText": "디자인이 예상외로 깔끔하고 매우 예뻐서 만족해요 다만 특정기기 통화가 안됩니다 무슨 이런 기능이..;;",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "13",
+    "RDate": "20210624",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 예상외로 깔끔하고 매우 예뻐서 만족해요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "다만 특정기기 통화가 안됩니다 무슨 이런 기능이..;;",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "60174",
+    "RawText": "OOO 로고가 어딜 봐도 없습니다. 그러나 음질도 튀는 게 없어서 좋고 사용자 편의성도 뛰어나고 쓸만합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "3",
+    "Syllable": "60",
+    "Word": "15",
+    "RDate": "20211019",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "음질도 튀는 게 없어서 좋고 사용자 편의성도 뛰어나고 쓸만합니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "사용자 편의성도 뛰어나고 쓸만합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60175",
+    "RawText": "귀에 딱맞아 착용감이 좋아요 마음에 들어요 fm라디오 수신되는 제품이라 구매했는데 잘 이용해서 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "13",
+    "RDate": "20220223",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성",
+        "SentimentText": "귀에 딱맞아 착용감이 좋아요 마음에 들어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "fm라디오 수신되는 제품이라 구매했는데 잘 이용해서 좋네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60176",
+    "RawText": "제품 유선이라 충전 없이 사용해서 정말 편하고,디자인이 귀에 착용하기에 편안하고, 색상도 솔리드하니 고급스러워서 맘에들고 , 음질이 깨끗해서 음악도 편안하게 들을 수있어서 전체적인 품질이 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "110",
+    "Word": "24",
+    "RDate": "20210904",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성",
+        "SentimentText": "제품 유선이라 충전 없이 사용해서 정말 편하고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 귀에 착용하기에 편안하고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 솔리드하니 고급스러워서 맘에들고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "음질이 깨끗해서 음악도 편안하게 들을 수있어서 전체적인 품질이 좋습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60178",
+    "RawText": "젠더의 묵직함과 케이블의 견고함 모두 갖춘 좋은 품질입니다^^ 고음이 아주 또렷해서 귀호강중이에요~~ 가격에 걸맞게 모두 만족스러워 가성비 1등 추천드려요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "86",
+    "Word": "19",
+    "RDate": "20220721",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "젠더의 묵직함과 케이블의 견고함 모두 갖춘 좋은 품질입니다^^",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "고음이 아주 또렷해서 귀호강중이에요~~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격에 걸맞게 모두 만족스러워 가성비 1등 추천드려요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60179",
+    "RawText": "다른 곳보다 저렴하고 쿠폰까지 먹여서 저렴하게 사서 좋아요 소음이 다 들어와서 잘 안들려요 외부소음 차단이 되면 좋겠어요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "17",
+    "RDate": "20210914",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "다른 곳보다 저렴하고 쿠폰까지 먹여서 저렴하게 사서 좋아요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "소음이 다 들어와서 잘 안들려요 외부소음 차단이 되면 좋겠어요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "60180",
+    "RawText": "일단 음질이 선명해서 좋아요~ 라디오도 잘 잡혀서 매우 만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "36",
+    "Word": "9",
+    "RDate": "20220422",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "일단 음질이 선명해서 좋아요~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "라디오도 잘 잡혀서 매우 만족합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60181",
+    "RawText": "통화기능이 잘되니 삶의 질 향상됐어요^^ 음악들을 때 음질도 좋아서 최고로 만족합니다 많이 파세요~",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "13",
+    "RDate": "20210914",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "통화기능이 잘되니 삶의 질 향상됐어요^^",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "음악들을 때 음질도 좋아서 최고로 만족합니다 많이 파세요~",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60183",
+    "RawText": "소리 선명하게 너무 잘 들리고 좋아요^^ 색상도 심플해서 어디든 매치하기 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "44",
+    "Word": "11",
+    "RDate": "20220628",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "소리 선명하게 너무 잘 들리고 좋아요^^",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 심플해서 어디든 매치하기 좋아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60185",
+    "RawText": "전화통화용이 필요해서 샀는데 잘 들리고 상대방도 잘 들린다니 만족해요 정품이라 사용해보니 잘 들리고 사길 잘했어요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "15",
+    "RDate": "20220208",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "전화통화용이 필요해서 샀는데 잘 들리고 상대방도 잘 들린다니 만족해요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "정품이라 사용해보니 잘 들리고 사길 잘했어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60186",
+    "RawText": "처음 받은 제품 음량이 불안정해서 아쉬웠습니다 새 제품 받아보고 보니 색상이 투톤컬러라 너무 이뻐요^^",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "14",
+    "RDate": "20211006",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "처음 받은 제품 음량이 불안정해서 아쉬웠습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "새 제품 받아보고 보니 색상이 투톤컬러라 너무 이뻐요^^",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60187",
+    "RawText": "사은품으로 케이스까지 주셔서 감동입니다^^대박~ 통화 음질이 상당히 선명해서 잘들리고 좋더라구요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "53",
+    "Word": "10",
+    "RDate": "20220406",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품으로 케이스까지 주셔서 감동입니다^^대박~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "통화 음질이 상당히 선명해서 잘들리고 좋더라구요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60188",
+    "RawText": "사은품으로 케이스까지 주셔서 감사하네요 다만 음악 들어보니 음량에 차이가 있어 왼쪽이 작게 들려서 아쉬워요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "4",
+    "Syllable": "59",
+    "Word": "14",
+    "RDate": "20210802",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품으로 케이스까지 주셔서 감사하네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "음악 들어보니 음량에 차이가 있어 왼쪽이 작게 들려서 아쉬워요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "60190",
+    "RawText": "음질이 고음질이라 음악청취시 아주 좋아요 정품인증마크 맞네요 잘 구매했습니다",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "42",
+    "Word": "9",
+    "RDate": "20220708",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "음질이 고음질이라 음악청취시 아주 좋아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "정품인증마크 맞네요 잘 구매했습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60191",
+    "RawText": "파업 중이어서 배송이 오래 걸렸습니다. 그래도 안전하게 포장됐고 품질도 이상 없이 괜찮고 라디오 듣는데 소리도 깔끔하게 들립니다.",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "17",
+    "RDate": "20220312",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 이상 없이 괜찮고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "라디오 듣는데 소리도 깔끔하게 들립니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60192",
+    "RawText": "패브릭 소재가 포근하니 진짜 좋네요 이어폰과 마이크 음질이 깨끗하고 빵빵하니 아주 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "50",
+    "Word": "12",
+    "RDate": "20211104",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "패브릭 소재가 포근하니 진짜 좋네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "이어폰과 마이크 음질이 깨끗하고 빵빵하니 아주 좋아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60194",
+    "RawText": "폰이어폰으로 쓰려고 폰 잭이 c타입이라 구했는데 성능이 좋아 잘 들려요 가격은 합리적이라 가성비 굿이네요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "4",
+    "Syllable": "58",
+    "Word": "14",
+    "RDate": "20211228",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "폰이어폰으로 쓰려고 폰 잭이 c타입이라 구했는데 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "성능이 좋아 잘 들려요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 합리적이라 가성비 굿이네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60195",
+    "RawText": "할인받아서 저렴했고 배송도 빨랐지만 기존 이어폰 대신 구매한 게 잘한 건지는 모르겠습니다. 핸드폰 살 때 주는 이어폰과 길이가 같습니다. 중간에 조절 버튼 위치는 다릅니다. 사이즈가 너무 작아서 귀에 잘 들어갔는지 불안합니다. 원래 글자 쓰여 있는 디자인은 싫지만, 옵션이 아녀서 어쩔 수 없었습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "4",
+    "Syllable": "168",
+    "Word": "42",
+    "RDate": "20211007",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인받아서 저렴했고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 너무 작아서 귀에 잘 들어갔는지 불안합니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "글자 쓰여 있는 디자인은 싫지만, 옵션이 아녀서 어쩔 수 없었습니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "60196",
+    "RawText": "예전에는 구성품으로 들어 있던 제품이었는데 갑자기 판매... 너무 비싸게 판매해서 실망이네여.. 거기다가 음질도 잡음도 많고 별로임...",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "16",
+    "RDate": "20220328",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "예전에는 구성품으로 들어 있던 제품이었는데 갑자기 판매... 너무 비싸게 판매해서 실망이네여..",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "음질도 잡음도 많고 별로임...",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "60197",
+    "RawText": "확실히 선명도가 좋아서 잘 들리네요^^굿굿 내장배터리가 있어서 충전없이 사용해서 유용합니다",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "AKG EO-IC100",
+    "ReviewScore": "5",
+    "Syllable": "50",
+    "Word": "10",
+    "RDate": "20220510",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "확실히 선명도가 좋아서 잘 들리네요^^굿굿",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "배터리",
+        "SentimentText": "내장배터리가 있어서 충전없이 사용해서 유용합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60198",
+    "RawText": "할인행사로 저렴하게 잘 사서 만족해요 핸드폰과 연결할때 바로 되니 속시원하고 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "APPLE 에어팟 2세대 무선충전 MRXJ2KH/A 정품",
+    "ReviewScore": "5",
+    "Syllable": "46",
+    "Word": "11",
+    "RDate": "20191106",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인행사로 저렴하게 잘 사서 만족해요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "핸드폰과 연결할때 바로 되니 속시원하고 좋네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60201",
+    "RawText": "유선충전제품 쓰다가 무선 충전 제품샀는데 충전시 훨씬 편리하네요 이어폰에 볼륨조절 버튼이 없어 볼륨조절시 폰을 만져야하니 불편하네요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "APPLE 에어팟 2세대 무선충전 MRXJ2KH/A 정품",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "16",
+    "RDate": "20220119",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성",
+        "SentimentText": "유선충전제품 쓰다가 무선 충전 제품샀는데 충전시 훨씬 편리하네요 ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "이어폰에 볼륨조절 버튼이 없어 볼륨조절시 폰을 만져야하니 불편하네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "60203",
+    "RawText": "가격이 생각보다 많이 비싸요 ㅠㅠ 그래도 충전을 무선으로 할수있어서 엄청 편하네요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "APPLE 에어팟 2세대 무선충전 MRXJ2KH/A 정품",
+    "ReviewScore": "5",
+    "Syllable": "45",
+    "Word": "11",
+    "RDate": "20191218",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 생각보다 많이 비싸요 ㅠㅠ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "그래도 충전을 무선으로 할수있어서 엄청 편하네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60204",
+    "RawText": "역시 000 무선이어폰은 가짜들과는 비교가 안되는네요 음질이 타제품보다 입체적이고 독보적으로 좋아서 만족해요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "APPLE 에어팟 2세대 무선충전 MRXJ2KH/A 정품",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "12",
+    "RDate": "20200406",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제조일/제조사",
+        "SentimentText": "역시 000 무선이어폰은 가짜들과는 비교가 안되는네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "음질이 타제품보다 입체적이고 독보적으로 좋아서 만족해요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60205",
+    "RawText": "사운드가 일반 이어폰보다는 우수해요~ 그런데 실내에서 끊김 현상 없는데 실외에서는 가끔 끊겨 불편해요 . 디자인은 심플해서 이뻐요~ 자석 때문에 넣고 빼기도 너무 편해요.  무지하게 맘에 들어요♡",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "APPLE 에어팟 2세대 무선충전 MRXJ2KH/A 정품",
+    "ReviewScore": "5",
+    "Syllable": "109",
+    "Word": "26",
+    "RDate": "20190526",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "사운드가 일반 이어폰보다는 우수해요~ ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "그런데 실내에서 끊김 현상 없는데 실외에서는 가끔 끊겨 불편해요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 디자인은 심플해서 이뻐요~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "자석 때문에 넣고 빼기도 너무 편해요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60207",
+    "RawText": "쿠폰 적용해서 가격은 저렴하게 구매해서 좋습니다~ 오픈형 이어폰중에 가장 음질도 좋아서 만족해요! ",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "APPLE 에어팟 2세대 무선충전 MRXJ2KH/A 정품",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "12",
+    "RDate": "20191025",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰 적용해서 가격은 저렴하게 구매해서 좋습니다~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "오픈형 이어폰중에 가장 음질도 좋아서 만족해요!",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60208",
+    "RawText": "고민하다가 구매 했는데 착용감이 엄청나게 편해요~^^ 디자인도 이쁘고 깔끔 그 자체예요!",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "APPLE 에어팟 2세대 무선충전 MRXJ2KH/A 정품",
+    "ReviewScore": "5",
+    "Syllable": "49",
+    "Word": "11",
+    "RDate": "20190626",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성",
+        "SentimentText": "고민하다가 구매 했는데 착용감이 엄청나게 편해요~^^",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 디자인도 이쁘고 깔끔 그 자체예요! ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60209",
+    "RawText": "불량 없는 양품와서 잘 작동합니다~ 통화할 때 잡음이 많이 생겨 별로예요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "APPLE 에어팟 2세대 무선충전 MRXJ2KH/A 정품",
+    "ReviewScore": "5",
+    "Syllable": "40",
+    "Word": "11",
+    "RDate": "20190717",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "불량 없는 양품와서 잘 작동합니다~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "통화할 때 잡음이 많이 생겨 별로예요 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "60211",
+    "RawText": "착용감이 편해서 음악 듣기 좋아요.  음질도 짱 부드럽고  성능까지 좋아서 아주 잘 들려요^^",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "APPLE 에어팟 2세대 무선충전 MRXJ2KH/A 정품",
+    "ReviewScore": "5",
+    "Syllable": "52",
+    "Word": "13",
+    "RDate": "20220319",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성",
+        "SentimentText": "착용감이 편해서 음악 듣기 좋아요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "음질도 짱 부드럽고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "성능까지 좋아서 아주 잘 들려요^^ ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60212",
+    "RawText": "홈페이지에 등록 잘 되는 정품맞네요 굿굿 색상이 쨍해서 더 맘에 들어요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "APPLE 에어팟 2세대 무선충전 MRXJ2KH/A 정품",
+    "ReviewScore": "5",
+    "Syllable": "39",
+    "Word": "11",
+    "RDate": "20191019",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "홈페이지에 등록 잘 되는 정품맞네요 굿굿",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 쨍해서 더 맘에 들어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60215",
+    "RawText": "음량이 좋아서 소리도 잘 들리네요 기대이상^^ 다만 방수제품이 아니란 점이 조금 아쉬워요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "APPLE 에어팟 2세대 무선충전 MRXJ2KH/A 정품",
+    "ReviewScore": "3",
+    "Syllable": "49",
+    "Word": "12",
+    "RDate": "20220717",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "음량이 좋아서 소리도 잘 들리네요 기대이상^^",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "다만 방수제품이 아니란 점이 조금 아쉬워요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "60216",
+    "RawText": "확실히 배터리지속시간이 길어서 좋아요^^ 색상도 고급진 블랙입니다",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "APPLE 에어팟 2세대 무선충전 MRXJ2KH/A 정품",
+    "ReviewScore": "5",
+    "Syllable": "36",
+    "Word": "7",
+    "RDate": "20200305",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "배터리",
+        "SentimentText": "확실히 배터리지속시간이 길어서 좋아요^^",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 고급진 블랙입니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60217",
+    "RawText": "등록방법도 쉬워서 간단하게 바로설정했어요 굿굿 색상도 흰색이라 더 이뻐여",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "APPLE 에어팟 2세대 무선충전 MRXJ2KH/A 정품",
+    "ReviewScore": "5",
+    "Syllable": "40",
+    "Word": "9",
+    "RDate": "20200320",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "조작성",
+        "SentimentText": "등록방법도 쉬워서 간단하게 바로설정했어요 굿굿",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 흰색이라 더 이뻐여",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60219",
+    "RawText": "가격은 최저가는 아니어서 아쉬움이 커요 ㅠ 그래도 전원키면 반응속도도 빠르고 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "APPLE 에어팟 2세대 무선충전 MRXJ2KH/A 정품",
+    "ReviewScore": "5",
+    "Syllable": "46",
+    "Word": "11",
+    "RDate": "20190803",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 최저가는 아니어서 아쉬움이 커요 ㅠ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "그래도 전원키면 반응속도도 빠르고 좋네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "60221",
+    "RawText": "디자인이 생각보다 슬림하니 너무 이쁩니다 가격도 저렴하게 사서 기분좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "컴퓨터/주변기기",
+    "ProductName": "APPLE 에어팟 2세대 무선충전 MRXJ2KH/A 정품",
+    "ReviewScore": "5",
+    "Syllable": "40",
+    "Word": "9",
+    "RDate": "20191204",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 생각보다 슬림하니 너무 이쁩니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하게 사서 기분좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]

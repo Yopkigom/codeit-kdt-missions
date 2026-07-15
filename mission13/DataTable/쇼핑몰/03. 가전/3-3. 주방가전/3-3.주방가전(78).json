@@ -1,0 +1,2798 @@
+[
+  {
+    "Index": "32222",
+    "RawText": "가격대비 완전 만족스러운 제품이예요! 가성비 갑! 사용하기가 쉬워서 요리하기도 쉬워요 최고의 요리사로 만들어주네요. 다만 선반 위에 히터부분 청소가 좀 번거로운 편이예요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "일렉트로맨 이마트 AOT-E1901",
+    "ReviewScore": "4",
+    "Syllable": "95",
+    "Word": "21",
+    "RDate": "20200303",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 완전 만족스러운 제품이예요! 가성비 갑! ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "사용하기가 쉬워서 요리하기도 쉬워요 최고의 요리사로 만들어주네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "다만 선반 위에 히터부분 청소가 좀 번거로운 편이예요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "32223",
+    "RawText": "엄마께 선물로보내드렸는데 용량이 커서 너무 좋아하시네요. 간편하게 사용할 수 있어서 너무 좋데요. 만족스러워요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "일렉트로맨 이마트 AOT-E1901",
+    "ReviewScore": "4",
+    "Syllable": "62",
+    "Word": "13",
+    "RDate": "20210805",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량",
+        "SentimentText": "엄마께 선물로보내드렸는데 용량이 커서 너무 좋아하시네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "간편하게 사용할 수 있어서 너무 좋데요. 만족스러워요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "32225",
+    "RawText": "터치 조작하는 화면이랑 스티커 위치랑 안맞네요. 그래서 터치해서 사용할때 굉장히 불편해요. 생각보다 소음이 굉장히 큰편이라 놀랬어요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "일렉트로맨 이마트 AOT-E1901",
+    "ReviewScore": "3",
+    "Syllable": "74",
+    "Word": "16",
+    "RDate": "20190829",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "조작성",
+        "SentimentText": "터치 조작하는 화면이랑 스티커 위치랑 안맞네요. 그래서 터치해서 사용할때 굉장히 불편해요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "생각보다 소음이 굉장히 큰편이라 놀랬어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "32230",
+    "RawText": "소재가 투명 유리창이라 요리 하는 모습이 보여서 좋네요!! 단점은 소음이 좀 커서 거슬린다 정도..?",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "일렉트로맨 이마트 AOT-E1901",
+    "ReviewScore": "4",
+    "Syllable": "56",
+    "Word": "14",
+    "RDate": "20201128",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재가 투명 유리창이라 요리 하는 모습이 보여서 좋네요!!",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "단점은 소음이 좀 커서 거슬린다 정도..?",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "32231",
+    "RawText": "입구 사이즈가 넓어서 사용하기 편리해서 만족~! 후기 보고 걱정했는데 소음도 거의 없어서 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "일렉트로맨 이마트 AOT-E1901",
+    "ReviewScore": "4",
+    "Syllable": "54",
+    "Word": "13",
+    "RDate": "20200605",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "입구 사이즈가 넓어서 사용하기 편리해서 만족~! ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "후기 보고 걱정했는데 소음도 거의 없어서 좋습니다 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "32232",
+    "RawText": "무게가 너무 무거워요.. 여자 혼자 들기 벅참; 그리고 무슨 가전제품에 설명서도 안 들어있습니까.. 짜증나네요",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "일렉트로맨 이마트 AOT-E1901",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "14",
+    "RDate": "20200321",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게가 너무 무거워요.. 여자 혼자 들기 벅참; ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "무슨 가전제품에 설명서도 안 들어있습니까.. 짜증나네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "32233",
+    "RawText": "너무 만족스러운 가격 주고 사서 좋아요. 그런데 버튼이 다이얼 식이라서 시간 조절이 안 되는 게 단점이네요 ㅠ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CMW-A201DW 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "17",
+    "RDate": "20220426",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "너무 만족스러운 가격 주고 사서 좋아요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "버튼이 다이얼 식이라서 시간 조절이 안 되는 게 단점이네요 ㅠ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "32234",
+    "RawText": "제품 불량인지, 문을 닫으면 본체랑 맞지않고  따로 놀아요.  문 열었을때는 안에 조명이 작동시에만 켜져서 불편하네요..",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CMW-A201DW 일반구매",
+    "ReviewScore": "4",
+    "Syllable": "67",
+    "Word": "15",
+    "RDate": "20220501",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "제품 불량인지, 문을 닫으면 본체랑 맞지않고  따로 놀아요.  ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "문 열었을때는 안에 조명이 작동시에만 켜져서 불편하네요..",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "32235",
+    "RawText": "색상도 너무 깔끔해서 좋아요. 그런데 생각보다 내부가 좁아서 실망했어요ㅠㅠ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CMW-A201DW 일반구매",
+    "ReviewScore": "4",
+    "Syllable": "41",
+    "Word": "9",
+    "RDate": "20220708",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 너무 깔끔해서 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "생각보다 내부가 좁아서 실망했어요ㅠㅠ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "32236",
+    "RawText": "색상은 화이트라 주방 가전이랑 잘 어울리고 좋아요~ 그런데 내부가 이렇게 좁을 줄 몰랐어요;; 피자M사이즈도 안 들어갈 듯..ㅠㅠ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CMW-A201DW 일반구매",
+    "ReviewScore": "3",
+    "Syllable": "72",
+    "Word": "17",
+    "RDate": "20220727",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상은 화이트라 주방 가전이랑 잘 어울리고 좋아요~ ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "내부가 이렇게 좁을 줄 몰랐어요;; 피자M사이즈도 안 들어갈 듯..ㅠㅠ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "32238",
+    "RawText": "시간 조절 하는게 다이얼이라 엄청 불편하네요..;; 내부도 너무 좁아서 부피가 큰 음식은 못 돌립니다; 휴",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CMW-A201DW 일반구매",
+    "ReviewScore": "4",
+    "Syllable": "59",
+    "Word": "15",
+    "RDate": "20220503",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "조작성",
+        "SentimentText": "시간 조절 하는게 다이얼이라 엄청 불편하네요..;; ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "내부도 너무 좁아서 부피가 큰 음식은 못 돌립니다; 휴",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "32239",
+    "RawText": "적당한 가격으로 구매해서 좋아요.  .사이즈도 적당해서  공간 많이 차지하지 않아서 만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CMW-A201DW 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "52",
+    "Word": "11",
+    "RDate": "20220114",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "적당한 가격으로 구매해서 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈도 적당해서  공간 많이 차지하지 않아서 만족합니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "32240",
+    "RawText": "소음이 생각보다 크지 않아서 만족합니다~ 가격도 저렴하게 잘 사서 좋아요~~ 색상은 화이트라 주방가전이랑 잘 어울리네요~",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CMW-A201DW 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "15",
+    "RDate": "20220226",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소음",
+        "SentimentText": "소음이 생각보다 크지 않아서 만족합니다~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하게 잘 사서 좋아요~~ ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상은 화이트라 주방가전이랑 잘 어울리네요~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "32242",
+    "RawText": "오프라인 보다 저렴하게 구매해서 만족합니다~ 색상도 흰색이라 깔끔하고 마음에 들어요",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CMW-A201DW 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "46",
+    "Word": "10",
+    "RDate": "20220212",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "오프라인 보다 저렴하게 구매해서 만족합니다~ ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 흰색이라 깔끔하고 마음에 들어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "32244",
+    "RawText": "사이즈가 작아서 자취하는 사람들에게 안성맞춤! 디자인도 예쁘고 귀여워서 만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CMW-A201DW 일반구매",
+    "ReviewScore": "4",
+    "Syllable": "45",
+    "Word": "9",
+    "RDate": "20220223",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 작아서 자취하는 사람들에게 안성맞춤! ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 예쁘고 귀여워서 만족합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "32245",
+    "RawText": "디자인이 심플해서 주방이 깔끔해 보여서 좋아요~ 그런데 시간 조절 기능이 다이얼 식이라 불편합니다",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CMW-A201DW 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "54",
+    "Word": "13",
+    "RDate": "20220422",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 심플해서 주방이 깔끔해 보여서 좋아요~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "시간 조절 기능이 다이얼 식이라 불편합니다 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "32246",
+    "RawText": "일단 내부가 생각보다 좁아서 별로 입니다. 진짜 딱 1인분만 돌릴 수 있음;; 디자인은 예쁘고 깔끔해서 만족..",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CMW-A201DW 일반구매",
+    "ReviewScore": "4",
+    "Syllable": "62",
+    "Word": "16",
+    "RDate": "20220224",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용량",
+        "SentimentText": "내부가 생각보다 좁아서 별로 입니다. 진짜 딱 1인분만 돌릴 수 있음;; ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인은 예쁘고 깔끔해서 만족..",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "32247",
+    "RawText": "다이얼 방식이라  분과 초가 정확하게 맞춰지질 않아 불편해요.  소리도 너무 시그럽구요..저렴한 값을 하네요^^;",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CMW-A201DW 일반구매",
+    "ReviewScore": "3",
+    "Syllable": "63",
+    "Word": "13",
+    "RDate": "20220313",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "조작성",
+        "SentimentText": "다이얼 방식이라  분과 초가 정확하게 맞춰지질 않아 불편해요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "소리도 너무 시그럽구요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "32249",
+    "RawText": "가격이 진짜 저렴해서 너무 만족합니다. 디자인도 깔끔하고 예뻐서 대만족입니다~",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CMW-A201DW 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "43",
+    "Word": "9",
+    "RDate": "20220219",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 진짜 저렴해서 너무 만족합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 디자인도 깔끔하고 예뻐서 대만족입니다~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "32250",
+    "RawText": "버튼이 다이얼 식이라 시간 조절을 할 수 없어서 불편해요. 디자인은 예쁘고 심플해서 만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CMW-A201DW 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "52",
+    "Word": "13",
+    "RDate": "20220324",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "조작성",
+        "SentimentText": "버튼이 다이얼 식이라 시간 조절을 할 수 없어서 불편해요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인은 예쁘고 심플해서 만족합니다 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "32251",
+    "RawText": "문 열고 닫을 때 소리가 나서 거슬립니다. 디지털이 아니라 아날로그라 시간을 볼 수 없어 별로입니다",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CMW-A201DW 일반구매",
+    "ReviewScore": "4",
+    "Syllable": "55",
+    "Word": "15",
+    "RDate": "20220328",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "소음",
+        "SentimentText": "문 열고 닫을 때 소리가 나서 거슬립니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "디지털이 아니라 아날로그라 시간을 볼 수 없어 별로입니다 ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "32252",
+    "RawText": "디자인 깔끔하고 예뻐서 만족스러워요~ 내부는 좁네요 딱 1인용으로 사용하면 좋을 거 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CMW-A201DW 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "50",
+    "Word": "12",
+    "RDate": "20220418",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 깔끔하고 예뻐서 만족스러워요~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "내부는 좁네요 딱 1인용으로 사용하면 좋을 거 같아요 ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "32253",
+    "RawText": "내부가 작지만 실용적이라 마음에 들어요~ 색상도 화이트라 작은 집에 잘 어울리네요",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CMW-A201DW 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "45",
+    "Word": "11",
+    "RDate": "20220812",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량",
+        "SentimentText": "내부가 작지만 실용적이라 마음에 들어요~ ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 화이트라 작은 집에 잘 어울리네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "32255",
+    "RawText": "내부가 생각보다 넓어서 만족스럽네요~ 디자인도 생각보다 깔끔하게 빠져서 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CMW-A201DW 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "44",
+    "Word": "9",
+    "RDate": "20220322",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량",
+        "SentimentText": "내부가 생각보다 넓어서 만족스럽네요~ ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 생각보다 깔끔하게 빠져서 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "32258",
+    "RawText": "배송 빠르고 디자인이 깔끔해서 마음에 들어요.  다이얼 방식이라  타이머가 생각보다 조절이 어렵지만, 가격이 저렴해서 만족하고 사용합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CMW-A201DW 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "16",
+    "RDate": "20220712",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 깔끔해서 마음에 들어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": " 다이얼 방식이라  타이머가 생각보다 조절이 어렵지만",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴해서 만족하고 사용합니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "32261",
+    "RawText": "제품 사용할 때 소리가 너무 커요;; 완전 짜증 ㅠㅠ 그리고 문 열고 닫을때 너무 빡빡해여;; 품질이 별로에요..",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CMW-A201DW 일반구매",
+    "ReviewScore": "3",
+    "Syllable": "63",
+    "Word": "17",
+    "RDate": "20220809",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "소음",
+        "SentimentText": "제품 사용할 때 소리가 너무 커요;; 완전 짜증 ㅠㅠ ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "문 열고 닫을때 너무 빡빡해여;; 품질이 별로에요..  ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "32262",
+    "RawText": "디자인 깔끔하니 주방에 있는 가전제품이랑 잘 어울리고요~ 기능도 좋아서 음식이 잘 데워집니다 굿",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CMW-A201DW 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "53",
+    "Word": "13",
+    "RDate": "20220330",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 깔끔하니 주방에 있는 가전제품이랑 잘 어울리고요~ ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "기능도 좋아서 음식이 잘 데워집니다 굿",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "32264",
+    "RawText": "디자인이 예뻐서 집안 분위기가 환해지네요~ 사용할 때 간단하게 버튼만 누르면 되니까 간편하고 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CMW-A201DW 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "13",
+    "RDate": "20220122",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 예뻐서 집안 분위기가 환해지네요~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "사용할 때 간단하게 버튼만 누르면 되니까 간편하고 좋아요 ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "32266",
+    "RawText": "디자인이 깔끔해서 좋아요. 사이즈가 적당해서 자리도 많이 차지 않아 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CMW-A201DW 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "44",
+    "Word": "10",
+    "RDate": "20220118",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 깔끔해서 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 적당해서 자리도 많이 차지 않아 만족합니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "32269",
+    "RawText": "빠른배송 감사합니다. 디자인이 심플해서 이뻐요. 작동도 쉽게  잘 됩니다만, 약간의 소음이 있어요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CMW-A201DW 일반구매",
+    "ReviewScore": "4",
+    "Syllable": "55",
+    "Word": "12",
+    "RDate": "20220413",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 심플해서 이뻐요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "작동도 쉽게  잘 됩니다만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "약간의 소음이 있어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "32271",
+    "RawText": "가격도 저렴하게 잘 사서 기분이 좋고요~ 디자인도 심플하니 아주 딱 마음에 들어요~ 내부도 적당히 넓어서 1인이 쓰기 딱입니다~",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CMW-A201DW 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "18",
+    "RDate": "20220723",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하게 잘 사서 기분이 좋고요~ ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 심플하니 아주 딱 마음에 들어요~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "내부도 적당히 넓어서 1인이 쓰기 딱입니다~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "32272",
+    "RawText": "상품이 빠르게 배송됐어요~ 저렴한 가격에 이정도 퀄리티라 만족합니다.   디자인도 깔끔해서 좋아요~ 잘 쓸겠습니다!",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CMW-A201DW 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "13",
+    "RDate": "20220324",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 이정도 퀄리티라 만족합니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "  디자인도 깔끔해서 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "32275",
+    "RawText": "오프라인보다 저렴하게 살 수 있어서 너무 좋아요~ 디자인도 심플해서 마음에 쏙 듭니다~",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CMW-A201DW 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "48",
+    "Word": "12",
+    "RDate": "20220228",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "오프라인보다 저렴하게 살 수 있어서 너무 좋아요~ ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 심플해서 마음에 쏙 듭니다~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "32276",
+    "RawText": "사이즈가 아담한 게 1인 가구에 딱입니다. 기능은 심플해서 그저 그래요",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CMW-A201DW 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "39",
+    "Word": "10",
+    "RDate": "20220820",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 아담한 게 1인 가구에 딱입니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "기능은 심플해서 그저 그래요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "32277",
+    "RawText": "사이즈가 생각보다 작은데 사무실에서 쓰긴 적당합니다..생각보다 무게도 나가서 무겁습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CMW-A201DW 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "49",
+    "Word": "9",
+    "RDate": "20220828",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 생각보다 작은데 사무실에서 쓰긴 적당합니다..",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "생각보다 무게도 나가서 무겁습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "32278",
+    "RawText": "디자인 심플하니 너무 좋네요~ 내부 용량도 1인이 쓰기 딱 좋아서 만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CMW-A201DW 일반구매",
+    "ReviewScore": "4",
+    "Syllable": "42",
+    "Word": "11",
+    "RDate": "20220415",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 심플하니 너무 좋네요~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "내부 용량도 1인이 쓰기 딱 좋아서 만족합니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "32279",
+    "RawText": "자취하는 아들 원룸 방에 필요해 구매했는데요 아들 혼자 쓰기 좋은 적당한 용량이네요. 미니 사이즈라 너무  깜짝해요.  제품도 이상 없어 냉동 밥도 잘 데워진다고 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CMW-A201DW 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "95",
+    "Word": "24",
+    "RDate": "20220830",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량",
+        "SentimentText": "아들 혼자 쓰기 좋은 적당한 용량이네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "미니 사이즈라 너무  깜짝해요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 제품도 이상 없어 냉동 밥도 잘 데워진다고 합니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "32280",
+    "RawText": "버튼이 다이얼식이라 조작이 굉장히 쉽고 간편해서 좋아요. 내부 공간이 작아서 편의점 도시락까지는 안돌아가네요 아쉬워요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CMW-A201DW 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "14",
+    "RDate": "20220422",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "조작성",
+        "SentimentText": "버튼이 다이얼식이라 조작이 굉장히 쉽고 간편해서 좋아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "내부 공간이 작아서 편의점 도시락까지는 안돌아가네요 아쉬워요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "32281",
+    "RawText": "타사 제품 많이 사용해 봤는데  디자인도 귀엽고 심플합니다. 제품은 작동도 잘 되고 음식도 금방 데워집니다.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CMW-A201DW 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "15",
+    "RDate": "20220326",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 귀엽고 심플합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "제품은 작동도 잘 되고 음식도 금방 데워집니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "32283",
+    "RawText": "안에 조리하는 과정이 다 보이고 눌러서 문을 열수 있는 버튼이라 좋네요. 전자레인지 데우기,해동 기본기능에 아주 충실한 제품이예요 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CMW-A201DW 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "18",
+    "RDate": "20220519",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "조작성",
+        "SentimentText": "안에 조리하는 과정이 다 보이고 눌러서 문을 열수 있는 버튼이라 좋네요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "전자레인지 데우기,해동 기본기능에 아주 충실한 제품이예요 좋아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "32286",
+    "RawText": "외관 디자인은 굉장히 깔끔하고 예뻐서 마음에 들어요. 근데 냄새가 굉장히 심해요. 아무리 열고 청소를해도 안없어져요ㅡㅡ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CMW-A201DW 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "15",
+    "RDate": "20220824",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "외관 디자인은 굉장히 깔끔하고 예뻐서 마음에 들어요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "근데 냄새가 굉장히 심해요. 아무리 열고 청소를해도 안없어져요ㅡㅡ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "32287",
+    "RawText": "원룸 생활하며 쓰기 좋은 간편 기능만 있어 활용도도  높아요. 디자인도 깨끗하고 깜찍해 잘 고른 저에게 칭찬합니다",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CMW-A201DW 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "16",
+    "RDate": "20220223",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "원룸 생활하며 쓰기 좋은 간편 기능만 있어 활용도도  높아요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 깨끗하고 깜찍해 잘 고른 저에게 칭찬합니다 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "32289",
+    "RawText": "소비전력이 700W라 전기세가 많이 나올 거 같아 걱정이네요. 생각보다 전자레인지 작동시에 소음이 굉장히 커서 밑에 돌림판이 빠진줄 알았어요;",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CMW-A201DW 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "18",
+    "RDate": "20220815",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "소비전력",
+        "SentimentText": "소비전력이 700W라 전기세가 많이 나올 거 같아 걱정이네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "생각보다 전자레인지 작동시에 소음이 굉장히 커서 밑에 돌림판이 빠진줄 알았어요;",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "32290",
+    "RawText": "가격 아주 저렴하고 좋은 제품 찾았네요. 전자레인지 기본 성능 다 갖춘 아주 안성맞춤이예요! 화이트 색상도 고급스럽고 예뻐서 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CMW-A201DW 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "18",
+    "RDate": "20220513",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 아주 저렴하고 좋은 제품 찾았네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "전자레인지 기본 성능 다 갖춘 아주 안성맞춤이예요! ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "화이트 색상도 고급스럽고 예뻐서 좋아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "32291",
+    "RawText": "용량이 작은편이라 혼자 자취하시는 분한테는 딱이예요. 저한테는 적당해서 좋네요. 전자레인지에 음식넣고 다이얼로 돌리기만 하면 되서 간편하고 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CMW-A201DW 일반구매",
+    "ReviewScore": "3",
+    "Syllable": "82",
+    "Word": "17",
+    "RDate": "20220825",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량",
+        "SentimentText": "용량이 작은편이라 혼자 자취하시는 분한테는 딱이예요. 저한테는 적당해서 좋네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "전자레인지에 음식넣고 다이얼로 돌리기만 하면 되서 간편하고 좋아요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "32292",
+    "RawText": "미니 사이즈가 너무 귀엽습니다. 10년 동안 안 쓰다가 다시 사용하려고 구매했는데 설거지도 없어 사용하기 편해요",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CMW-A201DW 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "15",
+    "RDate": "20220409",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "미니 사이즈가 너무 귀엽습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "10년 동안 안 쓰다가 다시 사용하려고 구매했는데 설거지도 없어 사용하기 편해요",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "32294",
+    "RawText": "다이얼로 되어있어 시간 가늠을 잘 못하겠네요, 30초 1분 이렇게 나눠져있으면 참 좋았을거 같은데 아쉬워요. 저렴한 가격으로 구입한거니 그냥저냥 쓸께요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CMW-A201DW 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "85",
+    "Word": "19",
+    "RDate": "20220414",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "조작성",
+        "SentimentText": "다이얼로 되어있어 시간 가늠을 잘 못하겠네요, 30초 1분 이렇게 나눠져있으면 참 좋았을거 같은데 아쉬워요.",
+        "SentimentWord": "14",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "저렴한 가격으로 구입한거니 그냥저냥 쓸께요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "32295",
+    "RawText": "저렴해서 가성비 굿입니다. 디자인도 깔끔하고 사용법도 간단해서 작동하기 쉬워요..배송도 빠릅니다.감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CMW-A201DW 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "10",
+    "RDate": "20220304",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴해서 가성비 굿입니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 깔끔하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "사용법도 간단해서 작동하기 쉬워요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "32296",
+    "RawText": "원래도 저렴한데 할인받아서 더 저렴하게 좋은 제품 구매해서 너무 좋아요! 내부 안에 보니 굉장히 싼 플라스틱재질이라 소재가 좀 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CMW-A201DW 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "19",
+    "RDate": "20220128",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "원래도 저렴한데 할인받아서 더 저렴하게 좋은 제품 구매해서 너무 좋아요!",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "내부 안에 보니 굉장히 싼 플라스틱재질이라 소재가 좀 아쉽네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "32299",
+    "RawText": "레인지 특별한  기능 없이 데우기 기능만으로도 충분합니다. 디자인 역시 군더더기 없고 깔끔한 스타일이네요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CMW-A201DW 일반구매",
+    "ReviewScore": "4",
+    "Syllable": "59",
+    "Word": "13",
+    "RDate": "20220518",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "레인지 특별한  기능 없이 데우기 기능만으로도 충분합니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 디자인 역시 군더더기 없고 깔끔한 스타일이네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "32300",
+    "RawText": "집에 짜여진 빌트인장이 작은편이라 20리터짜리샀는데 사이즈가 아주 쏙 들어가네요. 아담하니 좋아요. 그리고 화이트라 엄청 깨끗하고 깜찍해서 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CMW-A201DW 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "82",
+    "Word": "17",
+    "RDate": "20220520",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "집에 짜여진 빌트인장이 작은편이라 20리터짜리샀는데 사이즈가 아주 쏙 들어가네요. 아담하니 좋아요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "그리고 화이트라 엄청 깨끗하고 깜찍해서 좋네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "32301",
+    "RawText": "디자인이 아주 깜찍하고 심플해서 너무 만족스러워요. 작은거에 비해 소리가 조금 크게 나요 부릉부릉 하는 소리가 나서 놀랐네요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CMW-A201DW 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "17",
+    "RDate": "20220314",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 아주 깜찍하고 심플해서 너무 만족스러워요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "작은거에 비해 소리가 조금 크게 나요 부릉부릉 하는 소리가 나서 놀랐네요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "32304",
+    "RawText": "제품 하자 없이 안전하게 상품이 도착 했습니다. 제품 성능도 높아서 음식도 잘 데워지고,5만원 대로 좋은 상품 저렴하게 구매 했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CMW-A201DW 일반구매",
+    "ReviewScore": "4",
+    "Syllable": "75",
+    "Word": "19",
+    "RDate": "20220217",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "제품 하자 없이 안전하게 상품이 도착 했습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "제품 성능도 높아서 음식도 잘 데워지고 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "5만원 대로 좋은 상품 저렴하게 구매 했습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "32305",
+    "RawText": "전체적인 내부 용량은 좀 작아서 아쉬워요 도시락이 걸려서 360도 돌아가지 못해요. 가격이 그나마 저렴해서 그냥저냥 쓰려구요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CMW-A201DW 일반구매",
+    "ReviewScore": "4",
+    "Syllable": "70",
+    "Word": "16",
+    "RDate": "20220217",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용량",
+        "SentimentText": "전체적인 내부 용량은 좀 작아서 아쉬워요 도시락이 걸려서 360도 돌아가지 못해요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 그나마 저렴해서 그냥저냥 쓰려구요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "32306",
+    "RawText": "자취하는 집에 간단하게 사용하려고 기본 기능있는걸로 샀는데 만족해요. 좋은가격에 아주 좋은 제품 구매했네요",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CMW-A201DW 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "13",
+    "RDate": "20220317",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "자취하는 집에 간단하게 사용하려고 기본 기능있는걸로 샀는데 만족해요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은가격에 아주 좋은 제품 구매했네요 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "32308",
+    "RawText": "디자인도 깜찍하고 심플해서 어디다 놔도 잘 어울리네요 넘 예뻐요. 기본 해동 가열 기능 다 잘되서 너무 좋아요!",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CMW-A201DW 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "17",
+    "RDate": "20220328",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 깜찍하고 심플해서 어디다 놔도 잘 어울리네요 넘 예뻐요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "기본 해동 가열 기능 다 잘되서 너무 좋아요!",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "32310",
+    "RawText": "지인 개업선물로 구매했는데 깔끔한 화이트톤이라서 너무 좋다고 하네요. 조리시에 사용하기도 간편해서 좋다고 하네요 많이 파세요~",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CMW-A201DW 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "15",
+    "RDate": "20220413",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "지인 개업선물로 구매했는데 깔끔한 화이트톤이라서 너무 좋다고 하네요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "조리시에 사용하기도 간편해서 좋다고 하네요 많이 파세요~",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "32312",
+    "RawText": "큰 용량만 사용했는데 부담되어 작은 사이즈로 바꾸니 막 쓰기 좋네요. 설치 때문에 제품도 들어 봤는데 별로 무겁지 않고 가벼워요.간편하게  음식 데우기에는 안성맞춤입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CMW-A201DW 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "95",
+    "Word": "22",
+    "RDate": "20220718",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량",
+        "SentimentText": "큰 용량만 사용했는데 부담되어 작은 사이즈로 바꾸니 막 쓰기 좋네요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "설치 때문에 제품도 들어 봤는데 별로 무겁지 않고 가벼워요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "간편하게  음식 데우기에는 안성맞춤입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "32313",
+    "RawText": "거의 밥데우는 용도로 쓸꺼라 저렴한 걸로 구매했는데 만족스러워요. 다만 타이머표시가 없어서 잘 계산해서 사용해야 하는 불편함이 있네요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CMW-A201DW 일반구매",
+    "ReviewScore": "4",
+    "Syllable": "75",
+    "Word": "17",
+    "RDate": "20220830",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "거의 밥데우는 용도로 쓸꺼라 저렴한 걸로 구매했는데 만족스러워요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "다만 타이머표시가 없어서 잘 계산해서 사용해야 하는 불편함이 있네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "32315",
+    "RawText": "자취하는 친구한테 선물했는데 디자인이 깔끔해서 좋다고 하네요. 출력모드가 700W가 최대라 조리시간이 좀 오래 걸려서 그게 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CMW-A201DW 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "16",
+    "RDate": "20220113",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "자취하는 친구한테 선물했는데 디자인이 깔끔해서 좋다고 하네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "출력모드가 700W가 최대라 조리시간이 좀 오래 걸려서 그게 아쉽네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "32317",
+    "RawText": "화이트 컬러라 굉장히 깔끔해서 주방이 화사해졌네요. 단점이 편의점 도시락이 아예 들어가지도 않네요. 용량이 너무 작아서 그런가봐요; 그리고 새제품 냄새가 굉장히 오래가서 사용할때 너무 머리아파요 원래 이런건지 품질 의심가네요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CMW-A201DW 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "126",
+    "Word": "28",
+    "RDate": "20220806",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "화이트 컬러라 굉장히 깔끔해서 주방이 화사해졌네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "단점이 편의점 도시락이 아예 들어가지도 않네요. 용량이 너무 작아서 그런가봐요;",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "그리고 새제품 냄새가 굉장히 오래가서 사용할때 너무 머리아파요 원래 이런건지 품질 의심가네요.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "32318",
+    "RawText": "디자인이 생각보다 촌스러워요. 그리고 베이지컬러인데 좀 칙칙하고 별로예요. 받자마자 피자 조리해서 먹었는데 간편하고 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "풀무원건강생활 스팀쿡 PSA-C1000R",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "14",
+    "RDate": "20220308",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 생각보다 촌스러워요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "그리고 베이지컬러인데 좀 칙칙하고 별로예요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "받자마자 피자 조리해서 먹었는데 간편하고 좋네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "32319",
+    "RawText": "에어프라이어 사이즈가 생각보다 작고 아담해서 너무 좋아요. 선반에 쏙 올려놓으면 되서 귀엽네요. 스팀 기능이 있어서 사용 후 청소하는데 너무 깔끔하게 되서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "풀무원건강생활 스팀쿡 PSA-C1000R",
+    "ReviewScore": "5",
+    "Syllable": "92",
+    "Word": "22",
+    "RDate": "20220302",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "에어프라이어 사이즈가 생각보다 작고 아담해서 너무 좋아요. 선반에 쏙 올려놓으면 되서 귀엽네요.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "스팀 기능이 있어서 사용 후 청소하는데 너무 깔끔하게 되서 좋습니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "32321",
+    "RawText": "배송 잘 받았습니다. 생각보다는 용량이 작아 별로이며, 가격도 터무니없이 비쌉니다. 사용 후기는 아직 잘 모르겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "풀무원건강생활 스팀쿡 PSA-C1000R",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "15",
+    "RDate": "20220305",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용량",
+        "SentimentText": "생각보다는 용량이 작아 별로이며 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가격도 터무니없이 비쌉니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "32324",
+    "RawText": "다른 에어프리이어보다 기능은 다양해서 좋아요. 구성트레이랑 부속품이 아쉽네요 싼티나요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "풀무원건강생활 스팀쿡 PSA-C1000R",
+    "ReviewScore": "4",
+    "Syllable": "48",
+    "Word": "9",
+    "RDate": "20220809",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "다른 에어프리이어보다 기능은 다양해서 좋아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성트레이랑 부속품이 아쉽네요 싼티나요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "32325",
+    "RawText": "터치식으로 눌러서 조작하기만 하면 되서 간단하니 좋네요. 기본적으로 세척기능도 있어서 맘에 드네요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "풀무원건강생활 스팀쿡 PSA-W1000 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "12",
+    "RDate": "20220825",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "조작성",
+        "SentimentText": "터치식으로 눌러서 조작하기만 하면 되서 간단하니 좋네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "기본적으로 세척기능도 있어서 맘에 드네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "32330",
+    "RawText": "디자인도 굉장히 깔끔해서 마음에 드네요. 거기다 찜, 튀김 다양한 요리도 가능해서 너무 좋아요 만능에어프라이어예요!",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "풀무원건강생활 스팀쿡 PSA-W1000 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "14",
+    "RDate": "20220315",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 굉장히 깔끔해서 마음에 드네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "거기다 찜, 튀김 다양한 요리도 가능해서 너무 좋아요 만능에어프라이어예요!",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "32331",
+    "RawText": "전에 쓰던 제품보다 용량이 굉장히 작아서 조금 불편해요. 요리를 한번에 못해서 아쉽습니다. 그리고 생각보다 에어프라이어 돌아가는 소음이 좀 큰편이라 아쉬워요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "풀무원건강생활 스팀쿡 PSA-W1000 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "88",
+    "Word": "20",
+    "RDate": "20220508",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용량",
+        "SentimentText": "전에 쓰던 제품보다 용량이 굉장히 작아서 조금 불편해요. 요리를 한번에 못해서 아쉽습니다.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "그리고 생각보다 에어프라이어 돌아가는 소음이 좀 큰편이라 아쉬워요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "32338",
+    "RawText": "배송은 빨랐으나  열선 재질이 스텐이라서 연마제 제거하는데 힘들었습니다. 탑재 된 스팀 기능으로 제거가 되면 좋을 텐데 안되니 아쉽네요",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "풀무원건강생활 스팀쿡 PSA-W1000 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "18",
+    "RDate": "20210914",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "열선 재질이 스텐이라서 연마제 제거하는데 힘들었습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "탑재 된 스팀 기능으로 제거가 되면 좋을 텐데 안되니 아쉽네요 ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "32341",
+    "RawText": "스팀요리, 기본 에어프라이어 기능도 훌륭해서 너무 마음에 들어요. 다만 소재가 안에 내부가 올 스테인리스라 열이 쉽게 올라서 조심히 사용해야해요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "풀무원건강생활 스팀쿡 PSA-W1000 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "81",
+    "Word": "19",
+    "RDate": "20220611",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "스팀요리, 기본 에어프라이어 기능도 훌륭해서 너무 마음에 들어요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "다만 소재가 안에 내부가 올 스테인리스라 열이 쉽게 올라서 조심히 사용해야해요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "32345",
+    "RawText": "새 상품인데도 색이 바래고 기스가 심한채로 왔어요 품질이 정말 안좋아요ㅡㅡ. 그리고 세척기능 사용해서 청소했는데도 냄새가 계속 나네요. 최악이예요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "풀무원건강생활 스팀쿡 PSA-W1000 일반구매",
+    "ReviewScore": "4",
+    "Syllable": "82",
+    "Word": "18",
+    "RDate": "20211025",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "새 상품인데도 색이 바래고 기스가 심한채로 왔어요 품질이 정말 안좋아요ㅡㅡ.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "그리고 세척기능 사용해서 청소했는데도 냄새가 계속 나네요. 최악이예요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "32347",
+    "RawText": "이 브랜드 가전제품 처음 사보는거라 고민했는데 완전 훌륭합니다. 다들 추천한 이유가 있네요. 트레이도 2단으로 구성되어있고 제품구성도 알차네요. 많이 파세요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "풀무원건강생활 스팀쿡 PSA-W1000 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "88",
+    "Word": "19",
+    "RDate": "20220515",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제조일/제조사",
+        "SentimentText": "이 브랜드 가전제품 처음 사보는거라 고민했는데 완전 훌륭합니다. 다들 추천한 이유가 있네요.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "트레이도 2단으로 구성되어있고 제품구성도 알차네요. 많이 파세요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "32348",
+    "RawText": "올 스텐 소재라 너무 좋아요. 글씨가 굉장히 작고 안의 내부가 어두워서 안보이는데 디자인을 왜 이렇게 했는지 진짜 궁금하네요",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "풀무원건강생활 스팀쿡 PSA-W1000 일반구매",
+    "ReviewScore": "4",
+    "Syllable": "69",
+    "Word": "18",
+    "RDate": "20220110",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "올 스텐 소재라 너무 좋아요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "글씨가 굉장히 작고 안의 내부가 어두워서 안보이는데 디자인을 왜 이렇게 했는지 진짜 궁금하네요",
+        "SentimentWord": "13",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "32349",
+    "RawText": "스팀 기능으로 여러 음식을 요리 할 수 있을 것 같아 설레네요. 하지만 용량이 작아서 요리 하는게 한정적일 것 같아요ㅜㅜ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "풀무원건강생활 스팀쿡 PSA-W1000 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "19",
+    "RDate": "20210823",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "스팀 기능으로 여러 음식을 요리 할 수 있을 것 같아 설레네요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "하지만 용량이 작아서 요리 하는게 한정적일 것 같아요ㅜㅜ ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "32350",
+    "RawText": "스팀기능이 있어서 구매했는데 물통에 물이 완벽하게 빠지지 않아 남아있어 항상 빼줘야하는 번거로움이 있습니다. 전체적으로 제품 품질 완성도가 떨어지는 것 같아요 마감도 잘 안되어있구요ㅡㅡ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "풀무원건강생활 스팀쿡 PSA-W1000 일반구매",
+    "ReviewScore": "4",
+    "Syllable": "103",
+    "Word": "23",
+    "RDate": "20211216",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "스팀기능이 있어서 구매했는데 물통에 물이 완벽하게 빠지지 않아 남아있어 항상 빼줘야하는 번거로움이 있습니다.",
+        "SentimentWord": "13",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "전체적으로 제품 품질 완성도가 떨어지는 것 같아요 마감도 잘 안되어있구요ㅡㅡ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "32351",
+    "RawText": "제품 받아서 사용할때 스팀기능엔 정수된 물만 사용가능하다는걸 알았네요. 이런건 미리 고지를 해주셔야하는거 아닌가요ㅡㅡ 그리고 전체적으로 마감이 덜 됐어요. 콘센트 전원선에는 뭐가 묻어서 더럽고 최악이예요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "풀무원건강생활 스팀쿡 PSA-W1000 일반구매",
+    "ReviewScore": "3",
+    "Syllable": "114",
+    "Word": "24",
+    "RDate": "20220527",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "제품 받아서 사용할때 스팀기능엔 정수된 물만 사용가능하다는걸 알았네요. 이런건 미리 고지를 해주셔야하는거 아닌가요ㅡㅡ",
+        "SentimentWord": "13",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "그리고 전체적으로 마감이 덜 됐어요. 콘센트 전원선에는 뭐가 묻어서 더럽고 최악이예요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "32352",
+    "RawText": "겉바속촉 요리가 가능한 오븐이예요. 아이가 맛있게 먹어줘서 좋네요. 오븐형이다 보니 청소하는게 굉장히 번거로워서 좀 불편해요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "풀무원건강생활 스팀쿡 PSA-W1000 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "15",
+    "RDate": "20211118",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "겉바속촉 요리가 가능한 오븐이예요. 아이가 맛있게 먹어줘서 좋네요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "오븐형이다 보니 청소하는게 굉장히 번거로워서 좀 불편해요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "32353",
+    "RawText": "스팀 기능으로  촉촉한 음식들 만들며 잘 사용하고 있습니다. 액정화면이 잘 안 보여 터치하기 어려워요",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "풀무원건강생활 스팀쿡 PSA-W1000 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "14",
+    "RDate": "20220212",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "스팀 기능으로  촉촉한 음식들 만들며 잘 사용하고 있습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "액정화면이 잘 안 보여 터치하기 어려워요 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "32355",
+    "RawText": "싱크대 새로 교체면서 기존 쓰던 에어플라이어 폐기했어요. 새로 산 제품은 성능도 아주 좋고 스팀 기능까지 있어요! 재질이 스테인리스라 좋지만 관리가 엄청 까다로워요",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "풀무원건강생활 스팀쿡 PSA-W1000 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "91",
+    "Word": "22",
+    "RDate": "20211129",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": " 새로 산 제품은 성능도 아주 좋고 스팀 기능까지 있어요!",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질이 스테인리스라 좋지만 관리가 엄청 까다로워요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "32356",
+    "RawText": "기존에 쓰던 제품이 망가져서 구매했는데 디자인도 깔끔하고 너무 예뻐요. 스팀기능이랑 세척모드 너무 훌륭해서 청소하기도 쉽고 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "풀무원건강생활 스팀쿡 PSA-W1000 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "16",
+    "RDate": "20220427",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "기존에 쓰던 제품이 망가져서 구매했는데 디자인도 깔끔하고 너무 예뻐요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "스팀기능이랑 세척모드 너무 훌륭해서 청소하기도 쉽고 좋아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "32357",
+    "RawText": "에어프라이어 중에서 비교적 사용법이 쉬워서 좋네요. 다만 베이지색이 약간 칙칙하고 바랜 컬러라 너무 아쉽네요. 집에 있는 가전 베이지랑 차이가 나서 좀 그래요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "풀무원건강생활 스팀쿡 PSA-W1000 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "89",
+    "Word": "22",
+    "RDate": "20211217",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "조작성",
+        "SentimentText": "에어프라이어 중에서 비교적 사용법이 쉬워서 좋네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "다만 베이지색이 약간 칙칙하고 바랜 컬러라 너무 아쉽네요. 집에 있는 가전 베이지랑 차이가 나서 좀 그래요.",
+        "SentimentWord": "16",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "32358",
+    "RawText": "스팀기능이 있어 물을 넣어 조리하니 촉촉한 요리를 맛봐서 좋아요! 트레이 자체가 굉장히 작아 많은 양의 요리가 들어가지 않아 아쉬워요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "풀무원건강생활 스팀쿡 PSA-W1000 일반구매",
+    "ReviewScore": "4",
+    "Syllable": "75",
+    "Word": "19",
+    "RDate": "20220820",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "스팀기능이 있어 물을 넣어 조리하니 촉촉한 요리를 맛봐서 좋아요!",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "트레이 자체가 굉장히 작아 많은 양의 요리가 들어가지 않아 아쉬워요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "32359",
+    "RawText": "요리를 잘 못하는 저에게는 간단하게 조작하여 사용할 수 있어 좋은 제품이네요.  고기요리도 스팀기능으로 촉촉하게 쉽게 할수 있어요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "풀무원건강생활 스팀쿡 PSA-W1000 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "17",
+    "RDate": "20220526",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "조작성",
+        "SentimentText": "요리를 잘 못하는 저에게는 간단하게 조작하여 사용할 수 있어 좋은 제품이네요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "고기요리도 스팀기능으로 촉촉하게 쉽게 할수 있어요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "32361",
+    "RawText": "에어프라이어가 없던 시절에 어떻게 살았죠?ㅋㅋ 청소가 너무 간편하고 스팀기능 덕분에 음식도 촉촉해 가족들이  맛있다고 하니 뿌듯합니다 ^^",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "풀무원건강생활 스팀쿡 PSA-W1000 일반구매",
+    "ReviewScore": "4",
+    "Syllable": "77",
+    "Word": "17",
+    "RDate": "20211130",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성",
+        "SentimentText": " 청소가 너무 간편하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "스팀기능 덕분에 음식도 촉촉해 가족들이  맛있다고 하니 뿌듯합니다 ^^",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "32362",
+    "RawText": "제품 받아 사용해보니 가열 해동 등 사용하기도 쉬워서 좋아요. 그리고 기름떼 걱정없이 청소하기가 편해서 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "풀무원건강생활 스팀쿡 PSA-W1000 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "15",
+    "RDate": "20220103",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "제품 받아 사용해보니 가열 해동 등 사용하기도 쉬워서 좋아요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "그리고 기름떼 걱정없이 청소하기가 편해서 좋네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "32363",
+    "RawText": "전체적인 디자인은 깔끔해서 마음에 들어요. 근데 하단부에 고무받침이 하나 없어서 수평이 맞지 않아요. 품질하자있는데 확인하고 제대로 보내주세요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "풀무원건강생활 스팀쿡 PSA-W1000 일반구매",
+    "ReviewScore": "2",
+    "Syllable": "80",
+    "Word": "17",
+    "RDate": "20220207",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "전체적인 디자인은 깔끔해서 마음에 들어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "근데 하단부에 고무받침이 하나 없어서 수평이 맞지 않아요. 품질하자있는데 확인하고 제대로 보내주세요.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "32366",
+    "RawText": "사용법도 간편해서 좋아요. 기능도 훌륭해 요리도 손쉽게 할수 있어 좋아요! 그리고 제일 귀찮은 청소가 손쉽게 닦을 수 있어서 제일 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "풀무원건강생활 스팀쿡 PSA-W1000 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "20",
+    "RDate": "20220317",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "조작성",
+        "SentimentText": "사용법도 간편해서 좋아요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "기능도 훌륭해 요리도 손쉽게 할수 있어 좋아요! ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "그리고 제일 귀찮은 청소가 손쉽게 닦을 수 있어서 제일 좋네요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "32367",
+    "RawText": "스팀 기능이 있어서 제품 구매했는데 최고예요! 겉바속촉 완전 요리가 맛있어요. 디자인은 사진으로 본거보다 좀 촌스러워서 별로예요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "풀무원건강생활 스팀쿡 PSA-W1000 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "16",
+    "RDate": "20211113",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "스팀 기능이 있어서 제품 구매했는데 최고예요! 겉바속촉 완전 요리가 맛있어요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인은 사진으로 본거보다 좀 촌스러워서 별로예요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "32368",
+    "RawText": "별도의 요리 설명서도 없고 핸드폰으로 찾아서 봐야해서 번거로워요. 스팀기능으로 청소하신다는 분도 있는데 청소관리 하기가 어려워요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "풀무원건강생활 스팀쿡 PSA-W1000 일반구매",
+    "ReviewScore": "4",
+    "Syllable": "72",
+    "Word": "15",
+    "RDate": "20210918",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "별도의 요리 설명서도 없고 핸드폰으로 찾아서 봐야해서 번거로워요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "스팀기능으로 청소하신다는 분도 있는데 청소관리 하기가 어려워요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "32370",
+    "RawText": "쿠폰 할인 받아서 가격 저렴하게 제품 구입해서 너무 좋아요! 요리를 다양하게 할 수 있어서 너무 편해요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "풀무원건강생활 스팀쿡 PSA-W1000 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "16",
+    "RDate": "20220330",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰 할인 받아서 가격 저렴하게 제품 구입해서 너무 좋아요!",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "요리를 다양하게 할 수 있어서 너무 편해요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "32371",
+    "RawText": "소음이 거의 없는편이라 정말 조용해서 좋아요. 그리고 소재도 올 스텐이라 걱정없이 사용 할 수 있어요. 디자인도 깔끔하니 너무 예뻐서 마음에 드네요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "풀무원건강생활 스팀쿡 PSA-W1000 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "83",
+    "Word": "21",
+    "RDate": "20220718",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소음",
+        "SentimentText": "소음이 거의 없는편이라 정말 조용해서 좋아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "그리고 소재도 올 스텐이라 걱정없이 사용 할 수 있어요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 깔끔하니 너무 예뻐서 마음에 드네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "32373",
+    "RawText": "제품 가격이 코팅솥보다는 비싸고 스테인리스 압력솥으로 사고싶어서 고민하다 구매했는데 비싼 값하네요 너무 좋아요. 제품 받아서 바로 밥 지어봤는데 꼬들꼬들하니 너무 잘되서 좋아요. 기능짱!",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "121 쿠첸 플러스 CRT-RPS0671W",
+    "ReviewScore": "5",
+    "Syllable": "104",
+    "Word": "23",
+    "RDate": "20220323",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "제품 가격이 코팅솥보다는 비싸고 스테인리스 압력솥으로 사고싶어서 고민하다 구매했는데 비싼 값하네요 너무 좋아요.",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "제품 받아서 바로 밥 지어봤는데 꼬들꼬들하니 너무 잘되서 좋아요. 기능짱!",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "32374",
+    "RawText": "디자인이 굉장히 깔끔해서 마음에 들어요. 조금 아쉬운 점이 음성안내 소리가 작아서 잘 안들려요 볼륨 키우는게 있었으면 하네요. ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "121 쿠첸 플러스 CRT-RPS0671W",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "17",
+    "RDate": "20220520",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 굉장히 깔끔해서 마음에 들어요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "조금 아쉬운 점이 음성안내 소리가 작아서 잘 안들려요 볼륨 키우는게 있었으면 하네요.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "32376",
+    "RawText": "제일 중요한 밥맛 기능이 제일 좋아요! 아주 끝내주네요. 그리고 소재가 풀 스테인리스라서 코팅벗겨질 걱정 없어 너무 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "121 쿠첸 플러스 CRT-RPS0671W",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "17",
+    "RDate": "20220525",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "제일 중요한 밥맛 기능이 제일 좋아요! 아주 끝내주네요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "그리고 소재가 풀 스테인리스라서 코팅벗겨질 걱정 없어 너무 좋아요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "32377",
+    "RawText": "컬러가 블랙이 없어서 화이트색상으로 샀는데 깔끔하니 너무 예뻐요. 스테인리스 밥솥이 좋다고 해서 샀는데 품질이 진짜 좋네요!",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "121 쿠첸 플러스 CRT-RPS0671W",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "16",
+    "RDate": "20220122",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "컬러가 블랙이 없어서 화이트색상으로 샀는데 깔끔하니 너무 예뻐요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "스테인리스 밥솥이 좋다고 해서 샀는데 품질이 진짜 좋네요!",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "32379",
+    "RawText": "밥솥 조작법이 굉장히 간단해서 너무 좋아요. 밥도 잘 지어지고 가끔 누룽지가 눌어서 밥맛도 맛있네요 밥 시간이 즐거워요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CR-3521B",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "17",
+    "RDate": "20200310",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "조작성",
+        "SentimentText": "밥솥 조작법이 굉장히 간단해서 너무 좋아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "밥도 잘 지어지고 가끔 누룽지가 눌어서 밥맛도 맛있네요 밥 시간이 즐거워요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "32380",
+    "RawText": "회사 식당에서 사용하고 있어요. 디자인이 깔끔합니다 무게는  무겁지 않아 괜찮아요~",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CR-3521B",
+    "ReviewScore": "5",
+    "Syllable": "46",
+    "Word": "10",
+    "RDate": "20200115",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 깔끔합니다 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": " 무게는  무겁지 않아 괜찮아요~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "32381",
+    "RawText": "대용량이라  영업용으로 사용하기  딱 좋습니다. 기능은  취사에서 뜸 들이까지 잘 되고 보온까지 잘 됩니다...아무래도 대용량이다 보니 사이즈가 커서 공간을 많이 차지합니다..",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CR-3521B",
+    "ReviewScore": "5",
+    "Syllable": "98",
+    "Word": "21",
+    "RDate": "20160511",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용량",
+        "SentimentText": "대용량이라  영업용으로 사용하기  딱 좋습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "기능은  취사에서 뜸 들이까지 잘 되고 보온까지 잘 됩니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": " 대용량이다 보니 사이즈가 커서 공간을 많이 차지합니다..",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "32385",
+    "RawText": "이 가격이면 저렴하게 구매한거 같아요.  밥을 많이 하는데 밥맛 좋은거 보니 성능도 굿입니다. 배송 빠르고   밥을 대량으로 할 때 너무 편리합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CR-3521B",
+    "ReviewScore": "5",
+    "Syllable": "83",
+    "Word": "21",
+    "RDate": "20170321",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "이 가격이면 저렴하게 구매한거 같아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "밥을 많이 하는데 밥맛 좋은거 보니 성능도 굿입니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": " 밥을 대량으로 할 때 너무 편리합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "32388",
+    "RawText": "포장상태 엉망이고, 코드에 스티커 자국이 있는데,  반품 제품을 보낸건지 확인 사항에 표기를 해야 되는거 아닐까요? 반품하려다 제품 상태는 이상이 없어서 그냥 사용하지만 불쾌합니다. 성능은 좋아 밥은 잘지어 지니 그거 하나는 만족합니다  ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠전자 CR-3521B",
+    "ReviewScore": "3",
+    "Syllable": "133",
+    "Word": "31",
+    "RDate": "20180904",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "코드에 스티커 자국이 있는데,  반품 제품을 보낸건지 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "성능은 좋아 밥은 잘지어 지니 그거 하나는 만족합니다 ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]

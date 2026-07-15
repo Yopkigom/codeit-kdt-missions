@@ -1,0 +1,3504 @@
+[
+  {
+    "Index": "248691",
+    "RawText": "처음 사용했는데 OO쇼핑에서 비싸게 산 것 같아서 아쉬워요. 주름 관리도 잘 안 되는 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 기본세트(멀티밤2+미스트1+오일1)+쇼핑백1",
+    "ReviewScore": "100",
+    "Syllable": "55",
+    "Word": "15",
+    "RDate": "20220308",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "비싸게 산 것 같아서 아쉬워요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "주름 관리도 잘 안 되는 것 같습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "248698",
+    "RawText": "잔주름이 심해져서 사용해보려고 구입했어요 간편하게 사용하기좋고 일단 촉촉하게 쫀쫀하게 얼굴을 잡아주니까 당김은 없이 탄력이 생기는듯요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "74",
+    "Word": "15",
+    "RDate": "20220308",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "간편하게 사용하기좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하게",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탄력",
+        "SentimentText": "쫀쫀하게 얼굴을 잡아주니까",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "당김은 없이",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탄력",
+        "SentimentText": "탄력이 생기는듯요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "248704",
+    "RawText": "두번째 구매합니다!!  처음에 한개만 사서 써봤는데 너무 좋아서 이번에 좋은 구성이 있어 바로 샀어요~  사은품인 오일도 너무 좋아요~  다음엔 다른 스틱도 써봐야겠어요.  상품편 사은품도 빨리 오면 좋겠어요!!",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "118",
+    "Word": "27",
+    "RDate": "20220308",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "좋은 구성이 있어 바로 샀어요~ ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품인 오일도 너무 좋아요~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "상품편 사은품도 빨리 오면 좋겠어요!!",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "248705",
+    "RawText": "피부관리에 소홀힌 편이라  편하게 쓰려고  구입했어요 대학생 딸이랑 70대 친정 엄마랑 함께 사용해 보려구요 일단 향은 좋구요 발림은  스틱형 썬크림 정도인데 흡수 되면  좀더 가벼워 질지 모르겠네요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "111",
+    "Word": "27",
+    "RDate": "20220308",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "일단 향은 좋구요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림은  스틱형 썬크림 정도인데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "흡수 되면  좀더 가벼워 질지 모르겠네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "248708",
+    "RawText": "엄마가 사보고 싶다고 해서 사드렸는데 향도 과하지 않아서 좋고 바르면 촉촉해서 좋아요! 피부가 예민한 편인데도 순한거같아용",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "68",
+    "Word": "16",
+    "RDate": "20220308",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 과하지 않아서 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "바르면 촉촉해서 좋아요!",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "피부가 예민한 편인데도 순한거같아용",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "248709",
+    "RawText": "광고에서 좋다고 하길래 궁금해서 써봤는데 넘 좋아요!!금방 쓱 바르기도 편하고 가지고 다니기도 좋아욤!! 순한성분이라 그런지 피부에도 잘 맞아용 ㅎㅎㅎㅎ",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "85",
+    "Word": "19",
+    "RDate": "20220308",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "금방 쓱 바르기도 편하고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "순한성분이라 그런지",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "피부에도 잘 맞아용 ㅎㅎㅎㅎ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "가지고 다니기도 좋아욤!! ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "248715",
+    "RawText": "멀티밤 사용해봤는데 발림성도 안 좋고 피부에 광이 안 납니다. 시어머니께 선물 드리려 했는데 안 보내길 잘 했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "65",
+    "Word": "17",
+    "RDate": "20220308",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성도 안 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "피부에 광이 안 납니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "248718",
+    "RawText": "처음 구매했어요. 작년에 유행해서 사용해보고 싶어서 샀는데 주름케어가 잘 안되고 향도 제 취향이 아니라서 계속 사용하지 못할 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "77",
+    "Word": "19",
+    "RDate": "20220308",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "주름케어가 잘 안되고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 제 취향이 아니라서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "248719",
+    "RawText": "선물용으로 샀습니다. 주변에서 OO 추천도 많이 하고 저도 써보고 싶어서 주문했습니다. 그런데 받아보니 가격대비 구성이 넉넉한 편은 아니네요. 쇼핑백이 들어있는 점은 괜찮았어요. 기대를 많이 했는데 용량도 작고 촉촉하지 않아서 실망했어요. 저렴한 가격이 아닌데 샘플도 없어서 아쉬웠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "161",
+    "Word": "36",
+    "RDate": "20220308",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "가격대비 구성이 넉넉한 편은 아니네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "용량도 작고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하지 않아서 실망했어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격이 아닌데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "샘플도 없어서 아쉬웠습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "248725",
+    "RawText": "구성도 너무 좋고 청구할인으로 싸게 잘 샀어요~~ 엄마도 써보시고 너무 부드랍게 잘 발리고 좋다고 하시네요~^^다쓰면 또 주문 할께요!",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "75",
+    "Word": "18",
+    "RDate": "20220308",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성도 너무 좋고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "청구할인으로 싸게 잘 샀어요~~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "너무 부드랍게 잘 발리고 좋다고 하시네요~^^",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "248727",
+    "RawText": "어머니께서 관심을 보이셔서 구매했어요. 포인트 할인을 받지 못해서 비싸게 구입했네요. 상품평 쓰면 구성품 준다고 해서 작성해봅니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 기본세트(멀티밤2+미스트1+오일1)+쇼핑백1",
+    "ReviewScore": "100",
+    "Syllable": "73",
+    "Word": "16",
+    "RDate": "20220308",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "포인트 할인을 받지 못해서 비싸게 구입했네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "상품평 쓰면 구성품 준다고 해서 작성해봅니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "248729",
+    "RawText": "건조한 피부에 바르면 좋다해서 OOO멀티밤 구매했어요. 하나는 가방에 하나는 화장대 하나는 사무실 등 여기저기 놓고 수시로 바르고 있습니다. 다 괜찮은데 건성이라 촉촉함이 부족해서 수시로 바르는데 특히 밤에 듬뿍 발라도 다음날 아침에 얼굴 땡김이 있어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "142",
+    "Word": "34",
+    "RDate": "20220308",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "지속력",
+        "SentimentText": "밤에 듬뿍 발라도 다음날 아침에 얼굴 땡김이 있어요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "얼굴 땡김이 있어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "248731",
+    "RawText": "가히 지인꺼 잠깐 써보고 좋아서 주문했는데 역시 좋네요~~ 배송도 빠르고 좋아요 촉촉하고 바르자마자 쫀쫀해서 주름 펴지는 느낌이에요 좋네요ㅎㅎ",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 기본세트(멀티밤2+미스트1+오일1)+쇼핑백1",
+    "ReviewScore": "100",
+    "Syllable": "79",
+    "Word": "18",
+    "RDate": "20220308",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탄력",
+        "SentimentText": "바르자마자 쫀쫀해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "주름 펴지는 느낌이에요 좋네요ㅎㅎ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "248733",
+    "RawText": "지인이 사용해보고 좋아도 해서 선물로 줬습니다. 사용해보니 피부가 촉촉하지 않고 주름살이 없어지지 않네요. 오히려 피부가 칙칙해지네요. 저는 지인에게 추천하지 않을 생각입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "98",
+    "Word": "21",
+    "RDate": "20220308",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "피부가 촉촉하지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "주름살이 없어지지 않네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "피부가 칙칙해지네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "248738",
+    "RawText": "써보고 싶었는데 가격대비 구성이 넉넉하진 않지만  제품을 구입해 봤습니다. 한 세트는 선물용이고 한 세트는 써봤는데 용량이 작아서 놀랬고 생각보다 촉촉하지 않아요. 그리고 흡수가 느리네요. 향도 좋지 않네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "116",
+    "Word": "27",
+    "RDate": "20220308",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "가격대비 구성이 넉넉하진 않지만 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "용량이 작아서 놀랬고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "생각보다 촉촉하지 않아요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "흡수가 느리네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 좋지 않네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "248739",
+    "RawText": "평소에 OO가 좋다고 해서 우연히 방송을 보고 주문했어요. 원래 홈쇼핑에서 물건을 안 삽니다. 구성도 별로고 가격이 비쌌는데 너무 충동적으로 샀나 후회는 되네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "90",
+    "Word": "22",
+    "RDate": "20220308",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성도 별로고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 비쌌는데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "248745",
+    "RawText": "나눠쓰려고 가격대는 있지만 더블세트로 구매했는데 효과가 느껴지지 않아요. 미스트도 생각보다 촉촉하지 않고 앰플도 끈적이네요. 재구매 의사는 없습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "83",
+    "Word": "17",
+    "RDate": "20220308",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대는 있지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과가 느껴지지 않아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "미스트도 생각보다 촉촉하지 않고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "앰플도 끈적이네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "248746",
+    "RawText": "촉촉하고 탄력이 느껴져요 주름이 펴지는 것 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "27",
+    "Word": "7",
+    "RDate": "20220308",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탄력",
+        "SentimentText": "탄력이 느껴져요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "주름이 펴지는 것 같아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "248749",
+    "RawText": "지인이 너무 좋다고해서  얼른 주문 해보았어요 오자마자 사용해보니  윤기가  흘러요 아직은 잘 모르게지만 매일 써볼게요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "66",
+    "Word": "15",
+    "RDate": "20220308",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "윤기가  흘러요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "아직은 잘 모르게지만 매일 써볼게요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "248755",
+    "RawText": "지인분이 선물로 줘서 하나 써본후 구매했어요..쓸때와 안쓸때가 넘 차이가 나요.. 촉촉하고 얼굴빛이 광이 나는게 넘 마음에 듭니다 구성도 넘 맘에듭니다~~",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "86",
+    "Word": "20",
+    "RDate": "20220308",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "쓸때와 안쓸때가 넘 차이가 나요..",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "얼굴빛이 광이 나는게 넘 마음에 듭니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성도 넘 맘에듭니다~~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "248761",
+    "RawText": "계속 사용했는데 잘 모르겠습니다. 아들이 사용했는데 바르고 나서 효과가 좋은지는 모르겠어요. 발림성도 별로네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "62",
+    "Word": "13",
+    "RDate": "20220308",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과가 좋은지는 모르겠어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성도 별로네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "248762",
+    "RawText": "뭘 발라도 아침에 푸석이는 피부가 되서..  가희 쓰다가 다른건 못쓰겠더라구요!! 무엇보다 바르고 자고 일어났을때 촉촉함이 지속되어 너무너무 좋은것 같아요!!  피부가 확실히 윤기가 자르르~~~~  홈쇼핑구성으로는 처음 사봤는데 너무 잘산것 같아요!!!  두둑하니까(많아서 너무 좋음) 든든하네요 ㅎㅎㅎ",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "169",
+    "Word": "34",
+    "RDate": "20220308",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "바르고 자고 일어났을때 촉촉함이 지속되어",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "촉촉함이 지속되어너무너무 좋은것 같아요!!",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "피부가 확실히 윤기가 자르르~~~~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "두둑하니까(많아서 너무 좋음) 든든하네요 ㅎㅎㅎ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "248767",
+    "RawText": "처음 구매했어요. 유분기가 많아서 촉촉하기 보다 번들거리고 얼굴에 광이 안 나서 아쉬워요. 남는 거는 지인에게 줄 생각이에요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "70",
+    "Word": "17",
+    "RDate": "20220308",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "유분기가 많아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "촉촉하기 보다 번들거리고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "광이 안 나서 아쉬워요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "248768",
+    "RawText": "주름관리에 효과보구있어요~ 저 사용하면서 남편도 꼼꼼히 발라주고있어요^^ 가히덕분에 효과를 보고 인생이 젊어지는기분이들어 매일매일 소소한 행복을 느끼고있답니다~ 강추강추요♡♡",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "97",
+    "Word": "17",
+    "RDate": "20220308",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "주름관리에 효과보구있어요~ ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "가히덕분에 효과를 보고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "248769",
+    "RawText": "사용도 간편하고 촉촉하고 지속력도 좋아요 우연한 기회에 사용하게 되었는데 이제 없으면 안될꺼 같아요 ㅎ ",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "58",
+    "Word": "14",
+    "RDate": "20220308",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용도 간편하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "지속력도 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "248774",
+    "RawText": "후기가 좋아서 사봤어요. 그런데 촉촉하지 않고 생각보다 커서 휴대하기도 불편해요. 바르면 피부가 반짝거리지도 않네요. 흡수력도 느리고 추천하지 않아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "84",
+    "Word": "18",
+    "RDate": "20220308",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하지 않고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "생각보다 커서 휴대하기도 불편해요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "피부가 반짝거리지도 않네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "흡수력도 느리고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "248776",
+    "RawText": "가히~ 넉넉한 용량에 사은품까지~ 가볍게 피부관리 할 수 있게 되니 좋아요.  선물까지 할 수 있는 쇼핑백 센스~",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "63",
+    "Word": "17",
+    "RDate": "20220308",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량",
+        "SentimentText": "넉넉한 용량에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품까지~",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "가볍게 피부관리 할 수 있게 되니 좋아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "248777",
+    "RawText": "가격대비 제품괜찮아요 유분기가 없어서 좋고 발림성,흡수력,수분감이 좋으네요 OOO 제품은 믿고구매합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 리** 수분크림 50ml 1+1",
+    "ReviewScore": "100",
+    "Syllable": "58",
+    "Word": "10",
+    "RDate": "20220308",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 제품괜찮아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "유분기가 없어서 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성,흡수력,수분감이 좋으네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "흡수력,수분감이 좋으네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "수분감이 좋으네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "248778",
+    "RawText": "다른사이트 에서  몇번  구매햇니 사용 했는데 정말  촉촉하고 부드럽게 발림성좋고 광이 나요.너무 좋아요~~♡ ",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "62",
+    "Word": "13",
+    "RDate": "20220308",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "정말  촉촉하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "부드럽게 발림성좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "광이 나요.너무 좋아요~~♡",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "248782",
+    "RawText": "배송 잘받았어요~^^  좋은 구성으로  사서 좋네요    발림도 좋고  확실히  바르고 나서부터 피부결이 다르다고 하네요 꾸준히  사용하려고요.  다 사용하면  재구매  예정입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "101",
+    "Word": "20",
+    "RDate": "20220308",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "좋은 구성으로  사서 좋네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "확실히  바르고 나서부터 피부결이 다르다고 하네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "248784",
+    "RawText": "주변에서 많이 사용해봐서 구매했는데 비싸게 산 것 같아요. 주름에 효과라도 있기를 바랍니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 기본세트(멀티밤2+미스트1+오일1)+쇼핑백1",
+    "ReviewScore": "100",
+    "Syllable": "51",
+    "Word": "12",
+    "RDate": "20220308",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "비싸게 산 것 같아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "주름에 효과라도 있기를 바랍니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "248785",
+    "RawText": "냄새는 없고 바르면 촉촉 그자체~~ 우선 열심히 사용 해보겠습니다~~",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "38",
+    "Word": "9",
+    "RDate": "20220308",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "냄새는 없고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "바르면 촉촉 그자체~~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "248786",
+    "RawText": "사은품하고 수량이  빵빵하게와서 엄마랑동생하고 나눴어요~ 촉촉하니 너무좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "42",
+    "Word": "7",
+    "RDate": "20220308",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품하고 수량이  빵빵하게와서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "수량이  빵빵하게와서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하니 너무좋네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "248787",
+    "RawText": "광고를 보고 사고 싶었는데 남편이 사줘서 갖게 되었어요. 생각보다 피부가 촉촉해지지 않네요. 사용감도 별로입니다. 친구들에게 추천하고 싶지는 않네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 기본세트(멀티밤2+미스트1+오일1)+쇼핑백1",
+    "ReviewScore": "100",
+    "Syllable": "83",
+    "Word": "18",
+    "RDate": "20220308",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "생각보다 피부가 촉촉해지지 않네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사용감",
+        "SentimentText": "사용감도 별로입니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "248789",
+    "RawText": "올리브*에서 사서 썼는데 여기 가격이 더 싸네요 미백 효과도 있고 주름도 가려집니다 첨엔 좀 번들거려요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "57",
+    "Word": "15",
+    "RDate": "20220308",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "여기 가격이 더 싸네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "미백 효과도 있고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "주름도 가려집니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "첨엔 좀 번들거려요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "248793",
+    "RawText": "주위에 사용하는 사람이 많아서 구성은 아쉽지만 사봤습니다. 주름이 많아지고 피부가 건조해서 샀는데 효과가 좋길 기대합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "68",
+    "Word": "15",
+    "RDate": "20220308",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성은 아쉽지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과가 좋길 기대합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "248796",
+    "RawText": "신랑이 선물 받아서 사용해보니 생각보다 건조하고 흡수력이 안 좋아요. 사용하기 불편해서 갖고 다니기 어려워요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "61",
+    "Word": "14",
+    "RDate": "20220308",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "생각보다 건조하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "흡수력이 안 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기 불편해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "갖고 다니기 어려워요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "248800",
+    "RawText": "생각보다 사이즈가 작아서 놀랐습니다 모든 구성품이 용량이 적어서 손바닥안에 다 들어오네요 나눠서 쓰면 적은 양이라 금방 쓸거같아요 가격대비 조금 비싼감이 없잖아 있지만 꾸준히 쓰면 효과 있겠지요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "108",
+    "Word": "26",
+    "RDate": "20220308",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용량",
+        "SentimentText": "생각보다 사이즈가 작아서 놀랐습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "모든 구성품이 용량이 적어서 손바닥안에 다 들어오네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "나눠서 쓰면 적은 양이라 금방 쓸거같아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 조금 비싼감이 없잖아 있지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "꾸준히 쓰면 효과 있겠지요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "248803",
+    "RawText": "끈적임 없이 잘 스며듭니다. 가격이 부담없어서 얼굴 전체에 발라요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 더** 아이크림 40mlx4개",
+    "ReviewScore": "80",
+    "Syllable": "37",
+    "Word": "9",
+    "RDate": "20220308",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "끈적임 없이 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "잘 스며듭니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 부담없어서  얼굴 전체에 발라요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "248804",
+    "RawText": "사용해보니 하루종일 촉촉하고 윤기가 있어서 좋아요~  주름도 가려지는것같고 잔주름은 없어진듯~",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "52",
+    "Word": "10",
+    "RDate": "20220308",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "지속력",
+        "SentimentText": "하루종일 촉촉하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "윤기가 있어서 좋아요~ ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "주름도 가려지는것같고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "잔주름은 없어진듯~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "248805",
+    "RawText": "제가 사용하고 엄마 주름 관리하셔서 젊어지고 예뻐지길 바래서 선물해 드렸네요. 나이가 들어서 피부가 건조해서 발라도 촉촉함이 부족하다 하시네요. 얼굴, 목주름에 효과 기대하며 수시로 바르십니다.  ",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "110",
+    "Word": "24",
+    "RDate": "20220308",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "피부가 건조해서 발라도 촉촉함이 부족하다 하시네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉함이 부족하다 하시네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "얼굴, 목주름에 효과 기대하며 수시로 바르십니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "248806",
+    "RawText": "멀티밤 엄청 오일리하네요. 번들거려서 덧바르기 별로예요. 미스트는 분사도 잘 안됩니다. 제형이 뭉개져서 바르기 불편하고 흡수력이 느려서 바른 뒤에 문질러줘야 됩니다. 산뜻하지 않아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "102",
+    "Word": "22",
+    "RDate": "20220308",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "엄청 오일리하네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "번들거려서 덧바르기 별로예요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "미스트는 분사도 잘 안됩니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 뭉개져서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "바르기 불편하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "흡수력이 느려서 바른 뒤에 문질러줘야 됩니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "산뜻하지 않아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "248808",
+    "RawText": "번들거림이 없고 사용하기편해요.  사용해보고 좋아서 재주문했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "37",
+    "Word": "6",
+    "RDate": "20220308",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "번들거림이 없고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": " 사용하기편해요. ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "248812",
+    "RawText": "기능은 좋지만  솔직히 가격이 비싸서  조금 저렴한걸로   갈아타려고  다른걸 썼는데~  가히만큼  좋은건  없다는  걸 알게되었네요~~   쇼핑몰에  들어왔는데  갑자기  방송하는걸 보고    주문하였습니다~  다른분들도  고민하지마시고    믿고  주문하셔도 좋을듯  합니다^^   열심히 바르고   주름이 늦게 찾아오도록   해봐야겠어요^^",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "193",
+    "Word": "33",
+    "RDate": "20220308",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "기능은 좋지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "솔직히 가격이 비싸서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "열심히 바르고   주름이 늦게 찾아오도록   해봐야겠어요^^",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "248815",
+    "RawText": "주름 개선 기능이 있는 제품으로 관심을 가졌고  목주름에 신경이 쓰였는데 믿음을 갖고 구매 하였음~^^ 스틱형이라 사용하기 편리하고 휴대가 간편하네요 가격도 저렴~ㅎ 많이줌 지인에게도 추천해도 되겠음~^^",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "114",
+    "Word": "25",
+    "RDate": "20220308",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "스틱형이라 사용하기 편리하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "휴대가 간편하네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가격도 저렴~ㅎ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "많이줌",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "248816",
+    "RawText": "외국에 있는 지인에게 보내기 전에 먼저 사용해보려고 구입했어요. 사용하기 간편하지 않아서 아쉬웠고 사용하고 분리수거는 잘 됩니다. 효과가 바로 나타나진 않아서 꾸준히 사용해 보겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 기미관리 멀티밤 기본세트",
+    "ReviewScore": "100",
+    "Syllable": "103",
+    "Word": "23",
+    "RDate": "20220308",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기 간편하지 않아서 아쉬웠고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": " 효과가 바로 나타나진 않아서 꾸준히 사용해 보겠습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "248818",
+    "RawText": "요즘 인기가 많다고 해서 구매했어요. 미간 주름에 효과가 나타나길 바라고 있어요. 조금 더 저렴한 제품이 있었지만 비싸도 이 제품을 선택했어요. 많이 건조한 날에 구성품인 미스트를 사용했는데 분사력이 아쉽네요. 구성이 더 좋았으면 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 기본세트(멀티밤2+미스트1+오일1)+쇼핑백1",
+    "ReviewScore": "100",
+    "Syllable": "133",
+    "Word": "32",
+    "RDate": "20220308",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "미간 주름에 효과가 나타나길 바라고 있어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "비싸도",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성품인 미스트를 사용했는데 분사력이 아쉽네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "분사력이 아쉽네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성이 더 좋았으면 합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "248822",
+    "RawText": "예전부터 쓰던건데여 이번에 저렴하게 대용량 구매해서 너무 좋아요 바르면 담날 너무 촉촉 하답니다 손쉽게 바를 수 있어 너무 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "72",
+    "Word": "19",
+    "RDate": "20220308",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "대용량 구매해서 너무 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "바르면 담날 너무 촉촉 하답니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "손쉽게 바를 수 있어 너무 좋아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "248823",
+    "RawText": "가격대비 구성이 좋지 않지만 궁금해서 구매했습니다. 주변에서 OO 추천도 많이 받았고요. 쇼핑백도 챙겨주셔서 선물하기도 좋은 거 같아요. 그런데 생각보다 보습력이 약하고 흡수가 잘 안되네요. 주름에 효과도 별로 없는 거 같아요. ",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "128",
+    "Word": "30",
+    "RDate": "20220308",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "가격대비 구성이 좋지 않지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "생각보다 보습력이 약하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "흡수가 잘 안되네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "주름에 효과도 별로 없는 거 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "248831",
+    "RawText": "피부케어를 간단하게 하고 싶어서 구매했는데 생각보다 사용하기 불편해서 아침에 바르기 힘드네요. 친구에게 선물해줬는데 용량이 작다고 해서 아쉬웠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "82",
+    "Word": "17",
+    "RDate": "20220308",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "생각보다 사용하기 불편해서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "용량이 작다고 해서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "248832",
+    "RawText": "OOO를 사용해보니 피부가 번들거리고 촉촉함이 덜해서 보습력이 떨어지네요. 주름도 확실히 좋아지진 않습니다. 잘때도 OOO를 꼭 바르고 자는데  앞으로 효과가 좋기를 바랍니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "98",
+    "Word": "21",
+    "RDate": "20220308",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "피부가 번들거리고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉함이 덜해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "보습력이 떨어지네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "주름도 확실히 좋아지진 않습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "앞으로 효과가 좋기를 바랍니다.  ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "248837",
+    "RawText": "밤에 잘 때 꼼꼼히 바르고 잤는데도 아침까지 촉촉하지 않아요. 흡수가 느려서 베개에도 묻네요. 재구매는 안 할꺼예요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 기본세트(멀티밤2+미스트1+오일1)+쇼핑백1",
+    "ReviewScore": "100",
+    "Syllable": "65",
+    "Word": "16",
+    "RDate": "20220308",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "지속력",
+        "SentimentText": "밤에 잘 때 꼼꼼히 바르고 잤는데도 아침까지 촉촉하지 않아요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하지 않아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "흡수가 느려서 베개에도 묻네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "248838",
+    "RawText": "요즘 인기가 많다고 해서 주문했지만 구성이 아쉽네요. 아직 사용하지는 않았는데 기대가 큰 만큼 좋은 효과가 나타나길 바랍니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "70",
+    "Word": "17",
+    "RDate": "20220308",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성이 아쉽네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "좋은 효과가 나타나길 바랍니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "248840",
+    "RawText": "구성이 많이 아쉽고 사용 후 피부에 윤이 나지는 않네요. 이 제품 없어도 될 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "49",
+    "Word": "15",
+    "RDate": "20220308",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성이 많이 아쉽고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "사용 후 피부에 윤이 나지는 않네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "248844",
+    "RawText": "처음  써보는거라 기대가  커요ㅋ 주름이  쫙쫙 펴지고 촉촉해지길 바랍니다~ 건조할때  바르면 좋아요 양이 넘 적은게 단점입니다",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "71",
+    "Word": "16",
+    "RDate": "20220308",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "주름이  쫙쫙 펴지고 촉촉해지길 바랍니다~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉해지길 바랍니다~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "건조할때  바르면 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "양이 넘 적은게 단점입니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "248846",
+    "RawText": "평소 목주름때문에 항상 고민했어요 그러다 가히를 알게 되었고 생일선물을 핑계로  구매했죠 스킨로션 챙겨 바르는것도 귀찮아 하는 저에게 가히는 정말 간편하지만 보습력 최고인게  딱이예요 고민했던 목주름도 금방 좋아질거같고! 무엇보다 겨울되면 항상 입술이 텄는데 오늘 제품 받자마자 입술에 발랐더니 몇시간이 지난 지금도 여전히 촉촉하네요 언능 다 쓰고 또 다시 구매할거예요♡",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "207",
+    "Word": "48",
+    "RDate": "20220308",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "스킨로션 챙겨 바르는것도 귀찮아 하는 저에게 가히는 정말 간편하지만",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "보습력 최고인게  딱이예요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "고민했던 목주름도 금방 좋아질거같고!",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "겨울되면 항상 입술이 텄는데 오늘 제품 받자마자 입술에 발랐더니 몇시간이 지난 지금도 여전히 촉촉하네요",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": " 몇시간이 지난 지금도 여전히 촉촉하네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "248847",
+    "RawText": "눈밑 다크서클과 목주름이 고민되어 구입하게 되었습니다. 나눠쓰려고 했는데 생각보다 구성이 넉넉하지는 않네요. 용량도 작아서 빨리 쓸 거 같지만 주름이 옅어지는 효과를 기대해 보겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "103",
+    "Word": "23",
+    "RDate": "20220308",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "생각보다 구성이 넉넉하지는 않네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "용량도 작아서 빨리 쓸 거 같지만",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "주름이 옅어지는 효과를 기대해 보겠습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "248852",
+    "RawText": "오늘 받아서 사용했는데 촉촉하지 않아서 아쉽네요. 꾸준히 쓰면 확실히 효과가 나타날 것 같긴 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "56",
+    "Word": "14",
+    "RDate": "20220309",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하지 않아서 아쉽네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "꾸준히 쓰면 확실히 효과가 나타날 것 같긴 합니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "248853",
+    "RawText": "드디어 오늘 왔습니다. 생각보다 너무 건조해서 사용하지 못할 것 같아요. 발림성도 안 좋구요. 다른 제품 사용하는 게 더 좋았을 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "78",
+    "Word": "21",
+    "RDate": "20220309",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "너무 건조해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성도 안 좋구요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "248855",
+    "RawText": "건조한 피부가 걱정이였는데 좋다고 해서 써보고 싶어서 구매했습니다. 그런데 할인 혜택을 못 받아서 비싸게 구매한 점이 아쉬워요. 그리고 양도 작아서 빨리 쓸 거 같고 샘플도 하나 없네요. 촉촉한 느낌도 없고 향도 별로네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "124",
+    "Word": "32",
+    "RDate": "20220309",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인 혜택을 못 받아서 비싸게 구매한 점이 아쉬워요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "양도 작아서 빨리 쓸 거 같고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "샘플도 하나 없네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉한 느낌도 없고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 별로네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "248856",
+    "RawText": "저번에 써보고 좋아서 샀는데 지인들 하나씩 주다보니 제가 쓸게  없어서 또 구매했어요. 한번만 발라도 하루종일 촉촉하고 바르기 편하고 휴대하기도 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 기본세트(멀티밤2+미스트1+오일1)+쇼핑백1",
+    "ReviewScore": "100",
+    "Syllable": "84",
+    "Word": "20",
+    "RDate": "20220309",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "지속력",
+        "SentimentText": "하루종일 촉촉하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "바르기 편하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "휴대하기도 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "248858",
+    "RawText": "리뷰가 많아서 구매했어요. 아직 쓰지 않았지만 효과가 좋길 바랍니다. 주름진 피부에 영양 공급이 잘 되었으면 해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "64",
+    "Word": "16",
+    "RDate": "20220309",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과가 좋길 바랍니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "주름진 피부에 영양 공급이 잘 되었으면 해요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "248861",
+    "RawText": "멀티밤 너무 좋은 구성으로 샀어요 친정엄마랑 나누어 쓰는데 확실히 보습에도 너무좋구 전 이거 하나 들고다니고있어요  마스크써서 두꺼운 화장도 힘든데.. 들고다니며 수시로 바릅니다 꼭 한번들 써보세요~~",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "112",
+    "Word": "25",
+    "RDate": "20220309",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "멀티밤 너무 좋은 구성으로 샀어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "확실히 보습에도 너무좋구",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "들고다니며 수시로 바릅니다 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "248864",
+    "RawText": "홈쇼핑 방송보다 괜찮아보여서 시부모님께 써보시라 선물해 드렸어요. 사용하시더니 아버님은 끈적거리고 번들거려서 사용하기 불편하다 하시네요. 어머님은 주름에 효과있다하니 기대하며 수시로 바르십니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "108",
+    "Word": "20",
+    "RDate": "20220309",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "끈적거리고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "번들거려서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기 불편하다 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "주름에 효과있다하니 기대하며 수시로 바르십니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "248866",
+    "RawText": "구성이 아쉬웠지만 사용해보고 싶어서 딸이랑 같이 쓰려고 구매했네요. 생각보다 사용하기 불편해서 자주 사용은 안 할 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "70",
+    "Word": "17",
+    "RDate": "20220309",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성이 아쉬웠지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "생각보다 사용하기 불편해서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "248867",
+    "RawText": "향기도 좋고 품질도 좋아 만족해 쓰고 있어요!!~~^^",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 쥬** 기초 5종세트",
+    "ReviewScore": "100",
+    "Syllable": "30",
+    "Word": "7",
+    "RDate": "20220309",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향기도 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 좋아 만족해 쓰고 있어요!!~~^^",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "248873",
+    "RawText": "처음 구매합니다. 주름이 줄어드는 것은 모르겠고 사용하기 불편해 수시로 바르기 어렵습니다. 눈가에 바르면 자극이 있어서 아쉬워요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 기본세트(멀티밤2+미스트1+오일1)+쇼핑백1",
+    "ReviewScore": "70",
+    "Syllable": "72",
+    "Word": "16",
+    "RDate": "20220309",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "주름이 줄어드는 것은 모르겠고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기 불편해",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "수시로 바르기 어렵습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "눈가에 바르면 자극이 있어서 아쉬워요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "248874",
+    "RawText": "좋다고 해서 구매했는데 발림성이 별로네요. 생각보다 휴대하기 불편하고 제형이 뭉개지니 쓰기도 불편합니다. 재구매는 안 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "70",
+    "Word": "15",
+    "RDate": "20220309",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성이 별로네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "생각보다 휴대하기 불편하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 뭉개지니",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "쓰기도 불편합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "248878",
+    "RawText": "살까 말까 망설이다가 주문해서 택배 받자 마자 바로 사용했어요. 사용해봤는데 생각보다 품질이 안 좋아요. 피부가 안 좋았는데 바르고 보니까 촉촉하지도 않아서 계속 사용은 안 할 겁니다. 상품평 남기면 구성품 하나 더 준다고 해서 남깁니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 기본세트(멀티밤2+미스트1+오일1)+쇼핑백1",
+    "ReviewScore": "100",
+    "Syllable": "133",
+    "Word": "34",
+    "RDate": "20220309",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "생각보다 품질이 안 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하지도 않아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "상품평 남기면 구성품 하나 더 준다고 해서 남깁니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "피부가 안 좋았는데 바르고 보니까 촉촉하지도 않아서",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "248879",
+    "RawText": "링클케어 제품 이것 저것 써 봤지만 별 효과를 못 봐서 별 기대를 안 했는데, 친구가 한 번 써 보라며 준 가히  쓰곤 \"어? 이건 뭐지?\" 주름개선에 놀랐습니다.  하루 종일 촉촉함이 유지되고, 처음 발랐을 때 번들함은 서서히 잘 흡수되었고 그 위에 화장을 해도 전혀 밀리거나 번들거리지 않아서 좋았습니다.  특히, 이마에 깊게 패여가는 굵은 주름 몇 개 때문에 나이들어 보인다는 말에 고민이 많았는데,아침저녁으로 며칠 바르니 주름이 옅어지고, 잔주름들은 팽팽해짐을 제 눈으로 확연이 볼 수 있어서 제품에 신뢰가 갑니다. 딸도 인정하구요. 오일은 흡수력도 좋고, 미스트는 농도가 짙어서 마치  크림스킨 뿌리는 촉촉한 느낌이었어요.  많이 자주 바르려고 구성품 가장 많은 제품 주문했네요. 시어머니에게도 선물 드리면 예쁨 받겠어요. 신랑도 같이 바르며 같이 젊어져야 겠어요. 좋은 제품 만들어주셔서 감사합니다. (꾸뻑) ",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "459",
+    "Word": "113",
+    "RDate": "20220309",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "가히  쓰곤 \"어? 이건 뭐지?\" 주름개선에 놀랐습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "하루 종일 촉촉함이 유지되고,",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "처음 발랐을 때 번들함은 서서히 잘 흡수되었고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "그 위에 화장을 해도 전혀 밀리거나 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "아침저녁으로 며칠 바르니 주름이 옅어지고, ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탄력",
+        "SentimentText": "잔주름들은 팽팽해짐을 제 눈으로 확연이 볼 수 있어서 제품에 신뢰가 갑니다.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "오일은 흡수력도 좋고, ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "미스트는 농도가 짙어서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "크림스킨 뿌리는 촉촉한 느낌이었어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "번들거리지 않아서 좋았습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "248882",
+    "RawText": "얼굴이 너무 건조해서 구매했는데 계속 건조하고 간편하지 않아 사용하기 어려워요. 촉촉하지도 않아서 자주 사용은 안 할 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "72",
+    "Word": "18",
+    "RDate": "20220309",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "계속 건조하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "간편하지 않아 사용하기 어려워요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하지도 않아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "248884",
+    "RawText": "엄마가 주변에서 안쓰는 아주머니들이 없으시다며 방송보고 후다닥 주문 해달라고 하신 가히밤! 저희 엄마 인싸신가봐요 저도 소문은 익히 들었으나 가격때문에 망설였는데 방송에서 저렴하게 잘 구매했네요 엄마찬스 ㅋㅋ엄마는 너무너무 좋으시대요 사용하기 편하고 바르고 나면 얼굴에 광이 자르르 하시다고 하네요 그리고 화장한 얼굴 위에 발라도 뭉침이 없으시대요! 전 아직 사용 전 ㅋㅋ잘쓸게용",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "212",
+    "Word": "49",
+    "RDate": "20220309",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 구매했네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기 편하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "얼굴에 광이 자르르 하시다고 하네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "화장한 얼굴 위에 발라도 뭉침이 없으시대요!",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "248888",
+    "RawText": "써보고 싶어서 벼르다가 샀는데 기대보다 촉촉하지 않네요. 요즘 히터 때문에 금방 피부가 건조해지는데 촉촉해지지 않아요. 양도 작아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "74",
+    "Word": "17",
+    "RDate": "20220309",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "기대보다 촉촉하지 않네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "피부가 건조해지는데 촉촉해지지 않아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉해지지 않아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "양도 작아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "248891",
+    "RawText": "친한친구가 선물로 줘서 사용해보고 저도사게되서 친구에게 미스트앰플 선물하고 그러면서 습관처럼 사용하게 되었어요 악건성 피부에 세수하고 바로 뭐라도 발라줘야하는데...가히앰플이 딱이더라구요 스틱은 장시간 피부를 촉촉하게 해주구요...오일은 처음 써보는데 기대감이 큽니다...스틱 거의 다 썼을때 용기에 남는 크림이 있어서 좀 아깝지만...계속 쓰게 될거 같아요~~^^",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "204",
+    "Word": "40",
+    "RDate": "20220309",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "피부타입",
+        "SentimentText": "악건성 피부에 세수하고 바로 뭐라도 발라줘야하는데...가히앰플이 딱이더라구요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "스틱은 장시간 피부를 촉촉하게 해주구요...",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "오일은 처음 써보는데 기대감이 큽니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "피부를 촉촉하게 해주구요...",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "248893",
+    "RawText": "첫 구매해 보았어요 촉촉하고 매끄러워 한번만 발라도 주름이  쫙 펴지는듯한 느낌~ 강력 추천합니댜 끈적임이 없어 너무 좋아요^^",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "71",
+    "Word": "17",
+    "RDate": "20220309",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "매끄러워",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "한번만 발라도 주름이  쫙 펴지는듯한 느낌~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "끈적임이 없어 너무 좋아요^^",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "248894",
+    "RawText": "출산 후 피부가 거칠어졌었는데 가히 화장품 사용 후 피부가 보들보들 탱탱해졌어요 :) 부모님도 선물해드렸는데 좋다구 하시네여 ㅎㅎ",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "72",
+    "Word": "17",
+    "RDate": "20220309",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "출산 후 피부가 거칠어졌었는데 가히 화장품 사용 후 피부가 보들보들 탱탱해졌어요 :)",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "피부가 보들보들",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탄력",
+        "SentimentText": "탱탱해졌어요 :)",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "248896",
+    "RawText": "처음 구매해서 사용해봤어요. 사용하기 간편하지 않았고 주름이 없어지지도 않았습니다. 다 사용하면 재구매는 없을 듯합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "67",
+    "Word": "14",
+    "RDate": "20220309",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기 간편하지 않았고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "주름이 없어지지도 않았습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "248899",
+    "RawText": "그동안 온가족이 잘 쓰고있던 제품이라 체험용 써볼 필요없이 상품평 올립니다. 양이 많아서 좋긴한데 온가족 듬북듬북 바르니 금방 떨어지네요~마침 OO홈에서도 판매를 해서 얼른 구매해 쟁여놓으니 든든합니다. 추가구성으로 주시는 작은병 앰플도 넘 감사감사요!~~~^♡^~",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 마** 크림 11통+앰플 2개 +멜** 앰플 2개 ",
+    "ReviewScore": "100",
+    "Syllable": "148",
+    "Word": "31",
+    "RDate": "20220309",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량",
+        "SentimentText": "양이 많아서 좋긴한데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "추가구성으로 주시는 작은병 앰플도 넘 감사감사요!~~~^♡^~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "248900",
+    "RawText": "주위에서 좋다고 추천하길래 주문해봤어요. 그런데 생각보다 촉촉하지 않아요. 수시로 사용 중인데 촉촉함이 오래가지 않네요. 주위에 써보라고 나눠줬는데 효과가 없어서 재구매할 생각은 없어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "104",
+    "Word": "22",
+    "RDate": "20220309",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "생각보다 촉촉하지 않아요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "촉촉함이 오래가지 않네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과가 없어서 재구매할 생각은 없어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "248903",
+    "RawText": "써보고 싶어서 구매했는데 촉촉하지 않네요. 주름에 효과가 없어요. 가격대비 제품구성도 만족스럽지 않습니다. 배송이 빠른 건 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "73",
+    "Word": "16",
+    "RDate": "20220309",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하지 않네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "주름에 효과가 없어요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "가격대비 제품구성도 만족스럽지 않습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "248906",
+    "RawText": "주름이 고민이신 엄마가 써보고 싶다해서 이번 기회에 더블세트로 구매해 같이 사용하려고 주문했어요. 가격도 비싸고 구성도 살짝 아쉽지만 주름에 효과 있었으면 좋겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "93",
+    "Word": "21",
+    "RDate": "20220309",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 비싸고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성도 살짝 아쉽지만 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "주름에 효과 있었으면 좋겠습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "248907",
+    "RawText": "주변 반응이 좋아서 이번에 기회가 되어 주문했습니다. 가격에 비해 제품구성이 부족한 느낌이에요. 건조가 심한 편이라 그런지 촉촉함이 덜하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "79",
+    "Word": "18",
+    "RDate": "20220309",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "가격에 비해 제품구성이 부족한 느낌이에요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "건조가 심한 편이라 그런지 촉촉함이 덜하네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉함이 덜하네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "248911",
+    "RawText": "어제 받아서 써봤는데 좋아요~ 엄청 촉촉하고 여기저기 쓱쓱 바르기 편해요 사이즈도 딱 손에 들어오는 사이즈라 가지고 다니기 편리 할 것 같아요!",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "80",
+    "Word": "21",
+    "RDate": "20220309",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "엄청 촉촉하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "여기저기 쓱쓱 바르기 편해요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "사이즈도 딱 손에 들어오는 사이즈라",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "가지고 다니기 편리 할 것 같아요!",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "248915",
+    "RawText": "촉촉하고 발림성도 좋네요 광도 과하지않구요 너무 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "30",
+    "Word": "7",
+    "RDate": "20220309",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성도 좋네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "광도 과하지않구요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "248919",
+    "RawText": "신랑이 선물해줬어요. 광고보고 좋아보인다고..ㅋ 함께온 오일ㅋㅋ 샘플인가요? 한번 사용해봤는데.ㅋ 촉촉한건지 전 번들거린다고 느껴져요. 좀더써볼게요~~",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "84",
+    "Word": "14",
+    "RDate": "20220309",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "함께온 오일ㅋㅋ 샘플인가요?",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉한건지 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "전 번들거린다고 느껴져요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "248920",
+    "RawText": "60대이신 어머님께 단품으로 구매해 드렸었는데 재구매 원하셔서 이번 기회에 저도 같이 주름 관리하려고 더블세트 구매했어요. 주변분들 호응이 좋아서 주름개선 효과 기대하고 있어요. 가격이 좀 부담스럽지만 잘 쓰겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "121",
+    "Word": "27",
+    "RDate": "20220309",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "주름개선 효과 기대하고 있어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 좀 부담스럽지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "248922",
+    "RawText": "가히 꼭 한번 써보고 싶었는데 아들이 선물로 보내줬네요. 바르고 편하긴한데 약간 끈적이고 무거운느낌입니다. 영양크림 듬뿍바른느낌입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "75",
+    "Word": "15",
+    "RDate": "20220309",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "바르고 편하긴한데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "약간 끈적이고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "무거운느낌입니다. ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "영양크림 듬뿍바른느낌입니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "248923",
+    "RawText": "신용카드 청구할인까지 받았지만 부담되는 가격이에요. 가격대비 용량도 아쉽네요. 사용해보니 촉촉함이 오래 유지되지 않아 수시로 덧발라주네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "77",
+    "Word": "15",
+    "RDate": "20220309",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "부담되는 가격이에요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "가격대비 용량도 아쉽네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "촉촉함이 오래 유지되지 않아 수시로 덧발라주네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "248929",
+    "RawText": "넘어져 이마부분을 다쳤는데 멍이 눈주위에 보라색으로 넓게 퍼져 연고도 못 바르고 있었는데 가히 밤을 수시로 발라주니 효과가 좋았어요. 가히 밤을 멍 부위를 발라주면 촉촉하고 수분 공급을 해줘서 치료제 역할도 해주니 너무 좋았어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "128",
+    "Word": "32",
+    "RDate": "20220309",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "멍이 눈주위에 보라색으로 넓게 퍼져 연고도 못 바르고 있었는데 가히 밤을 수시로 발라주니 효과가 좋았어요.",
+        "SentimentWord": "15",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "수분 공급을 해줘서 치료제 역할도 해주니 너무 좋았어요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "치료제 역할도 해주니 너무 좋았어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "248930",
+    "RawText": "가족들과 나눠 사용하려고 더블세트로 주문했어요. 가격은 좀 있지만 주름에 효과가 좋을 것 같아 기대하고 있습니다. 양도 적어서 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "76",
+    "Word": "18",
+    "RDate": "20220309",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 좀 있지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "주름에 효과가 좋을 것 같아 기대하고 있습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "양도 적어서 아쉽네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "248932",
+    "RawText": "주름개선효과가 있어 주름지우개예요^^ 써보고 너무 효과가 좋아서 많이 쟁였어요. 주변인들에게 선물도 하고요~ 화장품 바르는거 귀찮아하는데 이건 잊지않고 꼭발라요. 강추합니다",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "96",
+    "Word": "19",
+    "RDate": "20220309",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "주름개선효과가 있어 주름지우개예요^^",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "너무 효과가 좋아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "248933",
+    "RawText": "입소문으로 많이 들어서 사용해 보고 싶어서 더블세트로 주문해 남편과 양가 어머님께도 드렸네요. 일단 생각보다 촉촉함은 덜하지만 휴대하기 편해서 가지고 다니며 수시로 덧바릅니다. 같이온 미스트와 앰플 같이 사용하면 효과가 더 좋을 것 같아 기대하고 있어요. ",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "143",
+    "Word": "34",
+    "RDate": "20220309",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉함은 덜하지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "휴대하기 편해서 가지고 다니며 수시로 덧바릅니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "미스트와 앰플 같이 사용하면 효과가 더 좋을 것 같아 기대하고 있어요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "248934",
+    "RawText": "촉촉하네요 광고처럼 바르자마자  주름에 효과 있지는 않고 가격대비  용량이  적어요 광고  마케팅 비용 포함이겠지만... 가격이 좀 더 저렴해지면   촉촉해서  계속 사용 해 보려고요^^ ",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 멀티밤",
+    "ReviewScore": "50",
+    "Syllable": "105",
+    "Word": "23",
+    "RDate": "20220309",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "광고처럼 바르자마자  주름에 효과 있지는 않고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "가격대비  용량이  적어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉해서  계속 사용 해 보려고요^^",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "248935",
+    "RawText": "좋다는 평이  많아서 구매 했어요  자극 없이  좋은거 같고 향???은 잘모르겠고ㅎ 발림은 부드럽습니다 보습도 좋긴 하나 흡수력은  많이 떨어지는거 같아요  꾸준히 써볼려구요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 마** 크림 11통+앰플 2개 +멜** 앰플 2개 ",
+    "ReviewScore": "80",
+    "Syllable": "97",
+    "Word": "22",
+    "RDate": "20220309",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "자극 없이  좋은거 같고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림은 부드럽습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "보습도 좋긴 하나",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "흡수력은  많이 떨어지는거 같아요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향???은 잘모르겠고ㅎ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "248936",
+    "RawText": "친구들이 써보고 좋다고 추천했던 OOO을 기다리던 생일날 선물로 받아서 좋았어요. 평소 건조가 심한 피부라 받자마자 발랐는데, 수분감이 부족한지 촉촉함이 덜하네요. 얼굴에 광채도 없어요. 점성이 쫀득해서 끈적이네요. 기대보다는 만족하지 못한 상품입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 기본세트(멀티밤2+미스트1+오일1)+쇼핑백1",
+    "ReviewScore": "100",
+    "Syllable": "141",
+    "Word": "30",
+    "RDate": "20220309",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "건조가 심한 피부라 받자마자 발랐는데, 수분감이 부족한지 촉촉함이 덜하네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "수분감이 부족한지",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉함이 덜하네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "얼굴에 광채도 없어요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "점성이 쫀득해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "끈적이네요.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "248938",
+    "RawText": "이모가 너무좋다고  엄마한테 소개해서 엄마의 권유로 구매하게되었는데 생각보다 훨씬촉촉하고 부드러워 좋네요 애기낳고 많이 건조했는데 간편하게 쓱쓱 발라 관리할수 있어서 너무좋네요 다쓰면 계속 재구매할 예정입니다 홈쇼핑방송 자주해주세요~!",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "131",
+    "Word": "26",
+    "RDate": "20220309",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "부드러워 좋네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "간편하게 쓱쓱 발라 관리할수 있어서 너무좋네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "248939",
+    "RawText": "이제부터 가방에 OOO멀티밤 기본으로 챙겨 다니면서 수시로 관리하려고 구매했어요. 건조한 제 피부에는 수분이 좀 부족하네요. 촉촉하지 않아 수시로 덧바르고 있어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "91",
+    "Word": "20",
+    "RDate": "20220309",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "건조한 제 피부에는 수분이 좀 부족하네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "수분이 좀 부족하네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하지 않아 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "248940",
+    "RawText": "40대 주부인데 건조한 피부에 OOO바르면 좋다해서 구매했어요. 건조가 심한편이라 바르면서 효과 기대했는데 촉촉하지 않네요.  ",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "71",
+    "Word": "14",
+    "RDate": "20220309",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "건조가 심한편이라 바르면서 효과 기대했는데 촉촉하지 않네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하지 않네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "248942",
+    "RawText": "오랜만에 만난 지인이 아내에게 얼굴에 주름이 많다고 추천해서 아내에게 선물했어요. 눈가랑 목주름 관리하고 있는데, 아직 눈에 보이는 효과는 없네요. 효과 좋으면 계속 선물하려고 하네요. 기대가 크네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "112",
+    "Word": "26",
+    "RDate": "20220309",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "아직 눈에 보이는 효과는 없네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과 좋으면 계속 선물하려고 하네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "248943",
+    "RawText": "요즘 시국이 시국인지라... 마스크를 계속 쓰고다녀서그런지 마스크가 닿는 부위가 건조해지기 시작하더라구요. 그래서 가히 멀티밤과 미스트를 사용하기 시작했어요. 촉촉하고 너무 좋더라구요. 은은한 향도 마음에 들어요. 그래서 티비를 보다가 ㅇㅇ쇼핑에서 하는 가히 멀티밤 더블세트를 보고 구성과 가격이 너무 좋아서 바로 구매했네요. 더블세트 구성이 넉넉해서 당분간은 걱정없이 오래 사용할수있을것같아요. ^^",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 주름관리 멀티밤 더블세트(멀티밤4+미스트2+오일2)+쇼핑백2",
+    "ReviewScore": "100",
+    "Syllable": "224",
+    "Word": "47",
+    "RDate": "20220309",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하고 너무 좋더라구요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "은은한 향도 마음에 들어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성과 가격이 너무 좋아서 바로 구매했네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 너무 좋아서 바로 구매했네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "더블세트 구성이 넉넉해서 당분간은 걱정없이 오래 사용할수있을것같아요. ^^",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]

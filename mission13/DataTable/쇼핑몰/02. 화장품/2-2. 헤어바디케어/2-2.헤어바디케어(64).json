@@ -1,0 +1,3146 @@
+[
+  {
+    "Index": "763367",
+    "RawText": "배송이 빨랐어요. 할인을 못 받아서 비싸게 샀습니다. 염색약 두통이랑 산화제 한통 넣어서 했더니 색감이 잘 나오지 않아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "4",
+    "Syllable": "68",
+    "Word": "17",
+    "RDate": "20160410",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인을 못 받아서 비싸게 샀습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "염색약 두통이랑 산화제 한통 넣어서 했더니 색감이 잘 나오지 않아요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763368",
+    "RawText": "혼자 했는데 염색이 잘 안 됩니다. 새치도 커버가 잘 안 되는 것 같습니다. 추천 드리고 싶지 않은 제품입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "18",
+    "RDate": "20160412",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색이 잘 안 됩니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "새치도 커버가 잘 안 되는 것 같습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763371",
+    "RawText": "완벽한 구성이라고 했는데 그렇지 않네요. 사은품에 앰플도 하나 안 챙겨주시네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "5",
+    "Syllable": "44",
+    "Word": "10",
+    "RDate": "20160415",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "완벽한 구성이라고 했는데 그렇지 않네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품에 앰플도 하나 안 챙겨주시네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763372",
+    "RawText": "배송도 빠르고 물건도 잘 받았어요. 사은품으로 OOO 샴푸와 콜라겐 앰플을 보내 주셔서 좋았습니다. 다만 사은품으로 주신 콜라겐 앰플을 넣었더니 향이 별로네요. 워낙 염색을 많이 해서인지 머릿결이 손상도 있어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "4",
+    "Syllable": "118",
+    "Word": "28",
+    "RDate": "20160417",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품으로 OOO 샴푸와 콜라겐 앰플을 보내 주셔서 좋았습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "사은품으로 주신 콜라겐 앰플을 넣었더니 향이 별로네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "염색을 많이 해서인지 머릿결이 손상도 있어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763373",
+    "RawText": "배송도 너무 느리고 구성품도 좋지 않았어요. 이 제품 기대했는데 새치 커버가 좋지 않습니다. 가격도 너무 비싼 것 같습니다. 재주문은 안 할 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "3",
+    "Syllable": "86",
+    "Word": "23",
+    "RDate": "20160422",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성품도 좋지 않았어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "새치 커버가 좋지 않습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 너무 비싼 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763374",
+    "RawText": "다른 거품 염색제로 염색을 하다가 구매가 어려워서 이 제품으로 구매를 하게 되었습니다. 호기심에 구매를 하게 되었는데 염색이 너무 잘 안 되는 것 같고 발림성이 너무 빡빡한 것 같습니다. 그리고 머리카락도 계속 빠집니다. 저는 재구매하지 않을 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "5",
+    "Syllable": "143",
+    "Word": "37",
+    "RDate": "20160423",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색이 너무 잘 안 되는 것 같고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성이 너무 빡빡한 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "머리카락도 계속 빠집니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763376",
+    "RawText": "색감이 선명하게 잘 나오지 않아요. 예전 머리색이 더 나은 거 같습니다. 그리고 다른 염색약보다 머릿결 손상도 심한 거 같네요. 앞으로는 그냥 미용실에 가서 염색해야겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "4",
+    "Syllable": "96",
+    "Word": "24",
+    "RDate": "20160428",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "발색력",
+        "SentimentText": "색감이 선명하게 잘 나오지 않아요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "다른 염색약보다 머릿결 손상도 심한 거 같네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763378",
+    "RawText": "혼자서 염색하기 불편한 제품인 것 같습니다. 사용하기 불편한 제품이라 추천하지 않습니다. 염색도 잘 안 되는 것 같고 염색제 색상도 마음에 안 듭니다. 30분 이상 충분히 했는데 시간 낭비 했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "4",
+    "Syllable": "111",
+    "Word": "29",
+    "RDate": "20160502",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "혼자서 염색하기 불편한 제품인 것 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기 불편한 제품이라 추천하지 않습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색도 잘 안 되는 것 같고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "염색제 색상도 마음에 안 듭니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763379",
+    "RawText": "미용실 가기 귀찮아서 구입해봤어요. 긴 머리에 사용하다 보니 용량이 많이 아쉽고 용량 대비 가격도 비싸게 느껴지네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "4",
+    "Syllable": "65",
+    "Word": "16",
+    "RDate": "20160502",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "긴 머리에 사용하다 보니 용량이 많이 아쉽고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "용량 대비 가격도 비싸게 느껴지네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763382",
+    "RawText": "주로 미용실에서  염색을 하고 있습니다. 집에서 염색을 하다가 머릿결이 망해서 이 제품을 샀습니다. 반신반의하며 구입해서 사용을 했는데 염색도 잘 안 되고 색상도 별로였습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "5",
+    "Syllable": "98",
+    "Word": "23",
+    "RDate": "20160509",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색도 잘 안 되고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 별로였습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763386",
+    "RawText": "머릿결이 좋았는데 자주 염색을 해서 그런지 머릿결이 나빠져서 구매해 봤어요. 그런데 이 제품도 머릿결에 손상이 있는 거 같아요. 가격도 비싸요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "4",
+    "Syllable": "80",
+    "Word": "20",
+    "RDate": "20160511",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결에 손상이 있는 거 같아요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 비싸요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763391",
+    "RawText": "가격이 비싼 것 같습니다. 사은품도 안 좋았습니다. 아직 사용은 안 했는데 주변 사람들이 추천을 해서 샀습니다. 가격이 마트보다 비싼 것 같아서 아쉬운 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "4",
+    "Syllable": "92",
+    "Word": "24",
+    "RDate": "20160126",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 비싼 것 같습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품도 안 좋았습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 마트보다 비싼 것 같아서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763394",
+    "RawText": "평소에 다른 제품 사용했는데 후기가 좋아서 믿고 구매했어요. 그런데 머릿결 손상이 다른 제품에 비해서 심한 거 같아요. 색감도 잘 나오지 않아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "5",
+    "Syllable": "81",
+    "Word": "21",
+    "RDate": "20160126",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결 손상이 다른 제품에 비해서 심한 거 같아요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "색감도 잘 나오지 않아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763409",
+    "RawText": "이 제품은 염색이 잘 안 되는 것 같습니다. 머릿결 손상이 너무 심한 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "4",
+    "Syllable": "46",
+    "Word": "14",
+    "RDate": "20160201",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색이 잘 안 되는 것 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결 손상이 너무 심한 것 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763416",
+    "RawText": "염색을 했는데 머릿결이 안 좋아진 느낌입니다. 미용 전문가에게 추천을 받았는데 두피에 자극이 있어 실망했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "4",
+    "Syllable": "62",
+    "Word": "14",
+    "RDate": "20160207",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결이 안 좋아진 느낌입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "두피에 자극이 있어 실망했습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763417",
+    "RawText": "다른 저렴한 염색약도 많지만 이 제품을 써보고 싶어서 갈색으로 주문했어요. 그런데 염색이 깔끔하게 되지 않고 색감도 잘 안 나오네요. 용량도 적어서 잘 알아보고 구매하셔야겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "4",
+    "Syllable": "99",
+    "Word": "24",
+    "RDate": "20160212",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색이 깔끔하게 되지 않고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "색감도 잘 안 나오네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량도 적어서 잘 알아보고 구매하셔야겠어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763419",
+    "RawText": "제품이 좋지 않은 것 같습니다. 다른 곳보다 비싸게 주고 산 것 같습니다. 사은품도 좋지 않았고 다음에 재구매 의사 없습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "19",
+    "RDate": "20160213",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "다른 곳보다 비싸게 주고 산 것 같습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품도 좋지 않았고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763422",
+    "RawText": "이 제품 종류 별로 사용을 했습니다. 배송도 너무 느리고 사은품도 좋지 않은 것 같습니다. 가격도 비싸게 주고 산 것 같습니다. 염색도 잘 안 되었습니다. 다음에 또 사지는 않을 것 같습니다. 그리고 효과도 없는 것 같고 머릿결이 너무 많이 나빠진 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "4",
+    "Syllable": "146",
+    "Word": "41",
+    "RDate": "20160215",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품도 좋지 않은 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 비싸게 주고 산 것 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색도 잘 안 되었습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과도 없는 것 같고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결이 너무 많이 나빠진 것 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763426",
+    "RawText": "냄새가 진짜 독하고 염색도 잘 안 나왔어요. OOO 좋은 줄 알았는데 재구매 못하겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "5",
+    "Syllable": "49",
+    "Word": "13",
+    "RDate": "20160215",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새가 진짜 독하고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색도 잘 안 나왔어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763443",
+    "RawText": "흰머리 염색용으로 구매했어요. 타사에 비해 가격 좋아요. 그런데 사은품으로 영양제를 보내주시는 줄 알았는데 오지 않아서 아쉬웠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "4",
+    "Syllable": "73",
+    "Word": "16",
+    "RDate": "20160219",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "타사에 비해 가격 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품으로 영양제를 보내주시는 줄 알았는데 오지 않아서 아쉬웠어요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763444",
+    "RawText": "배송은 그저 그랬는데 사은품을 주셔서 좋았어요. 그런데 생각보다 자극적이고 색감이 잘 나오지 않아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "4",
+    "Syllable": "56",
+    "Word": "13",
+    "RDate": "20160219",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품을 주셔서 좋았어요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "생각보다 자극적이고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "색감이 잘 나오지 않아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763445",
+    "RawText": "배송도 빠르고 보내 주신 사은품도 좋았어요. 그런데 염색제 색상이 화면과 다르고 발색된 색이 저와 잘 안 어울려요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "4",
+    "Syllable": "64",
+    "Word": "17",
+    "RDate": "20160219",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "보내 주신 사은품도 좋았어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "염색제 색상이 화면과 다르고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "발색된 색이 저와 잘 안 어울려요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763446",
+    "RawText": "가격이 올라서 안타깝네요. 제품 구성에 필요 없는 거 빼고 꼭 필요한 제품으로 주시면 좋을 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "4",
+    "Syllable": "57",
+    "Word": "16",
+    "RDate": "20160219",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 올라서 안타깝네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "제품 구성에 필요 없는 거 빼고 꼭 필요한 제품으로 주시면 좋을 것 같아요.",
+        "SentimentWord": "13",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763453",
+    "RawText": "써보고 싶어서 비싸지만 구매해 봤어요. 배송도 빠르고 염색약 색깔도 잘 맞춰서 도착했어요. 염색볼, 빗, 헤어캡, 장갑 등 구성품도 잘 왔어요. 다만 머릿결이 상하는 거 같고 색감이 생각보다 잘 나오지 않아서 아쉬웠어요. 재구매는 안 할 거 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "5",
+    "Syllable": "140",
+    "Word": "36",
+    "RDate": "20160220",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "비싸지만",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "염색볼, 빗, 헤어캡, 장갑 등 구성품도 잘 왔어요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결이 상하는 거 같고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "색감이 생각보다 잘 나오지 않아서 아쉬웠어요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763462",
+    "RawText": "OOO OO 많은 분들이 추천하셔서 처음으로 사용해봤어요. 염색제 색깔은 예쁜데 잘 안 발라지고 냄새도 다른 브랜드 보다 좀 역한 듯하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "4",
+    "Syllable": "78",
+    "Word": "20",
+    "RDate": "20160222",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "염색제 색깔은 예쁜데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "잘 안 발라지고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 다른 브랜드 보다 좀 역한 듯하네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763465",
+    "RawText": "가격도 비싸고 같이 오는 사은품도 좋지 않아서 가격 대비 품질이 좋지 않은 것 같습니다. 사은품이 다 부질 없어서 마음에 들지 않습니다. 추천하지 않아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "5",
+    "Syllable": "86",
+    "Word": "23",
+    "RDate": "20160223",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 비싸고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품도 좋지 않아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격 대비 품질이 좋지 않은 것 같습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품이 다 부질 없어서 마음에 들지 않습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763469",
+    "RawText": "구성품으로 장갑, 볼, 빗, 염모제가 다 들어있어서 염색하기 편했습니다. 그런데 염색하고 나니 머릿결 손상이 있네요. 레드브라운 색상 구매했는데 색감도 예쁘게 나오지 않아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "5",
+    "Syllable": "97",
+    "Word": "22",
+    "RDate": "20160224",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성품으로 장갑, 볼, 빗, 염모제가 다 들어있어서 염색하기 편했습니다. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "염색하고 나니 머릿결 손상이 있네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "레드브라운 색상 구매했는데 색감도 예쁘게 나오지 않아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763474",
+    "RawText": "한참 전에 주문했는데 이제 배송이 오네요. 워낙 유명한 제품이라서 저도 구매를 했습니다. 하지만 색상도 마음에 들지 않고 머릿결 손상도 심한 것 같습니다. 사은품도 좋지 않습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "5",
+    "Syllable": "100",
+    "Word": "25",
+    "RDate": "20160227",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 마음에 들지 않고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결 손상도 심한 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품도 좋지 않습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763478",
+    "RawText": "가격이 비싼 것 같고 염색이 잘 안 됩니다. 미용실에서 하는 게 더 좋은 것 같습니다. 머릿결도 많이 상해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "4",
+    "Syllable": "61",
+    "Word": "18",
+    "RDate": "20160229",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 비싼 것 같고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색이 잘 안 됩니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결도 많이 상해요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763479",
+    "RawText": "일단 냄새가 너무 많이 나서 염색할 때 안 좋았습니다. 눈이 너무 시려서 아팠습니다. 염색에 필요한 것들이 많은데 사은품이 좋지 않아서 아쉬웠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "4",
+    "Syllable": "83",
+    "Word": "21",
+    "RDate": "20160304",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새가 너무 많이 나서 염색할 때 안 좋았습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "눈이 너무 시려서 아팠습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품이 좋지 않아서 아쉬웠습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763481",
+    "RawText": "새치머리는 많지 않지만 앞머리와 귀밑머리에 보이는게 거슬려서 OOO로 염색해 봤습니다. 새치 커버에는 별로였고 색깔도 생각보다 어둡게 나왔어요. 미용실에서 OOO 쓰길래 비슷하겠지 했는데 머릿결만 상하고 염색은 잘 안돼서 속상합니다. 다시 미용실로 가야 할 듯합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "3",
+    "Syllable": "149",
+    "Word": "33",
+    "RDate": "20160307",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "새치 커버에는 별로였고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "색깔도 생각보다 어둡게 나왔어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결만 상하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색은 잘 안돼서 속상합니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763489",
+    "RawText": "괜히 구매한 것 같습니다. 이번에 궁금해서 구매했는데 이 제품은 염색이 잘 안 되는 것 같습니다. 대형마트 보다 비싸게 주고 샀습니다. 다음에는 이곳에서 구매하지 않을 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "4",
+    "Syllable": "101",
+    "Word": "26",
+    "RDate": "20160309",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색이 잘 안 되는 것 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "대형마트 보다 비싸게 주고 샀습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763508",
+    "RawText": "미용실에서 이 제품을 사용하길래 직접 주문해 봤어요. 그런데 머릿결 손상도 있는 거 같고 염색이 잘 안 되네요. 재구매 의사 없어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "4",
+    "Syllable": "74",
+    "Word": "20",
+    "RDate": "20160312",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결 손상도 있는 거 같고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색이 잘 안 되네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763510",
+    "RawText": "염색약 너무 비싸게 주고 산 것 같습니다. 사은품도 좋은 것이 없습니다. 다음에는 구매하지 않을 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "16",
+    "RDate": "20160313",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "염색약 너무 비싸게 주고 산 것 같습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품도 좋은 것이 없습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763513",
+    "RawText": "배송도 빠르고 좋았어요. 사은품도 많이 챙겨주셔서 놀랐습니다. 다만 처음 써보는데 생각보다 품질이 안 좋은 거 같아요. 염색도 골고루 잘 안 되네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "5",
+    "Syllable": "83",
+    "Word": "21",
+    "RDate": "20160315",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품도 많이 챙겨주셔서 놀랐습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "생각보다 품질이 안 좋은 거 같아요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색도 골고루 잘 안 되네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763514",
+    "RawText": "새치 염색하려고 구매했어요. 그런데 머릿결 손상이 있고 염색도 잘 안되는 거 같아요. 더는 안 쓸 거 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "17",
+    "RDate": "20160315",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결 손상이 있고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색도 잘 안되는 거 같아요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763523",
+    "RawText": "머리색이 밝아서 차분한 색으로 바꾸고 싶어서 구매했어요. 저렴한 가격이 아닌데 생각보다 별로네요. 머릿결도 상하는 거 같아요. 미용실에 가는 게 낫겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "4",
+    "Syllable": "86",
+    "Word": "20",
+    "RDate": "20160316",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격이 아닌데 생각보다 별로네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결도 상하는 거 같아요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763529",
+    "RawText": "배송 느리지 않네요. OOO이라서 사용해 보고 싶어서 구입했어요. 양이 좀 작고 염색하고 너무 밝아져 마음에 안 드네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "4",
+    "Syllable": "67",
+    "Word": "17",
+    "RDate": "20160319",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양이 좀 작고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "염색하고 너무 밝아져 마음에 안 드네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763531",
+    "RawText": "미용실에서 이 제품 쓰길래 구매해서 뿌리 염색 했는데 저렴한 비용으로 색깔도 예쁘게 잘 나옵니다. 밝은 염색약 쓰면 머리 밑이 굉장히 따갑던데 이 제품은 전혀 따갑지 않습니다. 머릿결 상하는 것도 다른 제품에 비해 덜한 것 같습니다. 염색은 이제 이 브랜드로만 셀프 염색만 할겁니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "5",
+    "Syllable": "158",
+    "Word": "42",
+    "RDate": "20160319",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 비용으로",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "색깔도 예쁘게 잘 나옵니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "이 제품은 전혀 따갑지 않습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결 상하는 것도 다른 제품에 비해 덜한 것 같습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "763536",
+    "RawText": "셀프 염색하려고 구매했습니다. 그런데 색감도 잘 안 나오고 머릿결도 상했어요. 그리고 약이 독한건지 눈이 따갑네요. 재구매는 안 할 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "4",
+    "Syllable": "80",
+    "Word": "20",
+    "RDate": "20160322",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "발색력",
+        "SentimentText": "색감도 잘 안 나오고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결도 상했어요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "약이 독한건지 눈이 따갑네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763537",
+    "RawText": "다른 곳보다 비싼 가격에 구입한 것 같습니다. 특히 염색할 때 쓸모 없는 사은품을 준 것 같아서 아쉽습니다. 처음 사용하는 제품인데 염색제 색상도 마음에 들지 않고 새치 염색도 잘 안 되어서 다음에는 구매하지 않을 것 같습니다. 배송도 너무 느려서 오래 기다렸습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "4",
+    "Syllable": "149",
+    "Word": "40",
+    "RDate": "20160323",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "다른 곳보다 비싼 가격에 구입한 것 같습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "염색할 때 쓸모 없는 사은품을 준 것 같아서 아쉽습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "염색제 색상도 마음에 들지 않고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "새치 염색도 잘 안 되어서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763540",
+    "RawText": "염색약 여러 번 주문했지만 이번에는 사은품이 좋습니다. 앰플이랑 귀마개, 비닐팩, 염색볼, 빗 등 사은품을 골고루 주셔서 좋았어요. 너무 만족스러워요. 다음에도 여기서 주문할게요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "5",
+    "Syllable": "100",
+    "Word": "22",
+    "RDate": "20160323",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품이 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "앰플이랑 귀마개, 비닐팩, 염색볼, 빗 등 사은품을 골고루 주셔서 좋았어요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "763541",
+    "RawText": "머릿결이 너무 많이 상했습니다. 염색제 색상도 별로입니다. 미용실에서 한 것 보다 염색이 잘 안 되는 것 같습니다. 50분 정도 뒤에 씻었는데 발색이 너무 어둡게 나왔습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "5",
+    "Syllable": "97",
+    "Word": "25",
+    "RDate": "20160323",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결이 너무 많이 상했습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "염색제 색상도 별로입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색이 잘 안 되는 것 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "발색이 너무 어둡게 나왔습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763544",
+    "RawText": "사은품으로 앰플까지 챙겨 주시고 제품도 만족합니다. 염색도 예쁘게 잘되었습니다. 근데 새치 커버력은 기대 만큼 아니예요. 염색한지 한달 정도 되었는데 새치가 보이기 시작합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "4",
+    "Syllable": "98",
+    "Word": "22",
+    "RDate": "20160324",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품으로 앰플까지 챙겨 주시고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "염색도 예쁘게 잘되었습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "새치 커버력은 기대 만큼 아니예요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "염색한지 한달 정도 되었는데 새치가 보이기 시작합니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763552",
+    "RawText": "인터넷으로 시키니 편하고 좋습니다. 사은품으로 앰플을 챙겨 주셔서 머릿결 손상 없이 잘 할 수 있었습니다. 색도 이쁘게 잘 나옵니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "4",
+    "Syllable": "74",
+    "Word": "19",
+    "RDate": "20160329",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품으로 앰플을 챙겨 주셔서 머릿결 손상 없이 잘 할 수 있었습니다.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결 손상 없이 잘 할 수 있었습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "색도 이쁘게 잘 나옵니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "763553",
+    "RawText": "염색약 냄새가 너무 독했습니다. 가성비도 없고 염색도 잘 안 됩니다. 가격도 비싸게 주고 산 것 같습니다. 좋지 않은 제품이네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "19",
+    "RDate": "20160329",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "염색약 냄새가 너무 독했습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비도 없고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색도 잘 안 됩니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 비싸게 주고 산 것 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763554",
+    "RawText": "이 제품 처음으로 구매했는데 염색약 냄새가 너무 많이 나는 것 같습니다. 염색도 잘 안 되고 가격도 비싸게 샀습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "18",
+    "RDate": "20160329",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "염색약 냄새가 너무 많이 나는 것 같습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색도 잘 안 되고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 비싸게 샀습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763557",
+    "RawText": "다른 분들이 후기 남겨 주신 것 봤는데 밝게 나온다고 해서 기대했는데 저는 발색이 어둡게 나와서 실망했습니다. 저는 염색을 오랜만에 하는 거라 정말 기대가 많았는데 막상 해보니까 염색제 색상도 마음에 안 들고 발색이 밝게 나오지 않아서 재구매는 하지 않을 것 같습니다. 추천하지 않는 제품입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "2",
+    "Syllable": "165",
+    "Word": "43",
+    "RDate": "20160402",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "발색력",
+        "SentimentText": "발색이 어둡게 나와서 실망했습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "염색제 색상도 마음에 안 들고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "발색이 밝게 나오지 않아서 재구매는 하지 않을 것 같습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763560",
+    "RawText": "같이 주문한 색상이 밝을까 봐 다른 색상도 주문했어요. 그런데 발색이 너무 어두워서 염색을 안 한 머리처럼 나와서 속상해요. 다시 염색해야 되네요. 그리고 제조일이 오래전이라 유통기한이 짧아요. 다행히 부작용은 없었는데 주문하실 때 유통기한 확인하시고 주문하세요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "3",
+    "Syllable": "147",
+    "Word": "34",
+    "RDate": "20160402",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "발색력",
+        "SentimentText": "발색이 너무 어두워서 염색을 안 한 머리처럼 나와서 속상해요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "제조일이 오래전이라 유통기한이 짧아요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "부작용은 없었는데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "763571",
+    "RawText": "색감이 원하는 대로 나오지 않아요. 그리고 무엇보다 모발에 손상이 있는 거 같아요. 튜브 용기가 잘 짜지지 않아 염모제가 잘 나오지 않습니다. 설명서대로 바르고 30분 이상 기다렸다가 머리 감았는데 염색이 잘 안되고 모발도 푸석해졌어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "4",
+    "Syllable": "132",
+    "Word": "33",
+    "RDate": "20160405",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "발색력",
+        "SentimentText": "색감이 원하는 대로 나오지 않아요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "모발에 손상이 있는 거 같아요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "튜브 용기가 잘 짜지지 않아 염모제가 잘 나오지 않습니다. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "설명서대로 바르고 30분 이상 기다렸다가 머리 감았는데 염색이 잘 안되고",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "모발도 푸석해졌어요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763576",
+    "RawText": "미용실에서 염색하면 비싼데 이 곳에서 염색약을 저렴하게 팔길래 구매했어요. 장갑이나 통, 빗 등이 제품 구성에 포함되어 있지 않아서 따로 사야 되는 점은 아쉬웠어요. 혼자 염색하기는 쉬워요. 그런데 염색이 잘되지 않아 얼룩덜룩하고 생각보다 어둡게 발색되어서 별로네요. 그냥 미용실에 가는 게 낫겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "4",
+    "Syllable": "168",
+    "Word": "40",
+    "RDate": "20160406",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "이 곳에서 염색약을 저렴하게 팔길래 구매했어요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "장갑이나 통, 빗 등이 제품 구성에 포함되어 있지 않아서 따로 사야 되는 점은 아쉬웠어요. ",
+        "SentimentWord": "14",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "혼자 염색하기는 쉬워요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색이 잘되지 않아 얼룩덜룩하고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "생각보다 어둡게 발색되어서 별로네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763580",
+    "RawText": "기대보다 별로예요. 머릿결이 생각보다 많이 상해요. 앰플을 추가했는데도 머릿결 손상이 있네요. 돈 절약하려고 집에서 했는데 속상해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "16",
+    "RDate": "20160406",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결이 생각보다 많이 상해요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "앰플을 추가했는데도 머릿결 손상이 있네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763586",
+    "RawText": "염색 도구 세트를 사은품으로 주셔서 좋았어요. 예전에는 도구 없이 하다 보니 여러 가지로 불편했거든요. 그런데 염색이 생각보다 잘 안되고 튜브 용기가 잘 안 쪄서 불편해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "4",
+    "Syllable": "96",
+    "Word": "25",
+    "RDate": "20160409",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "염색 도구 세트를 사은품으로 주셔서 좋았어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색이 생각보다 잘 안되고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "튜브 용기가 잘 안 쪄서 불편해요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763590",
+    "RawText": "셀프로 뿌리염색도 해보고 버블로도 해봤는데 이 염색약은 처음인데 염색 색감도 예쁘게 나왔어요. 혼자서는 염색하기는 어려워 도움을 받게 되네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "18",
+    "RDate": "20160409",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "발색력",
+        "SentimentText": "염색 색감도 예쁘게 나왔어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "혼자서는 염색하기는 어려워 도움을 받게 되네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763594",
+    "RawText": "사은품은 유용하게 잘 썼어요. 그런데 색감이 바라던 대로 나오지 않아서 아쉬워요. 가격대비 용량도 적은 거 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "16",
+    "RDate": "20160415",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품은 유용하게 잘 썼어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "색감이 바라던 대로 나오지 않아서 아쉬워요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "가격대비 용량도 적은 거 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763595",
+    "RawText": "발색 정말 예쁘게 되었어요. 바라던대로 색이 잘 나왔습니다. OO은 정말이지 믿고 사용합니다. 사은품 너무 유용하게 잘 썼어요. 많이 파세요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "19",
+    "RDate": "20160415",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "발색력",
+        "SentimentText": "발색 정말 예쁘게 되었어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "바라던대로 색이 잘 나왔습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품 너무 유용하게 잘 썼어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "763596",
+    "RawText": "지인이 추천해 주길래 구입해 봤어요. 그런데 냄새가 심하고 물빠짐도 있네요. 다 쓰면 다른 염색약으로 구매해야겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "15",
+    "RDate": "20160415",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새가 심하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "물빠짐도 있네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763602",
+    "RawText": "오프 라인보다 가격이 저렴해서 구입했는데 염색은 잘 되는 것 같지 않아요. 염색한 다음 날까지 염색물이 좀 빠지네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "4",
+    "Syllable": "65",
+    "Word": "17",
+    "RDate": "20160418",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "오프 라인보다 가격이 저렴해서 구입했는데",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색은 잘 되는 것 같지 않아요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "염색한 다음 날까지 염색물이 좀 빠지네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763603",
+    "RawText": "다른 제품만 쓰다가 이 제품이 좋다고 해서 구매를 하게 되었습니다. 용량이 너무 적어서 남편 머리 해주니 다 써버렸습니다. 용량이 더 크게 나와야 할 것 같습니다. 아쉬워서 그냥 겉에만 했습니다. 구성도 좋지 않습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "4",
+    "Syllable": "122",
+    "Word": "32",
+    "RDate": "20160426",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량이 너무 적어서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량이 더 크게 나와야 할 것 같습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성도 좋지 않습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763605",
+    "RawText": "이 제품 처음 사용합니다. 좋다고 해서 구매를 했는데 용량이 정말 작은 것 같습니다. 제 머리에 사용하다가 답답해서 사용 안 하게 됐습니다. 다음에는 용량이 더 크게 나왔으면 좋겠습니다. 염색제 색상도 마음에 안 듭니다. 구성도 좋지 않아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "4",
+    "Syllable": "135",
+    "Word": "35",
+    "RDate": "20160426",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량이 정말 작은 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "다음에는 용량이 더 크게 나왔으면 좋겠습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "염색제 색상도 마음에 안 듭니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성도 좋지 않아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763607",
+    "RawText": "이 제품으로 염색을 여러 번 해봤는데 염색이 얼룩덜룩하게 되어 아쉽고 혼자서 사용하기 불편한 제품인 것 같습니다. 미용실에서 하시는 게 더 좋으니 이 제품 쓰지 마세요. 염색도 잘 안 나와서 좋지 않습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "4",
+    "Syllable": "115",
+    "Word": "31",
+    "RDate": "20160506",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색이 얼룩덜룩하게 되어 아쉽고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "혼자서 사용하기 불편한 제품인 것 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색도 잘 안 나와서 좋지 않습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763618",
+    "RawText": "혼자 셀프 염색을 해보려고 구매했는데 배송도 느리고 가격도 비싸서 아쉬웠습니다. 염색해보니 발색도 너무 어둡게 나와서 재구매는 안 할 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "4",
+    "Syllable": "82",
+    "Word": "20",
+    "RDate": "20160524",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 비싸서 아쉬웠습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "발색도 너무 어둡게 나와서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763621",
+    "RawText": "염색은 아직 안 해봐서 효과는 모르겠지만 염색약 냄새는 나쁘지 않네요. 가격 대비 용량은 좀 작은 듯합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "4",
+    "Syllable": "60",
+    "Word": "16",
+    "RDate": "20160616",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색은 아직 안 해봐서 효과는 모르겠지만",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "염색약 냄새는 나쁘지 않네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "가격 대비 용량은 좀 작은 듯합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763622",
+    "RawText": "믿을 수 있는 브랜드라 믿고 사용 하고 있습니다. 지금 계속해서 사용하고 있는데 특별한 부작용도 없고 잘 사용하고 있습니다. 가격은 다른 브랜드에 비해서 좀 비싼편이에요. 필요한 사은품도 다 지급되어 불편없이 사용하고 있습니다. 많이 파세요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "4",
+    "Syllable": "135",
+    "Word": "33",
+    "RDate": "20160627",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "특별한 부작용도 없고 잘 사용하고 있습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 다른 브랜드에 비해서 좀 비싼편이에요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "필요한 사은품도 다 지급되어 불편없이 사용하고 있습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "763626",
+    "RawText": "처음 구매하는데요. 리뷰가 별로 없어서 반신반의하면서 구매해봤어요. 유통기한이 상당히 짧네요. 염색하고 나서 트리트먼트를 해도 머리카락이 좀 뻣뻣하네요. 앞으로 재구매해야할지는 잘 모르겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "5",
+    "Syllable": "107",
+    "Word": "21",
+    "RDate": "20220527",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한이 상당히 짧네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머리카락이 좀 뻣뻣하네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763627",
+    "RawText": "ㅇㅇㅇ 염색약으로 뿌리염색을 해봤는데요. 냄새도 심하고 색상도 이쁘게 안나왔어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "5",
+    "Syllable": "45",
+    "Word": "9",
+    "RDate": "20170424",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 심하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "색상도 이쁘게 안나왔어요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763628",
+    "RawText": "배송이 정말 빨라서 기다리지 않고 받아서 좋았습니다. 마스크팩도 사은품으로 주셔서 감사해요. 이쁘게 염색 되면 좋겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "15",
+    "RDate": "20200821",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "마스크팩도 사은품으로 주셔서 감사해요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "이쁘게 염색 되면 좋겠네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "763640",
+    "RawText": "다른 곳보다 비싸고 산화제가 좀 독한지 두피가 따가워요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "5",
+    "Syllable": "31",
+    "Word": "8",
+    "RDate": "20200914",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "비싸고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "산화제가 좀 독한지 두피가 따가워요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763642",
+    "RawText": "배송은 진짜 빠릅니다. 발색이 사진처럼 나오진 않네요. 냄새도 좀 강한편입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "5",
+    "Syllable": "44",
+    "Word": "10",
+    "RDate": "20200914",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "발색력",
+        "SentimentText": "발색이 사진처럼 나오진 않네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 좀 강한편입니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763645",
+    "RawText": "주변에서 추천해서 써봤는데 새치 염색도 잘 안되고 발색도 안이쁩니다. 별로예요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "5",
+    "Syllable": "44",
+    "Word": "10",
+    "RDate": "20201009",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "새치 염색도 잘 안되고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "발색도 안이쁩니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763670",
+    "RawText": "리뷰가 좋아서 할인할때 좋은 가격에 구입해봤어요.  포장도 좋고 배송도 빨랐는데 염색이 잘 안되네요. 머리 감고 나서도 물이 빠지네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "18",
+    "RDate": "20170629",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 가격에 구입해봤어요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색이 잘 안되네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "머리 감고 나서도 물이 빠지네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763681",
+    "RawText": "빨간색도는 초코브라운색을 원해서 2가지색을 구매하여 섞어 사용해봤는데요 원하는 색상이 잘 안나오네요. 용량이 다른거에 비해 작은 것 같네요. 제가 머리가 길고 머릿수가 많다보니 염색약도 여러개 사용해야 해서 용량이 넉넉하지 않은거 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "5",
+    "Syllable": "133",
+    "Word": "30",
+    "RDate": "20170818",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "발색력",
+        "SentimentText": "원하는 색상이 잘 안나오네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량이 다른거에 비해 작은 것 같네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량이 넉넉하지 않은거 같아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763741",
+    "RawText": "항상 ㅇㅇㅇ을 사용하고있는데 산화제용량이 작은건 이번이 첨입니다.  3개용량이면 220ml이상 줘야하는데 고작 180줬어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "4",
+    "Syllable": "69",
+    "Word": "12",
+    "RDate": "20170720",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "산화제용량이 작은건 이번이 첨입니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": " 3개용량이면 220ml이상 줘야하는데 고작 180줬어요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763756",
+    "RawText": "12개당 산화제 증정하면 적은 수량 갯수 구매하는 사람은 염색을 어찌해야하는건가요. 낱개로 구매시 참고하셔야 되요. 산화제 없어서 산화제 또 구매해야 됩니다. 이렇게 되면 가격이 비싸지네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "2",
+    "Syllable": "106",
+    "Word": "24",
+    "RDate": "20170809",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "12개당 산화제 증정하면 적은 수량 갯수 구매하는 사람은 염색을 어찌해야하는건가요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "산화제 없어서 산화제 또 구매해야 됩니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "이렇게 되면 가격이 비싸지네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763760",
+    "RawText": "가격이 다른 제품에 비해 비싸네요. 배송은 엄청 빨랐어요. 하나만 사서 그런지 사은품은 하나도 없네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "14",
+    "RDate": "20170813",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 다른 제품에 비해 비싸네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "하나만 사서 그런지 사은품은 하나도 없네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763761",
+    "RawText": "별로에요. 가격이나 구성품이나 사은품 다 별로예요 그래서 별점 제일 낮은걸로 줍니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "5",
+    "Syllable": "47",
+    "Word": "11",
+    "RDate": "20170813",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이나 구성품이나 사은품 다 별로예요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성품이나 사은품 다 별로예요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품 다 별로예요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763778",
+    "RawText": "냄새가 좀 강하고 피부에 자극적이라서 부모님께서 다른걸로 주문해달라고 하시네요. 자극적이지 않은걸로 다시 주문해야겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "13",
+    "RDate": "20170906",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새가 좀 강하고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "피부에 자극적이라서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763833",
+    "RawText": "잿빛이 많이 나요. 그냥 밝은색으로 염색이 되길 바랬는데 그렇게 안나오네요. 여름엔 밝은 색으로만 염색을 하려고 하는데 발색이 많이 아쉬워요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "19",
+    "RDate": "20180708",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "발색력",
+        "SentimentText": "잿빛이 많이 나요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "그냥 밝은색으로 염색이 되길 바랬는데 그렇게 안나오네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "발색이 많이 아쉬워요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763834",
+    "RawText": "택배 배송도 빠르고 다른데보다 가격이 저렴해서 구매했는데 산화제가 12개 구매시에만 나가서 산화제를 따로 구매하려니 가격이 싼게 아니네요. 좀 용량 작은거라도 소용량일 때도 산화제를 주면 좋겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "5",
+    "Syllable": "111",
+    "Word": "25",
+    "RDate": "20180711",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴해서 구매했는데 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "산화제를 따로 구매하려니 가격이 싼게 아니네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "좀 용량 작은거라도 소용량일 때도 산화제를 주면 좋겠습니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763837",
+    "RawText": "저렴해서 구매했는데 산화제가 증정되지 않는다는걸 몰랐네요. 배송 받고나서 알았어요. 산화제를 따로 사서 하는거면 가격이 싼게 아니예요. 제 실수이긴 하지만 차라리 산화제까지 증정되는 다른곳에서 구매하는것이 나을거 같네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "3",
+    "Syllable": "123",
+    "Word": "26",
+    "RDate": "20180723",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴해서 구매했는데 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "산화제가 증정되지 않는다는걸 몰랐네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "산화제를 따로 사서 하는거면 가격이 싼게 아니예요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763864",
+    "RawText": "늘 여기서 염색약 구입하는데요 가격이 비싸졌네요. 사은품이였던 산화제도 따로 구매해야 하네요. 배송만 빠르네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "13",
+    "RDate": "20200208",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 비싸졌네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품이였던 산화제도 따로 구매해야 하네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763865",
+    "RawText": "항상 늘 여기서 구입하는데요. 가격이 좀 올랐네요. 배송은 여전히 빠릅니다. 이번에 구입한 염색약도 염색이 잘 되길 기대해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "17",
+    "RDate": "20200215",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 좀 올랐네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "이번에 구입한 염색약도 염색이 잘 되길 기대해요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "763869",
+    "RawText": "구입시 보내신 구성품은 별로에요. 구입하시는분들 참조하세요. 본품만 제품구성으로 되어 있으면 좋겠습니다. 제품구성의 업데이트가 필요한 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "5",
+    "Syllable": "82",
+    "Word": "16",
+    "RDate": "20200429",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구입시 보내신 구성품은 별로에요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "본품만 제품구성으로 되어 있으면 좋겠습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "제품구성의 업데이트가 필요한 것 같습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763879",
+    "RawText": "배송이 빠릅니다. 가격이 좀 비싸네요. 구성품인 산화제도 약간 강한 것 같네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "5",
+    "Syllable": "44",
+    "Word": "11",
+    "RDate": "20200606",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 좀 비싸네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성품인 산화제도 약간 강한 것 같네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763884",
+    "RawText": "집에서 염색하는거 좋은걸로 염색해야지 해서 가격이 비싼 걸로 샀어요. 확실히 미용실에서 염색할 때 보다는 머릿결 손상이 많이 가네요. 사용하기에 편하지 않습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "5",
+    "Syllable": "90",
+    "Word": "21",
+    "RDate": "20200304",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 비싼 걸로 샀어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "미용실에서 염색할 때 보다는 머릿결 손상이 많이 가네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기에 편하지 않습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763891",
+    "RawText": "유통기한이 임박한 2021년 12월 제품이 섞여 있어요. 용량도 작아요. 머릿결이 상했어요. 영양제도 같이 구매했어야 했나 봐요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "16",
+    "RDate": "20200326",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한이 임박한 2021년 12월 제품이 섞여 있어요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": " 용량도 작아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결이 상했어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763898",
+    "RawText": "단발에 한통이 부족한 양입니다. 발색도 마음에 안 들게 나왔습니다. 자극성도 있습니다. 다 하고 나서 머릿결이 뻣뻣해졌습니다. 머릿결이 많이 상했나봐요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "5",
+    "Syllable": "85",
+    "Word": "19",
+    "RDate": "20200424",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "단발에 한통이 부족한 양입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "발색도 마음에 안 들게 나왔습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "자극성도 있습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결이 뻣뻣해졌습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결이 많이 상했나봐요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763905",
+    "RawText": "빨리 도착했습니다. 주문한 다음날 저녁에 도착했어요. 도착 한날 염색 했어요. 여기가 가격이 비싼편이였네요. 산화제와 꼬리빗 비닐장갑까지 다 왔어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "5",
+    "Syllable": "83",
+    "Word": "18",
+    "RDate": "20201220",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "여기가 가격이 비싼편이였네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "산화제와 꼬리빗 비닐장갑까지 다 왔어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "763906",
+    "RawText": "가성비 너무 별로에요. 주문하고 다음날 저녁에 도착했어요. 도착해서 바로 염색했는데 염색이 잘 안됐어요. 새로 리뉴얼 되었는데 품질이 정말 별로네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "5",
+    "Syllable": "83",
+    "Word": "19",
+    "RDate": "20201220",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 너무 별로에요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색이 잘 안됐어요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 정말 별로네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763907",
+    "RawText": "배송은 빠르네요. 필요한 시간에 도착은 했습니다. 주문하고 다음날 저녁에 도착했어요. 머리 염색이 잘 안나왔어요. 가격도 비싸게 구매했는데요. 새로 리뉴얼 되어서 기대했는데 품질이 별로입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "5",
+    "Syllable": "107",
+    "Word": "23",
+    "RDate": "20201220",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "머리 염색이 잘 안나왔어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 비싸게 구매했는데요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 별로입니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763908",
+    "RawText": "염색제 오렌지 브라운색상인데 너무 색상이 연하네요. 염색할때 머리도 아프고 냄새도 안 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "5",
+    "Syllable": "53",
+    "Word": "12",
+    "RDate": "20201224",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "염색제 오렌지 브라운색상인데 너무 색상이 연하네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "염색할때 머리도 아프고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 안 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763916",
+    "RawText": "배송이 빠르네요. 다른 곳보다 비싸게 구매했어요. 사은품도 별로입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "5",
+    "Syllable": "39",
+    "Word": "8",
+    "RDate": "20210306",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "다른 곳보다 비싸게 구매했어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품도 별로입니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763921",
+    "RawText": "비싸게 구매했어요. 배송은 하루만에 받았어요. 사은품은 그닥 그렇습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "5",
+    "Syllable": "40",
+    "Word": "8",
+    "RDate": "20210319",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "비싸게 구매했어요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": " 사은품은 그닥 그렇습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "763922",
+    "RawText": "리뉴얼된 상품인데 품질은 아니네요. 가격만 비싸졌습니다. 제품구성에 볼을 포함시켜 주시면 좋겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "11",
+    "RDate": "20210322",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "리뉴얼된 상품인데 품질은 아니네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격만 비싸졌습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "제품구성에 볼을 포함시켜 주시면 좋겠습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763923",
+    "RawText": "배송 엄청 빨리 왔습니다. 2일만에 배송 빠르게 해주셨어요. 다른데 비해 가격은 좀 비싸지만 포장을 깔끔하게 잘해주셔서 너무 좋아요. 챙겨주신 브러쉬랑 볼도 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "5",
+    "Syllable": "93",
+    "Word": "22",
+    "RDate": "20210325",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "다른데 비해 가격은 좀 비싸지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "챙겨주신 브러쉬랑 볼도 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "763929",
+    "RawText": "셀프 염색하는데 사용하기 불편합니다. 배송은 빠릅니다. 다른 곳은 사은품으로 집게핀에 꼬리빗 비닐캡도 챙겨 주셨는데 여긴 없네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "16",
+    "RDate": "20210403",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "셀프 염색하는데 사용하기 불편합니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "다른 곳은 사은품으로 집게핀에 꼬리빗 비닐캡도 챙겨 주셨는데 여긴 없네요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763930",
+    "RawText": "사용하던 제품인데 가격이 많이 올랐네요. 가성비 별로네요. 사은품도 그닥 별로네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "5",
+    "Syllable": "46",
+    "Word": "10",
+    "RDate": "20210408",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가격이 많이 올랐네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 별로네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품도 그닥 별로네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763933",
+    "RawText": "비닐장갑이랑 빗 같은 사은품이 전혀 없네요. 유통기한도 임박한 걸로 보내셨네요. 리뉴얼 제품이라 가격만 비싸네요. 다시 구매 안할 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "5",
+    "Syllable": "80",
+    "Word": "19",
+    "RDate": "20210413",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "비닐장갑이랑 빗 같은 사은품이 전혀 없네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한도 임박한 걸로 보내셨네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "리뉴얼 제품이라 가격만 비싸네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763935",
+    "RawText": "처음 사용하는 제품입니다. 염색이 잘 안됩니다. 사은품으로 주신 염색빗도 넘 작아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "5",
+    "Syllable": "47",
+    "Word": "11",
+    "RDate": "20210415",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색이 잘 안됩니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품으로 주신 염색빗도 넘 작아요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "763946",
+    "RawText": "타 사이트보다 가격을 비싸게 구입했습니다. 다른 곳은 사은품으로 염색용그릇 빗 머리비닐 주는데 여긴 안 주네요. 다음에 여기서는 구매 안 할 것 같습니다 .",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 로** 앱솔루트 50g 1개",
+    "ReviewScore": "5",
+    "Syllable": "87",
+    "Word": "23",
+    "RDate": "20160204",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "타 사이트보다 가격을 비싸게 구입했습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "다른 곳은 사은품으로 염색용그릇 빗 머리비닐 주는데 여긴 안 주네요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  }
+]

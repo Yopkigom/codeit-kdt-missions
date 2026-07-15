@@ -1,0 +1,36 @@
+# Docker Compose 파일 설정
+services:
+  # 연구원2의 학습용 컨테이너 설정
+  trainer:
+    # Hub에 업로드된 yopkigom/student-perf-train:1.0 이미지를 사용
+    image: yopkigom/student-perf-train:1.0
+    # 컨테이너 실행 시 사용자 ID와 그룹 ID를 1000으로 설정
+    user: "1000:1000"
+    # 컨테이너 내부의 /app/output 디렉토리와 호스트의 ./shared 디렉토리를 마운트
+    volumes:
+      - ./shared:/app/output
+
+  # 연구원2의 Jupyter Notebook 컨테이너 설정
+  notebook:
+    # Dockerfile.jupyter 파일을 기반으로 이미지 빌드
+    build:
+      # Dockerfile.jupyter 파일이 위치한 현재 디렉토리를 컨텍스트로 설정
+      context: .
+      # Dockerfile.jupyter 파일을 사용하여 이미지 빌드
+      dockerfile: Dockerfile.jupyter
+    # 컨테이너 실행 시 사용자 ID와 그룹 ID를 1000으로 설정
+    user: "1000:1000"
+    # 컨테이너 내부의 HOME 환경 변수를 /tmp로 설정
+    environment:
+      - HOME=/tmp
+    # 호스트의 8888 포트를 컨테이너의 8888 포트에 매핑
+    ports:
+      - "8888:8888"
+    # 호스트의 현재 디렉토리를 컨테이너의 /work 디렉토리에 마운트
+    volumes:
+      - .:/work
+    # 의존 사항 설정
+    depends_on:
+      # trainer 서비스가 성공적으로 완료될 때까지 notebook 서비스 시작을 지연
+      trainer:
+        condition: service_completed_successfully

@@ -1,0 +1,14 @@
+{
+  "embedding_model": "nlpai-lab/KURE-v1",
+  "precision": "fp16",
+  "embedding_dim": 1024,
+  "pooling": "CLS",
+  "l2_normalized": true,
+  "use_prefix": false,
+  "chunk_target_tokens": 512,
+  "chunk_overlap_tokens": 64,
+  "n_chunks": 1345,
+  "doc_file": "2024년_원천징수의무자를_위한_연말정산신고안내.pdf",
+  "doc_sha256_16": "ae6447f2740dd212",
+  "onnx_fp16_file": "kure_v1_fp16.onnx"
+}

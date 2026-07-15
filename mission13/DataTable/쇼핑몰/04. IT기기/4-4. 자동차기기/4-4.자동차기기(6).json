@@ -1,0 +1,2826 @@
+[
+  {
+    "Index": "100644",
+    "RawText": "ㅇㅇㅇ 제품만 쓰는데 신모델 나와 구매 했는데 역시 좋네요. 근데 16GB라서 아쉬워요 저장 공간이 턱없이 부족 ㅜㅜ",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 LS500T 매립형,16GB",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "17",
+    "RDate": "20191005",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "제조일/제조사",
+        "SentimentText": "ㅇㅇㅇ 제품만 쓰는데 신모델 나와 구매 했는데 역시 좋네요 ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "근데 16GB라서 아쉬워요 저장 공간이 턱없이 부족 ㅜㅜ ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "100645",
+    "RawText": "터치방식이라 운전중 사용하기 편해서 만족합니다. 성능이 향상 되어 인식도 잘 되니 매우 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 LS500T 매립형,16GB",
+    "ReviewScore": "5",
+    "Syllable": "54",
+    "Word": "13",
+    "RDate": "20200909",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성",
+        "SentimentText": "터치방식이라 운전중 사용하기 편해서 만족합니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "성능이 향상 되어 인식도 잘 되니 매우 좋습니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "100646",
+    "RawText": "개봉 후에 제품에 미세한 기스들이 있어서 아주 불쾌합니다. 가격은 저렴하게 살 수있어서 좋았네요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 LS500T 매립형,16GB",
+    "ReviewScore": "2",
+    "Syllable": "53",
+    "Word": "13",
+    "RDate": "20191103",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "개봉 후에 제품에 미세한 기스들이 있어서 아주 불쾌합니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 저렴하게 살 수있어서 좋았네요 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "100647",
+    "RawText": "사이즈도 넉넉하니 잘 보이고 만족해요 단, 건물이나 지하에서 외부로 나올때 버벅거림과 위치찾는데 상당히 느려서 실망입니다 ㅜ ",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 LS500T 매립형,16GB",
+    "ReviewScore": "4",
+    "Syllable": "70",
+    "Word": "16",
+    "RDate": "20200313",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈도 넉넉하니 잘 보이고 만족해요 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "단, 건물이나 지하에서 외부로 나올때 버벅거림과 위치찾는데 상당히 느려서 실망입니다 ㅜ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "100648",
+    "RawText": "위치파악 기능이 별로네요. 수신이 약한듯 ㅠ.ㅠ 색상도 어두워서 칙칙해 보여 별로네요.",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 LS800T 16GB",
+    "ReviewScore": "3",
+    "Syllable": "48",
+    "Word": "11",
+    "RDate": "20220421",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "위치파악 기능이 별로네요. 수신이 약한듯 ㅠ.ㅠ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 어두워서 칙칙해 보여 별로네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "100649",
+    "RawText": "gps 성능 좋다더니 ㅠ.ㅠ 거짓말~ 가끔 못잡아서 속터져요. 가격은 좀 비싼편이라 더 별로네요.",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 LS800T 16GB",
+    "ReviewScore": "3",
+    "Syllable": "54",
+    "Word": "13",
+    "RDate": "20220402",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "gps 성능 좋다더니 ㅠ.ㅠ 거짓말~ 가끔 못잡아서 속터져요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 좀 비싼편이라 더 별로네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "100650",
+    "RawText": "외관 튼튼하고 내용물도 좋고 고퀄리티 품질이네요^^ 검정색이 고급스럽고 멋져요~",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 LS800T 16GB",
+    "ReviewScore": "5",
+    "Syllable": "44",
+    "Word": "9",
+    "RDate": "20210217",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "외관 튼튼하고 내용물도 좋고 고퀄리티 품질이네요^^",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "검정색이 고급스럽고 멋져요~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "100651",
+    "RawText": "올해 나온 신상품으로 최신제조라 만족합니다 장시간 이용시에도 발열도 없고 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 LS800T 16GB",
+    "ReviewScore": "5",
+    "Syllable": "44",
+    "Word": "10",
+    "RDate": "20210227",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제조일/제조사",
+        "SentimentText": "올해 나온 신상품으로 최신제조라 만족합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성",
+        "SentimentText": "장시간 이용시에도 발열도 없고 좋아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "100652",
+    "RawText": "자가 교체했는데 설치가 쉽지않아 힘들었어요ㅜㅜ 건물이나 지하에서 외부로 나와 위치를 빨리 못 찾고 버벅거려 불만",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 LS800T 16GB",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "15",
+    "RDate": "20210627",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "조작성",
+        "SentimentText": "자가 교체했는데 설치가 쉽지않아 힘들었어요ㅜㅜ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "건물이나 지하에서 외부로 나와 위치를 빨리 못 찾고 버벅거려 불만",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "100653",
+    "RawText": "22년식 최신 내비라 아주 좋네요 굿굿 매립방법 간단해서 아주 좋고 잘 쓰고 다녔습니다^^",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 LS800T 16GB",
+    "ReviewScore": "4",
+    "Syllable": "50",
+    "Word": "13",
+    "RDate": "20210917",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제조일/제조사",
+        "SentimentText": "22년식 최신 내비라 아주 좋네요 굿굿",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "매립방법 간단해서 아주 좋고 잘 쓰고 다녔습니다^^",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "100654",
+    "RawText": "단자가 약하고 거치대는 흡착력이 떨어집니다.. 정품 맞나요 ㅠㅠ? 그래도 gps 내장되어있어서 나름 유용합니다",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 LS800T 16GB",
+    "ReviewScore": "3",
+    "Syllable": "61",
+    "Word": "13",
+    "RDate": "20220116",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "단자가 약하고 거치대는 흡착력이 떨어집니다.. 정품 맞나요 ㅠㅠ?",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "그래도 gps 내장되어있어서 나름 유용합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "100655",
+    "RawText": "안테나,거치대 옵션이 없어서 아쉬워요... 그리고 타사제품은 호환도 안되게해서 실망입니다...",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 M500 매립형,16GB",
+    "ReviewScore": "4",
+    "Syllable": "52",
+    "Word": "9",
+    "RDate": "20190815",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "안테나,거치대 옵션이 없어서 아쉬워요...",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "그리고 타사제품은 호환도 안되게해서 실망입니다...",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "100656",
+    "RawText": "화면이 크니 보기 좋습니다 조작도 간단해서 어르신이 사용하기 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 M500 매립형,16GB",
+    "ReviewScore": "5",
+    "Syllable": "37",
+    "Word": "9",
+    "RDate": "20190922",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "화면이 크니 보기 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "조작도 간단해서 어르신이 사용하기 좋아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "100657",
+    "RawText": "8인치라 시원시원하게 크네요 굿굿 3D 네비게이션 화질이 선명하니 아주 좋아요^^",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 M500 매립형,16GB",
+    "ReviewScore": "4",
+    "Syllable": "45",
+    "Word": "10",
+    "RDate": "20210220",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "8인치라 시원시원하게 크네요 굿굿",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "화질",
+        "SentimentText": "3D 네비게이션 화질이 선명하니 아주 좋아요^^",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "100658",
+    "RawText": "같은 브랜드의 다른 제품 쓰다가 고장나서 OOO을 구매하였네요 3D지도가 아직은 익숙지 않아 불편하네요.. 안내음성이 또렷해서 길 찾을 때 많은 도움이 됩니다 ㅎㅎ",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 M500 매립형,16GB",
+    "ReviewScore": "4",
+    "Syllable": "91",
+    "Word": "22",
+    "RDate": "20210525",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성",
+        "SentimentText": "3D지도가 아직은 익숙지 않아 불편하네요..",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "안내음성이 또렷해서 길 찾을 때 많은 도움이 됩니다 ㅎㅎ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "100659",
+    "RawText": "원래 7인치 쓰다가 8인치로 바꿨는데 화면이 커지니 훨씬 잘 보이고 좋아요 그리고 목적지에 가까워지면 화면이 전환되는 기능도 만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 M500 매립형,16GB",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "18",
+    "RDate": "20220730",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "8인치로 바꿨는데 화면이 커지니 훨씬 잘 보이고 좋아요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "목적지에 가까워지면 화면이 전환되는 기능도 만족합니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "100660",
+    "RawText": "제가 네비로 티비를 가끔 보는데 생각보다 화면이 너무 선명해서 놀랐네요 ㅎㅎ 블루투스 조작도 쉬워서 와이프도 쉽게 하네요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 M500 매립형,16GB",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "17",
+    "RDate": "20191123",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "화질",
+        "SentimentText": "생각보다 화면이 너무 선명해서 놀랐네요 ㅎㅎ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "블루투스 조작도 쉬워서 와이프도 쉽게 하네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "100661",
+    "RawText": "온라인으로 구매해서 오프라인에서보다 훨씬 저렴하게 사서 만족합니다. 사용법도 간단해서 처음에도 버벅거리지 않고 잘 사용중입니다",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 M500 매립형,16GB",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "14",
+    "RDate": "20210116",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "온라인으로 구매해서 오프라인에서보다 훨씬 저렴하게 사서 만족합니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "사용법도 간단해서 처음에도 버벅거리지 않고 잘 사용중입니다 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "100662",
+    "RawText": "네비를 첨 써서 잘 모르겠지만 디자인은 심플하고 어떤 차에도 잘 어울릴 것 같아요. 블루투스 연결이 돼서 노래 들으면서 운전 잘 하고 있습니다! 많이 파세요 저는 마음에 듭니다 ~",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 M500 매립형,16GB",
+    "ReviewScore": "5",
+    "Syllable": "100",
+    "Word": "28",
+    "RDate": "20190815",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인은 심플하고 어떤 차에도 잘 어울릴 것 같아요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "블루투스 연결이 돼서 노래 들으면서 운전 잘 하고 있습니다!",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "100663",
+    "RawText": "안테나나 동글usb같은 건 세트로 판매해주세요 ㅠㅠ 개별로 구매해야돼서 너무 불편합니다..  그래도 내비 기능은 확실해서 운전할 때마다 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 M500 매립형,16GB",
+    "ReviewScore": "4",
+    "Syllable": "82",
+    "Word": "17",
+    "RDate": "20190725",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "안테나나 동글usb같은 건 세트로 판매해주세요 ㅠㅠ 개별로 구매해야돼서 너무 불편합니다..",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "내비 기능은 확실해서 운전할 때마다 만족합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "100664",
+    "RawText": "최신형이라 그런지 작동 완전 잘 돼요. 화면이 커서 길도 한 눈에 잘 보여서 굿굿^^",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 M500 매립형,16GB",
+    "ReviewScore": "5",
+    "Syllable": "47",
+    "Word": "14",
+    "RDate": "20211008",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "최신형이라 그런지 작동 완전 잘 돼요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "화면이 커서 길도 한 눈에 잘 보여서 굿굿^^",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "100665",
+    "RawText": "이 제품과 타사 제품을 같이 사용중인데 이거는 GPS연결이 됐다안됐다하니 제 기능을 못 하네요... 그리고 첨 받아서 설치할 때 살짝 부딪혔는데 잘 안 보이긴한데 스크레치가 났네요... 오늘 서비스를 신청하여 기다렸는데 부품이 없다길래 그냥 돌아왔답니다.",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 M800 16GB",
+    "ReviewScore": "5",
+    "Syllable": "142",
+    "Word": "33",
+    "RDate": "20211021",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "이거는 GPS연결이 됐다안됐다하니 제 기능을 못 하네요...",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성",
+        "SentimentText": "첨 받아서 설치할 때 살짝 부딪혔는데 잘 안 보이긴한데 스크레치가 났네요... ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "100666",
+    "RawText": "8인치는 커서 시야를 많이 가릴까 걱정했는데 크기가 딱 적당해서 불편한 점은 없네요. 건물 하나하나 표현된 거보고 내비 성능이 많이 향상된게 느껴지네요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 M800 16GB",
+    "ReviewScore": "5",
+    "Syllable": "84",
+    "Word": "21",
+    "RDate": "20210220",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "8인치는 커서 시야를 많이 가릴까 걱정했는데 크기가 딱 적당해서 불편한 점은 없네요",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "건물 하나하나 표현된 거보고 내비 성능이 많이 향상된게 느껴지네요 ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "100667",
+    "RawText": "이 브랜드 제품을 10년전에 구매해서 지금까지 잔고장없이 잘써서 또 OOO로 구매했습니다 확실히 신형이라 그런지 이전 모델과는 속도가 비교할 수 없을 정도로 빠르더군요 화면도 훨 커져서 교통정보들을 한 눈에 더 보기 쉬워요 이번것도 잔고장없이 10년썼으면 좋겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 NP500 마하 4GB",
+    "ReviewScore": "5",
+    "Syllable": "148",
+    "Word": "35",
+    "RDate": "20170326",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "신형이라 그런지 이전 모델과는 속도가 비교할 수 없을 정도로 빠르더군요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "화면도 훨 커져서 교통정보들을 한 눈에 더 보기 쉬워요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "100668",
+    "RawText": "OOO 쿠폰으로 저렴하게 구매했습니다. 사용법이 간단해서 불편함없이 잘 사용중인데 뭔가 액정이 생각보다 작아서 가끔 작은 글씨는 잘 안 보여요 ㅠㅠ 그래도 다음에도 이용할려고요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 NP500 마하 4GB",
+    "ReviewScore": "5",
+    "Syllable": "98",
+    "Word": "23",
+    "RDate": "20160511",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "OOO 쿠폰으로 저렴하게 구매했습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "사용법이 간단해서 불편함없이 잘 사용중인데",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "액정이 생각보다 작아서 가끔 작은 글씨는 잘 안 보여요 ㅠㅠ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "100669",
+    "RawText": "9년만에 OOO 내비를 구매했네요 일단 배송 빠르고 제품도 하자없이 양질의 제품 잘 도착했네요 이것저것 테스트 해본결과 부팅이랑 검색 속도가 완전 빨라서 만족합니다 수고하세요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 NP500 마하 4GB",
+    "ReviewScore": "5",
+    "Syllable": "97",
+    "Word": "23",
+    "RDate": "20170331",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "제품도 하자없이 양질의 제품 잘 도착했네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "부팅이랑 검색 속도가 완전 빨라서 만족합니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "100670",
+    "RawText": "물건 받고 설치한 다음날 부터 애가 이상하더니 재대로 작동이 안 돼서 어제 a/s 보내졌어요 ㅠ.ㅠ 그래도 사이즈는 제가 딱 생각한 크기라 제 차에도 딱 맞아서 만족",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 NP500 마하 4GB",
+    "ReviewScore": "1",
+    "Syllable": "92",
+    "Word": "26",
+    "RDate": "20161015",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "물건 받고 설치한 다음날 부터 애가 이상하더니 재대로 작동이 안 돼서 어제 a/s 보내졌어요 ㅠ.ㅠ",
+        "SentimentWord": "15",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈는 제가 딱 생각한 크기라 제 차에도 딱 맞아서 만족",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "100671",
+    "RawText": "4G면 충분할 줄 알았는데 용량이 넘 부족해서 SD카드는 8G로 바꿨구요..같이 온 거치대는 아무리 조정해도 수평이 안 맞아서 걍 뺏어요..",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 NP500 마하 4GB",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "19",
+    "RDate": "20170221",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용량",
+        "SentimentText": "4G면 충분할 줄 알았는데 용량이 넘 부족해서 SD카드는 8G로 바꿨구요..",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "같이 온 거치대는 아무리 조정해도 수평이 안 맞아서 걍 뺏어요..",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "100672",
+    "RawText": "아버지께 선물로 드렸는데 가격대비 성능이 아주 갠찮은거같아요 요즘 다 3D던데 아버지께서 쓰실 거라 2D로 사드렸는데 아주 만족하시네요 ㅎㅎ 안내음성도 크고 뚜렷해서 아버지께서 편하게 쓰시네요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 NP500 마하 4GB",
+    "ReviewScore": "5",
+    "Syllable": "107",
+    "Word": "24",
+    "RDate": "20160218",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "아버지께 선물로 드렸는데 가격대비 성능이 아주 갠찮은거같아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "안내음성도 크고 뚜렷해서 아버지께서 편하게 쓰시네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "100673",
+    "RawText": "군더더기없이 딱 필요한 기능만 있어서 만족합니다. 무엇보다 내비 중에 쩰 가성비 관찮은 상품이라 생각합니다. 외장형으로 쓰기에 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 NP500 마하 4GB",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "17",
+    "RDate": "20160218",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "군더더기없이 딱 필요한 기능만 있어서 만족합니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "무엇보다 내비 중에 쩰 가성비 관찮은 상품이라 생각합니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "100674",
+    "RawText": "생각했던 것보다 가성비가 좋아서 만족합니다. 다만 주행시 현재시간과 예상도착시간이 안 떠서 아쉬워요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 NP500 마하 4GB",
+    "ReviewScore": "4",
+    "Syllable": "55",
+    "Word": "12",
+    "RDate": "20160704",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "생각했던 것보다 가성비가 좋아서 만족합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "주행시 현재시간과 예상도착시간이 안 떠서 아쉬워요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "100675",
+    "RawText": "사용법이 쓸데없이 복잡하지 않고 단순해서 편함. 화면 크기도 적당해서 지도 보기 쉬움.  3d 지도에 익숙해있어서 2d지도에 살짝 어색하고 불편함이 있음 그리고 전원 케이블선이 일자형이라 지저분해보이는게 단점 ...",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 NP500 마하 4GB",
+    "ReviewScore": "3",
+    "Syllable": "120",
+    "Word": "27",
+    "RDate": "20160214",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "조작성",
+        "SentimentText": "사용법이 쓸데없이 복잡하지 않고 단순해서 편함",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "화면 크기도 적당해서 지도 보기 쉬움",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "3d 지도에 익숙해있어서 2d지도에 살짝 어색하고 불편함이 있음",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "전원 케이블선이 일자형이라 지저분해보이는게 단점 ...",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "100676",
+    "RawText": "생각보다 가격이 저렴해서 기분이 좋네요 ㅎㅎ 전에는 핸펀으로 내비 봤는데 화면 작고 따로 앱 켜느라 시간이 많이 걸려서 불편해서 내비 하나 장만했습니다. 이건 차에 타자마자 작동돼서 넘 편하고 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 NP500 마하 4GB",
+    "ReviewScore": "5",
+    "Syllable": "111",
+    "Word": "29",
+    "RDate": "20160201",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "생각보다 가격이 저렴해서 기분이 좋네요 ㅎㅎ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "이건 차에 타자마자 작동돼서 넘 편하고 좋아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "100677",
+    "RawText": "착한 가격에 점수를 더더 주고 싶습니다.. 화면 크키도 적절해서 길 잘 보이고 화질도 선명해서 보는 재미가 있네요 ㅎㅎ 디자인도 무난해서 어디든 잘 어울립니다. 신호잡는 속도나 검색 속도도 아주 빠릅니다~~~ 흠잡을 데가 없습니다....",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 NP500 마하 4GB",
+    "ReviewScore": "5",
+    "Syllable": "132",
+    "Word": "32",
+    "RDate": "20160319",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "착한 가격에 점수를 더더 주고 싶습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "화면 크키도 적절해서 길 잘 보이고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "화질",
+        "SentimentText": "화질도 선명해서 보는 재미가 있네요 ㅎㅎ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 무난해서 어디든 잘 어울립니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "신호잡는 속도나 검색 속도도 아주 빠릅니다~~~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "100678",
+    "RawText": "역시 네비는 OOO! 회사 네비로 3번째 구매중 한 번 사면 고장이 잘 안 나서 오래오래 쓰는 중. 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 NP500 마하 4GB",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "18",
+    "RDate": "20160523",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제조일/제조사",
+        "SentimentText": "역시 네비는 OOO!",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성",
+        "SentimentText": "한 번 사면 고장이 잘 안 나서 오래오래 쓰는 중.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "100679",
+    "RawText": "사이즈는 일반 네이게이션과 별 다른 게 없어 쓸 만 해요.  디자인도 깔끔해서 괜찮습니다. 또한 거슬리는 색상도 아니고 무난해서 쓰기 좋아 요.  터치스크린은 기대보다 조금 예민하지 못한 느낌이 있어 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 NP500 마하 4GB",
+    "ReviewScore": "3",
+    "Syllable": "117",
+    "Word": "29",
+    "RDate": "20160416",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈는 일반 네이게이션과 별 다른 게 없어 쓸 만 해요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 디자인도 깔끔해서 괜찮습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "거슬리는 색상도 아니고 무난해서 쓰기 좋아 요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "터치스크린은 기대보다 조금 예민하지 못한 느낌이 있어 아쉽네요.  ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "100680",
+    "RawText": "전에도 OOO를 쓰고 있어서 큰 불편함없이 사용중입니다. 무엇보다 전 거보다 전체적으로 부팅 속도가 빨라진게 너무 맘에 드네요. 근데 아쉬운 점은 지도 업데이트가 너무 느려 내비의 제기능을 하지못하네요.....이상한길로 알려줘요 ㅠ",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 NP500 마하 4GB",
+    "ReviewScore": "4",
+    "Syllable": "129",
+    "Word": "29",
+    "RDate": "20160701",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "전 거보다 전체적으로 부팅 속도가 빨라진게 너무 맘에 드네요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "아쉬운 점은 지도 업데이트가 너무 느려 내비의 제기능을 하지못하네요.....이상한길로 알려줘요 ㅠ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "100681",
+    "RawText": "음 일단 내비 사용법이 너무 부족해서 조작하기 너무 힘들어요 ㅠㅠ 그리고 차가 크게 덜컹거리면 충격으로 지혼자 리부팅됩니다..진짜 짱나요~",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 NP500 마하 4GB",
+    "ReviewScore": "1",
+    "Syllable": "77",
+    "Word": "18",
+    "RDate": "20160419",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "조작성",
+        "SentimentText": "내비 사용법이 너무 부족해서 조작하기 너무 힘들어요 ㅠㅠ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "차가 크게 덜컹거리면 충격으로 지혼자 리부팅됩니다..진짜 짱나요~",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "100682",
+    "RawText": "전에 사용하던 제품보다 반응이 빨라 답답하지 않아 마음에 들어요 설명서가 있지만 네비게이션에 대한 사용법 설명이 아주 부족해서 불편해요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 NP500 마하 4GB",
+    "ReviewScore": "4",
+    "Syllable": "75",
+    "Word": "18",
+    "RDate": "20170311",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "전에 사용하던 제품보다 반응이 빨라 답답하지 않아 마음에 들어요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "설명서가 있지만 네비게이션에 대한 사용법 설명이 아주 부족해서 불편해요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "100683",
+    "RawText": "메모리가 좀 부족해서 추가한 부분은 좀 아쉽네요.  오디오 인터페이스 연동은 부드럽게 잘 되어 만족하고 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 NP500 마하 4GB",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "15",
+    "RDate": "20170408",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용량",
+        "SentimentText": "메모리가 좀 부족해서 추가한 부분은 좀 아쉽네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "오디오 인터페이스 연동은 부드럽게 잘 되어 만족하고 있습니다.  ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "100684",
+    "RawText": "여기저기 찾아봐서 최저가에 잘 구매한듯싶어요 근데 조작법이 좀 어려워서 서비스 센터에까지 전화했네요 ...ㅎ",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 NP500 마하 4GB",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "13",
+    "RDate": "20170429",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "여기저기 찾아봐서 최저가에 잘 구매한듯싶어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "조작법이 좀 어려워서 서비스 센터에까지 전화했네요 ...ㅎ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "100685",
+    "RawText": "물건 받고 부팅했는데 무슨 몇 초만에 끝나네요 ㄷ ㄷ 속도 빨라서 좋네요 ㅎㅎ2d 내비 중에서 제일 무난하고 가성비 좋은 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 NP500 마하 4GB",
+    "ReviewScore": "4",
+    "Syllable": "75",
+    "Word": "21",
+    "RDate": "20170304",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "부팅했는데 무슨 몇 초만에 끝나네요 ㄷ ㄷ 속도 빨라서 좋네요 ㅎㅎ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "2d 내비 중에서 제일 무난하고 가성비 좋은 것 같습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "100686",
+    "RawText": "업데이트도 자동으로 잘 돼서 좋습니다.  7인치라서 조금 화면이 답답하네요 ㅜㅜ",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 NP500 마하 4GB",
+    "ReviewScore": "5",
+    "Syllable": "44",
+    "Word": "10",
+    "RDate": "20161020",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "업데이트도 자동으로 잘 돼서 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "7인치라서 조금 화면이 답답하네요 ㅜㅜ ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "100687",
+    "RawText": "부모님 선물로 사드렸습니다~ OOO제품이라 믿고 바로 사드렸어요 사용법 간단해서 부모님도 편하게 사용중이십니다~번창하세요~",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 NP500 마하 4GB",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "12",
+    "RDate": "20160318",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제조일/제조사",
+        "SentimentText": "OOO제품이라 믿고 바로 사드렸어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "사용법 간단해서 부모님도 편하게 사용중이십니다~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "100688",
+    "RawText": "제조년도가 2015년도라 그런지 지도 업데이트가 안돼있네요..ㅠ 2017년 지도로 깔려있습니다 참고하세요. 그래도 흠집이나 하자없는 좋은 제품 받았습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 NP500 마하 4GB",
+    "ReviewScore": "4",
+    "Syllable": "86",
+    "Word": "16",
+    "RDate": "20170325",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "제조일/제조사",
+        "SentimentText": "제조년도가 2015년도라 그런지 지도 업데이트가 안돼있네요..ㅠ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "흠집이나 하자없는 좋은 제품 받았습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "100690",
+    "RawText": "4GB 전국 지도 업그레이드 하기 상당히 부족합니다. .gps수신도 느려 답답해요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 NP500 마하 4GB",
+    "ReviewScore": "1",
+    "Syllable": "45",
+    "Word": "10",
+    "RDate": "20160726",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용량",
+        "SentimentText": "4GB 전국 지도 업그레이드 하기 상당히 부족합니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "gps수신도 느려 답답해요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "100691",
+    "RawText": "전에 쓰던 내비들과 달리 유용한 기능이 많아서 쓰는 재미가 있습니다. 또한 저렴한 가격에 이런 좋은 제품을 살 수 있어서 감사합니다! 사장님!  어제 매립 완료해서 고속도로 잘 달리고 왔습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 NP500 마하 4GB",
+    "ReviewScore": "5",
+    "Syllable": "108",
+    "Word": "28",
+    "RDate": "20181226",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "전에 쓰던 내비들과 달리 유용한 기능이 많아서 쓰는 재미가 있습니다",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 이런 좋은 제품을 살 수 있어서 감사합니다!",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "100692",
+    "RawText": "할인중이라 가성비가 좋아요 강추! 다만 유리부착형이어서 제기준 설치가 번거로웠어요 ㅠ",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 NP500 마하 4GB",
+    "ReviewScore": "4",
+    "Syllable": "47",
+    "Word": "10",
+    "RDate": "20170417",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인중이라 가성비가 좋아요 강추!",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "다만 유리부착형이어서 제기준 설치가 번거로웠어요 ㅠ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "100693",
+    "RawText": "생각보다 색상이 칙칙해서 별로에요 ㅠ 장시간 이용시 약간의 발열이 느껴지네요 ;;",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 NP500 마하 4GB",
+    "ReviewScore": "3",
+    "Syllable": "45",
+    "Word": "11",
+    "RDate": "20170519",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "생각보다 색상이 칙칙해서 별로에요 ㅠ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성",
+        "SentimentText": "장시간 이용시 약간의 발열이 느껴지네요 ;;",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "100694",
+    "RawText": "가성비가 아주 좋네요 맘에 들어요^^ 구성품에 후방 카메라도 잘받았어요 감사합니다",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 NP500 마하 4GB",
+    "ReviewScore": "5",
+    "Syllable": "45",
+    "Word": "10",
+    "RDate": "20160211",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비가 아주 좋네요 맘에 들어요^^",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성품에 후방 카메라도 잘받았어요 감사합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "100695",
+    "RawText": "블렉박스가 스마트폰이랑 구동이 안돼서 매우 실망이에요 ㅠ 그리고 무게도 꽤 무겁네요...;;",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 NP500 마하 4GB",
+    "ReviewScore": "1",
+    "Syllable": "51",
+    "Word": "11",
+    "RDate": "20160324",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "블렉박스가 스마트폰이랑 구동이 안돼서 매우 실망이에요 ㅠ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "그리고 무게도 꽤 무겁네요...;;",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "100696",
+    "RawText": "할인 많이 받아서 가성비 완전 만족합니다. 성능도 좋고 보기편하게 구성이 잘되있어 좋습니다.  ",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 NP500 마하 4GB",
+    "ReviewScore": "3",
+    "Syllable": "53",
+    "Word": "12",
+    "RDate": "20160506",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인 많이 받아서 가성비 완전 만족합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "성능도 좋고 보기편하게 구성이 잘되있어 좋습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "100697",
+    "RawText": "디자인이 플랫하면서 슬림하니 아주 만족하구요^^ 색상도 검정이 고급스러워보여요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 NP500 마하 4GB",
+    "ReviewScore": "5",
+    "Syllable": "43",
+    "Word": "8",
+    "RDate": "20161214",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 플랫하면서 슬림하니 아주 만족하구요^^",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 검정이 고급스러워보여요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "100698",
+    "RawText": "제품 외관상의 마감도 깔끔하고 기스하나없이 너무 좋습니다. 초보운전자가 보기에 화질도 선명하고 뚜렷해보여서 만족해요 조작법도 간단하고 작동하기 쉬워서 좋아요 그리고 길안내도 빨리빨리 안내해 주어서 좋습니다. ",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 NP500 마하 4GB",
+    "ReviewScore": "5",
+    "Syllable": "116",
+    "Word": "24",
+    "RDate": "20160309",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "제품 외관상의 마감도 깔끔하고 기스하나없이 너무 좋습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "화질",
+        "SentimentText": "초보운전자가 보기에 화질도 선명하고 뚜렷해보여서 만족해요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "조작법도 간단하고 작동하기 쉬워서 좋아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "그리고 길안내도 빨리빨리 안내해 주어서 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "100699",
+    "RawText": "가격할인받아 저렴하게 구입했어요 굿굿 설치도 매우 쉽고 설명서도 잘 나와있어서 간단하게 설치했어요 대만족^^",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 NP500 마하 4GB",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "13",
+    "RDate": "20160222",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격할인받아 저렴하게 구입했어요 굿굿",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "설치도 매우 쉽고 설명서도 잘 나와있어서 간단하게 설치했어요 대만족^^",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "100700",
+    "RawText": "거치대가 수평이 안맞아요.. 불량인가요.. ㅜㅜ 그리고 색상도 무광이라 기스가 잘보여요 ㅠㅠ",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 NP500 마하 4GB",
+    "ReviewScore": "5",
+    "Syllable": "51",
+    "Word": "11",
+    "RDate": "20170728",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "거치대가 수평이 안맞아요.. 불량인가요.. ㅜㅜ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "그리고 색상도 무광이라 기스가 잘보여요 ㅠㅠ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "100701",
+    "RawText": "내장된 4G메모리는 지도업데이트 하기에는 용량이 부족해서 아쉽네요 업데이트하는데 복잡하게 느껴져서 시간이 오래걸렸어요 ㅜ",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 NP500 마하 4GB",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "13",
+    "RDate": "20170425",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용량",
+        "SentimentText": "내장된 4G메모리는 지도업데이트 하기에는 용량이 부족해서 아쉽네요 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "업데이트하는데 복잡하게 느껴져서 시간이 오래걸렸어요 ㅜ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "100702",
+    "RawText": "반응이 상당히 스피드해서 답답함이나 기다림없어서 좋습니다. 디자인도 심플하면서 무난하니 질리지 않아서 좋구요 초보자가 보기에도 아주 쉽게 길안내를 해주니 상당히 편리합니다.^^ 품질도 좋고 가격도 저렴해서 가성비가 매우 좋아요 ",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 NP500 마하 4GB",
+    "ReviewScore": "3",
+    "Syllable": "127",
+    "Word": "27",
+    "RDate": "20160327",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "반응이 상당히 스피드해서 답답함이나 기다림없어서 좋습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 심플하면서 무난하니 질리지 않아서 좋구요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "초보자가 보기에도 아주 쉽게 길안내를 해주니 상당히 편리합니다.^^ ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "품질도 좋고 가격도 저렴해서 가성비가 매우 좋아요  ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "100703",
+    "RawText": "조작법이 간단하고 쉬워서 구매했는데 역시 좋습니다. 단, 4기가 용량이 작아서 업데이트하기에는 무리가 있어서 아쉽네요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 NP500 마하 4GB",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "14",
+    "RDate": "20170531",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "조작성",
+        "SentimentText": "조작법이 간단하고 쉬워서 구매했는데 역시 좋습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "단, 4기가 용량이 작아서 업데이트하기에는 무리가 있어서 아쉽네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "100704",
+    "RawText": "다른 네비보다 사용법이 간단하고 쉬워서 만족합니다. 가격도 저렴하게 구매 할 수있어서 만족하구요 기능도 충실하고 각 기능의 성능이 매우 좋습니다 굿~ ",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 NP500 마하 4GB",
+    "ReviewScore": "5",
+    "Syllable": "84",
+    "Word": "20",
+    "RDate": "20170531",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "조작성",
+        "SentimentText": "다른 네비보다 사용법이 간단하고 쉬워서 만족합니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하게 구매 할 수있어서 만족하구요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "기능도 충실하고 각 기능의 성능이 매우 좋습니다 굿~  ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "100705",
+    "RawText": "지도만 이용할때 4기가도 충분해서 만족합니다. 가격도 제일 저렴하게 잘사서 기뻐요 ㅎㅎ",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 NP500 마하 4GB",
+    "ReviewScore": "4",
+    "Syllable": "48",
+    "Word": "11",
+    "RDate": "20160308",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량",
+        "SentimentText": "지도만 이용할때 4기가도 충분해서 만족합니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 제일 저렴하게 잘사서 기뻐요 ㅎㅎ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "100706",
+    "RawText": "구성품에 있는 거치대와 전원선이 사제품 짝퉁 보내주셔서  기분이 상당히 나쁨! 화질도 완전 싼티 팍팍 흐리멍텅해요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 NP500 마하 4GB",
+    "ReviewScore": "1",
+    "Syllable": "63",
+    "Word": "15",
+    "RDate": "20180122",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성품에 있는 거치대와 전원선이 사제품 짝퉁 보내주셔서  기분이 상당히 나쁨!",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "화질",
+        "SentimentText": "화질도 완전 싼티 팍팍 흐리멍텅해요 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "100707",
+    "RawText": "업그레이드가 평생무료인데다 간편하게 할 수있어서 아주 좋아요 그리고 부팅속도도 상당히 빨라서 만족스럽습니다. ",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 NP500 마하 4GB",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "12",
+    "RDate": "20160414",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "조작성",
+        "SentimentText": "업그레이드가 평생무료인데다 간편하게 할 수있어서 아주 좋아요 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "그리고 부팅속도도 상당히 빨라서 만족스럽습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "100708",
+    "RawText": "업데이트 해봤는데 매우 빨라서 좋았어요 거치형이라 차량에 부착하면 되니까 상당히 편리한점이 마음에 듭니다^^",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 NP500 마하 4GB",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "13",
+    "RDate": "20160129",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "업데이트 해봤는데 매우 빨라서 좋았어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "거치형이라 차량에 부착하면 되니까 상당히 편리한점이 마음에 듭니다^^ ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "100709",
+    "RawText": "가격대가 제일 저렴해서 아주 만족해요 사은품으로 들어있는 주유권이 누구나 쓸 수있는건 아니여서 안타깝네요 ㅜ",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 NP500 마하 4GB",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "14",
+    "RDate": "20170621",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대가 제일 저렴해서 아주 만족해요 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품으로 들어있는 주유권이 누구나 쓸 수있는건 아니여서 안타깝네요 ㅜ ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "100710",
+    "RawText": "구매할때마다 화질도 선명하고 색감이 좋아서 만족합니다. 가볍기때문에 차유리에  달아놓고 쓰기에 떨어지지 않고 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 NP500 마하 4GB",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "13",
+    "RDate": "20160722",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "화질",
+        "SentimentText": "구매할때마다 화질도 선명하고 색감이 좋아서 만족합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍기때문에 차유리에  달아놓고 쓰기에 떨어지지 않고 좋아요  ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "100711",
+    "RawText": "부팅 속도가 굉장히 빠른점이 마음에 듭니다. 디자인도 심플하니 깔끔해 보여서 좋구요 길안내도 빠른길로 잘 안내해주고 성능이 우수해요 굿~ ",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 NP500 마하 4GB",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "18",
+    "RDate": "20160901",
+    "Aspects": [
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "부팅 속도가 굉장히 빠른점이 마음에 듭니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 심플하니 깔끔해 보여서 좋구요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "길안내도 빠른길로 잘 안내해주고 성능이 우수해요 굿~  ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "100712",
+    "RawText": "화질은 깨끗해서 나쁘지 않은데 90년대 느낌나는 UI 디자인이라 너무 촌스러워요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 NP500 마하 4GB",
+    "ReviewScore": "5",
+    "Syllable": "44",
+    "Word": "10",
+    "RDate": "20160409",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "화질",
+        "SentimentText": "화질은 깨끗해서 나쁘지 않은데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "90년대 느낌나는 UI 디자인이라 너무 촌스러워요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "100713",
+    "RawText": "일단 최저가로 구매할 수있어서 제일 만족하는 부분이예요 그런데 생각보다 부팅속도가 한참 걸려서 오래 기다려야하고 아쉽네요 ㅜ",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 NP500 마하 4GB",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "16",
+    "RDate": "20161115",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "일단 최저가로 구매할 수있어서 제일 만족하는 부분이예요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "그런데 생각보다 부팅속도가 한참 걸려서 오래 기다려야하고 아쉽네요 ㅜ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "100714",
+    "RawText": "세일 기간으로 저렴하게 구매해서 좋아요 그리고 터치 속도도 굉장히 빨라서 기다림없이 아주 마음에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 NP500 마하 4GB",
+    "ReviewScore": "1",
+    "Syllable": "58",
+    "Word": "14",
+    "RDate": "20160211",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "세일 기간으로 저렴하게 구매해서 좋아요 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "그리고 터치 속도도 굉장히 빨라서 기다림없이 아주 마음에 듭니다. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "100715",
+    "RawText": "일단 가격은 저렴하게 최저가로 구매할 수있어서 좋았어요 단, 어른들 보시기에 길안내도 느리고 반응도 느린것같아서 아쉽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 NP500 마하 4GB",
+    "ReviewScore": "4",
+    "Syllable": "69",
+    "Word": "15",
+    "RDate": "20170204",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "일단 가격은 저렴하게 최저가로 구매할 수있어서 좋았어요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "단, 어른들 보시기에 길안내도 느리고 반응도 느린것같아서 아쉽습니다.   ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "100717",
+    "RawText": "사용중 오류가 나거나 전원이 안들어올때 아주 당황스러워요 그것 빼고는 부팅속도나 터치반응이 신속해서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 NP500 마하 4GB",
+    "ReviewScore": "4",
+    "Syllable": "61",
+    "Word": "13",
+    "RDate": "20160302",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "사용중 오류가 나거나 전원이 안들어올때 아주 당황스러워요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "그것 빼고는 부팅속도나 터치반응이 신속해서 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "100718",
+    "RawText": "일단 간편한 조작이 쉬워서 만족스러워요 가격도 착한편이라 더 바랄게 없이 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 NP500 마하 4GB",
+    "ReviewScore": "5",
+    "Syllable": "47",
+    "Word": "11",
+    "RDate": "20160505",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "조작성",
+        "SentimentText": "일단 간편한 조작이 쉬워서 만족스러워요 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 착한편이라 더 바랄게 없이 만족합니다.  ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "100719",
+    "RawText": "교환했는데 처음 받은 제품에 기스가 너무 많고 깔끔하지 않아서 불쾌했네요 ㅜ  그래도 gps신호도 빵빵해서 사용하는데도 편해서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 NP500 마하 4GB",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "17",
+    "RDate": "20160215",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "교환했는데 처음 받은 제품에 기스가 너무 많고 깔끔하지 않아서 불쾌했네요 ㅜ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "그래도 gps신호도 빵빵해서 사용하는데도 편해서 좋습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "100720",
+    "RawText": "저렴한 가격대에 구매해서 좋아요 사용법도 간단하고 업데이트도 별도의 조작없이 잘 되서 아주 좋아요 업데이트도 빠르게 잘되어 만족해요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 NP500 마하 4GB",
+    "ReviewScore": "4",
+    "Syllable": "73",
+    "Word": "17",
+    "RDate": "20160824",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격대에 구매해서 좋아요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "사용법도 간단하고 업데이트도 별도의 조작없이 잘 되서 아주 좋아요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "100721",
+    "RawText": "GPS수신이나 지도 맵 변경 성능이 너무 좋아서 같은 모델로 여러 개 주문했어요.  기본 메모리 용량이 너무 적어 업그레이드 한 번만 해도 부족하다고 떠서 아쉬워요!!",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 NP500 마하 4GB",
+    "ReviewScore": "5",
+    "Syllable": "93",
+    "Word": "24",
+    "RDate": "20170509",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "GPS수신이나 지도 맵 변경 성능이 너무 좋아서 같은 모델로 여러 개 주문했어요. ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "기본 메모리 용량이 너무 적어 업그레이드 한 번만 해도 부족하다고 떠서 아쉬워요!!  ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "100722",
+    "RawText": "화면 크기가 적당해서 보는데도 불편하지 않고 만족해요 그리고 조작법도 간편하고 쉬워서 아주 좋아요  ",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 NP500 마하 4GB",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "13",
+    "RDate": "20170401",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "화면 크기가 적당해서 보는데도 불편하지 않고 만족해요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "그리고 조작법도 간편하고 쉬워서 아주 좋아요 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "100723",
+    "RawText": "화면에 보호 필름이 붙어 있지 않아서 벌써 기스가 났네요 ㅠㅠ .. 그리고 음성 안내 볼륨도 최대치로 해도 작아서 네비 볼 때 별로에요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 X3 64GB",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "22",
+    "RDate": "20200730",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "화면에 보호 필름이 붙어 있지 않아서 벌써 기스가 났네요 ㅠㅠ ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "음성 안내 볼륨도 최대치로 해도 작아서 네비 볼 때 별로에요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "100724",
+    "RawText": "네비의 외관상의 마감도 깔끔해고 퀄리티는 우수해서 만족해요 다만 성능이 좋은건 아니여서 버벅거림있고 사용하는데 무리가 있습니다. 아쉽네요  ",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 X3 64GB",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "16",
+    "RDate": "20171105",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "네비의 외관상의 마감도 깔끔해고 퀄리티는 우수해서 만족해요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "다만 성능이 좋은건 아니여서 버벅거림있고 사용하는데 무리가 있습니다. 아쉽네요 ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "100725",
+    "RawText": "네비 퀄리티가 좋아서 만족스럽네요. 화면을 힘주어 꾹꾹 눌러줘야해서 터치가 힘듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 X3 64GB",
+    "ReviewScore": "3",
+    "Syllable": "47",
+    "Word": "10",
+    "RDate": "20180730",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "네비 퀄리티가 좋아서 만족스럽네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "화면을 힘주어 꾹꾹 눌러줘야해서 터치가 힘듭니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "100726",
+    "RawText": "매립해서 사용하는데 디자인도 무난해서 이질감이 없어서 아주 좋아요 미러링이 안되는건 아쉽지만 핫스팟이용해서 실시간 네비기능이 잘되는점은 만족스럽네요 ",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "아이나비 팅크웨어 X3 64GB",
+    "ReviewScore": "5",
+    "Syllable": "83",
+    "Word": "16",
+    "RDate": "20211201",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "매립해서 사용하는데 디자인도 무난해서 이질감이 없어서 아주 좋아요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": " 미러링이 안되는건 아쉽지만 핫스팟이용해서 실시간 네비기능이 잘되는점은 만족스럽네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "100727",
+    "RawText": "케이블이 구성이 안되어있어 제 차는 USB C타입 젠더를 추가로 구매를 해야하는점이 아쉬웠습니다. 부팅시간은 상당히 걸리기 때문에 그것도 좀 안타깝네요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "엠기어스 엠스틱 MG-S01 16GB",
+    "ReviewScore": "3",
+    "Syllable": "84",
+    "Word": "19",
+    "RDate": "20210828",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "케이블이 구성이 안되어있어 제 차는 USB C타입 젠더를 추가로 구매를 해야하는점이 아쉬웠습니다.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "부팅시간은 상당히 걸리기 때문에 그것도 좀 안타깝네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "100728",
+    "RawText": "가격이 기존에 제가 쓰던 모델 보다 반 값 밖에 안되어 완전 좋았습니다.  그 가격에 성능은 2배 더 좋아서 참 잘 만든 제품이라 생각이 들어요.",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "엠기어스 엠스틱 MG-S01 16GB",
+    "ReviewScore": "5",
+    "Syllable": "81",
+    "Word": "24",
+    "RDate": "20210905",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 기존에 제가 쓰던 모델 보다 반 값 밖에 안되어 완전 좋았습니다.  ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "그 가격에 성능은 2배 더 좋아서 참 잘 만든 제품이라 생각이 들어요. ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "100729",
+    "RawText": "연결이 되었다 안되었다 아주 당황스럽습니다. 그리고 차량블루투스 통화가 호환이 안되어 전화기로 통화해야하는 부분이 아쉽습니다. 화면보다 사이즈도 큰편이라 제차에는 겨우 자리잡느라 애먹었네요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "엠기어스 엠스틱 MG-S01 16GB",
+    "ReviewScore": "1",
+    "Syllable": "105",
+    "Word": "21",
+    "RDate": "20210716",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "연결이 되었다 안되었다 아주 당황스럽습니다. 그리고 차량블루투스 통화가 호환이 안되어 전화기로 통화해야하는 부분이 아쉽습니다.",
+        "SentimentWord": "14",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "화면보다 사이즈도 큰편이라 제차에는 겨우 자리잡느라 애먹었네요 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "100730",
+    "RawText": "USB 젠더는 구성이 안되어있어서 따로 구매해야하는 점이 아쉬웠습니다. 중간에 간헐적 끊김 현상이 있어서 당황스럽네요 ㅜ",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "엠기어스 엠스틱 MG-S01 16GB",
+    "ReviewScore": "4",
+    "Syllable": "67",
+    "Word": "15",
+    "RDate": "20210428",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": " USB 젠더는 구성이 안되어있어서 따로 구매해야하는 점이 아쉬웠습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "중간에 간헐적 끊김 현상이 있어서 당황스럽네요 ㅜ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "100731",
+    "RawText": "USB만 꽂기만 바로 설치와 사용 준비 완료가 되니 간편하네요.   크기도 작으니 휴대성도 좋아서 유용하게 잘 쓰고 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "엠기어스 엠스틱 MG-S01 16GB",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "17",
+    "RDate": "20210507",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "조작성",
+        "SentimentText": "USB만 꽂기만 바로 설치와 사용 준비 완료가 되니 간편하네요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "크기도 작으니 휴대성도 좋아서 유용하게 잘 쓰고 있습니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "100732",
+    "RawText": "반응 속도는 사실 휴대폰과 비교해서는 느립니다.  동영상 위주로 쓰고 있는데, 어플 실행도 잘 되니 즐겨 쓰고 있어요.",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "엠기어스 엠스틱 MG-S01 16GB",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "17",
+    "RDate": "20220303",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "반응 속도는 사실 휴대폰과 비교해서는 느립니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "동영상 위주로 쓰고 있는데, 어플 실행도 잘 되니 즐겨 쓰고 있어요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "100733",
+    "RawText": "제 기대보다는 네비게이션 성능이 떨어져 좀 아쉬워요.  하지만 제가 원하는 프로그램을 사용할 수 있어서 그 부분은 만족해요.  정품 USB 통한 음악 재생은 안 먹혀서 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "엠기어스 엠스틱 MG-S01 16GB",
+    "ReviewScore": "4",
+    "Syllable": "99",
+    "Word": "25",
+    "RDate": "20210828",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "제 기대보다는 네비게이션 성능이 떨어져 좀 아쉬워요.  ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": " 제가 원하는 프로그램을 사용할 수 있어서 그 부분은 만족해요.  ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "정품 USB 통한 음악 재생은 안 먹혀서 아쉽네요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "100734",
+    "RawText": "기기 쓸 때마다 핫스팟 연결을 해야 해서 번거롭네요.  테블릿 작동시 약간의 버벅 되는게 있지만 심하지 않아 쓸 만 해요.",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "엠기어스 엠스틱 MG-S01 16GB",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "19",
+    "RDate": "20210302",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "조작성",
+        "SentimentText": "기기 쓸 때마다 핫스팟 연결을 해야 해서 번거롭네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "테블릿 작동시 약간의 버벅 되는게 있지만 심하지 않아 쓸 만 해요. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "100735",
+    "RawText": "가격은 비싸다고 생각됨.. 할인 행사도 안하고 ..  거기다가 꼽기만 하면 사용 가능하다더니.. 작동 안됨-_- 불량 덩어리",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "엠기어스 엠스틱 MG-S01 16GB",
+    "ReviewScore": "1",
+    "Syllable": "69",
+    "Word": "16",
+    "RDate": "20220429",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 비싸다고 생각됨.. 할인 행사도 안하고 .. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "꼽기만 하면 사용 가능하다더니.. 작동 안됨-_- 불량 덩어리",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "100736",
+    "RawText": "usb 포트에 꽂기만 하면 된다더니 ㅠ.ㅠ 잘 안됩니다. 연결이 쉽지 않아 속상해요. 사이즈도 애매해서 별로네요.",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "엠기어스 엠스틱 MG-S01 16GB",
+    "ReviewScore": "1",
+    "Syllable": "63",
+    "Word": "15",
+    "RDate": "20210620",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "조작성",
+        "SentimentText": "usb 포트에 꽂기만 하면 된다더니 ㅠ.ㅠ 잘 안됩니다. 연결이 쉽지 않아 속상해요.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈도 애매해서 별로네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "100737",
+    "RawText": "GPS도 바로 잡히고 USB 꽂으면 노래도 술술 나오니..성능은 대 만족입니다.  분할 어플 다운 받아서 쓰니, 화면도 분할해서 다양하게 활용할 수 있어 좋아요.  다만 부팅이 꽤 느리고 오래 걸려 답답한 면도 있어요.",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "엠기어스 엠스틱 MG-S01 16GB",
+    "ReviewScore": "5",
+    "Syllable": "122",
+    "Word": "31",
+    "RDate": "20210410",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "GPS도 바로 잡히고 USB 꽂으면 노래도 술술 나오니..성능은 대 만족입니다.  ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "분할 어플 다운 받아서 쓰니, 화면도 분할해서 다양하게 활용할 수 있어 좋아요.  ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": " 부팅이 꽤 느리고 오래 걸려 답답한 면도 있어요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "100738",
+    "RawText": "빌트인 모니터로 볼 수 있으니 더 편안하게 네비를 쓰게 되서 좋아요.  가격이 좀 비싸다고 생각은 했지만 그 만한 가치는 하는 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "엠기어스 엠스틱 MG-S01 16GB",
+    "ReviewScore": "4",
+    "Syllable": "77",
+    "Word": "22",
+    "RDate": "20211126",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성",
+        "SentimentText": "빌트인 모니터로 볼 수 있으니 더 편안하게 네비를 쓰게 되서 좋아요.  ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 좀 비싸다고 생각은 했지만 그 만한 가치는 하는 것 같아요. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "100739",
+    "RawText": "네비 화면에서 동영상 시청을 할 수 있다니 정말 좋네요!!  가끔씩 네비 연결이 끊길 때가 있어 당황스럽긴 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "엠기어스 엠스틱 MG-S01 16GB",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "17",
+    "RDate": "20211206",
+    "Aspects": [
+      {
+        "Aspect": "편의성",
+        "SentimentText": "네비 화면에서 동영상 시청을 할 수 있다니 정말 좋네요!! ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "가끔씩 네비 연결이 끊길 때가 있어 당황스럽긴 합니다.   ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "100740",
+    "RawText": "네비 부팅할 때 엄청 느리네요.  화질도 폰 화면을 네비에 연동시키는 거라 선명도가 떨어져요  무선으로 연결하는 건 맘에 듭니다.  다만 GPS는 아직 보내주시지 않아서 제대로 사용을 못하고 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "엠기어스 엠스틱 MG-S01 16GB",
+    "ReviewScore": "3",
+    "Syllable": "112",
+    "Word": "27",
+    "RDate": "20210714",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "네비 부팅할 때 엄청 느리네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "화질",
+        "SentimentText": " 화질도 폰 화면을 네비에 연동시키는 거라 선명도가 떨어져요 ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "무선으로 연결하는 건 맘에 듭니다.  ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "다만 GPS는 아직 보내주시지 않아서 제대로 사용을 못하고 있습니다. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "100741",
+    "RawText": "속도가 너무 느려서 작업처리가 늦어지니 속터지네요. 호환도 잘안되어 연결이 넘 어려워서 아쉬워요. 음성 인식기능도 하자품~ 짜증이 올라오네요. 운전중일때도 영상을 틀수있는 기능은 그나마 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "엠기어스 엠스틱 MG-S01 16GB",
+    "ReviewScore": "3",
+    "Syllable": "108",
+    "Word": "23",
+    "RDate": "20210925",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "속도가 너무 느려서 작업처리가 늦어지니 속터지네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "호환도 잘안되어 연결이 넘 어려워서 아쉬워요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "음성 인식기능도 하자품~ 짜증이 올라오네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "운전중일때도 영상을 틀수있는 기능은 그나마 좋네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "100742",
+    "RawText": "진짜 마음에 안드네요. 접속속도가 2.5GHz로 너무 느려요. 답답합니다. 그리고 차에 탈때마다 매번 번거롭게ㅠ 테더링 연결을 해줘야하네요ㅠ",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "엠기어스 엠스틱 MG-S01 16GB",
+    "ReviewScore": "2",
+    "Syllable": "78",
+    "Word": "16",
+    "RDate": "20210505",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "진짜 마음에 안드네요. 접속속도가 2.5GHz로 너무 느려요. 답답합니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "그리고 차에 탈때마다 매번 번거롭게ㅠ 테더링 연결을 해줘야하네요ㅠ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "100743",
+    "RawText": "확실히 색상이 짙은회색이라 맘에 들어요 장시간 이용에도 발열없어서 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "엠기어스 엠스틱 MG-S01 16GB",
+    "ReviewScore": "5",
+    "Syllable": "40",
+    "Word": "9",
+    "RDate": "20210716",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "확실히 색상이 짙은회색이라 맘에 들어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성",
+        "SentimentText": "장시간 이용에도 발열없어서 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "100744",
+    "RawText": "선명한 음질이라서 잘 들려 좋아요 다양한 어플이 가능해서 마치 스마트폰같이 엄청 편하네요^^ 하지만 전화기능이 안되는게 정말 아쉬워요 ㅠㅠ",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "엠기어스 엠스틱 MG-S01 16GB",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "18",
+    "RDate": "20210611",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "선명한 음질이라서 잘 들려 좋아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "다양한 어플이 가능해서 마치 스마트폰같이 엄청 편하네요^^",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "하지만 전화기능이 안되는게 정말 아쉬워요 ㅠㅠ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "100745",
+    "RawText": "무선으로 연결되어서 너무 편하고 좋습니다 전화 올 때 차량내부 마이크와 연결이 안되서 아쉬워요 ㅠㅠ",
+    "Source": "쇼핑몰",
+    "Domain": "IT기기",
+    "MainCategory": "자동차기기",
+    "ProductName": "엠기어스 엠스틱 MG-S01 16GB",
+    "ReviewScore": "4",
+    "Syllable": "55",
+    "Word": "14",
+    "RDate": "20210511",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성",
+        "SentimentText": "무선으로 연결되어서 너무 편하고 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "전화 올 때 차량내부 마이크와 연결이 안되서 아쉬워요 ㅠㅠ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  }
+]

@@ -1,0 +1,2895 @@
+[
+  {
+    "Index": "7429",
+    "RawText": "좀 무겁네요 가벼우면 좋겠는데 가격대비 괜찮아요",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_50세일_직택배)도깨비 방망이 V9000",
+    "ReviewScore": "100",
+    "Syllable": "26",
+    "Word": "6",
+    "RDate": "20200211",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "좀 무겁네요 가벼우면 좋겠는데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 괜찮아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "7430",
+    "RawText": "필요할것 같아 가격보고 샀는데 무겁고 선땜에 불편해 안쓰게되네요 무선이고 조금만더 가볍다면 좋겠어요",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_50세일_직택배)도깨비 방망이 V9000",
+    "ReviewScore": "50",
+    "Syllable": "55",
+    "Word": "12",
+    "RDate": "20200507",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "필요할것 같아 가격보고 샀는데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무겁고 선땜에 불편해 안쓰게되네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "7431",
+    "RawText": "구성좋고제품품질도만족합니다..살균된다니안심됩니다.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_물류변경)쿠진 나이프케어 시즌2",
+    "ReviewScore": "100",
+    "Syllable": "27",
+    "Word": "1",
+    "RDate": "20210102",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성좋고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "제품품질도만족합니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "살균된다니안심됩니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7432",
+    "RawText": "나이프가 살균소독되고 수저도 살균건조할수 있어서 우리가족 건강에 좋을듯 합니다.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_물류변경)쿠진 나이프케어 시즌2",
+    "ReviewScore": "100",
+    "Syllable": "44",
+    "Word": "9",
+    "RDate": "20201213",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "나이프가 살균소독되고 수저도 살균건조할수 있어서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "우리가족 건강에 좋을듯 합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7433",
+    "RawText": "매번 수저를 소돋할수 있어 너무 좋습니다.  가위, 칼도 잘 들어서 사용하기 편리하고 사용해보니 기능이 생각보다 더 맘에 듭니다.  사용해보니 사용법도 편하고 좋아 적극 추천합니다.  품질이 좋은 물건 감사합니다.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_물류변경)쿠진 나이프케어 시즌2",
+    "ReviewScore": "100",
+    "Syllable": "119",
+    "Word": "28",
+    "RDate": "20210418",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "매번 수저를 소돋할수 있어 너무 좋습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "가위, 칼도 잘 들어서 사용하기 편리하고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "사용해보니 기능이 생각보다 더 맘에 듭니다.  ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "사용해보니 사용법도 편하고 좋아 적극 추천합니다.  ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 좋은 물건 감사합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7434",
+    "RawText": "아직 사용은 안해봤는데 적립금 써서 싸게 샀고 세련된 컬러가 거실 인테리어를 고급스럽게 해줘요  배송도 굉장히 빠르네요",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_물류변경)쿠진 나이프케어 시즌2",
+    "ReviewScore": "100",
+    "Syllable": "66",
+    "Word": "16",
+    "RDate": "20210112",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "적립금 써서 싸게 샀고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "세련된 컬러가 거실 인테리어를 고급스럽게 해줘요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7435",
+    "RawText": "우선노출이않되고소독이되니마음이안심임니다 편하게쓸수 있으니 아들이잘사셨어요하네요",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_물류변경)쿠진 나이프케어 시즌2",
+    "ReviewScore": "100",
+    "Syllable": "43",
+    "Word": "4",
+    "RDate": "20210107",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "우선노출이않되고소독이되니마음이안심임니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "편하게쓸수 있으니 아들이잘사셨어요하네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7436",
+    "RawText": "우와우와우와 디자인만 예쁜게 아니네요^^ 기능도 너무 좋아요!!!! 칼은 진짜 신세계에요ㅋㅋㅋ 김밥 싸면 맨날 터졌는데 김밥 썰다가 완전 반했어요~ 칼날이 진짜 짱짱해서 설거지 하다가 스폰지 수세미 잘림요ㅋㅋㅋㅋ 강추합니당^^",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_물류변경)쿠진 나이프케어 시즌2",
+    "ReviewScore": "100",
+    "Syllable": "126",
+    "Word": "27",
+    "RDate": "20201213",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인만 예쁜게 아니네요^^",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "기능도 너무 좋아요!!!!",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7437",
+    "RawText": "잘 소독이 되는지 확인은 안되는데 디자인 예쁘고 칼도 잘 들고 좋아요",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_물류변경)쿠진 나이프케어 시즌2",
+    "ReviewScore": "100",
+    "Syllable": "38",
+    "Word": "11",
+    "RDate": "20210116",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 예쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "칼도 잘 들고 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7438",
+    "RawText": "칼갈이 기능이 만족스럽지 않고요 버튼 그림 몇달사이에 지워져서  상품에 대한 질이 의심스러움요",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_물류변경)쿠진 나이프케어 시즌2",
+    "ReviewScore": "100",
+    "Syllable": "52",
+    "Word": "12",
+    "RDate": "20210522",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "칼갈이 기능이 만족스럽지 않고요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성",
+        "SentimentText": "버튼 그림 몇달사이에 지워져서  상품에 대한 질이 의심스러움요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "7439",
+    "RawText": "칼도 잘들고 레이져 소독이 되어서 수저와젖가락을 삶지 않아서 아주 편리합니다",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_물류변경)쿠진 나이프케어 시즌2",
+    "ReviewScore": "100",
+    "Syllable": "42",
+    "Word": "10",
+    "RDate": "20210205",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "칼도 잘들고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "레이져 소독이 되어서 수저와젖가락을 삶지 않아서 아주 편리합니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7440",
+    "RawText": "코로나 시대에  수저등 조리기구까지  살균하니 좋은것 같아요. .근데 생각보다  뜨거운 바람이 안나와요.그냥  미지근한 정도....살균되는건 맞는것이겠지요.. 그리고 칼은 생각보다 별루 입니다",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_물류변경)쿠진 나이프케어 시즌2",
+    "ReviewScore": "70",
+    "Syllable": "107",
+    "Word": "20",
+    "RDate": "20201229",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "코로나 시대에  수저등 조리기구까지  살균하니 좋은것 같아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "생각보다  뜨거운 바람이 안나와요.그냥  미지근한 정도....살균되는건 맞는것이겠지요..",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "칼은 생각보다 별루 입니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "7441",
+    "RawText": "여러기능을 잘 사용하고 있습니다^^ 사은품도 만족하며 사용하고 있습니다!",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방_특) V.도깨비 방망이+사은품 3종",
+    "ReviewScore": "100",
+    "Syllable": "40",
+    "Word": "8",
+    "RDate": "20170517",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "여러기능을 잘 사용하고 있습니다^^",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품도 만족하며 사용하고 있습니다!",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7442",
+    "RawText": "방송 나온 구성대로 배송되었어요. 오자마자 믹스커피샤베트 해 먹으려고 OOO커피믹스와 얼음 덩어리넣고 갈아봤는데 잘 안 갈리더라구요.    이거 부지런히 쓰고 또 사게 열심히 만들어주세요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방송) V.도깨비 방망이_SALE",
+    "ReviewScore": "100",
+    "Syllable": "105",
+    "Word": "22",
+    "RDate": "20170712",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "방송 나온 구성대로 배송되었어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "믹스커피샤베트 해 먹으려고 OOO커피믹스와 얼음 덩어리넣고 갈아봤는데 잘 안 갈리더라구요.  ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "7443",
+    "RawText": "적당한 가격입니다^^ 잘갈립니다 성능 짱짱 사용 후 씻기도 간편하고 좋아요. ",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방송중_특)테팔 옵티믹스 초고속블렌더(BL811AKR)+사은품 무선주전자",
+    "ReviewScore": "100",
+    "Syllable": "43",
+    "Word": "10",
+    "RDate": "20190813",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "적당한 가격입니다^^",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "잘갈립니다 성능 짱짱",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "사용 후 씻기도 간편하고 좋아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7444",
+    "RawText": "1시간을 돌려도 물이 깔끔하게 마르지는 않네요 .. 칼은 날카롭고  생각보다 무게감 있습니다......;;;",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방송중무료체험)쿠진 나이프케어 시즌2",
+    "ReviewScore": "80",
+    "Syllable": "60",
+    "Word": "12",
+    "RDate": "20210826",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "물이 깔끔하게 마르지는 않네요 .. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "생각보다 무게감 있습니다......;;; ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "7445",
+    "RawText": "소독기능이 좋아서 감염관리 하기 위함이구요.  칼 갈이가  있어서 편리합니다",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방송중무료체험)쿠진 나이프케어 시즌2",
+    "ReviewScore": "90",
+    "Syllable": "42",
+    "Word": "9",
+    "RDate": "20220215",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "소독기능이 좋아서 감염관리 하기 위함이구요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "칼 갈이가  있어서 편리합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7446",
+    "RawText": "고민고민 하다가  구매결심하였습니다. 사이즈 아담해요 부엌의 공간  깔끔해져서 만족합니다.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방송중무료체험)쿠진 나이프케어 시즌2",
+    "ReviewScore": "100",
+    "Syllable": "50",
+    "Word": "9",
+    "RDate": "20220111",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈 아담해요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "부엌의 공간  깔끔해져서 만족합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7447",
+    "RawText": "괜찮을까 반신반의 하면서 구매했는데 부피가 생각보다 마니 차지해서 공간차지를 좀하지만 위생적으로 쓸수있겠다 싶어요^^~ 구매확정 무엇보다 빨간색상이 완전 넘 이뻐서 주방에 포인트 되고 좋네여^^ 다른색상들도 다 이쁠거 같아여~",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방송중무료체험)쿠진 나이프케어 시즌2",
+    "ReviewScore": "100",
+    "Syllable": "126",
+    "Word": "27",
+    "RDate": "20220118",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "부피가 생각보다 마니 차지해서 공간차지를 좀하지만",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "위생적으로 쓸수있겠다 싶어요^^~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "빨간색상이 완전 넘 이뻐서 주방에 포인트 되고 좋네여^^ 다른색상들도 다 이쁠거 같아여~",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7448",
+    "RawText": "깔끔하고 위생적이라 좋아요~ 정리도 잘 되어 마음에 듭니다.^^  물록 나이프도 좋습니다.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방송중무료체험)쿠진 나이프케어 시즌2",
+    "ReviewScore": "100",
+    "Syllable": "50",
+    "Word": "11",
+    "RDate": "20211001",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "깔끔하고 위생적이라 좋아요~ ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "정리도 잘 되어 마음에 듭니다.^^ ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7449",
+    "RawText": "깔끔하고 좋은데 건조하는 바람이 약하긴 하네요.ㅠㅠ 뚜껑이 있으면 좋겠어요",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방송중무료체험)쿠진 나이프케어 시즌2",
+    "ReviewScore": "100",
+    "Syllable": "41",
+    "Word": "9",
+    "RDate": "20220115",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "건조하는 바람이 약하긴 하네요.ㅠㅠ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "뚜껑이 있으면 좋겠어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "7450",
+    "RawText": "디자인이 깔끔하네요^^  기능 믿고 사용합니다 칼은 완벽해요 잘 잘려서 완벽 !",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방송중무료체험)쿠진 나이프케어 시즌2",
+    "ReviewScore": "100",
+    "Syllable": "44",
+    "Word": "11",
+    "RDate": "20220112",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 깔끔하네요^^ ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "칼은 완벽해요 잘 잘려서 완벽 !",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7451",
+    "RawText": "외형이 깔끔해요 ^^  칼, 수저, 도구 세척후 소독으로 좋습니다",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방송중무료체험)쿠진 나이프케어 시즌2",
+    "ReviewScore": "100",
+    "Syllable": "36",
+    "Word": "9",
+    "RDate": "20220211",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "외형이 깔끔해요 ^^ ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "칼, 수저, 도구 세척후 소독으로 좋습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7452",
+    "RawText": "나쁘진 않은데 송풍기능 켜면 생각보다 소음이 큽니다. 칼은 괜찮고 다른기능도 괞찮은데 소음민감하신분 비추합니다",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방송중무료체험)쿠진 나이프케어 시즌2",
+    "ReviewScore": "70",
+    "Syllable": "61",
+    "Word": "13",
+    "RDate": "20220227",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "소음",
+        "SentimentText": "송풍기능 켜면 생각보다 소음이 큽니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "칼은 괜찮고 다른기능도 괞찮은데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7453",
+    "RawText": "너무 깔끔하고 예뻐요~~~칼갈이도 좋아요~~~",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방송중무료체험)쿠진 나이프케어 시즌2",
+    "ReviewScore": "100",
+    "Syllable": "25",
+    "Word": "4",
+    "RDate": "20210827",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "너무 깔끔하고 예뻐요~~~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "칼갈이도 좋아요~~~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7454",
+    "RawText": "넉넉한 공간으로 좋아요^^ 살균 건조기능에 더해 칼갈이기능까지 최고품질의 칼셋트는 보너스 매우 만족합니다",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방송중무료체험)쿠진 나이프케어 시즌2",
+    "ReviewScore": "100",
+    "Syllable": "58",
+    "Word": "12",
+    "RDate": "20210830",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "넉넉한 공간으로 좋아요^^",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "살균 건조기능에 더해 칼갈이기능까지",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "최고품질의 칼셋트는 보너스 매우 만족합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7455",
+    "RawText": "넉넉해서집에있는수저세트가다들어가요 레드칼라라주방에포인트도되구요",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방송중무료체험)쿠진 나이프케어 시즌2",
+    "ReviewScore": "100",
+    "Syllable": "34",
+    "Word": "2",
+    "RDate": "20210927",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "넉넉해서집에있는수저세트가다들어가요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "레드칼라라주방에포인트도되구요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7456",
+    "RawText": "다 필요없고 그냥 건조기능이 대박좋아요^^ 크기도 크서 좋아요 칼갈이는 잘안쓰지만 유용할거같음 칼도 같이 꼽아쓰니 더좋음",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방송중무료체험)쿠진 나이프케어 시즌2",
+    "ReviewScore": "100",
+    "Syllable": "67",
+    "Word": "15",
+    "RDate": "20211208",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "건조기능이 대박좋아요^^ ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "크기도 크서 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "칼도 같이 꼽아쓰니 더좋음",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7457",
+    "RawText": "디자인 너무 마음에 들고요 깔끔하고 실용적이예요. 오자마자 설치해서 사용해봤는데 넘 잘 되고요 주방 분위기도 살아나요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방송중무료체험)쿠진 나이프케어 시즌2",
+    "ReviewScore": "100",
+    "Syllable": "66",
+    "Word": "15",
+    "RDate": "20210824",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 너무 마음에 들고요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "깔끔하고 실용적이예요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7458",
+    "RawText": "딥그린 색상 예쁘고 좋아요~ 조리도구 보관도 하고 살균도 가능한게 좋아요~ 그리고 칼 세트도 좋아요~ ",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방송중무료체험)쿠진 나이프케어 시즌2",
+    "ReviewScore": "100",
+    "Syllable": "57",
+    "Word": "14",
+    "RDate": "20220227",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "딥그린 색상 예쁘고 좋아요~ ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "조리도구 보관도 하고 살균도 가능한게 좋아요~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "칼 세트도 좋아요~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7459",
+    "RawText": "딥그린~ 색상 넘 이뻐요~ 살균도 잘되고 좋습니다",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방송중무료체험)쿠진 나이프케어 시즌2",
+    "ReviewScore": "100",
+    "Syllable": "27",
+    "Word": "7",
+    "RDate": "20211001",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "딥그린~ 색상 넘 이뻐요~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "살균도 잘되고 좋습니다 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7460",
+    "RawText": "정가에 제대로 구입했는데 돈만 버렸네요 리퍼상품인가요?? 표면에 흠집이 있네요!!!! 왜 테이핑이 두번나눠서 되어잇으며 개봉한것같은 흔적이죠? 반품된 상품 다시 보내주신거 아닌가요?? 새상품을 보내주셔야지 이미 한번 개봉된 상품을 보내주시면 어떡합니까? 기분 나쁘네요",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방송중무료체험)쿠진 나이프케어 시즌2",
+    "ReviewScore": "10",
+    "Syllable": "149",
+    "Word": "30",
+    "RDate": "20210812",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "리퍼상품인가요?? 표면에 흠집이 있네요!!!!",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "정가에 제대로 구입했는데 돈만 버렸네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "7461",
+    "RawText": "모양도 예쁘네요^^ 수저나 칼을 살균 할 수 있어  마음 편합니다 또한 칼갈이가 신의 한 수 입니다 잘 쓰겠습니다  ",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방송중무료체험)쿠진 나이프케어 시즌2",
+    "ReviewScore": "100",
+    "Syllable": "65",
+    "Word": "18",
+    "RDate": "20211002",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "모양도 예쁘네요^^",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "수저나 칼을 살균 할 수 있어  마음 편합니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "칼갈이가 신의 한 수 입니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7462",
+    "RawText": "받자마자 오늘 소독했읍니다 기능 짱짱 칼갈이까지있어 더좋읍니다",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방송중무료체험)쿠진 나이프케어 시즌2",
+    "ReviewScore": "100",
+    "Syllable": "34",
+    "Word": "7",
+    "RDate": "20210820",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "받자마자 오늘 소독했읍니다 기능 짱짱 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "칼갈이까지있어 더좋읍니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7463",
+    "RawText": "방송중에  관심있게 보다가 필요했던차에 주문했는데 생각보다 크기가  커서 공간을 많이 차지합니다. 건조할때 온도가 높지않았고 , 칼 넣는자리는 사용중인 칼이 그닥 크지않았는데 들어가지 않네요. ",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방송중무료체험)쿠진 나이프케어 시즌2",
+    "ReviewScore": "60",
+    "Syllable": "108",
+    "Word": "23",
+    "RDate": "20210913",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "생각보다 크기가  커서 공간을 많이 차지합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "건조할때 온도가 높지않았고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사용중인 칼이 그닥 크지않았는데 들어가지 않네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "7464",
+    "RawText": "배송도 느렸고 소음이 크네요ㅜ 이정도 온도로 살균소독이 될까 미심쩍네요. 스텐수저통 밑은 플라스틱이네요. 소재가 별로네요",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방송중무료체험)쿠진 나이프케어 시즌2",
+    "ReviewScore": "60",
+    "Syllable": "67",
+    "Word": "14",
+    "RDate": "20211218",
+    "Aspects": [
+      {
+        "Aspect": "소음",
+        "SentimentText": "소음이 크네요ㅜ ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "이정도 온도로 살균소독이 될까 미심쩍네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "스텐수저통 밑은 플라스틱이네요. 소재가 별로네요 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "7465",
+    "RawText": "배송도 빠르고 :) 살균이 된다하니 일단은 위생적이고 칼도 그립감도 좋아 맘에 듭니다^^",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방송중무료체험)쿠진 나이프케어 시즌2",
+    "ReviewScore": "100",
+    "Syllable": "49",
+    "Word": "12",
+    "RDate": "20210910",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "살균이 된다하니 일단은 위생적이고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "칼도 그립감도 좋아 맘에 듭니다^^",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7466",
+    "RawText": "사야지하면서 못 사고있다가 주문했는데 좋아요^^  소음도 크지않고 좋습니다 ^^ 넉넉히 들어가니 좋은것같아요^^",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방송중무료체험)쿠진 나이프케어 시즌2",
+    "ReviewScore": "100",
+    "Syllable": "62",
+    "Word": "12",
+    "RDate": "20220223",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소음",
+        "SentimentText": "소음도 크지않고 좋습니다 ^^",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "넉넉히 들어가니 좋은것같아요^^",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7467",
+    "RawText": "사용전이라 뭐라 할말은 없습니다만 외형이 생각보다 싼티가...레드라 그런가....뭐 기능만 좋으면 괜찮 습니다만 이사가서 사용하려고 킵해놓은 상태 후에라도 사용해 보고 상품평 재 등록 하겠습니다",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방송중무료체험)쿠진 나이프케어 시즌2",
+    "ReviewScore": "80",
+    "Syllable": "108",
+    "Word": "23",
+    "RDate": "20220103",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "외형이 생각보다 싼티가...",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "레드라 그런가....",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "7468",
+    "RawText": "살균 건조 너무 안심됩니다~^^ 칼하고 수저가 정리돼서  깔끔하고 좋습니다~",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방송중무료체험)쿠진 나이프케어 시즌2",
+    "ReviewScore": "100",
+    "Syllable": "42",
+    "Word": "9",
+    "RDate": "20220214",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "살균 건조 너무 안심됩니다~^^",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "칼하고 수저가 정리돼서  깔끔하고 좋습니다~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7469",
+    "RawText": "살균 된다는 광고에 구매는 헀는데...부피가 크네요 ㅠㅠ 소음도 나구요ㅠㅠ 살균이 되는건지 잘 모륵겠네요...ㅠ",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방송중무료체험)쿠진 나이프케어 시즌2",
+    "ReviewScore": "60",
+    "Syllable": "62",
+    "Word": "13",
+    "RDate": "20211027",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "부피가 크네요 ㅠㅠ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "소음도 나구요ㅠㅠ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "살균이 되는건지 잘 모륵겠네요...ㅠ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "7470",
+    "RawText": "살균건조 시간이 오래걸린다  수저통 계속 오픈되있어 위생에 좀 ...",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방송중무료체험)쿠진 나이프케어 시즌2",
+    "ReviewScore": "60",
+    "Syllable": "38",
+    "Word": "9",
+    "RDate": "20210908",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "살균건조 시간이 오래걸린다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "수저통 계속 오픈되있어 위생에 좀 ... ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "7471",
+    "RawText": "살균되서 좋아요^^ 칼을갈수있어서편하게쓰고있어요~~~",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방송중무료체험)쿠진 나이프케어 시즌2",
+    "ReviewScore": "100",
+    "Syllable": "29",
+    "Word": "3",
+    "RDate": "20220203",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "살균되서 좋아요^^",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "칼을갈수있어서편하게쓰고있어요~~~",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7472",
+    "RawText": "살균소독이  되고 기능도 짱이네요 칼세트도 맘에드네요 잘 쓸게요",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방송중무료체험)쿠진 나이프케어 시즌2",
+    "ReviewScore": "100",
+    "Syllable": "35",
+    "Word": "8",
+    "RDate": "20210822",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "살균소독이  되고 기능도 짱이네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "칼세트도 맘에드네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7473",
+    "RawText": "살균이 가능하다해서 구입했어요. 살균기능 만족합니다. 색도 이쁘고 칼도 이뻐요 빨리 사용하고싶어요",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방송중무료체험)쿠진 나이프케어 시즌2",
+    "ReviewScore": "100",
+    "Syllable": "54",
+    "Word": "11",
+    "RDate": "20220117",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "살균이 가능하다해서 구입했어요. 살균기능 만족합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색도 이쁘고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "칼도 이뻐요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7474",
+    "RawText": "삶지않고 살균되는제품좋아요 근데 뚜껑이없어서 그런지걱정이되네요 작동시 소음도 조금아쉽네요",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방송중무료체험)쿠진 나이프케어 시즌2",
+    "ReviewScore": "80",
+    "Syllable": "49",
+    "Word": "8",
+    "RDate": "20211006",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "삶지않고 살균되는제품좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "뚜껑이없어서 그런지걱정이되네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "작동시 소음도 조금아쉽네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "7475",
+    "RawText": "상품크기며 자동칼갈이 건조시스템이며 만족스럽다. 제가 생각하는 단점이라면 바닥에 뽁뽁이가 있어서 움직일 때 조금 불편하다는 점이 있는 것 같다. 칼도 절삭력이 홈쇼핑때처럼 엄청 잘든다. 대체로 만족합니다",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방송중무료체험)쿠진 나이프케어 시즌2",
+    "ReviewScore": "80",
+    "Syllable": "113",
+    "Word": "25",
+    "RDate": "20211122",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "상품크기며 자동칼갈이 건조시스템이며 만족스럽다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "자동칼갈이 건조시스템이며 만족스럽다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "바닥에 뽁뽁이가 있어서 움직일 때 조금 불편하다는 점이 있는 것 같다.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "칼도 절삭력이 홈쇼핑때처럼 엄청 잘든다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7476",
+    "RawText": "색상도 넘 이쁘고 칼도 넘 잘들고 좋아요~~~~^^",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방송중무료체험)쿠진 나이프케어 시즌2",
+    "ReviewScore": "100",
+    "Syllable": "28",
+    "Word": "7",
+    "RDate": "20220301",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 넘 이쁘고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "칼도 넘 잘들고 좋아요~~~~^^",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7477",
+    "RawText": "색이 참 이뻐요~~ 칼도 잘 썰리고 ~~ 가위도 참 잘 잘려요~^^!",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방송중무료체험)쿠진 나이프케어 시즌2",
+    "ReviewScore": "100",
+    "Syllable": "38",
+    "Word": "11",
+    "RDate": "20220120",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색이 참 이뻐요~~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "칼도 잘 썰리고 ~~ 가위도 참 잘 잘려요~^^!",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7478",
+    "RawText": "생각보다 부피가 커서 자리는좀 차지하네요~ㅠㅠ 칼이 잘 갈려서 넘넘잘쓰고있어요~",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방송중무료체험)쿠진 나이프케어 시즌2",
+    "ReviewScore": "100",
+    "Syllable": "44",
+    "Word": "9",
+    "RDate": "20211028",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "생각보다 부피가 커서 자리는좀 차지하네요~ㅠㅠ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "칼이 잘 갈려서 넘넘잘쓰고있어요~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7479",
+    "RawText": "생각보다 통이크고 좋네요  뜨거운바람이아니네요ㅠ 소독한다는개념으로쓰고있네요",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방송중무료체험)쿠진 나이프케어 시즌2",
+    "ReviewScore": "100",
+    "Syllable": "41",
+    "Word": "5",
+    "RDate": "20220210",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "생각보다 통이크고 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "뜨거운바람이아니네요ㅠ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "7480",
+    "RawText": "소독기능 좋고 칼도 너무 잘들고  칼갈이 기능이 있어서 좋아요~^^",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방송중무료체험)쿠진 나이프케어 시즌2",
+    "ReviewScore": "100",
+    "Syllable": "37",
+    "Word": "9",
+    "RDate": "20220130",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "소독기능 좋고 칼도 너무 잘들고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "칼갈이 기능이 있어서 좋아요~^^",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7481",
+    "RawText": "소독도 되고 너무 좋아요 칼도 디자인이 마음에들어요 칼갈이가 있어서 더좋은것 같애요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방송중무료체험)쿠진 나이프케어 시즌2",
+    "ReviewScore": "80",
+    "Syllable": "47",
+    "Word": "11",
+    "RDate": "20211009",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "소독도 되고 너무 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "칼도 디자인이 마음에들어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "칼갈이가 있어서 더좋은것 같애요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7482",
+    "RawText": "수저셋트 칼 모든 걸 함께 소독하고 공간도 넓어져서 좋아요~ 색상도 고급스러워 맘에 들어요~",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방송중무료체험)쿠진 나이프케어 시즌2",
+    "ReviewScore": "100",
+    "Syllable": "51",
+    "Word": "13",
+    "RDate": "20220117",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성",
+        "SentimentText": "수저셋트 칼 모든 걸 함께 소독하고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "공간도 넓어져서 좋아요~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 고급스러워 맘에 들어요~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7483",
+    "RawText": "식기류나 칼에서 균이 많다고 해서 살균기를 구입 기능이 짱짱 디자인도 너무 마음에 들어요",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방송중무료체험)쿠진 나이프케어 시즌2",
+    "ReviewScore": "100",
+    "Syllable": "49",
+    "Word": "13",
+    "RDate": "20220110",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "식기류나 칼에서 균이 많다고 해서 살균기를 구입 기능이 짱짱 ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 너무 마음에 들어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7484",
+    "RawText": "아주 편합니다.살균소독되어서 안심입니다.저는화이트로 주문해서 예쁩니다^^",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방송중무료체험)쿠진 나이프케어 시즌2",
+    "ReviewScore": "100",
+    "Syllable": "40",
+    "Word": "5",
+    "RDate": "20211206",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "살균소독되어서 안심입니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "화이트로 주문해서 예쁩니다^^",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7485",
+    "RawText": "어머님집에 사드리고 이번엔 울집~ 생각보다 크지만 튼튼해보이고 이쁘네요^^  색상도 이뻐서 만족합니다",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방송중무료체험)쿠진 나이프케어 시즌2",
+    "ReviewScore": "100",
+    "Syllable": "56",
+    "Word": "11",
+    "RDate": "20220202",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "생각보다 크지만 튼튼해보이고 이쁘네요^^",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 이뻐서 만족합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7486",
+    "RawText": "예쁘고,  산뜻해요 ^^ 살균되니 깨끗해서 안심되고 좋아요. 굿~~~",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방송중무료체험)쿠진 나이프케어 시즌2",
+    "ReviewScore": "100",
+    "Syllable": "38",
+    "Word": "8",
+    "RDate": "20220206",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "예쁘고,  산뜻해요 ^^",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "살균되니 깨끗해서 안심되고 좋아요. 굿~~~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7487",
+    "RawText": "위생적일것 같고 색 만족합니다,디자인도 만족합니다,칼도 모두 만족합니다",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방송중무료체험)쿠진 나이프케어 시즌2",
+    "ReviewScore": "100",
+    "Syllable": "39",
+    "Word": "7",
+    "RDate": "20220125",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색 만족합니다 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 만족합니다 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "칼도 모두 만족합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7488",
+    "RawText": "이렇게 편리할수가 써보니 넘 좋으네요 우선정리정돈되니 깔끔해서좋고 살균소독되니 건강두 짱입니다",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방송중무료체험)쿠진 나이프케어 시즌2",
+    "ReviewScore": "100",
+    "Syllable": "52",
+    "Word": "10",
+    "RDate": "20211024",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성",
+        "SentimentText": "이렇게 편리할수가 써보니 넘 좋으네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "우선정리정돈되니 깔끔해서좋고 살균소독되니 건강두 짱입니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7489",
+    "RawText": "디자인이 너무너무 이쁘네용^^ 와이프가 겁나 좋아하네요. 칼도 무게가 적당히 무거워 그립감과 절삭력이 좋아요",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방송중무료체험)쿠진 나이프케어 시즌2",
+    "ReviewScore": "100",
+    "Syllable": "60",
+    "Word": "13",
+    "RDate": "20220124",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 너무너무 이쁘네용^^",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "칼도 무게가 적당히 무거워 그립감과 절삭력이 좋아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7490",
+    "RawText": "잘 샀어요^^ 디자인이 예뻐서 주방 분위기도 살고 컬러 톤도 잘 맞아 깔끔해졌네요~ 강력추천^^",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방송중무료체험)쿠진 나이프케어 시즌2",
+    "ReviewScore": "100",
+    "Syllable": "53",
+    "Word": "13",
+    "RDate": "20220112",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 예뻐서 주방 분위기도 살고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "컬러 톤도 잘 맞아 깔끔해졌네요~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7491",
+    "RawText": "전부터 구매하고픈 상품이엇는데 가격이 부담스러워 망설엿다가 큰맘먹고 엄마께 선물해드렷어요 무엇보다 칼이 잘 썰리고 디자인도 깔끔하니깐 넘 좋아요 엄마도 좋아하시고ᆢ 하지만 소독 건조기능이 조금 약한게 흠이랄까?ㅠㅠ",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방송중무료체험)쿠진 나이프케어 시즌2",
+    "ReviewScore": "80",
+    "Syllable": "119",
+    "Word": "25",
+    "RDate": "20211012",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "칼이 잘 썰리고 디자인도 깔끔하니깐 넘 좋아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 깔끔하니깐 넘 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "하지만 소독 건조기능이 조금 약한게 흠이랄까?ㅠㅠ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "7492",
+    "RawText": "젓가락 숟가락 소독에 잘 드는칼까지 완전 짱입니다^^ 주방기구 정리기능도되고 덕분에 깔끔해졌어요 만족^^",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방송중무료체험)쿠진 나이프케어 시즌2",
+    "ReviewScore": "100",
+    "Syllable": "58",
+    "Word": "12",
+    "RDate": "20220301",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "젓가락 숟가락 소독에 잘 드는칼까지 완전 짱입니다^^",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "주방기구 정리기능도되고 덕분에 깔끔해졌어요 만족^^",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7493",
+    "RawText": "주방이 깨끗이 정리된 느낌이네요  디자인도 맘에 쏙 들고 너무 좋아요 주방기구 케어기능 좋아서 너무 만족합니다",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방송중무료체험)쿠진 나이프케어 시즌2",
+    "ReviewScore": "100",
+    "Syllable": "61",
+    "Word": "15",
+    "RDate": "20220212",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "주방이 깨끗이 정리된 느낌이네요  디자인도 맘에 쏙 들고 너무 좋아요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "주방기구 케어기능 좋아서 너무 만족합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7494",
+    "RawText": "디자인이 산뜻해서 주방이깔끔하고 예뻐졌어요 가끔수저 소독하는데 살균기 구매해서 편하게 살균소독 할수있어서 좋넉요 적립금 사용해서 착한가격에 잘 샀어요",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방송중무료체험)쿠진 나이프케어 시즌2",
+    "ReviewScore": "100",
+    "Syllable": "83",
+    "Word": "17",
+    "RDate": "20220203",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "편하게 살균소독 할수있어서 좋넉요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 산뜻해서 주방이깔끔하고 예뻐졌어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "적립금 사용해서 착한가격에 잘 샀어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7495",
+    "RawText": "칼과  수저등을  살균과  소독을 할수 있어서 위생적으로  사용하게되어서 조아요 색상도 예뻐서 주방이 산뜻해졌어요",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방송중무료체험)쿠진 나이프케어 시즌2",
+    "ReviewScore": "80",
+    "Syllable": "63",
+    "Word": "13",
+    "RDate": "20211008",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "칼과  수저등을  살균과  소독을 할수 있어서 위생적으로  사용하게되어서 조아요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 예뻐서 주방이 산뜻해졌어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7496",
+    "RawText": "칼과 수저등을 살균 소독할수 있고   칼도  갈수 있어서   아주 조아요 가격도 합리적이라 만족합니다",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방송중무료체험)쿠진 나이프케어 시즌2",
+    "ReviewScore": "60",
+    "Syllable": "56",
+    "Word": "13",
+    "RDate": "20211008",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "칼과 수저등을 살균 소독할수 있고   칼도  갈수 있어서   아주 조아요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 합리적이라 만족합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7497",
+    "RawText": "칼도 너무 잘들고 디자인도 넘~~예쁘요 칼 갈이가있어서 남편에게 부탁안해도 되어서 정말좋아요",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방송중무료체험)쿠진 나이프케어 시즌2",
+    "ReviewScore": "100",
+    "Syllable": "51",
+    "Word": "11",
+    "RDate": "20220201",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "칼도 너무 잘들고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 넘~~예쁘요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "칼 갈이가있어서 남편에게 부탁안해도 되어서 정말좋아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7498",
+    "RawText": "칼이나 가위 길이가 짧아 사용시 불편합니다.  그리고 과도는 끝이 너무 뾰족해서 무서워요.  강력 비추입니다.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방송중무료체험)쿠진 나이프케어 시즌2",
+    "ReviewScore": "60",
+    "Syllable": "61",
+    "Word": "14",
+    "RDate": "20220225",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "칼이나 가위 길이가 짧아 사용시 불편합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "사용시 불편합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "과도는 끝이 너무 뾰족해서 무서워요.  강력 비추입니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "7499",
+    "RawText": "사용하기 편하고 위생적으로도좋고 칼도 너무 잘쓰고있어요",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방송중무료체험)쿠진 나이프케어 시즌2",
+    "ReviewScore": "100",
+    "Syllable": "30",
+    "Word": "6",
+    "RDate": "20211221",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성",
+        "SentimentText": "사용하기 편하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "위생적으로도좋고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7500",
+    "RawText": "편해서 좋아요. 따로 살균ㆍ소독하지 않아도 되고, 자주(설거지 할때마다) 사용하고 있어요 칼갈이 기능도 있어 더 좋아요",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방송중무료체험)쿠진 나이프케어 시즌2",
+    "ReviewScore": "100",
+    "Syllable": "66",
+    "Word": "15",
+    "RDate": "20220111",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성",
+        "SentimentText": "편해서 좋아요. 따로 살균ㆍ소독하지 않아도 되고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "칼갈이 기능도 있어 더 좋아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7501",
+    "RawText": "디자인이 너무 이쁘고 좋네요~사은품 칼세트도 마음에 들어요~^^소독이 되어서 좋고 주방이 환해졌어요~강추합니다",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_상시)쿠진 나이프케어 시즌2",
+    "ReviewScore": "100",
+    "Syllable": "61",
+    "Word": "11",
+    "RDate": "20220206",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 너무 이쁘고 좋네요~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품 칼세트도 마음에 들어요~^^",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "소독이 되어서 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7502",
+    "RawText": "좋은가격에 잘 받았습니다. 고장 없이 오래 사용 할 수 있기를 바래봅니다.  편리한 기능 추천합니다~",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_상시)쿠진 나이프케어 시즌2",
+    "ReviewScore": "100",
+    "Syllable": "56",
+    "Word": "14",
+    "RDate": "20210829",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은가격에 잘 받았습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "편리한 기능 추천합니다~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7503",
+    "RawText": "화면과 똑같이 예쁩니다 칼세트도 약간의 무게감 있고 잘 썰어집니다",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_상시)쿠진 나이프케어 시즌2",
+    "ReviewScore": "100",
+    "Syllable": "36",
+    "Word": "9",
+    "RDate": "20210825",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "화면과 똑같이 예쁩니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "칼세트도 약간의 무게감 있고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "잘 썰어집니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7504",
+    "RawText": "딱  필요한  큰  병과   칼날.  구성이  간편해  좋긴한데 칼날이 달랑 1개네요. 무뎌지면  새로 주문들어가야하나요?  칼날이 1개인게  아쉬워  별  한개  뺐어요. 그 외에는 사용하기 편하고  좋아요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_세일)도깨비 방망이 V9000",
+    "ReviewScore": "80",
+    "Syllable": "117",
+    "Word": "25",
+    "RDate": "20190212",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성이  간편해  좋긴한데 칼날이 달랑 1개네요. 무뎌지면  새로 주문들어가야하나요?  칼날이 1개인게  아쉬워  별  한개  뺐어요.",
+        "SentimentWord": "15",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "그 외에는 사용하기 편하고  좋아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7505",
+    "RawText": "가격도 만족~ 배송도 만족~ 물품도 만족합니다  다만, 손잡이 부분이 잡고 사용하기에는 편하다고 하였는데 제가 잡아보니 잡고 있기에 약간 버겁고 장시간 사용시에는불편하다고 생각이 듭니다  다른부분들에 대해선 만족합니다",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_세일)도깨비 방망이 V9000",
+    "ReviewScore": "80",
+    "Syllable": "121",
+    "Word": "26",
+    "RDate": "20190307",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 만족~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "물품도 만족합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "손잡이 부분이 잡고 사용하기에는 편하다고 하였는데 제가 잡아보니 잡고 있기에 약간 버겁고",
+        "SentimentWord": "12",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "장시간 사용시에는불편하다고 생각이 듭니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "다른부분들에 대해선 만족합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7506",
+    "RawText": "가격도 좋고 사용하기에도 너무너무 편하고 좋아요 ^^",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_세일)도깨비 방망이 V9000",
+    "ReviewScore": "100",
+    "Syllable": "29",
+    "Word": "7",
+    "RDate": "20190317",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "사용하기에도 너무너무 편하고 좋아요 ^^",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7507",
+    "RawText": "간편하고 손쉽게사용할수있어 아주좋아요~~^^ 좋은 가격에 구매했는데 가성비 짱!!",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_세일)도깨비 방망이 V9000",
+    "ReviewScore": "100",
+    "Syllable": "45",
+    "Word": "8",
+    "RDate": "20181202",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성",
+        "SentimentText": "간편하고 손쉽게사용할수있어  아주좋아요~~^^",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 가격에 구매했는데 가성비 짱!!",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7508",
+    "RawText": "갖고싶던핸듬ㄱ서기를좋은가격에득템해서너무나좋았습니다.단지손으로들고오래하긴무리인듯싶게조금무겁습니다",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_세일)도깨비 방망이 V9000",
+    "ReviewScore": "100",
+    "Syllable": "52",
+    "Word": "1",
+    "RDate": "20190219",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은가격에득템해서너무나좋았습니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "단지손으로들고오래하긴무리인듯싶게조금무겁습니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "7509",
+    "RawText": "계속 누르고 있어야 작동되니 손가락이 아파요. 참고하세요. 소릳느 엄청 커요. 다른건 괜찮음",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_세일)도깨비 방망이 V9000",
+    "ReviewScore": "80",
+    "Syllable": "51",
+    "Word": "12",
+    "RDate": "20190129",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "조작성",
+        "SentimentText": "계속 누르고 있어야 작동되니 손가락이 아파요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "소릳느 엄청 커요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "7510",
+    "RawText": "광고 방송때만큼 곱게 걀아지지 않네요 사용법이 편리하긴 해요^^",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_세일)도깨비 방망이 V9000",
+    "ReviewScore": "40",
+    "Syllable": "35",
+    "Word": "8",
+    "RDate": "20190307",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "곱게 걀아지지 않네요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "사용법이 편리하긴 해요^^",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7511",
+    "RawText": "구성이 딱 필요한것만  들어있네요 완전 착한가격에 잘 산것같아요",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_세일)도깨비 방망이 V9000",
+    "ReviewScore": "100",
+    "Syllable": "35",
+    "Word": "8",
+    "RDate": "20190122",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성이 딱 필요한것만  들어있네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "완전 착한가격에 잘 산것같아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7512",
+    "RawText": "구형핸드블렌더도 써봤는데요 지금거는 디자인이 더 슬림하고 파워도더세고 칼날이 일체형이라 편하고 좋아요~    ",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_세일)도깨비 방망이 V9000",
+    "ReviewScore": "100",
+    "Syllable": "61",
+    "Word": "11",
+    "RDate": "20181127",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 더 슬림하고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "파워도더세고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "칼날이 일체형이라 편하고 좋아요~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7513",
+    "RawText": "하자 없는 제품으로 받아서 너~무 잘 쓰고 있어요. 다양한 요리에 사용이 편리해서 좋네요~~^^",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_세일)도깨비 방망이 V9000",
+    "ReviewScore": "100",
+    "Syllable": "53",
+    "Word": "13",
+    "RDate": "20190212",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "하자 없는 제품으로 받아서 너~무 잘 쓰고 있어요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "다양한 요리에 사용이 편리해서 좋네요~~^^",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7514",
+    "RawText": "다기능이라서 정말 좋아요 손쉽게 사용하고 씻기도 간편해서 장말 잘쓰고잊어요 ",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_세일)도깨비 방망이 V9000",
+    "ReviewScore": "100",
+    "Syllable": "42",
+    "Word": "9",
+    "RDate": "20181011",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "다기능이라서 정말 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "손쉽게 사용하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "씻기도 간편해서 장말 잘쓰고잊어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7515",
+    "RawText": "다른 부속품 있어도 잘 사용하지 않으니까 딱 기본만 있는 것도 괜찮네요 적립금까지 생각하면 저렴한 것 같아요~",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_세일)도깨비 방망이 V9000",
+    "ReviewScore": "100",
+    "Syllable": "61",
+    "Word": "16",
+    "RDate": "20181211",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "다른 부속품 있어도 잘 사용하지 않으니까 딱 기본만 있는 것도 괜찮네요",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "적립금까지 생각하면 저렴한 것 같아요~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7516",
+    "RawText": "다른분쇄기보다 가격은조금비싸지만 성능은 꽤좋습니다. 잘상다는 생각이드네요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_세일)도깨비 방망이 V9000",
+    "ReviewScore": "100",
+    "Syllable": "41",
+    "Word": "6",
+    "RDate": "20190417",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "다른분쇄기보다 가격은조금비싸지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "성능은 꽤좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7517",
+    "RawText": "핸드블렌더 사고 싶었는데... 할인할때 구입할 수 있어서 좋았어요! 작동도 잘 되고 좋네요! ",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_세일)도깨비 방망이 V9000",
+    "ReviewScore": "100",
+    "Syllable": "52",
+    "Word": "12",
+    "RDate": "20181124",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인할때 구입할 수 있어서 좋았어요!",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "작동도 잘 되고 좋네요!",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7518",
+    "RawText": "○○○를 저렴한 가격에 구매 하였어요^^ ○○○ 유명하죠^^전에쓰던것이 고장나 이번에 새로 샀는데^^기능에 반했어요. 넘 좋네요ㅋㅋ 착한가격에 구매하여 만족도는 200프로~~^^",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_세일)도깨비 방망이 V9000",
+    "ReviewScore": "100",
+    "Syllable": "99",
+    "Word": "18",
+    "RDate": "20190320",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "○○○를 저렴한 가격에 구매 하였어요^^",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "전에쓰던것이 고장나 이번에 새로 샀는데^^기능에 반했어요. 넘 좋네요ㅋㅋ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "착한가격에 구매하여 만족도는 200프로~~^^",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7519",
+    "RawText": "○○○ 구입한게 벌써 세번째다.성능이 우수하고 무엇보다 사용이 간편하고 주방에 없어서는 안되는 필수품이다",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_세일)도깨비 방망이 V9000",
+    "ReviewScore": "100",
+    "Syllable": "58",
+    "Word": "12",
+    "RDate": "20190426",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "성능이 우수하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "무엇보다 사용이 간편하고 주방에 없어서는 안되는 필수품이다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7520",
+    "RawText": "도착해서  포장뜯어보니 충전재가 있어 흠집 없이 잘 왔네요. 디자인도  괜찮네요 직접 사용하니 작동도 잘 되네요",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_세일)도깨비 방망이 V9000",
+    "ReviewScore": "100",
+    "Syllable": "62",
+    "Word": "15",
+    "RDate": "20190314",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도  괜찮네요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "직접 사용하니 작동도 잘 되네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7521",
+    "RawText": "디자인이 세련되고 사용이나 세척이 편리하네요.  용기가 다양하게 들어 있으면 더 좋았겠지만 만족해요",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_세일)도깨비 방망이 V9000",
+    "ReviewScore": "100",
+    "Syllable": "55",
+    "Word": "12",
+    "RDate": "20190224",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 세련되고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "사용이나 세척이 편리하네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "용기가 다양하게 들어 있으면 더 좋았겠지만 만족해요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7522",
+    "RawText": "무거워서 팔이 불편한제겐 좀 힘드는네요 분쇄기능은  굿입미다~~^^",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_세일)도깨비 방망이 V9000",
+    "ReviewScore": "100",
+    "Syllable": "37",
+    "Word": "7",
+    "RDate": "20181120",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "무거워서 팔이 불편한제겐 좀 힘드는네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "분쇄기능은  굿입미다~~^^",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7523",
+    "RawText": "무게감있어서 묵직하네요 기능이 잘갈리고 가격도 적당하고 괜찮습니다",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_세일)도깨비 방망이 V9000",
+    "ReviewScore": "100",
+    "Syllable": "36",
+    "Word": "7",
+    "RDate": "20181219",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "기능이 잘갈리고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 적당하고 괜찮습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게감있어서 묵직하네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "7524",
+    "RawText": "배소믄빠름 하나 카터기가 없어살짝  아쉬음 ~~ 딱 가격 만큼 ~~~만족~~~",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_세일)도깨비 방망이 V9000",
+    "ReviewScore": "60",
+    "Syllable": "43",
+    "Word": "10",
+    "RDate": "20190206",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "카터기가 없어살짝  아쉬음 ~~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "딱 가격 만큼 ~~~만족~~~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7525",
+    "RawText": "배송도빠르고 디자인도이쁘네요 심플하니 가격도저렴하게 잘샀습니다 많이파세요~~~~^^",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_세일)도깨비 방망이 V9000",
+    "ReviewScore": "100",
+    "Syllable": "46",
+    "Word": "6",
+    "RDate": "20190121",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도이쁘네요 심플하니",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도저렴하게 잘샀습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "7526",
+    "RawText": "배송은 3일정도 걸린 거 같구요, 기존 믹서기 쓰다 ○○○ 쓰니까 세척도 편하고 용기도 아무데나 쓸 수 있어서 참 편하더라구요. 다만 작동할 때 소음이 커서 아쉬워요",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_세일)도깨비 방망이 V9000",
+    "ReviewScore": "100",
+    "Syllable": "92",
+    "Word": "25",
+    "RDate": "20190310",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성",
+        "SentimentText": "세척도 편하고 용기도 아무데나 쓸 수 있어서 참 편하더라구요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "다만 작동할 때 소음이 커서 아쉬워요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "7527",
+    "RawText": "배송은굿 제품은 좋을꺼 같아요.  그립갑은 좋아요 예전거보다요 가격은 비교해보니 딱 그정도였네요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_세일)도깨비 방망이 V9000",
+    "ReviewScore": "80",
+    "Syllable": "54",
+    "Word": "11",
+    "RDate": "20190425",
+    "Aspects": [
+      {
+        "Aspect": "조작성",
+        "SentimentText": "그립갑은 좋아요 예전거보다요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 비교해보니 딱 그정도였네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "7528",
+    "RawText": "배송이 생각보다 빨라서 김장할 때 쓸 수 있었어요  소재가 티타늄 칼날이어서 그런지 잘 갈리네요 좀 무겁지만 익숙해지면 괜찮을 것 같아요",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_세일)도깨비 방망이 V9000",
+    "ReviewScore": "100",
+    "Syllable": "76",
+    "Word": "20",
+    "RDate": "20181201",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재가 티타늄 칼날이어서 그런지 잘 갈리네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "좀 무겁지만 익숙해지면 괜찮을 것 같아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  }
+]

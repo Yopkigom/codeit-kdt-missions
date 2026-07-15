@@ -1,0 +1,3440 @@
+[
+  {
+    "Index": "780391",
+    "RawText": "두피가 시원하고 머리 빠짐이 줄어들었네요. 맘에 들어요. 재구매 의사 있어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "43",
+    "Word": "10",
+    "RDate": "20211123",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "두피가 시원하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "머리 빠짐이 줄어들었네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "780392",
+    "RawText": "처음에는 자극적인 느낌이 들어서 별로였는데 쓰다 보니 자극성이 나아지네요. 다만 거품이 잘 안 나서 많이 짜야 돼요. 향은 나쁘지 않아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "77",
+    "Word": "20",
+    "RDate": "20211123",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "처음에는 자극적인 느낌이 들어서 별로였는데",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "쓰다 보니 자극성이 나아지네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품이 잘 안 나서 많이 짜야 돼요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 나쁘지 않아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "780393",
+    "RawText": "샴푸하고 트리트먼트를 깜빡 잊고 사용 안 했는데도 머릿결이 뻣뻣하지 않아요. 트리트먼트 안 하면 빗질이 전혀 안되는 헤어였는데 부드러워졌네요. 앞으로 계속 사용할 예정입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "97",
+    "Word": "22",
+    "RDate": "20211122",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "샴푸하고 트리트먼트를 깜빡 잊고 사용 안 했는데도 머릿결이 뻣뻣하지 않아요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "트리트먼트 안 하면 빗질이 전혀 안되는 헤어였는데 부드러워졌네요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "780398",
+    "RawText": "탈모 완화에 효과가 있는 듯합니다. 그리고 향기도 좋고 세정도 잘 되는 것 같아요. 계속 주문해서 쓰게 되네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "17",
+    "RDate": "20211117",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "탈모 완화에 효과가 있는 듯합니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기도 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "세정도 잘 되는 것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "780402",
+    "RawText": "세정력이 좋아서 제품이 마음에 듭니다. 향이 약간 아쉽지만 그래도 마음에 드는 제품이네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "50",
+    "Word": "12",
+    "RDate": "20211110",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력",
+        "SentimentText": "세정력이 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 약간 아쉽지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "780405",
+    "RawText": "거품도 많이 나고 향도 시원하니 좋아요. 머리카락도 빠짐은 덜 빠지길 바라며 꾸준히 써 보려고요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "54",
+    "Word": "14",
+    "RDate": "20211110",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품도 많이 나고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 시원하니 좋아요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "머리카락도 빠짐은 덜 빠지길 바라며 꾸준히 써 보려고요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "780406",
+    "RawText": "오늘 받아서 사용 전이지만 구성품과 가격이 좋아서 만족합니다. 다른 제품 샘플들이 다양하게 왔어요. 샘플로 받은 작은 용량의 샴푸는 여행 갈 때 가지고 가기 좋을 것 같아요. 리뷰들처럼 효과가 있기를 기대합니다. 좋으면 이 제품으로 정착하고 싶어요. 빠른 배송과 사은품 감사합니다. 한 달 뒤에 좋은 효과를 봤으면 좋겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "181",
+    "Word": "46",
+    "RDate": "20211109",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성품과 가격이 좋아서 만족합니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 좋아서 만족합니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "다른 제품 샘플들이 다양하게 왔어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "샘플로 받은 작은 용량의 샴푸는 여행 갈 때 가지고 가기 좋을 것 같아요. ",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "리뷰들처럼 효과가 있기를 기대합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품 감사합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "한 달 뒤에 좋은 효과를 봤으면 좋겠어요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "780414",
+    "RawText": "향이 좋습니다. 두피 세정력은 잘 모르겠습니다. 다른 두피 세정 샴푸처럼 머리가 뻣뻣해지지 않고 건조해지지는 않습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "15",
+    "RDate": "20211104",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "두피 세정력은 잘 모르겠습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머리가 뻣뻣해지지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "건조해지지는 않습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "780415",
+    "RawText": "항상 사용하고 있는 제품이에요. 머릿결이 좋고 시원하게 머리 감을 수 있어서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "48",
+    "Word": "12",
+    "RDate": "20211104",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결이 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "시원하게 머리 감을 수 있어서 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "780419",
+    "RawText": "탈모완화 샴푸라고 해서 리뷰 믿고 한 번 구매해 봤습니다. 탈모에 좋은지는 당장에 효과를 알 수 없어서 꾸준히 사용해 보려고 해요. 가격은 좀 센 거 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "88",
+    "Word": "25",
+    "RDate": "20211102",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "탈모에 좋은지는 당장에 효과를 알 수 없어서 꾸준히 사용해 보려고 해요. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 좀 센 거 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "780426",
+    "RawText": "거품이 조금 덜 나지만, 감고 나면 머리가 시원해서 개운하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "35",
+    "Word": "9",
+    "RDate": "20211101",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품이 조금 덜 나지만, ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "머리가 시원해서 개운하네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "780432",
+    "RawText": "행사할 때 샘플 신청해서 사용해 본 후 구매했습니다. 세정력은 아주 좋은 편입니다. 탈모 방지 효과도 괜찮을 것 같아요. 다만 샴푸 후 머리카락이 푸석푸석한 느낌이 있습니다. 관리가 필요해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "107",
+    "Word": "27",
+    "RDate": "20211026",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세정력",
+        "SentimentText": "세정력은 아주 좋은 편입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": " 탈모 방지 효과도 괜찮을 것 같아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": " 머리카락이 푸석푸석한 느낌이 있습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "780443",
+    "RawText": "친구가 추천해 줘서 샀는데 만족스럽습니다. 더 오래 써 봐야 효과를 알겠지만 두피가 건강해지는 느낌이에요. 냄새도 나쁘지 않고 거품도 잘 납니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "81",
+    "Word": "20",
+    "RDate": "20211016",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "더 오래 써 봐야 효과를 알겠지만",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "두피보호",
+        "SentimentText": "두피가 건강해지는 느낌이에요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 나쁘지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품도 잘 납니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "780461",
+    "RawText": "상품 잘 받았어요. 두피 건강에 도움이 되고 머리카락이 덜 빠지는 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "43",
+    "Word": "12",
+    "RDate": "20211001",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두피보호",
+        "SentimentText": "두피 건강에 도움이 되고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "머리카락이 덜 빠지는 것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "780462",
+    "RawText": "향은 시원한 듯한 천연 화장품 향입니다. 기성 화장품 향은 없습니다. 제형이 조금 묽지만 거품도 풍성해서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "16",
+    "RDate": "20210930",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 시원한 듯한 천연 화장품 향입니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "기성 화장품 향은 없습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 조금 묽지만 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품도 풍성해서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "780463",
+    "RawText": "유해 성분이 없어서 구입했어요. 그런데 거품이 잘 안 나고 머리카락이 뻣뻣해요. 탈모 효과는 잘 모르겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "60",
+    "Word": "15",
+    "RDate": "20210930",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "성분",
+        "SentimentText": "유해 성분이 없어서 구입했어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품이 잘 안 나고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머리카락이 뻣뻣해요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "탈모 효과는 잘 모르겠네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "780467",
+    "RawText": "다른 탈모방지 제품보다 샴푸시 적당히 시원한 느낌입니다. 은은한 향이라 좋아요. 사용 후 뻣뻣하지 않아요. 사용감도 좋아요. 두피 트러블이나 각화증같은것도 안 생겨요. 지금 3통째 사용중입니다. 할인도 하고 있어서 착한 가격에 데려왔어요. 주문한 상품보다 뭔가 많이 들어있어서 잘못 주문한 줄 알고 주문서 다시 확인했습니다. 샘플도 넉넉히 담아주셔서 감사합니다. 잘 쓸게요. 다 써가면 또 주문하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "226",
+    "Word": "52",
+    "RDate": "20210929",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "다른 탈모방지 제품보다 샴푸시 적당히 시원한 느낌입니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "은은한 향이라 좋아요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "사용 후 뻣뻣하지 않아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용감",
+        "SentimentText": "사용감도 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "두피 트러블이나 각화증같은것도 안 생겨요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인도 하고 있어서 착한 가격에 데려왔어요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "샘플도 넉넉히 담아주셔서 감사합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "780468",
+    "RawText": "손상모 샴푸시 머리카락이 손가락에 걸려 많이 빠졌는데, 이 제품은 한번만 사용해도 머리 빠지는 수가 줄어 확연히 효과가 눈에 보입니다. 소량만 사용해도 거품이 풍성해서 좋아요. 만족해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "104",
+    "Word": "25",
+    "RDate": "20210929",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "머리 빠지는 수가 줄어 확연히 효과가 눈에 보입니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "거품력",
+        "SentimentText": "소량만 사용해도 거품이 풍성해서 좋아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "780491",
+    "RawText": "머리 감을 때 두피 시원하고 좋습니다. 저는 아직 탈모에는 효과가 없지만 사용감과 향이 좋아서 계속 사용합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "16",
+    "RDate": "20210918",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "머리 감을 때 두피 시원하고 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "저는 아직 탈모에는 효과가 없지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사용감",
+        "SentimentText": "사용감과 향이 좋아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "780492",
+    "RawText": "처음 써보고 괜찮아서 재구매 했습니다. 두피도 적당히 시원하고 거품도 잘 나네요. 머리카락이 덜 빠지는 것 같아 도움이 됩니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "71",
+    "Word": "18",
+    "RDate": "20210918",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "두피도 적당히 시원하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품도 잘 나네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "머리카락이 덜 빠지는 것 같아 도움이 됩니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "780494",
+    "RawText": "사용감도 부담 없고 좋습니다. 세정력도 좋은 편입니다. 향은 박하향이라 호불호가 갈릴 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "13",
+    "RDate": "20210917",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사용감",
+        "SentimentText": "사용감도 부담 없고 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "세정력도 좋은 편입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 박하향이라 호불호가 갈릴 것 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "780513",
+    "RawText": "더 써봐야 알 것 같은데, 두피가 시원하고 냄새는 정말 별로입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "37",
+    "Word": "10",
+    "RDate": "20210914",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "두피가 시원하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새는 정말 별로입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "780522",
+    "RawText": "계속 쓰고 있는 제품인데 세일해서 저렴하게 구입했어요. 탈모에 효과도 있는 듯해서 계속 사용하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "13",
+    "RDate": "20210913",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "계속 쓰고 있는 제품인데 세일해서 저렴하게 구입했어요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "탈모에 효과도 있는 듯해서 계속 사용하네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "780524",
+    "RawText": "사용한 지 몇 일 안돼서 탈모 방지 효과는 두고 봐야 할 것 같네요. 우선 두피가 시원한 느낌이고 머릿결이 빡빡하지 않아 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "21",
+    "RDate": "20210913",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "탈모 방지 효과는 두고 봐야 할 것 같네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "두피가 시원한 느낌이고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결이 빡빡하지 않아 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "780538",
+    "RawText": "계속 쓰고 있는데 두피랑 탈모에 좋은 효과가 있길 기대하고 있습니다. 아직 까지는 눈에 띄는 효과는 없습니다. 하지만 세정력도 괜찮고 뻣뻣해지도 않아서 잘 쓰고 있어요. 저렴히 구입했습니다. 잘 배송 됐네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "116",
+    "Word": "29",
+    "RDate": "20210909",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두피보호",
+        "SentimentText": "두피랑 탈모에 좋은 효과가 있길 기대하고 있습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "아직 까지는 눈에 띄는 효과는 없습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "세정력도 괜찮고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "뻣뻣해지도 않아서 잘 쓰고 있어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴히 구입했습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "탈모에 좋은 효과가 있길 기대하고 있습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "780539",
+    "RawText": "OOO 후기가 좋아서 구매 했습니다. 탈모에 좋은지는 아직 모르겠고 머리카락 덜 빠지길 바라며 꾸준히 사용해 봐야겠어요. 냄새는 나쁘지 않지만 적응은 좀 필요한 것 같네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "3",
+    "Syllable": "96",
+    "Word": "24",
+    "RDate": "20210909",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "탈모에 좋은지는 아직 모르겠고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "머리카락 덜 빠지길 바라며 꾸준히 사용해 봐야겠어요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새는 나쁘지 않지만 적응은 좀 필요한 것 같네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "780540",
+    "RawText": "조금만 사용해도 거품이 잘나요. 두피가 아주 시원합니다. 샘플 써보고 괜찮아서 구매했습니다. 꾸준히 써보고 효과 보면 좋겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "16",
+    "RDate": "20210908",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "거품력",
+        "SentimentText": "조금만 사용해도 거품이 잘나요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "두피가 아주 시원합니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "꾸준히 써보고 효과 보면 좋겠습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "780542",
+    "RawText": "받자마자 써봤습니다. 머리가 시원해져요. 모발이 건조하지가 않아서 좋습니다. 엉킴이 굉장히 심한 머리인데 모발이 생각보다 부드럽게 되네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "16",
+    "RDate": "20210908",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "머리가 시원해져요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "모발이 건조하지가 않아서 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "엉킴이 굉장히 심한 머리인데 모발이 생각보다 부드럽게 되네요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "780544",
+    "RawText": "짧은 단발입니다. 한번 펌핑에 비벼 거품 내서 쓰면 충분해요. 거품 풍성하면서 쫀득합니다. 반신반의 하면서 시켰는데 만족합니다. 모발의 힘이 생겨 쳐짐이 완화됩니다. 정수리 쪽 모발과 가르마 부분 모발에 볼륨이 살아나요. 세일 할 때 저렴한 가격으로 종류별로 여러개 샀습니다. 더 쟁여 놓을껄 아쉽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "170",
+    "Word": "41",
+    "RDate": "20210907",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "거품력",
+        "SentimentText": "한번 펌핑에 비벼 거품 내서 쓰면 충분해요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품 풍성하면서 쫀득합니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": " 모발의 힘이 생겨 쳐짐이 완화됩니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": " 정수리 쪽 모발과 가르마 부분 모발에 볼륨이 살아나요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 세일 할 때 저렴한 가격으로 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "780550",
+    "RawText": "여름에 쓰기 딱 좋은 샴푸입니다. 두피가 시원하네요. 탈모개선은 아직 잘 모르겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "48",
+    "Word": "11",
+    "RDate": "20210906",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "여름에 쓰기 딱 좋은 샴푸입니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "두피가 시원하네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "탈모개선은 아직 잘 모르겠습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "780552",
+    "RawText": "배송 빠르게 왔습니다. 사용할 때 시원함이 좋네요. 탈모에 도움이 됐으면 좋겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "47",
+    "Word": "11",
+    "RDate": "20210906",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "시원함이 좋네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "탈모에 도움이 됐으면 좋겠습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "780554",
+    "RawText": "일반샴푸로 머리 감을 때 머리카락 엄청 빠지고 선풍기로 말릴 때도 엄청 빠져서 청소기로 밀어야할 정도로 많이 빠졌는데, 이제품으로 3번정도 감았을 때부터 조금 덜 빠지는게 느껴졌습니다. 펌프 살짝 3번하니 거품이 많이 나서 좋아요. 박하향이 나긴하는데 머리가 개운하고 시원합니다. 가격은 많이 비쌉니다. 탈모에 좋은 샴푸 추천해서 구입해 봤는데, 저도 효과가 있었으면 좋겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "211",
+    "Word": "50",
+    "RDate": "20210904",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "3번정도 감았을 때부터 조금 덜 빠지는게 느껴졌습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "거품력",
+        "SentimentText": "펌프 살짝 3번하니 거품이 많이 나서 좋아요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "박하향이 나긴하는데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "머리가 개운하고 시원합니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 많이 비쌉니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과가 있었으면 좋겠네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "780558",
+    "RawText": "냄새가 좀 적응이 안 되지만 머리 감으면 좀 부드럽고 효과가 좋으면 좋겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "44",
+    "Word": "12",
+    "RDate": "20210903",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새가 좀 적응이 안 되지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머리 감으면 좀 부드럽고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과가 좋으면 좋겠습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "780561",
+    "RawText": "탈모가 조금씩 시작되는 거 같아서 예방 차원에서 쓰려고 사봤어요. 사용한 지 얼마 안 되어서 탈모 개선 효과는 잘 모르겠어요. 그런데 두피가 건조하고 가렵네요. 별로예요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "95",
+    "Word": "24",
+    "RDate": "20210902",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "사용한 지 얼마 안 되어서 탈모 개선 효과는 잘 모르겠어요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "두피가 건조하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "가렵네요.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "780565",
+    "RawText": "탈모샴푸라서 사봤는데, 크림타입이고 살짝 화하고 시원합니다. 거품이 풍성하게 잘 납니다. 일주일 이상은 써봐야 효과있는지 알 것 같습니다. 사은품도 보내주셔서 좋았어요. 용량대비 가격은 비싼 편입니다. 재구매는 사용해보고 결정해야겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "133",
+    "Word": "27",
+    "RDate": "20210831",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "화하고 시원합니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품이 풍성하게 잘 납니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "일주일 이상은 써봐야 효과있는지 알 것 같습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품도 보내주셔서 좋았어요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "용량대비 가격은 비싼 편입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "780591",
+    "RawText": "어느 날부터 탈모가 생기기 시작해서 이것저것 좋다는 거 다 사용해보다가 OOO 두피크리닉용 사용하고 효과 많이 봤어요. 그러다 우연히 OO 샘플 사용해보고 탈모예방과 두피에도 효과가 있어서 사용하게 되었어요. 이 샴푸로 안착해 보려고요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "132",
+    "Word": "31",
+    "RDate": "20210821",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "탈모예방과 두피에도 효과가 있어서 사용하게 되었어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두피보호",
+        "SentimentText": "두피에도 효과가 있어서 사용하게 되었어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "780596",
+    "RawText": "아직 탈모 개선 효과는 못 느끼지만 거품이 풍성하고 두피가 시원해서 좋아요. 탈모 개선 효과를 기대하며 좀 더 써볼게요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "18",
+    "RDate": "20210819",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "아직 탈모 개선 효과는 못 느끼지만",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품이 풍성하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "두피가 시원해서 좋아요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "탈모 개선 효과를 기대하며 좀 더 써볼게요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "780599",
+    "RawText": "상품평이 괜찮아서 구매했습니다. 적당히 시원하고 샴푸 후 머릿결이 뻣뻣하지 않아서 괜찮은 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "13",
+    "RDate": "20210818",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "적당히 시원하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결이 뻣뻣하지 않아서 괜찮은 것 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "780630",
+    "RawText": "머리카락이 많이 뻣뻣해지지도 않고 기름 많고 땀 많은 저에게 은근히 잘 맞아요. 근데 쎄한 느낌이 강해서 잘헹구어주셔야 해요. 향은 흔히쓰는 샴푸향이 아니네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "89",
+    "Word": "22",
+    "RDate": "20210811",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머리카락이 많이 뻣뻣해지지도 않고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "저에게 은근히 잘 맞아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 흔히쓰는 샴푸향이 아니네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "쎄한 느낌이 강해서 잘헹구어주셔야 해요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "780632",
+    "RawText": "머리를 감고나니 두피가 한층 시원한 느낌이에요. 머리를 말리고 난 후 볼륨감도 있어요. 6주 후 효과가 확실히 나기를 바래요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "70",
+    "Word": "18",
+    "RDate": "20210810",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "머리를 감고나니 두피가 한층 시원한 느낌이에요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머리를 말리고 난 후 볼륨감도 있어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "6주 후 효과가 확실히 나기를 바래요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "780633",
+    "RawText": "재구매해서 쓰고 있습니다. 탈모 방지 효과가 있는지는 사실 잘 모르겠지만, 민감한 지성 두피인데도 자극이 없고 머리 감고나면 개운한데 머리카락은 비교적 부드러워서 마음에 들어요. 알러지가 심한 피부여서 피부에 쓰는 제품은 아무거나 못 쓰는데 이 제품은 알러지 없이 개운합니다. 향도 상쾌하고 괜찮아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "168",
+    "Word": "40",
+    "RDate": "20210810",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "탈모 방지 효과가 있는지는 사실 잘 모르겠지만,",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "피부타입",
+        "SentimentText": "민감한 지성 두피인데도 자극이 없고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "자극이 없고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "머리 감고나면 개운한데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머리카락은 비교적 부드러워서 마음에 들어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "알러지 없이",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "개운합니다.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 상쾌하고 괜찮아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "780651",
+    "RawText": "원래 쓰던 샴푸인데, 세일해서 저렴하게 샀습니다. 엄청 시원한 멘솔 샴푸는 아닌데, 쓰고 나면 개운합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "14",
+    "RDate": "20210805",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "세일해서 저렴하게 샀습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "엄청 시원한 멘솔 샴푸는 아닌데, ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "쓰고 나면 개운합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "780652",
+    "RawText": "구성이 좋아서 구입했습니다. 약간 시원하고 좋습니다. 머리가 덜 빠지는지는 잘 모르겠지만, 간지럽지 않아서 잘 쓰고 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "16",
+    "RDate": "20210805",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성이 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "시원하고 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "머리가 덜 빠지는지는 잘 모르겠지만, ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "간지럽지 않아서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "780655",
+    "RawText": "쿨링 느낌 나고 기름기도 싹 없어지네요. 냄새는 별로 좋지 않습니다. 머리카락에서 샴푸 향이 나지 않네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "15",
+    "RDate": "20210805",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "쿨링 느낌 나고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "기름기도 싹 없어지네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새는 별로 좋지 않습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "머리카락에서 샴푸 향이 나지 않네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "780656",
+    "RawText": "처음 써보고 좋아서 하나 더 구매했어요. 거품도 쫀쫀하고 풍성해서 세정력이 좋습니다. 샴푸 후 머리도 매끄럽고 만족스럽네요. 좋은 성분이라 좋습니다. 꾸준히 써야겠어요. 샘플도 여러가지 챙겨주셔서 대 만족입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "118",
+    "Word": "26",
+    "RDate": "20210804",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품도 쫀쫀하고 풍성해서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": " 세정력이 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": " 머리도 매끄럽고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "좋은 성분이라 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "샘플도 여러가지 챙겨주셔서 대 만족입니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "780665",
+    "RawText": "갑자기 트러블이 생기고 탈모도 심해진 것 같아서 여러 제품 알아보다가 구매했어요. 효과 보면 좋겠네요. 두피 안정에 효과 있기를 기대합니다. 향은 나쁘지 않아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "90",
+    "Word": "22",
+    "RDate": "20210801",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과 보면 좋겠네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "두피보호",
+        "SentimentText": "두피 안정에 효과 있기를 기대합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 나쁘지 않아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "780670",
+    "RawText": "마트에서 구입할 수 있게 되어서 좋습니다. 성분도 다른 샴푸보다 좋고 사용감이 개운하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "50",
+    "Word": "12",
+    "RDate": "20210731",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분",
+        "SentimentText": "성분도 다른 샴푸보다 좋고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용감",
+        "SentimentText": "사용감이 개운하네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "780671",
+    "RawText": "탈모 때문에 구입했는데 머리카락이 평소보다 덜 빠지는 거 같고 모근에 힘이 생겼습니다. 머릿결에도 탄력이 생겨 가라앉지 않는 거 같아 재구매합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "82",
+    "Word": "20",
+    "RDate": "20210731",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "머리카락이 평소보다 덜 빠지는 거 같고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "모근에 힘이 생겼습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결에도 탄력이 생겨 가라앉지 않는 거 같아",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "780673",
+    "RawText": "쿠폰 써서 저렴하게 샀습니다. 받자마자 써봤는데, 떡진 머리에도 거품이 잘 납니다. 다른 탈모샴푸나 일반샴푸도 머리 떡지면 거품이 잘 안나는데, 이 제품은 거품이 부드럽고 잘 나네요. 두피도 시원하고 좋습니다. 머리 빠지는건 좀 더 써봐야 알 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "143",
+    "Word": "36",
+    "RDate": "20210731",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰 써서 저렴하게 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "거품력",
+        "SentimentText": "떡진 머리에도 거품이 잘 납니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품이 부드럽고 잘 나네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "두피도 시원하고 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "머리 빠지는건 좀 더 써봐야 알 것 같습니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "780674",
+    "RawText": "체험분 써보고 괜찮아서 주문했습니다. 거품도 잘나고 감고 나서도 머릿결도 부드럽습니다. 오늘 검색해보니 가격이 올라서 저렴하게 잘 산 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "82",
+    "Word": "19",
+    "RDate": "20210731",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품도 잘나고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결도 부드럽습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "오늘 검색해보니 가격이 올라서 저렴하게 잘 산 것 같습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "780676",
+    "RawText": "2통 사드린 거 다 써보시고 너무 좋다고 모발에 힘 생기고 확실히 덜 빠지는 거 같다고 하십니다. 아버지도 같이 쓰신다고 해서 더 샀습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "22",
+    "RDate": "20210731",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "모발에 힘 생기고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "확실히 덜 빠지는 거 같다고 하십니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "780702",
+    "RawText": "머리가 개운한 느낌입니다. 거품이 풍성해서 좋습니다. 머리가 시원합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "40",
+    "Word": "8",
+    "RDate": "20210728",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "머리가 개운한 느낌입니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품이 풍성해서 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "머리가 시원합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "780710",
+    "RawText": "배송 빨랐어요. 긴 머리인데 한두 번으로는 거품이 잘 안 나서 여러 번 펌핑해야 돼요. 샴푸 후 몇 분 있으면 화한 느낌이 나는데 괜찮네요. 향은 나쁘지 않아요. 처음 써보는데 효과가 있었으면 좋겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "114",
+    "Word": "31",
+    "RDate": "20210728",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "거품력",
+        "SentimentText": "긴 머리인데 한두 번으로는 거품이 잘 안 나서 여러 번 펌핑해야 돼요.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "샴푸 후 몇 분 있으면 화한 느낌이 나는데 괜찮네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 나쁘지 않아요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "처음 써보는데 효과가 있었으면 좋겠습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "780713",
+    "RawText": "OOO 한참 쓰다가 OO 샘플 써보고 본품으로 구매했네요. 머리가 덜 빠지는 듯하고 잔머리가 생기기 시작했어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "15",
+    "RDate": "20210727",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "머리가 덜 빠지는 듯하고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "잔머리가 생기기 시작했어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "780714",
+    "RawText": "탈모 샴푸 거품 잘 안 나고 눈 따가운 제품들 있습니다. 이 제품은 그런 게 없습니다. 거품도 부드럽게 잘 나고 향이 시원함이 있습니다. 린스나 트리트먼트 안 해도 헹구면 머릿결이 부드럽네요. 6주 정도 쓰면 효과 있다니 지속적으로 써볼 생각이네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "139",
+    "Word": "37",
+    "RDate": "20210727",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품도 부드럽게 잘 나고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 시원함이 있습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "린스나 트리트먼트 안 해도 헹구면 머릿결이 부드럽네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "6주 정도 쓰면 효과 있다니 지속적으로 써볼 생각이네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "780715",
+    "RawText": "광고 보고 구매했는데 주위에서 다들 머리 며칠 안 감은 냄새 난다고 하네요. 그리고 지루성두피염에 별로 효과 없습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "17",
+    "RDate": "20210726",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "머리 며칠 안 감은 냄새 난다고 하네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "지루성두피염에 별로 효과 없습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "780717",
+    "RawText": "아직 사용을 많이 안 해봐서 제 머리카락의 상태에 대해서는 말하기는 힘들지만 제품에 대해 설명하면 향이 시원하고 두피에 자극적이지 않고 시원한 느낌이 있습니다. 거품이 풍부하고 시원한 멘톨향이 좋은 것 같습니다. 머리를 감은 후 기존에 쓰던 샴푸 사용 후보다는 머릿결이 더 부드러워졌습니다. 두피가 편안하고 지속적으로 사용하면 제공된 정보의 효과가 나타날 것 같다는 기대가 생겨요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "213",
+    "Word": "52",
+    "RDate": "20210725",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 시원하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "두피에 자극적이지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "시원한 느낌이 있습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품이 풍부하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "시원한 멘톨향이 좋은 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결이 더 부드러워졌습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두피보호",
+        "SentimentText": "두피가 편안하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "지속적으로 사용하면 제공된 정보의 효과가 나타날 것 같다는 기대가 생겨요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "780756",
+    "RawText": "머리붙이고 여름이 되니 두피에 뽀루지가 올라오길래 샴푸바꾸려고 알아보다가 상품평이 좋아서 일단 테스트용으로 작은거로 구매해봤는데요 1회사용해본 결과 만족해요. 감을때는 머릿결이 살짝 뻣뻣해진 느낌이지만 다음날 올라오는 기름기가 줄었습니다. 저녁에 감고 아침이면 딱 알맞은 윤기가 나요. 재구매의사 있어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "170",
+    "Word": "35",
+    "RDate": "20210716",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "감을때는 머릿결이 살짝 뻣뻣해진 느낌이지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "다음날 올라오는 기름기가 줄었습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "저녁에 감고 아침이면 딱 알맞은 윤기가 나요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "780759",
+    "RawText": "처음 사용할땐 청량감이 있었는데 한참 쓰니깐 청량감이 없네요. 그리고 머리카락이 뻣뻣해져서 오일을 발라야 해요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "14",
+    "RDate": "20210715",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "처음 사용할땐 청량감이 있었는데 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "한참 쓰니깐 청량감이 없네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머리카락이 뻣뻣해져서 오일을 발라야 해요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "780764",
+    "RawText": "샘플 써보고 구입했어요.  쿨링감이 있어서 시원합니다. 거품도 풍성하게 잘 나서 아주 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "52",
+    "Word": "12",
+    "RDate": "20210714",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "쿨링감이 있어서 시원합니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품도 풍성하게 잘 나서 아주 좋아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "780765",
+    "RawText": "머리 앞쪽에 탈모가 생겨서 주문했어요. 두피 가려움은 많이 좋아졌고 탈모에는 효과가 있길 바라며 꾸준히 사용해 보려구요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "16",
+    "RDate": "20210714",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두피보호",
+        "SentimentText": "두피 가려움은 많이 좋아졌고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "탈모에는 효과가 있길 바라며 꾸준히 사용해 보려구요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "780770",
+    "RawText": "요즘 머리카락이 많이 빠지는 것 같아 구매했는데 아직 별 효과는 못 느끼고 있어요. 그저 후기 보면 시원하단 얘기가 있는데 시원하지는 않습니다. 그냥 향 자체가 멘톨 향이라 좋지는 않습니다. 그래도 거품이 부드럽게 잘 나서 좋네요. 한 달 뒤 탈모 예방 효과까지 볼 수 있기를 기대합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "161",
+    "Word": "44",
+    "RDate": "20210711",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "아직 별 효과는 못 느끼고 있어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "시원하지는 않습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향 자체가 멘톨 향이라 좋지는 않습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품이 부드럽게 잘 나서 좋네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "탈모 예방 효과까지 볼 수 있기를 기대합니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "780772",
+    "RawText": "여러 샴푸 쓰고 있는데 이 제품은 두피에 자극이 없고 세정력도 나쁘지 않은 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "48",
+    "Word": "14",
+    "RDate": "20210710",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "두피에 자극이 없고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "세정력도 나쁘지 않은 것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "780773",
+    "RawText": "머리카락이 많이 빠져서 혹시나 도움이 될까 구매했는데 향도 쎄고 감고 난 후 머릿결이 너무 뻣뻣해서 별로네요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "16",
+    "RDate": "20210709",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 쎄고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "감고 난 후 머릿결이 너무 뻣뻣해서 별로네요 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "780777",
+    "RawText": "한번 써보고 다른 거 쓰다가 다시 돌아왔어요. 호불호가 있는 향이지만 저는 향이 상쾌해서 좋아요. 세정력도 좋고 거품도 잘 나요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "72",
+    "Word": "19",
+    "RDate": "20210708",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "호불호가 있는 향이지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "저는 향이 상쾌해서 좋아요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "세정력도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품도 잘 나요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "780797",
+    "RawText": "광고보고 주문했습니다. 샴푸할 때 시원하고 좋습니다. 탈모에 좋은지는 잘 모르겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "48",
+    "Word": "10",
+    "RDate": "20210702",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "샴푸할 때 시원하고 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "탈모에 좋은지는 잘 모르겠습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "780798",
+    "RawText": "마음에 듭니다. 민감한 두피에도 자극이 되지 않습니다. 거품이 풍성하고 깔끔한 세정력이 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "53",
+    "Word": "12",
+    "RDate": "20210701",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "민감한 두피에도 자극이 되지 않습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품이 풍성하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "깔끔한 세정력이 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "780804",
+    "RawText": "거품이 잘 나고, 향이 시원한 느낌이 납니다. 맘에 들어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "33",
+    "Word": "9",
+    "RDate": "20210630",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품이 잘 나고,",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 시원한 느낌이 납니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "780805",
+    "RawText": "상쾌한 느낌 원하시는 분들은 좋아하실 것 같습니다. 탈모에 효과가 있는지는 잘 모르겠지만 여름에 쓰긴 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "15",
+    "RDate": "20210629",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "상쾌한 느낌 원하시는 분들은 좋아하실 것 같습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "탈모에 효과가 있는지는 잘 모르겠지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "여름에 쓰긴 좋네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "780808",
+    "RawText": "처음으로 구매해서 사용하고 있는 제품인데요. 거품도 잘 안나고 향도 개인적으론 별로예요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "49",
+    "Word": "11",
+    "RDate": "20210628",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품도 잘 안나고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 개인적으론 별로예요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "780811",
+    "RawText": "머리를 감고 나면 두피가 시원하고 개운한 느낌이 듭니다. 향도 은은하니 좋고 무엇보다 두피가 시원해서 최고네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "15",
+    "RDate": "20210626",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "두피가 시원하고 개운한 느낌이 듭니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 은은하니 좋고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "두피가 시원해서 최고네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "780812",
+    "RawText": "탈모를 예방하고 싶어서 쓰고 있습니다. 거품도 잘 나고 세정력도 괜찮아요. 머리카락이 튼튼해지길 기대합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "13",
+    "RDate": "20210626",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품도 잘 나고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "세정력도 괜찮아요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "머리카락이 튼튼해지길 기대합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "780822",
+    "RawText": "시원한 향이 나는 것 같아서 좋아요. 거품은 생각보다 풍성하게 나진 않아요. 제품은 괜찮은 거 같은데 탈모 개선 효과는 더 사용해 봐야 알 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "84",
+    "Word": "24",
+    "RDate": "20210624",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "시원한 향이 나는 것 같아서 좋아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품은 생각보다 풍성하게 나진 않아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "탈모 개선 효과는 더 사용해 봐야 알 것 같아요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "780826",
+    "RawText": "사은품을 많이 주셨습니다. 눈을 의심했습니다. 하지만 한방샴푸는 쓰지 않아요. 인심이 후하시네요. 기분 좋은 샘플입니다. 샴푸는 써봤던 거라 의심 없이 리뷰 씁니다. 각질이 자꾸 생겨서 샴푸 유목민였습니다. 이 샴푸 쓰고는 두피각질도 없어지고 순하고 좋습니다. 또 구매합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "154",
+    "Word": "35",
+    "RDate": "20210623",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품을 많이 주셨습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "기분 좋은 샘플입니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두피보호",
+        "SentimentText": "두피각질도 없어지고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "순하고 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "780829",
+    "RawText": "탈모샴푸 ㅇㅇ로 쓰고 있는데 이 제품이 세정력은 더 좋네요. 거품도 잘 나고 세정력은 더 좋은것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "59",
+    "Word": "16",
+    "RDate": "20210622",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력",
+        "SentimentText": "이 제품이 세정력은 더 좋네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품도 잘 나고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "세정력은 더 좋은것 같습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "780830",
+    "RawText": "세정력은 참 좋은 것 같습니다. 향도 거부감 없이 좋아요. 사용 후 트리트먼트 잘 쓰면 모발이 튼튼해지는 느낌입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "17",
+    "RDate": "20210622",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력",
+        "SentimentText": "세정력은 참 좋은것 같습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 거부감 없이 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "사용 후 트리트먼트 잘 쓰면 모발이 튼튼해지는 느낌입니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "780837",
+    "RawText": "허브 성분이 있는지 시원하고 상쾌한 느낌이 좋습니다. 꾸준히 사용하려고 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "44",
+    "Word": "10",
+    "RDate": "20210621",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분",
+        "SentimentText": "허브 성분이 있는지 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "시원하고 상쾌한 느낌이 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "780839",
+    "RawText": "탈모가 걱정되어 사용 중인데 머리카락이 덜 빠지는 것 같아 계속 사용하고 있습니다. 무향인데 약간의 박하향이 나서 좋아요. 여름철이라 쿨링 제품으로 선택했는데 사용하기 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "99",
+    "Word": "23",
+    "RDate": "20210619",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "머리카락이 덜 빠지는 것 같아 계속 사용하고 있습니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "무향인데 약간의 박하향이 나서 좋아요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "여름철이라 쿨링 제품으로 선택했는데 사용하기 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "780855",
+    "RawText": "일단 머리 감고 말릴 때 한움큼씩 빠지던 머리가 셀 수 있을 만큼으로 좀 적게 빠지는 것 같습니다. 한 달 정도는 더 써봐야 효과가 있는지 알 것 같습니다. 현재까지는 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "100",
+    "Word": "29",
+    "RDate": "20210607",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "한움큼씩 빠지던 머리가 셀 수 있을 만큼으로 좀 적게 빠지는 것 같습니다.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "한 달 정도는 더 써봐야 효과가 있는지 알 것 같습니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "780860",
+    "RawText": "사용한지 몇달 되었는데 처음에는 건조한 듯 싶었지만 세정력은 좋습니다. 두피 각질이 덜해진게 느껴져요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "13",
+    "RDate": "20210604",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "처음에는 건조한 듯 싶었지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "세정력은 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두피보호",
+        "SentimentText": " 두피 각질이 덜해진게 느껴져요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "780863",
+    "RawText": "맨솔이 들어있나봅니다. 얼굴에 샴푸가 흘러내리면 화~한게 맨소래담 바른것 처럼 시원해서 좋네요. 탈모 효과는 모르겠어요. 아직 몇번 안 써봐서 효과는 모르겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "91",
+    "Word": "20",
+    "RDate": "20210602",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "얼굴에 샴푸가 흘러내리면 화~한게 맨소래담 바른것 처럼 시원해서 좋네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "탈모 효과는 모르겠어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "아직 몇번 안 써봐서 효과는 모르겠습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "780864",
+    "RawText": "가격대비 괜찮은 듯해서 구매했어요. 처음 며칠은 머리카락 빠지는 느낌이 들었는데  조금 지나면서 머리카락이 적응했는지 머리카락이 덜 빠지고 볼륨감도 느껴지네요. 초반에만 린스 한 것처럼 머리카락이 볼륨이 없었지만 좀 더 사용하면서 볼륨감이 연출돼서 괜찮은 듯하네요. 배송은 OOO배송이라 다음날 받았는데 포장은 신경 써 주셔야 할 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "191",
+    "Word": "44",
+    "RDate": "20210602",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 괜찮은 듯해서 구매했어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "머리카락 빠지는 느낌이 들었는데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "머리카락이 덜 빠지고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "볼륨감도 느껴지네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "초반에만 린스 한 것처럼 머리카락이 볼륨이 없었지만",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "사용하면서 볼륨감이 연출돼서 괜찮은 듯하네요.  ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "780869",
+    "RawText": "탈모 증상 완화가 어느 정도 될지 모르겠지만 기대하고 있습니다. 세정력이나 향은 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "49",
+    "Word": "12",
+    "RDate": "20210530",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "탈모 증상 완화가 어느 정도 될지 모르겠지만 기대하고 있습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "세정력이나 향은 좋네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 좋네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "780876",
+    "RawText": "두피에 좋다고 해서 한번 사봤는데요. 샴푸만 하면 머리카락이 너무 뻣뻣해서 트리트먼트도 꼭 함께 써야하네요. 두피에 좋은지는 더 써봐야 알 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "84",
+    "Word": "21",
+    "RDate": "20210527",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "샴푸만 하면 머리카락이 너무 뻣뻣해서 트리트먼트도 꼭 함께 써야하네요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두피보호",
+        "SentimentText": "두피에 좋은지는 더 써봐야 알 것 같아요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "780879",
+    "RawText": "세정력이 너무 강해서 모발이 많이 건조한 것 같습니다. 산뜻한 느낌은 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "44",
+    "Word": "11",
+    "RDate": "20210525",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세정력",
+        "SentimentText": "세정력이 너무 강해서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "모발이 많이 건조한 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "산뜻한 느낌은 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "780884",
+    "RawText": "OOO 쓰다 요즘 광고 많이 해서 사봤어요. 받자마자 사용해 봤는데 두피가 시원해서 좋은데 머리카락이 부드럽게 잘 내려가지는 않네요.  머리가 덜 빠지는지 아직 모르겠고 가격은 나쁘지 않았어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "108",
+    "Word": "26",
+    "RDate": "20210522",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "두피가 시원해서 좋은데 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머리카락이 부드럽게 잘 내려가지는 않네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "머리가 덜 빠지는지 아직 모르겠고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 나쁘지 않았어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "780888",
+    "RawText": "아들이 머리 감고 나니 두피가 깨끗하고 시원하다고 합니다. 미용실에서 크리닉 받은 기분이라 만족하고 있습니다. 두피가 민감해서 자극이 없는 이 제품을 친정 엄마께 권해 드리고 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "102",
+    "Word": "25",
+    "RDate": "20210521",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력",
+        "SentimentText": "두피가 깨끗하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "시원하다고 합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "두피가 민감해서 자극이 없는 이 제품을 친정 엄마께 권해 드리고 합니다.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "780898",
+    "RawText": "남편 두피가 예민해서 머리속이 빨갛습니다. 머리도 많이 빠지고요. 가격은 비싸지만 이제품이 효과가 있기를 바라면서 구입했어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "15",
+    "RDate": "20210518",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 비싸지만 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "이제품이 효과가 있기를 바라면서 구입했어요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "780903",
+    "RawText": "광고 보고 구입했습니다. 성분이 좋아서 사용해보니 멘솔 느낌이라 시원합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "3",
+    "Syllable": "42",
+    "Word": "9",
+    "RDate": "20210517",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분",
+        "SentimentText": "성분이 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "멘솔 느낌이라 시원합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "780904",
+    "RawText": "좋아서 다시 구매했습니다. 시원하고 깨끗하게 잘 씻기네요. 샘플도 많이 주셔서 좋았어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "49",
+    "Word": "11",
+    "RDate": "20210517",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "시원하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "깨끗하게 잘 씻기네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "샘플도 많이 주셔서 좋았어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "780907",
+    "RawText": "탈모에 좋은 것 아직 모르겠으나 샴푸 후 개운함은 탁월하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "34",
+    "Word": "9",
+    "RDate": "20210517",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "탈모에 좋은 것 아직 모르겠으나",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "샴푸 후 개운함은 탁월하네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "780910",
+    "RawText": "4주 정도 써보고 후기 남기네요. 처음에는 괜찮은 듯 하였으나 제가 써 본 탈모 샴푸 중에 품질이 최하인 제품입니다. 효과도 없고 머리가 너무나 많이 빠지네요. OOO이라 믿고 3개나 구입했는데 후회스럽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "1",
+    "Syllable": "116",
+    "Word": "29",
+    "RDate": "20210516",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 최하인 제품입니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과도 없고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "머리가 너무나 많이 빠지네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "780912",
+    "RawText": "거품이 풍성하게 잘 나요. 탈모 샴푸 사용하면 머리가 많이 뻣뻣한데 이 제품은 뻣뻣하지 않아서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "15",
+    "RDate": "20210516",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품이 풍성하게 잘 나요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "이 제품은 뻣뻣하지 않아서 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "780913",
+    "RawText": "원래 ㅇㅇ 쓰는데 그게 너무 건조해서 그런지 머리에 뾰루지가 나서 바꿔봤네요.이거 쓰니 머릿결도 부드러운데(그렇다고 실리콘 들어간 샴푸만큼은 아니예요) 두피도 적당히 시원하고 두피에 뭐가 안나요 머리 덜 빠지는건 더 써봐야 알듯 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "132",
+    "Word": "31",
+    "RDate": "20210516",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결도 부드러운데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "두피도 적당히 시원하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두피보호",
+        "SentimentText": "두피에 뭐가 안나요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": "머리 덜 빠지는건 더 써봐야 알듯 합니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "780919",
+    "RawText": "며칠 안 써 봐서 효과는 잘 모르겠습니다. 청량감은 있고 효과는 한 통 다 써 봐야 알 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "18",
+    "RDate": "20210514",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "며칠 안 써 봐서 효과는 잘 모르겠습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "청량감은 있고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과는 한 통 다 써 봐야 알 것 같습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "780941",
+    "RawText": "머리 감고 나면 두피도 시원하고, 사춘기 아들도 두피가 덜 간지럽다고 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "43",
+    "Word": "11",
+    "RDate": "20210510",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "두피도 시원하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두피보호",
+        "SentimentText": "두피가 덜 간지럽다고 합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "780951",
+    "RawText": "비듬이 조금 생겨서 써봤는데 괜찮은 것 같아요. 다른 두피건강 샴푸와 달리 머릿결이 부드럽게 유지되는 것도 장점이네요. 앞으로도 계속 애용할 것 같고 추천합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "90",
+    "Word": "22",
+    "RDate": "20210507",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두피보호",
+        "SentimentText": "비듬이 조금 생겨서 써봤는데 괜찮은 것 같아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결이 부드럽게 유지되는 것도 장점이네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "780952",
+    "RawText": "인터넷 검색을 통해 알게 되었습니다. 사용한지는 조금 되었어요. 가격 저렴하게 행사할때 쟁여 놓을 수 있어서 좋아요. 두피가 시원합니다. 그리고 두피 간지러움증도 덜해지는 것 같네요. 트리트먼트가 필요 없을 정도로 부드러움도 장점이에요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "132",
+    "Word": "30",
+    "RDate": "20210507",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 저렴하게 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "두피가 시원합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두피보호",
+        "SentimentText": "두피 간지러움증도 덜해지는 것 같네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "트리트먼트가 필요 없을 정도로 부드러움도 장점이에요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "780953",
+    "RawText": "샴푸를 구매하려던차에 성분이 좋아서 ㅇㅇㅇ 샴푸로 선택했어요. 샴푸할때 강한 향이 있어 아쉽지만 꾸준히 사용해봐야 전체적 효과는 알 수 있을 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "85",
+    "Word": "21",
+    "RDate": "20210507",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "성분",
+        "SentimentText": "성분이 좋아서 ㅇㅇㅇ 샴푸로 선택했어요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "샴푸할때 강한 향이 있어 아쉽지만 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "꾸준히 사용해봐야 전체적 효과는 알 수 있을 것 같아요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "780956",
+    "RawText": "배송 시작부터 4일 걸렸습니다. 이틀 정도 걸리는 데 많이 늦네요. 용기 디자인이 세련되었습니다. 배송시에도 종이 완충제를 사용했네요. 향이 독특해서 호불호가 갈릴 수 있겠네요. 세정력은 우수합니다. 샴푸 후에 청량감이 남아 있어서 좋습니다. 탈모 방지 효과는 아직 알 수 없지만 꾸준히 사용해서 효과 보고 싶습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 라** 두피강화 샴푸 400ml 1개",
+    "ReviewScore": "3",
+    "Syllable": "177",
+    "Word": "43",
+    "RDate": "20210507",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "용기 디자인이 세련되었습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 독특해서 호불호가 갈릴 수 있겠네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "세정력은 우수합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "청량감이 남아 있어서 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈모개선",
+        "SentimentText": " 탈모 방지 효과는 아직 알 수 없지만 꾸준히 사용해서 효과 보고 싶습니다. ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "0"
+      }
+    ]
+  }
+]

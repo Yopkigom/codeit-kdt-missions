@@ -1,0 +1,3020 @@
+[
+  {
+    "Index": "99314",
+    "RawText": "비수기때 상품구입~ 최저가로 가장 저렴하게 구입해서 완전 좋아요. 근데 이음새쪽 마감상태가 안좋은지 석유냄새가 너무 많이 나네요. 환기를 시켜도 안될 정도에요ㅠㅠ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "90",
+    "Word": "20",
+    "RDate": "20210712",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "최저가로 가장 저렴하게 구입해서 완전 좋아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "이음새쪽 마감상태가 안좋은지 석유냄새가 너무 많이 나네요. 환기를 시켜도 안될 정도에요ㅠㅠ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99315",
+    "RawText": "2020년8월 최근 제조된 새상품 이라서 너무 좋습니다. 그런데 기름까지 넣는데도 전기세가 너무 많이 나와서 실망입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "15",
+    "RDate": "20201123",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "제조일/제조사",
+        "SentimentText": "020년8월 최근 제조된 새상품 이라서 너무 좋습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소비전력",
+        "SentimentText": "전기세가 너무 많이 나와서 실망입니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99316",
+    "RawText": "사이즈가 너무 커서 당황스럽네요. 놓을곳도 마땅치 않은데ㅠㅠ 제품 발열량이 높아서 화력 만큼은 정말 좋아요. 거기에 할인쿠폰 사용해서 저렴한 가격으로 사서 기분까지 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "96",
+    "Word": "22",
+    "RDate": "20200923",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 너무 커서 당황스럽네요. 놓을곳도 마땅치 않은데ㅠㅠ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "제품 발열량이 높아서 화력 만큼은 정말 좋아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인쿠폰 사용해서 저렴한 가격으로 사서 기분까지 좋아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99317",
+    "RawText": "생각한것보다 사이즈가 작아 좁은 방안 구석에 딱 놓기 좋습니다. 색상도 제가 좋아하는 아이보리 색상이고요 정말 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "16",
+    "RDate": "20191213",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "생각한것보다 사이즈가 작아 좁은 방안 구석에 딱 놓기 좋습니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 제가 좋아하는 아이보리 색상이고요 정말 좋습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99319",
+    "RawText": "3일만에 제품 받아서 사용중인데 생각한것보다 정말 따뜻해서 올 겨울 잘 보낼 수 있을꺼 같아요. 그런데 바퀴가 없어 이동할때 들고 다녀야 해서 너무 불편하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "89",
+    "Word": "23",
+    "RDate": "20211204",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "생각한것보다 정말 따뜻해서 올 겨울 잘 보낼 수 있을꺼 같아요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "바퀴가 없어 이동할때 들고 다녀야 해서 너무 불편하네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99320",
+    "RawText": "실버색상을 주문했는데 때가 많이 타는 아이보리 색상으로 와서 짜증나요! 제품 사용해 봤는데 덥다 못해 너무 뜨겁고 바람세기조절 기능이 없어 너무 실망스러워요. 기름 넣다가 확인 해보니 왼쪽 하단 부분이 찌그러져서 기분 진짜 더럽네요! 검수도 안하고 상품 보내다니 장사 대충하시나 보네요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "160",
+    "Word": "39",
+    "RDate": "20201004",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "실버색상을 주문했는데 때가 많이 타는 아이보리 색상으로 와서 짜증나요!",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "제품 사용해 봤는데 덥다 못해 너무 뜨겁고 바람세기조절 기능이 없어 너무 실망스러워요",
+        "SentimentWord": "12",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "왼쪽 하단 부분이 찌그러져서 기분 진짜 더럽네요!",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99321",
+    "RawText": "은은한 아이보리 색상이라 예쁘고 좋습니다. 캠핑다니면서 사용중인데 생각보단 따뜻하지가 않아 아쉽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "11",
+    "RDate": "20200216",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "은은한 아이보리 색상이라 예쁘고 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "캠핑다니면서 사용중인데 생각보단 따뜻하지가 않아 아쉽습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99322",
+    "RawText": "헐~ 실물로 보니 아이보리 컬러가 더 이쁘네요^^ 그런데 기름 가득 넣으면 연소시간이 10시간 정도뿐이 안가서 실망스럽네요ㅠㅠ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "16",
+    "RDate": "20200917",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "헐~ 실물로 보니 아이보리 컬러가 더 이쁘네요^^",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "기름 가득 넣으면 연소시간이 10시간 정도뿐이 안가서 실망스럽네요ㅠㅠ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99323",
+    "RawText": "역시 히터로 유명한 ○○○ 정말 좋아요! 그런데 가격이 조금 비싼게 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "43",
+    "Word": "11",
+    "RDate": "20210115",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "제조일/제조사",
+        "SentimentText": "역시 히터로 유명한 ○○○ 정말 좋아요!",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 조금 비싼게 아쉽네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99324",
+    "RawText": "실버 색상으로 주문 했는데 아이보리 색상으로 잘못 왔지만 오히려 더 예뻐서 마음에 쏙 들어요. 자동온도조절 기능이 되질 않아서 따뜻하지도 않고 항상 춥네요ㅠㅠ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "88",
+    "Word": "22",
+    "RDate": "20211220",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "실버 색상으로 주문 했는데 아이보리 색상으로 잘못 왔지만 오히려 더 예뻐서 마음에 쏙 들어요",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "자동온도조절 기능이 되질 않아서 따뜻하지도 않고 항상 춥네요ㅠㅠ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99325",
+    "RawText": "캠핑용으로 구입했는데 개봉하자마자 기름통에서 석유 냄새도 많이 나고 거기에 뚜껑까지 찌그러져 있어서 기분이 정말 불쾌하네요. 반품하기 귀찮아서 그냥 사용하고 있아요. 냄새 때문에 매번 창문을 열어야 하니 너무 불편하고 귀찮네요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "3",
+    "Syllable": "127",
+    "Word": "29",
+    "RDate": "20201114",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "개봉하자마자 기름통에서 석유 냄새도 많이 나고 거기에 뚜껑까지 찌그러져 있어서 기분이 정말 불쾌하네요",
+        "SentimentWord": "13",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "냄새 때문에 매번 창문을 열어야 하니 너무 불편하고 귀찮네요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99326",
+    "RawText": "마감상태가 좋아서 그런지 기름 냄새가 거의 나질 않아서 좋고 발열량이 높아 금방 온도가 높아지면서 방안이 훈훈하고 따뜻해 지네요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "18",
+    "RDate": "20220112",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "마감상태가 좋아서 그런지 기름 냄새가 거의 나질 않아서 좋고",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "발열량이 높아 금방 온도가 높아지면서 방안이 훈훈하고 따뜻해 지네요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99327",
+    "RawText": "연료탱크가 커서 한번에 많은 양을 담을 수 있어서 좋고, 캠핑장 가서 따뜻하게 지낼 수 있으니 최고인거 같아요~^^",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "17",
+    "RDate": "20210916",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량",
+        "SentimentText": "연료탱크가 커서 한번에 많은 양을 담을 수 있어서 좋고",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "캠핑장 가서 따뜻하게 지낼 수 있으니 최고인거 같아요~^^",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99328",
+    "RawText": "캠핑가면서 사용했는데 텐트안이 더울정도로 너무 따뜻해서 좋네요. 가동할때 소음이 너무 커서 오래 켜놓진 못해요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "14",
+    "RDate": "20211005",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "캠핑가면서 사용했는데 텐트안이 더울정도로 너무 따뜻해서 좋네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "가동할때 소음이 너무 커서 오래 켜놓진 못해요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99329",
+    "RawText": "히터 하나만 켜도 온 집안이 금세 따끗해져 올겨울 포근하게 지낼 수 있어서 좋아요. 그런데 바퀴가 없으니 이동하며 사용을 할 수 없어서 엄청 불편해요",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "83",
+    "Word": "23",
+    "RDate": "20211227",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "히터 하나만 켜도 온 집안이 금세 따끗해져 올겨울 포근하게 지낼 수 있어서 좋아요",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "바퀴가 없으니 이동하며 사용을 할 수 없어서 엄청 불편해요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99330",
+    "RawText": "매달 연료 비용이 많이 나오질 않아서 너무 만족하고요, 집안 온도가 금방 올라가서 따뜻하고 포근하네요~",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "14",
+    "RDate": "20220216",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "매달 연료 비용이 많이 나오질 않아서 너무 만족하고요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "집안 온도가 금방 올라가서 따뜻하고 포근하네요~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99331",
+    "RawText": "15평 원룸에서 사용하기 딱 좋은 사이즈라서 마음에 들고 화력이 높아서 방이 엄청 따뜻해져서 좋아요. 기름 냄새도 거의 나질 않아서 좋아요. 근데 디자인이 너무 촌스러워서 마음에 들지가 않아요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-C904DMA",
+    "ReviewScore": "5",
+    "Syllable": "108",
+    "Word": "27",
+    "RDate": "20191130",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "15평 원룸에서 사용하기 딱 좋은 사이즈라서 마음에 들고",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "화력이 높아서 방이 엄청 따뜻해져서 좋아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "기름 냄새도 거의 나질 않아서 좋아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 너무 촌스러워서 마음에 들지가 않아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99332",
+    "RawText": "중고가보다 더 저렴한 가격으로 구입해서 기분이 좋네요. 근데 생각했던 밝은 화이트 색상이 아니라서 많이 실망했어요. 제품은 발열량이 높아서 엄청 따뜻하게 지낼수있어서 너무 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-C904DMA",
+    "ReviewScore": "5",
+    "Syllable": "100",
+    "Word": "23",
+    "RDate": "20181228",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "중고가보다 더 저렴한 가격으로 구입해서 기분이 좋네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "생각했던 밝은 화이트 색상이 아니라서 많이 실망했어요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "제품은 발열량이 높아서 엄청 따뜻하게 지낼수있어서 너무 좋아요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99333",
+    "RawText": "쇼핑몰 검색후 정말 저렴한 가격으로 장만했어요^^ 냄새가 많이 난다는 평이 있지만 전 석유 냄새가 별로 나지 않아서 사용하기 편했어요^^",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-C904DMA",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "19",
+    "RDate": "20181012",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "쇼핑몰 검색후 정말 저렴한 가격으로 장만했어요^^",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "냄새가 많이 난다는 평이 있지만 전 석유 냄새가 별로 나지 않아서 사용하기 편했어요^^",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99334",
+    "RawText": "방안이 더울 정도로 따뜻해서 너무 좋고, 디자인도 심플하고 예뻐서 마음에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-C904DMA",
+    "ReviewScore": "5",
+    "Syllable": "45",
+    "Word": "11",
+    "RDate": "20201031",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "방안이 더울 정도로 따뜻해서 너무 좋고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 심플하고 예뻐서 마음에 듭니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99335",
+    "RawText": "전원을 켜고 끌때 석유냄새가 조금 나는데 환기를 시키면 그나마 괜찮네요. 한번 기름을 넣은면 연소 시간이 10시간도 못가서 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-C904DMA",
+    "ReviewScore": "3",
+    "Syllable": "74",
+    "Word": "18",
+    "RDate": "20181109",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "전원을 켜고 끌때 석유냄새가 조금 나는데 환기를 시키면 그나마 괜찮네요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "한번 기름을 넣은면 연소 시간이 10시간도 못가서 아쉽네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99336",
+    "RawText": "히터를 켤때 석유냄새가 약간 나는데 환기 시키면 좀 괜찮아 져요. 방 온도가 금세 올라가 따뜻하고 훈훈해져서 너무 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-C904DMA",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "18",
+    "RDate": "20181124",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "히터를 켤때 석유냄새가 약간 나는데 환기 시키면 좀 괜찮아 져요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "방 온도가 금세 올라가 따뜻하고 훈훈해져서 너무 좋아요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99337",
+    "RawText": "중소형 아파트가 오래되서 윗풍이 장난이 아니였는데 히터 켜놓으면 거실 곳곳이 따뜻해져서 얼었던 몸이 녹네요^^ 가동음 소리가 나는데 거슬릴 정도는 아니라서 괜찮아요. 그리고 기름값이 많이 안들어가서 너무 좋네요^^",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-C909MVP 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "119",
+    "Word": "27",
+    "RDate": "20190108",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "히터 켜놓으면 거실 곳곳이 따뜻해져서 얼었던 몸이 녹네요^^",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "가동음 소리가 나는데 거슬릴 정도는 아니라서 괜찮아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "기름값이 많이 안들어가서 너무 좋네요^^",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99338",
+    "RawText": "안방이 빠르게 온기가 돌고 따뜻해져서 넘 만족해요, 그런데 기름이 세는지 석유 냄새가 많이 나서 환기를 시켜도 안되네요ㅠㅠ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-C909MVP 일반구매",
+    "ReviewScore": "4",
+    "Syllable": "68",
+    "Word": "17",
+    "RDate": "20200108",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "안방이 빠르게 온기가 돌고 따뜻해져서 넘 만족해요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "기름이 세는지 석유 냄새가 많이 나서 환기를 시켜도 안되네요ㅠㅠ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99339",
+    "RawText": "사무실 안에서 사용 중인데 발열량이 높아서 금방 따뜻해져 손발이 안 시리네요^^ 근데 전원코드선이 너무 짧아서 연장선이 필요하네요ㅠㅠ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-C909MVP 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "17",
+    "RDate": "20211116",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "사무실 안에서 사용 중인데 발열량이 높아서 금방 따뜻해져 손발이 안 시리네요^^",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "근데 전원코드선이 너무 짧아서 연장선이 필요하네요ㅠㅠ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99340",
+    "RawText": "온풍기 켜고 나서 윗풍이 따뜻해져 올겨울 따뜻하게 잘 지낼꺼 같네요^^ 석유를 자주 넣지 않아도 되서 너무 편리하네요^^",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-C909MVP 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "17",
+    "RDate": "20190109",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "온풍기 켜고 나서 윗풍이 따뜻해져 올겨울 따뜻하게 잘 지낼꺼 같네요^^",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "석유를 자주 넣지 않아도 되서 너무 편리하네요^^",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99341",
+    "RawText": "화력의 성능이 너무 좋아서 올 겨울을 따뜻하게 지낼 수 있어서 행복해요~ 사무실 안에서 사용하기 딱 알맞은 사이즈라 정말 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-C909MVP 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "19",
+    "RDate": "20191207",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "화력의 성능이 너무 좋아서 올 겨울을 따뜻하게 지낼 수 있어서 행복해요~",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사무실 안에서 사용하기 딱 알맞은 사이즈라 정말 좋아요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99344",
+    "RawText": "실버색상이라 세련된 색감이 아니라 엄청 촌스러워서 못봐주겠네요ㅡㅡ^ 그렇지만 가격하나는 저렴해서 좋아서 사용하려구요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-C909MVP 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "12",
+    "RDate": "20161102",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "실버색상이라 세련된 색감이 아니라 엄청 촌스러워서 못봐주겠네요ㅡㅡ^",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "그렇지만 가격하나는 저렴해서 좋아서 사용하려구요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99345",
+    "RawText": "몇일간 사용해본 결과 넓은 거실에 희망온도를 올리면 금세 따뜻해져서 좋아요^^ 디자인도 깔끔한 편이라 마음에 들고요. 처음 가동할따 석유냄새가 좀 나지만 심한 정도는 아니라 그냥 사용하고 있어요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-C909MVP 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "109",
+    "Word": "26",
+    "RDate": "20181224",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "넓은 거실에 희망온도를 올리면 금세 따뜻해져서 좋아요^^",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 깔끔한 편이라 마음에 들고요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "처음 가동할따 석유냄새가 좀 나지만 심한 정도는 아니라 그냥 사용하고 있어요",
+        "SentimentWord": "11",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "99346",
+    "RawText": "일단 최근제조에 최신형이라서 너무 마음에 들고요. 가격도 할인특가로 저렴하게 구입해서 기분이 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-C909MVP 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "12",
+    "RDate": "20191216",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제조일/제조사",
+        "SentimentText": "일단 최근제조에 최신형이라서 너무 마음에 들고요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 할인특가로 저렴하게 구입해서 기분이 좋네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99347",
+    "RawText": "열기가 장난 아니게 좋아 거실이 후끈하네요^^ 온도조절 버튼의 터치감이 너무 안좋고 잘 눌러지지도 않아요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-C909MVP 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "14",
+    "RDate": "20170310",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "열기가 장난 아니게 좋아 거실이 후끈하네요^^",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "온도조절 버튼의 터치감이 너무 안 좋고 잘 눌러지지도 않아요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99348",
+    "RawText": "잠깐 가동만 해도 방 전체가 따뜻한 공기로 훈훈해져서 좋아요. 그런데 등유냄새가 너무 많이 나서 머리가 아플정도네요ㅠㅠ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-C909MVP 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "16",
+    "RDate": "20171123",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "잠깐 가동만 해도 방 전체가 따뜻한 공기로 훈훈해져서 좋아요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "등유냄새가 너무 많이 나서 머리가 아플정도네요ㅠㅠ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99349",
+    "RawText": "캠핑갈때 사용하려고 구입했는데 생각보다 너무 커서 캠핑용으로 무리인듯 싶어서 아쉽네요. 발열은 좋아 따뜻하고 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-C909MVP 일반구매",
+    "ReviewScore": "4",
+    "Syllable": "66",
+    "Word": "14",
+    "RDate": "20201112",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "캠핑갈때 사용하려고 구입했는데 생각보다 너무 커서 캠핑용으로 무리인듯 싶어서 아쉽네요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "발열은 좋아 따뜻하고 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99351",
+    "RawText": "발이 시려워서 책상 밑에 두고 사용하고 있는데 소음이 없어서 조용하니 좋고 화력이 높아서 발이 따뜻해지네요^^",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "아이슈미드 슈미드 마카롱 SC-MH-2020 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "15",
+    "RDate": "20210204",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소음",
+        "SentimentText": "소음이 없어서 조용하니 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "화력이 높아서 발이 따뜻해지네요^^",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99352",
+    "RawText": "사진보다 실물 사이즈가 훨씬 더 작아서 실망했어요. 성능은 괜찮은 편이지만 방안 전체가 따뜻해질 정도는 아니고 발이 시려울때 쓰기 알맞네요. 디자인이 귀여워서 어디에 둬도 잘 어울리네요. 그런데 여러면에서 가격이 너무 비싼감이 있네요ㅠㅠ 그리고 스위치 버튼을 한참동안이나 눌려야 해서 너무 답답하고 불편하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "아이슈미드 슈미드 마카롱 SC-MH-2020 일반구매",
+    "ReviewScore": "4",
+    "Syllable": "173",
+    "Word": "40",
+    "RDate": "20201203",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사진보다 실물 사이즈가 훨씬 더 작아서 실망했어요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "성능은 괜찮은 편이지만 방안 전체가 따뜻해질 정도는 아니고 발이 시려울때 쓰기 알맞네요",
+        "SentimentWord": "12",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 귀여워서 어디에 둬도 잘 어울리네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "여러면에서 가격이 너무 비싼감이 있네요ㅠㅠ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "스위치 버튼을 한참동안이나 눌려야 해서 너무 답답하고 불편하네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99353",
+    "RawText": "색깔이 선명하지도 않고 무광이라 그런지 엄청 촌스럽네요ㅠㅠ 전원 선줄도 너무 짧아서 불편하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "아이슈미드 슈미드 마카롱 SC-MH-2020 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "53",
+    "Word": "12",
+    "RDate": "20210524",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색깔이 선명하지도 않고 무광이라 그런지 엄청 촌스럽네요ㅠㅠ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "전원 선줄도 너무 짧아서 불편하네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99354",
+    "RawText": "실물로 보니 색상도 너무 예쁘고 디자인도 깜찍해서 넘 귀엽네요^^",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "아이슈미드 슈미드 마카롱 SC-MH-2020 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "36",
+    "Word": "9",
+    "RDate": "20210321",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "실물로 보니 색상도 너무 예쁘고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 깜찍해서 넘 귀엽네요^^",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99355",
+    "RawText": "실물로 보니 생각보다 너무 작아서 실망했는데... 그런데 대박!! 성능이 최고네요~ 완전 따뜻해서 너무 좋아요!!!",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "아이슈미드 슈미드 마카롱 SC-MH-2020 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "14",
+    "RDate": "20201007",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "실물로 보니 생각보다 너무 작아서 실망했는데",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "대박!! 성능이 최고네요~ 완전 따뜻해서 너무 좋아요!!!",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99356",
+    "RawText": "소음은 생각보단 거의 들리지 않아서 좋고, 일할때 손이나 발이 시려울때 잠깐식 사용하기 딱 좋은거 같아요^^",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "아이슈미드 슈미드 마카롱 SC-MH-2020 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "15",
+    "RDate": "20201214",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소음",
+        "SentimentText": "소음은 생각보단 거의 들리지 않아서 좋고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "일할때 손이나 발이 시려울때 잠깐식 사용하기 딱 좋은거 같아요^^",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99357",
+    "RawText": "사이즈 작아서 너무 귀엽네요, 근데 전력 소모량이 너무 많아 오래 사용하진 못해요",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "아이슈미드 슈미드 마카롱 SC-MH-2020 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "45",
+    "Word": "12",
+    "RDate": "20210501",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈 작아서 너무 귀엽네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소비전력",
+        "SentimentText": "전력 소모량이 너무 많아 오래 사용하진 못해요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99359",
+    "RawText": "디자인이 깜찍하고 예뻐서 좋습니다. 크기가 컴팩트해서 캠핑용으론 최고인거 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "아이슈미드 슈미드 마카롱 SC-MH-2020 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "46",
+    "Word": "9",
+    "RDate": "20211007",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 깜찍하고 예뻐서 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "크기가 컴팩트해서 캠핑용으론 최고인거 같습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99360",
+    "RawText": "발열량이 높아 텐트 안이 따뜻해져서 너무 좋은데 이음새나 표면이 매끄럽지 않고 마감 상태가 너무 좋질 않아요ㅠㅠ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "알파카 태서전기 TS-77A",
+    "ReviewScore": "4",
+    "Syllable": "62",
+    "Word": "16",
+    "RDate": "20210826",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "발열량이 높아 텐트 안이 따뜻해져서 너무 좋은데",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "이음새나 표면이 매끄럽지 않고 마감 상태가 너무 좋질 않아요ㅠㅠ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99361",
+    "RawText": "옛날보다 더 가격이 인상되어 비싸게 주고 샀어요ㅠㅠ 그렇지만 마감은 깔끔하고 품질 하나는 진짜 짱이네요^^",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "알파카 태서전기 TS-77A",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "14",
+    "RDate": "20211229",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "옛날보다 더 가격이 인상되어 비싸게 주고 샀어요ㅠㅠ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "마감은 깔끔하고 품질 하나는 진짜 짱이네요^^",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99362",
+    "RawText": "이음세도 문제없고 마감도 깔끔한 양품 받아서 기분이 좋네요. 디자인은 좀 많이 구려요. 옛날 구식 석유난로처럼 못생겼네요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "알파카 태서전기 TS-77A",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "16",
+    "RDate": "20201127",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "이음세도 문제없고 마감도 깔끔한 양품 받아서 기분이 좋네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인은 좀 많이 구려요. 옛날 구식 석유난로처럼 못생겼네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99363",
+    "RawText": "거실 중앙에 놓았는데 따뜻해져서 기분이 너무 좋아요. 기름을 넣었는데 기름통이 작아서 조금뿐이 안들어 가네요. 통이 좀 컸으면 하는 아쉬움이 있네요. 또 가동시키면 기름 냄새가 조금 나는데 참을만 해요^^; 화력이 너무 좋아 주전자 올려 놓으니 물이 팔팔 끓네요^.,^",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "알파카 태서전기 TS-77A",
+    "ReviewScore": "5",
+    "Syllable": "150",
+    "Word": "37",
+    "RDate": "20181218",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "거실 중앙에 놓았는데 따뜻해져서 기분이 너무 좋아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "기름을 넣었는데 기름통이 작아서 조금뿐이 안들어 가네요. 통이 좀 컸으면 하는 아쉬움이 있네요",
+        "SentimentWord": "13",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "가동시키면 기름 냄새가 조금 나는데 참을만 해요^^; ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "화력이 너무 좋아 주전자 올려 놓으니 물이 팔팔 끓네요^.,^",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99364",
+    "RawText": "무게가 가벼워서 캠핑장에 들고가기 편하네요~ 그런데 사용해보니 발열량이 낮아서 따뜻한 열기가 없는게 아쉽네요",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "알파카 태서전기 TS-77A",
+    "ReviewScore": "4",
+    "Syllable": "60",
+    "Word": "13",
+    "RDate": "20211220",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게가 가벼워서 캠핑장에 들고가기 편하네요~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "사용해보니 발열량이 낮아서 따뜻한 열기가 없는게 아쉽네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99367",
+    "RawText": "디자인은 깔끔하고 깨끗해 보여 이쁜데, 작동시키니 석유냄새가 진동을 하네요 ㅠㅠ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "코베아 KGH-2006BK",
+    "ReviewScore": "5",
+    "Syllable": "44",
+    "Word": "10",
+    "RDate": "20201124",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인은 깔끔하고 깨끗해 보여 이쁜데",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "작동시키니 석유냄새가 진동을 하네요 ㅠㅠ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99368",
+    "RawText": "한정판이라고 하더니 판매자가 구라 쳤네요--; 일단 상품을 받아보니 하판과 전면부 문이 찌끄러져 있는 하자 상품이라 완전 어이없네요. 일단 기능적인 부분들은 정상이라 괜찮아서 그냥 쓰고 있어요. 제발 확인 좀 하고 보냅시다 예??!",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "토요토미 KS-67H 해외구매",
+    "ReviewScore": "4",
+    "Syllable": "129",
+    "Word": "31",
+    "RDate": "20181103",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "일단 상품을 받아보니 하판과 전면부 문이 찌끄러져 있는 하자 상품이라 완전 어이없네요",
+        "SentimentWord": "12",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "일단 기능적인 부분들은 정상이라 괜찮아서 그냥 쓰고 있어요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "99369",
+    "RawText": "마감상태가 좋은지 등유냄새가 전혀 나질 않아서 만족하고, 캠핑장에서 잘때 춥지않고 따뜻하게 잘수있어서 좋아요. 그리고 디자인이 심플하고 너무 예쁘고, 가격도 비싸지 않아서 좋고 상단에 쥐포나 오징어도 구워먹을수 있어 다용도로 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "토요토미 KS-67H 해외구매",
+    "ReviewScore": "5",
+    "Syllable": "130",
+    "Word": "29",
+    "RDate": "20201118",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "마감상태가 좋은지 등유냄새가 전혀 나질 않아서 만족하고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "캠핑장에서 잘때 춥지않고 따뜻하게 잘수있어서 좋아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 심플하고 너무 예쁘고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 비싸지 않아서 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "상단에 쥐포나 오징어도 구워먹을수 있어 다용도로 좋아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99370",
+    "RawText": "본체 고장없이 작동이 잘되서 좋아요 그런데 색상이 깨끗한 화이트가 보단 칙칙한 아이보리 색상이라 실망했어요",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "토요토미 KS-67H 해외구매",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "14",
+    "RDate": "20201123",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "본체 고장없이 작동이 잘되서 좋아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 깨끗한 화이트가 보단 칙칙한 아이보리 색상이라 실망했어요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99373",
+    "RawText": "난로 퀄리티가 생각보다 훌륭하네요!! 용량이 다양하지 않아서 좀 아쉽습니다",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "토요토미 RSX-230B 해외구매",
+    "ReviewScore": "5",
+    "Syllable": "41",
+    "Word": "9",
+    "RDate": "20220829",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "난로 퀄리티가 생각보다 훌륭하네요!!",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "용량이 다양하지 않아서 좀 아쉽습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99374",
+    "RawText": "아담하고 컴팩트한 디자인이라 맘에 드네요 제품 마감도 깔끔하고 중국산이지만 모양이나 품질은 괜찬아요",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "툴스타 TS-FH2K",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "12",
+    "RDate": "20201104",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "아담하고 컴팩트한 디자인이라 맘에 드네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "제품 마감도 깔끔하고 중국산이지만 모양이나 품질은 괜찬아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99375",
+    "RawText": "사고싶어서 알아보던중 좋은기회에 저렴하게 살수있어서 좋았습니다. 캠핑가서 사용하다 전기 차단기가 내려갈 정도에요ㅠ소비전력은 많이 아쉽습니다",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "툴스타 TS-FH2K",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "14",
+    "RDate": "20181010",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "사고싶어서 알아보던중 좋은기회에 저렴하게 살수있어서 좋았습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소비전력",
+        "SentimentText": "캠핑가서 사용하다 전기 차단기가 내려갈 정도에요ㅠ소비전력은 많이 아쉽습니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99376",
+    "RawText": "적정 온도까지 올라가면 알아서 꺼지는 기능이 있어 좋네요. 아쉬운 건 전기를 많이 먹습니다..",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "툴스타 TS-FH2K",
+    "ReviewScore": "5",
+    "Syllable": "52",
+    "Word": "13",
+    "RDate": "20190130",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "적정 온도까지 올라가면 알아서 꺼지는 기능이 있어 좋네요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소비전력",
+        "SentimentText": "아쉬운 건 전기를 많이 먹습니다..",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99377",
+    "RawText": "사이즈는 작은데 그렇다고 기능이 안되는 건 아니네요 열풍기능이 짱짱합니다 야외에서 사용가능하니 편리하고 캠핑족에게 필수네용",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "툴스타 TS-FH2K",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "14",
+    "RDate": "20201222",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈는 작은데 그렇다고 기능이 안되는 건 아니네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "열풍기능이 짱짱합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "야외에서 사용가능하니 편리하고 캠핑족에게 필수네용",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99378",
+    "RawText": "사이즈가 작아서 텐트 안에서 사용하기 좋습니다. 그런데 제조 날짜가 좀 오래돼서 찝찝하긴 하네요",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "툴콘 TP-500V PLUS",
+    "ReviewScore": "5",
+    "Syllable": "53",
+    "Word": "13",
+    "RDate": "20190907",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 작아서 텐트 안에서 사용하기 좋습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제조일/제조사",
+        "SentimentText": "제조 날짜가 좀 오래돼서 찝찝하긴 하네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99379",
+    "RawText": "아이 목욕시키고 나올때 온풍기 켜놓으니 따듯해서 넘 좋아요. 성능 만족합니다. 대신 소리는 좀 커요 ㅠ 작은방에서보다 큰공간에서 써야겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "툴콘 TP-500V PLUS",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "18",
+    "RDate": "20201214",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "아이 목욕시키고 나올때 온풍기 켜놓으니 따듯해서 넘 좋아요. 성능 만족합니다",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "대신 소리는 좀 커요 ㅠ 작은방에서보다 큰공간에서 써야겠어요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99380",
+    "RawText": "히터라기 보단 커다란 드라이기 같아요 몇초만에 최고온도로 바로 나옵니다 온도조절 단계가 2개밖에 선택이 안되서 좀 아쉽네요 좁은 방안에서는 1단도 충분히 따뜻합니다 과열차단방지 기능이 있어 온도가 너무 올라가면 바로 꺼져요 그러니 전력소모는 줄어드니 좋네요 출력이 낮으니 소음도 적긴 하지만 약간 있어 거슬리고 타이머 기능이 없어 좀 아쉬워요",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "툴콘 TP-800D",
+    "ReviewScore": "4",
+    "Syllable": "191",
+    "Word": "46",
+    "RDate": "20191023",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "히터라기 보단 커다란 드라이기 같아요 몇초만에 최고온도로 바로 나옵니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "온도조절 단계가 2개밖에 선택이 안되서 좀 아쉽네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "좁은 방안에서는 1단도 충분히 따뜻합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소비전력",
+        "SentimentText": "온도가 너무 올라가면 바로 꺼져요 그러니 전력소모는 줄어드니 좋네요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "출력이 낮으니 소음도 적긴 하지만 약간 있어 거슬리고",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "타이머 기능이 없어 좀 아쉬워요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99381",
+    "RawText": "가성비가 좋은 제품이라 추천해요~ 그런데 전기를 너무 많이 먹어서 집에서는 사용 못합니다",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "툴콘 TP-800D",
+    "ReviewScore": "5",
+    "Syllable": "49",
+    "Word": "12",
+    "RDate": "20200812",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비가 좋은 제품이라 추천해요~ ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소비전력",
+        "SentimentText": "전기를 너무 많이 먹어서 집에서는 사용 못합니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99382",
+    "RawText": "성능 강추~ 금세 따뜻해지고요. 사이즈도 작아서 가지고 다니기 너무 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "툴콘 TP-800D",
+    "ReviewScore": "5",
+    "Syllable": "41",
+    "Word": "10",
+    "RDate": "20200930",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "성능 강추~ 금세 따뜻해지고요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈도 작아서 가지고 다니기 너무 좋네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99383",
+    "RawText": "디자인이 투박할 줄 알았는데 고급스럽고, 성능도 최고에요 따뜻한 바람이 금방 나오네요~",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "툴콘 TP-800D",
+    "ReviewScore": "5",
+    "Syllable": "48",
+    "Word": "11",
+    "RDate": "20190923",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 투박할 줄 알았는데 고급스럽고, ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "성능도 최고에요 따뜻한 바람이 금방 나오네요~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99384",
+    "RawText": "가성비가 아주 좋은 제품이네요. 키자마자 따뜻해지는 이 감동적인 성능은 무엇~^^ 텐트 안에서 사용하기 적당한 사이즈고요",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "툴콘 TP-800D",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "15",
+    "RDate": "20190419",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비가 아주 좋은 제품이네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "키자마자 따뜻해지는 이 감동적인 성능은 무엇~^^",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "텐트 안에서 사용하기 적당한 사이즈고요 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99386",
+    "RawText": "팬히터 알아본다니까 왜 주변에서 OOO만 추천하는지 써보니 알겠어요!! 미니 팬히터인 만큼 작은 크기도 만족스럽고 작은몸집에서 강하게 나오는 열풍이 짱짱해서 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "툴콘 TP-800D",
+    "ReviewScore": "5",
+    "Syllable": "92",
+    "Word": "20",
+    "RDate": "20201016",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제조일/제조사",
+        "SentimentText": "팬히터 알아본다니까 왜 주변에서 OOO만 추천하는지 써보니 알겠어요!!",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "미니 팬히터인 만큼 작은 크기도 만족스럽고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "작은몸집에서 강하게 나오는 열풍이 짱짱해서 좋습니다 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99387",
+    "RawText": "욕실에서 사용했는데 춥지않게 공기가 훈훈해져서 좋아요.  최신 제품이 아니라서 딱하나 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "툴콘 TP-800D",
+    "ReviewScore": "5",
+    "Syllable": "53",
+    "Word": "11",
+    "RDate": "20191018",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "제조일/제조사",
+        "SentimentText": "최신 제품이 아니라서 딱하나 아쉽네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "춥지않게 공기가 훈훈해져서 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99388",
+    "RawText": "디자인 귀엽고 깔끔해서 추천해요! 그런데 최근 제조 제품이 아니라서 많이 아쉽네요",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "툴콘 TP-800D",
+    "ReviewScore": "4",
+    "Syllable": "45",
+    "Word": "11",
+    "RDate": "20201021",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 귀엽고 깔끔해서 추천해요!",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제조일/제조사",
+        "SentimentText": "최근 제조 제품이 아니라서 많이 아쉽네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99389",
+    "RawText": "틀자마자 빠르게 따뜻해지네요  그런데 소재는 싸구려 플라스틱으로 만든 거 같아 아쉽네요",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "툴콘 TP-800D",
+    "ReviewScore": "5",
+    "Syllable": "48",
+    "Word": "11",
+    "RDate": "20200109",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "틀자마자 빠르게 따뜻해지네요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재는 싸구려 플라스틱으로 만든 거 같아 아쉽네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99393",
+    "RawText": "사이즈가 아담하고 귀여워요 가성비 좋고 휴대하기 편해서 캠핑가서 잘 사용했답니다^^",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "툴콘 TP-800D",
+    "ReviewScore": "5",
+    "Syllable": "46",
+    "Word": "10",
+    "RDate": "20200418",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 아담하고 귀여워요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "휴대하기 편해서 캠핑가서 잘 사용했답니다^^",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99395",
+    "RawText": "단점은타 제품보다 연료 효율이 떨어져 별로고.  급유 구멍이 잘 안보여서 불편하고요, 소음이 좀 있어서 신경 쓰입니다. 화력이 강력해서 1단으로도 더워질정도에요. 끌때 살짝 기름냄새가 나지만 켜고 사용중엔 전혀 안나요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "파세코 P-15000F 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "122",
+    "Word": "28",
+    "RDate": "20180202",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "소비전력",
+        "SentimentText": "타 제품보다 연료 효율이 떨어져 별로고. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "급유 구멍이 잘 안보여서 불편하고요,",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "소음이 좀 있어서 신경 쓰입니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "화력이 강력해서 1단으로도 더워질정도에요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "끌때 살짝 기름냄새가 나지만 켜고 사용중엔 전혀 안나요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "99396",
+    "RawText": "추운 겨울나기용으로 집안 전체 따뜻하면 좋을거 같아 구입했는데 사이즈가 너무 큰 것 같은데 그럭저럭 쓸만 합니다 기름 넣는 투입구 위치가 낮아서 펌프를 사용해야만 되니 사용이 불편해요 기름 채울때 계기판의 저울이 보이는 건 좋은데 속도를 맞추며 넣어야 넘치지 않구요 점화 된 뒤에도 꼭 통풍을 해야 하는 번거로움은 있지만 온풍 기능이 잘되어 정말 따뜻해서 반했어요",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "파세코 P-15000F 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "203",
+    "Word": "53",
+    "RDate": "20210913",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 너무 큰 것 같은데 그럭저럭 쓸만 합니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "기름 넣는 투입구 위치가 낮아서 펌프를 사용해야만 되니 사용이 불편해요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "기름 채울때 계기판의 저울이 보이는 건 좋은데 속도를 맞추며 넣어야 넘치지 않구요",
+        "SentimentWord": "12",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "꼭 통풍을 해야 하는 번거로움은 있지만 온풍 기능이 잘되어 정말 따뜻해서 반했어요",
+        "SentimentWord": "12",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "99397",
+    "RawText": "화력은 좋아서 따뜻하고 좋습니다. 그런데 화력을 내리면 그을음냄새가 나요. 환기필수인데 추운겨울에 걱정이에요..",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "파세코 PKH-5100",
+    "ReviewScore": "3",
+    "Syllable": "62",
+    "Word": "12",
+    "RDate": "20201129",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "화력은 좋아서 따뜻하고 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "화력을 내리면 그을음냄새가 나요. 환기필수인데 추운겨울에 걱정이에요.. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99398",
+    "RawText": "난로들인 이후로 전기담요 없어도 따듯해서 잠이 잘 옵니다. 한가지 아쉬운건 탱크용량이 제가 사용하기에는 작은듯해요. 조금더 컸으면 하는 아쉬움이 있네요",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "파세코 PKH-5100",
+    "ReviewScore": "5",
+    "Syllable": "84",
+    "Word": "19",
+    "RDate": "20191125",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "난로들인 이후로 전기담요 없어도 따듯해서 잠이 잘 옵니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "한가지 아쉬운건 탱크용량이 제가 사용하기에는 작은듯해요. 조금더 컸으면 하는 아쉬움이 있네요",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99399",
+    "RawText": "따뜻한 바람으로 방 안을 아주 훈훈하게 만들어줍니다. 성능 굿~ 조작 방법이 간단해서 아이들이 사용하기에도 편하고, 넘어지기라도 한다면 자동으로 전원이 차단되는 기능도 아주 마음에 들고요. 쿠폰 받아서 저렴하게 구매해서 강추합니다",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "한일전기 HEF-605 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "128",
+    "Word": "29",
+    "RDate": "20191205",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻한 바람으로 방 안을 아주 훈훈하게 만들어줍니다. 성능 굿~",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "조작 방법이 간단해서 아이들이 사용하기에도 편하고,",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "넘어지기라도 한다면 자동으로 전원이 차단되는 기능도 아주 마음에 들고요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰 받아서 저렴하게 구매해서 강추합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99400",
+    "RawText": "틀마자마자 빠른 속도로 훈훈해져서 너무 좋아요. 단점은 최근에 제조된 제품이 아니라서 슬프네요.. 흑..",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "한일전기 HEF-605 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "13",
+    "RDate": "20211109",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "틀마자마자 빠른 속도로 훈훈해져서 너무 좋아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제조일/제조사",
+        "SentimentText": "최근에 제조된 제품이 아니라서 슬프네요.. 흑..",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99401",
+    "RawText": "사이즈가 엄청 작아서 마음에 들어요. 작은 방에 딱 입니다~ 색상은 좀 누런 화이트라 예쁘지는 않네요",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "한일전기 HEF-605 일반구매",
+    "ReviewScore": "4",
+    "Syllable": "56",
+    "Word": "15",
+    "RDate": "20191220",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 엄청 작아서 마음에 들어요. 작은 방에 딱 입니다~",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상은 좀 누런 화이트라 예쁘지는 않네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99402",
+    "RawText": "온풍기 크기가 작은방에서 따듯하게 쓰기에 딱 좋아요. 단, 방이 작으니 소리가 더 크게 들리는걸까요.ㅠ 소음 있습니다",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "한일전기 HEF-605 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "16",
+    "RDate": "20210310",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "온풍기 크기가 작은방에서 따듯하게 쓰기에 딱 좋아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "단, 방이 작으니 소리가 더 크게 들리는걸까요.ㅠ 소음 있습니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99403",
+    "RawText": "겨울철 우리집 필수템입니다. 정말 잘산거같아요 뜨끈뜨끈 따뜻한 물 잘 나옵니다. 단지, 따듯한물나오기까지 시간이 생각보다 길게 느껴집니다 ㅠ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "경동나비엔 EW-30RN",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "17",
+    "RDate": "20201213",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "겨울철 우리집 필수템입니다. 정말 잘산거같아요 뜨끈뜨끈 따뜻한 물 잘 나옵니다",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "단지, 따듯한물나오기까지 시간이 생각보다 길게 느껴집니다 ㅠ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99406",
+    "RawText": "오프라인보다 3배나 저렴하게 샀어요! 너무 좋네요. 그런데 작동이 꺼져도 열감이 한참 남아있어서 불안하네요",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "경동나비엔 EW-30RN",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "13",
+    "RDate": "20211010",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "오프라인보다 3배나 저렴하게 샀어요! 너무 좋네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성",
+        "SentimentText": "그런데 작동이 꺼져도 열감이 한참 남아있어서 불안하네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99422",
+    "RawText": "보일러는 역시 000이죠 전용면적보다 좀 더 큰걸로 구입했는데 효율성 좋구요 소음은 다소 있지만 보일러 문 닫으면 차단되어 괜찬아요 온수기능이 좋아 뜨거운 물 콸콸 잘 나오고 온도 조절하는 부분 디자인이 깔끔하니 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "린나이 RC300-22KF",
+    "ReviewScore": "5",
+    "Syllable": "123",
+    "Word": "31",
+    "RDate": "20171211",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제조일/제조사",
+        "SentimentText": "보일러는 역시 000이죠",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소비전력",
+        "SentimentText": "전용면적보다 좀 더 큰걸로 구입했는데 효율성 좋구요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "소음은 다소 있지만 보일러 문 닫으면 차단되어 괜찬아요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "온수기능이 좋아 뜨거운 물 콸콸 잘 나오고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "온도 조절하는 부분 디자인이 깔끔하니 좋습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99425",
+    "RawText": "동브랜드 다른모델 오랜시간 사용하다 노후되서 신제품으로 교체해했어요^^ 정말 빠르게 30초 이내에 따듯한물 잘나와서 감동이고 뜨끈뜨끈한 물 잘나오고 보일러 잘돌아요 성능 만족입니다",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "린나이 RC600-15KF 일반판매점",
+    "ReviewScore": "5",
+    "Syllable": "100",
+    "Word": "21",
+    "RDate": "20210522",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제조일/제조사",
+        "SentimentText": "동브랜드 다른모델 오랜시간 사용하다 노후되서 신제품으로 교체해했어요^^",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "정말 빠르게 30초 이내에 따듯한물 잘나와서 감동이고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "뜨끈뜨끈한 물 잘나오고 보일러 잘돌아요 성능 만족입니다 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99429",
+    "RawText": "온라인에서 저렴하게 구매한 줄 알았는데 그냥 거기서 거기네요. 콘덴싱으로 에너지 효율이 좋아 가스비 절약되네요",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "린나이 RC600-18KF 일반판매점",
+    "ReviewScore": "4",
+    "Syllable": "61",
+    "Word": "14",
+    "RDate": "20220307",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "온라인에서 저렴하게 구매한 줄 알았는데 그냥 거기서 거기네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "소비전력",
+        "SentimentText": "콘덴싱으로 에너지 효율이 좋아 가스비 절약되네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99433",
+    "RawText": "이전에 사용하던 000 제품이라 믿고 구입했습니다 신상품은 수명이 짧다는데 오래 쓰길 바라네요 온수도 잘 데워지고 성능은 역시 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "린나이 RC600-27KF 일반판매점",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "18",
+    "RDate": "20220324",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제조일/제조사",
+        "SentimentText": "이전에 사용하던 000 제품이라 믿고 구입했습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "온수도 잘 데워지고 성능은 역시 좋네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99434",
+    "RawText": "사이즈가 커서 공간 차지를 많이해서 별로네요. 그래도 보일러는 ooo 최고지요!",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "린나이 REW-TA30W",
+    "ReviewScore": "4",
+    "Syllable": "44",
+    "Word": "10",
+    "RDate": "20170324",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 커서 공간 차지를 많이해서 별로네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제조일/제조사",
+        "SentimentText": "그래도 보일러는 ooo 최고지요!",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99437",
+    "RawText": "어린 딸 안전을 위해 000 제품 구입했는데 역시 이름대로 너무 좋네요 디자인 예쁜거는 말할 것도 없고 풍량기능이 자연 바람으로 솔솔 나오니 너무 좋습니다 5단 넘어가니 소음은 약간 있지만 이정도면 무난하죠 리모컨이 있어 좋고 상단에 부착되니 잃어 버리지 않을거 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "다이슨 AM-07 에어멀티플라이어 일반구매",
+    "ReviewScore": "4",
+    "Syllable": "150",
+    "Word": "39",
+    "RDate": "20170624",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제조일/제조사",
+        "SentimentText": "000 제품 구입했는데 역시 이름대로 너무 좋네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 예쁜거는 말할 것도 없고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "풍량기능이 자연 바람으로 솔솔 나오니 너무 좋습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "소음은 약간 있지만 이정도면 무난하죠",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "리모컨이 있어 좋고 상단에 부착되니 잃어 버리지 않을거 같아요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99438",
+    "RawText": "날개없는 선풍기라 아이가 선풍기 근처에 있어도 안심되고 날개없어도 이렇게 시원할수 있다니 성능 만족스럽습니다. 가격은 일반선풍기에 비해 부담스러운 금액이에요ㅠ 대신 선풍기 청소가 너무 쉽고 편해서 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "다이슨 AM-07 에어멀티플라이어 일반구매",
+    "ReviewScore": "4",
+    "Syllable": "113",
+    "Word": "25",
+    "RDate": "20160616",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "날개없는 선풍기라 아이가 선풍기 근처에 있어도 안심되고 날개없어도 이렇게 시원할수 있다니 성능 만족스럽습니다",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 일반선풍기에 비해 부담스러운 금액이에요ㅠ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "대신 선풍기 청소가 너무 쉽고 편해서 좋아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99439",
+    "RawText": "000 선풍이 이름 믿고 구입했는데 너무 실망입니다 이 제품 선호하는 사람만 구입할 듯요 소음은 진짜 커서 자는 동안 내내 거슬리고 바람쎄기도 저가선풍기와 동일한 성능이네요 30만원이 누구집 애 이름도 아니고 돈이 아까워요... ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "다이슨 AM-07 에어멀티플라이어 일반구매",
+    "ReviewScore": "1",
+    "Syllable": "128",
+    "Word": "31",
+    "RDate": "20210525",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제조일/제조사",
+        "SentimentText": "000 선풍이 이름 믿고 구입했는데 너무 실망입니다 이 제품 선호하는 사람만 구입할 듯요",
+        "SentimentWord": "13",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "소음은 진짜 커서 자는 동안 내내 거슬리고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "바람쎄기도 저가선풍기와 동일한 성능이네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "30만원이 누구집 애 이름도 아니고 돈이 아까워요...",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99440",
+    "RawText": "색상은 화면보다 칙칙해서 별로네요... 선풍기가 가벼워서 살짝만 건드려서 쓰러져버려 불안해요.  성능도 딱히 시원하지는 않네요",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "다이슨 AM-07 에어멀티플라이어 일반구매",
+    "ReviewScore": "3",
+    "Syllable": "70",
+    "Word": "14",
+    "RDate": "20190506",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상은 화면보다 칙칙해서 별로네요... ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "선풍기가 가벼워서 살짝만 건드려서 쓰러져버려 불안해요.  ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "성능도 딱히 시원하지는 않네요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99441",
+    "RawText": "바람이 너무 약해서 하나도 안시원해요 간지럽지도 않을 정도에요 조용하지도 않고 모터 소리 꽤 크고요 아기안전땜에 구입했는데 왠걸 제품이 부실해서 애기힘에도 그냥 쓰러지네요 전자제품 구입하고서 이렇게 후회하긴 처음입니다",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "다이슨 AM-07 에어멀티플라이어 일반구매",
+    "ReviewScore": "1",
+    "Syllable": "121",
+    "Word": "27",
+    "RDate": "20170705",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "바람이 너무 약해서 하나도 안시원해요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "조용하지도 않고 모터 소리 꽤 크고요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성",
+        "SentimentText": "제품이 부실해서 애기힘에도 그냥 쓰러지네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99442",
+    "RawText": "디자인이 괜찮아서 구매했는데 리모컨 없으면 동작 불가.. 완전 불편해요. 가격도 비싼 편이라 진짜 후회막심입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "다이슨 AM-07 에어멀티플라이어 일반구매",
+    "ReviewScore": "1",
+    "Syllable": "63",
+    "Word": "14",
+    "RDate": "20170705",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 괜찮아서 구매했는데 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "리모컨 없으면 동작 불가.. 완전 불편해요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 비싼 편이라 진짜 후회막심입니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99443",
+    "RawText": "소음은 크지도 작지도 않음 그냥 쓸만한 정도.  상하 각도조절 기능은 없지만 회전.타이머 기능만 있어도 충분히 쓸만해요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "다이슨 AM-07 에어멀티플라이어 일반구매",
+    "ReviewScore": "4",
+    "Syllable": "67",
+    "Word": "16",
+    "RDate": "20170810",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "소음",
+        "SentimentText": "소음은 크지도 작지도 않음 그냥 쓸만한 정도. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": " 상하 각도조절 기능은 없지만 회전.타이머 기능만 있어도 충분히 쓸만해요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "99444",
+    "RawText": "단점은 상하 조절 기능이 없다는 거.. 그냥 쓸 만하네요. 소음은 그냥 참을 만한 정도입니다. 디자인은 진짜 킹왕짱 예쁩니다~!",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "다이슨 AM-07 에어멀티플라이어 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "18",
+    "RDate": "20160526",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "단점은 상하 조절 기능이 없다는 거.. 그냥 쓸 만하네요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "소음은 그냥 참을 만한 정도입니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인은 진짜 킹왕짱 예쁩니다~!",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99445",
+    "RawText": "1.2단계는 조용해서 좋았는데 3,4단계 가니까 소리가 많이 크네요 ㅠ  크기는 작아서 공간 많이 차지안하니 좋아요 크기에 비해 성능도 좋아요 바람이 상당히 시원합니다. 좌우 100도 회전도 되니 좋구요. 다른 선풍기에 비해 가격이 비싼게  유일한 단점이에요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "루메나 오난코리아 FAN PRIME 2+ 1개",
+    "ReviewScore": "5",
+    "Syllable": "145",
+    "Word": "34",
+    "RDate": "20220815",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "소음",
+        "SentimentText": "1.2단계는 조용해서 좋았는데 3,4단계 가니까 소리가 많이 크네요 ㅠ ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "크기는 작아서 공간 많이 차지안하니 좋아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "크기에 비해 성능도 좋아요 바람이 상당히 시원합니다. 좌우 100도 회전도 되니 좋구요 ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "다른 선풍기에 비해 가격이 비싼게  유일한 단점이에요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99446",
+    "RawText": "배터리가 30분도 안돼서 금방 방전됩니다 짜증나요.. 제품 재질도 무슨 싸구려 플라스틱으로 만든 거 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "루메나 오난코리아 FAN PRIME 2+ 1개",
+    "ReviewScore": "1",
+    "Syllable": "59",
+    "Word": "14",
+    "RDate": "20220826",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "배터리",
+        "SentimentText": "배터리가 30분도 안돼서 금방 방전됩니다 짜증나요.. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "제품 재질도 무슨 싸구려 플라스틱으로 만든 거 같아요 ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99447",
+    "RawText": "조립도 간편해서 좋고~ 리모컨도 구성품이라 더 좋고요. 소리도 조용하고 디자인까지 깔끔해서 칭찬받았네요^^",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "루메나 오난코리아 FAN PRIME 2+ 1개",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "12",
+    "RDate": "20220524",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "조작성",
+        "SentimentText": "조립도 간편해서 좋고~ ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "리모컨도 구성품이라 더 좋고요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "소리도 조용하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인까지 깔끔해서 칭찬받았네요^^",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99448",
+    "RawText": "첨 보는 브랜드라 한번 사봤는데 품질이 너무 하네요 돈만 버린 듯요 진짜 별로에요 모터 돌아가는 소리 엄청 크고 걸리는 소리도 나구요 넘 심해서 A/S 보냈는데 똑같은 증상이에요",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "루메나 오난코리아 FAN PRIME 2+ 1개",
+    "ReviewScore": "1",
+    "Syllable": "99",
+    "Word": "27",
+    "RDate": "20220624",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 너무 하네요 돈만 버린 듯요 진짜 별로에요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "모터 돌아가는 소리 엄청 크고 걸리는 소리도 나구요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99449",
+    "RawText": "기대하고 구입했는데 360도 회전하고 강력한 풍량이 넘 좋네요 카키색상 영롱하니 이쁘고 너무 만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "루메나 오난코리아 FAN PRIME 2+ 1개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "13",
+    "RDate": "20220601",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "360도 회전하고 강력한 풍량이 넘 좋네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "카키색상 영롱하니 이쁘고 너무 만족합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "99450",
+    "RawText": "색상이 예쁘지는 않네요 후회중.. 들고 다니기엔 부담스러운 크기예요 ㅡ.ㅡ 무게도 상당히 무겁습니다. 소음은 그럭저럭 사용할 만한 정도예요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "루메나 오난코리아 FAN PRIME 2+ 1개",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "17",
+    "RDate": "20220709",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 예쁘지는 않네요 후회중.. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "들고 다니기엔 부담스러운 크기예요 ㅡ.ㅡ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게도 상당히 무겁습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "소음은 그럭저럭 사용할 만한 정도예요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "99451",
+    "RawText": "같은제품 사용하다 만족스러워서 추가구매한건데 품질이 왜 이모양인가요ㅠ날개가 지멋대로 돌아버립니다. 색상이 밝은 파스텔톤도 있었으면 좋겠습니다. 색까지 어두워서 더워보여요ㅠ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "루메나 오난코리아 FAN PRIME 2+ 1개",
+    "ReviewScore": "2",
+    "Syllable": "95",
+    "Word": "17",
+    "RDate": "20220805",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "같은제품 사용하다 만족스러워서 추가구매한건데 품질이 왜 이모양인가요ㅠ날개가 지멋대로 돌아버립니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 밝은 파스텔톤도 있었으면 좋겠습니다. 색까지 어두워서 더워보여요ㅠ ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99452",
+    "RawText": "2개 주문했는데 포장이 달라 이상하다 했더니 역시나 불량 당첨입니다 받침대 헐렁한데다 기스도 나있고요 교환은 했지만 기분이 별로에요 저렴한 것도 아니고 새제품 구입했는데 이러면 곤란하죠 000 브랜드 이름에 먹칠하는 행위 하지 마세요 다신 안삽니다",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "루메나 오난코리아 FAN STAND 3X 1개",
+    "ReviewScore": "1",
+    "Syllable": "138",
+    "Word": "33",
+    "RDate": "20220830",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "역시나 불량 당첨입니다 받침대 헐렁한데다 기스도 나있고요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 것도 아니고 새제품 구입했는데 이러면 곤란하죠",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제조일/제조사",
+        "SentimentText": "000 브랜드 이름에 먹칠하는 행위 하지 마세요 다신 안삽니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99454",
+    "RawText": "색상도 별로 안 예쁜데, 품질이 진짜 별로네요.. 불량이 왔네요.ㅡㅡ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "루메나 오난코리아 FAN STAND 3X 1개",
+    "ReviewScore": "1",
+    "Syllable": "38",
+    "Word": "9",
+    "RDate": "20220704",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 별로 안 예쁜데,",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 진짜 별로네요.. 불량이 왔네요.ㅡㅡ ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "99455",
+    "RawText": "두개 사서 할인 받아 저렴하게 구입했어요 사용해보니 풍량조절도 잘되고 회전기능이 있어 좋아요 타이머로 조작이 가능해서 편하고 소음은 약간 있지만 잠들면 모릅니다ㅋ 대체적으로 맘에 들어요",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "루메나 오난코리아 FAN STAND 3X 1개",
+    "ReviewScore": "5",
+    "Syllable": "103",
+    "Word": "24",
+    "RDate": "20220818",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "두개 사서 할인 받아 저렴하게 구입했어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "사용해보니 풍량조절도 잘되고 회전기능이 있어 좋아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "타이머로 조작이 가능해서 편하고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "소음은 약간 있지만 잠들면 모릅니다ㅋ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  }
+]

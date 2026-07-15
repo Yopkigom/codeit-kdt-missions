@@ -1,0 +1,3152 @@
+[
+  {
+    "Index": "706500",
+    "RawText": "좋은 품질의 상품입니다. 마음에 쏙 듭니다. 촉촉해서 좋은 것 같습니다. 가격만 더 저렴하면 좋겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 애프터쉐이브 스킨 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "14",
+    "RDate": "20220422",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "좋은 품질의 상품입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "촉촉해서 좋은 것 같습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격만 더 저렴하면 좋겠어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "706514",
+    "RawText": "오랫동안 사용하고 있는 제품이네요. 유통기한은 짧은 제품이 와서 아쉽지만 용량이 넉넉하고 가격이 저렴해서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 애프터쉐이브 스킨 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "14",
+    "RDate": "20220609",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한은 짧은 제품이 와서 아쉽지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "용량이 넉넉하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴해서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "706515",
+    "RawText": "사용하기 편해서 좋은 것 같습니다. 늘 쓰던 제품이라 신뢰가 가고 가격도 최저가로 구입해서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 애프터쉐이브 스킨 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "14",
+    "RDate": "20220615",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기 편해서 좋은 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 최저가로 구입해서 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "706542",
+    "RawText": "평이 좋아서 구매했는데 향이 너무 올드해서 좋지 않습니다. 제가 좋아하는 향이 아닙니다. 용량도 작아서 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 애프터쉐이브 스킨 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "15",
+    "RDate": "20190109",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 너무 올드해서 좋지 않습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "제가 좋아하는 향이 아닙니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "용량도 작아서 아쉽네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "706555",
+    "RawText": "공항 면세점 보다 저렴해서 구입했고 배송도 빠른 것 같습니다. 긴 세월 이 제품만 고집하시며 사용하시는 아버지 선물로 구입했습니다. 가격이 저렴해서 짝퉁 제품인가 걱정은 했지만 받아보니 품질이 좋은 것 같습니다. 향을 맡아보니 너무 좋다고 하십니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 애프터쉐이브 스킨 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "139",
+    "Word": "34",
+    "RDate": "20190909",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴해서 구입했고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 좋은 것 같습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향을 맡아보니 너무 좋다고 하십니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "706561",
+    "RawText": "면도 후 바르는 스킨이 필요하다고 해서 고민하다가 이 제품으로 구매했습니다. 향은 강해서 아쉽지만 보습력은 생각보다 좋은 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 애프터쉐이브 스킨 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "18",
+    "RDate": "20191222",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향은 강해서 아쉽지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "보습력은 생각보다 좋은 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "706604",
+    "RawText": "늘 사용하는 제품이에요. 향, 발림성, 지속성 다 만족해요. 배송이나 포장도 잘 해주십니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 애프터쉐이브 스킨 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "51",
+    "Word": "12",
+    "RDate": "20200411",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향, 발림성, 지속성 다 만족해요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성, 지속성 다 만족해요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속성 다 만족해요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "706614",
+    "RawText": "남편이 오래 전부터 사용하고 있는 제품입니다. 이 향을 맡으면 기분이 좋아진다고 합니다. 다른 제품은 용기가 유리병이고 양도 조금 밖에 없어서 아쉬운데 이 제품은 용기가 플라스틱이라 좋은 것 같습니다. 배송도 빠르고 제품은 비닐 포장이나 마개 커버 없이 왔어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 애프터쉐이브 스킨 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "146",
+    "Word": "37",
+    "RDate": "20201222",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "이 향을 맡으면 기분이 좋아진다고 합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기가 플라스틱이라 좋은 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "706618",
+    "RawText": "남편이 항상 사용하는 제품이라 떨어지면 안 됩니다. 면세점에서 주로 샀는데 홈쇼핑에서 사니까 편하고 가격도 저렴합니다. 양도 많아서 좋은 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 애프터쉐이브 스킨 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "84",
+    "Word": "20",
+    "RDate": "20210106",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "양도 많아서 좋은 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "706622",
+    "RawText": "생각보다 가격이 비싼 것 같습니다. 마음에 들지 않아서 여기서 구매하지 않을 것 같습니다. 품질이 좋지 않고 배송도 제대로 안 와서 아쉬워요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 애프터쉐이브 스킨 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "21",
+    "RDate": "20210222",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 비싼 것 같습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 좋지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "706642",
+    "RawText": "우리집 남자 식구들이 전부 좋아하는 스킨입니다. 처음에 발랐을 때는 향이 독한 것 같지만 좀 날아가고 나면 은은하니 매력적인 향입니다. 매장이 많으면 좋을 텐데 저희 동네에는 하나도 없어서 인터넷으로 구매해요. 다음에 또 사러 올게요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 애프터쉐이브 스킨 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "131",
+    "Word": "33",
+    "RDate": "20190518",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 독한 것 같지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "은은하니 매력적인 향입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "706654",
+    "RawText": "좋지는 않은 것 같아요. 남편이 사용하다가 피부에 자극이 있다고 해서 사용을 안 하네요. 생각보다 비싸게 주고 사서 아쉽습니다. 겨울에 사용하기에는 피부가 건조해서 좋지 않습니다. 디자인도 마음에 들지 않아요. 재구매는 없을 듯합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 애프터쉐이브 스킨 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "131",
+    "Word": "31",
+    "RDate": "20210103",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "피부에 자극이 있다고 해서 사용을 안 하네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "비싸게 주고 사서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "겨울에 사용하기에는 피부가 건조해서 좋지 않습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "피부가 건조해서 좋지 않습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 마음에 들지 않아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "706656",
+    "RawText": "해외에 다녀오신 분이 선물로 주셔서 한 번 사용해 본 후로는 계속해서 이 제품만 구입해서 사용하고 있어요. 한번 써보면 다른 스킨로션에는 눈이 가지 않을 정도의 청량감과 오래도록 지속되는 향을 느낄 수 있어 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 애프터쉐이브 스킨 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "120",
+    "Word": "32",
+    "RDate": "20210209",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "청량감과 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "오래도록 지속되는 향을 느낄 수 있어 좋아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "706693",
+    "RawText": "알코올 성분이 너무 많아서 아쉽습니다. 세안 후 바르면 지속력도 없는 것 같아요. 피부가 너무 건조해서 다른 로션 쓰고 있어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 애프터쉐이브 스킨 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "19",
+    "RDate": "20180913",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "성분",
+        "SentimentText": "알코올 성분이 너무 많아서 아쉽습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력도 없는 것 같아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "피부가 너무 건조해서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "706706",
+    "RawText": "몇 년째 OOO만 쓰고 있습니다. 호불호가 갈리는 향이지만 저는 향이 좋아요. 은은한 향이 오랫동안 퍼져서 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 애프터쉐이브 스킨 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "16",
+    "RDate": "20200915",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "호불호가 갈리는 향이지만 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "저는 향이 좋아요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "은은한 향이 오랫동안 퍼져서 좋아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "오랫동안 퍼져서 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "706756",
+    "RawText": "호불호가 있는 향이지만 이 제품을 늘 사용하는 남편과 아버지를 위해 구매했습니다. 포장도 잘 되어서 와서 좋고 유통기한도 넉넉해서 기분이 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 애프터쉐이브 스킨 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "82",
+    "Word": "20",
+    "RDate": "20220411",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "호불호가 있는 향이지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한도 넉넉해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "706769",
+    "RawText": "우아한 향이 삶에 활력을 주는 것 같아요. 세안을 하고 면도한 다음에 바르고 있습니다. 사용감이 좋고 시원합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 애프터쉐이브 스킨 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "16",
+    "RDate": "20201107",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "우아한 향이 삶에 활력을 주는 것 같아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용감",
+        "SentimentText": "사용감이 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "시원합니다.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "706771",
+    "RawText": "면도 후 시원한 느낌은 이 제품이 단연 최고네요. 특히 잔향이 아주 좋아 오랫동안 쓰고 있는 제품입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 애프터쉐이브 스킨 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "16",
+    "RDate": "20210223",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "시원한 느낌은 이 제품이 단연 최고네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "잔향이 아주 좋아",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "706795",
+    "RawText": "향이 좀 약해진 것 같고 가격은 많이 올랐네요. 용기는 좀 약해 보여요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 애프터쉐이브 스킨 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "40",
+    "Word": "12",
+    "RDate": "20220721",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 좀 약해진 것 같고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 많이 올랐네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기는 좀 약해 보여요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "706844",
+    "RawText": "우리 남편이 진한 향이 좋다 해서 계속 쓰고 있습니다. 배송도 빠르고 가격도 적당한 것 같아 앞으로도 쭉 쓰겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 애프터쉐이브 스킨 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "18",
+    "RDate": "20191210",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "진한 향이 좋다 해서 계속 쓰고 있습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 적당한 것 같아",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "706850",
+    "RawText": "기품있고 전통적 스킨케어를 원하시는 분에게 딱 맞는 제품 시원하고 상쾌한 향이 특징입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 애프터쉐이브 스킨 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "50",
+    "Word": "12",
+    "RDate": "20200701",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "시원하고 상쾌한 향이 특징입니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "상쾌한 향이 특징입니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "706876",
+    "RawText": "ㅇㅇㅇ 스킨 향이 참 좋아요. 항상 사용하는데 이번에 구매 하고 나니 빅세일을 시작하네요. 조금 더 비싸게 산 것 같지만 그래도 만족 해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 애프터쉐이브 스킨 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "22",
+    "RDate": "20220825",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "ㅇㅇㅇ 스킨 향이 참 좋아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "조금 더 비싸게 산 것 같지만",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "706896",
+    "RawText": "면도 후 시원해서 좋습니다. 아저씨 스킨향은 쫌 감수해야겠지만 개인적으로는 향이 나쁘지 않아 다시 구매해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 애프터쉐이브 스킨 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "14",
+    "RDate": "20210608",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "면도 후 시원해서 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "아저씨 스킨향은 쫌 감수해야겠지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "개인적으로는 향이 나쁘지 않아 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "706898",
+    "RawText": "코로나 위험시대 올드하지만 면도날 면도 후 ㅇㅇㅇ로 소독하듯 사용하니 진정효과가 있는 듯 해요. 강한 향도 좋구요. ㅇㅇ도 신뢰도 가고 좋은데 단 하나 뚜껑이 꽉 닫히지 않고 헐렁하게 왔어요. 향기가 많이 빠졌을 듯 해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 애프터쉐이브 스킨 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "124",
+    "Word": "33",
+    "RDate": "20210707",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "면도날 면도 후 ㅇㅇㅇ로 소독하듯 사용하니 진정효과가 있는 듯 해요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "강한 향도 좋구요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "706906",
+    "RawText": "면세점에서 산 제품과 비교했을 때 향이 다른 거 같아요. 향이 안 좋아요. 할인을 못 받아서 생각보다 비싸게 샀는데 만족스럽지 못하네요. 피부에 트러블도 생기는 거 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 애프터쉐이브 스킨 200ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "96",
+    "Word": "25",
+    "RDate": "20210913",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "면세점에서 산 제품과 비교했을 때 향이 다른 거 같아요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 안 좋아요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인을 못 받아서 생각보다 비싸게 샀는데",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "피부에 트러블도 생기는 거 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "706939",
+    "RawText": "향도 좋고 양도 적절하고 면도 후에 살짝 소독해 주는 느낌이 들어 진정효과가 있는 것 같아요. 다음에도 구매의사 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 애프터쉐이브 스킨 200ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "68",
+    "Word": "18",
+    "RDate": "20220107",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "양도 적절하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "면도 후에 살짝 소독해 주는 느낌이 들어 진정효과가 있는 것 같아요. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "706954",
+    "RawText": "향이 좋다고 다들 이야기하던데 저는 향이 고급지지 않은 것 같아요. 할인쿠폰을 사용해 저렴한 가격으로 사서 만족해요. 좀 더 사용해봐야 효과가 좋은지 알거 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 애프터쉐이브 스킨 200ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "91",
+    "Word": "23",
+    "RDate": "20220414",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "저는 향이 고급지지 않은 것 같아요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인쿠폰을 사용해 저렴한 가격으로 사서 만족해요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "좀 더 사용해봐야 효과가 좋은지 알거 같아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "706957",
+    "RawText": "예전부터 생각한 이 브랜드의 좋은 향이 마음에 들어요. 변함 없는 좋은 품질입니다. 면도 후 이 제품을 바르면 기분 좋은 하루가 시작됩니다. 행사 가격에 저렴하게 구입하게 되어서 좋습니다. 배송도 빠르고 완벽한 포장이네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 애프터쉐이브 스킨 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "124",
+    "Word": "31",
+    "RDate": "20220521",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "좋은 향이 마음에 들어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "변함 없는 좋은 품질입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "행사 가격에 저렴하게 구입하게 되어서 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "706971",
+    "RawText": "두말 할 필요없는 스킨이에요. 남자다운 향기가 좋아 현재 20년 넘게 사용중인 스킨이에요. 가격도 만족스러워요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 애프터쉐이브 스킨 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "14",
+    "RDate": "20180123",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "남자다운 향기가 좋아",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 만족스러워요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "706990",
+    "RawText": "요즘 면도하고 턱에 상처도 많이 나고 피지분비와 뾰루지가 나서 검색하던 중 알게되서 구매했습니다. 가격도 좋고 후기도 좋고 배송도 빨리 왔어요 정품인증상품 ㅇㅇ이라 믿고 샀어요. 사용해본 결과 일단 전 향은 좋네요 불호이신 분들도 있던데 잘 쓰겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 애프터쉐이브 스킨 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "141",
+    "Word": "35",
+    "RDate": "20181122",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향은 좋네요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "706993",
+    "RawText": "지인 선물로 구매해서 드렸어요. 이 제품 쓴다고 하셔서 샀는데 가격도 저렴하고 향도 좋습니다. 선물로 드리니까 매우 좋아하십니다. 다음에도 이 제품을 선물로 드려야겠어요. 좋은 상품을 저렴한 가격에 구입하게 되어서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 애프터쉐이브 스킨 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "125",
+    "Word": "29",
+    "RDate": "20181014",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 구입하게 되어서 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "706996",
+    "RawText": "오랫동안 계속 사용하던 제품이네요. 여행 가면 면세점에서 여러 개 구입해오고는 했는데 요즘은 면세점에 갈 수 없어서 알아보니 쇼핑몰이 더 저렴하고 편해서 구입하고 있어요. 독특한 향기 때문에 더 좋아하는 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 애프터쉐이브 스킨 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "120",
+    "Word": "30",
+    "RDate": "20190210",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "쇼핑몰이 더 저렴하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "독특한 향기 때문에 더 좋아하는 것 같아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "706999",
+    "RawText": "남자들은 면도 후에 스킨로션이 꼭 필요하더라고요. OOO 애프터 쉐이브 스킨으로 이 모든 걸 한 번에 해결했네요. 피부 보호도 잘되고 보습도 잘 유지됩니다. 향기도 자극적이지 않고 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 애프터쉐이브 스킨 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "106",
+    "Word": "26",
+    "RDate": "20190511",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "OOO 애프터 쉐이브 스킨으로 이 모든 걸 한 번에 해결했네요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "피부 보호도 잘되고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "보습도 잘 유지됩니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "잘 유지됩니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향기도 자극적이지 않고 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "707000",
+    "RawText": "전에 쓰던 다른 브랜드 스킨에 비해 향은 강한편이나 잔향이 오래 가면서 잔잔해집니다. 계속 사용한 후 만족감이 높으면 로션도 같이 구매할께요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 애프터쉐이브 스킨 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "20",
+    "RDate": "20190812",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향은 강한편이나",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "잔향이 오래 가면서 잔잔해집니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "707029",
+    "RawText": "이 제품을 바르고 나면 기분이 좋아집니다. 향수 용도로 사용해도 좋을 것 같습니다. 다른 제품과 비슷한 향이 나는데 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 애프터쉐이브 스킨 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "18",
+    "RDate": "20200724",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "향수 용도로 사용해도 좋을 것 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "다른 제품과 비슷한 향이 나는데 좋네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "707032",
+    "RawText": "아버지가 공항 면세점에서 구매해서 한번 써보시고는 이 스킨만 쓰시네요. 제가 맡아보니 너무 향이 안 좋기는 하지만 아버지는 향이 오래 지속이 되어서 좋다고 하셔서 계속 사드려요. 쇼핑몰과 면세점의 가격 차이가 많이 나는 편입니다. 그래도 여러 홈쇼핑 중에 여기가 제일 저렴합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 애프터쉐이브 스킨 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "156",
+    "Word": "39",
+    "RDate": "20200812",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 안 좋기는 하지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "향이 오래 지속이 되어서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "제일 저렴합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "707076",
+    "RawText": "후기 보고 주문했는데 일주일만에 받았어요. 디자인이 고급스럽지 않고 향도 생각보다 별로예요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 애프터쉐이브 스킨 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "51",
+    "Word": "11",
+    "RDate": "20200414",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 고급스럽지 않고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 생각보다 별로예요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "707080",
+    "RawText": "가격이 좀 비싸다고 생각했는데 향기롭고 피부에 딱 맞습니다. 잘 고른것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 애프터쉐이브 스킨 200ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "45",
+    "Word": "11",
+    "RDate": "20200427",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 좀 비싸다고 생각했는데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향기롭고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "피부에 딱 맞습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "707090",
+    "RawText": "호불호가 있는 향이지만 면도 후 시원한 느낌과 피부가 진정되는 것 같아 좋아요. 이 제품 오랫동안 사용하고 있는데 아버지도 좋아하셔서 같이 주문했어요. 가격이 저렴해지면 좋을 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 애프터쉐이브 스킨 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "104",
+    "Word": "26",
+    "RDate": "20200605",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "호불호가 있는 향이지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "시원한 느낌과 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "피부가 진정되는 것 같아 좋아요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴해지면 좋을 것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "707102",
+    "RawText": "향기 괜찮아요. 근데. 용기가 플라스틱이라 느낌이 별로네요. 스킨 용기가 거의 유리병인거에 비해 플라스틱이라 왠지 좀 별로네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 애프터쉐이브 스킨 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "16",
+    "RDate": "20200801",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향기 괜찮아요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기가 플라스틱이라 느낌이 별로네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "플라스틱이라 왠지 좀 별로네요.  ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "707147",
+    "RawText": "예전 저렴할때보다 금액은 좀 올랐지만 아버지가 이 스킨만 쓰셔서 계속 사고 있습니다. 향이 오래 간다고 하시네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 애프터쉐이브 스킨 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "16",
+    "RDate": "20210206",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "예전 저렴할때보다 금액은 좀 올랐지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "향이 오래 간다고 하시네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "707188",
+    "RawText": "처음 사용해보는 OOO 스킨 향은 참 좋은데, 알콜 성분이 강한지 손에 닿는 순간 향이 사라집니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 애프터쉐이브 스킨 200ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "55",
+    "Word": "15",
+    "RDate": "20211204",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향은 참 좋은데, ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "알콜 성분이 강한지",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "손에 닿는 순간 향이 사라집니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "707207",
+    "RawText": "용기가 액이 나오는 구멍이 커서 질질 흘려지고 사용할 때 무척 불편하네요. 향은 개인마다 호불호가 있겠지만 저는 향이 너무 강해서 좋지 않아요. 참고로 가격도 비싸서 직접 가서 사는 게 나을 것 같습니다. 구매 후회하고 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 애프터쉐이브 스킨 200ml 1개",
+    "ReviewScore": "1",
+    "Syllable": "128",
+    "Word": "34",
+    "RDate": "20220531",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기가 액이 나오는 구멍이 커서 질질 흘려지고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용할 때 무척 불편하네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향은 개인마다 호불호가 있겠지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 너무 강해서 좋지 않아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 비싸서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "707238",
+    "RawText": "면세점에서 한번 사보고 향이 오래가서 계속 이 제품만 쓰시는 아버지께 이번에 면세점 보다 더 저렴하게 사서 효자역할 했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 애프터쉐이브 스킨 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "18",
+    "RDate": "20190918",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 오래가서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "면세점 보다 더 저렴하게 사서 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "707307",
+    "RawText": "항상 사용하는 제품인데, 제주 면세점보다 더 저렴하게 잘 구매 했어요. 유효기간도 길어서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 애프터쉐이브 스킨 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "13",
+    "RDate": "20210218",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "면세점보다 더 저렴하게 잘 구매 했어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유효기간도 길어서 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "707308",
+    "RawText": "좋아하는 향이고 평소 쓰던 제품이라 재구매했습니다. 200ml라서 양도 넉넉하고 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 애프터쉐이브 스킨 200ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "50",
+    "Word": "10",
+    "RDate": "20210225",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "좋아하는 향이고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": " 200ml라서 양도 넉넉하고 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "707324",
+    "RawText": "향이 너무 약하고 용기 입구가 작아 사용할 때 불편합니다. 가격도 비싼 듯합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 애프터쉐이브 스킨 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "45",
+    "Word": "12",
+    "RDate": "20210717",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 너무 약하고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기 입구가 작아 사용할 때 불편합니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 비싼 듯합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "707363",
+    "RawText": "계속 쓰고 있는 제품인데 배송이 생각보다 늦었지만 괜찮아요. 유분이 없어서 좋고 면도 후 피부 트러블이 안 생겨서 좋습니다. 가성비도 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 애프터쉐이브 스킨 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "20",
+    "RDate": "20220222",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "유분이 없어서 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "면도 후 피부 트러블이 안 생겨서 좋습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비도 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "707379",
+    "RawText": "20년 이상 사용하고 있어요. 향이 딱 마음에 들어요. 면도하면 나서 생긴 작은 상처에 대한 피부 진정 효과가 뛰어나네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 애프터쉐이브 스킨 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "18",
+    "RDate": "20220418",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 딱 마음에 들어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "피부 진정 효과가 뛰어나네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "707392",
+    "RawText": "자주 주문해서 쓰는거라서 판매처에서도 절 알것 같아요.  언제나 변함 없는 향기와 면도후의 알싸함이 아주 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 애프터쉐이브 스킨 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "15",
+    "RDate": "20220612",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "언제나 변함 없는 향기와 면도후의 알싸함이 아주 좋습니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "면도후의 알싸함이 아주 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "707464",
+    "RawText": "제품이 양이 많아서 오래 쓸 것 같습니다. 써보니 거품도 많이 나고 면도도 잘 되네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 포** 레귤러 쉐이빙폼 311g 3개",
+    "ReviewScore": "5",
+    "Syllable": "48",
+    "Word": "14",
+    "RDate": "20220827",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량",
+        "SentimentText": "양이 많아서 오래 쓸 것 같습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "거품도 많이 나고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "면도도 잘 되네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "707493",
+    "RawText": "일단 향도 좋고 면도기로 밀 때 수염이 잘 밀리네요. 면도날에 베이지 않고 안전하게 밀리는 거 같습니다. 발림이 부드러운 거 같아요. 많이 파시고 다음에 다시 구매할게요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 포** 레귤러 쉐이빙폼 311g 3개",
+    "ReviewScore": "5",
+    "Syllable": "95",
+    "Word": "25",
+    "RDate": "20220804",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "수염이 잘 밀리네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림이 부드러운 거 같아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "면도날에 베이지 않고 안전하게 밀리는 거 같습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "707518",
+    "RawText": "향이 강한걸 좋아하지 않은데 이 제품은 향이 강하네요. 스킨 로션 냄새가 섞여서 별로네요. 다음에는 그냥 무향 쓰려고 합니다. 품질은 완전 만족해요. 이걸 써서 그런지는 모르겠지만 면도가 매끄럽게 잘돼  피부에 상처가 나지 않네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 포** 레귤러 쉐이빙폼 311g 3개",
+    "ReviewScore": "5",
+    "Syllable": "129",
+    "Word": "32",
+    "RDate": "20220712",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 강한걸 좋아하지 않은데 이 제품은 향이 강하네요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "스킨 로션 냄새가 섞여서 별로네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질은 완전 만족해요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "면도가 매끄럽게 잘돼  피부에 상처가 나지 않네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "707520",
+    "RawText": "대용량이라 넉넉하게 사용합니다. 피부에 자극적이지 않고 발림성이 부드러워서 좋습니다. 가성비 좋아요. 이 제품만 사용합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 포** 레귤러 쉐이빙폼 311g 3개",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "14",
+    "RDate": "20220710",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량",
+        "SentimentText": "대용량이라 넉넉하게 사용합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "피부에 자극적이지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성이 부드러워서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "707531",
+    "RawText": "아직 저는 사용하지 않았는데 동생이 하나 사 달라고 해서 가격은 비싸지만 사줬더니 상당히 괜찮다고 합니다. 면도할 때 항기도 괜찮다고 하네요. 저도 사용 후 괜찮으면 계속 이 제품만 사용할 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 포** 레귤러 쉐이빙폼 311g 3개",
+    "ReviewScore": "4",
+    "Syllable": "112",
+    "Word": "30",
+    "RDate": "20220703",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 비싸지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "항기도 괜찮다고 하네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "707565",
+    "RawText": "직전에 사용하던게 200g인가 했는데 311g으로 양이 많고 가성비가 좋은거 같습니다. 면도는 당연히 부드럽게 수염이 정리되고 따가운 곳도 없습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 포** 레귤러 쉐이빙폼 311g 3개",
+    "ReviewScore": "4",
+    "Syllable": "83",
+    "Word": "18",
+    "RDate": "20220530",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량",
+        "SentimentText": "양이 많고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비가 좋은거 같습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "면도는 당연히 부드럽게 수염이 정리되고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "따가운 곳도 없습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "707591",
+    "RawText": "처음 사보는 제품인데 우선 용량이 넉넉하고 가격이 좋습니다. 남편이 써보고 좋다고 하면 이걸로 사겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 포** 레귤러 쉐이빙폼 311g 3개",
+    "ReviewScore": "4",
+    "Syllable": "59",
+    "Word": "14",
+    "RDate": "20220518",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량",
+        "SentimentText": "용량이 넉넉하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "707613",
+    "RawText": "가격은 조금 올랐지만 ㅇㅇ이 제일 저렴합니다. 항상쓰던 제품이라서 품질은 좋아요. 찌그러진곳 없이 잘 도착했어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 포** 레귤러 쉐이빙폼 311g 3개",
+    "ReviewScore": "4",
+    "Syllable": "63",
+    "Word": "14",
+    "RDate": "20220429",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 조금 올랐지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "ㅇㅇ이 제일 저렴합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질은 좋아요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "707622",
+    "RawText": "가장 저렴합니다. 젤 쓰다가 다시 폼으로 돌아왔습니다. 오랫동안 몸에 익숙해서인지 OOO폼이 사용하기 편해서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 포** 레귤러 쉐이빙폼 311g 3개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "14",
+    "RDate": "20220424",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가장 저렴합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기 편해서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "707656",
+    "RawText": "최근에 전기면도기를 떨어뜨려서 고장나서 날면도기 사용중인데 비누로 하니 피부가 아팠어요. 그래서 폼을 구매했습니다. 센스티브하고 레귤러하고 구매했는데 가격은 저렴합니다. 오래 사용할듯요 사용해봤는데 맨살에 바로 사용해서 그런가 뻑뻑하게 발리고 아픕니다. 면도후 피부 아픔은 미세한듯하네요. 낼은 비누로 한번 문지르고 사용해보려구요. 박스포장에 배송 빠르게 왔어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 포** 레귤러 쉐이빙폼 311g 3개",
+    "ReviewScore": "4",
+    "Syllable": "203",
+    "Word": "41",
+    "RDate": "20220407",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 저렴합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "뻑뻑하게 발리고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "면도후 피부 아픔은 미세한듯하네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "아픕니다.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "707657",
+    "RawText": "OOO 면도크림은 거품이 쫀쫀해서 부드럽게 면도할 수 있어요. 용량도 많아서 오래 쓸 수 있어서 좋아요. 빠른 배송 감사합니다",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 포** 레귤러 쉐이빙폼 311g 3개",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "18",
+    "RDate": "20220407",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "거품이 쫀쫀해서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "부드럽게 면도할 수 있어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "용량도 많아서 오래 쓸 수 있어서 좋아요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "707669",
+    "RawText": "신랑이 좋아하시는 면도 폼이라 자주 구매합니다. 제형이 젤타입보다는 폼이라서 좋다고 하네요. 개인 차이겠지만 트러블도 안나고 좋답니다. 구매할때 1+1이고 2개만 담아도 4개라 수납장에 쟁여 놓으니 아주 든든합니다. 가격도 합리적이라 더 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 포** 레귤러 쉐이빙폼 311g 3개",
+    "ReviewScore": "5",
+    "Syllable": "138",
+    "Word": "30",
+    "RDate": "20220330",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 젤타입보다는 폼이라서 좋다고 하네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "트러블도 안나고 좋답니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "1+1이고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 합리적이라 더 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "707678",
+    "RawText": "배송이 생각보다 느렸고 방금 써봤는데 향이 좋지 않네요. 거품도 잘 안 나고 수염이 잘 밀리지 않습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 포** 레귤러 쉐이빙폼 311g 3개",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "16",
+    "RDate": "20220324",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 좋지 않네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "거품도 잘 안 나고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "수염이 잘 밀리지 않습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "707679",
+    "RawText": "리뷰 보고 궁금해서 구매했습니다. 용량은 크지만 생각보다 향도 좋지 않고 거품도 잘 안 납니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 포** 레귤러 쉐이빙폼 311g 3개",
+    "ReviewScore": "5",
+    "Syllable": "53",
+    "Word": "14",
+    "RDate": "20220323",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용량",
+        "SentimentText": "용량은 크지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 좋지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "거품도 잘 안 납니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "707693",
+    "RawText": "기존 제품보다 사용감과 디자인이 마음에 들지 않네요. 품질은 비슷한 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 포** 레귤러 쉐이빙폼 311g 3개",
+    "ReviewScore": "4",
+    "Syllable": "44",
+    "Word": "11",
+    "RDate": "20220314",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사용감",
+        "SentimentText": "사용감과 디자인이 마음에 들지 않네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 마음에 들지 않네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질은 비슷한 것 같아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "707701",
+    "RawText": "ㅇㅇㅇ는 처음 써보는데 미국수입품이에요. 가격은 비싸지만 레귤러 한개에 센시티브 두개로 구입했습니다. 레귤러 오픈해서 써 봤는데 향이 좀 진했어요. 거품은 풍성합니다. 역시 대륙제품이라 용량이 크네요. 상품은 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 포** 레귤러 쉐이빙폼 311g 3개",
+    "ReviewScore": "5",
+    "Syllable": "123",
+    "Word": "26",
+    "RDate": "20220307",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 비싸지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 좀 진했어요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "거품은 풍성합니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "대륙제품이라 용량이 크네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "707711",
+    "RawText": "배송도 빠르고 폼타입이라 좋습니다. 바로 짜내서 사용할수 있어서 편해요. 면도도 잘 됩니다",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 포** 레귤러 쉐이빙폼 311g 3개",
+    "ReviewScore": "5",
+    "Syllable": "50",
+    "Word": "12",
+    "RDate": "20220227",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "폼타입이라 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "바로 짜내서 사용할수 있어서 편해요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "면도도 잘 됩니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "707714",
+    "RawText": "베송 빠르네요. 어제 아침에 주문했는데 오늘 오전에 왔네요. OOO 면도크림 품질이 좋습니다.  젤형 쓰다 다시 크림으로 넘어왔는데, 제형이 부드러워 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 포** 레귤러 쉐이빙폼 311g 3개",
+    "ReviewScore": "5",
+    "Syllable": "89",
+    "Word": "20",
+    "RDate": "20220225",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 부드러워 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "707731",
+    "RawText": "재구매 했습니다. 향도 좋고 용량도 넉넉해서 좋습니다. 생각보다 소량만 사용해도 깔끔하게 면도가 잘 됩니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 포** 레귤러 쉐이빙폼 311g 3개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "14",
+    "RDate": "20220128",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "용량도 넉넉해서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "소량만 사용해도 깔끔하게 면도가 잘 됩니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "707740",
+    "RawText": "배송이 빨라서 좋았고 제품을 써보니, 부드럽게 면도가 잘 되네요. 대용량이라 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 포** 레귤러 쉐이빙폼 311g 3개",
+    "ReviewScore": "5",
+    "Syllable": "48",
+    "Word": "11",
+    "RDate": "20220115",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "부드럽게 면도가 잘 되네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "대용량이라 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "707748",
+    "RawText": "기존에 다른 젤 타입을 사용했는데 짠 후에도 계속 흘러나와 지저분해지더라고요. 그런데 이 제품은 용기에서 내용물이 적당히 나와서 좋고 깔끔하게 사용할 수 있어서 편리합니다. 대용량이라 좋았어요. 그런데 민감성 제품을 구매했지만 젤 제품에 비해 시원한 느낌이 적고 피부 자극은 있는 거 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 포** 레귤러 쉐이빙폼 311g 3개",
+    "ReviewScore": "4",
+    "Syllable": "163",
+    "Word": "40",
+    "RDate": "20220104",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기에서 내용물이 적당히 나와서 좋고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "깔끔하게 사용할 수 있어서 편리합니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "대용량이라 좋았어요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "젤 제품에 비해 시원한 느낌이 적고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "피부 자극은 있는 거 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "707793",
+    "RawText": "남편이 꾸준히 애용하고 있어서 구매해서 쟁여놓았네요. 젤보단 폼을 선호해서 구매했습니다. 양도 많고 가격도 적당해서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 포** 레귤러 쉐이빙폼 311g 3개",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "15",
+    "RDate": "20211116",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량",
+        "SentimentText": "양도 많고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 적당해서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "707795",
+    "RawText": "제품 품질이 마음에 들어요. 친절한 배송기사님 덕분에 잘 받았네요. 착한 가격에 앞으로도 구매할 것 같습니다. 잘 사용하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 포** 레귤러 쉐이빙폼 311g 3개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "17",
+    "RDate": "20211112",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 마음에 들어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "착한 가격에 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "707801",
+    "RawText": "쉐이빙폼으로 쓰기에는 향이 좀 과하게 느껴지고 부드럽게 발라지지 않네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 포** 레귤러 쉐이빙폼 311g 3개",
+    "ReviewScore": "5",
+    "Syllable": "40",
+    "Word": "9",
+    "RDate": "20211110",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 좀 과하게 느껴지고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "부드럽게 발라지지 않네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "707807",
+    "RawText": "오랫동안 만족하며 사용하고 있는 OOO 제품입니다. 가격도 저렴하게 구매했어요. 두꺼운 수염도 잘 깎이고 무엇보다 특유의 잔향이 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 포** 레귤러 쉐이빙폼 311g 3개",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "17",
+    "RDate": "20211107",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하게 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "두꺼운 수염도 잘 깎이고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "특유의 잔향이 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "707812",
+    "RawText": "크림제형이 제가 원하는 점도이며 향도 괜찮네요. 문제없이 잘 사용하고 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 포** 레귤러 쉐이빙폼 311g 3개",
+    "ReviewScore": "5",
+    "Syllable": "44",
+    "Word": "10",
+    "RDate": "20211105",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "크림제형이 제가 원하는 점도이며",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 괜찮네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "707817",
+    "RawText": "다른 제품과 함께 구매했습니다. 가격도 저렴하고 양도 넉넉해서 오래 사용할 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 포** 레귤러 쉐이빙폼 311g 3개",
+    "ReviewScore": "5",
+    "Syllable": "49",
+    "Word": "12",
+    "RDate": "20211104",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "양도 넉넉해서 오래 사용할 것 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "707825",
+    "RawText": "생각보다 가성비가 좋지 않네요. 피부에 자극도 좀 있고 향도 좋아하는 향이 아니네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 포** 레귤러 쉐이빙폼 311g 3개",
+    "ReviewScore": "5",
+    "Syllable": "47",
+    "Word": "12",
+    "RDate": "20211031",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비가 좋지 않네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "피부에 자극도 좀 있고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 좋아하는 향이 아니네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "707835",
+    "RawText": "리뷰가 많아서 구입해 봤습니다. 민감하고 트러블이 잘 나는 피부여서 센서티브를 구입했어요. 면도가 잘 되고 피부에 잘 맞았으면 좋겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 포** 레귤러 쉐이빙폼 311g 3개",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "18",
+    "RDate": "20211021",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "면도가 잘 되고 피부에 잘 맞았으면 좋겠습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "피부에 잘 맞았으면 좋겠습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "707840",
+    "RawText": "타 사이트보다 훨씬 저렴합니다. 늘 애용하는 제품인데, 대용량이라 좋고 뚜껑이 없어서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 포** 레귤러 쉐이빙폼 311g 3개",
+    "ReviewScore": "5",
+    "Syllable": "53",
+    "Word": "12",
+    "RDate": "20211018",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "타 사이트보다 훨씬 저렴합니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "대용량이라 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "뚜껑이 없어서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "707850",
+    "RawText": "재구매 상품입니다. 가성비 좋고 면도도 깔끔하게 잘 되어서 사용하는 제품인데, 배송이 최악이네요. 일주일 넘어서 도착했습니다. 공지도 없고 사후관리가 실망이네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 포** 레귤러 쉐이빙폼 311g 3개",
+    "ReviewScore": "1",
+    "Syllable": "90",
+    "Word": "19",
+    "RDate": "20211013",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "면도도 깔끔하게 잘 되어서 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "707853",
+    "RawText": "역사와 전통의 OOO이네요. 쫀쫀한 거품제형이 소량만 사용해도 면도가 매끈하게 잘 되네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 포** 레귤러 쉐이빙폼 311g 3개",
+    "ReviewScore": "5",
+    "Syllable": "50",
+    "Word": "11",
+    "RDate": "20211007",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "쫀쫀한 거품제형이 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "소량만 사용해도 면도가 매끈하게 잘 되네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "707870",
+    "RawText": "물건 받고 바로 사용해 봤는데 피부 전혀 따갑지 않았어요. 거품도 잘 나서 좋고 면도도 깔끔하게 잘 되네요. 다 쓰고 재구매 해야겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 포** 레귤러 쉐이빙폼 311g 3개",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "21",
+    "RDate": "20210922",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "피부 전혀 따갑지 않았어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "거품도 잘 나서 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "면도도 깔끔하게 잘 되네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "707872",
+    "RawText": "가격대비 가성비 굿입니다. 젤만 쓰다가 폼타입 고민이 많았는데, 제형이 부드러워 좋습니다. 만족하며 사용하고 있네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 포** 레귤러 쉐이빙폼 311g 3개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "14",
+    "RDate": "20210921",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 가성비 굿입니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 부드러워 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "707874",
+    "RawText": "10점 만점에 6점이에요. 배송은 느려요. 배송된 상태는 미흡한데요. (택배 상자로 배송되고 제품 포장은 따로 없고 택배 상자 옆면이 찢어져서 위험 했어요. 제품중 2개는 겉면 일부가 찌그러져 있어서 속상했어요.) 제품은 만족해요. 향도 좋으며 거품의 질감도 좋아요. 단지 면도 후 약간의 자극이 있어서 로션을 바로 발라줘야 되네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 포** 레귤러 쉐이빙폼 311g 3개",
+    "ReviewScore": "3",
+    "Syllable": "186",
+    "Word": "45",
+    "RDate": "20210918",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 좋으며",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "거품의 질감도 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "면도 후 약간의 자극이 있어서 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "707904",
+    "RawText": "배송 빨랐구요 항상 쓰던 제품이라 재구매합니다. 다른 제품들보다 용량은 더 크면서도 가격은 적당한 편이라 애용하고 있습니다. 바를때 부드럽고 양이 많아 다른제품보다 오래쓰니 좋으네요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 포** 레귤러 쉐이빙폼 311g 3개",
+    "ReviewScore": "5",
+    "Syllable": "101",
+    "Word": "23",
+    "RDate": "20210819",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량",
+        "SentimentText": "용량은 더 크면서도 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가격은 적당한 편이라 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "바를때 부드럽고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "양이 많아 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "707909",
+    "RawText": "집에 남자만 3명이라 빨리 쓰는데 양이 많아서 좋습니다. 크림 제형이 부드럽고 향도 괜찮습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 포** 레귤러 쉐이빙폼 311g 3개",
+    "ReviewScore": "5",
+    "Syllable": "53",
+    "Word": "13",
+    "RDate": "20210813",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량",
+        "SentimentText": "양이 많아서 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "크림 제형이 부드럽고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 괜찮습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "707910",
+    "RawText": "배송이 예정 보다 조금 늦어져서 아쉬웠지만, 가격대비 제품의 퀄러티가 아주 좋습니다. 양도 많아서 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 포** 레귤러 쉐이빙폼 311g 3개",
+    "ReviewScore": "4",
+    "Syllable": "59",
+    "Word": "14",
+    "RDate": "20210812",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격대비 제품의 퀄러티가 아주 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "양도 많아서 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "707922",
+    "RawText": "빠른 배송에 가성비 만점이네요. 거품이 잘 나서 매일 사용합니다. 젤보다는 면도가 훨씬 잘 되는 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 포** 레귤러 쉐이빙폼 311g 3개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "16",
+    "RDate": "20210729",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 만점이네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "거품이 잘 나서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "면도가 훨씬 잘 되는 것 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "707926",
+    "RawText": "저렴하게 잘 구매했어요. 용량도 일반 쉐이빙폼 보다 많아서 오래쓸 수 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 포** 레귤러 쉐이빙폼 311g 3개",
+    "ReviewScore": "5",
+    "Syllable": "44",
+    "Word": "11",
+    "RDate": "20210727",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "용량도 일반 쉐이빙폼 보다 많아서 오래쓸 수 있습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "707939",
+    "RawText": "신랑이 기존에 사용하던 OOO 폼을 사려했으나, 이 제품이 양도 많고 1+1+1이라 주문했습니다. 제형이 부드러워 좋다고 합니다. 3개나 쟁여놨으니 한동안 잘 쓸 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 포** 레귤러 쉐이빙폼 311g 3개",
+    "ReviewScore": "1",
+    "Syllable": "98",
+    "Word": "23",
+    "RDate": "20210709",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량",
+        "SentimentText": "양도 많고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "1+1+1이라 주문했습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 부드러워 좋다고 합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "707942",
+    "RawText": "배송도 빠르고, 좋은 제품 선별해주셔서 감사해요. 제형이 부드럽고 향도 좋아서 앞으로도 계속 사용할 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 포** 레귤러 쉐이빙폼 311g 3개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "15",
+    "RDate": "20210705",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 부드럽고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "707946",
+    "RawText": "박스에 세개가 들어서 왔습니다. 다행히 찌그러진 제품은 없네요. 오랫동안 계속 사용하고 있는 제품인데, 향도 좋고 부드럽게 면도가 잘 됩니다. 다만 유통기한이 생각보다 짧네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 포** 레귤러 쉐이빙폼 311g 3개",
+    "ReviewScore": "5",
+    "Syllable": "98",
+    "Word": "23",
+    "RDate": "20210701",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "부드럽게 면도가 잘 됩니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한이 생각보다 짧네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "707947",
+    "RawText": "부모님 드릴려고 구입했어요. 맘에 들어 하시고 가격도 저렴하고 용량도 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 포** 레귤러 쉐이빙폼 311g 3개",
+    "ReviewScore": "5",
+    "Syllable": "44",
+    "Word": "10",
+    "RDate": "20210701",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "용량도 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "707956",
+    "RawText": "비싸게 주고 구매했습니다. 양이 많아서 여유롭게 사용할 수 있을 것 같아요. 이전에 쓰던 제품보다 거품이 잘 나서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 포** 레귤러 쉐이빙폼 311g 3개",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "18",
+    "RDate": "20210623",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "비싸게 주고 구매했습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "양이 많아서 여유롭게 사용할 수 있을 것 같아요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "거품이 잘 나서 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "707959",
+    "RawText": "양이 넉넉하지 않아 금방 쓸 껏 같아요. 향기도 그다지 좋은지 모르겠습니다. 재구매 생각 없습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 포** 레귤러 쉐이빙폼 311g 3개",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "14",
+    "RDate": "20210614",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용량",
+        "SentimentText": "양이 넉넉하지 않아 금방 쓸 껏 같아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향기도 그다지 좋은지 모르겠습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "707977",
+    "RawText": "용량이 생각보다 많지 않네요. 향도 저랑은 안맞고 첨 주문했는데 재구매 생각은 없네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 포** 레귤러 쉐이빙폼 311g 3개",
+    "ReviewScore": "5",
+    "Syllable": "48",
+    "Word": "12",
+    "RDate": "20210516",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용량",
+        "SentimentText": "용량이 생각보다 많지 않네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 저랑은 안맞고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "707983",
+    "RawText": "OOO가 좋을 것 같아 주문했습니다. 거품이 많아서 좋고 면도가 깔끔하게 돼서 좋아요. 사용 후 용기에 거품이 흘러내려 불편해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 포** 레귤러 쉐이빙폼 311g 3개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "18",
+    "RDate": "20210508",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "거품이 많아서 좋고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "면도가 깔끔하게 돼서 좋아요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기에 거품이 흘러내려 불편해요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "708024",
+    "RawText": "원래 쓰던 제품이 다 떨어져서 이걸로 처음 구매해봤는데 거품이 풍성하지 않네요. 가격은 비싸게 주고 샀는데 아쉽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 포** 레귤러 쉐이빙폼 311g 3개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "16",
+    "RDate": "20210328",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "거품이 풍성하지 않네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 비싸게 주고 샀는데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "708059",
+    "RawText": "거품 제형이 밀도 있어 면도하기 편하고 향도 좋고 양도 많아 십년 넘게 사용중이네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 포** 레귤러 쉐이빙폼 311g 3개",
+    "ReviewScore": "5",
+    "Syllable": "47",
+    "Word": "13",
+    "RDate": "20210220",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "거품 제형이 밀도 있어 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "면도하기 편하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "양도 많아 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]

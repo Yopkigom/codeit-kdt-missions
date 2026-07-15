@@ -1,0 +1,3677 @@
+[
+  {
+    "Index": "81759",
+    "RawText": "가격이 너무 착하다. 원단도 시원하고 디자인도 너무 맘에 든다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여름 풀코디 4종세트",
+    "ReviewScore": "100",
+    "Syllable": "34",
+    "Word": "9",
+    "RDate": "20200728",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 너무 착하다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "원단도 시원하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 너무 맘에 든다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "81761",
+    "RawText": "사이즈가 크게 나온 것 같아요. 옷도 무게감이 있네요. 티셔츠는 재질이 쫀쫀해서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여름 풀코디 4종세트",
+    "ReviewScore": "100",
+    "Syllable": "50",
+    "Word": "12",
+    "RDate": "20200805",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 크게 나온 것 같아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "옷도 무게감이 있네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "티셔츠는 재질이 쫀쫀해서 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "81767",
+    "RawText": "사이즈 넉넉하네요~착용감이 편하게 입을수 있겠어요~조금 무거운 느낌도 있네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여름 풀코디 4종세트",
+    "ReviewScore": "100",
+    "Syllable": "42",
+    "Word": "8",
+    "RDate": "20200728",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈 넉넉하네요~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감이 편하게 입을수 있겠어요~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "조금 무거운 느낌도 있네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "81768",
+    "RawText": "사이즈는 약간 크게 나왔어요 린넨이라 옷이 까끌거리지만 참을만해요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여름 풀코디 4종세트",
+    "ReviewScore": "100",
+    "Syllable": "36",
+    "Word": "8",
+    "RDate": "20200728",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈는 약간 크게 나왔어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "린넨이라 옷이 까끌거리지만 참을만해요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "81770",
+    "RawText": "대박~~ 구성도 좋고 품질도 좋고 가격은 최고입니다. 55,66 고민하다 55로 주문했는데 잘 맞아요. ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여름 풀코디 4종세트",
+    "ReviewScore": "100",
+    "Syllable": "58",
+    "Word": "13",
+    "RDate": "20200729",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "대박~~ 구성도 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 최고입니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "55,66 고민하다 55로 주문했는데 잘 맞아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "81774",
+    "RawText": "원피스는 사이즈 잘 맞고 길이 적당해요. 바지는   좀 크지만 착용감이 편해 보이네요. 티셔츠는 질감은 좋은데 너무 얇아서 조심스럽고 사이즈가 좀 커요. 전체적으로 사이즈를 55로 선택할걸 하는 후회가 드네요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여름 풀코디 4종세트",
+    "ReviewScore": "80",
+    "Syllable": "117",
+    "Word": "28",
+    "RDate": "20200724",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "원피스는 사이즈 잘 맞고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "길이 적당해요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "바지는   좀 크지만 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감이 편해 보이네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "티셔츠는 질감은 좋은데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": " 너무 얇아서 조심스럽고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 좀 커요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "81783",
+    "RawText": "상품도 맘에 들었고 가성비가 좋네요. 그리고 제품구성도 좋아요. 고객에 대한  정성이 포장에서 느껴져 감동받았습니다.   감사합니다.^.^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여름 풀코디 4종세트",
+    "ReviewScore": "100",
+    "Syllable": "77",
+    "Word": "15",
+    "RDate": "20200825",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가성비가 좋네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "제품구성도 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "81800",
+    "RawText": "바지는 까슬거리고  원피스 여러번 빨면 보풀 일어나고 땀나면 실뭉치 같은것들이 바닥에 몸에 다 묻어요  품질이 싼 가격 몫을 하네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여름 풀코디 4종세트",
+    "ReviewScore": "50",
+    "Syllable": "73",
+    "Word": "19",
+    "RDate": "20200924",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "촉감",
+        "SentimentText": "바지는 까슬거리고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "원피스 여러번 빨면 보풀 일어나고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "땀나면 실뭉치 같은것들이 바닥에 몸에 다 묻어요 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 싼 가격 몫을 하네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "81801",
+    "RawText": "가격이 저렴해서 구입 했는데  무겁고 품질이 별루네요 품질이 딱 가격 만큼 의 옷이네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여름 풀코디 4종세트",
+    "ReviewScore": "80",
+    "Syllable": "48",
+    "Word": "13",
+    "RDate": "20200802",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴해서 구입 했는데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무겁고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 딱 가격 만큼 의 옷이네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 별루네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "81803",
+    "RawText": "아무리 린넨이 그렇다지만 20분 운전하고 일어났는데 무릎이 엄청 나왔어요 보기 흉할정도로요 엉덩이도 늘어나서... ㅜㅜ 자켓은 어떨지 모르겠지만 바지는 품질이 못입는 물건입니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여름 풀코디 4종세트",
+    "ReviewScore": "20",
+    "Syllable": "98",
+    "Word": "21",
+    "RDate": "20200810",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "20분 운전하고 일어났는데 무릎이 엄청 나왔어요 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "엉덩이도 늘어나서... ㅜㅜ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "자켓은 어떨지 모르겠지만 바지는 품질이 못입는 물건입니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "81809",
+    "RawText": "배송은 보통였구요. 제품 구성 좋아 구매하고 싶었어요. 옷 사이즈는  대체로 잘 맞습니다. 원피스,바지, 조끼, t 까지...  이 구성  완전 맘에 들어요. 조금 아쉼이라면... 바지 벨트 걸이가 없고,   고무줄 같은 밴드도 없어서 사이즈 맞게 몸에 맞추기  조금 애매했어요. 그외 조금 까끌하다!. 그래도 좋습니다. 앞으로도 좋은 구성 제품 많이 부탁드려요. ^^ 감사합니다~~~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여름 풀코디 4종세트",
+    "ReviewScore": "100",
+    "Syllable": "215",
+    "Word": "50",
+    "RDate": "20200726",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "옷 사이즈는  대체로 잘 맞습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "원피스,바지, 조끼, t 까지...  이 구성  완전 맘에 들어요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈 맞게 몸에 맞추기  조금 애매했어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "조금 까끌하다!.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "제품 구성 좋아 구매하고 싶었어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "81824",
+    "RawText": "55사이즈 주문했는데 전체적으로 커요 55사이즈가 66사이인듯..  특히 바지 허리사이즈는 잘못된것 같아요  너무커요 옷감 ,바느질등은  최고예요. 레이온이 섞여 대체적으로  고급져 보여요 가격대비 정말 좋은데 제게 모두 커서 아쉽네요 만약 더 아래 사이즈 있다면 또는 55중 좀더 작게 만들어진옷이 있다면 교환해서라도 입고 싶은데 없는것 같아 반품신청합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여름 풀코디 4종세트",
+    "ReviewScore": "100",
+    "Syllable": "201",
+    "Word": "44",
+    "RDate": "20200728",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "전체적으로 커요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "55사이즈가 66사이인듯.. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "특히 바지 허리사이즈는 잘못된것 같아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "너무커요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "옷감 ,바느질등은  최고예요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "바느질등은  최고예요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "레이온이 섞여 대체적으로  고급져 보여요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 정말 좋은데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "모두 커서 아쉽네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "81825",
+    "RawText": "생각보단 디자인이 별로네요 ㅠㅠ 하지만 가격이 저렴하니...",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 에** 수트셋업 4종 세트",
+    "ReviewScore": "80",
+    "Syllable": "33",
+    "Word": "7",
+    "RDate": "20200910",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "생각보단 디자인이 별로네요ㅠㅠ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴하니...",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "81826",
+    "RawText": "뚱뚱하신분강추 !!!  매우날씬해보이고요 지켓이 디자인이 정말 이쁘네요  단추가똑딱이라  에잇했는데  닫고보니 디자인이 정말깔끔 치마는그냥  안입을거니까ㅎㅎ 자켓만색깔별로 구매하고프네요  돈이아깝지않아요  ♡",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 에** 수트셋업 4종 세트",
+    "ReviewScore": "100",
+    "Syllable": "116",
+    "Word": "18",
+    "RDate": "20201016",
+    "Aspects": [
+      {
+        "Aspect": "핏",
+        "SentimentText": "매우날씬해보이고요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "지켓이 디자인이 정말 이쁘네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "단추가똑딱이라  에잇했는데  닫고보니 디자인이 정말깔끔 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "81832",
+    "RawText": "44인 저한테는 허리와 힙이 많이 커요. 수선해서 입어야겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 에** 수트셋업 4종 세트",
+    "ReviewScore": "70",
+    "Syllable": "35",
+    "Word": "8",
+    "RDate": "20200830",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "44인 저한테는 허리와 힙이 많이 커요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "수선해서 입어야겠어요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "힙이 많이 커요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "81833",
+    "RawText": "기대보다 디자인이 맘에 들어서 지인들에게 추천했습니다 스판기도  적당하고 색상도 화면과 같네요  추천합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 에** 수트셋업 4종 세트",
+    "ReviewScore": "100",
+    "Syllable": "59",
+    "Word": "12",
+    "RDate": "20200813",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "기대보다 디자인이 맘에 들어서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": "스판기도  적당하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 화면과 같네요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "81836",
+    "RawText": "ㅁ계절에 앞서 구입한거라 아직 활용을 못해 봤는데 저렴해서 구매.기장은 긴편.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 에** 수트셋업 4종 세트",
+    "ReviewScore": "70",
+    "Syllable": "43",
+    "Word": "10",
+    "RDate": "20200924",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": " 저렴해서 구매.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "기장은 긴편.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "81838",
+    "RawText": "좋은 품질의 상품을 구매해서  만족합니다  디자인도  깔끔하고 고급스러운  느낌을 가지고 있어요  가격도  착하고 예쁜 디자인의 옷 받아보니  행복합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 에** 수트셋업 4종 세트",
+    "ReviewScore": "100",
+    "Syllable": "85",
+    "Word": "18",
+    "RDate": "20200909",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "좋은 품질의 상품을 구매해서  만족합니다 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도  깔끔하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "고급스러운  느낌을 가지고 있어요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도  착하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "예쁜 디자인의 옷 받아보니  행복합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "81843",
+    "RawText": "이 가격에 이 조건이면 품질이 괜찮은 상품인데... 한가지 흠이 있네요... 아쉽게도 브라우스 카라부분,  어깨라인부분에 다른색이 묻어 있네요... ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 풀코디 4종세트",
+    "ReviewScore": "60",
+    "Syllable": "83",
+    "Word": "17",
+    "RDate": "20200928",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "이 가격에 이 조건이면 품질이 괜찮은 상품인데...",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "이 조건이면 품질이 괜찮은 상품인데...",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "브라우스 카라부분,  어깨라인부분에 다른색이 묻어 있네요...",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "81849",
+    "RawText": "이가격에 풀코디로 가성비가 아주 좋아요 윈피스도 색상이나 디자인이 고급스러워 보여요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 풀코디 4종세트",
+    "ReviewScore": "100",
+    "Syllable": "46",
+    "Word": "10",
+    "RDate": "20200921",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "이가격에 풀코디로 가성비가 아주 좋아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "윈피스도 색상이나 디자인이 고급스러워 보여요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 고급스러워 보여요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "81854",
+    "RawText": "소재도 좋고 디자인도 좋아요~ 가격대비 득탬.. 추천합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 풀코디 4종세트",
+    "ReviewScore": "100",
+    "Syllable": "32",
+    "Word": "7",
+    "RDate": "20200914",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 좋아요~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 득탬..",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "81856",
+    "RawText": "오 물건이 일단 너무 패키지가 정성스럽게왔어요 배송도 빠르구요 가격대비 큰 기대안했는데 원단이 너무 괜찮아요 문제는 사이즈가 상당히넉넉하게 나온거 같아요 55시켰는데 66입는 엄마도 잘 맞으세요 괜찮은 거 같아서 다른 색상으로 하나 더 주문했어요!!",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 풀코디 4종세트",
+    "ReviewScore": "100",
+    "Syllable": "139",
+    "Word": "32",
+    "RDate": "20200913",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "가격대비 큰 기대안했는데 원단이 너무 괜찮아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 상당히넉넉하게 나온거 같아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "55시켰는데 66입는 엄마도 잘 맞으세요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "81857",
+    "RawText": "품질도 가격도 넘 좋아요. 타사 비싼 정장보다 품질도 디자인도 모두 만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 풀코디 4종세트",
+    "ReviewScore": "100",
+    "Syllable": "43",
+    "Word": "11",
+    "RDate": "20200904",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 가격도 넘 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 넘 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "타사 비싼 정장보다 품질도 디자인도 모두 만족합니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 모두 만족합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "81859",
+    "RawText": "제가 좋아하는스타일이고 저렴해서 주문했는데 잼 크기는 크네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 풀코디 4종세트",
+    "ReviewScore": "100",
+    "Syllable": "33",
+    "Word": "7",
+    "RDate": "20200908",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "좋아하는스타일이고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 저렴해서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "크기는 크네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "81861",
+    "RawText": "싸게 구입했어요. 재질감은 싼티가  나네요.소재가 부직포같은 느낌",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 수트셋업 2종",
+    "ReviewScore": "30",
+    "Syllable": "36",
+    "Word": "7",
+    "RDate": "20201103",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸게 구입했어요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질감은 싼티가  나네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재가 부직포같은 느낌",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "81862",
+    "RawText": "디자인은 괸찮아요  원단은 톡톡해서 따뜻할것같았는게데 좀 그렇치가 않았어요.바지에 멘살에 닿았을때 불쾌감이들어요.그리고 원단이 고급져보이진 않은것같아요~사람들이 부직포같다네요~ 그리고 잠깐입었는데 소매에 보플이 생겼어요~ 품질이 오래는못입을것같아요~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 수트셋업 2종",
+    "ReviewScore": "70",
+    "Syllable": "139",
+    "Word": "22",
+    "RDate": "20201105",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인은 괸찮아요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "원단은 톡톡해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻할것같았는게데 좀 그렇치가 않았어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "바지에 멘살에 닿았을때 불쾌감이들어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "원단이 고급져보이진 않은것같아요~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "잠깐입었는데 소매에 보플이 생겼어요~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 오래는못입을것같아요~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "81865",
+    "RawText": "색상도 예쁘고 두께감도 좋아서  늦가을에 잘 입을거 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 수트셋업 2종",
+    "ReviewScore": "100",
+    "Syllable": "32",
+    "Word": "8",
+    "RDate": "20201031",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 예쁘고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "두께감도 좋아서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "늦가을에 잘 입을거 같아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "81873",
+    "RawText": "겨울에 따뜻하게 위에마이는잘입었습니다ㆍ근데 넘많이 보플이 일어나서. 올겨울에 다시입을수있을지 의문이네요 바지는넘 뚜꺼워서 입어보지도 않은상태ㆍ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 수트셋업 2종",
+    "ReviewScore": "70",
+    "Syllable": "79",
+    "Word": "13",
+    "RDate": "20210405",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "겨울에 따뜻하게 위에마이는잘입었습니다ㆍ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "넘많이 보플이 일어나서.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "바지는넘 뚜꺼워서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "올겨울에 다시입을수있을지 의문이네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "81878",
+    "RawText": "가격대비 퀄리티 좋아요 원단도 부드럽고 깔끔한 디자인이 세련되고 핏 예뻐요 추천합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 풀코디 4종세트",
+    "ReviewScore": "100",
+    "Syllable": "47",
+    "Word": "11",
+    "RDate": "20210827",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격대비 퀄리티 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "원단도 부드럽고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "깔끔한 디자인",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "세련되고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": " 핏 예뻐요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "81900",
+    "RawText": "처음쥬문했던 색상이오지않아서 기분이상햇고요 무조건팔고보자하는 수준인것같네요.주문한색상이없으면 의향을물어봐야죠 아무리가격이 싸다고 바느질이 이렇게도 엉망이어도되는지한심하네요 결국바지하나건지고  고쳐입으라고 남줬네요 조끼가가장불량합ㄴ다  입으면 이리저리울퉁불퉁  초보미싱사가 했나요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 풀코디 4종세트",
+    "ReviewScore": "60",
+    "Syllable": "155",
+    "Word": "19",
+    "RDate": "20210428",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 싸다고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "바느질이 이렇게도 엉망이어도되는지한심하네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": " 조끼가가장불량합ㄴ다  입으면 이리저리울퉁불퉁  ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "81902",
+    "RawText": "브라우스가 신축성이 전혀없어서 입고벗을때 너무너무불편해요 소매도짧고요  다른건맘에듭니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 풀코디 4종세트",
+    "ReviewScore": "100",
+    "Syllable": "48",
+    "Word": "7",
+    "RDate": "20210309",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "신축성",
+        "SentimentText": "브라우스가 신축성이 전혀없어서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "입고벗을때 너무너무불편해요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "소매도짧고요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "81904",
+    "RawText": "원피스가 목이 답답하고 정사이즈 아닌것 같아요 그래서 별한개반 ㅡ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 풀코디 4종세트",
+    "ReviewScore": "70",
+    "Syllable": "36",
+    "Word": "9",
+    "RDate": "20210426",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "원피스가 목이 답답하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": " 정사이즈 아닌것 같아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "81906",
+    "RawText": "바느질이 쓰레기네요. 입으려고 꺼냇는데  베스트에 안감바느질엉망 반품해주세요 입지도않은옷을 반품비내라하고 진짜 마르조 쓰레기네요.  바느질도 엉만이고  무슨 옷을 품질을 그런식으로 만들어서 파는지 이해불가.  앞으로 절대 그브랜드옷은 입을일 없을듯.정말 화가나네요.  ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 풀코디 4종세트",
+    "ReviewScore": "10",
+    "Syllable": "150",
+    "Word": "27",
+    "RDate": "20210327",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "마감",
+        "SentimentText": "바느질이 쓰레기네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "베스트에 안감바느질엉망",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "바느질도 엉만이고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "무슨 옷을 품질을 그런식으로 만들어서 파는지 이해불가.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "81916",
+    "RawText": "바지는 너무 크고 치마는 질이 별로, 나머진 품질이 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 풀코디 4종세트",
+    "ReviewScore": "40",
+    "Syllable": "32",
+    "Word": "9",
+    "RDate": "20210512",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "바지는 너무 크고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "치마는 질이 별로, ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 나머진 품질이 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "81918",
+    "RawText": "바지는 디자인이 맘에들어요 상의는좀길어서 ~~~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 풀코디 4종세트",
+    "ReviewScore": "50",
+    "Syllable": "26",
+    "Word": "5",
+    "RDate": "20210510",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "바지는 디자인이 맘에들어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "상의는좀길어서 ~~~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "81927",
+    "RawText": "옷은 디자인이 맘에 들어요 포장도 근데 벨트고리가 떨어져있구요 벨트는 누락이에요 어디에 찾아봐도 없어요 별 하나 없음 베스트 맞교환 해주셔서 감사해서 별하나 뺀거 채움니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 풀코디 4종세트",
+    "ReviewScore": "100",
+    "Syllable": "95",
+    "Word": "23",
+    "RDate": "20210327",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 맘에 들어요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "  벨트고리가 떨어져있구요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "벨트는 누락이에요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "81936",
+    "RawText": "디자인이 너무 맘에 들어요. 이가격에   횡재한것같아요. 핏도 이쁘고   다른색도 사고싶네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 풀코디 4종세트",
+    "ReviewScore": "100",
+    "Syllable": "51",
+    "Word": "10",
+    "RDate": "20210327",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 너무 맘에 들어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 이가격에  횡재한것같아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏도 이쁘고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "81941",
+    "RawText": "베스트 블라우스 바지 다 따로 입기도 좋고 함께 입어 벨트 채우면 디자인이 깔끔하고 세련되어 보여요. 66에 배가 있는 체형이라 바지 허리 작을까 걱정했는데 고무단도 없는 바지가 이리 편하게 늘어날까요. 근데 후줄근하게 늘어나는 건 아니고 잡아주는 맛도 좋아요. 그리고 가장 맘에 든건 블라우스 디자인이에요. 제가 상체통통형이라 흰색상의는 절대 안입는데 이건 앞쪽 셔링때문인지 날씬해보여 베스트 입기 싫은 정도네요. 원피스도 싸구려 얇은 원단 아니고 속치마도 두껍게 있고 예뻐요. 55입는 언니한테도 선물하려 베이지 구입합니다. 진짜 최고 득템",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 풀코디 4종세트",
+    "ReviewScore": "100",
+    "Syllable": "304",
+    "Word": "73",
+    "RDate": "20210225",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "활용성",
+        "SentimentText": "다 따로 입기도 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "함께 입어 벨트 채우면 디자인이 깔끔하고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 세련되어 보여요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": "고무단도 없는 바지가 이리 편하게 늘어날까요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": " 잡아주는 맛도 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "싸구려 얇은 원단 아니고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "속치마도 두껍게 있고 예뻐요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 가장 맘에 든건 블라우스 디자인이에요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "날씬해보여",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": "후줄근하게  늘어나는 건 아니고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "81945",
+    "RawText": "완전 맘에 듭니다. 가격이 저렴해서 별 기대 안했는데 품질도 좋고 사이즈도 잘 맞습니다. 그 가격에 미안할정도로 4가지 구성이구요. 색상 다른걸로 재구매하러 갑니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 풀코디 4종세트",
+    "ReviewScore": "100",
+    "Syllable": "92",
+    "Word": "22",
+    "RDate": "20210325",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가격이 저렴해서  별 기대 안했는데",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈도 잘 맞습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": " 그 가격에 미안할정도로 4가지 구성이구요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "81946",
+    "RawText": "완전 저렴하게 샀어요 포장도 낱개로 하나씩 따로따로 옷걸이까지 잘 갖춰서 왔네요 품질도 다 좋은거 같아요 ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 풀코디 4종세트",
+    "ReviewScore": "100",
+    "Syllable": "59",
+    "Word": "15",
+    "RDate": "20210326",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "완전 저렴하게 샀어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 다 좋은거 같아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "81949",
+    "RawText": "대박! 가격이 너무 착해서 큰 기대는 안했는데  박스를 여는순간 포장부터 오~~~~~~ 하나씩 개별포장 그것도 옷걸이에 비닐까지 씌워서 ~~~ 바지 핏 따봉! 블라우스 재질도 좋고 완전 따봉!! 베스트 길이랑 벨트까지 품질이 완전 따따봉!!! 심지어 원피스까지 길이 핏 속치마까지 품질 완전대박!!!! 이렇게 품질이 만족스러운 상품은 처음 접해봅니다 베이지 색 추가 주문하고싶은데 검색이 안되네요 ㅠㅠ 감사히 잘 입겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 풀코디 4종세트",
+    "ReviewScore": "100",
+    "Syllable": "236",
+    "Word": "55",
+    "RDate": "20210327",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 너무 착해서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "바지 핏 따봉!",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "블라우스 재질도 좋고 완전 따봉!!",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "베스트 길이랑 벨트까지 품질이 완전 따따봉!!!",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "벨트까지 품질이 완전 따따봉!!!",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "원피스까지 길이 핏 속치마까지 품질 완전대박!!!!",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏 속치마까지 품질 완전대박!!!!",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "속치마까지 품질 완전대박!!!!",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "이렇게 품질이 만족스러운 상품은 처음 접해봅니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "81960",
+    "RawText": "가격대비 가성비 짱^^ 품질도 구성도 좋아요 다만 블라우스가 조금 크긴한데 전체적으로 만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 풀코디 4종세트",
+    "ReviewScore": "100",
+    "Syllable": "53",
+    "Word": "12",
+    "RDate": "20210317",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 가성비 짱^^",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 구성도 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성도 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "블라우스가 조금 크긴한데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "81963",
+    "RawText": "착용해 보니 너무 편하네요 갑자기 살이 쪄서 팔뚝살이 장난아닌데 사이즈도 엄청 편해서 좋으네요ㅎ가격도 대박~~^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 풀코디 4종세트",
+    "ReviewScore": "100",
+    "Syllable": "63",
+    "Word": "14",
+    "RDate": "20210225",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용해 보니 너무 편하네요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": " 사이즈도 엄청 편해서 좋으네요ㅎ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 대박~~^^",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "81989",
+    "RawText": "품질이 완전대박입니다 원단 재질이 좋아요 구김없어요 따로따로 입을수있어  좋구요 포장고급지게 왔어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 풀코디 4종세트",
+    "ReviewScore": "100",
+    "Syllable": "55",
+    "Word": "11",
+    "RDate": "20210327",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 완전대박입니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "원단 재질이 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "구김없어요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "따로따로 입을수있어  좋구요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "81994",
+    "RawText": "가격대비  가성비 굿 약간 사이즈가 크긴하지만 원피스 아주 좋아요~~*",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 풀코디 4종세트",
+    "ReviewScore": "90",
+    "Syllable": "39",
+    "Word": "9",
+    "RDate": "20210305",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비  가성비 굿",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "약간 사이즈가 크긴하지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "82001",
+    "RawText": "부라우스에 조끼만  외출용으로 잘입고있어요 바지가 쬐금적네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 풀코디 4종세트",
+    "ReviewScore": "10",
+    "Syllable": "33",
+    "Word": "6",
+    "RDate": "20210503",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "활용성",
+        "SentimentText": "부라우스에 조끼만  외출용으로 잘입고있어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "바지가 쬐금적네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "82002",
+    "RawText": "정사이즈입니다. 이가격에 샀다는 것이 믿어지지 않습니다. 디자인 바느질 품질 모두 대만족입니다.따뜻한 봄이 기다려지네요~^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 풀코디 4종세트",
+    "ReviewScore": "100",
+    "Syllable": "69",
+    "Word": "13",
+    "RDate": "20210305",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "정사이즈입니다.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "이가격에 샀다는 것이 믿어지지 않습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 바느질 품질 모두 대만족입니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "바느질 품질 모두 대만족입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질 모두 대만족입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "82016",
+    "RawText": "생각보다 사이즈가 잘 맞네요. 상표라벨을 제거하고 블라우스를 보니 목둘레에 다른색이 묻어 있어 빨았더니 다행히도 지웠어요  다음부터는 점검 좀 잘 해서 보내 주세요 부탁합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 풀코디 4종세트",
+    "ReviewScore": "100",
+    "Syllable": "97",
+    "Word": "23",
+    "RDate": "20210224",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "생각보다 사이즈가 잘 맞네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "목둘레에 다른색이 묻어 있어 빨았더니 다행히도 지웠어요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "82018",
+    "RawText": "싼 가격과는 상관없이 맘에 듭니다ᆢ 가성비 짱이네요ᆢ 봄이 빨리 왔으면 좋겠네요ᆢ 품질이 좋은 상품 감사히 예쁘게 있겠습니다 ᆢ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 벨** 풀코디 4종세트",
+    "ReviewScore": "100",
+    "Syllable": "71",
+    "Word": "18",
+    "RDate": "20210302",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "싼 가격과는 상관없이 맘에 듭니다ᆢ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 짱이네요ᆢ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 좋은 상품 감사히 예쁘게 있겠습니다 ᆢ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "82024",
+    "RawText": "디자인이 맘에쏙들어요 품질이 진짜 대박이다 원단도 스타일도 디자인이 완벽 ㅋㅋ 홈쇼핑 진짜대박이네요 이렇게 4종이 품질이 완벽하다니 진짜잘산듯요 활용도만점",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 루** 풀코디 4종세트",
+    "ReviewScore": "100",
+    "Syllable": "86",
+    "Word": "18",
+    "RDate": "20210226",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 맘에쏙들어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 진짜 대박이다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "원단도 스타일도 디자인이 완벽",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "스타일도 디자인이 완벽",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "이렇게 4종이 품질이 완벽하다니 진짜잘산듯요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "활용도만점",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "82047",
+    "RawText": "옷에 뭐가 묻었는지 모르겠네요 금액이 비싸지 않아서 일단 빨아서 입어 보겠습니다  옷 구성은 마음에 듭니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 루** 풀코디 4종세트",
+    "ReviewScore": "100",
+    "Syllable": "59",
+    "Word": "15",
+    "RDate": "20210227",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "옷에 뭐가 묻었는지 모르겠네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "금액이 비싸지 않아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "옷 구성은 마음에 듭니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "82056",
+    "RawText": "이 가격에 넘 좋은 상품이에요~ 정사이즈이구요 4종구성 모두 디자인이 넘 이쁩니다  배송도 각각 옷걸이에 음층 고급스럽게 와서 깜짝 놀랐네요~~저렴하니 잘 입을께요^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 루** 풀코디 4종세트",
+    "ReviewScore": "100",
+    "Syllable": "93",
+    "Word": "21",
+    "RDate": "20210226",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "이 가격에넘 좋은 상품이에요~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "정사이즈이구요 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 4종구성 모두 디자인이 넘 이쁩니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "82069",
+    "RawText": "품질이 딱 그가격만큼이네요~재질도비닐같은재질에원피스는안감있긴하지만완전얇고..원피스,바지는잘맞는데블라우스랑베스트는또너무크고ㅜ그나마블라우스는사이즈빼고는마음에들어요~가격저렴해서내심기대했는데다른사이트에서산4피스랑너무차이나긴하네요::한철입는걸로만족할품질입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 루** 풀코디 4종세트",
+    "ReviewScore": "90",
+    "Syllable": "140",
+    "Word": "3",
+    "RDate": "20210317",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 딱 그가격만큼이네요~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질도비닐같은재질에",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "안감있긴하지만 완전얇고..",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "원피스,바지는잘맞는데",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "블라우스랑베스트는또너무크고ㅜ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈빼고는마음에들어요~",
+        "SentimentWord": "1",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격저렴해서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "한철입는걸로만족할품질입니다.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "82072",
+    "RawText": "득템~^^지금은입기춥고좀더있다여러모로활용하여잘입을것같아요 정사이즈자맞아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 루** 풀코디 4종세트",
+    "ReviewScore": "100",
+    "Syllable": "40",
+    "Word": "2",
+    "RDate": "20210317",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "활용성",
+        "SentimentText": "여러모로활용하여잘입을것같아요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "정사이즈자맞아요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "지금은입기춥고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "82074",
+    "RawText": "가격은 넘나 훌륭하고 구서도 완벽  베스트바지 재질은 슬프네요ㅠ 정전기가 기양 ---",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 루** 풀코디 4종세트",
+    "ReviewScore": "60",
+    "Syllable": "47",
+    "Word": "11",
+    "RDate": "20210319",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 넘나 훌륭하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구서도 완벽",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "베스트바지 재질은 슬프네요ㅠ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "정전기가 기양 ---",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "82075",
+    "RawText": "광고 이미지보다 색상이 어둡지만 중년분이나체구가 크신 분은 만족할듯 싶네요. 저는 밝은색이 어울려 아쉽고 좀 크네요. 사이즈는 55반정도 같은데 .. 66사이즈 체구가딱 이쁘겠어요. 바느질  마무리가 깔끔하면 좋겠네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 루** 풀코디 4종세트",
+    "ReviewScore": "100",
+    "Syllable": "121",
+    "Word": "26",
+    "RDate": "20210319",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "광고 이미지보다 색상이 어둡지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "저는 밝은색이 어울려 아쉽고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "좀 크네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈는 55반정도 같은데 .. 66사이즈 체구가딱 이쁘겠어요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "82085",
+    "RawText": "마르조 2020 여성4종셋트 핏이 예쁘고  상품 품질이 나무랄때가없네요 예쁜 옷을 만들어주셔서 감사합니다  잘입을게요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 루** 풀코디 4종세트",
+    "ReviewScore": "10",
+    "Syllable": "65",
+    "Word": "13",
+    "RDate": "20210319",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏이 예쁘고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "상품 품질이 나무랄때가없네요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "82088",
+    "RawText": "재질이 이렇게 얇은지 몰랐어요 텐트천과 같은 소재라 생각하면되구요 바지는 짧고 조끼는 길고  언바런스!!! 그래도 원피스는 맘에 드네요 싸니 원피스 한벌 샀다 생각하고 입으려구요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 루** 풀코디 4종세트",
+    "ReviewScore": "50",
+    "Syllable": "99",
+    "Word": "23",
+    "RDate": "20210228",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질이 이렇게 얇은지 몰랐어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "텐트천과 같은 소재라 생각하면되구요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "바지는 짧고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "조끼는 길고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸니",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "82096",
+    "RawText": "베이지 입어보고 색상이 너무 이쁘고 디자인도 맘에 들어 검은색도 구입했어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 루** 풀코디 4종세트",
+    "ReviewScore": "100",
+    "Syllable": "41",
+    "Word": "10",
+    "RDate": "20210608",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 너무 이쁘고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 맘에 들어",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "82109",
+    "RawText": "신축성 그닥 없어요  원피스 가슴있는분들 입을때 터질듯  그냥 싼맛 품질이 딱 그가격이네요 셔츠도 비쳐서 ㅡㅡ좀 많이 실망인데 베스트만 좀 입을만해요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 루** 풀코디 4종세트",
+    "ReviewScore": "10",
+    "Syllable": "83",
+    "Word": "20",
+    "RDate": "20210304",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "신축성",
+        "SentimentText": "신축성 그닥 없어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": "원피스 가슴있는분들 입을때 터질듯",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "그냥 싼맛 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 딱 그가격이네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "셔츠도 비쳐서 ㅡㅡ좀 많이 실망인데",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "83551",
+    "RawText": "세탁하기도 전에 이미 온통 보풀이 일더니세탁한번했더니 보풀이 도저히 입고 나갈상태가  아니네요 바느질한부분도 너덜거리고 온통 보풀이일어서요 일회용 이란 문구를 빠뜨리신게 아닌지 .....  역시........ 싼게 비지떡 ... 상담원들하고 입씨름하기싫어서 반품포기하구  그냥 한번씩만입고 쓰레기통으로 직통입니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 아** 니트 5종",
+    "ReviewScore": "100",
+    "Syllable": "174",
+    "Word": "32",
+    "RDate": "20200317",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "세탁하기도 전에 이미 온통 보풀이 일더니",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "세탁한번했더니 보풀이 도저히 입고 나갈상태가  아니네요 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "바느질한부분도 너덜거리고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "온통 보풀이일어서요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "일회용 이란 문구를 빠뜨리신게 아닌지 .....",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "역시........ 싼게 비지떡 ..",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "한번씩만입고 쓰레기통으로 직통입니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "83557",
+    "RawText": "너무 따뜻하네요..얇으면서 가볍고 부드러운 며 너무 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 아** 니트 5종",
+    "ReviewScore": "100",
+    "Syllable": "32",
+    "Word": "7",
+    "RDate": "20191207",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "너무 따뜻하네요..",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇으면서 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "부드러운 며 너무 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "84627",
+    "RawText": "4가지 색상 맘에 들고 기모티라  따스하고 디자인도 맘에 들어 이너로 잘 입고 있습니다. 추천합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 모크넥 4종",
+    "ReviewScore": "100",
+    "Syllable": "55",
+    "Word": "14",
+    "RDate": "20210125",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "4가지 색상 맘에 들고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "기모티라  ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따스하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 맘에 들어",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "이너로 잘 입고 있습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "84951",
+    "RawText": "심플한 디자인에 가볍고 구김도 없어 착용감고 좋아 마음에 듬",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 맥코트 ",
+    "ReviewScore": "80",
+    "Syllable": "33",
+    "Word": "9",
+    "RDate": "20210804",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "심플한 디자인에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "구김도 없어",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감고 좋아 마음에 듬",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "84962",
+    "RawText": "정통 트렌치 느낌의 맥코트 오늘에서야 배송 받았다. 입어본후의 느낌은 가벼우면서 소재도 좋아서 별구김이 안갈듯 싶고,기능성이라 좋았다. 사이즈는 크게 할 필요가 없어서 55와66입기에 55사이즈 주문해서 입으니 두꺼운티 에도 여유로왔음.. 작년에도 테이트제품 구매했는데 이번신상 맥코트도 구입~~후회없는 선택 ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 맥코트 ",
+    "ReviewScore": "100",
+    "Syllable": "173",
+    "Word": "35",
+    "RDate": "20210313",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼우면서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재도 좋아서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "별구김이 안갈듯 싶고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "기능성이라 좋았다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "55와66입기에 55사이즈 주문해서 입으니 두꺼운티 에도 여유로왔음..",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "84977",
+    "RawText": "개인적으로 벨트 있는 코트 안좋아하는데 정말 딱입니다~ 캐주얼,정장 가리지 않고 어디에 입든  어울리고 넘 좋습니다^^ ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 맥코트 ",
+    "ReviewScore": "100",
+    "Syllable": "67",
+    "Word": "15",
+    "RDate": "20210410",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "개인적으로 벨트 있는 코트 안좋아하는데 정말 딱입니다~",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "캐주얼,정장 가리지 않고 어디에 입든  어울리고 넘 좋습니다^^",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "84980",
+    "RawText": "가격대비 품질. 소재가 좋구요 디자인이 차려입은 듯한 느낌 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 맥코트 ",
+    "ReviewScore": "100",
+    "Syllable": "37",
+    "Word": "9",
+    "RDate": "20210512",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격대비 품질. 소재가 좋구요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재가 좋구요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 차려입은 듯한 느낌 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "84990",
+    "RawText": "두껍고.길이도 길어서 입으니 불편하네요 베이직한 디자인이라  좀 그러네요..",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 맥코트 ",
+    "ReviewScore": "80",
+    "Syllable": "42",
+    "Word": "8",
+    "RDate": "20210324",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "두껍고.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "길이도 길어서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "입으니 불편하네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "베이직한 디자인이라  좀 그러네요..",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "84994",
+    "RawText": "디자인 별로고 색상은 화면과 틀린 밝은 그린입니다. 사이즈는 큽니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 맥코트 ",
+    "ReviewScore": "80",
+    "Syllable": "38",
+    "Word": "9",
+    "RDate": "20210322",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 별로고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상은 화면과 틀린 밝은 그린입니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈는 큽니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "84996",
+    "RawText": "심플한 코트 찾고 있었는데...캐주얼,정장 모두 안어울리고 넘 불편해요~ 약간 바스락 거리는 방풍,방수 소재 감안하셔야 해요~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 맥코트 ",
+    "ReviewScore": "100",
+    "Syllable": "70",
+    "Word": "15",
+    "RDate": "20210312",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "활용성",
+        "SentimentText": "캐주얼,정장 모두 안어울리고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "넘 불편해요~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "약간 바스락 거리는 방풍,방수 소재 감안하셔야 해요~",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "85000",
+    "RawText": "디자인도 별로인데... 방수재질이라 조금 더워지면 입기 불편할듯 싶어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 맥코트 ",
+    "ReviewScore": "70",
+    "Syllable": "39",
+    "Word": "8",
+    "RDate": "20210320",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 별로인데...",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "방수재질이라 조금 더워지면 입기 불편할듯 싶어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "85002",
+    "RawText": "핑꾸칼라  넘 안이쁘용.. 가격대비 별로 사이즈는 좀 크게 나왔어용~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 맥코트 ",
+    "ReviewScore": "100",
+    "Syllable": "38",
+    "Word": "9",
+    "RDate": "20210324",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "핑꾸칼라  넘 안이쁘용.. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 별로",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈는 좀 크게 나왔어용~  ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "85004",
+    "RawText": "흔하지않은그린컬러라 어색하네요 무겁고 사이즈가 안맞아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 맥코트 ",
+    "ReviewScore": "80",
+    "Syllable": "30",
+    "Word": "5",
+    "RDate": "20210323",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "흔하지않은그린컬러라 어색하네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무겁고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 안맞아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "85012",
+    "RawText": "가격에 비해 재질이나 디자인도 나쁘고 무엇보다 저는 체형이 살짝 애매해서 사이즈 안맞고 핏도 안이쁘네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 맥코트 ",
+    "ReviewScore": "100",
+    "Syllable": "57",
+    "Word": "14",
+    "RDate": "20210321",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "가격에 비해 재질이나 디자인도 나쁘고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 나쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "체형이 살짝 애매해서 사이즈 안맞고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏도 안이쁘네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "85025",
+    "RawText": "색상 마음에 안들어요 가격대비 퀄리티가 정말 안좋은거 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 맥코트 ",
+    "ReviewScore": "100",
+    "Syllable": "34",
+    "Word": "8",
+    "RDate": "20210413",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상 마음에 안들어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격대비 퀄리티가 정말 안좋은거 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "85026",
+    "RawText": "사이즈가 다른옷보다 조금 거서 핏이 안예쁘네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 맥코트 ",
+    "ReviewScore": "100",
+    "Syllable": "25",
+    "Word": "6",
+    "RDate": "20210412",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 다른옷보다 조금 거서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏이 안예쁘네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "85029",
+    "RawText": "디자인도 색상도 안예뻐요 정사이즈라고 했는데 사이즈가크게 나온것같아요 제가66사이지입는데 66사이즈가크서 55사이즈로교환 불편했어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 맥코트 ",
+    "ReviewScore": "80",
+    "Syllable": "73",
+    "Word": "11",
+    "RDate": "20210405",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 색상도 안예뻐요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 안예뻐요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "정사이즈라고 했는데 사이즈가크게 나온것같아요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "66사이지입는데 66사이즈가크서 55사이즈로교환 불편했어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "85031",
+    "RawText": "구김도 많고 배송도 느리네요 한사이즈 적게 구매했는데도 넉넉하네요 여성스러운 면이 부족한 거 같아요 ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 맥코트 ",
+    "ReviewScore": "70",
+    "Syllable": "56",
+    "Word": "13",
+    "RDate": "20210321",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "구김도 많고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "한사이즈 적게 구매했는데도 넉넉하네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "여성스러운 면이 부족한 거 같아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "85034",
+    "RawText": "불편하고  무겁고 가격도 적당하지 않은듯 ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 맥코트 ",
+    "ReviewScore": "100",
+    "Syllable": "23",
+    "Word": "5",
+    "RDate": "20210327",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "불편하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무겁고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 적당하지 않은듯",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "85039",
+    "RawText": "질이 좋습니다 전체적으로 만족합니다 제가 입어보고 질이 좋아 엄마도 ㅇ구매하셨는데 득템하셨다고 좋아하십니다 가끔 이렇게 운이 좋을때도 있습니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 맥코트 ",
+    "ReviewScore": "100",
+    "Syllable": "79",
+    "Word": "17",
+    "RDate": "20210514",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "질이 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "질이 좋아",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "88560",
+    "RawText": "출근복으로 아주 잘입고 있어요 만족합니다 기계세탁도 가능하고 아주 좋으네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여름 여성 카라티셔츠10종",
+    "ReviewScore": "100",
+    "Syllable": "41",
+    "Word": "9",
+    "RDate": "20210819",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "활용성",
+        "SentimentText": "출근복으로 아주 잘입고 있어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "기계세탁도 가능하고 아주 좋으네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "88575",
+    "RawText": "신축성이 너무 없음 다른 옷들은 105입는데  110 주문함 사진과 같이 사이즈 엄청 차이남 그럼에도 신축성이 없어서 많이 불편함",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여름 여성 카라티셔츠10종",
+    "ReviewScore": "30",
+    "Syllable": "72",
+    "Word": "18",
+    "RDate": "20210608",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "신축성",
+        "SentimentText": "신축성이 너무 없음",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "105입는데  110 주문함 사진과 같이 사이즈 엄청 차이남",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": "신축성이 없어서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "많이 불편함",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "88584",
+    "RawText": "가격대비 별로  디자인과 색상이 안 예쁜것같아요~개인적으로 라운드는 디자인이 너무 예쁘지 않은것 같아요~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여름 여성 카라티셔츠10종",
+    "ReviewScore": "90",
+    "Syllable": "58",
+    "Word": "12",
+    "RDate": "20210606",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 별로",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인과 색상이 안 예쁜것같아요~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 안 예쁜것같아요~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "라운드는 디자인이 너무 예쁘지 않은것 같아요~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "88585",
+    "RawText": "원단이며 색깔이며... 저렴해 보입니다. 싸이즈가 너무 타이트하게 나왔습니다.  반품 귀찮아서 그냥 막 입을려고요~ ㅜㅜ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여름 여성 카라티셔츠10종",
+    "ReviewScore": "10",
+    "Syllable": "67",
+    "Word": "14",
+    "RDate": "20210605",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "원단이며 색깔이며... 저렴해 보입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": " 색깔이며... 저렴해 보입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "싸이즈가 너무 타이트하게 나왔습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "88586",
+    "RawText": "배송 : 빨라요  사이즈 : 표기된 사이즈보다 작은 것 같아요. 보통 66이나 77을 입는데 이 옷은 105도 여유가 전혀없이 완전 딱이라 불편해요.  디자인 : 일상적으로 입지도 못할 것 같고 라운드 티는 집에서나 입어야 할 것 같아요.  시원한 천이라 해서 구입했는데 전혀 시원하지 않고 입는 순간 답답하다는 생각이 들었어요. 아마도 사이즈가 넘 딱이라 더 그랬던 것 같으니 시원하게 여유있게 입고 싶으신 분들은 최소 한 사이즈이상 크게 구입하셔야 할 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여름 여성 카라티셔츠10종",
+    "ReviewScore": "50",
+    "Syllable": "261",
+    "Word": "69",
+    "RDate": "20210609",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈 : 표기된 사이즈보다 작은 것 같아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "보통 66이나 77을 입는데 이 옷은 105도 여유가 전혀없이 완전 딱이라 불편해요.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 : 일상적으로 입지도 못할 것 같고 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "라운드 티는 집에서나 입어야 할 것 같아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "시원한 천이라 해서 구입했는데 전혀 시원하지 않고 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "입는 순간 답답하다는 생각이 들었어요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 넘 딱이라 더 그랬던 것 같으니",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "최소 한 사이즈이상 크게 구입하셔야 할 것 같아요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "88600",
+    "RawText": "많이 기대했는데 티비보는거랑 너무도 차이가 많이나네요 옷질감이나 마감도 엉망이여요 색상도 안이뻐요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여름 여성 카라티셔츠10종",
+    "ReviewScore": "40",
+    "Syllable": "54",
+    "Word": "11",
+    "RDate": "20210601",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "촉감",
+        "SentimentText": "옷질감이나 마감도 엉망이여요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "마감도 엉망이여요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 안이뻐요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "89086",
+    "RawText": "완전 득템 이네요 네장 색 모두 이쁘구요 한사이즈  아래로 했는데 완전 잘구매 했어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 그** 티셔츠 4종 세트",
+    "ReviewScore": "100",
+    "Syllable": "47",
+    "Word": "13",
+    "RDate": "20220207",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "네장 색 모두 이쁘구요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "한사이즈  아래로 했는데 완전 잘구매 했어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "89090",
+    "RawText": "스팽글이 있어 안 예뻐요 살에 닿는 감촉도 별로고 여름에 시원할 것 같지도 않아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 그** 티셔츠 4종 세트",
+    "ReviewScore": "100",
+    "Syllable": "45",
+    "Word": "13",
+    "RDate": "20220225",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "스팽글이 있어 안 예뻐요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "살에 닿는 감촉도 별로고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "여름에 시원할 것 같지도 않아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "89091",
+    "RawText": "천도 안좋고 디자인도 별로임 55사쥬입는데 85핏 큼 다 안좋은데 어깨가 넓게나와서 더 안좋음 어깨선이 어중간함ㅜㅜ  가격이 완젼 비쌈",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 그** 티셔츠 4종 세트",
+    "ReviewScore": "100",
+    "Syllable": "75",
+    "Word": "18",
+    "RDate": "20220227",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "천도 안좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 별로임",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "55사쥬입는데 85핏 큼",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "어깨가 넓게나와서 더 안좋음 어깨선이 어중간함ㅜㅜ ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 완젼 비쌈",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "89096",
+    "RawText": "저렴하지도 않고 여름에 입기 더워요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 그** 티셔츠 4종 세트",
+    "ReviewScore": "100",
+    "Syllable": "19",
+    "Word": "5",
+    "RDate": "20220122",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하지도 않고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "여름에 입기 더워요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "89097",
+    "RawText": "원단도 보드랍지않고 얇아 비침도 있어요~디자인도 안이쁘고 불편해요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 그** 티셔츠 4종 세트",
+    "ReviewScore": "100",
+    "Syllable": "36",
+    "Word": "7",
+    "RDate": "20220119",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "촉감",
+        "SentimentText": "원단도 보드랍지않고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "얇아 비침도 있어요~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 안이쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "불편해요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "89098",
+    "RawText": "옷감 재질이 별로고 프린트와 스팽글 장식이 생각보다 안예쁘다. 저렴하지도않다. 상의 55반 ~66인데 90 size 안맞는다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 그** 티셔츠 4종 세트",
+    "ReviewScore": "100",
+    "Syllable": "70",
+    "Word": "15",
+    "RDate": "20220306",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "옷감 재질이 별로고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "프린트와 스팽글 장식이 생각보다 안예쁘다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하지도않다. ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "상의 55반 ~66인데 90 size 안맞는다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "89101",
+    "RawText": "디셔츠 4종  재질도안좋고 시ㅢㄱ상도 안예쁜데  무지였으면 하는개인적인 생각  포인터로 저렴하게  구입  여름에 더울듯",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 그** 티셔츠 4종 세트",
+    "ReviewScore": "100",
+    "Syllable": "66",
+    "Word": "13",
+    "RDate": "20220215",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질도안좋고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "시ㅢㄱ상도 안예쁜데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "포인터로 저렴하게  구입",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "여름에 더울듯",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "89104",
+    "RawText": "얇아서 그런지 좀 헐렁한 느낌 있어요.  핏을 생각하면 한사이즈 내려 입으면 핏이 좋을것같아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 그** 티셔츠 4종 세트",
+    "ReviewScore": "90",
+    "Syllable": "52",
+    "Word": "13",
+    "RDate": "20220124",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇아서 그런지 좀 헐렁한 느낌 있어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏을 생각하면 한사이즈 내려 입으면 핏이 좋을것같아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "89111",
+    "RawText": "집에서 입으려고 구입했는데 원단 디자인 별로고 색상 가격 배송 모두 맘에 안들어요 ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 그** 티셔츠 4종 세트",
+    "ReviewScore": "100",
+    "Syllable": "46",
+    "Word": "12",
+    "RDate": "20220115",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "원단 디자인 별로고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 별로고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상 가격 배송 모두 맘에 안들어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 배송 모두 맘에 안들어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "89112",
+    "RawText": "면이 두꺼워서 더울것 같고 색상도 별로 디자인이 안예쁘네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 그** 티셔츠 4종 세트",
+    "ReviewScore": "100",
+    "Syllable": "32",
+    "Word": "8",
+    "RDate": "20220130",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "면이 두꺼워서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "더울것 같고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 별로",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 안예쁘네요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "89122",
+    "RawText": "여름에  입으려고 구입 했는데  지금 입어도 옷감이 두꺼워서 안입어지네요. 품질 별로에요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 그** 티셔츠 4종 세트",
+    "ReviewScore": "90",
+    "Syllable": "50",
+    "Word": "11",
+    "RDate": "20211215",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "옷감이 두꺼워서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질 별로에요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "89123",
+    "RawText": "추천안함 스팽글다떨어져있어서입지도못하겠네요 교환할려니 기간도7일이내라하고  싸다고사면않될듯ㅠㅠ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 그** 티셔츠 4종 세트",
+    "ReviewScore": "10",
+    "Syllable": "52",
+    "Word": "5",
+    "RDate": "20220219",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "스팽글다떨어져있어서입지도못하겠네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸다고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "89125",
+    "RawText": "가격이 만족스럽지 않네요  여름에 더울듯~~  사이즈는 크고, 두께는 두꺼워요~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 그** 티셔츠 4종 세트",
+    "ReviewScore": "80",
+    "Syllable": "44",
+    "Word": "9",
+    "RDate": "20220218",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 만족스럽지 않네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "여름에 더울듯~~ ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈는 크고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "두께는 두꺼워요~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "89131",
+    "RawText": "천도 부드럽지 않고 디자인이 좀 올드하네여 집에서 입을것 같아요 세일 가격이라 아주 저렴히 구입했어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 그** 티셔츠 4종 세트",
+    "ReviewScore": "100",
+    "Syllable": "56",
+    "Word": "14",
+    "RDate": "20211209",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "촉감",
+        "SentimentText": "천도 부드럽지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 좀 올드하네여",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "세일 가격이라 아주 저렴히 구입했어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]

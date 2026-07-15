@@ -1,0 +1,5594 @@
+[
+  {
+    "Index": "1026777",
+    "RawText": "요즘 캡슐세제에 관심이 많아 이것저것 구경하고 있는데 이 제품 표지 너무 실감나지 않나요?  섬유 유연제 따로 쓰지 않아도 향기 오래 지속 되고 깨끗하게 빨래가 되는 것 같네요.  그리고 무엇보다 세제통에 찌꺼기 남을 걱정 없어 좋습니다. 세제통에 넣어 쓰는 세제가 잔뜩 남아 있지만 고민 안하고 구매했네요. ㅎㅎ 하나씩 포장돼 있어서 간편하게 사용하기 좋구요.    뭐든 올인원이 좋더라구요. 편안함에 익숙해져가는 제 모습이 너무 편해 보이네요 ㅋ  ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 고농축 올인원 세탁세제",
+    "Syllable": "253",
+    "Word": "63",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "지속력",
+        "SentimentText": "섬유 유연제 따로 쓰지 않아도 향기 오래 지속 되고",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "깨끗하게 빨래가 되는 것 같네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "세제통에 찌꺼기 남을 걱정 없어 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "하나씩 포장돼 있어서 간편하게 사용하기 좋구요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026805",
+    "RawText": "화장실하면 강한 냄새의 나프탈렌을 떠올릴 수 있지만 여기 향과 효과 끝내주는 제품이 있습 니다.    스윗플라워 향으로 향긋하게 해주고 응고된 요석을 원인부터 찾아서 제거해주니 나쁜 냄 새도 안나고 참 좋네요. 확실한 효과를 위해 대용량으로 판매를 하니 타사제품보다 더 오래  향과 효과가 지속됩니다. 색상도 다양하고 예뻐서 화장실 톤 업을 시켜주니 더 더 좋네요 그 냥 놓아만 두면 끝이라 사용도 넘 편하고 자연발효액등으로 저자극 성분이라 더 안심이 됩니 다.  이제는 불쾌한 소변기 냄새 잡고 기분좋고 청결한 생활을 하시기 바래요~~   ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 소변기 탈취제(2개) ",
+    "Syllable": "303",
+    "Word": "76",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 향과 효과 끝내주는 제품이 있습니다.  ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 효과 끝내주는 제품이 있습니다.  ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "스윗플라워 향으로 향긋하게 해주고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "응고된 요석을 원인부터 찾아서 제거해주니",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "나쁜 냄새도 안나고 참 좋네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": " 대용량으로 판매를 하니 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "타사제품보다 더 오래  향과 효과가 지속됩니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 다양하고 예뻐서 화장실 톤 업을 시켜주니 더 더 좋네요 ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "그 냥 놓아만 두면 끝이라 사용도 넘 편하고 ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "자연발효액등으로 저자극 성분이라 더 안심이 됩니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026806",
+    "RawText": "향기에 민감한 딸아이가 주문해준 상품인데 너무 너무 좋아 소개해 드립니다.  향이 명품이네요. 종이로된 향기제품중에서는 최고인것 같아요 명품 화장품 향수 딱 그 향이 나더라구요. 넘 마음에 듭니다. 벤틀리,베이비 파우더 향 두가지 다 좋아요~ 사용기간은 얼마나 될지 모르겠지만 가격이 좀비싸요~ 최근에 주문한 것중 가장 마음에 드네요 비닐봉지 뜯자마자 향이 온 집안에 진동하는데 기분 이 넘 좋아지네요   옷장을 열었을때 나는 좋은 향기가 오래오래 지속되길 바라신다면 이제품 권해드립니다.",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 옷장방향제 옷장탈취제 사** 20g",
+    "Syllable": "273",
+    "Word": "64",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 명품이네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "종이로된 향기제품중에서는 최고인것 같아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "명품 화장품 향수 딱 그 향이 나더라구요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "벤틀리,베이비 파우더 향 두가지 다 좋아요~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 좀비싸요~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "비닐봉지 뜯자마자 향이 온 집안에 진동하는데 기분이 넘 좋아지네요 ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "좋은 향기가 오래오래 지속되길 바라신다면 이제품 권해드립니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026838",
+    "RawText": "안녕하세요 이웃님들^^ 요즘 식기 세척기가 많이 보급되어 식세기 전용 세제 궁금해 하셔서 들고 와봤습니다. OOO 스팀워시 식기세척기용 액체세제 만나러 가보시죠~~   액상이라 편할것 같다고 생각했는데 저의 오판이었네요. 겔 형태지만 무게는 나가니까 들고 짜서 넣기도 귀찮고 이전에 타블렛 형태 썼을 때는 12인용에 하나 썼는데도 잘 지워지고 유리컵도 뽀득 했는데 세척력이 확연히 차이 나서 실망했습니다. 유리컵 외에는 적당히 애벌 해서 넣으면 잘 지워지긴 해요. 간혹 기름기 있는 그릇들 겹쳐서 넣으면 얼룩 남기도 하고요. 결론은 가격은 경쟁력 있으나 사용은 타블렛이 간편합니다.  오늘 이야기 좀 도움이 되셨나요? 도움이 되셨으면 좋아요 꾹~ 잊지 마시고 오늘도 행복한 하루 되세요~~",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 스** 식기세척기용 액체세제 1L ",
+    "Syllable": "385",
+    "Word": "92",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "액상이라 편할것 같다고 생각했는데 저의 오판이었네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": " 겔 형태지만 무게는 나가니까 들고 짜서 넣기도 귀찮고",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력이 확연히 차이 나서 실망했습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "유리컵 외에는 적당히 애벌 해서 넣으면 잘 지워지긴 해요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "기름기 있는 그릇들 겹쳐서 넣으면 얼룩 남기도 하고요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 경쟁력 있으나",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026899",
+    "RawText": "딸아이가 사다 변기에 붙여놓은 걸 보고 알게된 제품인데 한번 소개해 볼게요  저렴하게 할인행사를 하는 걸 보고 사다 화장실에 2개 붙여놨는데 깨끗해진 기분이 들더라 고요 새로운 형태의 변기세정제라 반신반의했는데 나름 효과가 있는 듯 합니다  우선은 색상 이 예쁘고 모양도 귀엽고 깜찍해서 아이들이 무척 좋아해요 한번 붙여놓으면 생각보다 꽤 오 랫동안 사용할 수 있는게 장점입니다   젤리형태라 한번 붙여놓으면 잊어버리고 사용할 수 있으니 바쁘신 분들은 한번 사용해 보세 요",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "(1 + 1) OO 변기세정제 (6개입) ",
+    "Syllable": "264",
+    "Word": "66",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 할인행사를 하는 걸 보고 사다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "화장실에 2개 붙여놨는데 깨끗해진 기분이 들더라고요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "새로운 형태의 변기세정제라 반신반의했는데 나름 효과가 있는 듯 합니다  ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": " 색상이 예쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 모양도 귀엽고 깜찍해서 아이들이 무척 좋아해요 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": " 한번 붙여놓으면 생각보다 꽤 오 랫동안 사용할 수 있는게 장점입니다 ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "젤리형태라 한번 붙여놓으면 잊어버리고 사용할 수 있으니",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026919",
+    "RawText": "딸들의 머리카락 때문인지 자주 막히는 우리집 세면대 이제는 걱정이 하나도 되지 않습니다  이 제품이 있으니까요~  솔직히 반신반의했어요 1년정도 지나니 알 수 없는 악취가 느껴지고 며칠전부터는 세면대에 물이 잘 내려가지않아 서 세면대 배수관 클리너를 한번 사용해보자는 생각에 구매해봤어요. 근데 완전 대박이었어 요 설명서대로 했더니 한시간 후 물이 속 시원하게 내려가더라구요. 효과 짱이에요. 맘도 개 운합니다 좀 길게 두면 더 잘 뚫려요. 가격도 저렴하게 잘 샀어요.  막혔던 세면대가 뻥 뚫리는 그 기분을 느껴보고 싶다면 이제품 강력 추천합니다.   ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 맥** 세면대 배수관 클리너1개×3개",
+    "Syllable": "310",
+    "Word": "75",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 설명서대로 했더니 한시간 후 물이 속 시원하게 내려가더라구요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "효과 짱이에요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 좀 길게 두면 더 잘 뚫려요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하게 잘 샀어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026926",
+    "RawText": "반갑습니다 욕실 곰팡이가 눈에 띄어 고민있으신 분은 이 제품 한번 써보세요  효과는 사용 전 후가 확실하게 차이납니다. 완벽하게 곰팡이가 사라지지는 않았지만 환기가  잘 되는 곳은 몇초만에 깨끗해지고 환기가 잘 안되는 곳은 시간이 지나면서 천천히 깨끗해  지긴 했습니다. 덕분에 이번 이사청소할때 제일 큰일 했습니다. 냄새는 비록 독하지만 이정 도의 성과를 내준다면 얼마든지 참을수 있습니다 붓으로 몇번 칠하기만 해도 곰팡이가 잘 제거되니 편하더라고요 향은 어쩔수 없이 OO향이 나지만 환기시키고 사용하면 되는거라 전 큰 문제가 아니었어요  조금만 방심하면 곰팡이가 올라오는 욕실에는 꼭 구비해 사용해보시라고 추천드립니다  ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 곰팡이제거제",
+    "Syllable": "349",
+    "Word": "82",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "효과는 사용 전 후가 확실하게 차이납니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "완벽하게 곰팡이가 사라지지는 않았지만 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "환기가  잘 되는 곳은 몇초만에 깨끗해지고 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "환기가 잘 안되는 곳은 시간이 지나면서 천천히 깨끗해지긴 했습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 냄새는 비록 독하지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "이정도의 성과를 내준다면 얼마든지 참을수 있습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "붓으로 몇번 칠하기만 해도 곰팡이가 잘 제거되니 편하더라고요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 어쩔수 없이 OO향이 나지만 환기시키고 사용하면 되는거라 전 큰 문제가 아니었어요",
+        "SentimentWord": "12",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "1026936",
+    "RawText": "이렇게 좋은 제품이 있다는 걸 모를때는 정말 막막했는데 이제는 맘편히 생활할 수 있어 행 복합니다.  저희집은 오래된 집이라 하수구가 잘 막혀서 상시 구입하여 쓰고 있는 제품입니다 하나씩 사 는거보다 묶음으로 사면 많이 저렴해서 쟁여두고 사용합니다 이번에 정말 좋은 제품 싸게 구 매했어요 OOO을 배수구에 부은후 한시간쯤 지나 뜨거운물을 부어 막힌 하수구를 뚫고 있 는데 펑 뚫리고 좋네요 지금까지 본 것중 효과는 제일 좋습니다   사용해보고 나니 막힌 하수구로 고민이신 분이 계시다면 꼭 추천해드리고 싶어졌어요",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 펑** 배수관세정액 2L × 6개 ",
+    "Syllable": "287",
+    "Word": "73",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": " 하나씩 사 는거보다 묶음으로 사면 많이 저렴해서 쟁여두고 사용합니다 ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "정말 좋은 제품 싸게 구매했어요 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "한시간쯤 지나 뜨거운물을 부어 막힌 하수구를 뚫고 있 는데 펑 뚫리고 좋네요",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 지금까지 본 것중 효과는 제일 좋습니다 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026939",
+    "RawText": "시골에 계신 엄마네 욕실 곰팡이를 이걸로 제거해 드렸더니 마법 같다며 너무 좋아하시네요   항상 구비해두고 사용중인 제품인데 곰팡이 제거에는 확실한 효과가 있어 계속 사용하고 있 습니다. 특히 욕실 벽이나 바닥에 생기는 곰팡이는 뿌려만 주고 외출했다 들어와 물로 씻어 주기만해도 곰팡이가 깨끗하게 제거가 되니 이보다 편하게 사용할 수 없죠  오래된 얼룩도 어느정도 제거가 되니 믿을 수 있습니다 가격도 저렴해서 더 좋아요   곰팡이 없는 하얀 욕실을 원하신다면 한번 써보세요.   ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 곰팡이제거제 2개",
+    "Syllable": "269",
+    "Word": "66",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "욕실 곰팡이를 이걸로 제거해 드렸더니 마법 같다며 너무 좋아하시네요 ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 곰팡이 제거에는 확실한 효과가 있어",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "욕실 벽이나 바닥에 생기는 곰팡이는 뿌려만 주고 외출했다 들어와 물로 씻어 주기만해도",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 곰팡이가 깨끗하게 제거가 되니 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "이보다 편하게 사용할 수 없죠 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "오래된 얼룩도 어느정도 제거가 되니 믿을 수 있습니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴해서 더 좋아요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "곰팡이 없는 하얀 욕실을 원하신다면 한번 써보세요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026943",
+    "RawText": "지난 주말에 모처럼 세탁조 청소를 하고 기분좋게 이 제품 소개한번 할게요.  오염과 악취제거는 물론 부품 보호 성능을 유지하는 다양한 효과가 있고 강력한 세정력으로  오염을 잘 제거하는 제품이라는 광고를 꼼꼼히 살펴보고 구매해 사용해보니 거품도 풍부하 게 나고 좋은 향도 났습니다. 웬지 더 세탁기가 깨끗해지는 느낌이 들어 아주 만족합니다. 3 개 구성이라 더 맘에 들고 가격은 저렴하지는 않지만 가성비는 좋습니다.   세탁조 청소 후 세탁해보시면 확실한 효과를 느끼실 수 있을거라는 생각이 드네요",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁조클리너 액상타입 250ml 3개",
+    "Syllable": "278",
+    "Word": "69",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "오염과 악취 제거는 물론 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "부품 보호 성능을 유지하는 다양한 효과가 있고 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "강력한 세정력으로  오염을 잘 제거하는 제품이라는",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "거품도 풍부하게 나고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "좋은 향도 났습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "웬지 더 세탁기가 깨끗해지는 느낌이 들어 아주 만족합니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": " 3 개 구성이라 더 맘에 들고 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가격은 저렴하지는 않지만 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비는 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "세탁조 청소 후 세탁해보시면 확실한 효과를 느끼실 수 있을거라는 생각이 드네요",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026944",
+    "RawText": "며칠전 길을 걷다 앞에 걸어가는 사람에게서 나는 은은한 향이 꼭 이 향 같았어요   향도 은은하게 오래 남아서 매일 쓰기 좋아요 가끔 향이 강한 타사 제품 섬유유연제는 머리 가 아픈데 그렇지 않아 좋네요 고급스러운 은은한향이라 맘에 들고 시트형은 처음 사용해봤 는데 정말 편하고 한장씩 낱개포장이라 더 사용하기 편하고 좋아요. 반신반의하며 샀는데 비누향이 정말 좋네요 단점은 좀 비싸네요 여기에서 좋은 가격에 사긴했어요 비싼만큼 효과가 좋으니 만족합니다  늘 사용하는 섬유유연제지만 마음에 드는 제품 없으시다면 이 제품 한번 사용해보시라고 하 고 싶네요",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 코** 섬유유연제 시트(40매)x2개 (향선택) ",
+    "Syllable": "309",
+    "Word": "78",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "지속력",
+        "SentimentText": "향도 은은하게 오래 남아서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 매일 쓰기 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 가끔 향이 강한 타사 제품 섬유유연제는 머리가 아픈데 그렇지 않아 좋네요",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "고급스러운 은은한향이라 맘에 들고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "시트형은 처음 사용해봤는데 정말 편하고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "한장씩 낱개포장이라 더 사용하기 편하고 좋아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 비누향이 정말 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "단점은 좀 비싸네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "여기에서 좋은 가격에 사긴했어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "비싼만큼 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1026947",
+    "RawText": "유난히 향에 민감한 사람이  OOO만 쓴다고해서 저도 써보고 소개해 드립니다.   새로 나온 거 보고 여름에 쓰기 좋은 향이라 주문 했는데 괜찮은 것 같아요 향이 생각보다 내 취향에 맞고 오 래가네요~~ 처음 사용하는 향이라 걱정했는데 괜찮아요 사은품이 있어서인지 저렴한 가격으로 구입했는데도  더 저렴한 느낌이 드네요 OOO 사용 하는 언니한테 선물하였어요. 아주 좋아하네요 OOO는 향도 좋고 품질도 지속력도 모두 우수해 요  향 좋고 지속력 좋은 OOO로 이번 기회에 한번 바꿔보셔도 후회는 없을듯 합니다.",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 생** 섬유유연제1L 3개",
+    "Syllable": "286",
+    "Word": "71",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "여름에 쓰기 좋은 향이라 주문 했는데 괜찮은 것 같아요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 생각보다 내 취향에 맞고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "오래가네요~~ ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "처음 사용하는 향이라 걱정했는데 괜찮아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품이 있어서인지 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격으로 구입했는데도  더 저렴한 느낌이 드네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "OOO는 향도 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 품질도 지속력도 모두 우수해요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "지속력도 모두 우수해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026950",
+    "RawText": "친구모임에 참석했다 친구옷에서 나는 향기에 반해 사용하기 시작한 섬유유연제 바로 이제 품입니다.   이 향 처음 써봤는데 정말 좋네요. 빨래하고 베란다에 널어놨는데  아들이 향이 너무 좋다고 그 러네요 용량이 많아서 한참동안 잘쓰겠어요 좋은가격에 구입해서 좋구요 향도 마음에들고 용기가 편리하게 사용할수 있게 되어있어서 더 좋으네요 배송도 주문한 다음날 빠르게 잘도착했습니다 향이 너무 좋아 이번에 4통을 구비해놓았습니다. 이 제품은 세탁 후에 향이 오래가서 더 좋 아요. 이제 이 걸로 정착해야겠어요   향수가 필요없는 섬유유연제 향 좋고 오래가고 너무너무 좋아 강력 추천드립니다.",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 딥** 섬유유연제 대용량 5.5L",
+    "Syllable": "326",
+    "Word": "77",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "이 향 처음 써봤는데 정말 좋네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "빨래하고 베란다에 널어놨는데  아들이 향이 너무 좋다고 그러네요 ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량이 많아서 한참동안 잘쓰겠어요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은가격에 구입해서 좋구요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 마음에들고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": " 용기가 편리하게 사용할수 있게 되어있어서 더 좋으네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 너무 좋아",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "세탁 후에 향이 오래가서 더 좋아요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "향수가 필요없는 섬유유연제 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1027248",
+    "RawText": "물건을 받았는데 쓰지 못할 정도로 망가져 온 경우 있죠~~ 그때는 어떻게 하시나요? 오늘 함께 할 후기는 OO 식기세척기 세제입니다  일단 사용 전이라 모르겠지만 한 통은 다 굳어서 왔네요.  다 굳어 있어서 두드려 깨야 사용할 수 있을 듯 합니다. 제조 일자를 보니 제조한 지  1년 6개월 이상 지나서 그런지 찝찝하네요. 주방에서 쓰기는 좀 그렇고 세탁조 청소할 때나 써야 될까봐요. 가루가 습기에 약한데 그 점을 중점에 두고 포장을 해야 할 것 같네요. 솝베리 성분에는 믿음이 가니 어떻게든 써보려구요. 케이스가 자그막해서 자리 차지 별로 안 할 것 같아서 샀는데 역시 실속은 없네요.    포장에 속지 맙시다. 물건도 사람도 모두 속을 들여다 보는 지혜를 가지는 하루가 되시길..",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 식기세척기세제 500g 2개",
+    "Syllable": "384",
+    "Word": "102",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "다 굳어 있어서 두드려 깨야 사용할 수 있을 듯 합니다",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "주방에서 쓰기는 좀 그렇고 세탁조 청소할 때나 써야 될까봐요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "솝베리 성분에는 믿음이 가니 어떻게든 써보려구요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "케이스가 자그막해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": " 자리 차지 별로 안 할 것 같아서",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1027250",
+    "RawText": "이 제품 쓸 때마다 드는 생각.. 내 속도 좀 이렇게 뚫리면 얼마나 좋을까.. 오늘의 후기는 OO입니다.  기름기 있는 음식 설거지 때문인지 씽크대 배수관이 막혀서 물이 잘 안 내려가더군요. 필요하던 차에 세일도 하고 양도 많아서 구입했습니다. 부어놓고 3시간 정도 지나서 물 트니까 그냥 시원하게 내려가더라구요, 역한 냄새도 말끔히 잡혔네요. 덕분에 아주 깔끔한 주방이 됐습니다. 제품 참 좋은 것 같아요. 감사합니다.  사용하실 때 반드시 고무장갑 착용, 환기 시키는 거 잊지 마세요. 좋은 물건에 현명한 소 비자 ㅋ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO  펑** 배수관세정액",
+    "Syllable": "291",
+    "Word": "75",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "세일도 하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": " 양도 많아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "부어놓고 3시간 정도 지나서 물 트니까 그냥 시원하게 내려가더라구요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "역한 냄새도 말끔히 잡혔네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1027782",
+    "RawText": "친구랑 함께 구매해서 사용하고 있는데 둘다 너무 만족하는 제품이라 소개해 볼게요  욕실청소에는 역시 이만한 제품이 없네요 화장실 변기 청소할 때 효과가 좋아 깨끗하게 되어서 좋고, 향도 은은한게 맘에 들고 잡냄새  없이 깔끔하게 되어서 만족합니다. 사이즈도 컴팩트 하게 작아서 사용하기 편합니다.할인 행 사기간에 저렴하게 구매해서 좋아요. 다른향도 몇 번 구매해 써봤는데 레몬이 세정력이 더  좋은거 같아서 레몬만 구매해요 이번에는 빨래바구니까지 사은품으로 받아 더 좋았어요  화장실 변기청소를 이제는 이렇게도 쉽게 할 수 있다니 참 좋네요~   ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 파** 변기세정제  3개입 x3개",
+    "Syllable": "306",
+    "Word": "73",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "욕실청소에는 역시 이만한 제품이 없네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "화장실 변기 청소할 때 효과가 좋아 깨끗하게 되어서 좋고,",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 은은한게 맘에 들고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "잡냄새  없이 깔끔하게 되어서 만족합니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": " 사이즈도 컴팩트 하게 작아서 사용하기 편합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인 행 사기간에 저렴하게 구매해서 좋아요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "레몬이 세정력이 더  좋은거 같아서 레몬만 구매해요 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "이번에는 빨래바구니까지 사은품으로 받아 더 좋았어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 화장실 변기청소를 이제는 이렇게도 쉽게 할 수 있다니 참 좋네요~ ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028384",
+    "RawText": "안녕하세요^^ 오늘은 후드 기름때 제거, 가스레인지 기름때 제거를 한번에!!  OOO 기름때 제거 클리너를 소개해드릴께요.  OOO 제품들은 세정력도 세정력이지만 사용법이 간단하는것도 마음에 드는 부분이죠.  먼저 기름때가 있는 곳에 분사해줍니다.  후드의 경우 세워두면 세제가 흘러내리니 눕혀두는 것보다 세워두시고 뿌리는 것도 좋을 것 같아요! 타사 유사한 제품들을 보면 문질러 청소해주는 경우도 있는데요. 기름때를 분리시키고 녹여주기 때문에 OOO 기름때 제거 클리너는 기다려 주기만 하면 된답니다.  물줄기로 물을 슉슉 뿌려주면 후드 필터 기름때 청소 끝 !!! ㅎㅎ  OOO기름때 제거 클리너 있으면 후드 필터 청소도 진짜 순식간 ! 주방이 늘 깨끗한 느낌이에요^^ 여러분도 꼭 사용해보시길 추천드립니다.",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 기름때 제거 클리너 ",
+    "Syllable": "398",
+    "Word": "90",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "기름때를 분리시키고 녹여주기 때문에 OOO 기름때 제거 클리너는 기다려 주기만 하면 된답니다.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "물줄기로 물을 슉슉 뿌려주면 후드 필터 기름때 청소 끝 !!! ㅎㅎ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " OOO기름때 제거 클리너 있으면 후드 필터 청소도 진짜 순식간 !",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "주방이 늘 깨끗한 느낌이에요^^ ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028406",
+    "RawText": "안녕하세요. 주방에서 가장 기름때가 많이 끼는곳이라면 바로 가스렌지 후드인데요. 오늘은 기름때 제거에 아주 탁월한 제품을 소개해드릴까 해요.  기름때 제거도 이제 뿌리기만 하면 끝!!! 데일리로 가볍게 사용하는 기름제거 및 주방클리너~ 가스레인지 후드, 가스레인지 등에 눌러붙고 오래된 기름 찌든때 제거를 더욱 효과적으로 제거해주고 문지르지 않아도 뿌리고 3분후 기름이 분해되어 흘러내려요. 신기방기하죠? 인체에 무해한 성분이 사용되어서 고무장갑을 껴지 않아도 괜찮아요. 천연 성분과 식물성 성분이 사용되고, 생분해성 성분이라 완전히 분해까지 되거든요.  청소해도 티가 나지 않은 오래된 씽크대이지만 OOO 기름때 제거 클리너로 청소해줬더니 광이 나는 것 같죠? 이런 세척력 좋은 스마트한 OOO 기름때 제거 클리너가 있어 참 편한 요즘입니다 ​ ​  ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 기름때 제거 가스렌지 찌든때클리너 750ml ",
+    "Syllable": "421",
+    "Word": "96",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "기름때 제거에 아주 탁월한 제품을 소개해드릴까 해요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "기름때 제거도 이제 뿌리기만 하면 끝!!!",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "데일리로 가볍게 사용하는 기름제거 및 주방클리너~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "가스레인지 후드, 가스레인지 등에 눌러붙고 오래된 기름 찌든때 제거를 더욱 효과적으로 제거해주고",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "문지르지 않아도 뿌리고 3분후 기름이 분해되어 흘러내려요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "인체에 무해한 성분이 사용되어서 고무장갑을 껴지 않아도 괜찮아요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "천연 성분과 식물성 성분이 사용되고, 생분해성 성분이라 완전히 분해까지 되거든요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "OOO 기름때 제거 클리너로 청소해줬더니 광이 나는 것 같죠?",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "이런 세척력 좋은 스마트한 OOO 기름때 제거 클리너가 있어 참 편한 요즘입니다",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028410",
+    "RawText": "세제를 고르실때 어떤 기준으로 어떤 제품을 고르시나요? 향이 기준이신가요?  아니면 브랜드가 기준이신가요? 오늘 그 두가지 기준을 모두 잡아주는 제품을 소개해드리도록 하겠습니다.  바로 OOO 라벤더향입니다^^ 라벤더젤같은 경우에는 향기도 적절하게 나는편이라서 좋았고 세탁물을 빨래를 했을때에  굉장히 깔끔한 마무리감이라서 금방 마르고 미끌거리게 남는것도 없더라구요. 향도 오래도록 남는편이지만 향기가 더 오래 갔으면 하는 분들은 섬유유연제를 같이 사용하시고 전 단독으로 써도 충분했어요.   가장 큰 장점은 바로 옷의 얼룩이 잘지워진다는거!! 세제는 무엇보다 세정력이 중요한데, 이 OOO 파워젤은 미세먼지제거세제,  옷얼룩제거 등에 주력해서 만들어진 제품이에요 ~  액세세탁세제추천으로 OOO 파워젤 ! ​아주 오랫동안 잘 쓸 것 같아요. 여러분도 꼭 한번 써보세요^^ ​  ​  ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 퍼** 세탁세제 드럼용 세제 2.7L",
+    "Syllable": "439",
+    "Word": "94",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "라벤더젤같은 경우에는 향기도 적절하게 나는편이라서 좋았고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "세탁물을 빨래를 했을때에  굉장히 깔끔한 마무리감이라서 금방 마르고",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "미끌거리게 남는것도 없더라구요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "향도 오래도록 남는편이지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "향기가 더 오래 갔으면 하는 분들은 섬유유연제를 같이 사용하시고 전 단독으로 써도 충분했어요.  ",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 가장 큰 장점은 바로 옷의 얼룩이 잘지워진다는거!!",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " OOO 파워젤은 미세먼지제거세제,  옷얼룩제거 등에 주력해서 만들어진 제품이에요 ~",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028414",
+    "RawText": "안녕하세요. 오늘은 맨손으로 설거지해도 안심할 수 있는 주방세제 추천해보려고 해요.  저는 실제 설거지할때 고무장갑을 잘 착용하지않아요. 미끄러운 정도를 확인하기 위해서 착용하지않고 설거지를 하는데요. 손이 상할수 밖에 없는 상황, 그럴때 저는 맨손으로  사용해도 되는 친환경세제 OOO를 선택아닌 필수로 사용한답니다. 고무장갑을 사용하지 않는 분들에게 추천하고 싶은 주방세제 추천 OOO 친환경세제~^^ 거품 잔뜩 있어도 생분해도가 높은 세제기 때문에 물에 흘러가더라도 환경오염을  방지하고 또 적은 세제 양으로도 풍성한 거품이 나고 탁월한 세정력을 보여주기 때문에 소량만 쓰셔도 돼요.   ​보기만해도 든든해지는 주방세제!! 앞으로도 쭈욱 사용할거에요. 세정력도 좋고 사용하기에도 좋고 디자인도 예쁘고 주방세제 추천 OOO 친환경세제 추천합니다 ^^ ​  ​  ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 라** 주방세제 500ml ",
+    "Syllable": "428",
+    "Word": "93",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "피부(손)보호",
+        "SentimentText": "저는 맨손으로  사용해도 되는 친환경세제 OOO를 선택아닌 필수로 사용한답니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "고무장갑을 사용하지 않는 분들에게 추천하고 싶은 주방세제 추천 OOO 친환경세제~^^",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "적은 세제 양으로도 풍성한 거품이 나고  ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "탁월한 세정력을 보여주기 때문에",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "소량만 쓰셔도 돼요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력도 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기에도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 예쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "거품 잔뜩 있어도 생분해도가 높은 세제기 때문에",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "주방세제 추천 OOO 친환경세제 추천합니다 ^^",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028419",
+    "RawText": "안녕하세요 ^^ 던지는 데 딱 1초, OO 1초세제 계량할 필요 없이 한 번에 한 알씩! 강력한 세척력 OOO 캡슐세제 드럼세탁기 세제로 추천해 드리려고 합니다.  저는 다양한 캡슐세제를 사용해보고 맞는 캡슐세제가 없어 캡슐세제 유목민이었는데 OOO 캡슐세제를 써보니 다른 캡슐세제랑 확실히 다르네요. 진드기, 먼지 알레르기가 있는데 진드기 사체, 배설물을 깨끗이 세탁해준다고 하니 넘 안심이에요 ㅎㅎ  향도 티트리 오일향이라 빨래하고 나서 맡아보니 강하지않고 은은하게 시원한 향이 나서  옷 입었을때도 향긋하고 기분 좋아지는 향이에요. 무엇보다 사용하는 방법이 초간편했는데요. 평소에 즐겨입던 가디건, 담요 같은 세탁물과  함께 OOO 캡슐 세제 하나를  톡 던져 넣어주면 끝! 1초컷 입니당^^  여러모로 간편하고 세정력도 좋은  캡슐세탁세제 알게되어 저의 살림레벨이 한단계 업그레이드 된 너낌이에요! 여러분도 꼭 한번 사용해보세요 ^^",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 캡슐세제 32개입 ",
+    "Syllable": "470",
+    "Word": "108",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "OO 1초세제 계량할 필요 없이 한 번에 한 알씩!",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "강력한 세척력 OOO 캡슐세제 드럼세탁기 세제로 추천해 드리려고 합니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "진드기 사체, 배설물을 깨끗이 세탁해준다고 하니 넘 안심이에요 ㅎㅎ ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 티트리 오일향이라 빨래하고 나서 맡아보니 강하지않고 은은하게 시원한 향이 나서 ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 옷 입었을때도 향긋하고 기분 좋아지는 향이에요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "무엇보다 사용하는 방법이 초간편했는데요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "세탁물과  함께 OOO 캡슐 세제 하나를  톡 던져 넣어주면 끝! 1초컷 입니당^^",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여러모로 간편하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력도 좋은",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028423",
+    "RawText": "냄새 걱정을 날리기 위해 건조기 사용 후에도 향기가 지속된다는 OO의 신제품, OO 아로마웨이브 세제를 사용해봤는데요. 그 사용후기를 남겨볼까해요.^^  아로마웨이브 세제는 세탁후 건조기를 사용해도 향기가 정말 오래오래 남더라고요. 청사과와 자몽의 조화로운 과일 향이 얼마나 상큼하던지 마음까지 편안하게 도와주는 향이에요. 게다가 액체형 세제라서 찬물에도 잘 녹아 세탁도 잘 되고요. OO만의 독자적인 세정 기술로 강력하게 생활오염을 제거합니다. 피지, 먼지 등 오염물질 제거가 탁월하더라고요.  여름에 사용하기 좋은 액체세제에 통돌이, 드럼세탁기 겸용이라 세탁기 상관없이 누구에게나 선물하기도 좋을 것 같아요! OO 아로마웨이브 만나고 여러분도 향긋한 빨래 하세요~~~^^",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시** 액체세제 겸용 ",
+    "Syllable": "377",
+    "Word": "81",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "지속력",
+        "SentimentText": "아로마웨이브 세제는 세탁후 건조기를 사용해도 향기가 정말 오래오래 남더라고요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "청사과와 자몽의 조화로운 과일 향이 얼마나 상큼하던지 마음까지 편안하게 도와주는 향이에요. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "액체형 세제라서 찬물에도 잘 녹아 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세탁도 잘 되고요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "OO만의 독자적인 세정 기술로 강력하게 생활오염을 제거합니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "피지, 먼지 등 오염물질 제거가 탁월하더라고요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여름에 사용하기 좋은 액체세제에 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "OO 아로마웨이브 만나고 여러분도 향긋한 빨래 하세요~~~^^",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "통돌이, 드럼세탁기 겸용이라 세탁기 상관없이 누구에게나 선물하기도 좋을 것 같아요!",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028426",
+    "RawText": "요즘따라 꿉꿉한 날씨에 빨래를 해도 향긋한 향이 나기보다 쾌쾌한 향이 나기 일쑤인데 OOO 실내건조  프레시 클린 섬유유연제를 사용해본 후기를 남겨보고자 해요 :)  은은하게 풍기는 향기가 너무 향긋해서 요즘 장마철에 사용해주기 딱인 섬유유연제로 추천드리고 싶은 OOO 실내건조 섬유유연제랍니다 ! 프레시 클린 향은 탑노트 복숭아, 자몽 미들노트 자스민, 백합, 베이스 노트 우디향, 머스크, 엠버로 은은한 자스민 꽃향기를 느낄수 있는데요. 코를 찌르는 독한 향기가 아닌 부드럽고 은은한 향으로 빨래 후에도 은은한 향기를 오래도록 즐길 수 있어요.  마음편히 빨래하고 넣어주기만 하면 장마철 빨래냄새 걱정은 끝! 올여름 OOO 실내건조 프레시 클린 섬유유연제로 날씨에 상관없이 사용할수 있고, 빨래 냄새 걱정없이 함께 해보시는 건 어떨까요~~^^ ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 섬유유연제 ",
+    "Syllable": "418",
+    "Word": "98",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "은은하게 풍기는 향기가 너무 향긋해서 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "요즘 장마철에 사용해주기 딱인 섬유유연제로 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "은은한 자스민 꽃향기를 느낄수 있는데요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "코를 찌르는 독한 향기가 아닌 부드럽고 은은한 향으로 ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "빨래 후에도 은은한 향기를 오래도록 즐길 수 있어요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "마음편히 빨래하고 넣어주기만 하면 장마철 빨래냄새 걱정은 끝! ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "올여름 OOO 실내건조 프레시 클린 섬유유연제로 날씨에 상관없이 사용할수 있고, ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "빨래 냄새 걱정없이 함께 해보시는 건 어떨까요~~^^",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028430",
+    "RawText": "요즘 세탁을 하면서 섬유유연제 안 쓰시는 분들 거의 없으시죠? 미세먼지가 많아서 요즘 실내건조를 하는 경우가 자주 생기는데, 요즘같은 날씨는 실내건조시 생가는 꿉꿉한 냄새가 걱정되더라고요.  하지만 정말 은은하게 기분 좋은 향을 가진 OOO 실내건조 플로럴 프레시 섬유유연제를 만난 뒤로는 꾸준히 빼놓지 않고 사용하고 있어요. 무엇보다 실내건조에 탁월한 효과가 있다는 면이 정말 마음에 들었는데요. 또 OOO 실내건조 플로럴 프레시 섬유유연제는 노 미세플라스틱, 노 유해성분으로 안심하고 쓸 수 있답니다.^^  실내건조시 빨래냄새로 걱정이신 분들이라면 꿉꿉한 냄새 제거해주는 OOO 실내건조 플로럴 프레시 꼭 한번 사용해보셨으면 좋겠어요.ㅎㅎㅎ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 플** 섬유유연제",
+    "Syllable": "360",
+    "Word": "81",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "정말 은은하게 기분 좋은 향을 가진",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " OOO 실내건조 플로럴 프레시 섬유유연제를 만난 뒤로는 꾸준히 빼놓지 않고 사용하고 있어요.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "무엇보다 실내건조에 탁월한 효과가 있다는 면이 정말 마음에 들었는데요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "OOO 실내건조 플로럴 프레시 섬유유연제는 노 미세플라스틱, 노 유해성분으로 안심하고 쓸 수 있답니다.^^",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "꿉꿉한 냄새 제거해주는 OOO 실내건조 플로럴 프레시 꼭 한번 사용해보셨으면 좋겠어요.ㅎㅎㅎ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028432",
+    "RawText": "안녕하세요 ^^ 겨울이 되니 빨래가 넘 안말라서 걱정이에요~ 그런데 막상 다 마르고 착용하거나 사용하려고 하면 왜 꿉꿉한 냄새가 다시 날까요?ㅜㅜ 오늘은 방안에서 말릴때도 상쾌함을 유지하는데 도와줄 실내건조 섬유유연제를 소개해볼께요.  기존에 사용하던 유연제를 아무리 많이 넣어도 마르고 나면 꿉꿉한 냄새가 가시지 않아서  이번에 주변에서 OOO 섬유유연제 추천받아 OOO 실내건조를 들였어요! OOO 실내건조는 냄새를 중화해서 없애는 원리로 향으로만 덮는 것이 아니라 냄새를 중화한 이후에 은은한 자스민 퍼퓸 오일로 기분 좋은 향을 입혀준답니다! 기존 OOO 제품에 비해서 향기오일이 3배가 증가하였으며, 냄새중화 입자가 30%나 증가하여 강력하게 탈취하여 주거든요.  저처럼 바깥이 넘 추워서실내에서 빨래를 건조하는 분들에게 OOO 실내건조를 섬유유연제 추천 하고 싶네요 ㅎㅎ  ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 엑** 실내건조 섬유유연제 1L ",
+    "Syllable": "438",
+    "Word": "98",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "OOO 실내건조는 냄새를 중화해서 없애는 원리로 향으로만 덮는 것이 아니라 냄새를 중화한 이후에 ",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "은은한 자스민 퍼퓸 오일로 기분 좋은 향을 입혀준답니다!",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "기존 OOO 제품에 비해서 향기오일이 3배가 증가하였으며,",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "냄새중화 입자가 30%나 증가하여 강력하게 탈취하여 주거든요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028433",
+    "RawText": "오늘은 화장실 청소 꿀템을 소개해드릴께요. 바로 효과적인 화장실 변기청소가 되고 산뜻한 화장실 럭셔리 향수가 담긴 OOO신제품을 사용해봤는데요.  사실 화장실 방향제 및 차량 방향제 등 인공적인 향들을 정말 싫어하는데 OOO 변기 세정제는 은은하면서도 변기청소와 화장실에서 나는 냄새도 모두 사라져서 너무 좋아요. 유럽인의 생활 필수품 OOO는 유럽이 사랑하는 유럽 NO1 화장실 변기세정제라고 해요. 강력하고 풍부한 거품 세정으로 오염물질을 깨끗하게 청소해주고, 둥근 파워볼의 넓은 표면으로 강력한 물때 제거 효과도 탁월하답니다. ^^ 에센셜 오일 함유로 물을 내릴때마다 상쾌한 향기가 오래 지속되서 좋았어요.  매일 사용하지만 바빠서 미루고 방치하기 쉬운 화장실을 늘 깨끗하게 유지시키고, 좋은 향으로 가득 채워보세요. 강력 추천합니다. ㅎㅎㅎ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 파** 변기세정제 ",
+    "Syllable": "418",
+    "Word": "95",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "효과적인 화장실 변기청소가 되고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "산뜻한 화장실 럭셔리 향수가 담긴 OOO신제품을 사용해봤는데요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " OOO 변기 세정제는 은은하면서도",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 화장실에서 나는 냄새도 모두 사라져서 너무 좋아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "강력하고 풍부한 거품 세정으로 오염물질을 깨끗하게 청소해주고,",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "둥근 파워볼의 넓은 표면으로 강력한 물때 제거 효과도 탁월하답니다. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "에센셜 오일 함유로 물을 내릴때마다 상쾌한 향기가 오래 지속되서 좋았어요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 매일 사용하지만 바빠서 미루고 방치하기 쉬운 화장실을 늘 깨끗하게 유지시키고",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "좋은 향으로 가득 채워보세요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028435",
+    "RawText": "요즘 빨래에 묵은 냄새가 많이 나서 적당한 세제를 찾던 중에 OOO 냄새딥클린 세탁세제를 알게 되었어요. 사용해보니 만족도가 높아서 여러분께도 소개해드리려고 해요.  저는 평소에 섬유유연제는 향이 중요하다고 생각해서 OOO를 애용하고 있는데요. 어린 아들을 키우고 있다보니 항상 옷에 얼룩이 많이 지는데 눈에 보이는 얼룩이 잘 지워지고 눈에 보이지 않는 냄새 얼룩까지 OOO 냄새딥클린 세탁세제로 한번에 잡을 수 있어서 너무 좋았어요. 새로운 효소 성분을 포함하고 있어서 차가운 물로도 세탁이 가능하고 세탁후에 빨래에서 은은히 풍기는 라벤더향이 기분까지 좋게 한답니다.  눈에 보이는 얼룩부터 냄새까지 한번에 싹! 제거해주는 OOO 프리미엄 초강력 세탁 세제 냄새딥클린 다들 경험해 보시길 꼭 추천드릴께요 ! ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁세제 냄** 용기 ",
+    "Syllable": "397",
+    "Word": "94",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "눈에 보이는 얼룩이 잘 지워지고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "눈에 보이지 않는 냄새 얼룩까지 OOO 냄새딥클린 세탁세제로 한번에 잡을 수 있어서 너무 좋았어요.",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "새로운 효소 성분을 포함하고 있어서 차가운 물로도 세탁이 가능하고 ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "세탁후에 빨래에서 은은히 풍기는 라벤더향이 기분까지 좋게 한답니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "눈에 보이는 얼룩부터 냄새까지 한번에 싹! 제거해주는",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028442",
+    "RawText": "안녕하세요. 날이 춥고 쌀쌀하다 보니 요즘 들어 빨래도 잘 마르지 않고 ​​아이들 겉옷이 두꺼워지니 빨래하기도  힘들어지는데요. OOO 세탁세제 실내건조는 써본 분들이 굉장히 만족도가 높다고 해서  저도 한번 사용해 봤어요 .   실내에서 건조를 하게 되면 아무래도 빨래에서 냄새가 나기 마련인데요, 냄새얼룩은 빨래를 하지 않아서 쌓이게 된 향이 아니라 실생활에서 천천히 누적되어 옷에 배어버리기 때문에 빨래 후에도 여전히 남아있는 거랍니다. OOO 냄새딥클린은 OOO표 프리미엄 초강력 세탁세제로 실제 얼룩도 제거될 뿐 아니라 눈으로 보이지 않는 냄새 얼룩까지도 한번에 없애주는데요. 세탁 후에 남는 잔향도 정말 좋고 찌든때까지 깨끗하게 지워지더라구요.   오늘은 OOO 냄새딥클린 세탁세제 후기를 소개해드렸는데요. 이제 빨래 냄새 걱정은 안해도 될 것 같아요 !!",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 세탁세제 액체형 냄**",
+    "Syllable": "429",
+    "Word": "100",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "OOO표 프리미엄 초강력 세탁세제로 실제 얼룩도 제거될 뿐 아니라",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "눈으로 보이지 않는 냄새 얼룩까지도 한번에 없애주는데요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "세탁 후에 남는 잔향도 정말 좋고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "찌든때까지 깨끗하게 지워지더라구요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 이제 빨래 냄새 걱정은 안해도 될 것 같아요 !!",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028446",
+    "RawText": "안녕하세요. 주부들이라면 피할수 없는 빨래지옥 ㅋㅋㅋ 벗어날 수 없죠~~!!!! 여름철 많은 양의 빨래 간편하게 세탁 가능한 캡슐세제를 찾았답니다.  계량하지 않아도 되고, 얼룩제거도 잘될뿐만 아니라 선명한 색을 유지시켜주고, 섬유 케어기능을 가지고 있고, 상쾌한 향까지 한번에 가능한 OOO 파워에요. 어린이 보호 포장으로 플라스틱 용기에 담겨있고 드럼,일반 겸용이에요. 세탁에 필요한 필수 요소를 4중 캡슐 하나에 담은 캡슐세제랍니다. 2~3중 캡슐은 봤어도 4중 캡슐은 처음 본 것 같아요. 기대한 것 그 이상이었어요. 국내 액체세제 판매 8년 연속 1위인 OOO이 만든 것이라 확실히 다른 것 같아요. 무형광이고 피부 자극 테스트를 완료한 제품이라 더 믿음이 가네요.  간편하게 사용할 세제를 찾고 계신 주부님들 OOO 실내건조 캡슐세제 한번 사용해보세요. 정말 최고랍니다~~~!!! ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 디** 실내건조 캡슐세제 ",
+    "Syllable": "443",
+    "Word": "102",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여름철 많은 양의 빨래 간편하게 세탁 가능한 캡슐세제를 찾았답니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "계량하지 않아도 되고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "얼룩제거도 잘될뿐만 아니라",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "선명한 색을 유지시켜주고,",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "섬유 케어기능을 가지고 있고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "상쾌한 향까지 한번에 가능한 OOO 파워에요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "어린이 보호 포장으로 플라스틱 용기에 담겨있고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "무형광이고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "피부(손)보호",
+        "SentimentText": "피부 자극 테스트를 완료한 제품이라 더 믿음이 가네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "간편하게 사용할 세제를 찾고 계신 주부님들 OOO 실내건조 캡슐세제 한번 사용해보세요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028449",
+    "RawText": "안녕하세요^^ 계속해서 날이 더워지고 있는데 하루하루 잘 지내고 계신가요? 식구가 많은 집은 오늘도 빨래와의 전쟁을 치르고 있는데요. 그 와중에 저를 도와서 깔끔한 세탁을 하는데 큰 도움을 주고 있는 캡슐세제인 OOO 소개를 드리려고 합니다.  저는 지금도 세탁할때 세제를 완벽하게 정량을 넣지 못할 때가 많은데 세제 계량할 필요 없이 빨랫감 7kg 이하는 캡슐세제 하나만 넣어주면 되니 정말 간편하답니다.  신제품 OOO 파워 캡슐세제는 세탁에 필요한 필수 4가지 기능을 하나에 담았는데요.  7KG이내의 빨랫감이라면 OOO 파워 캡슐 1개면 되고 초과는 2개만 사용하면 되는데요. 얼룩제거는 물론, 선명한 색을 유지시켜주고, 상쾌한 향이 나고, 섬유케어기능까지 세탁에 필요한 필수 요소를 하나의 캡슐에 담은 4 in 1 제품이에요. ​ 여러가지 세제를 사용해봤지만 딱 제맘에 드는 제품을 만나는 건 쉽지 않았는데요. OOO 실내건조 캡슐세제는 여러분께도 꼭 강추해드리고 싶은 제품이랍니다.^^",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 디** 실내건조 캡슐세제 ",
+    "Syllable": "501",
+    "Word": "118",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "세제 계량할 필요 없이 빨랫감 7kg 이하는 캡슐세제 하나만 넣어주면 되니 정말 간편하답니다. ",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "얼룩제거는 물론, ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "선명한 색을 유지시켜주고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "상쾌한 향이 나고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "섬유케어기능까지 세탁에 필요한 필수 요소를 하나의 캡슐에 담은 4 in 1 제품이에요. ​",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028455",
+    "RawText": "안녕하세요. 우리 부부에게 딱 맞는 캡슐세제를 발견해서 오늘 소개하려고 해요. OOO 실내건조 인데요.  매번 직접 계량해서 사용하는 세제만 사용했었는데, 요즘 간편하게 사용할 수 있는 캡슐세제가 단연 대세잖아요. 따로 계량할 필요없이 세탁기에 캡슐만 톡 넣어주면 끝이에요. OOO 파워는 4중 캡슐로 딥클린이 가능한 강력세탁까지 도와주기 때문에  얼룩제거에 정말 좋았어요. 또한 흰옷은 하얗게, 색깔옷은 선명하게 만들어주고, OOO 특유의 풍부하고 상쾌한 향과 옷 표면의 섬유 보풀을 제거해주어 새 옷같이 깔끔한 옷을 오랫동안 유지해주는 섬유케어까지 강력한 4 in 1 효과를 담고 있답니다.  좁은 공간의 세탁실에도 보관하기 편하고, 이제 사용하기 편한 캡슐세제로 계량 고민하지 말고 세척력 좋은 OOO 실내건조로 완벽하게 세탁해보세요. ㅎㅎ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 디** 실내건조 세탁 캡슐세제 파우치 ",
+    "Syllable": "417",
+    "Word": "96",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "따로 계량할 필요없이 세탁기에 캡슐만 톡 넣어주면 끝이에요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "4중 캡슐로 딥클린이 가능한 강력세탁까지 도와주기 때문에  얼룩제거에 정말 좋았어요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "흰옷은 하얗게, 색깔옷은 선명하게 만들어주고, ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " OOO 특유의 풍부하고 상쾌한 향과",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 옷 표면의 섬유 보풀을 제거해주어 새 옷같이 깔끔한 옷을 오랫동안 유지해주는 섬유케어까지",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "좁은 공간의 세탁실에도 보관하기 편하고, ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "이제 사용하기 편한 캡슐세제로 계량 고민하지 말고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력 좋은 OOO 실내건조로 완벽하게 세탁해보세요. ㅎ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028458",
+    "RawText": "다양한 섬유유연제를 써봤지만 결국 OOO만한게 없어서 늘 애용중인 브랜드에요. 원래 이용하던 핑크부케도 최애였는데 이번에 나온 신상 향은 정말 최고더라구요 그래서 여러분들께 소개해보려고 합니다.  향도 너무 좋지만 신상 OOO은 옥수수에서 추출한 자연 유래 탈취성분을 통하여, 실내건조 시 나는 냄새를 완벽 제거해 장마철 꿉꿉한 날도 향기롭게 실내건조가 가능한 스마트한 섬유유연제라고 해요. 요즘 하루 종일 꿉꿉하고 비가 잦아서 실내건조를 하고 있는데요. 실내건조 섬유유연제로 추천하는 OOO 덕분에 꿉꿉한 냄새 없이 향기롭고 안전하게 실내건조 할 수 있어 좋았답니다.   수건과 옷에서 느껴지는 은은한 향을 찾으신다면 OOO 고농축 시그니처 실내건조 OO 섬유유연제 정말 괜찮아요. 드럼세탁기, 일반세탁기 모두 호환되는 제품이며, 향기좋은 섬유유연제 비교해 보고 고르고 싶은데.. 어떤걸 사야할지 고민하시는 분들에게 도움되길 바랍니다. ㅎㅎ   ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 고농축 실내건조 라** 섬유유연제 1L ",
+    "Syllable": "474",
+    "Word": "105",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "이번에 나온 신상 향은 정말 최고더라구요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 너무 좋지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "OOO은 옥수수에서 추출한 자연 유래 탈취성분을 통하여, ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "실내건조 시 나는 냄새를 완벽 제거해 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "장마철 꿉꿉한 날도 향기롭게 실내건조가 가능한 스마트한 섬유유연제라고 해요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "꿉꿉한 냄새 없이 향기롭고 안전하게 실내건조 할 수 있어 좋았답니다. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "수건과 옷에서 느껴지는 은은한 향을 찾으신다면 OOO 고농축 시그니처 실내건조 OO 섬유유연제 정말 괜찮아요",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028464",
+    "RawText": "안녕하세요. 오늘은 욕실청소에 너무 좋은 OOO 친환경 물때 클리너를 소개해드리려고 해요. 사용해보고 좋아서 주방에 있는 스테인리스에 OOO 물때 클리너를 뿌리고 다 청소했답니다! ㅎㅎ 뭔가 청소하고 싶어지는 OOO 물때 클리너 저의 1Pick이 되었답니다!ㅎㅎ  천연 라즈베리 식초성분이지만 탈취효과와 더불어 화학성분의 독한 향이 아닌 향긋한 자연의 향으로 안심하고 욕실 청소까지 기분좋게 마무리를 할수가 있어요. 또한 강력한 물때 제거가 효과적인데요. 스프레이로 오염된 부위에 집중적으로 간편하게 뿌리고 닦아주기만 하면 되는 편리성까지 챙겨 주었어요.  여러분도 OOO 친환경 물때 클리너로 기분좋은 욕실 청소 마무리 하세요~~ 강추합니다~~^^    ​ ​    ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 친** 물때 클리너",
+    "Syllable": "374",
+    "Word": "81",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "욕실청소에 너무 좋은 OOO 친환경 물때 클리너를 소개해드리려고 해요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "천연 라즈베리 식초성분이지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "탈취효과와 더불어",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "화학성분의 독한 향이 아닌 향긋한 자연의 향으로 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "안심하고 욕실 청소까지 기분좋게 마무리를 할수가 있어요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "강력한 물때 제거가 효과적인데요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "스프레이로 오염된 부위에 집중적으로 간편하게 뿌리고 닦아주기만 하면 되는 편리성까지 챙겨 주었어요.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028469",
+    "RawText": "향기좋고 때도 잘 지워지는 욕실청소 OOO 라즈베리 물때 클리너 화장실 청소세제 아시나요? 스프레이 타입으로 칙칙 뿌리고 1~2분뒤에 걸레로 닦아주기만 하면 되는 물때 클리너랍니다.  독일 전통 천연 청소법에서 유래한 식초를 주요 성분으로 개발된 ‘OOO 욕실 청소 전용 라즈베리 클리너’는 욕실의 곳곳의 살균, 세정, 탈취, 광택을 한번에 잡는 4 in1클리너로써 천연 식초의 강력한 효과를 가지고 있다고 합니다. 습한 장마철이 되면 화장실 냄새가 더 심해지는데요. 독한 세제로 화장실 청소하면 머리가 너무 아파서 아무 세제나 못썼는데 OOO 물때 클리너는 향기로운 라즈베리향이라 순하고 머리가 아프지 않아서 잘 사용하고 있어요.  향기로운 라즈베리향으로 손쉽게 청소하는 라즈베리 물때 클리너 대박입니다~~!!! 여러분들도 힘들이지않고 얼룩덜룩한 물때 제거해보세요 ^^ 마음까지 개운해집니다.  ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 라** 화장실청소세제 ",
+    "Syllable": "446",
+    "Word": "100",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기좋고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "때도 잘 지워지는 욕실청소 OOO 라즈베리 물때 클리너 화장실 청소세제 아시나요? ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "스프레이 타입으로 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "칙칙 뿌리고 1~2분뒤에 걸레로 닦아주기만 하면 되는 물때 클리너랍니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 욕실의 곳곳의 살균, 세정, 탈취, 광택을 한번에 잡는 4 in1클리너로써",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "천연 식초의 강력한 효과를 가지고 있다고 합니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "OOO 물때 클리너는 향기로운 라즈베리향이라 순하고 머리가 아프지 않아서",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "잘 사용하고 있어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기로운 라즈베리향으로",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "손쉽게 청소하는 라즈베리 물때 클리너 대박입니다~~!!!",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028470",
+    "RawText": "오늘은 실내에서 건조를 하더라도 꿉꿉한 냄새없이 상쾌하고 보송보송하게 빨래가 가능한 OO 액체세제 OOO를 만나봤습니다 ^^  저희집은 통돌이 세탁기인데 일반,드럼겸용이라 양을 더 많이 넣지 않아도 되서 너무 편하고 얼만큼 넣어야 할지 감이 안왔는데 뒤에 친절하게 kg수에 따라서 양이 적혀있어서 너무 편리했답니다.  우리가 빨래를 하고 실내에 건조를 할 경우에는 아무래도 집안에서 나는 냄새자가 있는데 그게 섬유에 달라붙고 제대로 마르지않은 세탁물에서 생기는 곰팡이 냄새라고 해요...근데 OO OOO 실내건조세제는 강력한 탈취성분이 들어있어 그 냄새분자에 침투해 섬유에서 공기중으로 분리시켜주기 때문에 실내에서 덜 빠삭하게 건조해도 보송하고 상쾌한 플로럴향만 남게 돼요:)  올 여름 든든하게 실내건조 냄새 걱정없이 빨래를 할 수 있게 되었네요. 향기까지 좋은 세탁세제 액체세제 추천은 역시 OOO네요 !!!! ㅎㅎ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 액체세제 액** 실내건조",
+    "Syllable": "458",
+    "Word": "104",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "실내에서 건조를 하더라도 꿉꿉한 냄새없이 상쾌하고 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "보송보송하게 빨래가 가능한 OO 액체세제 OOO를 만나봤습니다 ^^",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "일반,드럼겸용이라 양을 더 많이 넣지 않아도 되서 너무 편하고",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "뒤에 친절하게 kg수에 따라서 양이 적혀있어서 너무 편리했답니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "OO OOO 실내건조세제는 강력한 탈취성분이 들어있어 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "실내에서 덜 빠삭하게 건조해도 보송하고 상쾌한 플로럴향만 남게 돼요:)",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "올 여름 든든하게 실내건조 냄새 걱정없이 빨래를 할 수 있게 되었네요. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 향기까지 좋은 세탁세제 액체세제 추천은 역시 OOO네요 !!!! ㅎㅎ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028471",
+    "RawText": "요즘은 빨래를 실내건조 하곤 하는데 날씨가 조금만 흐려도 왠지 빨래에서 꿉꿉한 냄새가 나는것 같아서 찝찝할 때가 많은데요. 이번에 OO OOO 퍼펙트 실내건조 액체세제를 써보고 정말 좋아서 후기를 남겨보려고 해요.  특히 제가 마음에 들었던 점은 저는 빨래를 돌릴때 주로 찬물로만 돌리거든요. 그런데 보통 가루세제는 잘 녹지를 않잖아요. 그런데 이 OOO 액체세제는 세제찌꺼기도 없고 찬물에도 바로 풀리는 100% 용해라 너무 좋아요~~ 기존 제품보다 2배 더 강력해진 세척력이라 보이지 않는 때까지 깨끗하게 세척을 도와준다고 해요. 용량이 큰 편인데, 세척력이 강해져서 그런지 권장 사용량을 지켜서 사용하면 꽤 오래 사용할 수 있어요.  올 여름은 OOO 세탁세제 덕분에 옷에서 꿉꿉한 냄새 날 일 없겠네요. 저처럼 눅눅하고 쾌쾌한 냄새로 고민이었다면 한번 사용해보는 것도 좋을 것 같아요.  ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 액** 액체세제 실내건조 3.2L ",
+    "Syllable": "445",
+    "Word": "109",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "이 OOO 액체세제는 세제찌꺼기도 없고 찬물에도 바로 풀리는 100% 용해라 너무 좋아요~~",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": " 용량이 큰 편인데,",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력이 강해져서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "권장 사용량을 지켜서 사용하면 꽤 오래 사용할 수 있어요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "올 여름은 OOO 세탁세제 덕분에 옷에서 꿉꿉한 냄새 날 일 없겠네요",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028482",
+    "RawText": "찌든때 낀 화장실 변기 청소때문에 스트레스 받으시나요? OO로는 안되는 요석을 제거하느라 팔 아프게 구석을 날카로운 것으로 긁어본 경험도 있으시죠? 변기 구석에 쌓인 찌든때 요석들을 속 시원하면서도 힘 안들이고 초간단 청소를 하고 싶어서 사용해봤는데요.  OOO 요석제거제는 겔타입으로 변기 틈새, 수직면, 모서리 등의 구석진 곳에도 손쉽게 작업할 수있고 냄새가 거의 없어 실내에서 쓰기에도 좋고 요석, 녹, 찌든 얼룩 등의 요염물을 간단히 제거할 수 있었어요.    솔이 같이 와서 좋았고, 써보니 요석 제거와 물때 얼룩 지우는데 직방이네요. 정말 세면대와 변기 주위 물때가 싹 없어졌어요. 쉽고 간편하게 요석을 제거하고 싶은신분들게 강력추천해드리고 싶어요~~~^^",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 요석제거제 화장실청소세제 ",
+    "Syllable": "373",
+    "Word": "87",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "겔타입으로 변기 틈새, 수직면, 모서리 등의 구석진 곳에도 손쉽게 작업할 수있고",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새가 거의 없어 실내에서 쓰기에도 좋고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "요석, 녹, 찌든 얼룩 등의 요염물을 간단히 제거할 수 있었어요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": " 솔이 같이 와서 좋았고,",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "써보니 요석 제거와 물때 얼룩 지우는데 직방이네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "정말 세면대와 변기 주위 물때가 싹 없어졌어요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "쉽고 간편하게 요석을 제거하고 싶은신분들게 강력추천해드리고 싶어요~~~^^",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028486",
+    "RawText": "세탁세제는 집에서 사용하는 필수 생필품 중 하나인데요. 오늘은 OO 액체세제를 리뷰해 보려고 해요.   OO 진드기 세탁세제는 각종 알러지, 천식을 유발하는 집먼지 진드기 사체 및 배설물을 99% 제거해 줍니다. 그래서 습한 여름 침구류며 옷을 진드기 세제를 이용해 싹 한번 빨아줬답니다. 그리고 여름이라 습한 만큼 빨래를 돌리고 나면 꿉꿉한 냄새도 가끔 한번씩 날때가 있는데 OO 진드기 세탁세제는 꿉꿉한 냄새 제거는 물론 세척력에 도움을 주는 베이킹 소다와 구연산도 함유가 되어 있어 좋아요. 세탁 후 세제의 시원한 향이 남아있어서 기분까지 상쾌하네요~ㅎㅎ  세척력도 좋고 효과도 뛰어나서 계속 구매하게 되네요.  OO 추천합니다^^",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 액체세제 3.0L 세탁세제 드럼 ",
+    "Syllable": "356",
+    "Word": "86",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "OO 진드기 세탁세제는 각종 알러지, 천식을 유발하는 집먼지 진드기 사체 및 배설물을 99% 제거해 줍니다.",
+        "SentimentWord": "15",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "OO 진드기 세탁세제는 꿉꿉한 냄새 제거는 물론",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "세척력에 도움을 주는 베이킹 소다와 구연산도 함유가 되어 있어 좋아요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "세탁 후 세제의 시원한 향이 남아있어서 기분까지 상쾌하네요~ㅎㅎ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척력도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "효과도 뛰어나서 계속 구매하게 되네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028487",
+    "RawText": "드디어 세제하면 빼놓을 수 없는 OO에서 건조기 사용후에도 향기 가득한 액체세제, 건조기세제가 출시되었다는 기쁜 소식!!! 바로 OO 아로마*이브에요. ^^ 리필형은 2L로 용량도 넉넉해서 맘에 쏙 들었어요.!!  형광증백제나 파라벤이 들어가지 않았고 OO만의 독자적인 세정 기술로 의류 속에 스며든 먼지, 피지 등 오염복합체를 강력하게 세정해준다는 점 ! 여기에 순한 중성 PH 세제라서 어른 옷 뿐만 아니라 피부가 민감한 아이 옷 세탁도 가능해요 ㅎㅎ 세제의 양을 조절할 수 있는 뚜껑으로 액체세제를 따라내는데 라즈베리와 열대과일의 달콤함, 카모마일의 편안함이 은은하게 퍼지는 향이 얼마나 기분 좋던지요..  세탁바구니에 몇시간만 넣어두어도 금세 꿉꿉해지는 여름철 세탁물, 빨래속 냄새의 탈취력이 좋고, 건조기 사용 후에도 기분좋은 향이 계속해서 지속되는 OO 아로마*이브로 바꾸어보세요 ~~^^ ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 액체세제 아** 2L ",
+    "Syllable": "448",
+    "Word": "102",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "리필형은 2L로 용량도 넉넉해서 맘에 쏙 들었어요.!!",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "형광증백제나 파라벤이 들어가지 않았고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " OO만의 독자적인 세정 기술로 의류 속에 스며든 먼지, 피지 등 오염복합체를 강력하게 세정해준다는 점 ! ",
+        "SentimentWord": "15",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "여기에 순한 중성 PH 세제라서 어른 옷 뿐만 아니라 피부가 민감한 아이 옷 세탁도 가능해요 ㅎㅎ",
+        "SentimentWord": "16",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "세제의 양을 조절할 수 있는 뚜껑으로",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "라즈베리와 열대과일의 달콤함, 카모마일의 편안함이 은은하게 퍼지는 향이 얼마나 기분 좋던지요..",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "빨래속 냄새의 탈취력이 좋고, ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "건조기 사용 후에도 기분좋은 향이 계속해서 지속되는",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028492",
+    "RawText": "안녕하세요.  오늘은 OO세제로도 이름을 알리고 있는 OOO 제품을  소개해드리려고해요.^^  늘 쓰던 세탁세제 말고 요즘 시대에 맞는 초간편 요즘세제 트리플파워 캡슐세제를 사용해봤는데요  와! 빨래냄새도 없애주고 정말 간편하게 사용이 가능한 세제더라구요 OOO 캡슐세제는 눈에 보이지 않는 진드기 등 유해물질을 제거하는데 도움을 줄 수 있으며 각종 오염을 제거에 섬유 속 깊숙하게 들어가 있는 미세먼지도 안녕!  탈색방지 컬러케어로 옷감의 컬러는 선명하게! ​10가지 화학물질 무첨가로 피부 자극 테스트도 완료했으며 지구환경을 위한 생분해도 97% 세제라는 것도 포인트에요. 겉에 쌓여 있는 비닐도 자연스럽게 녹아서 나중에 빨래물에 딸려 나오는 일도 없고 세척력도 좋다 생각했는데 일단 티트리가 안마른 빨래냄새까지 잡아서  바싹하게 말려주니전 이 부분이 가장 좋았네요 ^^ ​ 지금 저처럼 안마른 빨래냄새 때문에 짜증지수 오르셨다면 OOO OO 캡슐세탁세제로 바꿔 써보세요 ^^   ​ ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 트** 캡슐세제 32개입 ",
+    "Syllable": "497",
+    "Word": "113",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "빨래냄새도 없애주고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "정말 간편하게 사용이 가능한 세제더라구요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "눈에 보이지 않는 진드기 등 유해물질을 제거하는데 도움을 줄 수 있으며",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "각종 오염을 제거에 섬유 속 깊숙하게 들어가 있는 미세먼지도 안녕! ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "탈색방지 컬러케어로 옷감의 컬러는 선명하게!",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "10가지 화학물질 무첨가로 피부 자극 테스트도 완료했으며",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "겉에 쌓여 있는 비닐도 자연스럽게 녹아서 나중에 빨래물에 딸려 나오는 일도 없고",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "티트리가 안마른 빨래냄새까지 잡아서  바싹하게 말려주니전 이 부분이 가장 좋았네요 ^^ ​",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "저처럼 안마른 빨래냄새 때문에 짜증지수 오르셨다면  OOO OO 캡슐세탁세제로 바꿔 써보세요 ^^ ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028494",
+    "RawText": "이번에 식기세척기 세제가 똑 떨어져 고민하다가 친환경 브랜드인 OOO 식기세척기 세제로 주문해서 쓰는 중이에요. OOO는 이전에 천연 수세미로 먼저 써보고 관심이 가는 곳이었거든요.   일단 유니크한 틴케이스 디자인에 반했네요. 그리고 살림할때 쓰는건 모두 성분을 중요하게 따져보는 편이에요. 주방세제도 우리가 먹고 마시는 식기에 직접적으로 닿아 세척하는 만큼 안심 할 수 있는지 알고 사는것이 중요하죠. 소다와 베이킹소다에 단백질과 지방을 분해해주는 효소를 적절히 첨가한 제품으로 헹굼력이 우수하고 찌꺼기가 남지 않아서 좋습니다. 실제로 제가 계속 써봐도 기름기제거도 뽀득뽀득하게 잘 되고 물때가 남았나? 기억이 안날만큼 깔끔하고 세척력이 좋았어요.   아직 식기세척기 세제 정착 못하신 분들이 있다면 써보셔도 좋겠어요~ 저의 원픽 만족 꿀템이랍니다~~~. ㅎㅎ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 식기세척기 세제 ",
+    "Syllable": "427",
+    "Word": "96",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "일단 유니크한 틴케이스 디자인에 반했네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": " 소다와 베이킹소다에 단백질과 지방을 분해해주는 효소를 적절히 첨가한 제품으로",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "헹굼력이 우수하고 찌꺼기가 남지 않아서 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "실제로 제가 계속 써봐도 기름기제거도 뽀득뽀득하게 잘 되고",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "물때가 남았나? 기억이 안날만큼 깔끔하고 세척력이 좋았어요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028499",
+    "RawText": "안녕하세요. 오늘은 고농축 OOO을 소개해드릴까해요. 저는 개인적으로 향수도 마찬가지인데 자극적이지 않고 무겁지 않은 느낌 그리고 은은하게 오래가는 향을 좋아하는데요. 얼마전 우연히 사용하게 된 후로는 쭉 OOO을 사용하게 되었답니다.  이 제품의 가장 큰 기술은 고농축이에요. 아무래도 제조업 강국인 독일의 선진화 된 기술로 고농축을 했다고 해서 그런지 작은 양으로도 향이 진하고 오래 가더라구요. 이 제품은 작은 뚜껑으로 세번 정도만 넣으면 향도 몇일가고 좋았어요. 빨래하고 옷을 말려놓으면 드레스룸에서 좋은 향도 나서 들어갈때마다 기분이 상쾌해진답니다. 그리고 향의 지속력이 뛰어나서 옷을 입었을때 하루종일 은은하게 향이 나면서 마치 향수를 뿌린 것처럼 좋답니다.  향이 오래가는 섬유유연제를 찾으시는 분들은 꼭 고농축 OOO 사용해보세요. 정말 만족하실거에요 ^^ ​   ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 버**고농축 섬유유연제",
+    "Syllable": "436",
+    "Word": "99",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": " 이 제품의 가장 큰 기술은 고농축이에요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "작은 양으로도 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 진하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "이 제품은 작은 뚜껑으로 세번 정도만 넣으면 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "향도 몇일가고 좋았어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "빨래하고 옷을 말려놓으면 드레스룸에서 좋은 향도 나서 들어갈때마다 기분이 상쾌해진답니다",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "향의 지속력이 뛰어나서 옷을 입었을때 하루종일 은은하게 향이 나면서 마치 향수를 뿌린 것처럼 좋답니다.",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "향이 오래가는 섬유유연제를 찾으시는 분들은 꼭 고농축 OOO 사용해보세요. 정말 만족하실거에요 ^^",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "오래 가더라구요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028501",
+    "RawText": "안녕하세요. 오늘은 OOO 배수관 클리너 리뷰를 해볼께요. 배수관 청소라고 해서 복잡하고 귀찮을줄 알았는데 간단했어요.그냥 부어주면 끝이더라구요. 세상 간편했어요. ㅎㅎㅎ  쫀득한 세정액이 배수관 벽에 붙어서 서서히 작용해서 오염물질을 제거를 한다고 해요. 보통 막힌 배수관은 많이 아는 액체 제품을 사용하는데 아마 복불복처럼 뚫리기도 하고 안 뚫리기도 하던데요. OOO 배수관 클리너는 사용방법부터가 달라서 쫀득한 세제가 천천히 배수관 벽면을 타고 흘러내리면서 켜켜이쌓여있는 오염물질을 녹여 버리는 방식이네요. ​ 효과를 기대했는데 정말 때도 잘 벗겨지고 무엇보다 냄새가 확실히 줄었어요. 정말로 꿉꿉하고 약간 눅눅한 냄새가 거의 나지 않았어요. 직접 사용해보니 만족도가 높은 제품이었답니다.",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 배수관클리너 ",
+    "Syllable": "388",
+    "Word": "86",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "배수관 청소라고 해서 복잡하고 귀찮을줄 알았는데 간단했어요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "그냥 부어주면 끝이더라구요. 세상 간편했어요. ㅎㅎㅎ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "정말 때도 잘 벗겨지고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "무엇보다 냄새가 확실히 줄었어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "정말로 꿉꿉하고 약간 눅눅한 냄새가 거의 나지 않았어요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028508",
+    "RawText": "욕실은 물을 계속 사용하는 곳이라 조금만 관리를 소홀히 해도 금방 지저분해지잖아요. 식구들이 자주 도와주지 않으니 제가 혼자서도 청소를 더 쉽고 빠르게 끝낼 수 있도록 욕실청소 도우미 사용하고 있어요.ㅎㅎ  바로 OOO !! 간단하게 뿌려만 주면 되고, 풍성한 거품이 힘든 솔질을 하지 않아도 지저분한 부분을 깔끔하게 청소해 주니까 그야말로 효자템이에요. 또 시원한 후레쉬향이 독하지 않고 호불호없이 누구나 좋아할만한 향이라는 생각이 들었어요. OOO는  곰팡이 제거력이 뛰어난 OO와 오염 제거력이 뛰어난 세제 성분이 하나로 합쳐진 제품이에요.  욕실청소나 변기청소로 스트레스 받고 계신다면 찐사용후기로 OOO 추천해드리고 싶어요.ㅎㅎㅎ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 살균표백세정제 후**",
+    "Syllable": "357",
+    "Word": "81",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "혼자서도 청소를 더 쉽고 빠르게 끝낼 수 있도록 욕실청소 도우미 사용하고 있어요.ㅎㅎ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "간단하게 뿌려만 주면 되고,",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "풍성한 거품이 힘든 솔질을 하지 않아도 지저분한 부분을 깔끔하게 청소해 주니까 그야말로 효자템이에요.",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "시원한 후레쉬향이 독하지 않고 호불호없이 누구나 좋아할만한 향이라는 생각이 들었어요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": " OOO는  곰팡이 제거력이 뛰어난 OO와 오염 제거력이 뛰어난 세제 성분이 하나로 합쳐진 제품이에요.",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "욕실청소나 변기청소로 스트레스 받고 계신다면 찐사용후기로 OOO 추천해드리고 싶어요.ㅎㅎㅎ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028510",
+    "RawText": "안녕하세요. 언제나 미루고만 싶은 욕실청소와 변기청소 ! 하지만 미뤘을때의 상황을 알기에 울며 겨자 먹기식으로 챙기고 있어요. 특히나 저는 아직 아이가 어려서 더욱 신경써서 챙기게 되는 화장실인데요.  요즘에는 화장실 청소세제 OOO 덕분에 힘 들이지 않고 간편하게 해결하고 있습니다. 혹시나 솔질없이 좀 더 간편하게 욕실청소를 마무리 할 수 있는 제품이 없는지 알아보던 중 발견한 OOO ! 직접 사용해보니 변기 관리에도 적합하다는 생각이 들었어요. 뿌리고 헹구기만 하면 세정부터 살균까지 한번에 해결이거든요.   풍성한 폼스프레이 거품이 몽글몽글~ 독한 OO냄새가 아닌 산뜻하고 향기로운 냄새로 악취제거까지 되니까 기분좋은 화장실 청소가 되네요~~^^",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 살균표백세정제",
+    "Syllable": "366",
+    "Word": "84",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 요즘에는 화장실 청소세제 OOO 덕분에 힘 들이지 않고 간편하게 해결하고 있습니다",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "솔질없이 좀 더 간편하게 욕실청소를 마무리 할 수 있는 제품이 없는지 알아보던 중 발견한 OOO ! ",
+        "SentimentWord": "16",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "직접 사용해보니 변기 관리에도 적합하다는 생각이 들었어요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "뿌리고 헹구기만 하면 세정부터 살균까지 한번에 해결이거든요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "살균/소독",
+        "SentimentText": "살균까지 한번에 해결이거든요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "풍성한 폼스프레이 거품이 몽글몽글~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "독한 OO냄새가 아닌 산뜻하고 향기로운 냄새로 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "악취제거까지 되니까 기분좋은 화장실 청소가 되네요~~^^",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028518",
+    "RawText": "화장실청소, 세면대청소, 변기청소, 제일 하기 싫은 욕실 3가지 청소...그리고 곰팡이제거와 악취제거까지 한번에 해결할 수 있는 간편한 청소방법 어디 없을까요? ​ 가장 깨끗해야 할 화장실을 깔끔하고 깨끗하게 관리하고 싶지만.. 어떻게 해야 화장실청소를 잘할 수 있는건지... 시작하면 한시간은 기본 소요되는 힘든 청소가 바로 욕실청소인 거 같아요. 힘들여서 솔질로 문지르지 않아도 되는 화장실청소세제 OOO를 만나봤어요. 세정성분 3배 강화되서 솔질없이 강력하게!! 욕실청소를 끝낼 수 있어요!  곰팡이 제거력이 좋은 OO와 오염이나 세정 성분이 좋은 세제를 3배가 더 강력해진 성분으로 조합해 물때, 찌든때, 곰팡이는 물론이고 살균까지 99.9% 되니까 OOO 주변에도 극찬중이랍니다.^^  ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 살균표백세정제",
+    "Syllable": "389",
+    "Word": "85",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분",
+        "SentimentText": "세정성분 3배 강화되서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 솔질없이 강력하게!! 욕실청소를 끝낼 수 있어요!",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "곰팡이 제거력이 좋은 OO와 오염이나 세정 성분이 좋은 세제를 3배가 더 강력해진 성분으로 조합해",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 물때, 찌든때, 곰팡이는 물론이고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "살균/소독",
+        "SentimentText": "살균까지 99.9% 되니까 OOO 주변에도 극찬중이랍니다.^^",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "힘들여서 솔질로 문지르지 않아도 되는 화장실청소세제 OOO를 만나봤어요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028521",
+    "RawText": "욕실청소, 변기청소 뿌려주면 끝나는 화장실청소세제 OOO. 평소 집안일 중에서도 화장실 청소를 제일 신경 쓰고 있지만 제일 더러운 곳도 화장실인데요. 워낙 습하기도 하고 통풍이 잘 안되는 편이라 환풍기를 틀어도 곰팡이가 스물스물 생기는 것은 어쩔 수 없더라고요.  요즘 OOO를 만나고 화장실 청소가 즐거워졌는데요. 곰팡이, 물때, 찌든때, 악취를 뿌려만 주고 헹구면 깔끔하게 청소되고 살균까지 되니 정말 신세계더라구요. 지금까지 OO의 독한 냄새가 싫어서 숨을 참거나 잘 안쓰게 됐었는데 이제 은은한 후레쉬한 향으로 기분좋게 청소할 수 있어 좋더라구요.  화장실은 OO로 청소해야 살균이며 곰팡이까지 청소하기 좋다고 하는데 이제 OO 따로 세제 따로 하지 말고 화장실 청소세제 OOO로 한번에 뿌리고 청소해보세요. ㅎ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 살균표백세정제",
+    "Syllable": "402",
+    "Word": "95",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "욕실청소, 변기청소 뿌려주면 끝나는 화장실청소세제 OOO.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "요즘 OOO를 만나고 화장실 청소가 즐거워졌는데요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "곰팡이, 물때, 찌든때, 악취를 뿌려만 주고 헹구면 깔끔하게 청소되고 ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "살균/소독",
+        "SentimentText": "살균까지 되니 정말 신세계더라구요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "이제 은은한 후레쉬한 향으로 기분좋게 청소할 수 있어 좋더라구요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "이제 OO 따로 세제 따로 하지 말고 화장실 청소세제 OOO로 한번에 뿌리고 청소해보세요. ㅎ",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028524",
+    "RawText": "이틀에 한번은 꼭 돌려줘야 하는 세탁기. 조금만 밀려도 금방 쌓이고 조금이라도 습기가 있으면 금방 냄새나는 빨래가 되어버리죠. 이번에 OOO 파워 캡슐세제를 쓰고 냄새나는 빨래 안녕했답니다.  지금까지 액체세제만 사용해왔기 때문에 항상 캡슐세제가 궁금했었어요. 사실 용량 대비해 자리 차지가 심할 거라는 생각때문에 사용하지 않고 있었는데요. 생각보다 부피가 크지 않더라구요. 캡슐세제의 장점이라고 한다면 이제 무거운 세제 들어 올리지 않고도 간편하게 사용이 가능하다는 장점! 진짜 캡슐세제 한번 사용하면 다시 액체세제로 돌아가기 힘들더라고요. 액체세제 사용하다보면 세탁기 세제 넣는 곳에 잔여 세제도 많이 남는데, OO OOO 캡슐세제는 찬물에도 잘 녹는 100% 수용성 필름을 사용해 잔여물이 남지 않았어요.  빨래는 간편하게 할 수 있고 세탁효과는 높고 향기는 오래가는 OOO 파워캡슐~  여러분도 함께 사용해보세요~^^",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 해** 파워캡슐 세탁세제",
+    "Syllable": "461",
+    "Word": "105",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "이번에 OOO 파워 캡슐세제를 쓰고 냄새나는 빨래 안녕했답니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "생각보다 부피가 크지 않더라구요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 이제 무거운 세제 들어 올리지 않고도 간편하게 사용이 가능하다는 장점! ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "진짜 캡슐세제 한번 사용하면 다시 액체세제로 돌아가기 힘들더라고요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "찬물에도 잘 녹는 100% 수용성 필름을 사용해 잔여물이 남지 않았어요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "빨래는 간편하게 할 수 있고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세탁효과는 높고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "향기는 오래가는 OOO 파워캡슐~ ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028528",
+    "RawText": "안녕하세요 오늘은 세탁세제를 포스팅하려고 해요. 소다세제인 OOO 세탁세제랍니다. OOO소다세제는 세탁력이 우수하고, 성분도 안전하고, 양이 많아서 오래쓰는 장점이 있어요. 그리고 소다와 코코넛 유래원료들을 사용한 덕분에 캐나다와 미국에서는 이미 많은 사랑을 받고 있다고 해요. OOO소다세제의 장점인 가루세제가 남지 않고 헹굼력의 우수성 때문에 아이옷 세탁에 신경쓰는 엄마들이 많이 사용한다고 해요. 많는 양을 사용하지 않아도 되는게 좋기도 하고  무향/무취/무색이라 인공적인 향이 없다는것도 마음에 들었어요. 틴케이스도 예쁘고 세탁 후 보송보송 ㅎㅎㅎ 소다세제는 모든 세탁에 사용이 가능한데요. 쓰면 쓸수록 좋은 느낌이 들었답니다.  요즘 환경을 생각해서 플라스틱 사용은 자제하려고 노력중인데 환경을 생각하는 세제에 틴케이스도 재활용이 되니 더더 마음에 쏙 들었답니다.",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 소다세제",
+    "Syllable": "432",
+    "Word": "93",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세탁력이 우수하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "성분도 안전하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양이 많아서 오래쓰는 장점이 있어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "OOO소다세제의 장점인 가루세제가 남지 않고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "헹굼력의 우수성 때문에 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "많는 양을 사용하지 않아도 되는게 좋기도 하고 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "인공적인 향이 없다는것도 마음에 들었어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "틴케이스도 예쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "세탁 후 보송보송 ㅎㅎㅎ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028532",
+    "RawText": "안녕하세요. 제가 너무 좋아하는 요 브랜드에서 캡슐세제가 새로 나왔습니다. 세탁세제부터 섬유유연제가지. 얼만큼의 양을 사용해야할지 항상 복잡하죠? 이제 OOO 파워캡슐 캡슐세제 1알로 끝납니다.   세탁세제, 살균제, 섬유유연제까지 한번에 해결이 가능해요. 올인원 세탁세제입니다. 초고농축인데다가 6종 강력효소의 똘똘 뭉쳐진 스마트한 세척력에 부드럽고 편안한 향기로 손꼽히는 베이비파우더향 섬유유연제도 포함이라는거. 또 보이지않는 곳까지 살균해주는 항균 99.9% 살균제까지 들어 있으니 빨래 항균력 뿐 아니라 세척통 항균력까지 챙길 수 있어 일석다조랍니다. ㅎㅎㅎ  햇살 좋은날 OOO 파워캡슐로 이불 빨래 했네요 :) 식물유래 성분 4종이 함유되어 더 행복한 제품입니다. 캡슐세제 한 알로 간편하게 세탁해보세요~",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 해** 파워캡슐 세탁세제",
+    "Syllable": "400",
+    "Word": "84",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "이제 OOO 파워캡슐 캡슐세제 1알로 끝납니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "세탁세제, 살균제, 섬유유연제까지 한번에 해결이 가능해요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " 올인원 세탁세제입니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "초고농축인데다가 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "6종 강력효소의 똘똘 뭉쳐진 스마트한 세척력에 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "부드럽고 편안한 향기로 손꼽히는 베이비파우더향 섬유유연제도 포함이라는거. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "살균/소독",
+        "SentimentText": "또 보이지않는 곳까지 살균해주는 항균 99.9% 살균제까지 들어 있으니 빨래 항균력 뿐 아니라 세척통 항균력까지 챙길 수 있어 일석다조랍니다. ㅎㅎㅎ",
+        "SentimentWord": "20",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "식물유래 성분 4종이 함유되어 더 행복한 제품입니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "캡슐세제 한 알로 간편하게 세탁해보세요~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028536",
+    "RawText": "요즘 빨래할때마다 느끼는거지만, 어쩜이리 해도해도 끝이 없는지... 쉽게 사용할 수 있는 세탁세제를 찾아보니 OOO 파워캡슐 세제가 올인원이고, 초고농축에  캡슐형이라 완전 간편해보이더라고요.  양 따로 잴것도 없고 세탁세제, 살균제, 섬유유연제까지 3in1. 그야말로 필요한거 다 여기 담겨져 있어 완전 초간단해졌네요. 살균력부터 마지막 잔향까지도 너무 마음에 들어 앞으로 OOO 파워캡슐세제로 정착하고 싶은 마음까지 들었답니다. 우리 아이 옷까지 안심하고 세탁할 수 있도록 걱정성분 32가지를 빼고 식물유래 성분을 더해 안심하고 사용할 수 있는 캡슐세제 !! 덴마크산 6종 효소를 함유해 얼룩들을 효과적으로 제거해주니 아이 옷에는 더욱더 사용하고 싶더라고요.  살균력도 좋은데 세탁 후 건조를 위해 세탁물을 꺼낼때 부드럽고 포근한 베이피파우더 향이 그대로 남아 기분까지 좋게 해주더라구요. 여러분도 꼭 한번 사용해보시길 추천드려요.",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 파워캡슐 올인원 초고농축 캡슐세제",
+    "Syllable": "467",
+    "Word": "103",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "OOO 파워캡슐 세제가 올인원이고, ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "초고농축에 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "캡슐형이라 완전 간편해보이더라고요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "양 따로 잴것도 없고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "세탁세제, 살균제, 섬유유연제까지 3in1.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 그야말로 필요한거 다 여기 담겨져 있어 완전 초간단해졌네요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "살균/소독",
+        "SentimentText": "살균력부터 마지막 잔향까지도 너무 마음에 들어 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "마지막 잔향까지도 너무 마음에 들어 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "우리 아이 옷까지 안심하고 세탁할 수 있도록 걱정성분 32가지를 빼고 식물유래 성분을 더해",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "살균/소독",
+        "SentimentText": "살균력도 좋은데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028556",
+    "RawText": "요즘 날씨가 더우면서도 습해서 꿉꿉한 느낌이 들때가 많네요. 이런 계절에는 고온다습해서 음식도 변질되기 쉽고, 또 싱크대 물때나 식기, 수저 등에 남아있는 잔여 음식물이나 냄새에다가 세균등이 번식하기에 좋은 환경이다보니 주방청소에 신경쓰게 되네요. 그래서 여름에 쓰기 좋은 주방세제 추천해 드리려고 해요.  바로 OOO인데요 !!! 강력한 세정력으로 기름기를 샤사삭 없애주는 것은 물론 항균효과가 탁월한 과일 식초를 담은 제품인데요. 전 주로 산뜻한 자몽향을 쓰는 편이에요. 개인적으로 전 냄새에 민감한데 식기의 비린내까지 잡아주면서 위생적으로 세정해주니 설거지는 물론 요즘같은 여름 주방청소 활용에도 든든하답니다.  주방청소와 위생관리가 신경쓰이는 여름철 강력한 세정력과 과일식초를 담아 항균효과가 탁월한 OOO와 함꼐 하시는 것은 어떨까요?",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 맑** 주방세제",
+    "Syllable": "416",
+    "Word": "92",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여름에 쓰기 좋은 주방세제 추천해 드리려고 해요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "강력한 세정력으로 기름기를 샤사삭 없애주는 것은 물론",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "항균효과가 탁월한 과일 식초를 담은 제품인데요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "전 주로 산뜻한 자몽향을 쓰는 편이에요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "개인적으로 전 냄새에 민감한데 식기의 비린내까지 잡아주면서 위생적으로 세정해주니 ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "설거지는 물론 요즘같은 여름 주방청소 활용에도 든든하답니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "강력한 세정력과",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "살균/소독",
+        "SentimentText": "항균효과가 탁월한 OOO와 함꼐 하시는 것은 어떨까요?",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028559",
+    "RawText": "식기는 물론 과일도 세척하고 주방청소까지 올인원으로 해결되는 제품은 없을까 찾아보다 알게된 OOO 주방세제! 많이들 사용하는 제품이더라구요. 무려 1951년부터 지금까지 유럽인들의 사랑을 받아온 독일 프리미엄 1종 세제라고 해요.   역사가 오랜된 데에는 이유가 있다고 생각하는지라 한번 써보기로 했어요. 저는 그 중에서도 OOO을 선택해봤는데요.  화학물질을 최소화한 믿을 수 있는 성분으로 만들어졌을 뿐만 아니라 피부 저자극 테스트도 완료한 순한성분의 1종 주방세제 이기에 제가 원하는 맨손설거지가 가능하다는 점이 결정적인 선택의 요인이었죠! 여기에 과일식초를 함유해 항균효과까지 있으니까 비린내 제거는 물론 세균까지 없애준다고 하니, OOO 주방 세제는 가스레인지 또는 인덕션 등 청소하거나 행주 삶을때 사용해도 좋을 것 같아요.^^  무덥고 습한 여름 발생하기 쉬운 유해세균을 제거해 주는 OOO 덕분에 우리집 주방 위생 걱정은 끝!!! 주방 세제 고민이시라면 꼭 선택해 보세요 !!",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 시**  주방세제",
+    "Syllable": "498",
+    "Word": "113",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분",
+        "SentimentText": "화학물질을 최소화한 믿을 수 있는 성분으로 만들어졌을 뿐만 아니라",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "피부 저자극 테스트도 완료한 순한성분의 1종 주방세제 이기에",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "피부(손)보호",
+        "SentimentText": "제가 원하는 맨손설거지가 가능하다는 점이 결정적인 선택의 요인이었죠!",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "여기에 과일식초를 함유해",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "살균/소독",
+        "SentimentText": "항균효과까지 있으니까",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "비린내 제거는 물론",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "살균/소독",
+        "SentimentText": "세균까지 없애준다고 하니",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "OOO 주방 세제는 가스레인지 또는 인덕션 등 청소하거나 행주 삶을때 사용해도 좋을 것 같아요.^^",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "살균/소독",
+        "SentimentText": "유해세균을 제거해 주는 OOO 덕분에 우리집 주방 위생 걱정은 끝!!!",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028561",
+    "RawText": "요즘 날씨가 더워져서 맛있는 음식을 먹은 후 설거지는 금방 끝내는 편인데요. 예전부터 사용하고 있었지만 지금도 쭉 애정하며 사용하는 OOO 주방세제를 소개해볼까해요.  용기도 예쁘고 주방에 놓아두면 보기에도 좋은건 기본이고 OOO의 강력한 세정력과 탁월한 기름때와 찌든때 제거 기능으로 확실하게 마무리 할 수 있어 기분까지 상쾌해진 느낌이라 앞으로 쭉 사용하려고 해요. 야채나 과일, 젖병도 세척할 수 있는 식물 유래 성분의 1종 주방세제라 안심 !!! 색소나 인산염 보존제, 메틸파라벤 무첨가로 화학물질을 최소화한 성분이라고 하니 어린아이들이 있는 집이라면 특히 눈 여겨 볼 부분인 것 같아요. 또 상큼한 시트러스향의 레몬향이 설거지하는 내내 기분까지 산뜻하게 하네요.  오늘도 OOO 베이킹소다로 주방 위생관리 말끔하게 끝냈어요. 강력세정 원한다면 OOO하세요~~^^",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 프** 주방세제",
+    "Syllable": "431",
+    "Word": "99",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기도 예쁘고 주방에 놓아두면 보기에도 좋은건 기본이고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "OOO의 강력한 세정력과 탁월한 기름때와 찌든때 제거 기능으로 확실하게 마무리 할 수 있어",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "야채나 과일, 젖병도 세척할 수 있는 식물 유래 성분의 1종 주방세제라 안심 !!! ",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "색소나 인산염 보존제, 메틸파라벤 무첨가로 화학물질을 최소화한 성분이라고 하니",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "상큼한 시트러스향의 레몬향이 설거지하는 내내 기분까지 산뜻하게 하네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "살균/소독",
+        "SentimentText": "오늘도 OOO 베이킹소다로 주방 위생관리 말끔하게 끝냈어요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "강력세정 원한다면 OOO하세요~~^^",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028564",
+    "RawText": "요즘 날이 더워지다보니 주방 위생에 대해 더욱 신경을 많이 쓰게 되는데요. 그래서 하나를 고를때도 꼼꼼하게 따져보고 강력세정 가능한 OOO 주방세제를 골랐답니다.  저는 애들이 어리다보니 무조건 강력세정만 되는게 아니라 화학성분이 들어있는지도 체크를 해야겠더라구요. 제가 사용하고 있는 OOO은 60년동안 연구한 독일 OO만의 최적화된 포뮬러로 개운한 세정력과 산뜻한 헹굼력을 경험할 수 있답니다. 또한 기름분해 효과가 뛰어난 베이킹소다를 담아서 강력세정이 가능해요. 상큼한 시트러스 향의 레몬향으로 분위기까지 상쾌하게 해주는 퓨어레몬의 향이 제 기분까지 상큼하게 만들어 주는거 같았어요. ㅎㅎㅎ  우리집은 언제나 OOO와 함께 할 거 같아요. 여러분들도 저처럼 기분좋은 설거지 하시길 바랄께요. ^^",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 프** 주방세제",
+    "Syllable": "392",
+    "Word": "87",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "강력세정 가능한 OOO 주방세제를 골랐답니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "개운한 세정력과",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "기름분해 효과가 뛰어난 베이킹소다를 담아서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "강력세정이 가능해요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "상큼한 시트러스 향의 레몬향으로",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "분위기까지 상쾌하게 해주는 퓨어레몬의 향이 제 기분까지 상큼하게 만들어 주는거 같았어요. ㅎㅎㅎ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "산뜻한 헹굼력을 경험할 수 있답니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028576",
+    "RawText": "안녕하세요. 기존 식기세척기 세제의 불편함을 없앤 올인원 세제를 소개해요. 소분과 계량 필요없이 단 한알로 세척이 완성되는 OOO 스팀워시 식기세척기용 2X 캡슐세제에요.  OOO 스팀워시 식기세척기 세제는 액상과 효소분말의 강력한 이중효과를 볼 수 있는데요. 세제와 린스 모두 들어있는 올인원 식세기 세제랍니다. 무엇보다 우리 입으로 들어가는 식기를 닦는 것이라 안심하고 쓸 수 있는거 쓰고싶은 마음이 있는데 전인산염 포함 7가지 성분 무첨가 분석완료로 안심되더라구요.ㅎㅎ 물에 닿자마자 잘 녹는 수용성필름의 농축 액상 캡슐의 식세기 세제로 급속모드에서도 쓰기 간편한 캡슐형 식세기세제라죠.  잔여세제에 대한 걱정은 하지 않아도 되요.  이제 식세기 세제 유목민에서 벗어나 OOO 스팀워시 캡슐형 식기세척기세제 하나로 매일매일 깨끗한 설거지 완성할 수 있겠어요~~!! 기존 세제보다 업그레이드 된 OOO 2X 캡슐 식기세척기세제 꼭 사용해보세요.",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 스** 식기세척기용 캡슐세제 ",
+    "Syllable": "474",
+    "Word": "107",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "소분과 계량 필요없이 단 한알로 세척이 완성되는 OOO 스팀워시 식기세척기용 2X 캡슐세제에요.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "OOO 스팀워시 식기세척기 세제는 액상과 효소분말의 강력한 이중효과를 볼 수 있는데요. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "세제와 린스 모두 들어있는 올인원 식세기 세제랍니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "전인산염 포함 7가지 성분 무첨가 분석완료로 안심되더라구요.ㅎㅎ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": " 물에 닿자마자 잘 녹는 수용성필름의 농축 액상 캡슐의 식세기 세제로",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "급속모드에서도 쓰기 간편한 캡슐형 식세기세제라죠. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "잔여세제에 대한 걱정은 하지 않아도 되요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " OOO 스팀워시 캡슐형 식기세척기세제 하나로 매일매일 깨끗한 설거지 완성할 수 있겠어요~~!!",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "기존 식기세척기 세제의 불편함을 없앤 올인원 세제를 소개해요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028578",
+    "RawText": "요즘 식기세척기 세제로 정착한 것은 OOO 스팀워시 캡슐세제인데요. 액상과 효소가 만나 강력한 이중효과를 내는 제품이라고 해요.   식기세척기 세제로 캡슐세제는 처음이었는데요, 처음 사용하고 나서 그릇이 씻긴 모습을 보니 세척력이 좋아보여서 요 제품으로만 손이 가며 익숙하게 사용하게 되었어요. ^^ 세제와 린스 모두 들어있는 올인원 식세기 세제라 더 좋았답니다. ㅎㅎ 6배 강력한 세척력과 물얼룩제거력이 뛰어나고요 잔여세제 걱정없는 식세기세제랍니다. 고기 기름 한가득 있는 그릴판도 식기세척기에 넣고 OOO 식세기세제만 넣어주면 린스 따로 넣지 않아도 깨끗하게 닦이더라구요. ㅎㅎ  식물유래 세정 성분함유 되있다고 하니 우리 아기 젖병까지도 안심 세척할 수 있어요. 식기세척기 세제 아직도 고민이신분들 강력 추천합니다 ~~^^",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 스** 식기세척기용 캡슐세제 ",
+    "Syllable": "407",
+    "Word": "91",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "처음 사용하고 나서 그릇이 씻긴 모습을 보니 세척력이 좋아보여서",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "요 제품으로만 손이 가며 익숙하게 사용하게 되었어요. ^^",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "세제와 린스 모두 들어있는 올인원 식세기 세제라 더 좋았답니다. ㅎㅎ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "6배 강력한 세척력과 물얼룩제거력이 뛰어나고요 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "잔여세제 걱정없는 식세기세제랍니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "고기 기름 한가득 있는 그릴판도 식기세척기에 넣고 OOO 식세기세제만 넣어주면 린스 따로 넣지 않아도 깨끗하게 닦이더라구요. ㅎㅎ",
+        "SentimentWord": "17",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "식물유래 세정 성분함유 되있다고 하니",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "우리 아기 젖병까지도 안심 세척할 수 있어요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "액상과 효소가 만나 강력한 이중효과를 내는 제품이라고 해요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028580",
+    "RawText": "식기세척기를 쓰다보면 세제에 관심을 가지게 되는데요. 그러던 중 미국의 국민 식기세척기 세제인 OOO 플래티넘을 구매해 봤어요.  세제와 린스가 하나의 캡슐 형태로 되어 있는데 식기세척기 쓸 때마다 하나씩 넣어서 쓰면 되서 편해요. 92개니까 꽤 넉넉하게 쓸 수 있습니다. 비닐에 뭔가 덮혀 있는듯한데 이 비닐은 물에 녹습니다. 즉 따로 벗기거나 하는게 아니라 이 상태로 그대로 쓰면 되서 좋아요. 위에 3개의 색상의 액체가 들었는데 이건 린스입니다. 세척하고 난 뒤 윤활작용을 하고 그릇에 윤기가 나도록 해주죠. 그릇 세척력도 너무 좋습니다. 스테인레스 냄비도 반짝반짝해집니다.  무엇보다 식기세척기 내부에도 세제찌꺼기가 남지 않아 식세기 내부 보호가 가능한만큼 식기세척기를 사용하는 분이라면 북미에서 큰 사랑을 받고 있는 OOO 플래티넘 세제를 추천드리고 싶습니다.",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 플**  식기세척기용 세제  ",
+    "Syllable": "430",
+    "Word": "102",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "세제와 린스가 하나의 캡슐 형태로 되어 있는데",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "식기세척기 쓸 때마다 하나씩 넣어서 쓰면 되서 편해요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "92개니까 꽤 넉넉하게 쓸 수 있습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "비닐에 뭔가 덮혀 있는듯한데 이 비닐은 물에 녹습니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "따로 벗기거나 하는게 아니라 이 상태로 그대로 쓰면 되서 좋아요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "세척하고 난 뒤 윤활작용을 하고 그릇에 윤기가 나도록 해주죠.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "그릇 세척력도 너무 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "스테인레스 냄비도 반짝반짝해집니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "무엇보다 식기세척기 내부에도 세제찌꺼기가 남지 않아 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028584",
+    "RawText": "안녕하세요. 식기세척기 사용한지도 1년이 넘었는데요. 그동안 여러가지 많은 식기세척기 세제를 경험해 보았거든요. 그 중 정착하게 된 OOO!! 린스 없이도 물자국이 남지 않으면서 깨끗하게 세척도 잘 되고 무엇보다 물비린내가 나지 않아요.  간단한 타블렛 형재의 제품이구요. 30알이 들어있어서, 하루에 하나씩 사용해도 한달동안 쓸 수 있으니 가격면에서도 좋은 거 같아요 ^^ 그리고 수용성 필름이라 따로 제거안해도 되고 정말 편리하게 사용할 수 있는게 좋아요 !! 세제를 사용하거나 식초를 사용할때는 넣고 나서도 식기세척기랑 손에 묻어서 불편했는데, 세제통에 하나씩 쏙~~!! 넣으면 되니 정말 편하네요 ^^  믿고 쓰는 OOO 식기세척기 세제, 식세기 이모님과 함께 깨끗하게 우리집 설거지 책임져주는 청소 요정이랍니다~~~~^^",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 그** 올인원 식기세척기 세제 ",
+    "Syllable": "408",
+    "Word": "93",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "린스 없이도 물자국이 남지 않으면서 깨끗하게 세척도 잘 되고",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "무엇보다 물비린내가 나지 않아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "간단한 타블렛 형재의 제품이구요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": " 30알이 들어있어서, 하루에 하나씩 사용해도 한달동안 쓸 수 있으니",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격면에서도 좋은 거 같아요 ^^",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "수용성 필름이라 따로 제거안해도 되고 정말 편리하게 사용할 수 있는게 좋아요 !! ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "세제통에 하나씩 쏙~~!! 넣으면 되니 정말 편하네요 ^^",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028597",
+    "RawText": "오늘은 식기세척기를 사용하면서 좋았던 제품을 추천해드리고 싶어서 이렇게 여러분을 찾아왔답니다. ㅎㅎㅎ 바로 독일 친환경 식세기 세제 OOO랍니다.  사람들이 식기세척기 세제는 OOO라며 왜 이렇게 많이 찾는걸까? 했더니 역시 첫번째는 독일의 기술력으로 1등 올인원 타블렛이라는 점이었어요. 추가 린스도 필요없고 물에 녹는 수용성 비닐로 뜯지 않고 그대로 쏙 넣어서 사용할 수 있다는 점도 간편해서 좋아 보였어요. 또 자연 유래원료를 사용한 친환경 세제로 아이들 식기 세척에도 마음 놓고 사용할 수 있어요.  몇가지 식기세척기 세제를 사용해봤지만 정말 깔끔하게 잘 닦여서 추천하고 싶어요~~!! 한번 써보면 왜 OOO인지 알 정도로 이것만 쓰게 되더라고요~ 식기세척기 세제 고민인 분들은 꼭 한번 사용해보세요 ^^",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 그** 식기세척기용 세제 타블렛",
+    "Syllable": "398",
+    "Word": "94",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "추가 린스도 필요없고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "물에 녹는 수용성 비닐로 뜯지 않고 그대로 쏙 넣어서 사용할 수 있다는 점도 간편해서 좋아 보였어요. ",
+        "SentimentWord": "16",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "자연 유래원료를 사용한 친환경 세제로 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "아이들 식기 세척에도 마음 놓고 사용할 수 있어요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "정말 깔끔하게 잘 닦여서 추천하고 싶어요~~!!",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "1등 올인원 타블렛이라는 점이었어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028602",
+    "RawText": "그동안 여러 식기세척기 세제를 사용해보았지만 한번도 사용해보지 못했던 세제가 있었으니..!! 바로 OOO 식기세척기 세제 ㅎㅎ  맘카페에서도 식기세척기 세제 추천해달라는 글들 보면 댓글에 가장 많이 나오는 세제 중 하나가 바로 OOO 식기세척기이다. 얼마나 좋길래 다들 추천하는지 궁금했는데 드디어 써보게 되었다.  OOO 식기세척기 세제는 베이킹소다와 그린레몬 두 가지가 있는데 내가 사용한건 베이킹소다이다. 그린레몬과 달리 무향의 세제!  생선이나 기름기가 많은 식기류를 씻을 때는 그린레몬을 사용하는게 좋다고 한다. 린스를 넣지 않아도 물 얼룩 없이 반짝반짝! 세정력이 여태까지 사용한 세제 중에서 가장 좋았다. 국산 수입 모두 사용해봤지만 유리컵이 반짝일 정도로 세척과 건조가 잘 되는 것은 OOO가 으뜸이다 !! ​ 우리 가족이 먹는 식기들을 씻어주는 세정제 ! 안전성은 이미 인증됐고 내가 사용하면서 간편하고 세정력이 좋은 친환경 세제라서 우리집 살림템으로 추가해야겠다.ㅎㅎㅎ  ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 식기세척기 세제 ",
+    "Syllable": "498",
+    "Word": "114",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "린스를 넣지 않아도 물 얼룩 없이 반짝반짝! ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력이 여태까지 사용한 세제 중에서 가장 좋았다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "유리컵이 반짝일 정도로 세척과 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "내가 사용하면서 간편하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력이 좋은 친환경 세제라서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "우리집 살림템으로 추가해야겠다.ㅎㅎㅎ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "건조가 잘 되는 것은 OOO가 으뜸이다 !!",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028605",
+    "RawText": "안녕하세요. 식기세척기를 몇달간 사용하면서 제일 중요한건 바로 어떤 주방세제를 쓰느냐인데요. 여러가지를 써 보았지만 사용하기에도 편하고, 세척도 잘되고, 물 얼룩도 남기지 않게 해주는 걸 찾아 공유하려고 해요~~!! OOO 식기세척기 세제는 이전부터 미국과 캐나다에서 인기 많은 제품으로 유명했어요. 조금만 사용해도 우수한 세척력이 무척 좋은  OOO 식기세척기 세제랍니다.  게다가 자연유래 성분으로 안심하고 사용할 수 있다는게 큰 메리트 인거 같아요. 또 가루타입이라 양조절도 쉽고 따로 용량에 맞게 잘라서 사용할 필요 없어서 아주 간편해서 좋아요. 기존 사용했던 세제들은 물얼룩이 심하게 남아서 세척기 사용후에도 한번 더 물로 씻어서 그릇을 보관했는데 이 제품은 얼룩이 남지 않아 OOO는 안심하고 사용할 수 있답니다.  알뜰하고 안전한 식기세척기 세제를 찾으신다면 OOO를 강력추천합니다!! ㅎㅎ 꼭 한번 사용해보세요~~^^",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 식기세척기 세제 ",
+    "Syllable": "465",
+    "Word": "105",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용하기에도 편하고,",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세척도 잘되고, ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "물 얼룩도 남기지 않게 해주는 걸 찾아 공유하려고 해요~~!!",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "조금만 사용해도 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "우수한 세척력이 무척 좋은  OOO 식기세척기 세제랍니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "자연유래 성분으로 안심하고 사용할 수 있다는게 큰 메리트 인거 같아요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "가루 타입이라 양조절도 쉽고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "따로 용량에 맞게 잘라서 사용할 필요 없어서 아주 간편해서 좋아요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 이 제품은 얼룩이 남지 않아 OOO는 안심하고 사용할 수 있답니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028614",
+    "RawText": "환절기 다시 시작된 미세먼지로 공기도 안좋고 외출하고 돌아오면 무엇보다 세탁기에 바로바로 ㅎㅎㅎ 그래서 빨래가 엄청 쌓이는데요. 요즘은 미세먼지 세탁 세척에 좋은 미세거품 액체세제를 찾게 되더라구요.   OOO 버블워시는 이름에서 느껴지는 것처럼 미세거품으로 섬유 속에 있는 먼지들 속속 깔끔하게 세탁이 되는데요. 직접 빨래해보시면 다른게 느껴지는 것 같아요. OOO 액체세제가 좋은 이유 한가지 더, 파라벤이나 형광증백제가 없어서 더욱 믿고 쓸수 있는것 같아요. 본품을 다 쓰고 나면 용기를 재활용해 리필제품을 구매해서 재사용하면 경제적으로 사용할 수 있어요.   OOO 버블워시로 미세먼지와 생활오염물, 세균들까지 강력세정해서 가족들 위생과 건강을 야무지게 챙겨보자구요~~~!!!",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 진** 세탁세제",
+    "Syllable": "382",
+    "Word": "83",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "미세거품으로 섬유 속에 있는 먼지들 속속 깔끔하게 세탁이 되는데요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "직접 빨래해보시면 다른게 느껴지는 것 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": " 파라벤이나 형광증백제가 없어서 더욱 믿고 쓸수 있는것 같아요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028863",
+    "RawText": "안녕하세요 올 여름에는 유난히 비가 많이 오고 습해서인지 빨래를 해도 퀴퀴하고 꿉꿉한 느낌이 들었는데 퀴퀴함과 꿉꿉함을 날려 줄 OOO 섬유유연제를 소개합니다.  이름부터 달콤한 향이 느껴지는 베리베리와 바닐라는 조금 세다 싶을 수 있는 꽃 향일 수 있는데 오히려 저는 침구류에 사용했을때 느낌이 좋았고, 우리가 하루 중 가장 오랜 시간을 보내는 침구류에 사용했을 때 퍼지는 베리베리와 바닐라 향이 좋게 느껴졌어요. 빨래양 5kg 이상 기준일때 더 풍부한 향과 부드러움을 위해 뚜껑에 1컵 가득을 사용하라고 하지만 워낙 초고농축 섬유유연제라 저는 2/3컵 만으로도 충분히 풍성한 향을 느낄 수 있더라구요.  탈취효과와 한층 더 향이 오래가는 OOO 탈취파워 섬유유연제로 꿉꿉한 냄새 걱정없이 이 기분 좋은 향기를 느껴보시는 걸 추천드리고 싶네요 !",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 섬유유연제 베**",
+    "Syllable": "418",
+    "Word": "104",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "퀴퀴함과 꿉꿉함을 날려 줄 OOO 섬유유연제를 소개합니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "이름부터 달콤한 향이 느껴지는 베리베리와 바닐라는 조금 세다 싶을 수 있는 꽃 향일 수 있는데 오히려 저는 침구류에 사용했을때 느낌이 좋았고,",
+        "SentimentWord": "21",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "침구류에 사용했을 때 퍼지는 베리베리와 바닐라 향이 좋게 느껴졌어요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "초고농축 섬유유연제라 저는 2/3컵 만으로도 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "충분히 풍성한 향을 느낄 수 있더라구요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "탈취효과와",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "한층 더 향이 오래가는 OOO 탈취파워 섬유유연제로",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "꿉꿉한 냄새 걱정없이",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 이 기분 좋은 향기를 느껴보시는 걸 추천드리고 싶네요 !",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028873",
+    "RawText": "안녕하세요. 요즘 너무 바빠서 화장실 청소를 미루고 미뤘더니 어느새 물때에 곰팡이까지... 더이상은 미룰 수 없어서 바로 OOO 곰팡이제거제를 주문했답니다.  OOO 곰팡이제거제는 곰팡이랑 세균을 99.9% 제거한다고 해요.. 사실 퀴퀴한 집안냄새의 주범이 바로 곰팡이균이란건 아시죠? 곰팡이는 번식력도 좋고 실내에 포자가 많이 떠돌아다니기 때문에 빠르게 제거해야 해요. 세정과 살균이 동시에 가능하다는 OOO !! 그래서 화장실 곰팡이제거를 확실하게 할 수 있겠더라고요.  곰팡이 제거에 제일 효과적인건 OO이기 때문에 화장실 청소는 OO 성분이 들어간 제품이 최고랍니다.   세면대 아랫부분까지 골고루 뿌려봤는데 세정 \u0026 살균이 동시에 가능해서 화장실이 반짝거리더라구요. 청소 두번 세번 하는거 너무 귀찮고 싫으신 분들 OOO 곰팡이제거제로 한번에 클리어하세요^^",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 곰팡이제거제",
+    "Syllable": "429",
+    "Word": "93",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정과 살균이 동시에 가능하다는 OOO !! ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "살균/소독",
+        "SentimentText": "살균이 동시에 가능하다는 OOO !! ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 화장실 곰팡이제거를 확실하게 할 수 있겠더라고요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세면대 아랫부분까지 골고루 뿌려봤는데 세정 \u0026 살균이 동시에 가능해서 화장실이 반짝거리더라구요. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "살균/소독",
+        "SentimentText": "살균이 동시에 가능해서 화장실이 반짝거리더라구요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "청소 두번 세번 하는거 너무 귀찮고 싫으신 분들 OOO 곰팡이제거제로 한번에 클리어하세요^^",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028876",
+    "RawText": "욕실문을 자주 열어두고 환기를 시켜서 건조하는 편이라 곰팡이가 잘 생기지는 않는데 열어둔 문 뒤쪽에 한 줄 올라오기 시작하더라구요. 솔로 문질러봐도 잘 지워지지가 않았어요. 지인의 추천으로 OOO 곰팡이제거제를 사용해 보기로 했답니다.  우선 아무래도 욕실에 두고 사용하다 보니 아이가 만질까봐 걱정이 되는데 칙 뿌리기 전에 캡 아래쪽을 위로 누른 후 직각으로 돌려야 분사가 가능한 어린이 보호포장으로 안전하게 쓸 수 있다는 점이 안심이 되었어요.  OOO 곰팡이제거제를 몇번 뿌려주고, 1~2시간뒤 청소솔로 슥슥 닦아주기만 했는데 크게 힘들이지 않고 곰팡이가 싹 사라지는데 정말 신기했답니다.   방심하면 생기는 욕실 곰팡이 제거. 고민하지 말고 OOO로 해결해보세요. 확실한 세정효과는 물론 살균 소독까지 책임지는 우리집 청소 용품이랍니다.",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 욕실청소용 세정제",
+    "Syllable": "416",
+    "Word": "96",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용기",
+        "SentimentText": "어린이 보호포장으로 안전하게 쓸 수 있다는 점이 안심이 되었어요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "크게 힘들이지 않고 곰팡이가 싹 사라지는데 정말 신기했답니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "방심하면 생기는 욕실 곰팡이 제거. 고민하지 말고 OOO로 해결해보세요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "확실한 세정효과는 물론",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "살균/소독",
+        "SentimentText": "살균 소독까지 책임지는 우리집 청소 용품이랍니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028879",
+    "RawText": "오늘은 욕실 곰팡이제거를 완벽하게 제거할 수 있는 OOO 곰팡이제거제를 소개해볼까해요. 저희집 욕실이 습해서 그런건지 반복되는 곰팡이로 스트레스가 많이 쌓여서 이것저것 알아보다가 OOO 곰팡이제거제가 효과가 좋다고 해서 바로 구매를 하게 되었어요.   욕실에 뿌리고 나서 바로 눈에 띄게 깨끗해졌고 일주일 지난 지금까지도 청결한 상태를 유지중이에요. 물때, 곰팡이로 얼룩졌던 세면대가 너무 깨끗해졌네요. 이렇게 쉽게 제거할수 있다니...ㅎㅎㅎ OOO 곰팡이제거제는 사용하기 간편한 스프레이 타입이라, 관리하기에도 간편해요. 특히 거품이 매우 쫀쫀하고 풍성해서 소량만 사용해도 충분하더라고요. 안전을 위해 노즐도 막아 놓을 수 있어서, 아이가 있는 집에서도 안심하고 사용할 수 있습니다.  욕실 곰팡이때문에 스트레스 많으신 분들 OOO 곰팡이제거제 사용해보세요. 청소의 부담감에서 벗어날 수 있으실꺼에요~~^^",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 곰팡이제거제",
+    "Syllable": "452",
+    "Word": "96",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "욕실 곰팡이제거를 완벽하게 제거할 수 있는 OOO 곰팡이제거제를 소개해볼까해요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "욕실에 뿌리고 나서 바로 눈에 띄게 깨끗해졌고 일주일 지난 지금까지도 청결한 상태를 유지중이에요",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "물때, 곰팡이로 얼룩졌던 세면대가 너무 깨끗해졌네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "이렇게 쉽게 제거할수 있다니...ㅎㅎㅎ ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "OOO 곰팡이제거제는 사용하기 간편한 스프레이 타입이라,",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "관리하기에도 간편해요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "거품이 매우 쫀쫀하고 풍성해서 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "소량만 사용해도 충분하더라고요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "안전을 위해 노즐도 막아 놓을 수 있어서, 아이가 있는 집에서도 안심하고 사용할 수 있습니다.",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "욕실 곰팡이때문에 스트레스 많으신 분들 OOO 곰팡이제거제 사용해보세요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028882",
+    "RawText": "여름옷 정리를 하다보니 얼룩이 생긴 옷들이 꽤 있더라구요. 여름옷은 땀얼룩과 찌든때들이 알게 모르게 많이 생겨서 전체적으로 옷 찌든때 제거가 필요하겠다 생각하던 찰나에 OOO을 사용하게 됐답니다.  OOO은 강력한 얼룩제거와 효과는 물론 색깔옷은 더욱 선명하게 만들어 준다고 하는데요. 세탁세제로도 지우기 힘든 옷 찌든때 제거를 위해 표백제 하나쯤은 준비해줘야겠더라구요. 또한 무형광, 무향료 제품이면서 피부 자극 테스트를 완료했고, 인체에 유해한 유해세균99.9% 살균효과로 빨래를 깔끔하게 마무리 해주니 안심하고 사용할 수 있어요.  그리고 요즘 실내 건조하면서 나던 빨래의 꿉꿉한 냄새도 나지 않아서 좋았답니다. 여러분들도 옷 찌든때 제거에 OOO 사용해보세요 ~^^   ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 멀** 표백제",
+    "Syllable": "379",
+    "Word": "84",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분",
+        "SentimentText": "무형광, 무향료 제품이면서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "피부(손)보호",
+        "SentimentText": "피부 자극 테스트를 완료했고,",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "살균/소독",
+        "SentimentText": "인체에 유해한 유해세균99.9% 살균효과로 빨래를 깔끔하게 마무리 해주니 안심하고 사용할 수 있어요.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "요즘 실내 건조하면서 나던 빨래의 꿉꿉한 냄새도 나지 않아서 좋았답니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "옷 찌든때 제거에 OOO 사용해보세요 ~^^",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028891",
+    "RawText": "두꺼운 겨울 외투는 맘처럼 자주 세탁을 할 수가 없는데요. 그러다보니 이만저만 신경 쓰이는게 아니에요. 물론 회식을 한 날에는 제 외투도 예외일 수 없죠. 그래서 섬유 탈취제를 사용해왔는데요. 새로 구입할 시기가 되어서 검색을 하던 중에 OOO 섬유향수라는 매우 신박한 섬유 탈취제를 알게 되었답니다.  용도는 섬유 탈취인데 섬유향수라고 해서 거의 향수를 대신해서 사용하고 있어요. 이 제품은 여러 향수의 향을 재현하였는데 그만큼 종류도 무척 다양해요. OO, OOOO, OOOOO 등.. 제가 고른 향은 OO 에끌라와 비슷한 것 같아요.  다만 완전한 향수의 향은 아닌데요. 그래도 500ML 대용량에 가성비가 좋은만큼 탈취제로 손색이 없는거 같아요.  냄새를 덮는게 아닌 불쾌한 냄새를 탈취 \u0026 항균해주고 식약처 인증공인 시험 연구원에서 테스트도 완료했다고 하니 섬유향수가 필요하신 분들은 꼭 한번 사용해보시길 추천합니다.",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 섬유향수 ",
+    "Syllable": "462",
+    "Word": "110",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "용도는 섬유 탈취인데 섬유향수라고 해서 거의 향수를 대신해서 사용하고 있어요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "500ML 대용량에 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비가 좋은만큼",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "탈취제로 손색이 없는거 같아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "냄새를 덮는게 아닌 불쾌한 냄새를 탈취",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "살균/소독",
+        "SentimentText": "항균해주고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "완전한 향수의 향은 아닌데요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "1028892",
+    "RawText": "세탁할때 옷감을 부드럽게 하기 위해 사용하는 섬유유연제. 저는 섬유유연제를 선택할 때 향이 오래가는 섬유유연제를 선호하는 편인데 개인적으로 OO와 OOO이 참 괜찮은거 같아요. OOO퓨어 와일드로즈는 상쾌하면서 매혹적인 느낌의 향이라 제일 마음에 들었어요.  OOO은 독일에서 온 고농축 섬유유연제로 향기가 100일까지 지속된다고 하고 타제품 대비 향이 오래가는 것 같아 꾸준히 사용중이에요. 또한 OOO 섬유유연제는 향기 캡슐이나 석유계 계면활성제, 색소가 들어가지 않은 제품이라 안심하고 사용할 수 있었어요.  고농축 OOO은 플라스틱 용기도 얇고 라벨을 분리수거가 가능하게 제작되어 있어서 환경을 생각했다는 점도 마음에 들었어요. 다 사용하고 난 후에 물에 몇번 헹궈주고 라벨을 분리해서 분리수거 해놓으면 기분도 참 좋더라구요.^^  살짝 연하게 느껴지는 농도지만 헹굼이 깨끗하게 되는거 같아서 저는 오히려 더 마음에 들었던 섬유유연제 고농축 OOO.. 여러분들도 꼭 한번 사용해보면 좋겠네요.!!",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 버** 고농축 섬유유연제 0.9L ",
+    "Syllable": "505",
+    "Word": "113",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "OOO퓨어 와일드로즈는 상쾌하면서 매혹적인 느낌의 향이라 제일 마음에 들었어요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "향기가 100일까지 지속된다고 하고 타제품 대비 향이 오래가는 것 같아",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "OOO 섬유유연제는 향기 캡슐이나 석유계 계면활성제, 색소가 들어가지 않은 제품이라 안심하고 사용할 수 있었어요. ",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "고농축 OOO은 플라스틱 용기도 얇고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "살짝 연하게 느껴지는 농도지만 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "헹굼이 깨끗하게 되는거 같아서 저는 오히려 더 마음에 들었던 섬유유연제 고농축 OOO.. ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028895",
+    "RawText": "안녕하세요 ^^ 저는 주로 실내건조에 저녁에 세탁기 돌릴 일이 대부분이라 실내 건조용 세제와 섬유유연제를 주로 사용하는데요.  OOO에서 나온 고농축 섬유유연제 향도 은은하게 나는 100% 내추럴 허브 에센셜 오일을 담았습니다.산림욕하듯이 소나무잎 편백나무잎 유칼립투스잎이 들어가 향이 정말 상쾌하더라구요.  기존 자사의 섬유유연제 제품보다 3배 정도 고농축이라 조금만 넣어도 프랑스의 프로방스 꽃향기가 솔솔~~세탁할때 조금만 넣어도 향이 오래 남아 있네요.  또 저는 피부가 민감한 편이라 피부에 자극이 없는게 무엇보다 중요했는데, OOO 섬유유연제에는 피부와 환경을 생각해 파라벤 6종과 미세플라스틱이 무첨가 되어있어 온가족 옷을 함께 세탁하는데에 사용할 수 있을거 같아 마음에 들었어요. ^^  빨래 실내 건조를 주로 한다면, 곧 시작될 미세먼지로 실내 건조밖에 할 수 없다면 섬유유연제도 따져보고 고르세요. OOO 고농축 섬유유연제 애플민트향으로 프랑스 프로방스의 향기를 입혀 보세요.ㅎㅎ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 고농축 섬유유연제 실내건조 애**",
+    "Syllable": "501",
+    "Word": "111",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 은은하게 나는",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "100% 내추럴 허브 에센셜 오일을 담았습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "산림욕하듯이 소나무잎 편백나무잎 유칼립투스잎이 들어가 향이 정말 상쾌하더라구요.  ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "기존 자사의 섬유유연제 제품보다 3배 정도 고농축이라 조금만 넣어도 ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "프랑스의 프로방스 꽃향기가 솔솔~~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "세탁할때 조금만 넣어도 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "향이 오래 남아 있네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "파라벤 6종과 미세플라스틱이 무첨가 되어있어",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": " 온가족 옷을 함께 세탁하는데에 사용할 수 있을거 같아 마음에 들었어요. ^^",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "애플민트향으로 프랑스 프로방스의 향기를 입혀 보세요.ㅎㅎ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028898",
+    "RawText": "요즘같은 장마철엔 꿉꿉한 빨래냄새때문에 향기좋은 섬유유연제를 찾게 되는데요. 마침 사용중이던 제품이 딱 떨어져 새로운 걸 시도해볼까 싶던 찰나에  OOO 섬유유연제를 사용해보게 되었어요.  실내건조시에도 기분 좋게 느껴지는 프랑스 프로방스의 향기를 느낄수 있는 OOO 실내건조 고농축 섬유유연제 입니다. 밝고 싱그러운 느낌의 선플라워 향으로 용량은 1L예요. 꿉꿉한 냄새 방지 효과 만족도 94.5%를 받은 유연제로 사탕수수유래 탈취성분 함유하고 있어 실내에서도 냄새 걱정 없이 빨래 건조 가능하다고해요. 피부 자극 테스트 완료하였고 OOO 섬유유연제는 원래부터 미세플라스틱이 없는 섬유유연제로 유명했는데요.  피부와 환경을 위해 걱정성분 파라벤 6종과 미세플라스틱 무첨가로 피부에 직접 닿는 의류나 속옷에도 사용할수 있도록 꼼꼼하고 깐깐하게 만들어진 섬유유연제인것 같아요.  섬유유연제는 향이 제일 중요하다고 생각하는데 OOO 섬유유연제는 누구나 좋아할 만한 향이라 집들이 선물로도 좋을거 같아요.",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 실내건조 고농축 섬유유연제 선** 1L",
+    "Syllable": "503",
+    "Word": "108",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "실내건조시에도 기분 좋게 느껴지는 프랑스 프로방스의 향기를 느낄수 있는",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "밝고 싱그러운 느낌의 선플라워 향으로",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "꿉꿉한 냄새 방지 효과 만족도 94.5%를 받은 유연제로",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "사탕수수유래 탈취성분 함유하고 있어 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "실내에서도 냄새 걱정 없이 빨래 건조 가능하다고해요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "피부(손)보호",
+        "SentimentText": "피부 자극 테스트 완료하였고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "원래부터 미세플라스틱이 없는 섬유유연제로 유명했는데요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "걱정성분 파라벤 6종과 미세플라스틱 무첨가로",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 피부에 직접 닿는 의류나 속옷에도 사용할수 있도록 꼼꼼하고 깐깐하게 만들어진",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "OOO 섬유유연제는 누구나 좋아할 만한 향이라",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028900",
+    "RawText": "향기좋은 섬유유연제로 빨래를 하고나면 은은한 향이 그렇게 기분 좋을 수 없더라고요. 향기가 더 풍성해지고 오래 지속되는 프로방스 향기가 매력적인 OOO 섬유유연제를 소개해볼까해요.  일반세탁기 드럼세탁기 섬유유연제 따로 구입할 필요없이 뒷면에 세탁량과 시탁기 기종에 따라 권장 사용량을 부어서 사용하면 되서 사용법도 간단하답니다. 요 향은 사랑스러운 느낌과 생기가 느껴지는 작약 부케향이에요. 생기있는 꽃향기라 제가 가장 좋아하는 향이랍니다. 온가족이 사용할 수 있도록 걱정 성분 8가지 무첨가 제품이며 피부자극 테스트를 완료해서 피부가 예민한 우리집 아이들도 이 섬유유연제를 같이 사용하고 있어요. 초고농축인 만큼 적게 사용해도 충분히 제 역할을 다 해주지만 저는 좀더 풍부한 향을 느끼고 싶어서 살짝 더 넣어주는 편이에요^^  인위적인 냄새가 아닌 자연스럽고 향긋한 섬유유연제를 찾으신다면 OOO를 추천드려요.",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 고농축 섬유유연제 피**",
+    "Syllable": "455",
+    "Word": "103",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기가 더 풍성해지고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "오래 지속되는 프로방스 향기가 매력적인 OOO 섬유유연제를 소개해볼까해요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "세탁량과 시탁기 기종에 따라 권장 사용량을 부어서 사용하면 되서 사용법도 간단하답니다",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "요 향은 사랑스러운 느낌과 생기가 느껴지는 작약 부케향이에요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "생기있는 꽃향기라 제가 가장 좋아하는 향이랍니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "걱정 성분 8가지 무첨가 제품이며",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "피부(손)보호",
+        "SentimentText": "피부자극 테스트를 완료해서 피부가 예민한 우리집 아이들도 이 섬유유연제를 같이 사용하고 있어요.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "초고농축인 만큼 적게 사용해도 충분히 제 역할을 다 해주지만",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "인위적인 냄새가 아닌 자연스럽고 향긋한 섬유유연제를 찾으신다면 OOO를 추천드려요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028901",
+    "RawText": "자주 빨지 못하는 두꺼운 가을 겨울 의류, 그리고 매일 빨아도 꿉꿉한 냄새가 나기 쉬운 양말, 수건 등을 세탁할때 잔향이 오래도록 지속될 수 있는 향의 향의 섬유유연제를 찾다가 OOO 탈취파워 섬유유연제를 만나보게 되었어요.  7일지속 탈취파워!! 초고농축 제품이라서 소량만 사용해도 되고, 한번의 세탁 만으로 일주일동안 은은한 향기가 지속된다고 하니 대박이란 생각이 들었어요. 이 제품은 풍부한 백합향이 인상깊었는데 자연스럽지만 깊고 은은한 백합향이 오래도록 남기 때문에 의류, 수건 등 어떤 제품에 사용해도 만족스러운 사용감이 드실거에요.  세탁물의 꿉꿉한 냄새 탈취하고 은은한 잔향 오래오래 남기고 싶다면 OOO 탈취파워 섬유유연제 추천해요. 언제나 향기로운 생활이 가능하게 하여 저희 가족은 만족하며 사용하고 있답니다 ^^",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 섬유유연제 화**",
+    "Syllable": "408",
+    "Word": "95",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "7일지속 탈취파워!!",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "초고농축 제품이라서 소량만 사용해도 되고, ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "한번의 세탁 만으로 일주일동안 은은한 향기가 지속된다고 하니 대박이란 생각이 들었어요. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "이 제품은 풍부한 백합향이 인상깊었는데",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "자연스럽지만 깊고 은은한 백합향이 오래도록 남기 때문에",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "의류, 수건 등 어떤 제품에 사용해도 만족스러운 사용감이 드실거에요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "세탁물의 꿉꿉한 냄새 탈취하고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "은은한 잔향 오래오래 남기고 싶다면 OOO 탈취파워 섬유유연제 추천해요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "언제나 향기로운 생활이 가능하게 하여",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028902",
+    "RawText": "세탁을 한 직후에는 향도 좋고 산뜻한 기분이 드는데 옷장에 넣어 두었다가 꺼내면 꿉꿉한 냄새가 올라오는 것 같아 속상한 마음에 지속력 좋은 섬유유연제를 찾아보게 되었답니다. OOO 초고농축 화이트티와 릴리 섬유유연제를 구매해서 사용해 봤는데요.  섬유유연제 하나 바꿨다고 집안에서 퍼지는 은은한 향기는 물론 건조된 후에도 부드러운 감촉이 무척 마음에 들었어요. 매일 세탁이 어려운 스웨터, 후드티, 침구 등의 섬유제품도 은은한 향기 지속을 느낄 수 있었거든요. 화이트티와 릴리향은 흔하지 않으면서도 풍성하고 매혹적인 향이 딱 제 취향이라 좋았어요.ㅎㅎㅎ  1주일 전에 넣어둔 옷에서도 향이 계속 남아있어서 너무 신기했답니다. 역시 7일동안 지속되는 탈취파워 섬유유연제는 다르구나했네요. 겨울옷 퀴퀴한 냄새는 Bye~~",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 고농축 섬유유연제 화**",
+    "Syllable": "401",
+    "Word": "91",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "섬유유연제 하나 바꿨다고 집안에서 퍼지는 은은한 향기는 물론 ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "건조된 후에도 부드러운 감촉이 무척 마음에 들었어요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "매일 세탁이 어려운 스웨터, 후드티, 침구 등의 섬유제품도 은은한 향기 지속을 느낄 수 있었거든요. ",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "화이트티와 릴리향은 흔하지 않으면서도 풍성하고 매혹적인 향이 딱 제 취향이라 좋았어요.ㅎㅎㅎ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": " 1주일 전에 넣어둔 옷에서도 향이 계속 남아있어서 너무 신기했답니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "역시 7일동안 지속되는 탈취파워 섬유유연제는 다르구나했네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "겨울옷 퀴퀴한 냄새는 Bye~~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028906",
+    "RawText": "고딩 아이를 키우다보니 섬유유연제 하나 고를때도 아이 취향을 고려하게 되더라구요. 향은 화이트티와 릴리, 레몬그라스와 라일락, 베리베리와 바닐라로 모두 다 매력적이지만 전 그중에서 레몬그라스와 라일락으로 사용해봤어요.  은은하게 지속되는 향이 오래가고, 매일 세탁하기 힘든 이불 등의 침구류나 아이가 즐겨입는 후드티 등에 사용해주면 옷장에 넣었다가 꺼낼때도 은은하게 풍기는 OOO향에 매일이 새 이불에 새옷같은 느낌이에요.  옷이나 수건에서 나는 꿉꿉한 냄새를 잡아주고, 은은한 세제향 남는거 좋아하신다면 OOO 초고농축 라일락향 추천드려요!! 독한 향 아니고 은은하게 옷에서 포근한 향이 나실 꺼에요~~^^ 써봐야 아십니다 ^^",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 초고농축 섬유유연제 레**",
+    "Syllable": "352",
+    "Word": "77",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "지속력",
+        "SentimentText": "은은하게 지속되는 향이 오래가고,",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "옷장에 넣었다가 꺼낼때도 은은하게 풍기는 OOO향에 매일이 새 이불에 새옷같은 느낌이에요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "옷이나 수건에서 나는 꿉꿉한 냄새를 잡아주고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "은은한 세제향 남는거 좋아하신다면 OOO 초고농축 라일락향 추천드려요!!",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "독한 향 아니고 은은하게 옷에서 포근한 향이 나실 꺼에요~~^^",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028908",
+    "RawText": "안녕하세요. 최애가전 식세기 이모님 덕분에 신세계를 경험하고 있는 중 제 마음에 쏙 드는 전용세제를 찾지 못해 고민이었는데 요즘 임자 만나 걱정 끝 !!!  바로 제가 만난 OOO 스팀워시 식기세척기용 세제 타블렛 덕분이랍니다.  국내 시중 판매되고 있는 식세기 세제 중에서 가장 높은 수준의 세척력을 가진 세제인데요, 우수한 세척력 인증을 받기 위해서 유럽에서 테스트를 완료한 제품이에요. 식기세척기 린스가 필요없는 올인원 제품이라 더 좋았어요. 한봉지에 55개가 들어 있어서 약 한달에서 한달 반 정도 사용가능한 대용량이에요.  요즘 많은 분들이 식기세척기를 이용하실 것 같아요. 저처럼 식기세척기 유목민이었던 분들에게 강력 추천하고 싶은 OOO 스팀워시 식기세척기 세제 타블렛 꼭 사용하세요 !",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 스** 식기세척기 전용 세제 타블렛 55입 ",
+    "Syllable": "391",
+    "Word": "94",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "국내 시중 판매되고 있는 식세기 세제 중에서 가장 높은 수준의 세척력을 가진 세제인데요, ",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "우수한 세척력 인증을 받기 위해서 유럽에서 테스트를 완료한 제품이에요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "식기세척기 린스가 필요없는 올인원 제품이라 더 좋았어요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "한봉지에 55개가 들어 있어서 약 한달에서 한달 반 정도 사용가능한 대용량이에요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028910",
+    "RawText": "6인용, 12인용 식기세척기 세제 여러분들은 어떤 타입의 식기세척기 세제를 사용하고 계신가요?!! OOO 스팀워시는 OOOO에서 만들어낸 OO브랜드 제품인데요.  평소 식기세척기 세제 타블렛형태를 구매하시는 분들은 6인용의 경우 반으로 잘라 사용하시는 분들 많으셨을거에요. 하지만 OOO 스팀워시 식기세척기 전용 타블렛세제는 한개 기준으로 6인용에 맞추어져 있어 쪼개쓰는 불편함을 한번에 해결했다고 볼 수 있답니다. 향 자체도 너무 강하지 않기에, 향에 민감하신 분들도 어렵지 않게 사용할 수 있을 것 같더라고요. 지퍼팩 포장으로 되어 있어서 사용 후에는 지퍼팩을 닫아 보관하면 눅눅해질 염려도 없으니 보관 방법도 Good!  여태 딱 마음에 드는 식기세척기 세제를 찾지 못해서 여러가지의 세제를 구매해서 사용했었는데요, 이제 OOO 스팀워시 식기세척기 타블렛 세제 덕분에 유목민 생활 이제 바이바이 할 수 있을 것 같아요 ^^    ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 스** 식기세척기 전용 세제 타블렛",
+    "Syllable": "467",
+    "Word": "107",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "OOO 스팀워시 식기세척기 전용 타블렛세제는 한개 기준으로 6인용에 맞추어져 있어",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "쪼개쓰는 불편함을 한번에 해결했다고 볼 수 있답니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향 자체도 너무 강하지 않기에, 향에 민감하신 분들도 어렵지 않게 사용할 수 있을 것 같더라고요. ",
+        "SentimentWord": "15",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용 후에는 지퍼팩을 닫아 보관하면 눅눅해질 염려도 없으니 보관 방법도 Good!",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028913",
+    "RawText": "안녕하세요. 오늘은 요즘 제가 애정하는 주방세제 OOO 핑크 그레이프 프루트를 소개해볼까해요.ㅎㅎ  OOO 주방세제는 OOO만의 그린 테크놀로지로 찌든때까지 말끔하게 제거해주는데요. 한번 펌핑으로도 풍성하게 거품이 나서 기름때까지 뽀드득하게 닦이고 헹굼도 빠르게 잘 되서 아주 만족스러웠어요. 핑크 그레이프프루트향은 상큼한 용기에서도 느껴지는 것처럼 설거지 하는 내내 산뜻하고 향긋한 향이 기분까지 좋게 만들어 주더라구요 ^^  과일, 야채, 젖병까지 세정 가능한 1종 주방세제라 안심하고 사용할 수 있는 세제랍니다.  ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 핑** 주방세제 ",
+    "Syllable": "291",
+    "Word": "62",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "OOO 주방세제는 OOO만의 그린 테크놀로지로 찌든때까지 말끔하게 제거해주는데요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 한번 펌핑으로도 풍성하게 거품이 나서 기름때까지 뽀드득하게 닦이고",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "헹굼도 빠르게 잘 되서 아주 만족스러웠어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "설거지 하는 내내 산뜻하고 향긋한 향이 기분까지 좋게 만들어 주더라구요 ^^",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "과일, 야채, 젖병까지 세정 가능한 1종 주방세제라",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "안심하고 사용할 수 있는 세제랍니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028918",
+    "RawText": "저는 기본적인 액체세제를 선호하는 편이에요. 그치만 무겁다, 사용하기 불편하다는 단점이있어 정착하지 못하고 이것저것 써보며 유목민 생활을 하고 있던 차에 얼마전 저의 니즈를 채워줄 제품을 알게되었어요.  바로 OO에서 새로 출시된 OOO 프로 파워샷 액체세탁세제!   처음에 봤을때부터 ‘이게 세제라고?’ 싶은 독특하면서 예쁜 외관과 예쁜 초록빛 컬러가 호기심을 자극하더라고요. 프리미엄 고농축 세제라서 많은 양이 필요하지 않고 빨래양에 따라 조금만 사용해도 되는데 사용량에 비해 언제나 항상 액체세탁세제의 부피는 한 손으로 들 수 없을 정도로 컸잖아요. 무게도 무겁고요. 하지만 OOO 제트 프로는 한 손으로도 거뜬하게 들 수 있어서 세탁할 때 마다 사용하기 참 편리해요.  또한 제트만의  DEO-FRESH 기술로 불쾌한 냄새를 향으로 덮지 않고 원인을 찾아 없애주면서 탈취 99%를 해준다고 하니 얼마나 든든한지 몰라요 ! 강추합니다~~^^  ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 리** 고농축 세탁세제",
+    "Syllable": "475",
+    "Word": "110",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 처음에 봤을때부터 ‘이게 세제라고?’ 싶은 독특하면서 예쁜 외관과",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "예쁜 초록빛 컬러가 호기심을 자극하더라고요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "프리미엄 고농축 세제라서 많은 양이 필요하지 않고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "빨래양에 따라 조금만 사용해도 되는데",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "OOO 제트 프로는 한 손으로도 거뜬하게 들 수 있어서",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "세탁할 때 마다 사용하기 참 편리해요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "원인을 찾아 없애주면서 탈취 99%를 해준다고 하니 얼마나 든든한지 몰라요 ! ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028921",
+    "RawText": "요즘은 세탁기에 빨래를 하면 미세먼지나 얼룩, 세균들 때문에 말끔하게 세탁된 기분이 안들더라구요. 매일 쏟아져 나오는 많은 양의 빨래를 손으로 애벌 빨래하기도 버겁구요. 그런데 이런 고민을 해결해줄 액체세제가 있더라구요.  OOO 버블워시로 강력한 세척으로 섬유오염제거는 물론 옷얼룩제거, 옷 미세먼지 세탁까지 한번에 해결이 되더라구요. 기존 세제에 대비해 35% 더 작아진 미세거품으로 섬유 속 구석구석의 오염을 제거해 준다네요. 6가지 파라벤 무첨가 형광증백제를 사용하지 않은 순한 액체세제로 가족의 모든 옷을 세탁할 수 있어서 좋았어요.  순한 성분으로 강력한 세척이 필요하다면 OOO 진한겔 버블워시 한번 사용해보세요.  얼룩까지 깨끗하게 제거해주는 순한 세제 만족스러우실꺼에요 ^^",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 진** 세탁세제",
+    "Syllable": "386",
+    "Word": "86",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "강력한 세척으로 섬유오염제거는 물론 옷얼룩제거, 옷 미세먼지 세탁까지 한번에 해결이 되더라구요. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "6가지 파라벤 무첨가 형광증백제를 사용하지 않은 순한 액체세제로",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "가족의 모든 옷을 세탁할 수 있어서 좋았어요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "순한 성분으로",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "강력한 세척이 필요하다면 OOO 진한겔 버블워시 한번 사용해보세요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "얼룩까지 깨끗하게 제거해주는 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "순한 세제 만족스러우실꺼에요 ^^",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028924",
+    "RawText": "꿉꿉하고 눅눅한 장마철에는 빨래가 참 힘들죠. 더운 여름이라 나오는 빨래양도 장난 아니고요. 장마철 빨래가 은근 신경이 많이 쓰이더라고요. 오늘은 여름철 땀냄새 제거에 탁월한 좋은 세제 진한겔 OOO 속때를 추천해볼까 해요.  세탁세제인 진한겔 OOO는 속때와 냄새까지 강력하게 세척하는 세척력 좋은 세제로 알려져 있어 올 여름 저도 한 번 사용을 해봤어요.더욱 강력해진 세척력의 액체세제 진한겔 OOO 속때는 특별한 stain trapper 기술로 불쾌한 냄새를 유발하는 섬유속의 피지나 단백질, 기름과 얼룩을 제거한다고 해요. 성분 또한 확인을 안해볼수가 없는데요. 에틸파라벤이나 프로필파라벤, 형광증백제 등 걱정하실 성분은 들어 있지 않으니 아이들 빨래 세제로도 걱정 안하셔도 될것 같아요. ^^  성분과 세탁력 모두 합격인 진한겔 OOO, 장마철 빨래 할때도 참 만족스러웠답니다. 진한겔 OOO로 온가족 빨래 함께 하세요^^  ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 리** 세탁세제",
+    "Syllable": "467",
+    "Word": "108",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "여름철 땀냄새 제거에 탁월한 좋은 세제 진한겔 OOO 속때를 추천해볼까 해요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "에틸파라벤이나 프로필파라벤, 형광증백제 등 걱정하실 성분은 들어 있지 않으니 ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "아이들 빨래 세제로도 걱정 안하셔도 될것 같아요. ^^",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "성분과 세탁력 모두 합격인 진한겔 OOO",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세탁력 모두 합격인 진한겔 OOO",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": " 장마철 빨래 할때도 참 만족스러웠답니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028926",
+    "RawText": "더운 날씨에 활동량 많은 아이들의 옷은 금방 더러워지고 땀냄새가 베기 마련인데요. 여름에는 세탁세제도 더 신경을 써서 사용해야 되겠더라구요. 땀냄새 제거와 세척력 강한 제품을 찾다가 진한겔 OOO를 쓰고 있는데요.  올뉴 진한겔 OOO는 더욱 강력해진 세척력과 흰옷 얼룩제거에도 탁월하여 만족하며 사용하고 있는데요. 그전에 쓰던 OOO는  ph 9.0 알카파워로 찌든 얼룩 제거 진한겔 강한 세척, 음식물 오염 제거, 파라벤 형광증백제 무첨가라고 해요. 피부에 직접 닿은 옷을 세탁해서 입는 거니 아무래도 액체세제 추천을 받아도 성분까지 따져볼 수 밖에 없는데 OOO 진한겔 오리지널은 성분도 좋아서 믿고 사용하고 있답니다.  속까지 말끔하게 세척하는 진한겔 OOO 추천 드려봅니다. ^^ ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 진** 세탁세제",
+    "Syllable": "386",
+    "Word": "91",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "올뉴 진한겔 OOO는 더욱 강력해진 세척력과 흰옷 얼룩제거에도 탁월하여",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": " OOO 진한겔 오리지널은 성분도 좋아서 믿고 사용하고 있답니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "속까지 말끔하게 세척하는 진한겔 OOO 추천 드려봅니다. ^^",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028929",
+    "RawText": "장마철 빨래냄새는 아무리 세탁을 해도 나기 때문에 세탁 이후에 건조기 시트가 신의 한수인데요. 제가 섬유유연제로도 사용중인 너무 향긋한 OOO 드라이시트 사용후기를 들고 왔어요.  드라이시트 사용의 목적은 다양한데, 저는 장마철의 꿉꿉한 냄새 떄문이기도 한데요. OOO 건조기시트는 그 외에 옷의 손상을 줄여주는 효과도 있어서 옷감에 예민한 분들은 필수이지 않나 싶어요. 건조기를 사용하시는 분들은 아시겠지만 뜨거운 열로 건조하고 나면 정전기가 생겨서 빨랫감을 꺼내다보면 정전기가 심하게 느껴질 때가 있어요. OOO 드라이시트 제품을 사용하게 되면 섬유의 마찰을 줄여주기에 정전기 방지와 섬유가 부드러워지는 유연효과까지 느낄 수 있답니다.  아이들 옷, 수건, 어른 옷 모두 사용중인데요. 건조기에서 옷을 꺼내면서부터 은은하고 향긋한 향기가 기분 좋게 만드는 OOO 드라이시트 !!! 건조기 섬유유연제 정말 괜찮네요~~^^",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이시트 섬유유연제 피**",
+    "Syllable": "460",
+    "Word": "104",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "OOO 건조기시트는 그 외에 옷의 손상을 줄여주는 효과도 있어서",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "옷감에 예민한 분들은 필수이지 않나 싶어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "OOO 드라이시트 제품을 사용하게 되면 섬유의 마찰을 줄여주기에 정전기 방지와",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "섬유가 부드러워지는 유연효과까지 느낄 수 있답니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "건조기에서 옷을 꺼내면서부터 은은하고 향긋한 향기가 기분 좋게 만드는 OOO 드라이시트 !!!",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "너무 향긋한 OOO 드라이시트 사용후기를 들고 왔어요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028931",
+    "RawText": "오늘은 OOO 드라이시트 피오니부케향을 소개해볼까해요. 여러가지 도움을 받고있는 살림템중에서 건조기는 편하기는 한데 여기만 들어가면 향긋한 냄새들이 사라져서 속상했어요. 그러다가 알게된게 OOO 드라이시트인데요.  은은한 향도 나고 무엇보다 꺼냈을 때 옷감이 부드러워서 계속 빠지지 않고 쓰고 있어요. 향은 여러가지가 있는데 맡아볼 수가 없어 무난하다는 피오니부케향으로 쓰고 있는데요. 과하지도 않고 은은한 향이 마음에 들었어요. 향기 지속력도 강한 편이고 섬유 유연효과도 꽤 괜찮은지 면 소재 제품이나 타월을 건조해 보면 부드러운 촉감이 느껴져서 정전기 방지 효과가 괜않았어요. 한박스 120매의 대용량 제품이라 개봉 후 향이 날아갈까 걱정되시는 분들도 있을텐데 OOO 건조기 드라이시트는 물티슈 타입으로 박스 안에 한번 더 포장이 되어 있어서 사용도 편리하고 향도 지킬 수 있답니다.  건조가 되는 동안에도 은은한 향이 풍겨서 더 좋은 OOO 건조기 드라이시트 사랑스러운 피오니부케향은 달달하면서도 과하지 않아서 더 마음에 드네요.",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이시트 섬유유연제 피**",
+    "Syllable": "523",
+    "Word": "120",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "은은한 향도 나고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "무엇보다 꺼냈을 때 옷감이 부드러워서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "과하지도 않고 은은한 향이 마음에 들었어요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "향기 지속력도 강한 편이고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "섬유 유연효과도 꽤 괜찮은지 면 소재 제품이나 타월을 건조해 보면 부드러운 촉감이 느껴져서",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "정전기 방지 효과가 괜않았어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "한박스 120매의 대용량 제품이라",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": " OOO 건조기 드라이시트는 물티슈 타입으로 박스 안에 한번 더 포장이 되어 있어서 ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용도 편리하고 향도 지킬 수 있답니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "건조가 되는 동안에도 은은한 향이 풍겨서 더 좋은",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028933",
+    "RawText": "안녕하세요. 저는 왜 건조기만 사용하면 섬유유연제 향이 없어지는지 모르겠어요. 개인적으로 옷에서 은은하게 향이나는게 좋아서 알아보다가 건조기 섬유유연제로 불리는 건조기 드라이시트를 알게 됐는데 소개해드리려고 해요.   이번에 건조기 드라이시트도 OOO로 선택을 했는데 향이 라벤더, 피오니부케 등  왜 이렇게 많은지.. 한참을 고민하다가 전 무게부케로 선택했는데 은은한 꽃 향이 나는 게 제대로 취향저격했지 모예요! 사계절 내내 사용해도 향이 부담스럽지 않은 느낌이랄까요? 여기에 정전기도 방지해주니까 섬유유연제 역할 역시 똑소리 나게 한답니다. 가끔 건조기에서 옷을 꺼낼 때 정전기가 느껴질 때가 더러 있어요~ 그런데 OOO 드라이시트 사용하고 난 뒤부터는 정전기를 거의 느낄 수 없어 마음 놓고 오픈해서 옷감을 꺼낼 수 있어요 :) 그래서 갖고 있으면 정말 잘 활용할 수 있는 아이템 인정! 특히 이렇게 습도가 높은 여름엔 더더욱 활용도 만점이에요  이상 내돈내산 건조기 섬유유연제 추천 리뷰를 마치도록 할께요 ^^  ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 드라이시트 건조기섬유유연시트 ",
+    "Syllable": "516",
+    "Word": "122",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "전 무게부케로 선택했는데 은은한 꽃 향이 나는 게 제대로 취향저격했지 모예요! ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "사계절 내내 사용해도 향이 부담스럽지 않은 느낌이랄까요? ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "정전기도 방지해주니까 섬유유연제 역할 역시 똑소리 나게 한답니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": " OOO 드라이시트 사용하고 난 뒤부터는 정전기를 거의 느낄 수 없어 마음 놓고 오픈해서 옷감을 꺼낼 수 있어요 :)",
+        "SentimentWord": "18",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "갖고 있으면 정말 잘 활용할 수 있는 아이템 인정!",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "이렇게 습도가 높은 여름엔 더더욱 활용도 만점이에요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028943",
+    "RawText": "안녕하세요. 오늘은 OOO 드라이 건조기 전용 섬유유연시트를 소개해보려고 합니다. 기존에 사용하던 섬유유연제가 떨어지고 나서 잠깐동안 섬유유연제 없이 세탁하고 건조를 했었는데요. 건조기에서 꺼낼때 정전기가 많이 나더라구요. 그래서 스윗만다린 \u0026 피오니향의 섬유유연시트를 선택해봤어요.  OOO 건조기전용 드라이시트는 처음 사용해봤는데 향도 좋고 지속력도 좋아서 만족스러웠어요. 한박스에 40매가 들어있어서 가격도 착하더라구요. 한장씩 뽑아서 쓰면 되고 세탁물 양에 맞춰 1장에서 2장정도 쓰면 되요. 옷감이 한층 부드럽고 구김도 덜해 옷도 바로 예쁘게 입을수 있었어요. 옷감의 부드러움과 함께 매일 입는 옷에 오래가는 기분 좋은 향이 필요했다면 OOO 드라이 건조기시트 추천해볼께요. ^^",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 아** 건조기전용 섬유유연제",
+    "Syllable": "385",
+    "Word": "83",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "지속력도 좋아서 만족스러웠어요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "한박스에 40매가 들어있어서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 착하더라구요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "옷감이 한층 부드럽고 구김도 덜해 옷도 바로 예쁘게 입을수 있었어요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "효과/성능/기능",
+        "SentimentText": "옷감의 부드러움과 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "매일 입는 옷에 오래가는 기분 좋은 향이 필요했다면 OOO 드라이 건조기시트 추천해볼께요. ^^",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "한장씩 뽑아서 쓰면 되고 세탁물 양에 맞춰 1장에서 2장정도 쓰면 되요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028946",
+    "RawText": "집콕 덕분에 집에 있는 시간이 엄청 길어진 요즘, 설거지를 하거나 요리를 할때 아무리 신경을 써서 한다지만 그래도 물때, 기름때, 곰팡이 같은거는 어쩔수 없이 생기게 되는거 같아요. 그래서 주방청소를 조금 더 수월하게 해줄 수 있는 우리집 청소도우미 OOO로 열심히 청소하고 있어요.  OOO 주방용!  유해균 99.9% 제거되는 주방용 청소용품이에요. 특히나 주방용은 O 무첨가로 머리아픈 냄새도 안나고 레몬향이라 뿌리니 상~큼한 향이 나요. 한번의 사용으로 살균과 세척은 물론 악취제거까지 동시에 해결가능한 OOO 주방용!! 인체유해한 성분이 없어서 어린이나 반려동물을 키우는 가정에도 안심하고 사용 가능해요.  나의 주방청소 파트너 OOO 싱크대, 가스렌지, 후드 등 다양하게 주방에 사용할 수 있어서 아주아주 좋아요 !!! ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 무** 주방세정제",
+    "Syllable": "409",
+    "Word": "95",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "주방청소를 조금 더 수월하게 해줄 수 있는",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "살균/소독",
+        "SentimentText": "유해균 99.9% 제거되는 주방용 청소용품이에요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "특히나 주방용은 O 무첨가로 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "머리아픈 냄새도 안나고 레몬향이라 뿌리니 상~큼한 향이 나요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "살균/소독",
+        "SentimentText": "한번의 사용으로 살균과 세척은 물론 악취제거까지 동시에 해결가능한 OOO 주방용!!",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": " 세척은 물론 악취제거까지 동시에 해결가능한 OOO 주방용!!",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "악취제거까지 동시에 해결가능한 OOO 주방용!",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "인체유해한 성분이 없어서 어린이나 반려동물을 키우는 가정에도 안심하고 사용 가능해요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "싱크대, 가스렌지, 후드 등 다양하게 주방에 사용할 수 있어서",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028957",
+    "RawText": "요즘 집에 자주 있다보니 요리도 사먹는것보다 해먹는것도 많고 손을 많이 쓰니까 일주일에 두세번은 꼭 주방청소를 해줘야겠군요. OO에서 OOO라는 주방전용 세정제가 나와서 사용해봤더니 아주 깔끔하게 닦이길래 알려드릴까 해요.   OOO는 겉보이기에 지저분한 기름때만 제거가 되는게 아니라 음식해먹고 자주 사용하는 가스렌지에 있는 유해균을 99.9%를 제거해주기에 안심이었어요. 제품을 뿌리고 난뒤에 수세미나 스펀지등으로 문질러서 때를 제거해준뒤에 물로 씻어내시면 되니 너무 편한거있죠? 싱크대나 가스레인지 후드 벽면 등등 부엌 그 어딘가에는 전부 활용할 수 있기 때문에 하나 두니 요긴하게 쓰고 있답니다.  늘 청소하는데 묵은때가 안벗겨져서 힘들여서 박박 문지르고 힘드셨다면은 간편하게 잘 때를 녹여주고 살균도 해주는 OOO 주방세정제를 사용해보시는 것도 추천드려요~! ​ ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 무** 주방세정제",
+    "Syllable": "432",
+    "Word": "94",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "OOO라는 주방전용 세정제가 나와서 사용해봤더니 아주 깔끔하게 닦이길래 알려드릴까 해요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "OOO는 겉보이기에 지저분한 기름때만 제거가 되는게 아니라",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "살균/소독",
+        "SentimentText": "음식해먹고 자주 사용하는 가스렌지에 있는 유해균을 99.9%를 제거해주기에 안심이었어요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "제품을 뿌리고 난뒤에 수세미나 스펀지등으로 문질러서 때를 제거해준뒤에 물로 씻어내시면 되니 너무 편한거있죠?",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "싱크대나 가스레인지 후드 벽면 등등 부엌 그 어딘가에는 전부 활용할 수 있기 때문에 하나 두니 요긴하게 쓰고 있답니다.",
+        "SentimentWord": "18",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "간편하게 잘 때를 녹여주고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "살균/소독",
+        "SentimentText": "살균도 해주는 OOO 주방세정제를 사용해보시는 것도 추천드려요~!",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028958",
+    "RawText": "오늘은 어디를 청소해볼까 하다가 평소 신경을 잘 안 썼던 가스렌지 후드가 눈에 들어와 청소를 했어요. 청소를 하려면 청소도구가 있어야 하잖아요. 함께할 세정제로는 OOO 주방용 제품을 선택했어요.  O 무첨가 제품이라 냄새가 독하지 않으며 천연성분이 들어있고 50가지 각종 인체 유해균을 99.9% 제거해주는 살균력까지 갖춘 주방용 세정제에요. 후드망 사이에 누런 기름들이 사이사이 들어가서 금빛으로 보이던 후드망이 청소후엔 은색이 되었네요.  향은 레몬향이 나는데 청소를 하고 난뒤에도 향이 그렇게 남거나 하는 정도는 아니라 큰 불편함은 없었고 청소를 할 당시에는 불쾌한 냄새를 잡아주는 정도였어요.  은은한 레몬향 덕분에 청소하기도 좋고 묵은때 잘 벗겨져 더 좋고 여러모로 참 유용한 OOO 후기였습니다. ^^",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 무** 주방세정제",
+    "Syllable": "399",
+    "Word": "94",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분",
+        "SentimentText": "O 무첨가 제품이라",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새가 독하지 않으며",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "천연성분이 들어있고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "살균/소독",
+        "SentimentText": "50가지 각종 인체 유해균을 99.9% 제거해주는 살균력까지 갖춘 주방용 세정제에요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "후드망 사이에 누런 기름들이 사이사이 들어가서 금빛으로 보이던 후드망이 청소후엔 은색이 되었네요. ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 레몬향이 나는데 청소를 하고 난뒤에도 향이 그렇게 남거나 하는 정도는 아니라 큰 불편함은 없었고",
+        "SentimentWord": "15",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "청소를 할 당시에는 불쾌한 냄새를 잡아주는 정도였어요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "은은한 레몬향 덕분에 청소하기도 좋고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "묵은때 잘 벗겨져 더 좋고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "여러모로 참 유용한",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028959",
+    "RawText": "매번 청소해야지 하면서도 O냄새 맡기도 싫고, 솔로 빡빡 미는것도 너무 힘들어서 자꾸 미루게만 되는 욕실청소.. 이제는 쉬워졌어요! OO에서 나온 OOO 욕실세정제를 사용하고 있거든요 ㅎㅎㅎ  화장실은 O로 청소하곤 했는데 냄새가 너무 심해서 힘들었는데 순하면서 세정력 좋은 욕실세정제를 찾다가 OOO 사용해봤는데 냄새도 안나고 너무 좋아요 ^^ 힘들게 청소하지 않아도 뿌리고 슬슬 닦아주기만 해도 손쉽게 청소가 된답니다. 안심할 수 있는 성분에 세정력까지 완벽하니 이젠 신랑없이도 저 혼자 욕실청소가 가능해졌어요. ㅎㅎ  이제는 O성분없는 안심할 수 있는 OOO로 욕실청소 해보세요~~^^",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 무** 욕실세정제",
+    "Syllable": "330",
+    "Word": "75",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "이제는 쉬워졌어요! OO에서 나온 OOO 욕실세정제를 사용하고 있거든요 ㅎㅎㅎ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 안나고 너무 좋아요 ^^",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "힘들게 청소하지 않아도 뿌리고 슬슬 닦아주기만 해도 손쉽게 청소가 된답니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "안심할 수 있는 성분에",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력까지 완벽하니 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "이제는 O성분없는 안심할 수 있는 OOO로 욕실청소 해보세요~~^^",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028960",
+    "RawText": "매일 사용하는 욕실에 물때가 왜 이렇게 많이 생기는지 모르겠어요. 매일 욕실 청소하기가 너무 힘들었는데 OOO  욕실세정제 하나로 욕실청소가 너무 간편해졌답니다. ㅎㅎ  OOO 욕실세정제 제품은 뿌리기만 하면 유해균까지 싹 청소해주니 간편하게 욕실청소를 할 수 있어서 좋은데요. 특히 욕실청소 같은 경우엔 O가 들어있는 걸 많이 사용하는데 OOO에는 O 무첨가로 안전하게 사용할 수 있답니다. 독한 O 냄새 대신 은은한 허브향을 추가해서 늘 힘들었던 욕실청소가 상쾌해졌어요. ㅎㅎㅎ  O무첨가, 천연성분함유로 안심하고 사용할 수 있는 욕실세제! 거품 타입이라 간편하게 화장실 청소할 수 있는 OOO 추천드려요 ^^",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 무** 욕실세정제",
+    "Syllable": "343",
+    "Word": "80",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "매일 욕실 청소하기가 너무 힘들었는데 OOO  욕실세정제 하나로 욕실청소가 너무 간편해졌답니다. ㅎㅎ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "살균/소독",
+        "SentimentText": "OOO 욕실세정제 제품은 뿌리기만 하면 유해균까지 싹 청소해주니 ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "간편하게 욕실청소를 할 수 있어서 좋은데요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "OOO에는 O 무첨가로 안전하게 사용할 수 있답니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "독한 O 냄새 대신 은은한 허브향을 추가해서 늘 힘들었던 욕실청소가 상쾌해졌어요. ㅎㅎㅎ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "O무첨가, 천연성분함유로 안심하고 사용할 수 있는 욕실세제!",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "거품 타입이라 간편하게 화장실 청소할 수 있는 OOO 추천드려요 ^^",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028961",
+    "RawText": "안녕하세요. 오늘은 화장실 청소에 최고인 OOO 리뷰를 해보려고 해요. 저희집만 그런건지 화장실은 청소를 해도해도 왜이리 금방 더러워지는걸까요? ㅠㅠ  마침 욕실세정제가 똑 떨어지기도 했고 이전에 사용하던 세정제가 맘에 들지 않았거든요. 냄새도 많이 나고 때도 잘 지워지지 않는거 같아서요. 청소하기도 쉽고 OO 냄새 안나는 화장실 세정제 없나 찾아보다가 OOO를 발견했어요. 천연성분함유로 안심하고 사용할 수 있고 인체 유해균 99.9% 제거해주고 세정력도 아주 굿이었어요. 강력한 수세미 사용할 필요도 없이 칙칙칙 뿌리고 1분정도 있다가 청소용솔로 가볍게 문질문질 해주니 욕실이 완전 반짝반짝 해지더라구요.  OOO 덕분에 이제 욕실청소가 정말 간편하고 쉬워졌답니다. 여러분도 꼭 한번 사용해보세요~^^",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 무** 욕실세정제",
+    "Syllable": "395",
+    "Word": "88",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분",
+        "SentimentText": "천연성분함유로 안심하고 사용할 수 있고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "살균/소독",
+        "SentimentText": "인체 유해균 99.9% 제거해주고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "세정력도 아주 굿이었어요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세척/세정력",
+        "SentimentText": "강력한 수세미 사용할 필요도 없이 칙칙칙 뿌리고 1분정도 있다가 청소용솔로 가볍게 문질문질 해주니 욕실이 완전 반짝반짝 해지더라구요.",
+        "SentimentWord": "17",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "OOO 덕분에 이제 욕실청소가 정말 간편하고 쉬워졌답니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028962",
+    "RawText": "OOO는 1986년에 출시된 30년이 넘은 브랜드라고 해요. 정말 예전에 저희 엄마부터 사용하던 제습제로 비교할 수 없는 독보적인 품질과 경쟁력으로 오랫동안 집안을 쾌적하게 만들어준 브랜드 같아요.  날씨가 풀리면서 봄, 여름 다가오면 비오는 날도 많아져 습도가 많이 높아지는데요. 역시나 집안 습기는 바로 잡아줘야해요. 일반 생활공간말고 서랍장, 옷장 등에도 습기가 정말 많이 차는곳이라 OOO로 늘 쾌적하게 관리해주려고 노력하고 있어요. 한번 오픈하면 90일 정도 사용이 가능하고 5분안에 즉각적인 제습이 시작되기 때문에 이렇게 비오는 날 바로 오픈해도 안심이 되요.  습기는 단순히 눅눅한 느낌만이 아니라  습기때문에 집에서 꿉꿉한 냄새가 날수도 있으니 미리미리 OOO로  쾌적한 여름을 준비하세요~~^^",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 옷장제습제",
+    "Syllable": "397",
+    "Word": "90",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "일반 생활공간말고 서랍장, 옷장 등에도 습기가 정말 많이 차는곳이라 OOO로 늘 쾌적하게 관리해주려고 노력하고 있어요.",
+        "SentimentWord": "15",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "한번 오픈하면 90일 정도 사용이 가능하고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "5분안에 즉각적인 제습이 시작되기 때문에 이렇게 비오는 날 바로 오픈해도 안심이 되요.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028963",
+    "RawText": "벌써 여름이 다가오네요. 습도가 조금씩 높아지는 게 느껴지는데요. 이런 시기가 되면 해야 할 일이 있죠. 습기를 주의해야 하는 곳에 제습제를 교체해 줘야 해요.  제습제라고 하면 가장 먼저 떠오른 OOO. 워낙 어릴때부터 봐온 제품이라 가장 익숙한 브랜드죠. 1986년에 출시되어 30년이 넘게 그 명성을 유지하는 브랜드인 만큼 품질에 있어서는 믿을 수 있습니다. 좁은 공간이라도 어디든 올려두어 사용할 수 있기 때문에 효과적으로 습기제거를 할 수 있어서 좋아요. OOO 통을 보면 직관적으로 바로 제습효과를 눈으로 확인할 수 있어서 좋은거 같아요~^^  OOO 제습제로 옷장, 서랍장, 신발장 다양한 공간에 습기제거 꼼꼼하게 해서 뽀송뽀송한 생활공간을 만들어보세요.",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 옷장용 제습제 ",
+    "Syllable": "373",
+    "Word": "89",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "좁은 공간이라도 어디든 올려두어 사용할 수 있기 때문에",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "효과적으로 습기제거를 할 수 있어서 좋아요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "OOO 통을 보면 직관적으로 바로 제습효과를 눈으로 확인할 수 있어서 좋은거 같아요~^^",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028964",
+    "RawText": "빨래해도 냄새가 사라지지 않을때 향기로 냄새를 가리려고 하면 안된다는거 아시죠? 냄새는 냄새 원인균을 제거해 주는 것이 중요하다고 하는데요. 저는 OO OOO 섬유유연제 사용하고 고민 해결했어요.  OO OOO 섬유유연제 향기 좋기로 유명하잖아요. 그런데 단순히 향기만 좋아서 빨래 냄새를 없애주는 건 아니더라고요. 냄새 원인균 99.9%를 제거해주고 오래오래 지속되는 퍼퓸 향기를 남겨주는 향기 좋은 섬유유연제입니다. 또한 온 가족이 안심하고 함께 사용할 수 있도록 피부에 자극을 줄 수 있는 성분인 보존제 11종 무첨가와 피부 테스트도 완료해 누구나 사용할 수 있는 OO OOO 섬유유연제에요. 성분까지 꼼꼼하게 확인하고 골라본 향기좋은 섬유유연제 OO OOO를 사용하면서 아이들도 엄청 좋아하더라고요.  빨래해도 사라지지 않는 냄새로 고민하신다면 섬유유연제를 바꿔보세요~ 패키지도 고급스럽고 향기도 정말 좋아서 센스있는 집들이 선물로도 좋을 것 같아요.",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 아** 섬유유연제",
+    "Syllable": "480",
+    "Word": "109",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "OO OOO 섬유유연제 향기 좋기로 유명하잖아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": " 단순히 향기만 좋아서 빨래 냄새를 없애주는 건 아니더라고요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "냄새 원인균 99.9%를 제거해주고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "오래오래 지속되는 퍼퓸 향기를 남겨주는 향기 좋은 섬유유연제입니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "피부에 자극을 줄 수 있는 성분인 보존제 11종 무첨가와",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "피부(손)보호",
+        "SentimentText": "피부 테스트도 완료해 누구나 사용할 수 있는 OO OOO 섬유유연제에요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "성분까지 꼼꼼하게 확인하고 골라본",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기좋은 섬유유연제 OO OOO를 사용하면서 아이들도 엄청 좋아하더라고요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "빨래해도 사라지지 않는 냄새로 고민하신다면 섬유유연제를 바꿔보세요~",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "패키지도 고급스럽고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028965",
+    "RawText": "안녕하세요. 오늘은 향기 좋은 섬유유연제 추천을 드려볼까 하는데요. 일시적으로 향으로 덮는게 아니라, 섬유 속 깊숙이 베인 냄새의 흔적은 지워주고 퍼퓸 향기만 오래오래 지속되는 OOO 제품이에요.   기존 제품 대비 부향율은  1.5배, 2배 더 오래 지속되는 향기로 빨래 쉰내까지 없애주는 섬유유연제랍니다. 뚜껑에 일정양을 덜어내어 사용하면 되니까 섬유유연제를 세탁하면서 너무 많이 사용하지 않아도 되고, 따로 덜어낼 용기가 필요하지 않아서 간편한 OOO에요. 스윗만다린향은 달달하면서도 진하거나 머리 아픈 향이 아니라서 자꾸 찾게 되는 퍼품향기 섬유유연제에요. 고급스러우면서도 포근한 느낌을 느낄 수 있는 향이라 호불호가 적고 많은 사람들이 사용하기 좋은 향이 아닐까 싶어요.  초고농축이라 1/3 만 사용해도 오래 지속되는 진한 향기를 느끼고 싶다면 OOO 추천드릴께요 !",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 아** 섬유유연제",
+    "Syllable": "435",
+    "Word": "99",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기 좋은 섬유유연제 추천을 드려볼까 하는데요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "섬유 속 깊숙이 베인 냄새의 흔적은 지워주고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "퍼퓸 향기만 오래오래 지속되는 OOO 제품이에요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "기존 제품 대비 부향율은  1.5배, 2배 더 오래 지속되는 향기로",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "빨래 쉰내까지 없애주는 섬유유연제랍니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "따로 덜어낼 용기가 필요하지 않아서 간편한 OOO에요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "스윗만다린향은 달달하면서도 진하거나 머리 아픈 향이 아니라서",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "자꾸 찾게 되는 퍼품향기 섬유유연제에요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "고급스러우면서도 포근한 느낌을 느낄 수 있는 향이라 호불호가 적고",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "농축도/수용성",
+        "SentimentText": "초고농축이라 1/3 만 사용해도 오래 지속되는 진한 향기를 느끼고 싶다면 OOO 추천드릴께요 !",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028969",
+    "RawText": "세탁하며 생기는 고민이 있다면 바로 빨래 쉰내인데요 주위에서 OOO 섬유유연제를 입모아 추천해주어서 저도 사용해보게 되었답니다.  제가 OOO 섬유유연제를 선택한 가장 큰 이유가 냄새 원인균을 99.9% 제거한다는 것과 넘치지도 부족하지도 않게 잔향이 좋기 때문이에요. 더구나 빨래 쉰내가 땀냄새 탈취력 테스트를 완료했다니 이건 기능성 탈취 섬유유연제라고 해도 과언이 아니겠더라구요. 향기 좋은 섬유유연제 하면 딱 떠오르는 바로 그  브랜드!!!. 탈취는 물론 퍼퓸까지 더해진 초고농축 섬유유연제에요.  짙고 강한 향이라 머리 아픈 느낌없고 은은하면서 지속되는 향기가 기분좋은 느낌! 유독 심하게 느껴지는 빨래 쉰내 제거 때문에 고민이 되신다면 사용해 보시길 바랍니다. ",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 아** 섬유유연제",
+    "Syllable": "375",
+    "Word": "85",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "제가 OOO 섬유유연제를 선택한 가장 큰 이유가 냄새 원인균을 99.9% 제거한다는 것과",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "넘치지도 부족하지도 않게 잔향이 좋기 때문이에요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "탈취는 물론",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "퍼퓸까지 더해진 초고농축 섬유유연제에요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "짙고 강한 향이라 머리 아픈 느낌없고 은은하면서 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "지속되는 향기가 기분좋은 느낌!",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "유독 심하게 느껴지는 빨래 쉰내 제거 때문에 고민이 되신다면 사용해 보시길 바랍니다.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028972",
+    "RawText": "안녕하세요. 요즘 장마철이다보니 드레스룸이 너무 습한데요. 그래서 항상 옷장 제습제는 넣어두고 있는 편이었는데 이번에 알게 된 옷걸이형 제습제가 있어서 사용을 해보게 되었습니다.  한팩에 200g 대용량 제습제로 빠르고 강력한 제습을 도와주고, 옷걸이형 제습제이기 떄문에 옷걸이로 걸어두게 도니 편하고 또 항상 보여지는곳에 있기 때문에 확인이 가능해서 좋았어요. 사용방법은 제품에 있는 홈에 옷걸이를 맞춰 단추를 잠그듯 잠궈주면 끝!!  공간을 많이 차지 않아서 좁은 공간에도 사용하기 편해요. 게다가 사용 후 제습된 물은 제품의 절취선에 따라 자른 뒤 포장지만 분리배출 해주면 되니까 사용후 관리도 굉장히 간편하답니다.  고온 다습한 날씨에 올해는 장마도 길어진다고도 하죠. OOO 제습제로 뽀송뽀송한 공간을 만드시길 추천드립니다 ^^",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 옷걸이형 제습제 ",
+    "Syllable": "412",
+    "Word": "95",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "한팩에 200g 대용량 제습제로",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탈취/제습력",
+        "SentimentText": "강력한 제습을 도와주고,",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "옷걸이형 제습제이기 떄문에 옷걸이로 걸어두게 도니 편하고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "또 항상 보여지는곳에 있기 때문에 확인이 가능해서 좋았어요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "공간을 많이 차지 않아서 좁은 공간에도 사용하기 편해요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/사용성/활용도",
+        "SentimentText": "사용 후 제습된 물은 제품의 절취선에 따라 자른 뒤 포장지만 분리배출 해주면 되니까 사용후 관리도 굉장히 간편하답니다.",
+        "SentimentWord": "17",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1028976",
+    "RawText": "습도가 높은 일상이 오래 지속되서 뽀송한 옷 관리를 위해 옷장에 넣을 제습제를 준비했어요. OOO에서 출시된 제습제인데 디자인이 정말 심플해서 마음에 들었어요.  아랫쪽 부분을 모양을 잡아주면 스탠드 형태로 만들어져 그대로 옷장과 신발장에 넣을 수 있어요. 패키지부터 깔끔해 마음에 들었던 OOO 제습제~ 살펴보다보니 또 하나의 장점이 있었는데요. 그것은 바로 습기 흡수량을 눈으로 볼 수 있다는 점이에요.  아래 부분은 투명한 워터포켓으로 되어 있었는데 습기 흡수량과 잔여 용량을 눈으로 확인할 수 있어서 어느 정도 더 쓸 수 있는지도 알 수 있겠더라구요.  고순도 염화칼슘이 비드형으로 들어 있어서 강력한 제습에 도움을 주는 넓은 면적의 흡습지를 적용한 것도 마음에 들었어요. 우리집 습기제거 해결에 관심이 있으시다면 OOO 제습제 권해드리고 싶어요.",
+    "Source": "SNS",
+    "Domain": "생활",
+    "MainCategory": "세제/세정/탈취제",
+    "ProductName": "OO 스탠드형 제습제 ",
+    "Syllable": "422",
+    "Word": "102",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 디자인이 정말 심플해서 마음에 들었어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "아랫쪽 부분을 모양을 잡아주면 스탠드 형태로 만들어져 그대로 옷장과 신발장에 넣을 수 있어요.",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "패키지부터 깔끔해 마음에 들었던 OOO 제습제~ ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "그것은 바로 습기 흡수량을 눈으로 볼 수 있다는 점이에요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "아래 부분은 투명한 워터포켓으로 되어 있었는데 습기 흡수량과 잔여 용량을 눈으로 확인할 수 있어서 어느 정도 더 쓸 수 있는지도 알 수 있겠더라구요.",
+        "SentimentWord": "23",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "고순도 염화칼슘이 비드형으로 들어 있어서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "강력한 제습에 도움을 주는 넓은 면적의 흡습지를 적용한 것도 마음에 들었어요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]

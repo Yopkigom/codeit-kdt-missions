@@ -1,0 +1,3176 @@
+[
+  {
+    "Index": "85182",
+    "RawText": "디자인 괜찮고 색상도 고급져요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 니트 3종",
+    "ReviewScore": "100",
+    "Syllable": "16",
+    "Word": "4",
+    "RDate": "20210831",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 괜찮고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 고급져요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "85184",
+    "RawText": "가격도  적당하고  옷의  질이  아주좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 니트 3종",
+    "ReviewScore": "100",
+    "Syllable": "24",
+    "Word": "5",
+    "RDate": "20210831",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도  적당하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "질이  아주좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "85189",
+    "RawText": "팔이 좀 긴 편이고, 검정 니트는 목둘레가 너무 타이트합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 니트 3종",
+    "ReviewScore": "100",
+    "Syllable": "34",
+    "Word": "9",
+    "RDate": "20210312",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "길이",
+        "SentimentText": "팔이 좀 긴 편이고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "검정 니트는 목둘레가 너무 타이트합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "85194",
+    "RawText": "좋은가격에 좋은상품을 구잆내서 좋았습니다 ㅠㅠ 하지만 오늘 입고나가서 망신을 ㅠㅠ 어깨뒤에 실밥이 마무리가 안되어서 풀린것이었습니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 니트 3종",
+    "ReviewScore": "80",
+    "Syllable": "73",
+    "Word": "15",
+    "RDate": "20210313",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은가격에",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "좋은상품을 구잆내서 좋았습니다 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "어깨뒤에 실밥이 마무리가 안되어서 풀린것이었습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "85202",
+    "RawText": "남편 사주었는데 소재가 까끌거리지 않고 편하게 입을수 있다고 나름 좋아해서 만족 가격도 저렴하고 적립금도 많고 OO쇼핑 인연이 오래가네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 니트 3종",
+    "ReviewScore": "100",
+    "Syllable": "76",
+    "Word": "18",
+    "RDate": "20210312",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재가 까끌거리지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편하게 입을수 있다고 나름 좋아해서 만족",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "85224",
+    "RawText": "디자인도 안예쁜데 입으면 좀 늘어남이 생겨요ㅠㅠ ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 니트 3종",
+    "ReviewScore": "70",
+    "Syllable": "27",
+    "Word": "6",
+    "RDate": "20210504",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 안예쁜데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "입으면 좀 늘어남이 생겨요ㅠㅠ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "85226",
+    "RawText": "남편한테 깜짝선물했어요 색깔도 맘에들고  여름에 입기가 딱 좋타면서 흐뭇합니다 선택을 잘한것같아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 썸머 쿨 자켓 남성",
+    "ReviewScore": "100",
+    "Syllable": "54",
+    "Word": "11",
+    "RDate": "20211007",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색깔도 맘에들고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "여름에 입기가 딱 좋타면서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "85228",
+    "RawText": "사이즈가 조금크게 나온듯해요. 디자인이 이쁘고 편합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 썸머 쿨 자켓 남성",
+    "ReviewScore": "90",
+    "Syllable": "30",
+    "Word": "6",
+    "RDate": "20210803",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 조금크게 나온듯해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 이쁘고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": " 편합니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "85229",
+    "RawText": "생각보다 구김도 안가고 입으니 맵시있어요. 사이즈가 조금 크게 나온듯합니당",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 썸머 쿨 자켓 남성",
+    "ReviewScore": "100",
+    "Syllable": "41",
+    "Word": "9",
+    "RDate": "20210803",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "생각보다 구김도 안가고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "입으니 맵시있어요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 조금 크게 나온듯합니당",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "85230",
+    "RawText": "생각보다  품질이아쉽습니다. 허리라인을좀더잡아줬으면좋을것같아요. 허리라인쪽이 거의 통인듯해서 아저씨느낌입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 썸머 쿨 자켓 남성",
+    "ReviewScore": "60",
+    "Syllable": "61",
+    "Word": "7",
+    "RDate": "20210511",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "생각보다  품질이아쉽습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "허리라인을좀더잡아줬으면좋을것같아요.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "허리라인쪽이 거의 통인듯해서 아저씨느낌입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "85232",
+    "RawText": "초여름 출근할때  입기 좋겠어요 색상도 이쁘고 원단도 좋고 가격도 싸게 잘 샀어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 썸머 쿨 자켓 남성",
+    "ReviewScore": "100",
+    "Syllable": "45",
+    "Word": "12",
+    "RDate": "20210625",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "초여름 출근할때  입기 좋겠어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 이쁘고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "원단도 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가격도 싸게 잘 샀어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "85233",
+    "RawText": "남편이 평소 105  입는데 110으로 하니 사이즈 낙낙하고 좋네요    구김  안가는 천이고 스판기가 있어 입기 편하고 좋아요     청바지에 입으니 젊어보이네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 썸머 쿨 자켓 남성",
+    "ReviewScore": "100",
+    "Syllable": "91",
+    "Word": "20",
+    "RDate": "20210514",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "남편이 평소 105  입는데 110으로 하니 사이즈 낙낙하고 좋네요 ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "구김  안가는 천이고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": "스판기가 있어 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "입기 편하고 좋아요    ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "청바지에 입으니 젊어보이네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "85244",
+    "RawText": "색상이나 재질도 괜찮고 착용감도 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "22",
+    "Word": "5",
+    "RDate": "20211115",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이나 재질도 괜찮고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질도 괜찮고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": " 착용감도 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "85245",
+    "RawText": "색상이 아주 예쁘고 착용감이 좋습니다^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "22",
+    "Word": "5",
+    "RDate": "20211118",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 아주 예쁘고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감이 좋습니다^^",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "85250",
+    "RawText": "너무  재질이 두꺼워서  여름에 입기는...요즘 딱 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "32",
+    "Word": "7",
+    "RDate": "20210830",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "너무  재질이 두꺼워서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "여름에 입기는...",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "요즘 딱 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "85251",
+    "RawText": "가성비 좋은  제품으로 제품품질도 만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "80",
+    "Syllable": "24",
+    "Word": "5",
+    "RDate": "20210927",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋은",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "제품품질도 만족합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "85254",
+    "RawText": "이쁘긴 한데  구김이 잘 져요. 다려입어야 해요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "27",
+    "Word": "7",
+    "RDate": "20210925",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "이쁘긴 한데 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "구김이 잘 져요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "다려입어야 해요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "85255",
+    "RawText": "색상도 너무좋고 .제품 품질도 너무 좋아요.^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "26",
+    "Word": "6",
+    "RDate": "20210923",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 너무좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "제품 품질도 너무 좋아요.^^",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "85256",
+    "RawText": "바느질 솔기가 옷 맵시에서 어긋나 있어요 품질이 엉망입니다. 빠른배송 감사합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "44",
+    "Word": "10",
+    "RDate": "20211005",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "마감",
+        "SentimentText": "바느질 솔기가 옷 맵시에서 어긋나 있어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 엉망입니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "85262",
+    "RawText": "디자인 너무  별로네요  색상 정말  촌스럽고 무겁습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "32",
+    "Word": "7",
+    "RDate": "20210828",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 너무  별로네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상 정말  촌스럽고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무겁습니다.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "85263",
+    "RawText": "전체적으로 만족하나 길이가 짧은듯...큰 사이즈인데도 기장이ㅜㅜ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "80",
+    "Syllable": "35",
+    "Word": "6",
+    "RDate": "20211004",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "길이",
+        "SentimentText": "길이가 짧은듯...",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "큰 사이즈인데도 기장이ㅜㅜ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "85264",
+    "RawText": "착한가격에 품질도 좋고 빅사이즈라 만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "24",
+    "Word": "5",
+    "RDate": "20210920",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "착한가격에",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "빅사이즈라 만족합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "85266",
+    "RawText": "자주 입는 옷이에요. 계속 기다리고 있었는데 비싼 가격에 나왔지만 바로 주문넣었는데 신랑이 맘에 안들어해서 실망이네요 불편하다네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "72",
+    "Word": "16",
+    "RDate": "20210829",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": " 비싼 가격에 나왔지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "불편하다네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "85272",
+    "RawText": "색감도 좋고 핏도 이쁜데 한참 더울 때  지나 입으면 좋을거예요~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "36",
+    "Word": "10",
+    "RDate": "20210908",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색감도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏도 이쁜데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "한참 더울 때  지나 입으면 좋을거예요~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "85275",
+    "RawText": "남편이  입어보고  너무 편하다네요  여름내내 번갈아가면서 잘 입었읍니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "40",
+    "Word": "8",
+    "RDate": "20211004",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "입어보고  너무 편하다네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "여름내내 번갈아가면서 잘 입었읍니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "85276",
+    "RawText": "방송중 가성비가  좋아보여서 바로구매 했어요~~ 저렴하게 사서 아주 잘 입고있습니다~~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "48",
+    "Word": "10",
+    "RDate": "20211014",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 사서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": " 잘 입고있습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비가 좋아보여서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "85279",
+    "RawText": "구성이 여러가지 색상이라 활용도 좋구요 여기저기 잘어울려서 좋아요 ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "37",
+    "Word": "8",
+    "RDate": "20210902",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성이 여러가지 색상이라 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "활용도 좋구요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "여기저기 잘어울려서 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "85284",
+    "RawText": "원단도 나쁘지 않고 요일별 깔맞춤. 색상도 너무 이뻐요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "30",
+    "Word": "8",
+    "RDate": "20210826",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "원단도 나쁘지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 너무 이뻐요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "요일별 깔맞춤.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "85285",
+    "RawText": "색상도괜찬은데 길이가 좀길다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "15",
+    "Word": "3",
+    "RDate": "20210823",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도괜찬은데 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "길이가 좀길다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "85298",
+    "RawText": "빨강색은 약간 거시기 한데 나머진 만족합니다 가격대비 짱~ 소재는 좀 아쉽네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "43",
+    "Word": "11",
+    "RDate": "20210818",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "빨강색은 약간 거시기 한데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 짱~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재는 좀 아쉽네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "85304",
+    "RawText": "착용감 좋고 신축성좋고 세탁후  옷감이 늘어나지 않아요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "31",
+    "Word": "7",
+    "RDate": "20210813",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": "신축성좋고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "세탁후  옷감이 늘어나지 않아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "85307",
+    "RawText": "품질도 좋고 색상도 맘에 들어요. 자수 새겨진 뒷면 안쪽에 종이 처리는 좀 미흡하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "48",
+    "Word": "13",
+    "RDate": "20210820",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 맘에 들어요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "자수 새겨진 뒷면 안쪽에 종이 처리는 좀 미흡하네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "85318",
+    "RawText": "면이 참 부드럽고 핏도 참 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "18",
+    "Word": "6",
+    "RDate": "20210808",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "면이 참 부드럽고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏도 참 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "85325",
+    "RawText": "색상도 특이하고  가격도 저렴하고 좋아요 ~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "80",
+    "Syllable": "24",
+    "Word": "6",
+    "RDate": "20210810",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 특이하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고 좋아요 ~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "85326",
+    "RawText": "TV 채널을 돌리다 우연찮게 보게 되어 구매 했습니다 무엇보다 저렴한 가격에 , 색상들도 맘에 들었습니다   ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "61",
+    "Word": "15",
+    "RDate": "20210810",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상들도 맘에 들었습니다 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "85330",
+    "RawText": "상품을 방금 받았습니다. 상품디자인은 대체로 만족하는데 흰색 제품 밑단에 뭐가 묻어서 왔네요. 전체 흰색이 아니라서 표백제로 빨 수도 없고 그냥 세제로는 안 지워질 것 같아서 흰색만 교환 요청드렸습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "80",
+    "Syllable": "113",
+    "Word": "28",
+    "RDate": "20210807",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "상품디자인은 대체로 만족하는데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "흰색 제품 밑단에 뭐가 묻어서 왔네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "85332",
+    "RawText": "사이즈도 옷 품질도 괜찮아요 근데 요즘은 너무 더워서 더위 한풀 꺾이면 잘 입을거 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "49",
+    "Word": "14",
+    "RDate": "20210804",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈도 옷 품질도 괜찮아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "옷 품질도 괜찮아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "요즘은 너무 더워서 더위 한풀 꺾이면 잘 입을거 같아요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "85333",
+    "RawText": "기장이 좀 길어요  여름에 입기는 좀 더워요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "80",
+    "Syllable": "24",
+    "Word": "7",
+    "RDate": "20210803",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "길이",
+        "SentimentText": "기장이 좀 길어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": " 여름에 입기는 좀 더워요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "85342",
+    "RawText": "구성이 좋은 편이고 디자인이 깔끔하네요. 하의랑 맞취입기도 좋은 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "90",
+    "Syllable": "42",
+    "Word": "10",
+    "RDate": "20210805",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성이 좋은 편이고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 깔끔하네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "하의랑 맞취입기도 좋은 것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "85348",
+    "RawText": "저렴하게 잘샀어요 편하게 입기에 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "80",
+    "Syllable": "21",
+    "Word": "5",
+    "RDate": "20210805",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘샀어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편하게 입기에 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "85350",
+    "RawText": "색상이 넘  깨끗하고 착용감도 좋네요^^ 감사합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "28",
+    "Word": "6",
+    "RDate": "20210809",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 넘  깨끗하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감도 좋네요^^",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "85352",
+    "RawText": "가성비가   좋아요 더운 여름 매일한벌씩 잘 입겠읍니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "30",
+    "Word": "7",
+    "RDate": "20210807",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비가   좋아요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": " 더운 여름 매일한벌씩 잘 입겠읍니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "85353",
+    "RawText": "디자인이 이뿌고맘에드네요 싸게잘사씁니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "21",
+    "Word": "3",
+    "RDate": "20210803",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 이뿌고맘에드네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸게잘사씁니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "85354",
+    "RawText": "작업복으로 구매했어요. 가격 착하고 옷 디자인이 이쁘네요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "32",
+    "Word": "7",
+    "RDate": "20210809",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 착하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "옷 디자인이 이쁘네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "85377",
+    "RawText": "사이즈 넉넉해요.기계세탁 하면 구김이 너무ㅈ가네요. 품질이 집에서 입어야 할듯",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "43",
+    "Word": "9",
+    "RDate": "20210731",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈 넉넉해요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "기계세탁 하면 구김이 너무ㅈ가네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 집에서 입어야 할듯",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "85383",
+    "RawText": "품질이 너무 맘에 듭니다. 색상, 질감도 좋고 특히 사이즈 스펙이 너무 좋습니다. 추가 구매하고 싶습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "59",
+    "Word": "15",
+    "RDate": "20210727",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 너무 맘에 듭니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상, 질감도 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "질감도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "특히 사이즈 스펙이 너무 좋습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "85404",
+    "RawText": "상품 디자인은 좋습니다. 다만 흰색티가 세로로 주름이 져서  입고다니기에 좀 그렇습니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "80",
+    "Syllable": "48",
+    "Word": "11",
+    "RDate": "20210721",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "상품 디자인은 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "세로로 주름이 져서  입고다니기에 좀 그렇습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "85405",
+    "RawText": "타지에 가있는 아들에게 보내줬어요. 그동안 살이 더 쪘는지 한칫수 큰 것으로 교환을 원해서 교환신청을 했더니 빠른시간내에 맞교환 해주어서 너무 감사했습니다.  저렴한 가격에 만족스런 아들 선물을 할 수 있어서  그 또한 기분이 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "132",
+    "Word": "32",
+    "RDate": "20210711",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": " 살이 더 쪘는지 한칫수 큰 것으로 교환을 원해서",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 만족스런 아들 선물을 할 수 있어서",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "85408",
+    "RawText": "디자인 예쁘고 옷감도 좋아요. 기장이 조금 긴편인듯 합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "32",
+    "Word": "8",
+    "RDate": "20210427",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 예쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "옷감도 좋아요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "기장이 조금 긴편인듯 합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "85409",
+    "RawText": "좋아요 구성도 좋크ㅡ 색감도 좋으네요 굿 추천합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "28",
+    "Word": "7",
+    "RDate": "20210415",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성도 좋크ㅡ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색감도 좋으네요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "85416",
+    "RawText": "옷이 한번  세탁했더니   작아지네요 어느정도야지   세탁망에 넣고했는데도~~아~~ 제발   업체  품질테스트하고   팔아요~~ 열받아   죽겠다~~ OO쇼핑 바이어   품질확인!! 각성좀해야겠다~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "10",
+    "Syllable": "110",
+    "Word": "17",
+    "RDate": "20210528",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "세탁했더니   작아지네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "어느정도야지   세탁망에 넣고했는데도~~아~~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질테스트하고   팔아요~~ 열받아   죽겠다~~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질확인!! 각성좀해야겠다~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "85426",
+    "RawText": "가성비 별로~~!  잘 못산것같아요. 신랑도 디자인 안이쁘다고하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "38",
+    "Word": "7",
+    "RDate": "20210707",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 별로~~! ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 안이쁘다고하네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "85428",
+    "RawText": "색상은 좋고 천은 얇아서 좋은데 사이즈가 색갈별로조금씩 다릅니다  빨간색이 가장 작습니다. 품은 조금 더 컸으면 좋겠고 길이는 조금 짧았으면 좋겠습니다. 다른 사람들의 상품평이 세탁 후 옷이 줄었다고 하니 고민입니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "70",
+    "Syllable": "120",
+    "Word": "29",
+    "RDate": "20210706",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상은 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "천은 얇아서 좋은데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 색갈별로조금씩 다릅니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "빨간색이 가장 작습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "품은 조금 더 컸으면 좋겠고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "길이는 조금 짧았으면 좋겠습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "85458",
+    "RawText": "옷은 구성이 전체적으로 마음에듭니다 품질이 썩 좋지는 않네요. 하얀티경우 라면국물처럼 음식물 묻은자국이있네요.. 누가반품하신걸 넣은건지 찝찝한데 교환하기 귀찮아 그냥 교환신청안했어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "101",
+    "Word": "19",
+    "RDate": "20210417",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "옷은 구성이 전체적으로 마음에듭니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 썩 좋지는 않네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "85464",
+    "RawText": "정사이즈에 원단도 마음에 들어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "17",
+    "Word": "4",
+    "RDate": "20210425",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "정사이즈에",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "원단도 마음에 들어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "85477",
+    "RawText": "옷감좋고 핏감도 좋아요 칼라가 좁아서 여자가 박시하게입어도 어색하지않네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "40",
+    "Word": "8",
+    "RDate": "20210419",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "옷감좋고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏감도 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "칼라가 좁아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "여자가 박시하게입어도 어색하지않네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "85480",
+    "RawText": "아들주려고 샀는데  아들이 색상 모두 맘에  든다네요  모두  핏이  사네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "42",
+    "Word": "10",
+    "RDate": "20210416",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "아들이 색상 모두 맘에  든다네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "모두  핏이  사네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "85488",
+    "RawText": "옷이 디자인이 정말 예뻐요.어제 받았는데 초등아들이 빨간색 등교하며 입고 갔어요 내일은 검정 입겠다며 좋아라 하네요~ 단추를 다 채워도 단정하면서도 목이 전혀 답답하지않게 넉넉한 라인이라 참 맘에 듭니다 단점은 구김이 잘가요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "125",
+    "Word": "30",
+    "RDate": "20210429",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "옷이 디자인이 정말 예뻐요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "단추를 다 채워도 단정하면서도",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 목이 전혀 답답하지않게 넉넉한 라인이라 참 맘에 듭니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "단점은 구김이 잘가요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "85498",
+    "RawText": "색상이 모두  예쁘고 색상이 다양해서 번갈아 가면서 입으면 멋진 매력 즐기겠어요~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "45",
+    "Word": "11",
+    "RDate": "20210424",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 모두  예쁘고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 다양해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "85499",
+    "RawText": "핏이 예뻐요 신랑이 넘 맘에들어 하네요 골프 칠때도 편하고 잘입을것 같네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "41",
+    "Word": "11",
+    "RDate": "20210420",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏이 예뻐요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "골프 칠때도 편하고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "85512",
+    "RawText": "저렴한 가격에 품질 조은제품 감사합니다. 특히 빨간색과 녹색이 맘에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "42",
+    "Word": "10",
+    "RDate": "20210430",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": " 저렴한 가격에 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 품질 조은제품 감사합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "빨간색과 녹색이 맘에 듭니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "85522",
+    "RawText": "컬러도 이뿌고 핏도 좋으네요~이뿌게 잘 입을께요^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "28",
+    "Word": "6",
+    "RDate": "20210616",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "컬러도 이뿌고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏도 좋으네요~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "85529",
+    "RawText": "소재 시원하고 핏도 예뻐요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "14",
+    "Word": "4",
+    "RDate": "20210616",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재 시원하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏도 예뻐요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "85530",
+    "RawText": "남편이 디자인 무난하고 입기 편하다고 매일 입고 출근 해요 담에 다시 나오면 재 구매 예정 할 정도로 강추",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "59",
+    "Word": "18",
+    "RDate": "20210618",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 무난하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "입기 편하다고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "85534",
+    "RawText": "사이즈 딱  맞고 천이 부드럽습니다 면이라 약간은 더운것 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "80",
+    "Syllable": "35",
+    "Word": "9",
+    "RDate": "20210609",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈 딱  맞고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "천이 부드럽습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "면이라 약간은 더운것 같아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "85540",
+    "RawText": "배송도 빠르고 상품이 품질이 너무좋아요. 색상도 5가지라서 저렴한게 옷이 사이즈도 잘 맞고 좋네요~~~^@^ 올 여름 잘 입겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "74",
+    "Word": "17",
+    "RDate": "20210508",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "상품이 품질이 너무좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 5가지라서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한게",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "옷이 사이즈도 잘 맞고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "올 여름 잘 입겠습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "85545",
+    "RawText": "컬러는 예쁜데 세탁하니 주름이 약간지네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "80",
+    "Syllable": "22",
+    "Word": "5",
+    "RDate": "20210618",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "컬러는 예쁜데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "세탁하니 주름이 약간지네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "85555",
+    "RawText": "보통의 피켓티 종류는  소재가  뻣뻣하거나 거칠한 편인데  이 소재는 부드럽고 싸이즈도 정 싸이즈네요~ 가슴둘레 싸이즈표가 좀 크게 나와 걱정했는데 기존의 레귤러핏과 딱 맞는 정 싸이즈네요~ 잘 입겠습니다! ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "116",
+    "Word": "27",
+    "RDate": "20210616",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "이 소재는 부드럽고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": " 싸이즈도 정 싸이즈네요~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "기존의 레귤러핏과 딱 맞는 정 싸이즈네요~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "85583",
+    "RawText": "신랑 여름티로 사줬는데 화면에서도 예뻣는데 직접 받아보니 색상이 더 예뻐요~ 특히 빨간색이 넘넘 예뻐요~~♥♥ 색상별로 특징들이  있어 지루하지않게 올여름내내 입을것같아요~~^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "99",
+    "Word": "20",
+    "RDate": "20210508",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "직접 받아보니 색상이 더 예뻐요~ ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "특히 빨간색이 넘넘 예뻐요~~♥♥ ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상별로 특징들이  있어 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "지루하지않게 올여름내내 입을것같아요~~^^",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "85585",
+    "RawText": "색상 예뻐요~소재도 좋구요 시원하고 부들부들합니다~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "28",
+    "Word": "5",
+    "RDate": "20210506",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상 예뻐요~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재도 좋구요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "시원하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "부들부들합니다~",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "85593",
+    "RawText": "배송 굿 재질 굿 사이즈 굿 칼라 굿 빨간색 디자인 만 쫌;",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "33",
+    "Word": "12",
+    "RDate": "20210510",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질 굿",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈 굿",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "칼라 굿",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "빨간색 디자인 만 쫌;",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "85611",
+    "RawText": "생일선물로 사줬는데 퀄리티도 좋고 디자인도 예쁘네요 소재도 고급져서 잘산것같아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "44",
+    "Word": "9",
+    "RDate": "20210507",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "퀄리티도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 디자인도 예쁘네요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재도 고급져서 잘산것같아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "85615",
+    "RawText": "2번 정도 세탁하고 입어봤는데...쫀쫀 합니다. 그리고 5개 색상 모두, 만족 하는 컬러네요ㅋ  제질도 괜찮고...이만한 가격대비 만족도 최상입니다~^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "85",
+    "Word": "17",
+    "RDate": "20210507",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "신축성",
+        "SentimentText": "2번 정도 세탁하고 입어봤는데...쫀쫀 합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": " 5개 색상 모두, 만족 하는 컬러네요ㅋ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "제질도 괜찮고...",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "이만한 가격대비 만족도 최상입니다~^^",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "85627",
+    "RawText": "아버지가 직접보시더니 구매하고 싶다 하셔서 선물해드렸더니 너무 좋아하시네요.  생각보다 디자인과 색상이 잘나와있어서 좋아요! ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "70",
+    "Word": "13",
+    "RDate": "20210526",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "생각보다 디자인과 색상이 잘나와있어서 좋아요!",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 잘나와있어서 좋아요!",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "85630",
+    "RawText": "소재가 고급스럽고 색상이 예쁘네요 조카 선물로 샀는데 마음에 들었으면 좋겠네요 ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "44",
+    "Word": "10",
+    "RDate": "20210608",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재가 고급스럽고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 예쁘네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "85636",
+    "RawText": "색상도 이쁘고 재질도 맘에들어요 저도구매했는데 맘에들어요ㅎ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "32",
+    "Word": "6",
+    "RDate": "20210526",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 이쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질도 맘에들어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "85637",
+    "RawText": "색깔이좋고착용감이좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "12",
+    "Word": "1",
+    "RDate": "20210415",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색깔이좋고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감이좋아요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "85639",
+    "RawText": "실밥이 너무 정리가 안 되었네요 다른건 디자인이 맘에 들어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "70",
+    "Syllable": "33",
+    "Word": "9",
+    "RDate": "20210420",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "마감",
+        "SentimentText": "실밥이 너무 정리가 안 되었네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 맘에 들어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "85641",
+    "RawText": "생각보다는 얇아요~ 살집 있는 사람은 민망한 부분이 도드라져 보일 수도 있어요ㅠㅠ 이 가격에 5벌 사서 가성비는 좋아요!!",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "80",
+    "Syllable": "68",
+    "Word": "17",
+    "RDate": "20210609",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "생각보다는 얇아요~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "살집 있는 사람은 민망한 부분이 도드라져 보일 수도 있어요ㅠㅠ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "이 가격에 5벌 사서 가성비는 좋아요!!",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "85654",
+    "RawText": "115사이즈 남편사줬는데 ㅡ박시하지않고 이쁘네요ㅡ저렴하게 잘샀어요ㅡ 재질도 빳빳하지않고 부드럽고 좋다네요!",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "59",
+    "Word": "9",
+    "RDate": "20210609",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "핏",
+        "SentimentText": "박시하지않고 이쁘네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘샀어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질도 빳빳하지않고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": " 부드럽고 좋다네요!",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "85657",
+    "RawText": "한개는 사이즈가 넘 차이가 나네요   라벨을 제거 후라서  교환도 못하고... 그래서 별하나 뺐습니다 색상 등 다른건 다 맘에 듭니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "80",
+    "Syllable": "74",
+    "Word": "19",
+    "RDate": "20210603",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "한개는 사이즈가 넘 차이가 나네요 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상 등 다른건 다 맘에 듭니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "85660",
+    "RawText": "옷감 재질이 부드럽고 촉감이 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "20",
+    "Word": "5",
+    "RDate": "20210505",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "옷감 재질이 부드럽고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "촉감이 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "85673",
+    "RawText": "작을줄 알고 한사쥬 크게 구매했더니 커도 너무 크네요 교환안하고 넉넉하게 입겠다네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "46",
+    "Word": "11",
+    "RDate": "20210531",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "작을줄 알고 한사쥬 크게 구매했더니 커도 너무 크네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "교환안하고 넉넉하게 입겠다네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "85681",
+    "RawText": "소재가 만족스럽습니다. 다만  세탁 후 조금 수축한 것 같아 이점이 아쉽습니다. ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "45",
+    "Word": "11",
+    "RDate": "20210622",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재가 만족스럽습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "세탁 후 조금 수축한 것 같아 이점이 아쉽습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "85682",
+    "RawText": "싱품3일만에 배송받아봤어요  동일한사이즈가와야하는데 1개는 크네요 질감은  부드러운데 그중몇개는 질감이  부드럽지 않고  크기도  약간씩다르고  파란색티셔츠가 가장 촉감이 좋고 모두  약간씩다른데  반품하기 귀찮아서 기냥 입으라고 하려구요   그래도 빨간색티셔츠는 색상이 괜찮은거  같아요  한번 손빨래해서  세탁해봤는데  새옷같지 않네요  품질이 저렴한가격 그대로이네요 올  한해 입을정도  인거 같아요 ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "60",
+    "Syllable": "227",
+    "Word": "42",
+    "RDate": "20210521",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "1개는 크네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "질감은  부드러운데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "그중몇개는 질감이  부드럽지 않고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "크기도  약간씩다르고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "파란색티셔츠가 가장 촉감이 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "빨간색티셔츠는 색상이 괜찮은거  같아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "한번 손빨래해서  세탁해봤는데  새옷같지 않네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 저렴한가격 그대로이네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "올  한해 입을정도  인거 같아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "85686",
+    "RawText": "좋은가격에 질좋은 상품을 구매한같아 기분이 좋아요 신랑이 올 여름은 이걸루 딱이라네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "47",
+    "Word": "11",
+    "RDate": "20210620",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은가격에 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "질좋은 상품을 구매한같아 기분이 좋아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "신랑이 올 여름은 이걸루 딱이라네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "85700",
+    "RawText": "너무좋아요~ 잘맞고 색상이 고급지고 저혐히 샀습니다~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "29",
+    "Word": "6",
+    "RDate": "20210509",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "잘맞고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 고급지고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저혐히 샀습니다~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "85724",
+    "RawText": "다른옷들은 세탁해도 괜찮았는데 블랙티는 어깨쪽에 색상 바램이 있는데 교환 되나요?",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "45",
+    "Word": "10",
+    "RDate": "20210704",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "다른옷들은 세탁해도 괜찮았는데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "블랙티는 어깨쪽에 색상 바램이 있는데",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "85740",
+    "RawText": "옷을  세탁했는데  후줄근하고 네이비색상은  완전 쭉 늘어나서 원피스처럼됐네요  네이비색상만 그래요  그나머지 색상은  약간 줄어든  느낌이 있어요 아들이 입을려나  모르겠어요 세탁전과  후가 완전 달라요 좀  후회스럽습니다 저만 그런가요   상품평보고  고민고민하다 구매했는데 구매하고나니 가격도 좀 내려갔네요  속상하네요 ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "182",
+    "Word": "35",
+    "RDate": "20210514",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "옷을  세탁했는데  후줄근하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "네이비색상은  완전 쭉 늘어나서 원피스처럼됐네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "네이비색상만 그래요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "그나머지 색상은  약간 줄어든  느낌이 있어요 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "세탁전과  후가 완전 달라요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "구매하고나니 가격도 좀 내려갔네요  속상하네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "85741",
+    "RawText": "여름용으로 원단이 얇아서 좋아요 사이즈도 잘 맞아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "80",
+    "Syllable": "28",
+    "Word": "7",
+    "RDate": "20210622",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "여름용으로 원단이 얇아서 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈도 잘 맞아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "85750",
+    "RawText": "원단이 진짜 좋아요 싸이즈도 넉넉해어 정말 마음에 쏙 들어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "33",
+    "Word": "9",
+    "RDate": "20210421",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "원단이 진짜 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "싸이즈도 넉넉해어 정말 마음에 쏙 들어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "85760",
+    "RawText": "옷에서 기름냄새가 좀나지만 대체로 디자인은 무난한편이며 재질이 한여름에는 더울듯함",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "80",
+    "Syllable": "45",
+    "Word": "9",
+    "RDate": "20210518",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "냄새",
+        "SentimentText": "기름냄새가 좀나지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 디자인은 무난한편이며",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질이 한여름에는 더울듯함",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "85762",
+    "RawText": "기계 세탁 가능하다고 해서 받자마자 세탁기 돌렸는데 카라 부분도 뒤틀리고 후줄근해짐 온수 사용 안했는데도..세탁망에 넣어서 돌렸는데 컬러도 좀 변한 것 같고...",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "40",
+    "Syllable": "90",
+    "Word": "21",
+    "RDate": "20210517",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "세탁기 돌렸는데 카라 부분도 뒤틀리고 후줄근해짐",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "컬러도 좀 변한 것 같고...",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "85805",
+    "RawText": "아들이 갑자기 살이쩌버려 95입다 이젠 110 입네요. 티브이를 보다 이거다  싶어 큰맘먹고 구매했어요. 더위도 많이 타는 터라 어떨까 싶었는데, 여름에 입기에도  짝좋고, 촉감도 좋고 예민한 피부인데도 맘에 들어 하네요.  무엇보다 고듭져보이는 로고와 픽이 참 좋아요^^/   ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "156",
+    "Word": "35",
+    "RDate": "20210504",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "여름에 입기에도  짝좋고,",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "촉감도 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "예민한 피부인데도 맘에 들어 하네요.  ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "무엇보다 고듭져보이는 로고와 픽이 참 좋아요^^/",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "픽이 참 좋아요^^/",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "85813",
+    "RawText": "유난히 살집이  없어서  레드는  딱히 어울리지 않네요ㅎㅎ 다른 색은 맘에  든다며  잘 입고  다니는 랑입니다 ㅋ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "64",
+    "Word": "16",
+    "RDate": "20210518",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "유난히 살집이  없어서  레드는  딱히 어울리지 않네요ㅎㅎ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "다른 색은 맘에  든다며  잘 입고  다니는 랑입니다 ㅋ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "85825",
+    "RawText": "냄새가 살짝나서  세탁후 대기중입니다. 옷질감이나 색깔 맘에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "38",
+    "Word": "8",
+    "RDate": "20210517",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "냄새",
+        "SentimentText": "냄새가 살짝나서  ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "질감이나 색깔 맘에 듭니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색깔 맘에 듭니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "85826",
+    "RawText": "남편 선물했는데 원단도좋고 색상도 이뻐요 매장보다 싸게사서  좋고  남편도 디자인 이뿌고 편하다며 잘입어주니 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "64",
+    "Word": "14",
+    "RDate": "20210521",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "원단도좋고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 이뻐요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "매장보다 싸게사서  좋고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 이뿌고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편하다며 잘입어주니 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "85827",
+    "RawText": "사이즈 하고 디자인 잘 맞네요~^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "19",
+    "Word": "5",
+    "RDate": "20210413",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈 하고 디자인 잘 맞네요~^^",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 잘 맞네요~^^",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "85831",
+    "RawText": "키 178 cm인 남편에게 사이즈가 너무 잘 맞아요. 오랜만에 품질이 마음에 드는 옷 구매했다고 좋아하네요. 천도 색상도 아주 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "75",
+    "Word": "19",
+    "RDate": "20210413",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "키 178 cm인 남편에게 사이즈가 너무 잘 맞아요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 마음에 드는 옷 구매했다고 좋아하네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "천도 색상도 아주 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 아주 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "85834",
+    "RawText": "사이즈 딱 맞네요. 색감도 예쁘고 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 반팔 티셔츠 5종 + 양말",
+    "ReviewScore": "100",
+    "Syllable": "23",
+    "Word": "6",
+    "RDate": "20210429",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈 딱 맞네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색감도 예쁘고 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]

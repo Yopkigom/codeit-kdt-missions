@@ -1,0 +1,3331 @@
+[
+  {
+    "Index": "108100",
+    "RawText": "색상 예쁘고 시원하고  다~ 좋아요. 그런데, 길이가 너무 길어요...",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 링클프리 셔츠 2종",
+    "ReviewScore": "90",
+    "Syllable": "39",
+    "Word": "9",
+    "RDate": "20200627",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "색상 예쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "시원하고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "길이가 너무 길어요...",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "108101",
+    "RawText": "좋아요 편하게입기좋네요 밑단은 좀길어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 져지 반팔 셔츠 3종",
+    "ReviewScore": "100",
+    "Syllable": "21",
+    "Word": "4",
+    "RDate": "20200717",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편하게입기좋네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "밑단은 좀길어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "108105",
+    "RawText": "다이어트 성공한 남편 선물로 주문했어요 신축성도 좋고  구김도  많이 없고  얼핏보면 셔츠인듯 ㅎ  아이디어상품이네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 져지 반팔 셔츠 3종",
+    "ReviewScore": "100",
+    "Syllable": "65",
+    "Word": "14",
+    "RDate": "20200701",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "신축성",
+        "SentimentText": "신축성도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "구김도  많이 없고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "얼핏보면 셔츠인듯 ㅎ  아이디어상품이네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "108109",
+    "RawText": "남편이 너무좋아해요 핏도 예쁘고  재질도 괜찮아요 셔츠 주문주다고 했을때만 해도 쓸데없는짓 했다고 잔소리 하더니  옷 배송오고 입어보더니 너무 만족해 합니다 저렴한 가격에  매우 잘 샀습니다 올 여름 너무 잘입을 것같아요 가격대비강추입니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 반팔 셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "133",
+    "Word": "31",
+    "RDate": "20200801",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏도 예쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질도 괜찮아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에  매우 잘 샀습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "올 여름 너무 잘입을 것같아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비강추입니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "108112",
+    "RawText": "상품 받아서 전부 다 입어 봤는데 2개는 마음에 들었고 2개는 그냥 그렇네요. 현재입은 옷 재질은 면51%, 펄리에스터 49%네요. 옷감은 그렇게 부드럽지 않은것 같네요. 가격은 1개당 12,250원이니까 그다지 나빠 보이지는 않네요. 가성비 따지면 괜찮은것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 반팔 셔츠 4종",
+    "ReviewScore": "80",
+    "Syllable": "149",
+    "Word": "34",
+    "RDate": "20200724",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "옷감은 그렇게 부드럽지 않은것 같네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 따지면 괜찮은것 같아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "108140",
+    "RawText": "배송은 괜찮았는데 제품 질은 기대이라네요. 일단 와이셔츠의 기본은 카라인데 카라가 너무 힘이 없어요. ㅠㅠ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데일리 반팔셔츠 4종",
+    "ReviewScore": "40",
+    "Syllable": "59",
+    "Word": "14",
+    "RDate": "20200725",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "제품 질은 기대이라네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "와이셔츠의 기본은 카라인데 카라가 너무 힘이 없어요. ㅠㅠ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "108162",
+    "RawText": "와이셔츠  디자인도 깔끔하고 색상도 다양하고 원단도 좋고 특히 신랑이 좋아하는 디자인입니다 추천합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데일리 반팔셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "56",
+    "Word": "12",
+    "RDate": "20200909",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 깔끔하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 다양하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "원단도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "신랑이 좋아하는 디자인입니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "108166",
+    "RawText": "가격이 싸긴 했지만 원단에 신축성도 전혀없어서 활동하면서 입기에는 불편하다고 아들이 한번 입고는 안입네여. 색상은 골고루 들어있어서 괜찮은데. ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 반팔 셔츠 5종",
+    "ReviewScore": "50",
+    "Syllable": "80",
+    "Word": "17",
+    "RDate": "20200930",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 싸긴 했지만 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": "원단에 신축성도 전혀없어서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "활동하면서 입기에는 불편하다고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상은 골고루 들어있어서 괜찮은데.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "아들이 한번 입고는 안입네여",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "108196",
+    "RawText": "구매할땐 모랐는데 받고 보니 주머니가 없는 상품이네요...신랑이 주머니가 없어 좀불편 하다고 해요 여름용 이지만 좀 더운 옷감이고 뻣뻣하구요 구김도 많이 가고... 좀그러네요 색상은 이뻐요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 반팔 셔츠 5종",
+    "ReviewScore": "80",
+    "Syllable": "105",
+    "Word": "24",
+    "RDate": "20200818",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "주머니가 없어 좀불편 하다고 해요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "여름용 이지만 좀 더운 옷감이고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "뻣뻣하구요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "구김도 많이 가고...",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상은 이뻐요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "108209",
+    "RawText": "사이즈도 딱맞구 색상도 괜찬구 딱좋네요 가격대비 싸게싼거같네요 편이입으세요,,잘입을깨요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 반팔 셔츠 5종",
+    "ReviewScore": "100",
+    "Syllable": "48",
+    "Word": "8",
+    "RDate": "20200731",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈도 딱맞구",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 괜찬구",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 싸게싼거같네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "108210",
+    "RawText": "색상도 좋고 사이즈도  잘 맞고 만족합니다  랑이가 매일 갈아입겠다고 하네요~~♡",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 반팔 셔츠 5종",
+    "ReviewScore": "100",
+    "Syllable": "45",
+    "Word": "10",
+    "RDate": "20200729",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈도  잘 맞고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "108214",
+    "RawText": "색상이 다양해서 좋네요. 사이즈는 약간 큰거 같아요. 좀 더 시원한 옷감이면 더 좋았을거 같네요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 반팔 셔츠 5종",
+    "ReviewScore": "100",
+    "Syllable": "54",
+    "Word": "14",
+    "RDate": "20200725",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 다양해서 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈는 약간 큰거 같아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "좀 더 시원한 옷감이면 더 좋았을거 같네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "108216",
+    "RawText": "사이즈가 좀 작네요 제가 타이트하게 옷을 입는 편이라 그냥저냥 입을거 같지만 나머지는 구성이 모두 마음에 드네요 색상도 좋고 옷감도 시원하고 굿!!!",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 반팔 셔츠 5종",
+    "ReviewScore": "100",
+    "Syllable": "83",
+    "Word": "21",
+    "RDate": "20200810",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 좀 작네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "나머지는 구성이 모두 마음에 드네요 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "옷감도 시원하고 굿!!!",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "108222",
+    "RawText": "신랑이 너무 맘에 들어해요 재질도 좋아요~~ 가격이 젤 착하구요 추천함돠~~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 반팔 셔츠 5종",
+    "ReviewScore": "100",
+    "Syllable": "42",
+    "Word": "10",
+    "RDate": "20200805",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질도 좋아요~~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 젤 착하구요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "108232",
+    "RawText": "size 교환요청 했는데 빠르게 처리 해서 오늘 드디어 입어보네요. 시원하고 맵시도 나네요. 가성비 값  강추 임다. 절대  후회 안해요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 반팔 셔츠 5종",
+    "ReviewScore": "100",
+    "Syllable": "76",
+    "Word": "19",
+    "RDate": "20200731",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": " 시원하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "맵시도 나네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 값  강추 임다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "108246",
+    "RawText": "빠른배송과가격에만족합니다.다만카라가 너무 작네요 또한 옷의구김이 너무심해 구제품같은느낌이 듭니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 반팔 셔츠 5종",
+    "ReviewScore": "90",
+    "Syllable": "53",
+    "Word": "8",
+    "RDate": "20200725",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격에만족합니다.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "카라가 너무 작네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "옷의구김이 너무심해 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "구제품같은느낌이 듭니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "108250",
+    "RawText": "잘받았습니다. 가격도 저렴하고 재질도 좋네요~ 여름이라 여러개 있으면 좋을것 같아 구입합니다 ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 반팔 셔츠 5종",
+    "ReviewScore": "80",
+    "Syllable": "52",
+    "Word": "11",
+    "RDate": "20200806",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질도 좋네요~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "108252",
+    "RawText": "5벌이 각기 색상과 디자인이 다르고  예쁘다고 신랑이 좋아하네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 반팔 셔츠 5종",
+    "ReviewScore": "100",
+    "Syllable": "35",
+    "Word": "8",
+    "RDate": "20200824",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "5벌이 각기 색상과 디자인이 다르고  예쁘다고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 다르고  예쁘다고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "108270",
+    "RawText": "색상도 예쁘고 편하다고 하네요ᆢ소매 길이가 조금기네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모 셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "29",
+    "Word": "6",
+    "RDate": "20210105",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 예쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편하다고 하네요ᆢ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "소매 길이가 조금기네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "108284",
+    "RawText": "아버지가 115를 입으시는데 맞는 사이즈의 옷이 별로 없었어요. 그런데 사이즈도 크게 나오고 , 최근 홈쇼핑 구매한것중에 제일 마음에 드네요. 가격대비 질도 좋고 포장도 잘되어 있고 화면에서 보는것보다 디자인이 실제  보는 것이 더 고급스럽고 디자인이 예뻐요. 무엇보다 아버지가 제일 마음에 들어하셔서 더 기분 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모 셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "178",
+    "Word": "43",
+    "RDate": "20201105",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈도 크게 나오고 ,",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격대비 질도 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 실제  보는 것이 더 고급스럽고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "예뻐요.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "108288",
+    "RawText": "한번 세탁으로 이렇게까지 실이 풀리다니... 넘 실망스럽네요ㅠ 이런 저질옷 처음이구요 반품을 하고싶으나 다른옷도 착용을한터라 그냥 교환 부탁드립니다. 다른옷은 세탁후 실이 풀리지는 않으니 아마도 처음부터 바느질이 좀 불량이었겠다는 생각이드네요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모 셔츠 4종",
+    "ReviewScore": "20",
+    "Syllable": "136",
+    "Word": "28",
+    "RDate": "20201107",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "마감",
+        "SentimentText": "한번 세탁으로 이렇게까지 실이 풀리다니... 넘 실망스럽네요ㅠ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 이런 저질옷 처음이구요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "다른옷은 세탁후 실이 풀리지는 않으니",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "처음부터 바느질이 좀 불량이었겠다는 생각이드네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "108290",
+    "RawText": "이상품은 홈쇼핑에서 구입한것중 가장맘에드는 베스트입니다.  진실로~ 110사이즈입는 남편 옷사주기 힘들었는데  배꼽까꿍하는곳에 단추도 추가로 달려있고, 색상도 4컬러모두이쁩니다. 대만족!",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모 셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "104",
+    "Word": "17",
+    "RDate": "20201102",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "배꼽까꿍하는곳에 단추도 추가로 달려있고, ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 4컬러모두이쁩니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "108304",
+    "RawText": "맘에 들어하십니다 재질도 디자인도 색상도 배송도 굿입니다!",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모 셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "32",
+    "Word": "7",
+    "RDate": "20201109",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질도 디자인도 색상도 배송도 굿입니다!",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 색상도 배송도 굿입니다!",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 배송도 굿입니다!",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "108320",
+    "RawText": "두께감은 지금 딱이네요 근데 좀 뻣뻣해요 디자인은 괜찮네요 그래도 4종에 이가격이면 무난하네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모 셔츠 4종",
+    "ReviewScore": "60",
+    "Syllable": "52",
+    "Word": "12",
+    "RDate": "20201109",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "두께감은 지금 딱이네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "좀 뻣뻣해요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인은 괜찮네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "4종에 이가격이면 무난하네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "108325",
+    "RawText": "보통 홈쇼핑에서 세트를 구매하면 반정도는 입고 반정도는 안입게되는데 남편이 색상 다 맘에 안들어하네요. 디자인도 별로에요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모 셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "67",
+    "Word": "15",
+    "RDate": "20201111",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상 다 맘에 안들어하네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 별로에요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "108329",
+    "RawText": "입어보니까 부드러운 촉감에 따뜻하고 사이즈가 딱 맞아서 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모 셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "34",
+    "Word": "8",
+    "RDate": "20201104",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감",
+        "SentimentText": "부드러운 촉감에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 딱 맞아서 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "108334",
+    "RawText": "디자인 색상 넘 맘에 드네요 ~~ 많이 두껍지않고 따뜻하게 잘 입을거같아요 신랑도 좋아하네용^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모 셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "53",
+    "Word": "13",
+    "RDate": "20201029",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 색상 넘 맘에 드네요 ~~ ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상 넘 맘에 드네요 ~~ ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "많이 두껍지않고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻하게 잘 입을거같아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "108335",
+    "RawText": "사이즈 잘맞고  셔츠는 마음에 들어 하시는데  선물용이었는데 단추 하나가  떨어질 듯 아슬하게  달려 있다고 하네요  새 옷인데ㅠ...   배송 전에  검수 잘하고 발송했으면 합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모 셔츠 4종",
+    "ReviewScore": "80",
+    "Syllable": "101",
+    "Word": "23",
+    "RDate": "20201109",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈 잘맞고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "단추 하나가  떨어질 듯 아슬하게  달려 있다고 하네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "108336",
+    "RawText": "원단도 사이즈도 좋아요 하지만,4가지 색 모두 너무 어두운 것 같아요~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모 셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "39",
+    "Word": "10",
+    "RDate": "20201108",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "원단도 사이즈도 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈도 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "4가지 색 모두 너무 어두운 것 같아요~",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "108339",
+    "RawText": "아들이 입어 보고 너무 좋아 하네요.  따뜻하고  색상도 예쁘고  몸에 잘 맞는것 같다고 하네요.  촉감도 부드러워요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모 셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "66",
+    "Word": "16",
+    "RDate": "20201110",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 예쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "몸에 잘 맞는것 같다고 하네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "촉감도 부드러워요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "108341",
+    "RawText": "디자인은 일반핏 색상 무난하고 원단이 보풀이 좀일어날것 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모 셔츠 4종",
+    "ReviewScore": "60",
+    "Syllable": "34",
+    "Word": "8",
+    "RDate": "20201113",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인은 일반핏",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상 무난하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "원단이 보풀이 좀일어날것 같아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "108347",
+    "RawText": "안쪽은 약간 까슬한 감이 없지 않아 있는거 같아요 남편이 맨 살에 입었더니 까슬하데요~ 얇은 티 입고 입으면 될 거 같고  색상이 다 비슷해보여요.. 많이 어둡네요.. 따뜻할거 같긴 해요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모 셔츠 4종",
+    "ReviewScore": "80",
+    "Syllable": "104",
+    "Word": "28",
+    "RDate": "20201106",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "촉감",
+        "SentimentText": "안쪽은 약간 까슬한 감이 없지 않아 있는거 같아요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "남편이 맨 살에 입었더니 까슬하데요~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 다 비슷해보여요..",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "많이 어둡네요..",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻할거 같긴 해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "108364",
+    "RawText": "디자인 색상 제질 다 마음에 들어요 단지 와인색이 올이 나와서 문제였지만 집에서 바늘로 해결했어요 ㅋㅋ  가격이 좀더 착하면 좋겠지만...그래서 마음에 들어요 ㅋ 좋은 상품 주셔서 감사합니다 ^^ 사장님 하시는 일마다 공성명수 하시길 바랍니다 ♥︎",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모 셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "138",
+    "Word": "34",
+    "RDate": "20201111",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 색상 제질 다 마음에 들어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상 제질 다 마음에 들어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "제질 다 마음에 들어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "와인색이 올이 나와서 문제였지만 집에서 바늘로 해결했어요 ㅋㅋ ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 좀더 착하면 좋겠지만...",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "108379",
+    "RawText": "품질, 색상 디자인좋고, 보온성, 세련미까지 다 갖췄네요 남편이 까다로운데 아주 맘에 들어합니다 고맙고 많이 파세요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모 셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "64",
+    "Word": "15",
+    "RDate": "20201105",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질, 색상 디자인좋고,",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상 디자인좋고,",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인좋고, ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "보온성, 세련미까지 다 갖췄네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "세련미까지 다 갖췄네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "108400",
+    "RawText": "이태리 명품 셔츠랑 디자인과 재질이 비슷하네요 저렴하게 잘 구입했어요 라인이 조금만 들어가서 핏 감은 별루지만 편안하게 입기에는 딱 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모 셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "77",
+    "Word": "19",
+    "RDate": "20201110",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "이태리 명품 셔츠랑 디자인과 재질이 비슷하네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": " 재질이 비슷하네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 구입했어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "라인이 조금만 들어가서 핏 감은 별루지만",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편안하게 입기에는 딱 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "108415",
+    "RawText": "좋은 제품을 저렴한 가격에 구입하게 돼 정말 만족합니다. 디자인 색상 다 고급스러워요. 도톰해서 늦가을과 겨울에 다양하게 코디해서 입을 수 있겠네요. 감사합니다!!!",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모 셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "92",
+    "Word": "21",
+    "RDate": "20201031",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 구입하게 돼 정말 만족합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 색상 다 고급스러워요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상 다 고급스러워요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "도톰해서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "늦가을과 겨울에 다양하게 코디해서 입을 수 있겠네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "108441",
+    "RawText": "추운겨울동안 따뜻하게 잘 입었 습니다. 보푸라기가 일어나긴 하지만 가성비 생각하고 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모 셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "52",
+    "Word": "11",
+    "RDate": "20210405",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "추운겨울동안 따뜻하게 잘 입었 습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "보푸라기가 일어나긴 하지만 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 생각하고 만족합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "108442",
+    "RawText": "디자인, 두께, 크기 모두 만족합니다. 올겨울 정장안에 따뜻하게 잘 입을거 같네요.^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모 셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "48",
+    "Word": "11",
+    "RDate": "20201117",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인, 두께, 크기 모두 만족합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "두께, 크기 모두 만족합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "크기 모두 만족합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "올겨울 정장안에 따뜻하게 잘 입을거 같네요.^^",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "108465",
+    "RawText": "바느질 너무 잘되어 있고 색상도 예쁘고  득템이네요 잘입을께요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모 셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "34",
+    "Word": "8",
+    "RDate": "20201124",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "마감",
+        "SentimentText": "바느질 너무 잘되어 있고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 예쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "108466",
+    "RawText": "실밥 처리가 깔금하지는 않지만,그냥저냥 디자인은 입을만 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모 셔츠 4종",
+    "ReviewScore": "80",
+    "Syllable": "35",
+    "Word": "7",
+    "RDate": "20201127",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "마감",
+        "SentimentText": "실밥 처리가 깔금하지는 않지만,",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "그냥저냥 디자인은 입을만 합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "108485",
+    "RawText": "남편이  마음에 들어 하네요.. 저렴한 가격에  잘 구매 했어요. 톡톡해서  겨울  잘  날 수 있겠어요.^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모 셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "61",
+    "Word": "15",
+    "RDate": "20201125",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에  잘 구매 했어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "톡톡해서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": " 겨울  잘  날 수 있겠어요.^^",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "108496",
+    "RawText": "셔츠가 너무 불량이네요  두번 입었는데 이러면 돈이 더 아깝네요  총 4벌인데 다른것도 이렇게 되면 어떡하나요?  피해규정이 있던데 봉제 불량인거 같네요  치리 부탁드립니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모 셔츠 4종",
+    "ReviewScore": "10",
+    "Syllable": "96",
+    "Word": "22",
+    "RDate": "20201123",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "셔츠가 너무 불량이네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "돈이 더 아깝네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "봉제 불량인거 같네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "108497",
+    "RawText": "품질이 그냥 나쁘지 않은 정도입니다.  가격이 싸서  큰 불만 없이  입을 수는 있어요.  좀더 디자인이 고급스러운 것을 원하는 분들에게는 추천드리지 않아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모 셔츠 4종",
+    "ReviewScore": "60",
+    "Syllable": "87",
+    "Word": "21",
+    "RDate": "20201120",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 그냥 나쁘지 않은 정도입니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 싸서  큰 불만 없이  입을 수는 있어요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "좀더 디자인이 고급스러운 것을 원하는 분들에게는 추천드리지 않아요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "108498",
+    "RawText": "평소 95입고 배나와서 티셔츠는 100입을때도 있어서 사이즈고민했는데 95가 너무 잘맞고 편하고  봄가을 겨울까지 따뜻하게 잘입을수 있을것같아요.색깔이나 디자인들도 여러종류라 구성도 좋고 남편이 엄청 만족하네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모 셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "117",
+    "Word": "23",
+    "RDate": "20201120",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈고민했는데 95가 너무 잘맞고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편하고  ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "봄가을 겨울까지 따뜻하게 잘입을수 있을것같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색깔이나 디자인들도 여러종류라 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인들도 여러종류라",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성도 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "108509",
+    "RawText": "맘에들어요 따뜻하고 부드럽고 구김잘 안가고 남편이 좋아하네요~~*",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모 셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "36",
+    "Word": "7",
+    "RDate": "20201128",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "부드럽고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "구김잘 안가고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "108514",
+    "RawText": "기모가 있는 와이셔츠 너무 잘 맞고 따뜻하다고 좋아하네요. 가성비 굿",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모 셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "38",
+    "Word": "10",
+    "RDate": "20201124",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "기모가 있는 와이셔츠",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "너무 잘 맞고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻하다고 좋아하네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 굿",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "108519",
+    "RawText": "색감이 고급지고 촉감도 좋고 따뜻해서 좋다고 신랑이 엄청 좋아합니다  감사합니다^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모 셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "46",
+    "Word": "10",
+    "RDate": "20201123",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색감이 고급지고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "촉감도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻해서 좋다고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "108527",
+    "RawText": "부푸러기가 일어나고 마무리가 잘 안되어 있어 세탁소에 일단 맞게 놓았습니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모 셔츠 4종",
+    "ReviewScore": "50",
+    "Syllable": "41",
+    "Word": "10",
+    "RDate": "20201119",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "부푸러기가 일어나고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": " 마무리가 잘 안되어 있어 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "108531",
+    "RawText": "디자인이 맘에들어 구매했는데, 바느질이 깔금하지 않네요. 실밥들이 너무 많이 붙어있어요. 전부 정리하느라 고생했네요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모 셔츠 4종",
+    "ReviewScore": "70",
+    "Syllable": "65",
+    "Word": "13",
+    "RDate": "20201125",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 맘에들어 구매했는데,",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "바느질이 깔금하지 않네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "실밥들이 너무 많이 붙어있어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "108536",
+    "RawText": "생각보다 두껍지 않고 기모느낌도 없긴한데 핏은 괜찮아요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모 셔츠 4종",
+    "ReviewScore": "80",
+    "Syllable": "31",
+    "Word": "7",
+    "RDate": "20201119",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "생각보다 두껍지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "기모느낌도 없긴한데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏은 괜찮아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "108541",
+    "RawText": "좋은 가격에 잘 구매했습니다. 세탁  시 물도 안빠지고 구김도 적고 색상도 좋아서 아주 맘에 들어합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모 셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "58",
+    "Word": "15",
+    "RDate": "20201205",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 가격에 잘 구매했습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "세탁  시 물도 안빠지고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "구김도 적고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "108565",
+    "RawText": "따듯하게 잘 입기는 하는데... 천이 너무 힘이없고 세탁후 보풀이 많이 생겨... 뒷손질이 만 만 찮네요...",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모 셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "61",
+    "Word": "15",
+    "RDate": "20210303",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "따듯하게 잘 입기는 하는데... ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "천이 너무 힘이없고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "세탁후 보풀이 많이 생겨... 뒷손질이 만 만 찮네요...",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "108566",
+    "RawText": "좋은가격에 잘 구매했습니다. 사이즈 딱맞습니다  스판끼가 없으니 체구있으신분은 한치수 크게사세요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모 셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "53",
+    "Word": "10",
+    "RDate": "20201109",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은가격에 잘 구매했습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈 딱맞습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": "스판끼가 없으니",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "체구있으신분은 한치수 크게사세요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "108570",
+    "RawText": "만족해요~색상도 맘에들고  남편은 앞에 포켓이 없어서  불만이래요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모 셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "36",
+    "Word": "7",
+    "RDate": "20210110",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 맘에들고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "앞에 포켓이 없어서  불만이래요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "108572",
+    "RawText": "색상도 다양하게 준비되어 있어서 정말 좋아요.가격도 마음에 들고 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모 셔츠 4종",
+    "ReviewScore": "70",
+    "Syllable": "39",
+    "Word": "9",
+    "RDate": "20201105",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 다양하게 준비되어 있어서 정말 좋아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 마음에 들고 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "108593",
+    "RawText": "예전에 옷은 구김이 많고 무거워 입기가 불편했는데  옷이 가벼울 뿐만  아니라 구김도 없어 거의 매일 입고 다니고 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 봄 셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "69",
+    "Word": "18",
+    "RDate": "20210825",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "옷이 가벼울 뿐만  아니라 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "구김도 없어 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "108611",
+    "RawText": "사이즈 잘 맞고  디자인도 맘에 들고 착용감 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 봄 셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "28",
+    "Word": "8",
+    "RDate": "20210416",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈 잘 맞고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 맘에 들고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "108618",
+    "RawText": "셔츠가 4종이라 좋아요. 사이즈가 옷마자 조금씩 다른데 자세한 사이즈 안내가 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 봄 셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "48",
+    "Word": "11",
+    "RDate": "20210406",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 옷마자 조금씩 다른데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "셔츠가 4종이라 좋아요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "108623",
+    "RawText": "구김이 덜 간다고 했는데 색상에 따라 다르네요. 거의 구김이 없는 것도 있고 너무 구겨지는 것도있고 색상에따라 만졌을때 촉김도 틀려요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 봄 셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "74",
+    "Word": "19",
+    "RDate": "20210418",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "구김이 덜 간다고 했는데 색상에 따라 다르네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "거의 구김이 없는 것도 있고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "너무 구겨지는 것도있고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "색상에따라 만졌을때 촉김도 틀려요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "108627",
+    "RawText": "소재며 디자인 좋고, 정싸이즈및 섬세하게 복부쪽 작은단추하나까지 신경써 주셔서 남편이 대박 마음에 들어하네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 봄 셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "60",
+    "Word": "13",
+    "RDate": "20210417",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재며 디자인 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "정싸이즈",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "섬세하게 복부쪽 작은단추하나까지 신경써 주셔서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "108632",
+    "RawText": "오랜만에만난 셔츠 덩치가커서 115임에도 불편하고 디자인도 맘에 안듬",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 봄 셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "38",
+    "Word": "8",
+    "RDate": "20210414",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "덩치가커서 115임에도 불편하고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 맘에 안듬",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "108641",
+    "RawText": "이제품 신랑이 보고 너무 마음에 들어하네요ㆍ색상이며 감촉이며 좋다고 다림질해서 바로입고 출근을했네요ㆍ^^강추",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 봄 셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "60",
+    "Word": "11",
+    "RDate": "20210331",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이며 감촉이며 좋다고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "감촉이며 좋다고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "108650",
+    "RawText": "소재편하고,주름잘지지않아편하게잘입고있어요~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 봄 셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "23",
+    "Word": "1",
+    "RDate": "20210327",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재편하고,",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "주름잘지지않아",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편하게잘입고있어요~",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "108652",
+    "RawText": "색상도 선명하고 디자인도 세련되어 입었을때  더 멋져요. 신랑에게 선물했는데 대만족입니다. 다양한 4컬러 모두가 마음에 쏙 들어요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 봄 셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "73",
+    "Word": "16",
+    "RDate": "20210409",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 선명하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 세련되어",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "다양한 4컬러 모두가 마음에 쏙 들어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "108655",
+    "RawText": "가성비도 좋고 촉감도 좋고 구김도 적습니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 봄 셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "23",
+    "Word": "6",
+    "RDate": "20210512",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "촉감도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "구김도 적습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "108659",
+    "RawText": "기성복 105 사이즈 입는데  잘 맞다고 해요 ~~ ㅋㅋ  옷 도착하고 바로 스타일러에 네개 다 넣고  돌리더라고요.  맘에 드나봅니다 ㅎㅎ 가성비 갑이에요 ~~~~~~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 봄 셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "94",
+    "Word": "23",
+    "RDate": "20210312",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "기성복 105 사이즈 입는데  잘 맞다고 해요 ~~ ㅋㅋ ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 갑이에요 ~~~~~~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "108695",
+    "RawText": "천도 괜찮고 흰색은 그냥 드래스셔츠고 체크무늬는 편하게 캐주얼하네요. 남편이 맘에 들어하네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 봄 셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "51",
+    "Word": "11",
+    "RDate": "20210321",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "천도 괜찮고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "체크무늬는 편하게 캐주얼하네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "흰색은 그냥 드래스셔츠고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "108697",
+    "RawText": "100사이즈 남 ᆢ 신랑몸에  마춘듯  딱 좋아요 평소 100사이즈입어요ᆢ 빠른배송좋아요  추천할만한 상품이네요ᆢ 재질도 좋구요~저렴하게  구입했습니다  ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 봄 셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "86",
+    "Word": "15",
+    "RDate": "20210316",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "100사이즈 남 ᆢ 신랑몸에  마춘듯  딱 좋아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질도 좋구요~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게  구입했습니다 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "108717",
+    "RawText": "팔이 좀 긴 느낌인데 전반적으로 재질이나 색상이 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 봄 셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "31",
+    "Word": "8",
+    "RDate": "20210316",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "길이",
+        "SentimentText": "팔이 좀 긴 느낌인데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질이나 색상이 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "108719",
+    "RawText": "다른 색 셔츠는 괜찮은데 화이트는 한 번 입었는데 보풀바로 생김. 품질이 별루",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 봄 셔츠 4종",
+    "ReviewScore": "60",
+    "Syllable": "43",
+    "Word": "12",
+    "RDate": "20210326",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "화이트는 한 번 입었는데 보풀바로 생김.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 별루",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "108722",
+    "RawText": "보통 여러벌 오면 사이즈가 제각각이어서 어이없다 생각하게 되는데 사이즈 일정하고 옷감느낌 좋아요 하지만 여기저기 실밥이 툭툭 ... 싸게 사서 마감이 안좋으려니~생각하고 입습니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 봄 셔츠 4종",
+    "ReviewScore": "80",
+    "Syllable": "99",
+    "Word": "22",
+    "RDate": "20210317",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈 일정하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "옷감느낌 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": " 여기저기 실밥이 툭툭 ...",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 싸게 사서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": " 마감이 안좋으려니~생각하고 입습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "108738",
+    "RawText": "4개 셔츠가 다 원단 섬유함량이 달라서 촉감이 다르고 색만다른 4종류가 아닌 각각 구매한듯 한 거 같아서 좋으네요~~ 오자마자 바로 세탁해서 걸어뒀네요. 주름이 있어서 스팀 해야 깔끔하게 입을거 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 봄 셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "112",
+    "Word": "28",
+    "RDate": "20210412",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "4개 셔츠가 다 원단 섬유함량이 달라서",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": " 색만다른 4종류가 아닌 각각 구매한듯 한 거 같아서 좋으네요~~",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "주름이 있어서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "스팀 해야 깔끔하게 입을거 같아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": " 촉감이 다르고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "108778",
+    "RawText": "남편이색상맘에들어하네요105싸이즈면딱맞는데이상품은약간조이눈편이네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 봄 셔츠 4종",
+    "ReviewScore": "90",
+    "Syllable": "36",
+    "Word": "1",
+    "RDate": "20210408",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "남편이색상맘에들어하네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "105싸이즈면딱맞는데이상품은약간조이눈편이네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "108799",
+    "RawText": "옷깃 카라부분은 다려도 펴지지도않고 쭈글쭈글.. 역시 싼게 비지떡이네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 레이어드 티셔츠 3종",
+    "ReviewScore": "10",
+    "Syllable": "39",
+    "Word": "8",
+    "RDate": "20210330",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "옷깃 카라부분은 다려도 펴지지도않고 쭈글쭈글..",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "역시 싼게 비지떡이네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "108804",
+    "RawText": "가격이 엄청 저렴해서 구매해봤는데 기대이상입니다^^ 깔끔한 디자인이에요~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 레이어드 티셔츠 3종",
+    "ReviewScore": "100",
+    "Syllable": "40",
+    "Word": "7",
+    "RDate": "20211211",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 엄청 저렴해서 구매해봤는데 기대이상입니다^^ ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "깔끔한 디자인이에요~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "108808",
+    "RawText": "편하게 입을라고 한 사이즈 크게 주문했는데 아주 잘 맞네요! 핏좋아요.잘 입겠습니다!!",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 레이어드 티셔츠 3종",
+    "ReviewScore": "100",
+    "Syllable": "48",
+    "Word": "11",
+    "RDate": "20211201",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "편하게 입을라고 한 사이즈 크게 주문했는데 아주 잘 맞네요!",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": " 핏좋아요.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "108809",
+    "RawText": "저렴하고  편하게 입을수 있어서 구매했고  마음에들어요.카라에 흰색부분이  신경쓰이지만 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 레이어드 티셔츠 3종",
+    "ReviewScore": "90",
+    "Syllable": "52",
+    "Word": "9",
+    "RDate": "20211207",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "카라에 흰색부분이  신경쓰이지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "108813",
+    "RawText": "면소재라서 세탁하면 줄어들거생각해서 한사이즈크게 샀어여 칼라 디자인은 맘에듭니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 레이어드 티셔츠 3종",
+    "ReviewScore": "100",
+    "Syllable": "44",
+    "Word": "8",
+    "RDate": "20211128",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "칼라 디자인은 맘에듭니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인은 맘에듭니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "108824",
+    "RawText": "입었을때 목부분이 불편하고 소재가 다림질  해야했어 불편함",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 레이어드 티셔츠 3종",
+    "ReviewScore": "100",
+    "Syllable": "32",
+    "Word": "7",
+    "RDate": "20210924",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "입었을때 목부분이 불편하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재가 다림질  해야했어 불편함",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "108825",
+    "RawText": "남편이 만족스러워하네요 데일리로 입기 편하고 아무 바지에도 잘 어울린다고 합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 레이어드 티셔츠 3종",
+    "ReviewScore": "100",
+    "Syllable": "44",
+    "Word": "10",
+    "RDate": "20210915",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "활용성",
+        "SentimentText": "데일리로 입기 편하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "아무 바지에도 잘 어울린다고 합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "108826",
+    "RawText": "여자꺼 전에 구입하고 남친도 이번에 구입했어요  디자인 색상 모두 마음에 들어서 넘 행복합니다  좋은 상품 착한 가격에 주셔서 감사합니다  사장님 하시는 일마다 공성명수 하시길 바랍니다 ^^♡",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 레이어드 티셔츠 3종",
+    "ReviewScore": "100",
+    "Syllable": "107",
+    "Word": "26",
+    "RDate": "20210924",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 색상 모두 마음에 들어서 넘 행복합니다 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상 모두 마음에 들어서 넘 행복합니다 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 상품 착한 가격에 주셔서 감사합니다 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "108827",
+    "RawText": "우선 추석다가오는데..배송 빨라서 좋았구요! 재질은 그렇게 좋아보이진않습니다. 스타일은 괜찮은거 같아요 사이즈는 딱 맞아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 레이어드 티셔츠 3종",
+    "ReviewScore": "80",
+    "Syllable": "68",
+    "Word": "13",
+    "RDate": "20210918",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질은 그렇게 좋아보이진않습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "스타일은 괜찮은거 같아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈는 딱 맞아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "108830",
+    "RawText": "옷이 너무 예쁘 게 생겨서 구매했는데 가격 디자인  모두 맘에 들어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 레이어드 티셔츠 3종",
+    "ReviewScore": "100",
+    "Syllable": "38",
+    "Word": "11",
+    "RDate": "20210923",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 디자인  모두 맘에 들어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인  모두 맘에 들어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "108831",
+    "RawText": "디자인 색상 모두 맘에 드는데 목부분이 까끌거리다고 하네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 레이어드 티셔츠 3종",
+    "ReviewScore": "50",
+    "Syllable": "32",
+    "Word": "8",
+    "RDate": "20210927",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 색상 모두 맘에 드는데",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상 모두 맘에 드는데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "목부분이 까끌거리다고 하네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "108857",
+    "RawText": "단추부분이 엉성해서 다시 달았어요 그부분만 빼면 괜찮아요~ 색상 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 레이어드 티셔츠 3종",
+    "ReviewScore": "90",
+    "Syllable": "39",
+    "Word": "9",
+    "RDate": "20210322",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "마감",
+        "SentimentText": "단추부분이 엉성해서 다시 달았어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "108885",
+    "RawText": "옷이 편할것 같긴합니다. 소재가 얇구요. 세탁을 해봐야 알겠지만 재질은 썩 좋아보이지 않습니다. 실밥이나 박음질 등 마감이 아쉽습니다.  세탁후 다시 손질을 다 해서 입어야 할것 같네요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 레이어드 티셔츠 3종",
+    "ReviewScore": "80",
+    "Syllable": "104",
+    "Word": "25",
+    "RDate": "20210423",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재가 얇구요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질은 썩 좋아보이지 않습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "실밥이나 박음질 등 마감이 아쉽습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "세탁후 다시 손질을 다 해서 입어야 할것 같네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "옷이 편할것 같긴합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "108897",
+    "RawText": "한치수 크게 교환 했습니다 디자인 멋스럽게 예쁘네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 레이어드 티셔츠 3종",
+    "ReviewScore": "100",
+    "Syllable": "28",
+    "Word": "7",
+    "RDate": "20210617",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "한치수 크게 교환 했습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 멋스럽게 예쁘네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "108905",
+    "RawText": "디자인이 다 마음에들고 편하면서도 갖춰입은것같아서 자주 입을것같네요~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 레이어드 티셔츠 3종",
+    "ReviewScore": "100",
+    "Syllable": "38",
+    "Word": "7",
+    "RDate": "20210504",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 다 마음에들고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편하면서도 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "108933",
+    "RawText": "선물했는데 사이즈가 넉넉하고 디자인 예뻐서 좋아하는데 입고 벗을때 목이 조금 좁아서 입고 벗을때 힘들다하네요~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 레이어드 티셔츠 3종",
+    "ReviewScore": "80",
+    "Syllable": "61",
+    "Word": "14",
+    "RDate": "20210414",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 넉넉하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 예뻐서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "목이 조금 좁아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "입고 벗을때 힘들다하네요~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "108942",
+    "RawText": "잘받았습니다 ㅎ 디자인도 깔끔하고 편하고 좋네요  잘입겠습니다~^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 레이어드 티셔츠 3종",
+    "ReviewScore": "100",
+    "Syllable": "37",
+    "Word": "7",
+    "RDate": "20210325",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 깔끔하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편하고 좋네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "108958",
+    "RawText": "목 들어가는 부분이 좁고, 소매 단추가 너무 넓게 있어서 좀 입으니 분ㄴ편",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 레이어드 티셔츠 3종",
+    "ReviewScore": "50",
+    "Syllable": "41",
+    "Word": "12",
+    "RDate": "20210522",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "목 들어가는 부분이 좁고, ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "소매 단추가 너무 넓게 있어서 좀",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "입으니 분ㄴ편",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "108960",
+    "RawText": "사이즈여유있습니다 보풀일어날일없습니다 세탁후물빠짐없습니다 착용감 편하게입으면서 디자인이 갖춰입은것같습니다 베리굿입니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 레이어드 티셔츠 3종",
+    "ReviewScore": "100",
+    "Syllable": "65",
+    "Word": "8",
+    "RDate": "20210402",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈여유있습니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "보풀일어날일없습니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "세탁후물빠짐없습니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감 편하게입으면서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 갖춰입은것같습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "108966",
+    "RawText": "살짝 작지만..목도 입을때 좁고.. 디자인 예쁘고 요새입기좋은 두께라 잘 입고 있습니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 레이어드 티셔츠 3종",
+    "ReviewScore": "100",
+    "Syllable": "48",
+    "Word": "11",
+    "RDate": "20210407",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "살짝 작지만..",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "목도 입을때 좁고.. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 예쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "요새입기좋은 두께라 잘 입고 있습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "108980",
+    "RawText": "디자인 이쁘고 잘 입겠습니다. 간절기에 입기 좋을듯  합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 레이어드 티셔츠 3종",
+    "ReviewScore": "100",
+    "Syllable": "34",
+    "Word": "8",
+    "RDate": "20210405",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 이쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "간절기에 입기 좋을듯  합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "108981",
+    "RawText": "카라라인이별루입니다! 네이비카라외에작게나와서어딘지모르게어색한모양새네요 네이비체크카라가젤잘핏감좋고나머진별루입니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 레이어드 티셔츠 3종",
+    "ReviewScore": "60",
+    "Syllable": "61",
+    "Word": "3",
+    "RDate": "20210319",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "카라라인이별루입니다!",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "네이비카라외에작게나와서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "네이비체크카라가젤잘핏감좋고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "어딘지모르게어색한모양새네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "108988",
+    "RawText": "남편사줬는데 너무 좋네요 ㅋㅋㅋ  니트인줄알았는데... 니트처럼보이는 부분이 폴로티재질같은거에요~~ 그래서 보풀도 안나고 주름도 잘 안가고 오히려 전 더 낫네요 ㅋㅋㅋ 요즘 이것만 입더라고요 ㅋㅋㅋ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 레이어드 티셔츠 3종",
+    "ReviewScore": "100",
+    "Syllable": "110",
+    "Word": "23",
+    "RDate": "20210410",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "니트처럼보이는 부분이 폴로티재질같은거에요~~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "보풀도 안나고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "주름도 잘 안가고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "108998",
+    "RawText": "가격은 비싼데요  정장안에 입기에는 좀 너무 캐주얼해요  그냥 집에서 입어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 레이어드 티셔츠 3종",
+    "ReviewScore": "60",
+    "Syllable": "42",
+    "Word": "10",
+    "RDate": "20210330",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 비싼데요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "정장안에 입기에는 좀 너무 캐주얼해요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "109026",
+    "RawText": "추운겨울 따뜻하게 잘 입을거 같아요 남편이 맘에든다고 잘 입고 다니네요 가성비 굿",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 웜히트 니트 패키지 3종",
+    "ReviewScore": "100",
+    "Syllable": "45",
+    "Word": "12",
+    "RDate": "20211227",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "추운겨울 따뜻하게 잘 입을거 같아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 굿",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "109031",
+    "RawText": "재질도 맘에들고..디쟌도 괜찬고 좋아보이네요 오후에 남편이 입어보고  후기다시올릴겡요  남편이 맘에든다네요  ..감사요 ㅠ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 웜히트 니트 패키지 3종",
+    "ReviewScore": "100",
+    "Syllable": "68",
+    "Word": "12",
+    "RDate": "20211223",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질도 맘에들고..",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디쟌도 괜찬고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "109039",
+    "RawText": "처음에 다른 니트를 구입했는데 평소입는 사이즈보다 커서 비슷한상품을 찾다가 마음에 들어 구입했는데 남편이 입으니 사이즈가 딱맞아서 넘 좋아합니다. 남편이 입고 나가면 저절로 소개되고 지인들도 구입하게 될거같습니다. 디자인도 예뻐요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 웜히트 니트 패키지 3종",
+    "ReviewScore": "100",
+    "Syllable": "129",
+    "Word": "28",
+    "RDate": "20220302",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 딱맞아서 넘 좋아합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 예뻐요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]

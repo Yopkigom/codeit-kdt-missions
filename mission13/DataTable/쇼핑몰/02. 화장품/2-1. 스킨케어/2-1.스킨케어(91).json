@@ -1,0 +1,3200 @@
+[
+  {
+    "Index": "304808",
+    "RawText": "잘 발리고 촉촉하니 좋아요. 바르고 나면 조금 변화도 있습니다. 만족해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "4",
+    "Syllable": "41",
+    "Word": "10",
+    "RDate": "20220827",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "발림성",
+        "SentimentText": "잘 발리고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하니 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "바르고 나면 조금 변화도 있습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "304824",
+    "RawText": "저번에 한 번 구매해보고 주름 개선에 효과가 있는 것 같아서 재구매 했어요. 용량이 작아서 줄어드는 속도가 너무 빨라서 아껴서 바르는 중입니다.용기가 스틱형이라 바르기 편하고 주름이 아주 조금 사라진 기분이에요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "117",
+    "Word": "29",
+    "RDate": "20220823",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "주름 개선에 효과가 있는 것 같아서 재구매 했어요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "용량이 작아서 줄어드는 속도가 너무 빨라서 아껴서 바르는 중입니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기가 스틱형이라 바르기 편하고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "바르기 편하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "주름이 아주 조금 사라진 기분이에요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "304827",
+    "RawText": "가성비 좋네요 발랐을때 쫀쫀한 느낌이 들고 주름을 덜 생기게 예방해주길 기대해봅니다",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "46",
+    "Word": "11",
+    "RDate": "20220823",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탄력",
+        "SentimentText": "발랐을때 쫀쫀한 느낌이 들고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "주름을 덜 생기게 예방해주길 기대해봅니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "304830",
+    "RawText": "ㅇㅇㅇ 촉촉하고 좋아요 밤에 바르고 자면 아침까지 피부가 촉촉함이 남아 있어 좋습니다 주름까지 개선해 준다고 하니 꾸준히 써서 효과 보려고요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "4",
+    "Syllable": "78",
+    "Word": "20",
+    "RDate": "20220822",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "ㅇㅇㅇ 촉촉하고 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "밤에 바르고 자면 아침까지 피부가 촉촉함이 남아 있어 좋습니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉함이 남아 있어 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "주름까지 개선해 준다고 하니 꾸준히 써서 효과 보려고요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "304844",
+    "RawText": "가격도 저렴하고 꼭 필요한 단품으로 구매할수 있어서 너무 좋습니다. 다 사용하면 재구매 하려구요 꾸준히 사용해서 주름에 효과 있으면 좋겠어요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "4",
+    "Syllable": "78",
+    "Word": "19",
+    "RDate": "20220820",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "꾸준히 사용해서 주름에 효과 있으면 좋겠어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "304859",
+    "RawText": "눈가 건조할때  가볍게 발라주고 있습니다. 휴대도 편하고 발림성도 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "41",
+    "Word": "9",
+    "RDate": "20220817",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "눈가 건조할때  가볍게 발라주고 있습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": " 휴대도 편하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성도 좋네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "304862",
+    "RawText": "이마 주름 관리용으로 쓰고 있습니다. 번들거려서 얼굴 전체에 바르진 않고 스패출러로 떠서 이마 스팟 관리만 하고 있어요. 비싸기도 하고 양도 너무 적은데 이만한 제품은 없습니다. PPL 그만하고 제품 가격이나 내려주길 바래요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "126",
+    "Word": "31",
+    "RDate": "20220816",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "번들거려서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "비싸기도 하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "양도 너무 적은데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "제품 가격이나 내려주길 바래요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "304871",
+    "RawText": "건조한 눈가나 입 주변 팔자주름 부위에 발라주면 촉촉하고 좋습니다. 립밤 대용으로 사용하기 좋아서 취침 전에 충분히 발라주면 아침까지 촉촉함이 유지되네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "86",
+    "Word": "20",
+    "RDate": "20220812",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "건조한 눈가나 입 주변 팔자주름 부위에 발라주면 촉촉하고 좋습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하고 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "취침 전에 충분히 발라주면 아침까지 촉촉함이 유지되네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉함이 유지되네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "304877",
+    "RawText": "촉촉하고 피부에 닿는 사용감이 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "4",
+    "Syllable": "22",
+    "Word": "5",
+    "RDate": "20220811",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용감",
+        "SentimentText": "피부에 닿는 사용감이 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "304895",
+    "RawText": "주름진 곳에 바르니 건조함이 없어져서 주름이 덜 생깁니다. 꾸준히 사용하고 재구매 생각해보겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "12",
+    "RDate": "20220808",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "건조함이 없어져서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "주름이 덜 생깁니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "304901",
+    "RawText": "얼굴에 수분이 촉촉하여 주름예방에 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "23",
+    "Word": "5",
+    "RDate": "20220806",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "수분이 촉촉하여",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "주름예방에 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "304931",
+    "RawText": "시중에서 사면 좀 비싸던데 여기서 할인받아서 저렴하게 구매해요. 신경 쓰이는 눈가주름, 팔자주름, 목주름 등에 꾸준히 발라 주면 촉촉하고 반짝반짝 윤이 납니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "4",
+    "Syllable": "89",
+    "Word": "21",
+    "RDate": "20220728",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "여기서 할인받아서 저렴하게 구매해요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "눈가주름, 팔자주름, 목주름 등에 꾸준히 발라 주면 촉촉하고",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "반짝반짝 윤이 납니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "시중에서 사면 좀 비싸던데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "304945",
+    "RawText": "홈쇼핑에서 불필요한 것까지 구매했었는데 저렴한 가격에 구입하게 되서 좋아요 눈가 목 이마에 꾸준히 사용해서 주름 개선 효과 기대해봅니다",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "18",
+    "RDate": "20220726",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 구입하게 되서 좋아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "눈가 목 이마에 꾸준히 사용해서 주름 개선 효과 기대해봅니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "304947",
+    "RawText": "발림성이 바세린 바르는 느낌이네요. 번들거립니다. 좋다니 효과를 기대하며 꾸준히 써봐야겠지요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "4",
+    "Syllable": "52",
+    "Word": "10",
+    "RDate": "20220726",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성이 바세린 바르는 느낌이네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "번들거립니다. ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "좋다니 효과를 기대하며 꾸준히 써봐야겠지요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "304948",
+    "RawText": "선물하기 좋아서 구매하고 있습니다. 가격이 저렴해 선물하기에 좋습니다. 아직 주름 개선 효과는 잘 모르겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "14",
+    "RDate": "20220726",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴해",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "아직 주름 개선 효과는 잘 모르겠네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "304949",
+    "RawText": "촉촉하기 보단 번들거리는게 맞는 것 같습니다. 스며들지 않고 베개에 다 묻어나네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "3",
+    "Syllable": "46",
+    "Word": "11",
+    "RDate": "20220725",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "촉촉하기 보단 번들거리는게 맞는 것 같습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "스며들지 않고 베개에 다 묻어나네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "304951",
+    "RawText": "촉촉하고 피부가 젊게 좋아진 느낌입니다. 바른 효과가 있기를 바랍니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "39",
+    "Word": "9",
+    "RDate": "20220725",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "피부가 젊게 좋아진 느낌입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "바른 효과가 있기를 바랍니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "304962",
+    "RawText": "좋은 품질의 제품을 착한가격에 구매했어요 용량이 작아서 아쉽네요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "35",
+    "Word": "8",
+    "RDate": "20220721",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "좋은 품질의 제품을 착한가격에 구매했어요 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "착한가격에 구매했어요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "용량이 작아서 아쉽네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "304969",
+    "RawText": "효과가 좋은지는 잘 모르겠어요. 주로 입술에 바르는데 촉촉함이 오래가진 않네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "4",
+    "Syllable": "44",
+    "Word": "10",
+    "RDate": "20220720",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과가 좋은지는 잘 모르겠어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉함이 오래가진 않네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "오래가진 않네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "304976",
+    "RawText": "건조하고 얼굴 땡겨서 샀는데요. 저렴하게 샀습니다.배송빨라요. 유통기한도 기네요. 처음 쓰는데 ㅇㅇㅇ밤보다 발림성이 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "13",
+    "RDate": "20220719",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 샀습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한도 기네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "ㅇㅇㅇ밤보다 발림성이 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "304980",
+    "RawText": "촉촉함이 오래가고 피부에도 좋고 사용하기도 편합니다. 누구나 부담없이 사용하기 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "49",
+    "Word": "10",
+    "RDate": "20220719",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉함이 오래가고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "오래가고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "피부에도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기도 편합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "304991",
+    "RawText": "발림성이 좋네요. 바세린 같은 꾸덕한제형이라 끈적임은 있네요.  가격이 차이가 많이 나네요. 잘 서치해보면 저렴하게 구입가능해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "4",
+    "Syllable": "72",
+    "Word": "15",
+    "RDate": "20220716",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성이 좋네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "바세린 같은 꾸덕한제형이라 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "끈적임은 있네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 잘 서치해보면 저렴하게 구입가능해요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "304997",
+    "RawText": "주위에서 다 쓰고 있어서 구매했습니다. 촉촉하고 주름에 효과있는 듯합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "41",
+    "Word": "9",
+    "RDate": "20220714",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "주름에 효과있는 듯합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "304998",
+    "RawText": "꾸준히 쓰니까 서서히 효과가 보입니다. 꾸준히 써야 주름 개선 효과를 볼 수 있을 것 같네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "52",
+    "Word": "15",
+    "RDate": "20220714",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "서서히 효과가 보입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "꾸준히 써야 주름 개선 효과를 볼 수 있을 것 같네요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "304999",
+    "RawText": "눈가와 이마, 미간, 입술, 목 부위에 항상 사용합니다. 과하게 번들거리지 않으면서 촉촉해서 사용하기 좋습니다. 다 사용할 때 용기에 남은 것을 사용하는 것이 개선되었으면 좋겠네요. 사은구성품 챙겨주셔서 감사하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "120",
+    "Word": "27",
+    "RDate": "20220714",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "과하게 번들거리지 않으면서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉해서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "다 사용할 때 용기에 남은 것을 사용하는 것이 개선되었으면 좋겠네요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은구성품 챙겨주셔서 감사하네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "305002",
+    "RawText": "목주름 신경 쓰여서 꾸준히 써보려고 합니다 끈적임없고 사용하기 간편해서 수시로 사용하고 있네요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "52",
+    "Word": "12",
+    "RDate": "20220714",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "끈적임없고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기 간편해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "305006",
+    "RawText": "얼굴에 윤기를 주고 촉촉함을 향상 시킵니다 주름 개선에 효과가 있는 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "45",
+    "Word": "12",
+    "RDate": "20220713",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "얼굴에 윤기를 주고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉함을 향상 시킵니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "주름 개선에 효과가 있는 것 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "305010",
+    "RawText": "멀티밤중에서 ㅇㅇㅇ가 제 얼굴에 잘 맞아요 건조함 끈적임도 없어요 매트하지도 않아서 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "53",
+    "Word": "12",
+    "RDate": "20220713",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "ㅇㅇㅇ가 제 얼굴에 잘 맞아요 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "건조함 끈적임도 없어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "끈적임도 없어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "매트하지도 않아서 만족합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "305013",
+    "RawText": "배송 빠르고 가성비 짱입니다. 보습력 아주 좋습니다. 바르는 순간 주름이 쫙 펴지는 느낌이네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "53",
+    "Word": "13",
+    "RDate": "20220712",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 짱입니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "보습력 아주 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "바르는 순간 주름이 쫙 펴지는 느낌이네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "305019",
+    "RawText": "더워도 피부 관리를 위해 선물로 구매했습니다. 쿠폰 사용해서 저렴한 가격에 구입했습니다. 사용해보니 제형이 약간 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "15",
+    "RDate": "20220712",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰 사용해서 저렴한 가격에 구입했습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 약간 아쉽네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "305021",
+    "RawText": "바른지 10개월 정도 되었습니다. 효과는 별로입니다. 눈가 팔자 목 주위 수시로 바르고 있어요. 일 년은 발라보라 해서 효과를 기대하며 꾸준하게 바르고 있습니다. 박스 상태가 엉망이네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "4",
+    "Syllable": "104",
+    "Word": "25",
+    "RDate": "20220712",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과는 별로입니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과를 기대하며 꾸준하게 바르고 있습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "305026",
+    "RawText": "가격이 저렴해서 좋아요. 구성품인 오일은 좋은데, OO밤 양은 적은 듯합니다. 배송은 빠르게 도착했어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "13",
+    "RDate": "20220710",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴해서 좋아요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성품인 오일은 좋은데, ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "OO밤 양은 적은 듯합니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "305053",
+    "RawText": "얼굴이 항상 유분기가 있어보여서 좋네요.  입 옆쪽 볼이 화장이 들뜨는데 화장 후에 쿠션이 밀리지 않을 정도로 슥 발라놓으면 화장뭉침 없이 가라앉아서 넘 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "90",
+    "Word": "23",
+    "RDate": "20220706",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "얼굴이 항상 유분기가 있어보여서 좋네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "슥 발라놓으면 화장뭉침 없이 가라앉아서 넘 좋아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "305068",
+    "RawText": "배송 빠르고 좋네요 지인분들 선물로 하나씩 드렸더니 다들 너무 좋아하세요 TV에서 많이 본거라면서요 좋은 품질의 제품입니다 착한가격에 감사드려요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "80",
+    "Word": "18",
+    "RDate": "20220705",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "좋은 품질의 제품입니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "착한가격에 감사드려요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "305083",
+    "RawText": "세수하고 눈가 이마를 발랐는데 바른 부분이 반질거려요. 기초를 바르고 덧바르면 잘 스며드는 듯합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "4",
+    "Syllable": "56",
+    "Word": "13",
+    "RDate": "20220702",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "바른 부분이 반질거려요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "잘 스며드는 듯합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "305111",
+    "RawText": "용기가 불편해 잘 안 써집니다. 눈에 들어가면 따갑습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "32",
+    "Word": "8",
+    "RDate": "20220628",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "용기가 불편해 잘 안 써집니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "눈에 들어가면 따갑습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "305137",
+    "RawText": "유통기한은 25년 3월로 넉넉하네요. 두번 발라봐서 아직 효과는 모르겠네요. 한 통 다 써보고 재구매 할 수도 있을 것 같습니다. 싸게 잘 샀습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "83",
+    "Word": "22",
+    "RDate": "20220624",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한은 25년 3월로 넉넉하네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "두번 발라봐서 아직 효과는 모르겠네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸게 잘 샀습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "305149",
+    "RawText": "그전에 구매해서 얼굴에 발라보니 촉촉하니 좋다고 하고 또 구매해 주라고하네요 항상 ㅇㅇㅇ만 효과있다고 사용하네요. 또 구매할께요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "16",
+    "RDate": "20220622",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": " 촉촉하니 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "항상 ㅇㅇㅇ만 효과있다고 사용하네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "305161",
+    "RawText": "가격이 저렴하면 좋겠어요. 쓰기 편하고 주름 개선에 도움이 될 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "4",
+    "Syllable": "42",
+    "Word": "11",
+    "RDate": "20220621",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴하면 좋겠어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "쓰기 편하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "주름 개선에 도움이 될 것 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "305178",
+    "RawText": "향이 좋습니다 저녁에 바르고 자면 흡수가 잘 되는 것 같습니다",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "4",
+    "Syllable": "34",
+    "Word": "10",
+    "RDate": "20220619",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "흡수가 잘 되는 것 같습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "305205",
+    "RawText": "좀 끈적임이 있네요. 간편함은 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "3",
+    "Syllable": "22",
+    "Word": "5",
+    "RDate": "20220615",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "좀 끈적임이 있네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "간편함은 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "305214",
+    "RawText": "다 써서 다시 구매해요. 주름 관리용이라 그런지 제형이 찐득한 편인데 시간이 지나면 흡수가 됩니다. 여러개 구매했는데, 샘플로 작은ㅇㅇㅇ 보내 주셨네요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "84",
+    "Word": "20",
+    "RDate": "20220614",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 찐득한 편인데 시간이 지나면 흡수가 됩니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "시간이 지나면 흡수가 됩니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "샘플로 작은ㅇㅇㅇ 보내 주셨네요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "305223",
+    "RawText": "효과가 좋다네요. 광고 그대로의 효과라고 합니다. 제가 볼 때에는 효과가 있어 보이지는 않습니다. 저와 다른 느낌을 받았나봅니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "17",
+    "RDate": "20220613",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과가 좋다네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "광고 그대로의 효과라고 합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "제가 볼 때에는 효과가 있어 보이지는 않습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "305224",
+    "RawText": "선물 받아서 써보니 좋아요. 처음에는 번들거리지만 조금 지나면 잘 흡수되어 자연스럽습니다. 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "12",
+    "RDate": "20220613",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "처음에는 번들거리지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "조금 지나면 잘 흡수되어 자연스럽습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "305229",
+    "RawText": "향이 좀 별로입니다 촉촉하고 발림성도 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "4",
+    "Syllable": "25",
+    "Word": "6",
+    "RDate": "20220612",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 좀 별로입니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성도 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "305242",
+    "RawText": "주름 개선 되는 것 같아 꾸준히 사용합니다. 가격이 조금만 저렴했으면 좋겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "44",
+    "Word": "11",
+    "RDate": "20220611",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "주름 개선 되는 것 같아",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 조금만 저렴했으면 좋겠네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "305246",
+    "RawText": "촉촉하니, 유분도 적당이 있어서 좋습니다. 사용하기는 편한데, 주름 개선은 효과는 무난한 듯합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "12",
+    "RDate": "20220610",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하니, ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "유분도 적당이 있어서 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기는 편한데,",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "주름 개선은 효과는 무난한 듯합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "305256",
+    "RawText": "얼굴이 건조하고 트러블이 있는데 효과가 좋습니다. 바르는 즉시 촉촉하고 물광 느낌이 납니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "51",
+    "Word": "12",
+    "RDate": "20220609",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "얼굴이 건조하고 트러블이 있는데 효과가 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": " 촉촉하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "물광 느낌이 납니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "305278",
+    "RawText": "스틱 제품이라 사용하기 간편합니다. 배송도 빠르고 잘 받았습니다. 다만 양이 좀 적어 헤프네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "53",
+    "Word": "13",
+    "RDate": "20220608",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "스틱 제품이라 사용하기 간편합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "양이 좀 적어 헤프네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "305300",
+    "RawText": "촉촉하고 좋아서 선물하려고 샀습니다. 저렴하게 잘 샀습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "33",
+    "Word": "7",
+    "RDate": "20220606",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하고 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 샀습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "305305",
+    "RawText": "사용하기 간편해서 피부 여기저기에 바를 수 있어요 가격만 조금 더 저렴했으면 좋겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "48",
+    "Word": "12",
+    "RDate": "20220605",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기 간편해서 피부 여기저기에 바를 수 있어요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격만 조금 더 저렴했으면 좋겠네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "305315",
+    "RawText": "광고가 자주 나와 뭔가 궁금해서 샀는데 써보니 좋습니다. 가격에 대비 양이 작아요 주름에 효과가 있는지는 아직 잘 모르겠지만 꾸준히 쓰다보면 효과가 좋아지겠지 하는 마음으로 사용하고 있습니다",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "106",
+    "Word": "26",
+    "RDate": "20220604",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용량",
+        "SentimentText": "가격에 대비 양이 작아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "주름에 효과가 있는지는 아직 잘 모르겠지만",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "꾸준히 쓰다보면 효과가 좋아지겠지 하는 마음으로 사용하고 있습니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "305318",
+    "RawText": "발라보니 기름이 많네요. 여름이라 땀도 더 나고 효과도 잘 모르겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "3",
+    "Syllable": "39",
+    "Word": "10",
+    "RDate": "20220604",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "발라보니 기름이 많네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "여름이라 땀도 더 나고 효과도 잘 모르겠네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "305322",
+    "RawText": "배송 빠르고 제품품질은 좋은것 같습니다. 제품 유효기간이 얼마 남지 않아서 빨리 사용해야 좋을 것 같습니다. 효과는 있는 것 같네요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "19",
+    "RDate": "20220603",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "제품품질은 좋은것 같습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "제품 유효기간이 얼마 남지 않아서 빨리 사용해야 좋을 것 같습니다",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과는 있는 것 같네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "305323",
+    "RawText": "처음 사용중이예요. ㅇㅇㅇ밤 미백 효과 좋네요 약간의 피부 자극이 있습니다 양이 적어서 아껴서 발라야겠어요 가격도 비싸요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "4",
+    "Syllable": "67",
+    "Word": "16",
+    "RDate": "20220603",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "ㅇㅇㅇ밤 미백 효과 좋네요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "약간의 피부 자극이 있습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "양이 적어서 아껴서 발라야겠어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 비싸요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "305330",
+    "RawText": "리뷰 한번 지워져서 다시 써요 배송 빨리 왔네요 고맙습니다 기름지니까 건조하신 분들은 강추하지만 지성피부신 분들은 비추입니다. 향이 좋고 용기가 귀여운데 용량이 많이 작아요. 선물용으로 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "4",
+    "Syllable": "108",
+    "Word": "25",
+    "RDate": "20220602",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "기름지니까",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "건조하신 분들은 강추하지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "피부타입",
+        "SentimentText": "지성피부신 분들은 비추입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기가 귀여운데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "용량이 많이 작아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "305345",
+    "RawText": "촉촉해서 좋네요. 유효기간도 2025년 7월까지라 넉넉하니 좋습니다. 앞으로도 이 제품 잘 쓸 듯합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "13",
+    "RDate": "20220601",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉해서 좋네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유효기간도 2025년 7월까지라 넉넉하니 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "305351",
+    "RawText": "OO만 사용하게 됩니다. 눈가나 입가 건조할 때마다 바르고 있는데 당기지 않습니다. 이 외 효과는 잘 모르겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "16",
+    "RDate": "20220601",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "당기지 않습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "이 외 효과는 잘 모르겠네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "305356",
+    "RawText": "촉촉하니 좋긴한데, 너무 금방 사용하기도 하지만 양이 적어 아쉽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "39",
+    "Word": "9",
+    "RDate": "20220531",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하니 좋긴한데, ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "양이 적어 아쉽습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "305379",
+    "RawText": "제형이 밤 형태라 촉촉하고 좋은데,매일쓰다보니  양이 적어서 아쉽습니다. 금방 쓰네요 양이 좀 아쉽네요. 그래도 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "4",
+    "Syllable": "69",
+    "Word": "15",
+    "RDate": "20220528",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하고 좋은데, ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "양이 적어서 아쉽습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 밤 형태라",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "양이 좀 아쉽네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "305380",
+    "RawText": "얼굴톤이 전체전으로 밝아진 느낌이 듭니다. 기미가 조금 옅어진 느낌이랄까요. 촉촉함이 상당히 오래 지속되네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "4",
+    "Syllable": "61",
+    "Word": "13",
+    "RDate": "20220528",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "얼굴톤이 전체전으로 밝아진 느낌이 듭니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "기미가 조금 옅어진 느낌이랄까요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉함이 상당히 오래 지속되네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "상당히 오래 지속되네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "305387",
+    "RawText": "ㅇㅇㅇ ㅇㅇ 멀티밤스틱 아내에게 생일선물로 처음 구입했어요 품질은 아직 모르겠어요 가격은 괜찮습니다. 포장까지 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "14",
+    "RDate": "20220528",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질은 아직 모르겠어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 괜찮습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "305403",
+    "RawText": "빠른 배송 감사해요. 유명해서 써 보게 되었어요.신랑이 선물해줘서 기분이 좋습니다.티비에서 볼때 멀티밤 바르는 순간 광대쪽에서 빛이 나보였어요.ㅇㅇㅇ 바르고 물광피부가 되면 좋겠어요. 주름관리로 꾸준히 잘써서 효과 기대합니다. 용량이 작은데 가격이 더 저렴하면 좋겠어요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "150",
+    "Word": "32",
+    "RDate": "20220527",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "주름관리로 꾸준히 잘써서 효과 기대합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "용량이 작은데 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 더 저렴하면 좋겠어요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "305407",
+    "RawText": "한 통 쓰고 두 번째입니다. 겨울에 건조한 얼굴에 바르니 주름이 덜생기는 기분이에요. 용량이 작아서 금세 다 써요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "17",
+    "RDate": "20220527",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "겨울에 건조한 얼굴에 바르니 주름이 덜생기는 기분이에요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "용량이 작아서 금세 다 써요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "305417",
+    "RawText": "바르면 끈적임이 있긴 한데 건성 피부에는 촉촉해서 사용하기 좋네요 꾸준히 사용해서 주름에 효과 있으면 좋겠어요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "15",
+    "RDate": "20220527",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "바르면 끈적임이 있긴 한데 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "피부타입",
+        "SentimentText": "건성 피부에는 촉촉해서 사용하기 좋네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉해서 사용하기 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "꾸준히 사용해서 주름에 효과 있으면 좋겠어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "305438",
+    "RawText": "발림성이 좋아요. 화장 안 한 날 사용하면 좋을듯 해요. 건조하지않아서요. 스틱형으로 되어 있어 바르기 편하답니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "4",
+    "Syllable": "64",
+    "Word": "15",
+    "RDate": "20220526",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성이 좋아요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "스틱형으로 되어 있어 바르기 편하답니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "화장 안 한 날 사용하면 좋을듯 해요. 건조하지않아서요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "305451",
+    "RawText": "휴대하기 좋아 수시로 바르기 편해요. 썬블럭 기능이 있어 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "36",
+    "Word": "9",
+    "RDate": "20220525",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "휴대하기 좋아 수시로 바르기 편해요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "썬블럭 기능이 있어 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "305453",
+    "RawText": "심한 건성피부인데 탄력도 생기고, 주름도 잘 안 생기는 것 같습니다. 피부 광택은 심하긴 하지만, 광택이 하루 넘게 지속되네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "18",
+    "RDate": "20220525",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "피부타입",
+        "SentimentText": "심한 건성피부인데 탄력도 생기고, 주름도 잘 안 생기는 것 같습니다. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탄력",
+        "SentimentText": "탄력도 생기고, ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "주름도 잘 안 생기는 것 같습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "피부 광택은 심하긴 하지만, ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "광택이 하루 넘게 지속되네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "305458",
+    "RawText": "향이 좋은 느낌은 아닙니다 확실히 촉촉합니다 워낙 얼굴에 반질반질하게 바르는 걸 좋아하기에 저는 마음에 듭니다",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "15",
+    "RDate": "20220525",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 좋은 느낌은 아닙니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "확실히 촉촉합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "305469",
+    "RawText": "꾸준히 바르고 효과 기대하고 있습니다. 촉촉하기도 하고, 링클에는 도움이 되는지 아직 모르겠어요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "53",
+    "Word": "12",
+    "RDate": "20220525",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "꾸준히 바르고 효과 기대하고 있습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하기도 하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "링클에는 도움이 되는지 아직 모르겠어요 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "305486",
+    "RawText": "입소문이 자자해서 요즘 미백이랑 팔자주름 신경 쓰여 구매했네요 유통기한 넉넉하구요 용기가 작아서 휴대하기 편하고 사용하기 간편하네요 미백이랑 팔자주름에 효과 있으면 좋겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "97",
+    "Word": "21",
+    "RDate": "20220524",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한 넉넉하구요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기가 작아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "휴대하기 편하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기 간편하네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "미백이랑 팔자주름에 효과 있으면 좋겠어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": " 팔자주름에 효과 있으면 좋겠어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "305488",
+    "RawText": "그냥 그렇네요. 티브이에서는 빛이 나고 하는데 피부톤의 차이가 없네요. 건조한 게 덜한 건지도 잘 모르겠습니다. 일단 구매했으니 잘 사용해 볼게요. 재구매 의사는 없습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "96",
+    "Word": "23",
+    "RDate": "20220524",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "피부톤의 차이가 없네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "건조한 게 덜한 건지도 잘 모르겠습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "305506",
+    "RawText": "용량 대비 가격이 비싸요 사용하기 편해서 좋습니다. 가격을 낮추거나 용량을 늘리면 좋겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "4",
+    "Syllable": "51",
+    "Word": "12",
+    "RDate": "20220524",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "용량 대비 가격이 비싸요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기 편해서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격을 낮추거나",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "용량을 늘리면 좋겠어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "305517",
+    "RawText": "꾸준히 사용 중이에요. 바르면 일단 유분기가 있어서 촉촉해집니다. 근데 화장하고 바르면 화장이 뭉치네요. 밤에 잘 때만 바르고 있어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "18",
+    "RDate": "20220523",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "유분기가 있어서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉해집니다. ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "화장하고 바르면 화장이 뭉치네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "305536",
+    "RawText": "OOO OO 밤 얼굴을 포함하여 목 등 건조한 부분에 사용하면 촉촉하고 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "44",
+    "Word": "12",
+    "RDate": "20220521",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "건조한 부분에 사용하면 촉촉하고 좋아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하고 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "305537",
+    "RawText": "두개째 구매인데 정말 양은 적네요. 대용량도 나왔으면 좋겠어요. 눈가에 쓱바르면 다음날 아침까지 반질반질해요. 목부분 주름은 효과를 모르겠고 입주변 팔자주름에는 효과있어요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "95",
+    "Word": "20",
+    "RDate": "20220521",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용량",
+        "SentimentText": "양은 적네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "눈가에 쓱바르면 다음날 아침까지 반질반질해요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "반질반질해요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "목부분 주름은 효과를 모르겠고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "입주변 팔자주름에는 효과있어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "대용량도 나왔으면 좋겠어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "305560",
+    "RawText": "스틱이라 편하게 바를 수 있어요. 생각보다 작아서 휴대하기 편하고 촉촉해서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "47",
+    "Word": "11",
+    "RDate": "20220520",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "스틱이라 편하게 바를 수 있어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "생각보다 작아서 휴대하기 편하고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉해서 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "305561",
+    "RawText": "전에 써보고 가격 할인해서 샀어요. 향도 좋고요 주름도 좋아졌습니다",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "37",
+    "Word": "9",
+    "RDate": "20220520",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 할인해서 샀어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 좋고요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "주름도 좋아졌습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "305582",
+    "RawText": "써보니까 촉촉하고 주름 커버도 되는 것 같아서 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "30",
+    "Word": "8",
+    "RDate": "20220519",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "주름 커버도 되는 것 같아서 좋아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "305599",
+    "RawText": "사람마다 다르겠지만 촉촉하기 보다는 끈적거림으로 느껴져서 전 별로 손이 안갑니다 발림성도 별로네요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "3",
+    "Syllable": "54",
+    "Word": "12",
+    "RDate": "20220518",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "촉촉하기 보다는 끈적거림으로 느껴져서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성도 별로네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "305600",
+    "RawText": "발림성 좋고 촉촉함 오래지속되네요. 용량이 적어 금방써지네요. 다 써갈때는 끝을 파서 쓰게 되네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "4",
+    "Syllable": "55",
+    "Word": "13",
+    "RDate": "20220518",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉함 오래지속되네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "오래지속되네요. ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "용량이 적어 금방써지네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "305610",
+    "RawText": "촉촉하고 주름관리하기 편하고 효과가 좋은거 같습니다",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "28",
+    "Word": "6",
+    "RDate": "20220518",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "주름관리하기 편하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과가 좋은거 같습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "305669",
+    "RawText": "효능은 써봐야 알겠습니다 발림성은 좋습니다. 번들거림 주의하세요. 향은 좀 있는 편이라 호불호네요. 트러블은 없어서 계속 사용해 보겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "17",
+    "RDate": "20220515",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효능은 써봐야 알겠습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성은 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "번들거림 주의하세요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향은 좀 있는 편이라 호불호네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "트러블은 없어서 계속 사용해 보겠습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "305677",
+    "RawText": "좋아하는 제품입니다. 촉촉해서 너무 좋고 바르기 편해서 더 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "37",
+    "Word": "9",
+    "RDate": "20220514",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉해서 너무 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "바르기 편해서 더 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "305681",
+    "RawText": "가격대비 양이 작지만 효과는 있는거 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "4",
+    "Syllable": "23",
+    "Word": "6",
+    "RDate": "20220514",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용량",
+        "SentimentText": "가격대비 양이 작지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과는 있는거 같아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "305685",
+    "RawText": "얼굴 건조할때마도 수시로 바르니 너무 편하고 좋아요 효과를 기대합니다",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "38",
+    "Word": "9",
+    "RDate": "20220514",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "얼굴 건조할때마도 수시로 바르니 너무 편하고 좋아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과를 기대합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "305703",
+    "RawText": "제품 좋은건 얘기를 많이 들어 알고 있었는데 사용해보니 주름커버되는거 좋긴 합니다^^양이 조금 많았으면 좋겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "14",
+    "RDate": "20220513",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "주름커버되는거 좋긴 합니다^^",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "양이 조금 많았으면 좋겠네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "305705",
+    "RawText": "화장품도 유행이 있어요 요즘 주위에서 많이 사용해서 사봤어요  가격이 좀 비싸단 생각이 들지만 효과가 있길 바라면서 잘 사용하겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "18",
+    "RDate": "20220513",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 좀 비싸단 생각이 들지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과가 있길 바라면서 잘 사용하겠습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "305719",
+    "RawText": "평소 바르기에는 좀 번들거림이 있어서 저는 자기전에 바르고 자네요. 촉촉하고 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "48",
+    "Word": "11",
+    "RDate": "20220512",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "평소 바르기에는 좀 번들거림이 있어서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하고 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "305720",
+    "RawText": "발림성도 좋고 저한테 딱 맞아 효과도 좋고 가격도 저렴해서 좋았습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "39",
+    "Word": "10",
+    "RDate": "20220512",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "저한테 딱 맞아 효과도 좋고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴해서 좋았습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "305722",
+    "RawText": "엄마 주름에 슥 그으니 진짜 효과가 있네요 깜짝 놀라서 거울 보여드리고 계속 바르세요. 건조하셔서 더욱 잘 맞는거같네요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "4",
+    "Syllable": "66",
+    "Word": "17",
+    "RDate": "20220512",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "엄마 주름에 슥 그으니 진짜 효과가 있네요 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "건조하셔서 더욱 잘 맞는거같네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "305723",
+    "RawText": "이마가 건조하고 주름이 있어서 이마 위주로 발라 주고 있는데 건조해지지도 않고 피부가 부드러워진 게 느껴지네요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "4",
+    "Syllable": "61",
+    "Word": "15",
+    "RDate": "20220512",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "건조해지지도 않고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "피부가 부드러워진 게 느껴지네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "305727",
+    "RawText": "엄마께 선물했습니다. 써보고 넘 좋다고 하세요. 구입한 가격보다 가격이 많이 내렸어요 비슷한 제품들도 많지만 ㅇㅇㅇ가 기능은 제일 좋은거 같네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "81",
+    "Word": "19",
+    "RDate": "20220512",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "구입한 가격보다 가격이 많이 내렸어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "비슷한 제품들도 많지만 ㅇㅇㅇ가 기능은 제일 좋은거 같네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "305737",
+    "RawText": "바르면 번들거림이 있고, 끈적임에 머리카락이 붙어 불편해요.  그거 말고는 촉촉하고, 주름이 건조해지지 않고 펴지는 느낌입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "4",
+    "Syllable": "71",
+    "Word": "15",
+    "RDate": "20220512",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "바르면 번들거림이 있고,",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "끈적임에 머리카락이 붙어 불편해요.  ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하고, ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "주름이 건조해지지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": " 주름이 건조해지지 않고 펴지는 느낌입니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "305758",
+    "RawText": "소문에 비해 좋다는 느낌은 별로 없었습니다. 바르면 유분기 많이 느껴지고 효과가 느껴지질 않네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "3",
+    "Syllable": "54",
+    "Word": "13",
+    "RDate": "20220511",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "바르면 유분기 많이 느껴지고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과가 느껴지질 않네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "305777",
+    "RawText": "OOO를 쓰다가 다른 제품도 써봤지만, 제형의 쫀쫀함과 바른 후 탱탱한 느낌이 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "49",
+    "Word": "12",
+    "RDate": "20220511",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형의 쫀쫀함과",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탄력",
+        "SentimentText": "바른 후 탱탱한 느낌이 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "305779",
+    "RawText": "촉촉하고 반질반질 하네요.저한테는 맞아서 또 구매했습니다.  유통기한 이렇게 긴줄 알았으면 더 사는건데 생각했네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "13",
+    "RDate": "20220511",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "반질반질 하네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "저한테는 맞아서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한 이렇게 긴줄 알았으면 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "305786",
+    "RawText": "엄마가 ○○ 멀티밤 써보고 싶어하셔서 구매했습니다 크기가 아담해서 휴대하기 편해 좋아요 배송도 빠르고 만족해요 효과를 기대해봅니다",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "16",
+    "RDate": "20220510",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "크기가 아담해서 휴대하기 편해 좋아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과를 기대해봅니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "305787",
+    "RawText": "건성피부에 잘 맞는 제품입니다 매일 바르다보니 용량이 작아서 빨리 없어져서 재구매했네요 앞으로도 계속 구매할 생각이예요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "15",
+    "RDate": "20220510",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "피부타입",
+        "SentimentText": "건성피부에 잘 맞는 제품입니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": " 용량이 작아서 빨리 없어져서 재구매했네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "305794",
+    "RawText": "얼굴에 간편하게 바르기 쉽고 휴대하기 편해 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 링** 보습 밤 스틱 9g 1개",
+    "ReviewScore": "4",
+    "Syllable": "28",
+    "Word": "7",
+    "RDate": "20220510",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "얼굴에 간편하게 바르기 쉽고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "휴대하기 편해 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]

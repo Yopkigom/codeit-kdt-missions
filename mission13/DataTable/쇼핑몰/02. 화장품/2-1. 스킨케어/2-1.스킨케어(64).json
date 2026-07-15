@@ -1,0 +1,3386 @@
+[
+  {
+    "Index": "240518",
+    "RawText": "피부가 따가워서 하루 밖에 사용 안 했어요. 가격은 비싼데 진정효과는 없네요. 품질이 최악인 제품입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성(무료체험6개)",
+    "ReviewScore": "100",
+    "Syllable": "58",
+    "Word": "14",
+    "RDate": "20190607",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "피부가 따가워서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 비싼데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "진정효과는 없네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 최악인 제품입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "240521",
+    "RawText": "받아보고 무료체험분한개써봤는데...촉감과수분감은 좋네요.기미는더발라봐야 할거같네요 제발..기미가 옅어졌음좋겠어요.ㅜㅜ 옅어지면. 완전 대박 제품",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성(무료체험6개)",
+    "ReviewScore": "100",
+    "Syllable": "80",
+    "Word": "10",
+    "RDate": "20190524",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "수분감은 좋네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "기미는더발라봐야 할거같네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "제발..기미가 옅어졌음좋겠어요.ㅜㅜ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "240524",
+    "RawText": "오늘받아서 사용 기미가없어지기를 바라면서 일단은 촉촉합니다 향도좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성(무료체험6개)",
+    "ReviewScore": "100",
+    "Syllable": "38",
+    "Word": "7",
+    "RDate": "20190522",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "기미가없어지기를 바라면서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "일단은 촉촉합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도좋아요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240525",
+    "RawText": "유기자차성분이라 가끔  눈시림이 있어서 좀 그렇긴하지만 사용하기 편하고 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 알** 선스틱 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "43",
+    "Word": "9",
+    "RDate": "20190807",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분",
+        "SentimentText": "유기자차성분이라",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "가끔  눈시림이 있어서 좀 그렇긴하지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기 편하고 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240526",
+    "RawText": "어제주문하고 오늘받았어요 향도 괜찮고 바르면 시원하고 좋네요 이번 여름은 아이들과 쿨링선스틱 같이 쓰면 될꺼같아요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 알** 선스틱 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "63",
+    "Word": "14",
+    "RDate": "20190529",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 괜찮고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "바르면 시원하고 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240528",
+    "RawText": "남편이랑 저, 24개월 아기랑 같이 바르려고 샀어요~ 바르니 시원하네요 ㅎㅎ 약간 번들거림은 있지만 향도 많이 안나고 괜찮은듯해요~",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 알** 선스틱 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "73",
+    "Word": "17",
+    "RDate": "20190530",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "바르니 시원하네요 ㅎㅎ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "약간 번들거림은 있지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 많이 안나고 괜찮은듯해요~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240529",
+    "RawText": "임산부라 성분따지게 되는데 우연히 홈쇼핑 보고 이거다 싶더라구요~~~오늘 받자마자 개봉해서 바로 발라봤어요~ 효과가 기대했던만큼 좋으네요~~^^ 9살 딸아이와 함께 바를거에요~ 아 그리고 끈적거림이 없어  끈적이는거 질색하는 남편도 좋아할것 같아요~~~ 굿초이스",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 알** 선스틱 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "146",
+    "Word": "29",
+    "RDate": "20190530",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과가 기대했던만큼 좋으네요~~^^ ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": " 끈적거림이 없어  끈적이는거 질색하는 남편도 좋아할것 같아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240530",
+    "RawText": "촉촉함이 오래가지 않고 바르면 시원하지 않습니다. 알로에 성분이 좋지 않은 것 같아요. 피부가 따갑습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 알** 선스틱 특별구성",
+    "ReviewScore": "20",
+    "Syllable": "59",
+    "Word": "14",
+    "RDate": "20190529",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "지속력",
+        "SentimentText": "촉촉함이 오래가지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "바르면 시원하지 않습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "알로에 성분이 좋지 않은 것 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "피부가 따갑습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "240534",
+    "RawText": "작년에도 김정문알로에 썬스틱 사용하고 만족해서 올해도 주문을 했는데 품질이 더 좋아졌네요 바를때 시원하고, 발림성도 좋아요  수분증발(?)을 위해 막는 케이스는 조금 불편해요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 알** 선스틱 특별구성",
+    "ReviewScore": "80",
+    "Syllable": "97",
+    "Word": "21",
+    "RDate": "20190530",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "만족해서 올해도 주문을 했는데 품질이 더 좋아졌네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "바를때 시원하고,",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성도 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "수분증발(?)을 위해 막는 케이스는 조금 불편해요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "240535",
+    "RawText": "유명한 OO알로에 상품이라 구입했는데 실망했습니다. 제품을 냉장고에 넣어두고 차가워졌을 때 발랐는데 생각보다 피부 진정이 되지 않네요. 오히려 바르고 나서 끈적여서 피부 트러블이 생겼습니다. 구성품인 선스틱은 시원한 느낌이 없었고 사용하기 불편했어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 알** 선스틱 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "140",
+    "Word": "30",
+    "RDate": "20190531",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "생각보다 피부 진정이 되지 않네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "바르고 나서 끈적여서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "피부 트러블이 생겼습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": " 구성품인 선스틱은 시원한 느낌이 없었고 사용하기 불편했어요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "시원한 느낌이 없었고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기 불편했어요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "240537",
+    "RawText": "선크림이 필요해서 고민하다가 샀는데 사용하기 불편하고 쿨링효과도 없는 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 알** 선스틱 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "46",
+    "Word": "10",
+    "RDate": "20190529",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기 불편하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "쿨링효과도 없는 것 같습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "240538",
+    "RawText": "써보니향도좋고바르기도좋고ㅎㅎ 끈적이지도않고ㅎㅎ너무좋네요!! 강추합니다! ",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 알** 선스틱 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "40",
+    "Word": "3",
+    "RDate": "20190530",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향도좋고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "바르기도좋고ㅎㅎ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "끈적이지도않고ㅎㅎ너무좋네요!!",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240539",
+    "RawText": "전에 쓰던 타회사제품은 끈적이고 비누로 씻으면 거품이 잘 나지않아 여러번 씻어야하는 단점이 있었는데....이제품은  끈적이지도 않고 바르면 시원합니다~시원한게 오래가지않아 살짝 아쉽지만 일단 바르면 시원하고 끈적임이 없어 더 바르고 싶어지네요~씻을때도 비누거품 잘나서 여러번 씻을필요가 없구요~ 다 쓰면 이제품  홈쇼핑에서 또 만나볼수있기를..바래봅니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 알** 선스틱 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "198",
+    "Word": "39",
+    "RDate": "20190529",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "끈적이지도 않고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": " 바르면 시원합니다~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "시원한게 오래가지않아 살짝 아쉽지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "일단 바르면 시원하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "끈적임이 없어 더 바르고 싶어지네요~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "씻을때도 비누거품 잘나서 여러번 씻을필요가 없구요~ ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240541",
+    "RawText": "어제 주문하고 오늘 상품을 받았어요. 자외선이 심해져서 구입했는데 자외선 차단이 잘 안됩니다. 시원한 느낌도 없어서 사용감이 답답합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 알** 선스틱 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "76",
+    "Word": "17",
+    "RDate": "20190529",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "자외선 차단이 잘 안됩니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "시원한 느낌도 없어서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사용감",
+        "SentimentText": "사용감이 답답합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "240545",
+    "RawText": "알로에 성분이라 삼대가 함께 씁니다 제형이 부드러워 좋습니다~~^^",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 알** 선스틱 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "37",
+    "Word": "8",
+    "RDate": "20190530",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분",
+        "SentimentText": "알로에 성분이라 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 부드러워 좋습니다~~^^",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240546",
+    "RawText": "평소에도 김정문알로에 제품을 쓰고 있는데 역시 선스틱도 실망시키지 않네요 바르자 마자 시원함은 물론이고 끈적이지 않고 딱 내스타일 이네요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 알** 선스틱 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "76",
+    "Word": "18",
+    "RDate": "20190530",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "바르자 마자 시원함은 물론이고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "끈적이지 않고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240547",
+    "RawText": "오늘 받자 마자 사용해봤는데 안 좋습니다. 건조하고 피부가 칙칙해집니다. 발림성도 부드럽지 않아서 바르기 불편합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 알** 선스틱 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "65",
+    "Word": "14",
+    "RDate": "20190529",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "건조하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "피부가 칙칙해집니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성도 부드럽지 않아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "바르기 불편합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "240548",
+    "RawText": "신원하고 끈적임 적고 사용 간편 휴대하면서 사용하기 너무 좋아요!!! 간편해서 남편 차에 두고 자주 바르네요!!!",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 알** 선스틱 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "63",
+    "Word": "15",
+    "RDate": "20190606",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "신원하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "끈적임 적고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용 간편",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "휴대하면서 사용하기 너무 좋아요!!!",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "간편해서 남편 차에 두고 자주 바르네요!!!",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240550",
+    "RawText": "알로에 제품만 구입하는 편입니다. 가격도 비싸고 구성이 좋지 않았지만 OO알로에 제품이라 구매했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 알** 선스틱 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "57",
+    "Word": "12",
+    "RDate": "20190531",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 비싸고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성이 좋지 않았지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "240551",
+    "RawText": "예민한 피부라서 타 상품 사용하다가 맞지 않아서 구입했는데 이 제품 역시 시원하지 않고 피부에 자극이 가서 사용하지 못할 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 알** 선스틱 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "75",
+    "Word": "20",
+    "RDate": "20190604",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "시원하지 않고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "피부에 자극이 가서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "240552",
+    "RawText": "김정문 쿨링 선스틱을 바르니까 시원해서 좋고, 끈적임이 없어서 더 좋아요. 선스틱 성분에 생 알로에가 들어 가 있다고 하니까 마음 놓고 쓸 수 있고, 김정문 알로에 제품이라 더 믿음이 갑니다.  벌써 딸아이가 마음에 들어 하나 빼앗아 갔어요~^^  딸아이랑 남편이랑 나눠서 써야 할 것 같네요~ 많이 파시고, 좋은 제품 많이 만들어 주세요~강추합니다!",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 알** 선스틱 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "196",
+    "Word": "50",
+    "RDate": "20190531",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "김정문 쿨링 선스틱을 바르니까 시원해서 좋고, ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "끈적임이 없어서 더 좋아요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "선스틱 성분에 생 알로에가 들어 가 있다고 하니까 마음 놓고 쓸 수 있고,",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240556",
+    "RawText": "백탁없고 끈적임없고 게다가 쿨링감까지 완벽한 선제품이네요~~올 여름 진짜 잘 쓸꺼같아요~~ ",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 알** 선스틱 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "51",
+    "Word": "10",
+    "RDate": "20190529",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "백탁없고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "끈적임없고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "쿨링감까지 완벽한 선제품이네요~~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "올 여름 진짜 잘 쓸꺼같아요~~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240558",
+    "RawText": "시원하고 부드럽게 잘 발려요 끈적임도 없고 만족합니다^^",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 알** 선스틱 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "31",
+    "Word": "7",
+    "RDate": "20190604",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "시원하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "부드럽게 잘 발려요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "끈적임도 없고 만족합니다^^",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240559",
+    "RawText": "알로에 제품에  완전  빠졌어용!! 처음  팩을 쓰다가  썬스틱까지 써보니깐  빠져나오질 못하겠어요 발림성은  뭐랄까  버터처럼  걸림없이  부드럽게  발리고   끈적임  없구요  화장도 넘 잘 먹어서  조아요~~~~ㅎㅎ 알로에 썬스틱  굿 초이스^^",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 알** 선스틱 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "140",
+    "Word": "28",
+    "RDate": "20190531",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성은  뭐랄까  버터처럼  걸림없이  부드럽게  발리고  ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "끈적임  없구요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "화장도 넘 잘 먹어서  조아요~~~~ㅎㅎ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240560",
+    "RawText": "오늘 상품을 받았습니다. 아직 사용 전이지만 후기가 많아서 가격은 비싸지만 구입했습니다. 스틱이 생각보다 용량이 작습니다. 내일 날씨가 덥다고 하는데 한번 사용해보겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 알** 선스틱 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "96",
+    "Word": "21",
+    "RDate": "20190529",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 비싸지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "스틱이 생각보다 용량이 작습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "240561",
+    "RawText": "알로에 성분이 들어가 있어 피부에도 순하고 자극이 없어 좋습니다. 피부가 건조하고 예민한 편이라 다른 화장품들은 화끈거리고 빨개진 경우가 많은데 김정문 알로에 제품은 그런 게 없네요. 아이들도 안심하고 발라줄 수 있어 좋습니다. 잘 쓰겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 알** 선스틱 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "136",
+    "Word": "33",
+    "RDate": "20190602",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "피부에도 순하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "피부가 건조하고 예민한 편이라 다른 화장품들은 화끈거리고 빨개진 경우가 많은데 김정문 알로에 제품은 그런 게 없네요.",
+        "SentimentWord": "16",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "자극이 없어 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "알로에 성분이 들어가 있어",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240565",
+    "RawText": "어제 주문하고 오늘 받았어요 빠른 배송 만족하구요 사용해보니 은은한 향도 마음에 들고 큐어크림에 들어있는 성분도 있다니 믿고 사용합니다",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 알** 선스틱 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "75",
+    "Word": "18",
+    "RDate": "20190529",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "은은한 향도 마음에 들고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "큐어크림에 들어있는 성분도 있다니 믿고 사용합니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240566",
+    "RawText": "남편이 무겁고 끈적한 선크림 느낌이 싫다며 여름에도 잘 바르지않는 편이라 이 제품을 사보았어요.  손에 묻지않고 휴대하기 간편하고 쿨링효과까지 있다보니 다른 선크림보단 자주 발라진다며 괜찮다고하더라구요. 구성도 좋아서 저도 하나쓰고 엄마도 나눠드리고 좋네요. 여자는 수분감이 많아서 화장 위에 발라도 부담없어요.   김정문 알로에라 성분은 믿고 샀고, 사용하기도 편리하니 일석이조인것같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 알** 선스틱 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "218",
+    "Word": "46",
+    "RDate": "20190612",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "손에 묻지않고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "휴대하기 간편하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "쿨링효과까지 있다보니",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성도 좋아서 저도 하나쓰고 엄마도 나눠드리고 좋네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "여자는 수분감이 많아서 화장 위에 발라도 부담없어요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "김정문 알로에라 성분은 믿고 샀고,",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기도 편리하니",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240568",
+    "RawText": "잘  발라지고 냄새도  좋습니다 . 디자인도  깔끔하고  휴대용으로 간편합니다. 바르면 시원한 느낌이 오고  잘 스며들어  표가 나지 않습니다.  우리 가족 모두 이 선스틱으로 올 여름을   잘 보낼것 같습니다. 또 손녀까지 바를 수 있어 매우 만족합니다,",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 알** 선스틱 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "143",
+    "Word": "35",
+    "RDate": "20190604",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "발림성",
+        "SentimentText": "잘  발라지고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "냄새도  좋습니다 .",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도  깔끔하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "휴대용으로 간편합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "바르면 시원한 느낌이 오고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "잘 스며들어  표가 나지 않습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "우리 가족 모두 이 선스틱으로 올 여름을   잘 보낼것 같습니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240569",
+    "RawText": "타사제품쓰고 바로반품하고 이제품으로 샀어요 첨부터 이제품으로 살꺼그랬네요ㅡㅡ 부드럽게 잘발리고 쿨링감이있어 좋네요^^글구 상품폄쓰면 상품 하나더주고 넘 만족요ㅎㅎ ",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 알** 선스틱 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "91",
+    "Word": "16",
+    "RDate": "20190603",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "발림성",
+        "SentimentText": "부드럽게 잘발리고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "쿨링감이있어 좋네요^^",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "상품폄쓰면 상품 하나더주고 넘 만족요ㅎㅎ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240570",
+    "RawText": "상품 받자마자 써봤어요 정말 쿨링감은 너무 좋네요 시원해요 번들거리지 않고 촉촉해서 좋아요 아이들이랑 저랑 정말 올여름 잘 쓸거 같아요  가방속 필수템이 되겠어요~^^",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 알** 선스틱 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "93",
+    "Word": "22",
+    "RDate": "20190601",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "정말 쿨링감은 너무 좋네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "시원해요 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "번들거리지 않고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉해서 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": " 올여름 잘 쓸거 같아요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240571",
+    "RawText": "끈적임이없었음좋겠는데 다른썬스틱제품 끈적이지않다해서구매했건만 번들번들 완전끈적이고 미끌미끌 주변사람들다나눠주고 이건괜찮을거가드어구매해봅니다 다른제품은바르면션한느낌은없는데 이건 끈적거림 덜하고 시원한다해서구매결정합니다",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 알** 선스틱 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "120",
+    "Word": "13",
+    "RDate": "20190531",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "끈적거림 덜하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "시원한다해서구매결정합니다 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240572",
+    "RawText": "손에안묻고 편하게바를수있어서좋아요 바르고나니 시원한 느낌도있구요 아이들과함께사용할려고 샀어요 향도좋아서 거부없이 잘바르네요  ",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 알** 선스틱 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "70",
+    "Word": "10",
+    "RDate": "20190531",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "손에안묻고 편하게바를수있어서좋아요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "바르고나니 시원한 느낌도있구요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도좋아서 거부없이 잘바르네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240574",
+    "RawText": "피부에 닿는 첫 느낌이  완젼 시원하네요^^ 발림성도 좋구요.  저자극이라 아이들에게 안심하고 발라줘도 될꺼 같아요~  잘 쓰겠습니다.  ",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 알** 선스틱 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "77",
+    "Word": "16",
+    "RDate": "20190530",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "피부에 닿는 첫 느낌이  완젼 시원하네요^^",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성도 좋구요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "저자극이라 아이들에게 안심하고 발라줘도 될꺼 같아요~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240578",
+    "RawText": "촉촉하고수분이많아요 ",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 아이케어밤 리프레쉬 2+1",
+    "ReviewScore": "100",
+    "Syllable": "11",
+    "Word": "1",
+    "RDate": "20191104",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "수분이많아요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240580",
+    "RawText": "OOO크림은 가격이 비싸요. 건조한 피부라 촉촉함이 아쉽네요. 끈적임도 있어요. 피부톤업 때문에 구매했는데, 바르면 피부톤이 백탁현상처럼 보이네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 미** 크림 풀세트",
+    "ReviewScore": "100",
+    "Syllable": "82",
+    "Word": "16",
+    "RDate": "20191220",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 비싸요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "건조한 피부라 촉촉함이 아쉽네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉함이 아쉽네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "끈적임도 있어요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "피부톤이 백탁현상처럼 보이네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "240582",
+    "RawText": "구성이 4개 밖에 없어서 아쉽습니다. 처음 구매해서 사용해봤는데 발림성이 무겁고 피부가 칙칙해 보여서 아쉽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 미** 크림 풀세트",
+    "ReviewScore": "100",
+    "Syllable": "63",
+    "Word": "14",
+    "RDate": "20190615",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성이 4개 밖에 없어서 아쉽습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성이 무겁고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "피부가 칙칙해 보여서 아쉽습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "240583",
+    "RawText": "사람들 의견이 좀 나뉘어서 고민하다가 주문했는데 진짜 좋아요 OOO인줄 알고 구매했다가 1:1로 물어봤더니 OO라고 해서 반품해야 하나 고민했는데 귀찮아서 그냥 OO도 좋겠지 하고 썻는데 너무 좋아요~~ 너무 촉촉하고 광도 이쁘게 나오는것같아요 앞으로도 계속 사용할것 같아요!!  ",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 미** 크림 풀세트",
+    "ReviewScore": "100",
+    "Syllable": "157",
+    "Word": "35",
+    "RDate": "20190816",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "너무 촉촉하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "광도 이쁘게 나오는것같아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240586",
+    "RawText": "가격 대비 구성품은 많은데 빛크림제형은 몬 묽은 반죽 같은 것이 전 별루네요. 발라보니 그리 얼굴이 화사 하지도 않고 눈도 약간 따금거려요. 이 많은 걸 언제 다 쓸지 난감하네요. 사용했으니 반품도 못하구요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 미** 크림 풀세트",
+    "ReviewScore": "20",
+    "Syllable": "116",
+    "Word": "31",
+    "RDate": "20190711",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "가격 대비 구성품은 많은데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "빛크림제형은 몬 묽은 반죽 같은 것이 전 별루네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "발라보니 그리 얼굴이 화사 하지도 않고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "눈도 약간 따금거려요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "240587",
+    "RawText": "구성도 너무 좋고 상품 품질또한 마음에 듭니다!!",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 미** 크림 풀세트",
+    "ReviewScore": "100",
+    "Syllable": "27",
+    "Word": "7",
+    "RDate": "20190711",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성도 너무 좋고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "상품 품질또한 마음에 듭니다!!",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240589",
+    "RawText": "화장 잘 안하고 다녀서 그냥 가볍게 바르고 외출, 출근 다 가능합니다. 여행 다닐때도 좋아요. 여행용으로 좀 작은 용기나 튜브 나오면 딱일 듯요!!",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 미** 크림 풀세트",
+    "ReviewScore": "100",
+    "Syllable": "82",
+    "Word": "22",
+    "RDate": "20190710",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "발림성",
+        "SentimentText": "가볍게 바르고 외출, 출근 다 가능합니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "여행 다닐때도 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "여행용으로 좀 작은 용기나 튜브 나오면 딱일 듯",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "240594",
+    "RawText": "구성 대박이에요 케이스의 고급진느낌만큼 상품도 괘안하겠죠? 잘 쓸께요~~^^",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 미** 크림 풀세트",
+    "ReviewScore": "100",
+    "Syllable": "42",
+    "Word": "8",
+    "RDate": "20190614",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성 대박이에요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "케이스의 고급진느낌만큼 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240603",
+    "RawText": "화장하는걸  안좋아해서 맨얼굴로 다녔는데  기미가올라와 걱정이많았는데 나한테 딱 맞는  화장품인것갔아요 얼굴에 광이나고 자외선 차단기능이  있어서   햇빛을봐도 맘이놓여요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 미** 크림 풀세트",
+    "ReviewScore": "100",
+    "Syllable": "95",
+    "Word": "17",
+    "RDate": "20190820",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "나한테 딱 맞는  화장품인것갔아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "얼굴에 광이나고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "자외선 차단기능이  있어서   햇빛을봐도 맘이놓여요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240604",
+    "RawText": "몇년전 처음 리엔케이 빛크림을 쓰고 혹시나하고 여기저기 기웃거리다 결국은 다시 돌아왔습니다  역시 피부색이 건강해보이는 윤기 나는 피부표현은 리엔케이만한 건 없는것같아요 최강추입니다",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 미** 크림 풀세트",
+    "ReviewScore": "100",
+    "Syllable": "101",
+    "Word": "21",
+    "RDate": "20190813",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "피부색이 건강해보이는",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "윤기 나는 피부표현은 리엔케이만한 건 없는것같아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240607",
+    "RawText": "주름이  자글자글하고  잡티가 많아서 얼굴이 많이 늙어 보이고 지저분해보여서 방송보고 구입했는데  좋다고 소문난  고혼진보다  훨씬 주름개선과 미백효과가  매우 뛰어나서  모든 여성들에게 강력하게 추천하고 싶어요. 더군다나  최고 구섬에 착한 가격이라  마음  놓고 듬뿍듬뿍  바른답니다.이런제품 생산해  주셔서  저같은 사람은 기피고 삽니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 더** 크림 특별구성(무료체험6개)",
+    "ReviewScore": "100",
+    "Syllable": "192",
+    "Word": "39",
+    "RDate": "20200709",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "주름개선과 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "미백효과가  매우 뛰어나서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "최고 구섬에 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "착한 가격이라",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240619",
+    "RawText": "샘플써보니   촉촉하고 쫀쫀하네요 잘  산거 같아요 계속  써볼 게요 ",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 더** 크림 특별구성(무료체험6개)",
+    "ReviewScore": "100",
+    "Syllable": "39",
+    "Word": "9",
+    "RDate": "20190522",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탄력",
+        "SentimentText": "쫀쫀하네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240626",
+    "RawText": "리프팅효과도있는것같고 피부도 화사해진느낌예요. 계속 사용할것같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 더** 크림 특별구성(무료체험6개)",
+    "ReviewScore": "100",
+    "Syllable": "37",
+    "Word": "5",
+    "RDate": "20191017",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "리프팅효과도있는것같고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "피부도 화사해진느낌예요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240635",
+    "RawText": "샘플부터 사용했는데  지고 일어 났더니  피부가  부드러워 졌네요 얼굴이 땡기지 않아요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 센** 크림",
+    "ReviewScore": "80",
+    "Syllable": "48",
+    "Word": "11",
+    "RDate": "20190717",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "피부가  부드러워 졌네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "얼굴이 땡기지 않아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240647",
+    "RawText": "발림성이랑은 좋은편인데 냄새가 좀... 흡수가 잘 되서인지 전 듬뿍 바르게 되네요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 센** 크림",
+    "ReviewScore": "100",
+    "Syllable": "45",
+    "Word": "11",
+    "RDate": "20191009",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성이랑은 좋은편인데 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "냄새가 좀...",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "흡수가 잘 되서인지 전 듬뿍 바르게 되네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240655",
+    "RawText": "유통기한 너무 짧아요 내년 4월 ㅠㅠ 사은품 마스크팩 주신다더니 알로에 젤이네요 ㅠㅠ",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 퍼** 선밀크 100mlx2개+알로에 수딩젤 300ml",
+    "ReviewScore": "40",
+    "Syllable": "47",
+    "Word": "12",
+    "RDate": "20210909",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한 너무 짧아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품 마스크팩 주신다더니 알로에 젤이네요 ㅠㅠ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "240656",
+    "RawText": "유통기한이 너무 짧네요. 얼굴에 바르면 흡수되지 않고 번들거려요. 1+1 이라서 구매했는데 마음에 들지 않네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 퍼** 선밀크 100mlx2개+알로에 수딩젤 300ml",
+    "ReviewScore": "10",
+    "Syllable": "62",
+    "Word": "14",
+    "RDate": "20210910",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한이 너무 짧네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": " 얼굴에 바르면 흡수되지 않고 번들거려요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "  1+1 이라서 구매했는데 마음에 들지 않네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "번들거려요. ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "240664",
+    "RawText": "적립금 이용해서 샀는데도 비싸고 용량도 작아요. 제형이 뻑뻑해서 잘 안 발리고 뚜껑은 여닫기가 힘드네요. 스틱이 부러져 있어서 품질에 실망이고 얼굴에 바르면 밀려요. 비싸게 샀는데 안 쓰고 있어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 퍼** 선스틱 20gx2개+마스크팩 5매",
+    "ReviewScore": "10",
+    "Syllable": "110",
+    "Word": "27",
+    "RDate": "20210604",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "적립금 이용해서 샀는데도 비싸고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "용량도 작아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 뻑뻑해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "잘 안 발리고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "뚜껑은 여닫기가 힘드네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "스틱이 부러져 있어서 품질에 실망이고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "얼굴에 바르면 밀려요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "비싸게 샀는데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "240667",
+    "RawText": "배송과 사은품 다 좋습니다. 제품 자체가 너무 유분이 없어 얼굴에 바를때 뻑뻑해서 피부 화상 입을거 같아요~ 너무 안발라져요~ 아픔을 무릎쓰고 발라도 발라졌는지 너무 티가 안나요 ~",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 퍼** 선스틱 20gx2개+마스크팩 5매",
+    "ReviewScore": "60",
+    "Syllable": "101",
+    "Word": "26",
+    "RDate": "20210823",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품 다 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "너무 유분이 없어",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "얼굴에 바를때 뻑뻑해서 피부 화상 입을거 같아요~",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "너무 안발라져요~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "아픔을 무릎쓰고 발라도 발라졌는지 너무 티가 안나요 ~",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "240668",
+    "RawText": "촉촉함이 없어서 피부가 당겨 바르기도 불편하고 향도 좋지 않아서 한 번 사용하고 그냥 동생 주려고 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 퍼** 선스틱 20gx2개+마스크팩 5매",
+    "ReviewScore": "20",
+    "Syllable": "59",
+    "Word": "16",
+    "RDate": "20210813",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉함이 없어서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "피부가 당겨",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "바르기도 불편하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 좋지 않아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "240670",
+    "RawText": "발림성이 전혀없어서 바를때 피부가 밀릴정도예요. 어떻게 이런 품질의 제품을 판매하는지ᆢ 발리지도 않고 때밀리듯이 제품이 밀려서 고체덩어리가 돼요. 스틱형을 많이 써봤지만 이런 품질은 처음보네요. 이건 업체의 해명과 사과가 필요할듯합니다. 뚜껑을 열면 본체쪽에서 자꾸 빠지네요.어디하나 제대로 된곳이 없어요  ㅜㅜ",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 퍼** 선스틱 20gx2개+마스크팩 5매",
+    "ReviewScore": "10",
+    "Syllable": "174",
+    "Word": "37",
+    "RDate": "20210825",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성이 전혀없어서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "바를때 피부가 밀릴정도예요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발리지도 않고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "제품이 밀려서 고체덩어리가 돼요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "어떻게 이런 품질의 제품을 판매하는지ᆢ ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "스틱형을 많이 써봤지만 이런 품질은 처음보네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "뚜껑을 열면 본체쪽에서 자꾸 빠지네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "240673",
+    "RawText": "향이 좋아요   피부자극은 없는편인것 같습니다 발림성이 부드럽지 않은것빼면  만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 퍼** 선스틱 20gx2개+마스크팩 5매",
+    "ReviewScore": "70",
+    "Syllable": "48",
+    "Word": "9",
+    "RDate": "20210803",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "피부자극은 없는편인것 같습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성이 부드럽지 않은것빼면  ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "240678",
+    "RawText": "정말 저렴하게 잘 산거 같아요 사은품으로  준 수딩젤도 정말 잘 쓸거 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 퍼** 선스틱 20gx2개+마스크팩 5매",
+    "ReviewScore": "80",
+    "Syllable": "42",
+    "Word": "12",
+    "RDate": "20210706",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "정말 저렴하게 잘 산거 같아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품으로  준 수딩젤도 정말 잘 쓸거 같아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240681",
+    "RawText": "상품이 유분이 없어서 얼굴에 바르려면 뻑뻑해서 바르기 힘듭니다. 살이 당겨갑니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 퍼** 선스틱 20gx2개+마스크팩 5매",
+    "ReviewScore": "10",
+    "Syllable": "45",
+    "Word": "10",
+    "RDate": "20210516",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "상품이 유분이 없어서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "뻑뻑해서 바르기 힘듭니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "240684",
+    "RawText": "끈적임은 없으나 제형이  많이 메트해서 바르기 불편하네요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 퍼** 선스틱 20gx2개+마스크팩 5매",
+    "ReviewScore": "60",
+    "Syllable": "31",
+    "Word": "7",
+    "RDate": "20210707",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "끈적임은 없으나",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": " 제형이  많이 메트해서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "바르기 불편하네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "240686",
+    "RawText": "타사이트 보다 비싸게 구입했어요. 배송은 빨라서 좋았는데 막상 와보니 스틱이라 용량이 생각보다 작네요. 용량이 작아 듬뿍 바르지 못할 것 같네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 퍼** 선스틱 20gx2개+마스크팩 5매",
+    "ReviewScore": "80",
+    "Syllable": "81",
+    "Word": "20",
+    "RDate": "20190607",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "비싸게 구입했어요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "스틱이라 용량이 생각보다 작네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "용량이 작아",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "240694",
+    "RawText": "요즘같은 날씨에 딱 맞는~ 흡수력도 좋고 보습력도 만족합니다:)",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 알** 수딩젤  300mlx4개",
+    "ReviewScore": "100",
+    "Syllable": "35",
+    "Word": "8",
+    "RDate": "20211012",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "요즘같은 날씨에 딱 맞는~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "흡수력도 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "보습력도 만족합니다:)",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240698",
+    "RawText": "냉장고에 넣어두지 않으면 제품 자체로는 시원하지 않습니다. 비싼 가격으로 구입했는데 품질이 좋은 것 같지 않아서 실망했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 알** 수딩젤  300mlx4개",
+    "ReviewScore": "100",
+    "Syllable": "70",
+    "Word": "16",
+    "RDate": "20210807",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "제품 자체로는 시원하지 않습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "비싼 가격으로 구입했는데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 좋은 것 같지 않아서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "240727",
+    "RawText": "아직 써보진 안했지만 알로에니까 좋을것이라 생각하고 샀어요 타회사 제품 92%짜리 써봤는데~ 촉촉하고 얼굴에 발라도 좋더라구요~~ 근데 이제품은알로에성분이98%니까 더 좋겠죠? 적립금 사용해서 넘 저렴하게 잘 샀어요~  잘 쓸께요~~ 좋은상품 저렴하게 마니 올려주시면 감사하겠습니다^^",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 알** 수딩젤  300mlx4개",
+    "ReviewScore": "100",
+    "Syllable": "159",
+    "Word": "32",
+    "RDate": "20190721",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분",
+        "SentimentText": "이제품은알로에성분이98%니까 더 좋겠죠?",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "넘 저렴하게 잘 샀어요~ ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240733",
+    "RawText": "아침마다 마스크시트 위에 도포해요. 촉촉함이 오래가고 좋아서 저는 애용합니다. 가격 저렴하니 듬뿍 올리면 건조함이 순간이지만 사라져요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 알** 수딩젤  300mlx4개",
+    "ReviewScore": "100",
+    "Syllable": "75",
+    "Word": "16",
+    "RDate": "20190817",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉함이 오래가고 좋아서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "오래가고 좋아서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 저렴하니",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "듬뿍 올리면 건조함이 순간이지만 사라져요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240744",
+    "RawText": "향도 좋고  가지고 다니기에 적당한 크기에요 너무 기름지지도 않고 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "[5+1덤증정]OO 블** 핸드크림 5종세트+쇼핑백",
+    "ReviewScore": "100",
+    "Syllable": "40",
+    "Word": "10",
+    "RDate": "20210824",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 좋고  ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "가지고 다니기에 적당한 크기에요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "너무 기름지지도 않고 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240753",
+    "RawText": "마니발라도티나지않아안바른듯깨끗하고화사해보여서좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 센** 크림 9개",
+    "ReviewScore": "100",
+    "Syllable": "27",
+    "Word": "1",
+    "RDate": "20190928",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "마니발라도티나지않아안바른듯깨끗하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "화사해보여서좋아요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240761",
+    "RawText": "기초제품을 잘 바랐는데도 리엔케이 빛크림을 바르고 난뒤엔  피부가 당기는듯한 건조함이 느껴집니다  겨울엔 따로 수분크림을 바르고 난뒤에 발라야 할듯 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 미** 크림 풀세트",
+    "ReviewScore": "100",
+    "Syllable": "87",
+    "Word": "19",
+    "RDate": "20191102",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "피부가 당기는듯한 건조함이 느껴집니다 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "겨울엔 따로 수분크림을 바르고 난뒤에 발라야 할듯 합니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "240775",
+    "RawText": "좋아요  생각보다  발림느낌더좋고 촉촉하고   홈쇼핑  제품 망설였는데  괜찮네요^^",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 프** 기초 2+2+2 완벽더블+스페셜케어 3종 (총11종)",
+    "ReviewScore": "100",
+    "Syllable": "47",
+    "Word": "8",
+    "RDate": "20200105",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "발림성",
+        "SentimentText": " 생각보다  발림느낌더좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240789",
+    "RawText": "좋다고 해서 구입 후 사용했는데 생각보다 사용감이 안 좋습니다. 구성도 좋지 않고 양도 적어서 딸하고 나눠 사용하기 어렵습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 프** 기초 2+2+2 완벽더블+스페셜케어 3종 (총11종)",
+    "ReviewScore": "100",
+    "Syllable": "71",
+    "Word": "18",
+    "RDate": "20191208",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사용감",
+        "SentimentText": "생각보다 사용감이 안 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성도 좋지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "양도 적어서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "240807",
+    "RawText": "배송도빠르게왔구 쇼핑백도디자인도고급지고 구성도맘에듭니다!!",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 프** 기초 2+2+2 완벽더블+스페셜케어 3종 (총11종)",
+    "ReviewScore": "100",
+    "Syllable": "32",
+    "Word": "3",
+    "RDate": "20191022",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도고급지고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성도맘에듭니다!!",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240813",
+    "RawText": "향우선 좋구요 보습? 이제 한번 써봤지만 나쁘지않네요 효과는 더 써봐야겠지만 만족해요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 프** 기초 2+2+2 완벽더블+스페셜케어 3종 (총11종)",
+    "ReviewScore": "100",
+    "Syllable": "47",
+    "Word": "11",
+    "RDate": "20191018",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향우선 좋구요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "보습? 이제 한번 써봤지만 나쁘지않네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과는 더 써봐야겠지만 만족해요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "240824",
+    "RawText": "배송이 빠르고...화장품도 촉촉하니..보습이 잘되여 좋아요. 제 피부랑 잘 맞아요...",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 프** 기초 2+2+2 완벽더블+스페셜케어 3종 (총11종)",
+    "ReviewScore": "100",
+    "Syllable": "48",
+    "Word": "9",
+    "RDate": "20191023",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "화장품도 촉촉하니..",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "보습이 잘되여 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "제 피부랑 잘 맞아요...",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240834",
+    "RawText": "피부과에서 재생크림으로 마데카를 권한다하여 주문해봤는데 정말좋은거같아요 수분감도 좋고 오래가고 피부가 쫀쫀해졌어요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 센** 크림 시즌3(50ml*4개)",
+    "ReviewScore": "100",
+    "Syllable": "63",
+    "Word": "11",
+    "RDate": "20200121",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "수분감도 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "오래가고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탄력",
+        "SentimentText": "피부가 쫀쫀해졌어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240839",
+    "RawText": "요즘 나오는것은 너무 수분기만 많은거 같은데 같은 마데카솔 인데도 이제품을 더 쫀쫀한거 같네요 흡수력이 아주 좋아요 몇년째 동국제약 마데카솔 크림만 사용하고 있어요 다쓰고 재주문 할거 같네요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 마** 크림 8개+대용량에센스",
+    "ReviewScore": "100",
+    "Syllable": "106",
+    "Word": "26",
+    "RDate": "20191018",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "탄력",
+        "SentimentText": "더 쫀쫀한거 같네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "흡수력이 아주 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240850",
+    "RawText": "온가족 함께 사용하고 있어요~~피부 수분이 그대로~~촉촉해요~~아주 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 마** 크림 8개+대용량에센스",
+    "ReviewScore": "100",
+    "Syllable": "41",
+    "Word": "7",
+    "RDate": "20200222",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "피부 수분이 그대로~~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉해요~~",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240865",
+    "RawText": "피부에 윤기가 좌르르 흐르는게 물광이 따로 필요없어요~~~^^",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 마** 크림 8개+대용량에센스",
+    "ReviewScore": "100",
+    "Syllable": "34",
+    "Word": "7",
+    "RDate": "20200210",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "피부에 윤기가 좌르르 흐르는게",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "물광이 따로 필요없어요~~~^^",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240882",
+    "RawText": "생각보다 기미나 그런종류엔 효과는없지만  저녁에바르니 아침까지 보습력은 좋은듯합니다ᆢ",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 마** 크림 8개+대용량에센스",
+    "ReviewScore": "70",
+    "Syllable": "47",
+    "Word": "8",
+    "RDate": "20200114",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "기미나 그런종류엔 효과는없지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "저녁에바르니 아침까지 보습력은 좋은듯합니다ᆢ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "보습력은 좋은듯합니다ᆢ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240892",
+    "RawText": "촉촉하고 피부에 자극이 없어 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 마** 크림 8개+대용량에센스",
+    "ReviewScore": "100",
+    "Syllable": "19",
+    "Word": "5",
+    "RDate": "20191230",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "피부에 자극이 없어 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240895",
+    "RawText": "항상 쓰던 화장품 입니다 참으로 좋다 제형은 쫀득쫀득 피부 탱탱",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 마** 크림 8개+대용량에센스",
+    "ReviewScore": "100",
+    "Syllable": "35",
+    "Word": "10",
+    "RDate": "20200101",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형은 쫀득쫀득",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탄력",
+        "SentimentText": "피부 탱탱",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240914",
+    "RawText": "CNP꺼 쓰다 이번에 처음 써왔는데  영양감이 더 있는것같구요  건성이신분들께도 잘 맞을거같네요  앞으로 얘로 갈아타야겠네요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 마** 크림 8개+대용량에센스",
+    "ReviewScore": "100",
+    "Syllable": "69",
+    "Word": "14",
+    "RDate": "20191220",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "영양감이 더 있는것같구요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "피부타입",
+        "SentimentText": "건성이신분들께도 잘 맞을거같네요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240915",
+    "RawText": "홈쇼핑으로 구매하면 항상 제 피부에 안 맞아 후회만 했습니다. 이번에는 OO제약에서 나온 제품이라 반신반의 하면서 주문했습니다. 하지만 이 제품도 제 피부에는 맞지 않았고 사용 후 피부 트러블이 생겼습니다. 추천하지 않습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 마** 크림 8개+대용량에센스",
+    "ReviewScore": "100",
+    "Syllable": "126",
+    "Word": "30",
+    "RDate": "20191226",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "제 피부에는 맞지 않았고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "피부 트러블이 생겼습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "240919",
+    "RawText": "아침저녁으로 1달 째 사용중입니다. 바르자마자 보면 좀 번들거리나 싶은데, 두드려서 흡수시키면 싹 스며들어요. 쓰면 쓸수록 속당김이 줄어드는 느낌이고, 아침에 듬뿍 바르고 메이크업해도 밀리지 않아서 좋습니다. 주름, 미백은 사실 3개월 이상은 꾸준히 써야 알 수 있는 부분이라 아직은 잘 모르겠지만, 은은한 허브향도 좋고, 전체적으로 만족스러워요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 마** 크림 8개+대용량에센스",
+    "ReviewScore": "100",
+    "Syllable": "193",
+    "Word": "44",
+    "RDate": "20191205",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "바르자마자 보면 좀 번들거리나 싶은데,",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "두드려서 흡수시키면 싹 스며들어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "쓰면 쓸수록 속당김이 줄어드는 느낌이고,",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "아침에 듬뿍 바르고 메이크업해도 밀리지 않아서 좋습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "은은한 허브향도 좋고,",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240920",
+    "RawText": "항상 마데카크림만 쓰고 있어요 촉촉함이 오래가고, 얼굴에서 광이나요ㅎㅎ 주위사람들이 피부 넘 좋다고 멀리서봐도 얼굴에서 광이 난다고 그러네요~  싼가격에 대량구입해 오래 쓰겠어요 ",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 마** 크림 8개+대용량에센스",
+    "ReviewScore": "100",
+    "Syllable": "100",
+    "Word": "21",
+    "RDate": "20191118",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉함이 오래가고, ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "오래가고, ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "얼굴에서 광이나요ㅎㅎ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "멀리서봐도 얼굴에서 광이 난다고 그러네요~ ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "싼가격에 대량구입해 오래 쓰겠어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240923",
+    "RawText": "작년부터애장하는 화장품 피부에서 광이난다고해요 칭구들이 좋은가격에 잘구매했어요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 마** 크림 8개+대용량에센스",
+    "ReviewScore": "100",
+    "Syllable": "43",
+    "Word": "7",
+    "RDate": "20191022",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "피부에서 광이난다고해요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은가격에 잘구매했어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240930",
+    "RawText": "어제밤 샘플 주셔서 발라봤는데 아침까지 촉촉하니 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 마** 크림 8개+대용량에센스",
+    "ReviewScore": "100",
+    "Syllable": "31",
+    "Word": "7",
+    "RDate": "20191023",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "샘플 주셔서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "아침까지 촉촉하니 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하니 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240937",
+    "RawText": "기대보다는 별로요~로션바를때 끈적여서 먼지?같이 자꾸달라붙어 바르기가 그래요.. 바르지미자 윤광이나지만..다른화장품이랑 같이 사용시 어떤건 흡수가안되는경우가 많아 낮에는 화장 망칠까봐 시용안합니다..부담없는 밤에만 사용합니다",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 비** 보습크림",
+    "ReviewScore": "60",
+    "Syllable": "125",
+    "Word": "20",
+    "RDate": "20200415",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "로션바를때 끈적여서 먼지?같이 자꾸달라붙어 바르기가 그래요..",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "바르지미자 윤광이나지만..",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "다른화장품이랑 같이 사용시 어떤건 흡수가안되는경우가 많아",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "240939",
+    "RawText": "바르기가 넘 힘들어요 .ㅜ한참을 두드려줘야 스며드는듯.사용하기가 힘들고 사용후도 사용감 느낌이 별로예요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 비** 보습크림",
+    "ReviewScore": "50",
+    "Syllable": "58",
+    "Word": "11",
+    "RDate": "20200319",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "바르기가 넘 힘들어요 .ㅜ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "한참을 두드려줘야 스며드는듯.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기가 힘들고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사용감",
+        "SentimentText": "사용후도 사용감 느낌이 별로예요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "240943",
+    "RawText": "사용한지한달만에트러블올라옴.건성에좋을것같아서구매햇는데 무료체험이후트러블은어쩔방법이없다함 나머지다버리게생김 민감성도아닌데 잘 안맞는건 아닌것같음",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 비** 보습크림",
+    "ReviewScore": "20",
+    "Syllable": "79",
+    "Word": "7",
+    "RDate": "20200113",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "사용한지한달만에트러블올라옴.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "피부타입",
+        "SentimentText": "민감성도아닌데 잘 안맞는건 아닌것같음",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "240946",
+    "RawText": "샘플사용중이고 효과는 더 써봐야겠지만 악건성인데다 입주변은   각질이 심하게 일어나서  고민이었는데 해결될것 같아요 건조하신 분들에게 추천하고 싶어요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 비** 보습크림",
+    "ReviewScore": "100",
+    "Syllable": "83",
+    "Word": "16",
+    "RDate": "20200113",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "샘플사용중이고 효과는 더 써봐야겠지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "피부타입",
+        "SentimentText": "악건성인데다 입주변은   각질이 심하게 일어나서  고민이었는데 해결될것 같아요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240949",
+    "RawText": "극건성인 제 피부에 딱 좋아요 발림성이 진짜 연고처럼 잘 안발려지지만 촉촉해요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 비** 보습크림",
+    "ReviewScore": "100",
+    "Syllable": "43",
+    "Word": "11",
+    "RDate": "20200116",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "피부타입",
+        "SentimentText": "극건성인 제 피부에 딱 좋아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "제 피부에 딱 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성이 진짜 연고처럼 잘 안발려지지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉해요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240958",
+    "RawText": "발림성이 좀 뻑뻑하긴 하지만 조금지나면 흡수력이 아주좋아요..계속 잘 써보겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 비** 보습크림",
+    "ReviewScore": "60",
+    "Syllable": "46",
+    "Word": "9",
+    "RDate": "20200117",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성이 좀 뻑뻑하긴 하지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "조금지나면 흡수력이 아주좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240961",
+    "RawText": "일단 케이스가 철이라맘에안듬 ㆍ둘째 냄새가 실음ㆍ셋째 뻑뻑하게발림 ㆍ넷째 촉촉한건지 잘모르겠으",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 비** 보습크림",
+    "ReviewScore": "100",
+    "Syllable": "52",
+    "Word": "10",
+    "RDate": "20200111",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용기",
+        "SentimentText": " 케이스가 철이라맘에안듬",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "냄새가 실음",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": " 뻑뻑하게발림",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉한건지 잘모르겠으",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "240962",
+    "RawText": "방송때는 빠르게 흡수됐는데 직접 써보니 발림성이 넘 안 좋아서 뭉치고 허옇게 ㅡ저승사자같음ㅠ 향도 ᆢ 아무리  자연 그대로라고해도 넘 나빠서ᆢ 사용하고싶지않네요ᆢ ㅠ",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 비** 보습크림",
+    "ReviewScore": "20",
+    "Syllable": "92",
+    "Word": "21",
+    "RDate": "20191220",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성이 넘 안 좋아서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "뭉치고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "허옇게 ㅡ저승사자같음ㅠ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 ᆢ 아무리  자연 그대로라고해도 넘 나빠서ᆢ 사용하고싶지않네요ᆢ ㅠ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "240965",
+    "RawText": "제형이 뻑뻑해서 쓰다 주름 생길 것 같아요. 방송에 나오는 것처럼 절대 광은 안 납니다. 나름 피부 좋은 사람 중에 한 사람인데, 정말 추천하고 싶지 않네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 비** 보습크림",
+    "ReviewScore": "100",
+    "Syllable": "88",
+    "Word": "25",
+    "RDate": "20200107",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 뻑뻑해서 쓰다 주름 생길 것 같아요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "방송에 나오는 것처럼 절대 광은 안 납니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "240967",
+    "RawText": "일년 사계절 사용할 수 있는 보습력이 강한 제품을 찾고 있었는데 이 제품은 보습력이 약하고 얼굴에 광채가 나지 않아요. 가격도 비싼데 샘플도 하나 없어서 실망입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 비** 보습크림",
+    "ReviewScore": "100",
+    "Syllable": "92",
+    "Word": "24",
+    "RDate": "20200105",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "보습력이 약하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "얼굴에 광채가 나지 않아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 비싼데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "샘플도 하나 없어서 실망입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "240968",
+    "RawText": "잘받았습니다 근데 방송처럼 보습이나 광은 크게 나지 않고 전체적으로 바르는 느낌이 묵직해서 조금 만족도는 떨어집니딘",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 비** 보습크림",
+    "ReviewScore": "50",
+    "Syllable": "64",
+    "Word": "15",
+    "RDate": "20200101",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "보습이나 광은 크게 나지 않고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "광은 크게 나지 않고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "바르는 느낌이 묵직해서 조금 만족도는 떨어집니딘",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "240972",
+    "RawText": "냉새가 별로고 펴 바르기 힘들지만 보습은 짱이네요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 비** 보습크림",
+    "ReviewScore": "100",
+    "Syllable": "27",
+    "Word": "7",
+    "RDate": "20191220",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "냉새가 별로고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "펴 바르기 힘들지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "보습은 짱이네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240977",
+    "RawText": "속건조가 심해서 입가 당김이 심해요 얼마나 발라야 하는지는 모르겠지만.. 평소 로션만큼 바르고 잤더니 아침에 당김은 덜하네요.. 그렇다고 아침까지 촉촉하진 않아요 하루밖에 안되서 잘 모르겠지만.. 꾸준히쓰면 속건조는 잡힐듯 싶어요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 비** 보습크림",
+    "ReviewScore": "100",
+    "Syllable": "128",
+    "Word": "28",
+    "RDate": "20191220",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "아침에 당김은 덜하네요.. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "그렇다고 아침까지 촉촉하진 않아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하진 않아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "꾸준히쓰면 속건조는 잡힐듯 싶어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "240978",
+    "RawText": "보습이 너무잘되구요ᆢᆢ뽀샤샤해지내요ᆢᆢ얼굴이광택이 나네요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 비** 보습크림",
+    "ReviewScore": "100",
+    "Syllable": "31",
+    "Word": "3",
+    "RDate": "20191217",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "보습이 너무잘되구요ᆢᆢ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "뽀샤샤해지내요ᆢᆢ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "얼굴이광택이 나네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240985",
+    "RawText": "드라마틱한 효과와 피부에 광은 없구요. 용량 대비 가격도 싸지 않네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 비** 보습크림",
+    "ReviewScore": "80",
+    "Syllable": "39",
+    "Word": "10",
+    "RDate": "20200107",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "드라마틱한 효과와 피부에 광은 없구요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "피부에 광은 없구요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "용량 대비 가격도 싸지 않네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  }
+]

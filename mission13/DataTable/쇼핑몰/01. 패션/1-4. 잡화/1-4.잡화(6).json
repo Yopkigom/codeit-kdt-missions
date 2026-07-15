@@ -1,0 +1,3319 @@
+[
+  {
+    "Index": "197610",
+    "RawText": "대충 쓸라고 싼 가격 눈에 들어와  구매 하고는 그래도 헛 돈쓴건가? 얼마나 대충그런 물건이 올까 하였는데ᆢ 와~~! 정말 가성비는 두말않고도 가방 굿!!",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 남성가방 크로스백 서류가방 숄더백",
+    "ReviewScore": "100",
+    "Syllable": "86",
+    "Word": "22",
+    "RDate": "20210920",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "싼 가격 눈에 들어와 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "정말 가성비는 두말않고도 가방 굿!!",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197612",
+    "RawText": "디자인은 좋은데 지금 휴대폰 싸이즈에는  좁은것,같다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 크로스백 스마트폰케이스",
+    "ReviewScore": "100",
+    "Syllable": "29",
+    "Word": "6",
+    "RDate": "20210708",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인은 좋은데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "지금 휴대폰 싸이즈에는  좁은것,같다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "197614",
+    "RawText": "작아도 작은 물병이 들어가니 촣아요 가벼운 산책시 여행시 좋겠어요 마음에 들어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 캐주얼 슬링백 메신져백 등산가방",
+    "ReviewScore": "100",
+    "Syllable": "44",
+    "Word": "11",
+    "RDate": "20211120",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "작아도 작은 물병이 들어가니 촣아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성/편의성",
+        "SentimentText": "가벼운 산책시 여행시 좋겠어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197616",
+    "RawText": "작아서 많이는 안 들어가지만 등산할때 물이랑 핸드폰정도는 들어가는 알맞는 사이즈네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 남녀공용 슬링백",
+    "ReviewScore": "100",
+    "Syllable": "46",
+    "Word": "10",
+    "RDate": "20210910",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "작아서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "수납",
+        "SentimentText": "많이는 안 들어가지만 등산할때 물이랑 핸드폰정도는 들어가는",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "알맞는 사이즈네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197626",
+    "RawText": "배송 빠르고 어깨가 아프지도 않아요 ㅋㅋㅋ 수납공간이 많아서 좋네요 ㅋㅋ 해외에도 들고 다닐 수 있겠어요 ㅋㅋ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 남성 장금장치 USB 충전 슬링백 블랙",
+    "ReviewScore": "100",
+    "Syllable": "61",
+    "Word": "16",
+    "RDate": "20210814",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사용성/편의성",
+        "SentimentText": "어깨가 아프지도 않아요 ㅋㅋㅋ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납",
+        "SentimentText": "수납공간이 많아서 좋네요 ㅋㅋ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성/편의성",
+        "SentimentText": "해외에도 들고 다닐 수 있겠어요 ㅋㅋ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197629",
+    "RawText": "사이즈도 적당하고 외부에 포켓이 있어 간편하게 사용하기 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 투포켓 가죽숄더백",
+    "ReviewScore": "100",
+    "Syllable": "35",
+    "Word": "8",
+    "RDate": "20190709",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "사이즈도 적당하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납",
+        "SentimentText": "외부에 포켓이 있어 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성/편의성",
+        "SentimentText": "간편하게 사용하기 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197633",
+    "RawText": "생각보다 작아요. 냄새가 심해요.  싸게 구매해서 그냥 씁니다.  ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 캐주얼 블랙 메신저백 크로스백",
+    "ReviewScore": "60",
+    "Syllable": "37",
+    "Word": "8",
+    "RDate": "20191201",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "생각보다 작아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "냄새가 심해요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸게 구매해서 그냥 씁니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197634",
+    "RawText": "아직 여행 전이라 물건을 넣고 다녀 보진 않았지만 그냥 착용시 양쪽에 고리가 있어 편하네요! 보조배터리 넣어두고 밖에서 연결 가능한건 좋아요! 폰이 노트라 케이스는 빼고 앞쪽에 넣으면 딱맞네요! ^^; 매는 끈이 몸에 맞춰 놨지만 한번 해보니 좀 쉽게 끈 조절이 되는데 장점 같지만 귀중품 가져다니기엔 단점으로 부각될듯 합니다! 디자인 깔끔하고 이쁩니다!",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 슬링백 남자크로스백 여행가방",
+    "ReviewScore": "80",
+    "Syllable": "198",
+    "Word": "50",
+    "RDate": "20190901",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용시 양쪽에 고리가 있어 편하네요! ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성/편의성",
+        "SentimentText": "보조배터리 넣어두고 밖에서 연결 가능한건 좋아요!",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성/편의성",
+        "SentimentText": "좀 쉽게 끈 조절이 되는데 장점 같지만",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 깔끔하고 이쁩니다!",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197635",
+    "RawText": "사이즈도 너무 크지않고 색상도 고급스러운 그레이입니다. 여행 외에도 평소에 사용해도 괜찮을것 같네요. 남편이 여러군데 찾아보다 샀는데 마음에 쏙 든다고 하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 슬링백 남자크로스백 여행가방",
+    "ReviewScore": "100",
+    "Syllable": "89",
+    "Word": "20",
+    "RDate": "20190925",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "사이즈도 너무 크지않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 고급스러운 그레이입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성/편의성",
+        "SentimentText": " 여행 외에도 평소에 사용해도 괜찮을것 같네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197636",
+    "RawText": "두달정도 사용했습니다. 일단  디자인이 멋스럽고 고급집니다. 휴대폰 지갑 보조배터리 헤드폰 ... 수납이 편하고 착용감이 좋아요. 가성비 좋은 제품이라 추천합니다. ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 인** 슬링백( 2color)",
+    "ReviewScore": "100",
+    "Syllable": "92",
+    "Word": "19",
+    "RDate": "20191101",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 멋스럽고 고급집니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납",
+        "SentimentText": "휴대폰 지갑 보조배터리 헤드폰 ... 수납이 편하고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감이 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋은 제품이라 추천합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197637",
+    "RawText": "유니크한 디자인으로 한쪽으로 메거나 양쪽으로 멜 수 있어 활용도도 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 악** 백팩 (2 color)",
+    "ReviewScore": "100",
+    "Syllable": "41",
+    "Word": "10",
+    "RDate": "20210825",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "유니크한 디자인으로",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성/편의성",
+        "SentimentText": "한쪽으로 메거나 양쪽으로 멜 수 있어 활용도도 좋네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197640",
+    "RawText": "가성비 짱.  가볍고 튼튼해 보임",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 악** 백팩 (2 color)",
+    "ReviewScore": "100",
+    "Syllable": "18",
+    "Word": "5",
+    "RDate": "20211119",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 짱.  ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성",
+        "SentimentText": "튼튼해 보임",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197641",
+    "RawText": "데일리백팩으로 좋습니다 재질 좋고 색상 조아요~~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 악** 백팩 (2 color)",
+    "ReviewScore": "100",
+    "Syllable": "27",
+    "Word": "6",
+    "RDate": "20210829",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사용성/편의성",
+        "SentimentText": "데일리백팩으로 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상 조아요~~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197642",
+    "RawText": "색상 좋고 재질 좋고 데일리용으로 갠찬습니다~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 악** 백팩 (2 color)",
+    "ReviewScore": "100",
+    "Syllable": "25",
+    "Word": "6",
+    "RDate": "20210829",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성/편의성",
+        "SentimentText": "데일리용으로 갠찬습니다~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197648",
+    "RawText": "반신반의 하면서 주문 했는데... 상품 받아보고, 제품 디자인, 사이즈가 제가 딱 원하는 수준이고 무엇보다도 가족품질이 저급스럽지 않습니다. ^^~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 스** 슬링백 (1color)",
+    "ReviewScore": "80",
+    "Syllable": "82",
+    "Word": "18",
+    "RDate": "20190720",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "제품 디자인, 사이즈가 제가 딱 원하는 수준이고 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "사이즈가 제가 딱 원하는 수준이고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "가족품질이 저급스럽지 않습니다. ^^~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197650",
+    "RawText": "디자인도 사용성도 좋아요 받아보 만족했어요 가격대비 디자인도 굿",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 사** 슬링백 (1color)",
+    "ReviewScore": "100",
+    "Syllable": "35",
+    "Word": "8",
+    "RDate": "20190719",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 사용성도 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성/편의성",
+        "SentimentText": "사용성도 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "가격대비 디자인도 굿",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197671",
+    "RawText": "기라로쉬  잘받았어요 박음질부분이 깔끔하지못한거외엔  다 괜찮네요  잘가지고 다니겠다고ㅈ합니다 구성도 맘에 들어서 아주맘에 들어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 솔** 옴므 3종 세트(크로스백, 지갑, 벨트)",
+    "ReviewScore": "100",
+    "Syllable": "72",
+    "Word": "13",
+    "RDate": "20191026",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "박음질부분이 깔끔하지못한거외엔",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성도 맘에 들어서 아주맘에 들어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197677",
+    "RawText": "크기랑 다 적당한데 바느질 상태가 매우 불량해서 좀 보기에 안좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 솔** 옴므 3종 세트(크로스백, 지갑, 벨트)",
+    "ReviewScore": "60",
+    "Syllable": "38",
+    "Word": "10",
+    "RDate": "20191204",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "크기랑 다 적당한데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "바느질 상태가 매우 불량해서 좀 보기에 안좋아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "197688",
+    "RawText": "가방크기가 생각보다 크진 않습니다. 깔끔하고 고급스러운 느낌이 마음에 드네요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 남자 크로스백 서류가방 숄더백",
+    "ReviewScore": "100",
+    "Syllable": "43",
+    "Word": "9",
+    "RDate": "20210804",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "가방크기가 생각보다 크진 않습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "깔끔하고 고급스러운 느낌이 마음에 드네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197689",
+    "RawText": "물두 많이 빠지고 제가 원하던 색상이 아니여서 흠..........",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 무** 청에코백",
+    "ReviewScore": "40",
+    "Syllable": "37",
+    "Word": "8",
+    "RDate": "20210714",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "물두 많이 빠지고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "제가 원하던 색상이 아니여서 흠..........",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "197691",
+    "RawText": "큼직하니 좋아요. 안에 독립된 수납공간이 넉넉히 있었으면 하는 아쉬움이 있어요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 남자 에코백 숄더백",
+    "ReviewScore": "100",
+    "Syllable": "44",
+    "Word": "10",
+    "RDate": "20210410",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "큼직하니 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납",
+        "SentimentText": "안에 독립된 수납공간이 넉넉히 있었으면 하는 아쉬움이 있어요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "197694",
+    "RawText": "해외여행 갈때 보조가방으로 샀어요. 실밥처리가 깔끔하지 않은 점이 아쉽지만 기내백으로 쓰기 좋은 사이즈에요!",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 남성 보스턴백 가방",
+    "ReviewScore": "60",
+    "Syllable": "60",
+    "Word": "13",
+    "RDate": "20220226",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "실밥처리가 깔끔하지 않은 점이 아쉽지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "기내백으로 쓰기 좋은 사이즈에요!",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197703",
+    "RawText": "클래식한 디자인으로 품질도 고급스럽네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 네이비 가죽배색 서류가방",
+    "ReviewScore": "100",
+    "Syllable": "21",
+    "Word": "4",
+    "RDate": "20210818",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "클래식한 디자인으로",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 고급스럽네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197704",
+    "RawText": "사용하기가 편하고 저렴한 가격에  가성비가 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 옴므 브리프케이스 3종 2탄",
+    "ReviewScore": "100",
+    "Syllable": "29",
+    "Word": "6",
+    "RDate": "20190610",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사용성/편의성",
+        "SentimentText": "사용하기가 편하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에  가성비가 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197722",
+    "RawText": "겉감과 디자인 좋고 크기,  포켓이 넘 마음에 듭니다!! 하지만 작은 단점이 있다면 안감이 조금은 허술한게 있습니다!!~그래도 잘 쓰겠습니다!!^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 남자 클러치백 블랙 클러치",
+    "ReviewScore": "100",
+    "Syllable": "82",
+    "Word": "18",
+    "RDate": "20210129",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "겉감과 디자인 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "크기,  포켓이 넘 마음에 듭니다!!",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "포켓이 넘 마음에 듭니다!!",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "안감이 조금은 허술한게 있습니다!!~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "197731",
+    "RawText": "디자인이예뻐서샀는데 화공약품냄새가많이남",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 트** 슬링백 힙색 웨이스트백",
+    "ReviewScore": "100",
+    "Syllable": "21",
+    "Word": "2",
+    "RDate": "20190811",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이예뻐서샀는데",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "화공약품냄새가많이남",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "197745",
+    "RawText": "손잡이 부분이 조금 덜렁거리지만 가볍고 예뻐요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 캐리어 기내용 하드 캐리어",
+    "ReviewScore": "100",
+    "Syllable": "25",
+    "Word": "6",
+    "RDate": "20210817",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성",
+        "SentimentText": "손잡이 부분이 조금 덜렁거리지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "예뻐요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197746",
+    "RawText": "가격대비 저렴하게구입했어요. 고급스럽고 소재도 부들부들 촉감도 괜찮은 것 같아요. 사이즈도 적당하고 조아요. 냄새가 좀 나긴하는데, 지나면 괜찮아지겠죠. 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 블랙 보스턴백 크로스백",
+    "ReviewScore": "80",
+    "Syllable": "92",
+    "Word": "18",
+    "RDate": "20190312",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 저렴하게구입했어요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "고급스럽고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": " 소재도 부들부들 촉감도 괜찮은 것 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "사이즈도 적당하고 조아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "냄새가 좀 나긴하는데, 지나면 괜찮아지겠죠.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "197760",
+    "RawText": "와 실밥처리 쩌네요 울퉁불퉁..ㅋ 라이타로 몇번 지졌는지.. 싼값에 박리다매네요 귀차나서 반품을 안하는 성격인데 몇번쓰다 버려야겠네요 그나저나 주문하고 인터넷검색하다보니 홈쇼핑 캐리어 1급발암물질 손잡이에 나왔다는데 개선이 됐나요? ㅇㅇㅇㅇㅇ도 포함이던데.  장갑이라도 끼고 끌고다녀야하는지? 불안하네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 밀** 여행가방",
+    "ReviewScore": "20",
+    "Syllable": "169",
+    "Word": "31",
+    "RDate": "20170425",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "와 실밥처리 쩌네요 울퉁불퉁..ㅋ 라이타로 몇번 지졌는지..",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "싼값에 박리다매네요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "캐리어 1급발암물질 손잡이에 나왔다는데 개선이 됐나요? ㅇㅇㅇㅇㅇ도 포함이던데.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 장갑이라도 끼고 끌고다녀야하는지? 불안하네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "몇번쓰다 버려야겠네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "197762",
+    "RawText": "수학여행 가는 아들이 개시했어요. 크기. 색상 모두 마음에 들구요. 가벼워서 좋습니다~^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 밀** 여행가방",
+    "ReviewScore": "100",
+    "Syllable": "50",
+    "Word": "11",
+    "RDate": "20170501",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "크기. 색상 모두 마음에 들구요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상 모두 마음에 들구요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워서 좋습니다~^^",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197766",
+    "RawText": "배송도 빠르고 물건고 이쁘고 좋아요 사은품도 좋고요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 7종세트",
+    "ReviewScore": "100",
+    "Syllable": "28",
+    "Word": "7",
+    "RDate": "20170823",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "물건고 이쁘고 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품도 좋고요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197767",
+    "RawText": "색상이 맘에 듭니다 하지만 견고함은 덜 하네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 7종세트",
+    "ReviewScore": "100",
+    "Syllable": "25",
+    "Word": "7",
+    "RDate": "20180124",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 맘에 듭니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성",
+        "SentimentText": "견고함은 덜 하네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "197769",
+    "RawText": "여행용 캐리어 이것저것 많이 알아 봤는데 기내용.화물용 모두 확장이 되는 점이랑 가방 안 양쪽에 지퍼가 달려 있어서 가방 열었을때 물건이 쏟아지지 않는점이 매우 맘에 듬니다. 근데 물건을 받고보니 각 모서리 부분에 스크레치가 난 상태로 물건이 왔더라구여 교환 할 시간이 없어서 그냥 사용합니다만 기분이 좋지는 않아여",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 7종세트",
+    "ReviewScore": "60",
+    "Syllable": "176",
+    "Word": "45",
+    "RDate": "20171105",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능성",
+        "SentimentText": "기내용.화물용 모두 확장이 되는 점이랑",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "가방 안 양쪽에 지퍼가 달려 있어서",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "가방 열었을때 물건이 쏟아지지 않는점이 매우 맘에 듬니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "각 모서리 부분에 스크레치가 난 상태로 물건이 왔더라구여",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "197772",
+    "RawText": "몇번이나 고민하고 구입한 상품인데 좋습니다. 외관도 튼튼하고 가볍습니다. 핸들링도 편리하구요. 기내용,화물용 모두 TSA LOCK,확장 기능이 있어 아주 좋아요. 칸막이 부분에 수납 지퍼가 하나씩만 있었으면 하는 아쉬움은 있지만  그래도 만족합니다. 같이 주신 가방도 잘 쓸게요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 7종세트",
+    "ReviewScore": "100",
+    "Syllable": "156",
+    "Word": "34",
+    "RDate": "20170903",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성",
+        "SentimentText": "외관도 튼튼하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍습니다.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성/편의성",
+        "SentimentText": "핸들링도 편리하구요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": "기내용,화물용 모두 TSA LOCK,확장 기능이 있어 아주 좋아요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납",
+        "SentimentText": "칸막이 부분에 수납 지퍼가 하나씩만 있었으면 하는 아쉬움은 있지만",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "197773",
+    "RawText": "바퀴부드럽고 탄성좋고 색상도 좋고 맘에 듭니다 즐거운 여행될것같아요~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 7종세트",
+    "ReviewScore": "100",
+    "Syllable": "38",
+    "Word": "8",
+    "RDate": "20170817",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "바퀴부드럽고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "탄성좋고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 좋고 맘에 듭니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197778",
+    "RawText": "제가 먼저 사용하려다가 동생이 여행간다해서 동생에게 먼저 보냈는데 색상도 맘에 들고 가볍고 확장까지 되서 넘 좋다고 하네요  저도 블랙으로 다시 구매 해야겠어요~^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 7종세트",
+    "ReviewScore": "100",
+    "Syllable": "92",
+    "Word": "22",
+    "RDate": "20171011",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 맘에 들고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": "확장까지 되서 넘 좋다고 하네요 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "저도 블랙으로 다시 구매 해야겠어요~^^",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197787",
+    "RawText": "구매후 쟈크부분 하자있어 교환했는데 그것도 불량이드라구요 여행날짜 때문에 어쩔수 없이 그냥썼는데 색감도 좋고 싸고 가볍고 편하긴하네요  유럽 여행 잘 다녀왔습니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 6종세트",
+    "ReviewScore": "70",
+    "Syllable": "90",
+    "Word": "20",
+    "RDate": "20191128",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "쟈크부분 하자있어 교환했는데 그것도 불량이드라구요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색감도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성/편의성",
+        "SentimentText": "편하긴하네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197793",
+    "RawText": "색상이아주좋아요~기내용은 확장기능이있어서 참좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 6종세트",
+    "ReviewScore": "100",
+    "Syllable": "28",
+    "Word": "3",
+    "RDate": "20180107",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이아주좋아요~",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": "기내용은 확장기능이있어서 참좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197794",
+    "RawText": "이 가격에 사이즈 큰 것 작은 것 두개 준다는게 놀랍네요 디자인이나 색상도 고급지도 좋습니다~~~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 6종세트",
+    "ReviewScore": "100",
+    "Syllable": "54",
+    "Word": "14",
+    "RDate": "20180107",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "이 가격에 사이즈 큰 것 작은 것 두개 준다는게 놀랍네요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 디자인이나 색상도 고급지도 좋습니다~~~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 고급지도 좋습니다~~~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197795",
+    "RawText": "한개 정도 가격으로 캐리어를 두개나... 가족여행에 쓸 화물용과 1박 혹은 나홀로 여행갈 때 쓸 기내용이 정말 실속구성입니다.  아이들 수련회나 캠프갈 때도 좋네요.  가볍고 잘 굴러가고 칸막이가 양쪽 모두 다 되어 있어서 짐 정리도 깔끔하게 잘 됩니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 6종세트",
+    "ReviewScore": "100",
+    "Syllable": "142",
+    "Word": "36",
+    "RDate": "20180115",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "한개 정도 가격으로 캐리어를 두개나...",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "가족여행에 쓸 화물용과 1박 혹은 나홀로 여행갈 때 쓸 기내용이 정말 실속구성입니다. ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성/편의성",
+        "SentimentText": "아이들 수련회나 캠프갈 때도 좋네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납",
+        "SentimentText": "칸막이가 양쪽 모두 다 되어 있어서 짐 정리도 깔끔하게 잘 됩니다.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197797",
+    "RawText": "여행다녀오고나서 큰가방의 필요성을 절실히 느끼고 집에와서 방송보고 바로 질렀어요 꼭필요한것만 있는 알짜구성이었거든요 오래 잘썼으면 좋겠네요 가격도 싸고 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 6종세트",
+    "ReviewScore": "100",
+    "Syllable": "88",
+    "Word": "18",
+    "RDate": "20171228",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "꼭필요한것만 있는 알짜구성이었거든요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 싸고 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197798",
+    "RawText": "저렴한 가격이고 딱 필요한것 위주라 좋습니다. 가격대비 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 6종세트",
+    "ReviewScore": "100",
+    "Syllable": "36",
+    "Word": "8",
+    "RDate": "20171228",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격이고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "딱 필요한것 위주라 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197799",
+    "RawText": "배송은 빠른편이었고 상품도 예쁘고 맘에 들어요. 색은 실제가 더 보기좋아요. 저렴한 가격에 기내용까지 확장되고 tsa까지... 튼튼하기만 하면 딱인데 이부분은 써봐야 알수 있으니까요. 튼튼했음 좋겠네요ㅎ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 6종세트",
+    "ReviewScore": "100",
+    "Syllable": "113",
+    "Word": "24",
+    "RDate": "20180107",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "상품도 예쁘고 맘에 들어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색은 실제가 더 보기좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": "기내용까지 확장되고 tsa까지... ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197800",
+    "RawText": "가방안쪽 칸막이가 양쪽에 있는게 맘에듭니다.바퀴도 부드럽고 손잡이도 짱짱해요. 목베개가 엄청 찌그러져 있었는데 파우치에서 꺼내놓으니 원래모습으로 돌아오네요 잘쓰겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 6종세트",
+    "ReviewScore": "100",
+    "Syllable": "93",
+    "Word": "17",
+    "RDate": "20180103",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "수납",
+        "SentimentText": "가방안쪽 칸막이가 양쪽에 있는게 맘에듭니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "바퀴도 부드럽고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성",
+        "SentimentText": "손잡이도 짱짱해요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197801",
+    "RawText": "페라리 레드로 구매했는데, 색상은 사진이 더 이쁘네요. 광택나는 고급스러운 레드일줄 알았는데, 한톤 다운된칼라에요. 하지만 가볍고 바퀴도 잘 끌어지고, 부담없이 잘 사용할거 같습니다. 감사합니다^_^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 6종세트",
+    "ReviewScore": "100",
+    "Syllable": "111",
+    "Word": "23",
+    "RDate": "20180104",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "페라리 레드로 구매했는데, 색상은 사진이 더 이쁘네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "광택나는 고급스러운 레드일줄 알았는데, 한톤 다운된칼라에요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "바퀴도 잘 끌어지고, ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성/편의성",
+        "SentimentText": "부담없이 잘 사용할거 같습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197803",
+    "RawText": "우리 딸이 중국 간다고 딱 한번 사용 했는데 안쪽 칸막이 천이 있는쪽에 실밥이 다 터져 지퍼가 의미가 없어져 버렸네요. A/S 신청할려 하니 구매한지 한달이 지나서인지 안돼네요.  A/S 안돼나요? 품질 이런거 팔아놓고..",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 6종세트",
+    "ReviewScore": "60",
+    "Syllable": "124",
+    "Word": "31",
+    "RDate": "20180101",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "내구성",
+        "SentimentText": "안쪽 칸막이 천이 있는쪽에 실밥이 다 터져 지퍼가 의미가 없어져 버렸네요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질 이런거 팔아놓고..",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "197804",
+    "RawText": "잘받았네요 배송이 너무나 느려서실망이컸네요 ㅇㅇ쇼핑첫구매라기대도했었는데  색상다마음에듭니다  기내용은다른거보다 가방안쪽 구조가조금작아요 열심히잼난여행할게요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 6종세트",
+    "ReviewScore": "60",
+    "Syllable": "86",
+    "Word": "10",
+    "RDate": "20180107",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상다마음에듭니다 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "기내용은다른거보다 가방안쪽 구조가조금작아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "197807",
+    "RawText": "아직 사용전이지만 크기도 적당하고 가격대비 구성이 너무 알차고 좋아요~  단지 겉면에 코팅비닐 벗기는게 너무 귀찮았어요ㅡㅡ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 6종세트",
+    "ReviewScore": "80",
+    "Syllable": "68",
+    "Word": "15",
+    "RDate": "20190923",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": " 크기도 적당하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "가격대비 구성이 너무 알차고 좋아요~  ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197809",
+    "RawText": "상품도착해서풀었더니...완전예뻐요~^^ 가볍고색(골드)도넘맘들어요~~ 완전저렴하게잘샀어요~ 감사합니다 ~^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 6종세트",
+    "ReviewScore": "100",
+    "Syllable": "59",
+    "Word": "5",
+    "RDate": "20190926",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "완전예뻐요~^^",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색(골드)도넘맘들어요~~",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "완전저렴하게잘샀어요~",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197816",
+    "RawText": "레드가 하고 싶었는데 재고가 없어서 샤이니골드로 주문,방금 배송받아서 포장 풀었는데...대박~색상이 넘예쁘요^^가볍고 가격도 엄청 싸고 군더더기없이 깔끔한게 넘 잘샀어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 6종세트",
+    "ReviewScore": "100",
+    "Syllable": "94",
+    "Word": "18",
+    "RDate": "20190923",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": ".대박~색상이 넘예쁘요^^",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 엄청 싸고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "군더더기없이 깔끔한게 넘 잘샀어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197818",
+    "RawText": "상품을 사고 이제 여행을 갈려고하니 작은 캐리어 안쪽이 깨어저있네요...ㅠㅠ 이거 늦었지만 교환이 가능한지 알고 싶어요.. 디자인은 예뻐요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 6종세트",
+    "ReviewScore": "60",
+    "Syllable": "78",
+    "Word": "17",
+    "RDate": "20191004",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "내구성",
+        "SentimentText": "작은 캐리어 안쪽이 깨어저있네요...ㅠㅠ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인은 예뻐요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197820",
+    "RawText": "정말 저렴하게잘구매했어요 색상도 좋아요 벌써4개째구매입니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 6종세트",
+    "ReviewScore": "100",
+    "Syllable": "32",
+    "Word": "5",
+    "RDate": "20190930",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "정말 저렴하게잘구매했어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197822",
+    "RawText": "색깔도 고급스럽습니다.은은한게 제가 생각하던 이쁜 로즈베이지인듯 해요.감사합니다.즐거운 여행하겠습니다~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 6종세트",
+    "ReviewScore": "100",
+    "Syllable": "57",
+    "Word": "8",
+    "RDate": "20180118",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색깔도 고급스럽습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "은은한게 제가 생각하던 이쁜 로즈베이지인듯 해요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197823",
+    "RawText": "배송도 빠르고 28인치는 크고 24인치는 작고 해서 이 사이즈를 원했는데 매우 만족스럽네요 무게도 이정도면 가벼운거 같고 확장도 확실히 많이 되네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 6종세트",
+    "ReviewScore": "100",
+    "Syllable": "82",
+    "Word": "20",
+    "RDate": "20171125",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "28인치는 크고 24인치는 작고 해서 이 사이즈를 원했는데 매우 만족스럽네",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게도 이정도면 가벼운거 같고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": "확장도 확실히 많이 되네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197825",
+    "RawText": "자크 손잡이 불량으로 교환 신청하고 받은 제품은 안감 마감이 엉망 글루로 고정한 것이 떨어짐  큰 것과 작은 것 둘 다 그러함불량으로 한마디로 제품이 허접한 것도 있지만 불량 제품을 파는 듯함 교환 환불 귀찮아서 그냥 쓰기로 함",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 6종세트",
+    "ReviewScore": "40",
+    "Syllable": "127",
+    "Word": "36",
+    "RDate": "20171227",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "자크 손잡이 불량으로 교환 신청하고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "교환 신청하고 받은 제품은 안감 마감이 엉망",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "글루로 고정한 것이 떨어짐 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "큰 것과 작은 것 둘 다 그러함불량으로",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "한마디로 제품이 허접한 것도 있지만 불량 제품을 파는 듯함",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "197826",
+    "RawText": "여행가방 필요해서 고민하던중에 저렴하게 구매했어요 색상도 넘 예쁘고 가성비 최고네욤~^^ 별 다섯개도 부족하네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 6종세트",
+    "ReviewScore": "100",
+    "Syllable": "62",
+    "Word": "13",
+    "RDate": "20171227",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구매했어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 넘 예쁘고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 최고네욤~^^",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197830",
+    "RawText": "샘**** 면세점에서 주문했다가 방송보고 취소 ㅠ 이 상품으로  주문했어요 일단 가볍고 바퀴잘굴러가느건 인정합니다 하지만  디테일이  아쉽네요 마감이 깔끔하지가 않아서 금방 고장날것같은 기분이 드네요 하지만  가성비로 따지면  꽤  괜찮은듯 합니다 함께오는 목베개는  안에 솜이 완전 쭈그러져서 펴지지도 않네요 ㅠ 카본블랙 주문했는데 단색 아니라 무늬 있습니다 무늬싫으신분은  카본블랙  하지마시길~~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 6종세트",
+    "ReviewScore": "80",
+    "Syllable": "224",
+    "Word": "47",
+    "RDate": "20171122",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "바퀴잘굴러가느건 인정합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "디테일이  아쉽네요 마감이 깔끔하지가 않아서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성",
+        "SentimentText": "금방 고장날것같은 기분이 드네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비로 따지면  꽤  괜찮은듯 합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "카본블랙 주문했는데 단색 아니라 무늬 있습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "197837",
+    "RawText": "며칠전 대만여행때 사용했어요ᆢ 크고 잘 밀려서 편하게 다녀왔네요~~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 6종세트",
+    "ReviewScore": "100",
+    "Syllable": "37",
+    "Word": "8",
+    "RDate": "20180121",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "크고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "잘 밀려서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성/편의성",
+        "SentimentText": "편하게 다녀왔네요~~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197839",
+    "RawText": "착한가격으로   잘산거같아요 가볍고   색상도  아주예뻐요. 처음가는   해외여행  잘 다녀 왔네요~^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 6종세트",
+    "ReviewScore": "100",
+    "Syllable": "58",
+    "Word": "10",
+    "RDate": "20190409",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "착한가격으로   잘산거같아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고  ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도  아주예뻐요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197841",
+    "RawText": "배송도 빠르고 색상도 예쁘게 잘 나왔어요. 무엇보다 확장형이고 20인치에도 잠금장치가 26인치와 동일한 자재여서 맘에듭니다. 바퀴도 생각보다 커서 잘 굴러가네요. 근데, 사은품은 같이 안오나요? 다 뒤져봐도 안보이네요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 6종세트",
+    "ReviewScore": "100",
+    "Syllable": "122",
+    "Word": "26",
+    "RDate": "20171127",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 예쁘게 잘 나왔어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": "무엇보다 확장형이고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "20인치에도 잠금장치가 26인치와 동일한 자재여서 맘에듭니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "바퀴도 생각보다 커서 잘 굴러가네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197844",
+    "RawText": "밝은색할걸 후회되네요 26인치는 엄청커요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 6종세트",
+    "ReviewScore": "100",
+    "Syllable": "22",
+    "Word": "4",
+    "RDate": "20171217",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "밝은색할걸 후회되네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "26인치는 엄청커요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "197848",
+    "RawText": "배송은2틀만에왔구요.26인치는 생각보다크네요.근데20인치가넘작아서. . 샤이니골드구매했는데색상도괜찬코바퀴도부드럽게잘구르네요.아직사용전이지만여행가서 아무탈업길바랍니당",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 6종세트",
+    "ReviewScore": "100",
+    "Syllable": "91",
+    "Word": "5",
+    "RDate": "20171201",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "26인치는 생각보다크네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "20인치가넘작아서. .",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "샤이니골드구매했는데색상도괜찬코",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "바퀴도부드럽게잘구르네요.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197849",
+    "RawText": "행사카드로 더 저렴하게 구입했구요 색상은 말할것도 없고 바퀴도 본체도 너무 튼튼해요 여행 잘 다녀오겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 6종세트",
+    "ReviewScore": "100",
+    "Syllable": "59",
+    "Word": "14",
+    "RDate": "20171217",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "행사카드로 더 저렴하게 구입했구요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상은 말할것도 없고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성",
+        "SentimentText": "바퀴도 본체도 너무 튼튼해요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197851",
+    "RawText": "상품이 아주 퀵 배송 되었구요 ~ 고급진 포장이 아니여서 조금 실망 했었구요 상품자체는 품질 그럭저럭 노멀하네요~  특별한 퀄러티는 없네요 ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 6종세트",
+    "ReviewScore": "100",
+    "Syllable": "78",
+    "Word": "19",
+    "RDate": "20171127",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "상품자체는 품질 그럭저럭 노멀하네요~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "특별한 퀄러티는 없네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "197852",
+    "RawText": "배송빠르고 기본적인 제품은 가격대비 괜찬으나 캐리어열어보자말자 속에 있는 벤드가 떨어져있는게 보임  교환하는 귀찬음보단 순간접착제로 내가 붙여 쓰는게 낫겟다싶어서 그냥 쓰기로 햇네요  쓰다가 떨어지는것도 아니고 떨어져 있는체로 배송되는건 좀 어이가 없네요  품질관리 신경쓰시길바랍니다  사진 올리고싶은데 올리는 기능이 없네요 ㅡㅡ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 6종세트",
+    "ReviewScore": "60",
+    "Syllable": "184",
+    "Word": "38",
+    "RDate": "20171118",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "기본적인 제품은 가격대비 괜찬으나",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "캐리어열어보자말자 속에 있는 벤드가 떨어져있는게 보임 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "쓰다가 떨어지는것도 아니고 떨어져 있는체로 배송되는건 좀 어이가 없네요 ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질관리 신경쓰시길바랍니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "197853",
+    "RawText": "색상은 맘에 들어요 근데 스크래치 크게 있고 실밥이 좀 많아요 박음질이 잘못됐는지 손잡이 쪽 위쪽이 꺼졌어요 짜증나네요 싸니깐 이해 하려고 노력중입니다 사은품은 쓰레기네요 하나를 줘도 쓰는거 좋야지요 귀찮아서 교환 안 하고 쓰렵니다 1년 사용했다생각하고쓰려구요 싸다고 덥썩 사지마세요 상태를보면 싸게 주고 산거 아니란생각들어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 6종세트",
+    "ReviewScore": "60",
+    "Syllable": "182",
+    "Word": "42",
+    "RDate": "20171127",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상은 맘에 들어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 스크래치 크게 있고 실밥이 좀 많아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "박음질이 잘못됐는지 손잡이 쪽 위쪽이 꺼졌어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸니깐 이해 하려고 노력중입니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품은 쓰레기네요 하나를 줘도 쓰는거 좋야지요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "싸다고 덥썩 사지마세요 상태를보면 싸게 주고 산거 아니란생각들어요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "197854",
+    "RawText": "우선 골드로 구매했는데 색상이 너무나 마음에듭니다 이 가격에 이런 구성품으로 구매하다니 좋네요 아직 사용전이지만 믿고 써보겠습니다~!",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 6종세트",
+    "ReviewScore": "80",
+    "Syllable": "74",
+    "Word": "16",
+    "RDate": "20171228",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "골드로 구매했는데 색상이 너무나 마음에듭니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "이 가격에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "이런 구성품으로 구매하다니 좋네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197856",
+    "RawText": "카본블랙을 구매했는데 비닐코팅이 벗겨져있어서 불량품인줄 알았는데 필름지 떼라는 라벨이 붙어있더군요. 필름지를 떼고보니 광택이 나면서 카본블랙색상이 정말 고급스럽게 변신하네요. 바퀴도 잘굴러가고 가격대비 만족합니다. 가방2개 모두 확장형이라서 좋으네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 6종세트",
+    "ReviewScore": "100",
+    "Syllable": "139",
+    "Word": "26",
+    "RDate": "20171127",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "광택이 나면서 카본블랙색상이 정말 고급스럽게 변신하네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "바퀴도 잘굴러가고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 만족합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": "가방2개 모두 확장형이라서 좋으네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197860",
+    "RawText": "맘에 들어요~ 화면그대로 색상 이쁘네요~ 일본여행때 쓸려구요~^^ 저렴하게 잘 구입한거 같아요~~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 6종세트",
+    "ReviewScore": "100",
+    "Syllable": "54",
+    "Word": "11",
+    "RDate": "20171210",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "화면그대로 색상 이쁘네요~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 구입한거 같아요~~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197861",
+    "RawText": "색상도 방송이랑 같고 사이즈도 원하던거라 좋네요~~다만 포장상자가 좀 더 컸으면 화물용캐리어 윗부분이 눌려 꺼져있지 않을텐데하는 아쉬움과 사은품이 허잡한거...아님 항공커버 하나로 교체함 더 실속있지않나 싶네요~~~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 6종세트",
+    "ReviewScore": "80",
+    "Syllable": "120",
+    "Word": "24",
+    "RDate": "20171210",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 방송이랑 같고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "사이즈도 원하던거라 좋네요~~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품이 허잡한거...아님 항공커버 하나로 교체함 더 실속있지않나 싶네요~~~",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "197862",
+    "RawText": "딸이 골랐고 공항에서 멋지게 캐리어 끌고싶어해요^^ 레드와 고민 끝에 결정했는데 딸이 맘에 들어해요^^ 구성도 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 6종세트",
+    "ReviewScore": "100",
+    "Syllable": "65",
+    "Word": "15",
+    "RDate": "20171222",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "레드와 고민 끝에 결정했는데 딸이 맘에 들어해요^^",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성도 좋네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197863",
+    "RawText": "가격대비 만족핮니다 저렴하데 실용성도 있고 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 6종세트",
+    "ReviewScore": "100",
+    "Syllable": "27",
+    "Word": "6",
+    "RDate": "20171220",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 만족핮니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하데",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성/편의성",
+        "SentimentText": "실용성도 있고 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197866",
+    "RawText": "가성비 최고입니다. 튼튼하고 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 6종세트",
+    "ReviewScore": "100",
+    "Syllable": "19",
+    "Word": "4",
+    "RDate": "20171122",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 최고입니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성",
+        "SentimentText": "튼튼하고 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197868",
+    "RawText": "입국하는날 짐정리하고 지퍼 닫는데..손잡이 하나가 쑥 빠져서 튕겨나가서 호텔에서 고리 찾느라 고생..틈사이가 벌어져서 손잡이가 빠졌더라고요... 짐도 별로 넣지않아서 공간도 많았고..저 손아귀힘쎄지 않거든요..이 압력에 지퍼가  틈이 생겨 벌어진거면 물건이 약한거 같아요..껴서 고정시켜 났는데..혹시 또 손잡이 빠져서 짐 열릴까봐 공항에 짐 붙일때 불안했어요..집에와서 지퍼 벌어진부분 붙여 볼까했는데 ..이정도 압력으로 벌어져서 지퍼가 쑥쑥 빠지니 불안해서 못쓰겠네요.. 한번 사용했고 1주일전인데 이런 경우..교환환불 가능힌가요?..불안해서 못쓰겠네요..",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 6종세트",
+    "ReviewScore": "20",
+    "Syllable": "313",
+    "Word": "60",
+    "RDate": "20171219",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "내구성",
+        "SentimentText": "지퍼 닫는데..손잡이 하나가 쑥 빠져서 튕겨나가서",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성",
+        "SentimentText": "틈사이가 벌어져서 손잡이가 빠졌더라고요...",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성",
+        "SentimentText": "이 압력에 지퍼가  틈이 생겨 벌어진거면 물건이 약한거 같아요..",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성",
+        "SentimentText": "혹시 또 손잡이 빠져서 짐 열릴까봐 공항에 짐 붙일때 불안했어요..",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성",
+        "SentimentText": "집에와서 지퍼 벌어진부분 붙여 볼까했는데 ..",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성",
+        "SentimentText": "이정도 압력으로 벌어져서 지퍼가 쑥쑥 빠지니 불안해서 못쓰겠네요..",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "197869",
+    "RawText": "딥블루 칼라.. 실제 색이 더 예쁩니다. 여행용 가방 사려고 한달 넘게 고민했는데  정말 탁월한 선택이었음.. 강력 추천요~! 디자인도 굿",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 6종세트",
+    "ReviewScore": "100",
+    "Syllable": "77",
+    "Word": "19",
+    "RDate": "20171223",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "딥블루 칼라.. 실제 색이 더 예쁩니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 굿",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197870",
+    "RawText": "트렁쿠 안에 냄새는 좀 많이 났지만  이틀 열어놓으니 냄새사라지네요.. 내구성은 사용햐봐야 알겟고색상은 맘에듭니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 6종세트",
+    "ReviewScore": "100",
+    "Syllable": "63",
+    "Word": "13",
+    "RDate": "20171223",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "트렁쿠 안에 냄새는 좀 많이 났지만  이틀 열어놓으니 냄새사라지네요..",
+        "SentimentWord": "9",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상은 맘에듭니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197871",
+    "RawText": "10년전 산 캐리어가방쓰다 새로장만했네요 디자인도 이쁘고..바퀴가 진짜 잘굴러가네요 완전만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 6종세트",
+    "ReviewScore": "100",
+    "Syllable": "54",
+    "Word": "9",
+    "RDate": "20171120",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 이쁘고..",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "바퀴가 진짜 잘굴러가네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197873",
+    "RawText": "TV 홈쇼핑 보고 구매하고 받았습니다. 오~ 가격대비 굉장한 상품입니다. 특히 바퀴가 너무 부드럽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 6종세트",
+    "ReviewScore": "100",
+    "Syllable": "58",
+    "Word": "13",
+    "RDate": "20171128",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "오~ 가격대비 굉장한 상품입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "바퀴가 너무 부드럽습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197875",
+    "RawText": "고객센터에 사진첨부가 안되어서 이곳에 남깁니다 천과 지퍼 연결부위 엄청 약합니다 천마감을 제대로 안한 상태에서 지퍼를 달아서인지 천올풀림이 심하네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 6종세트",
+    "ReviewScore": "20",
+    "Syllable": "82",
+    "Word": "18",
+    "RDate": "20171214",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "내구성",
+        "SentimentText": "천과 지퍼 연결부위 엄청 약합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "천마감을 제대로 안한 상태에서 지퍼를 달아서인지 천올풀림이 심하네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "197880",
+    "RawText": "카본블랙으로 구입했는데..디자인도 이쁘고 상품도 정말 만족합니다. 잘 쓸거같아요. 저렴한 가격에 정말 잘 구입한듯해요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 6종세트",
+    "ReviewScore": "100",
+    "Syllable": "65",
+    "Word": "13",
+    "RDate": "20171129",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 이쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 저렴한 가격에 정말 잘 구입한듯해요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197884",
+    "RawText": "색깔도 예뿌고 튼튼해보이네요:)!!! 잘 받았습니다. 배송이 아주 빨랐어용!",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 6종세트",
+    "ReviewScore": "100",
+    "Syllable": "42",
+    "Word": "8",
+    "RDate": "20171218",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색깔도 예뿌고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성",
+        "SentimentText": "튼튼해보이네요:)!!! ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197889",
+    "RawText": "디자인도 예쁘고 가볍고 좋네요. 꼭 필요한 사이즈라 활용도도 좋을 것 같고  내부 수납 공간도 좋아요. 커버도 있으면 정말 완벽한 구성인데 살짝 아쉽긴 하지만 가격이 워낙 착하니 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 6종세트",
+    "ReviewScore": "100",
+    "Syllable": "106",
+    "Word": "27",
+    "RDate": "20171201",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 예쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고 좋네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "꼭 필요한 사이즈라 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성/편의성",
+        "SentimentText": "활용도도 좋을 것 같고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납",
+        "SentimentText": "내부 수납 공간도 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 워낙 착하니 만족합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197891",
+    "RawText": "바퀴도 잘글러가고 좋음 싸게 잘삿는데 기스가 좀 심한데 텡프 떼면 될것 같음 그리고 가방 윗주분이 좀 주저앉음.. 사용하다보면 되겟지 싶어서 교환안하고 ㅋ걍 씀 ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 6종세트",
+    "ReviewScore": "100",
+    "Syllable": "90",
+    "Word": "23",
+    "RDate": "20171126",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "바퀴도 잘글러가고 좋음",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸게 잘삿는데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "가방 윗주분이 좀 주저앉음..",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "197897",
+    "RawText": "캐리어 크고넗어서 넘 좋아요 가격대비 매우만족",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 6종세트",
+    "ReviewScore": "100",
+    "Syllable": "25",
+    "Word": "6",
+    "RDate": "20171218",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "캐리어 크고 넗어서 넘 좋아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 매우만족",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197898",
+    "RawText": "이번달29일부터 여행예정이라 아직 사용해보진 않았지만 가격대비 품질은 괜찮은것 같아요. 배송도 빠르고. 추가 구성품도 같이 왔는데 뭐 사용하고 싶게 생기진 않았어요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 6종세트",
+    "ReviewScore": "100",
+    "Syllable": "92",
+    "Word": "20",
+    "RDate": "20171206",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격대비 품질은 괜찮은것 같아요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "추가 구성품도 같이 왔는데 뭐 사용하고 싶게 생기진 않았어요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "197904",
+    "RawText": "캐리어 디자인 맘에 듭니다 다른 색상도 하나 더 구매하고 싶은데 없네요 저렴하게 구매해서 좋고  딱 필요한 제품 구매해서 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 6종세트",
+    "ReviewScore": "100",
+    "Syllable": "71",
+    "Word": "19",
+    "RDate": "20190917",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "캐리어 디자인 맘에 듭니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구매해서 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197906",
+    "RawText": "색상이 샤이니 골드만 있어서 어쩔 수 없이 선택했는데 오늘 받고 보니 색상 넘 은은하고 예쁜게 질리지않게 잘 쓸 수 있을 것 같네요. 바퀴도 부드럽게 잘 굴러가고 손잡이 부분만 좀 약한 것 같아서 살짝 걱정이드네요;;;~그래도 한개 살가격에 두개를 샀다는점에 아주 만족해하고 있습니다^^~앞으로도 오래오래 고장없이 잘 사용했음하는 바램입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 6종세트",
+    "ReviewScore": "100",
+    "Syllable": "191",
+    "Word": "46",
+    "RDate": "20190918",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상 넘 은은하고 예쁜게 질리지않게 잘 쓸 수 있을 것 같네요. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "바퀴도 부드럽게 잘 굴러가고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성",
+        "SentimentText": "손잡이 부분만 좀 약한 것 같아서 살짝 걱정이드네요;;;~",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "한개 살가격에 두개를 샀다는점에 아주 만족해하고 있습니다^^~",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197912",
+    "RawText": "색상도 은은하니 디자인도 고급지고 짱 좋아요 내구성은 써봐야겠지만~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 6종세트",
+    "ReviewScore": "100",
+    "Syllable": "37",
+    "Word": "8",
+    "RDate": "20190927",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 은은하니 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 고급지고 짱 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197913",
+    "RawText": "가방이 유연하고 광택나고 디자인도 좋아요~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 6종세트",
+    "ReviewScore": "100",
+    "Syllable": "23",
+    "Word": "5",
+    "RDate": "20180112",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "가방이 유연하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "광택나고 디자인도 좋아요~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197914",
+    "RawText": "네이비 주문 일반 네이비보다 많이 밝네요. 가볍고 안쪽 수납등이 맘에 듭니다. 몸통부분 스크레치 많았지만 어차피 쓸거 교환안하고 쓰렵니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 6종세트",
+    "ReviewScore": "80",
+    "Syllable": "77",
+    "Word": "18",
+    "RDate": "20180111",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "일반 네이비보다 많이 밝네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납",
+        "SentimentText": "안쪽 수납등이 맘에 듭니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "몸통부분 스크레치 많았지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "197915",
+    "RawText": "아이들 방학이라 가족끼리 스키장도 가고 영어캠프도 가야하는데,색상 예쁜가방을 사고싶어 샀어요. 가방 수명 5년이라 생각하고 부담없이 끌고 다닙니다. 아이 영어캠프때 작은가방 가져갔었는데 친구들 검은 가방들 사이에서 눈에 확 띄여 찾기도 쉬웠습니다. 아이들 쓰는 용도로 사주셔도 부담스럽지않고요,만족합니다. 근데 바퀴부분은 ㅇㅇㅇㅇㅇ에 비해 좀 약한 것 같아요.그래도 가격대비 대만족입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 6종세트",
+    "ReviewScore": "100",
+    "Syllable": "217",
+    "Word": "45",
+    "RDate": "20180114",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상 예쁜가방을 사고싶어 샀어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성/편의성",
+        "SentimentText": "부담없이 끌고 다닙니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "친구들 검은 가방들 사이에서 눈에 확 띄여 찾기도 쉬웠습니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성/편의성",
+        "SentimentText": "아이들 쓰는 용도로 사주셔도 부담스럽지않고요,만족합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성",
+        "SentimentText": "바퀴부분은 ㅇㅇㅇㅇㅇ에 비해 좀 약한 것 같아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 대만족입니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197916",
+    "RawText": "색상도 마음에들고, 배송도 빠르네요. 가격대비 괜찮은거같아요. 이번 여행에 사용 예정 예요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 6종세트",
+    "ReviewScore": "80",
+    "Syllable": "50",
+    "Word": "11",
+    "RDate": "20180113",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 마음에들고,",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 괜찮은거같아요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197922",
+    "RawText": "색상도 좋고 튼튼해 보이긴 한데 오래 사용했음 합니다. 울아들 첫 취직해서 자취해서 중간중간 잘사용할께요 ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 6종세트",
+    "ReviewScore": "80",
+    "Syllable": "59",
+    "Word": "14",
+    "RDate": "20190914",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성",
+        "SentimentText": "튼튼해 보이긴 한데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197923",
+    "RawText": "색상도 예쁘면서 가방이 무척이나 가볍고 가격도 착해서 대만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 6종세트",
+    "ReviewScore": "100",
+    "Syllable": "37",
+    "Word": "8",
+    "RDate": "20190922",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 예쁘면서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가방이 무척이나 가볍고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 착해서 대만족합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197925",
+    "RawText": "저렴한 가격인데도  튼튼하고  색상도  넘 예쁘고  좋아요  확장형이라 물건도  많이 넣어서  정말 좋아요  많이 파세요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 6종세트",
+    "ReviewScore": "100",
+    "Syllable": "68",
+    "Word": "15",
+    "RDate": "20180407",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격인데도",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성",
+        "SentimentText": "튼튼하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도  넘 예쁘고  좋아요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능성",
+        "SentimentText": "확장형이라",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납",
+        "SentimentText": "물건도  많이 넣어서  정말 좋아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197926",
+    "RawText": "브랜드와 가격비교 후 구매~ 완전 괜찰음요..^^ 바퀴도 부드러움..",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 6종세트",
+    "ReviewScore": "100",
+    "Syllable": "38",
+    "Word": "8",
+    "RDate": "20190307",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격비교 후 구매~ 완전 괜찰음요..^^",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "바퀴도 부드러움..",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197927",
+    "RawText": "블랙하고팠는데 매진이라 가족들의 의견을 반영하여 딥블루 구매했어요...색상이색상이 넘이뻐요..화면에서 나오는 색상과 사진상의 색상과는 틀려요..훨씬 고급스럽고 이뻐요..제가 사진으로 찍어도 표현이 안되네요..가방좋은거야 방송에서 다 소개하셨으니..가볍고 바퀴 잘돌아가고..색상이 끝내줍니다~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 6종세트",
+    "ReviewScore": "100",
+    "Syllable": "162",
+    "Word": "25",
+    "RDate": "20171229",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "딥블루 구매했어요...색상이색상이 넘이뻐요..",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "사진상의 색상과는 틀려요..훨씬 고급스럽고 이뻐요..",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "바퀴 잘돌아가고..",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 끝내줍니다~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197928",
+    "RawText": "색상도 이쁘고 디자인도 사진과 그대로라서 너무 좋아요^-^ 양쪽 다 자쿠있는거 원했는데 구입해서 좋아요~~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 6종세트",
+    "ReviewScore": "100",
+    "Syllable": "59",
+    "Word": "13",
+    "RDate": "20171228",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 이쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 사진과 그대로라서 너무 좋아요^-^",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "양쪽 다 자쿠있는거 원했는데 구입해서 좋아요~~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197937",
+    "RawText": "스크래치가 군데군데 있어 조금 찝찝하네요 그래도 싼가격에 구입해서 그래도 위안 되네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 6종세트",
+    "ReviewScore": "80",
+    "Syllable": "47",
+    "Word": "11",
+    "RDate": "20191018",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "스크래치가 군데군데 있어 조금 찝찝하네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "싼가격에 구입해서 그래도 위안 되네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "197938",
+    "RawText": "가방이 두개에다 목베개 도있고 구성도 좋고 가격도 착해서 마음에 쏙들어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 여행용 가방 6종세트",
+    "ReviewScore": "100",
+    "Syllable": "40",
+    "Word": "10",
+    "RDate": "20191017",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "가방이 두개에다 목베개 도있고 구성도 좋고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 착해서 마음에 쏙들어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]

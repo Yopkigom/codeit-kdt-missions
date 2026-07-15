@@ -1,0 +1,3506 @@
+[
+  {
+    "Index": "620283",
+    "RawText": "배송은 엄청 빨랐습니다. 다만 박스가 찌그러져 왔습니다. 싼 가격에 구입한 것이 아닌데 신경 써주시길 바랍니다. 향도 강해서 안 좋았고 지속력도 4시간 밖에 안됩니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 블** 코롱 100ml",
+    "ReviewScore": "5",
+    "Syllable": "93",
+    "Word": "23",
+    "RDate": "20190801",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "싼 가격에 구입한 것이 아닌데",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 강해서 안 좋았고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력도 4시간 밖에 안됩니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "620292",
+    "RawText": "향은 가장 인기많은 향입니다. 가격이 OO가보다 저렴해요. 배송은 하루 걸렸고 포장상태 등은 양호합니다. 선물할 수 있도록 봉투도 동봉해 주고 전체적으로 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 블** 코롱 100ml",
+    "ReviewScore": "5",
+    "Syllable": "92",
+    "Word": "21",
+    "RDate": "20190719",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향은 가장 인기많은 향입니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 OO가보다  저렴해요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "620295",
+    "RawText": "항상 사용하는 향입니다. 매번 백화점에서 구입했는데 급해서 구입했어요. 잘 쓸게요. 백화점보다 저렴한 듯하네요. 향도 원래대로 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 블** 코롱 100ml",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "16",
+    "RDate": "20190716",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 듯하네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 원래대로 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "항상 사용하는 향입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "620303",
+    "RawText": "상품 잘 받았어요. 바틀 스티커가 날씨 때문인지 좀 녹았지만 저렴하게 구입할 수 있어 좋았어요. 니치쪽은 가격 타협이 온라인에서도 적은 편인데 좋네요. 개인적으론 OOO만 사용하는데 선물용으로 많은 사람들이 좋아하는 향을 구매하게 되었어요. 전체적으로 저렴한 가격에 구매해서 마음에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 블** 코롱 100ml",
+    "ReviewScore": "5",
+    "Syllable": "162",
+    "Word": "37",
+    "RDate": "20190711",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구입할 수 있어 좋았어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "전체적으로 저렴한 가격에 구매해서 마음에 듭니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "620304",
+    "RawText": "쓰던 걸 다 써서 재주문했습니다. 이불에도 뿌리면 향이 은은한 게 기분 좋습니다. 생각지도 못한 사은품이랑 샘플을 보내 주셔서 너무 기분 좋습니다. 향은 진하지 않아서 좋고 가장 무난한 향이라서 자주 애용해요. 다만 용기 뚜껑을 잡고 들어올리면 가끔 뚜껑이 열려서 조심해야 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 블** 코롱 100ml",
+    "ReviewScore": "5",
+    "Syllable": "157",
+    "Word": "40",
+    "RDate": "20190711",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 은은한 게 기분 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품이랑 샘플을 보내 주셔서 너무 기분 좋습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향은 진하지 않아서 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "가장 무난한 향이라서 자주 애용해요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기 뚜껑을 잡고 들어올리면 가끔 뚜껑이 열려서 조심해야 합니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "620309",
+    "RawText": "배송도 빠르고 상품 구성도 좋습니다. 선물하려고 구매했는데 샘플도 잘 챙겨주시고 선물로 투명 파우치도 챙겨주셔서 좋았어요. 꼼꼼하게 포장해주셔서 감사드립니다. 재구매도 여기서 하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 블** 코롱 100ml",
+    "ReviewScore": "5",
+    "Syllable": "104",
+    "Word": "21",
+    "RDate": "20190708",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "상품 구성도 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "샘플도 잘 챙겨주시고 선물로 투명 파우치도 챙겨주셔서 좋았어요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "620322",
+    "RawText": "이번에 구입한 제품은 기존 향과 다른 듯하네요. 열심히 분사해 봤지만, 향이라고 할 수 없을 만큼 잔향이 전혀 나지 않았어요. 저렴한 가격에 속은 듯하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 블** 코롱 100ml",
+    "ReviewScore": "1",
+    "Syllable": "87",
+    "Word": "23",
+    "RDate": "20190612",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이라고 할 수 없을 만큼 잔향이 전혀 나지 않았어요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 속은 듯하네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "기존 향과 다른 듯하네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "620335",
+    "RawText": "집에 두고 쓰려고 샀습니다. 코롱이라 지속력이 덜한 건 알지만 잔향이 너무 짧네요. 사이즈도 생각보다 작습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 블** 코롱 100ml",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "15",
+    "RDate": "20190525",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력이 덜한 건 알지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "잔향이 너무 짧네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/두께",
+        "SentimentText": "사이즈도 생각보다 작습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "620336",
+    "RawText": "향이 은은하고 오래갑니다. 친구에게 좋은 향이 나서 물어보고 샀는데 향이 좋아요. 요즘 인기있는 향이예요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 블** 코롱 100ml",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "14",
+    "RDate": "20190524",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 은은하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "오래갑니다.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "요즘 인기있는 향이예요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "620338",
+    "RawText": "가격이 만만하지 않다보니 항상 망설이고 구입 미뤼왔는데, 성년을 맞이한 조카을 위해과감하게 구입합니다. 이곳저곳에서 검색해보니 OOO가 향이 좋아 남자들한테 의외로 인기가 많아요 조카가 좋아할것 생각하니미리 기분이 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 블** 코롱 100ml",
+    "ReviewScore": "5",
+    "Syllable": "123",
+    "Word": "26",
+    "RDate": "20190521",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 만만하지 않다보니",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 좋아",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "620339",
+    "RawText": "평만 보고 블라인드로 구매했는데 만족합니다. 향이 고급스러워요. 향이 여성스럽지 않아서 좋아요. 다만 병이 유리라서 무거워요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 블** 코롱 100ml",
+    "ReviewScore": "4",
+    "Syllable": "70",
+    "Word": "15",
+    "RDate": "20190521",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 고급스러워요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 여성스럽지 않아서 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "병이 유리라서 무거워요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "620340",
+    "RawText": "내용물에 비해 상자가 너무 커서그런지 많이 찌그러져서 왔네요. 샘플 보내주신 귀여운상자도 찌그러졌어요. 처음 쓰는데 향이 꼬릿꼬릿한 냄새가 나요. 제가 좋아하는 냄새는 아니네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 블** 코롱 100ml",
+    "ReviewScore": "3",
+    "Syllable": "99",
+    "Word": "22",
+    "RDate": "20190517",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 꼬릿꼬릿한 냄새가 나요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "제가 좋아하는 냄새는 아니네요.  ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "620357",
+    "RawText": "배송 빠르네요. 남들이 말할 때는 몰랐는데 제가 사용해보니 생각보다 지속력이 짧은 것 같아요. 그래도 향은 원하는 향이라 좋네요. 가격은 아직도 많이 비싸네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 플** EDP 75ml",
+    "ReviewScore": "5",
+    "Syllable": "89",
+    "Word": "22",
+    "RDate": "20210926",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "생각보다 지속력이 짧은 것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향은 원하는 향이라 좋네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 아직도 많이 비싸네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "620373",
+    "RawText": "직구로 구입하고 리뷰에 10일 정도 걸린다고 했는데 생각보다 일찍 받았어요. 기대하며 기다리느라 오래 기다린 느낌이에요. OOO 향 너무 좋네요. 시향지 맡고 구매했는데 맡았던 향과 거의 흡사해요. 기다린 보람이 있어요. 용량 대비 가격은 정말 비싸요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 플** EDP 75ml",
+    "ReviewScore": "5",
+    "Syllable": "141",
+    "Word": "34",
+    "RDate": "20211024",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "OOO 향 너무 좋네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "용량 대비 가격은 정말 비싸요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "620375",
+    "RawText": "백화점에서 냄새를 맡고 산 게 아니기 때문에 조금 불안했는데 역시 인기있는 제품은 이유가 있어요. 처음 뿌리면 후추향 같은 향이 강한데 잔향이 너무 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 플** EDP 75ml",
+    "ReviewScore": "5",
+    "Syllable": "88",
+    "Word": "23",
+    "RDate": "20211114",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "처음 뿌리면 후추향 같은 향이 강한데",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "잔향이 너무 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "620381",
+    "RawText": "제 인생향수 찾았어요. 따뜻하고 여자여자한 향인데 거기다 달달한 엄마품이 생각나는 향이에요. 포근하고 따스한 살냄새 그자체예요. 가격 비싼거 빼고 다 좋아요. 신랑이 나도 쓰고 싶다고 한 향수는 처음이에요. 절대 후회 안해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 플** EDP 75ml",
+    "ReviewScore": "5",
+    "Syllable": "126",
+    "Word": "30",
+    "RDate": "20190119",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "따뜻하고 여자여자한 향인데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "달달한 엄마품이 생각나는 향이에요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "포근하고 따스한 살냄새 그자체예요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 비싼거 빼고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "620388",
+    "RawText": "맨날 눈독만 들이다가 할인받아 매장보다 좀 저렴한 편이여서 구매했어요. 향이 너무 좋아요. 시향지 부탁드린거랑 선물포장도 꼼꼼하게 해주셔서 감사합니다. 배송도 정말 빠르네요.주문하고 다음날 받아봤어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 플** EDP 75ml",
+    "ReviewScore": "5",
+    "Syllable": "112",
+    "Word": "23",
+    "RDate": "20191207",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 편이여서 구매했어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 너무 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "620394",
+    "RawText": "여기 제품은 저하고 안 맞나 봅니다. 지난번에 산 다른 향수도 안 맞아서 이번에 다른 걸 사 봤는데 지난번보다는 낫지만 역시 향이 취향에 안 맞네요. 향이 싼티 나는 느낌이고 너무 화려하고 고급스럽지가 않아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 플** EDP 75ml",
+    "ReviewScore": "5",
+    "Syllable": "117",
+    "Word": "32",
+    "RDate": "20200106",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "저하고 안 맞나 봅니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 취향에 안 맞네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 싼티 나는 느낌이고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "너무 화려하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "고급스럽지가 않아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "620403",
+    "RawText": "저렴한 가격에 주문하게 되어 아주 좋아요. 항상 쓰는제품이라 고민없이 구매했습니다. 10m증정상품을 랜덤으로 챙겨주셔서 전 더욱 감동했어요. 자주 들려 쇼핑하려구요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 플** EDP 75ml",
+    "ReviewScore": "5",
+    "Syllable": "92",
+    "Word": "19",
+    "RDate": "20200703",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 주문하게 되어 아주 좋아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "10m증정상품을 랜덤으로 챙겨주셔서 전 더욱 감동했어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "620414",
+    "RawText": "향이 자연스럽고 좋습니다. 파우더리한 여성향수만 쓰다 ㅇㅇㅇ 써보니 새롭고 좋아요. 여성 남성 둘다 사용하기 괜찮은 듯 합니다. 여성적인향이 어울리는 제게는 덜 어울리네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 플** EDP 75ml",
+    "ReviewScore": "5",
+    "Syllable": "96",
+    "Word": "22",
+    "RDate": "20200421",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 자연스럽고 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "여성 남성 둘다 사용하기 괜찮은 듯 합니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "여성적인향이 어울리는 제게는 덜 어울리네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "620428",
+    "RawText": "마음에 들어 추천해요. 가격은 비싼데 향이 은은하면서 고급진 향입니다. 두 세번 뿌려도 향이 강하지 않아서 좋습니다. 알코올이나 꽃 향기가 강하지 않아 머리도 안 아파서 많이 뿌리게 될 것 같습니다. 배송도 빠르고 케이스도 고급집니다. OOO향수 처음인데 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 플** EDP 75ml",
+    "ReviewScore": "5",
+    "Syllable": "149",
+    "Word": "36",
+    "RDate": "20190513",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 비싼데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 은은하면서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "고급진 향입니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "두 세번 뿌려도 향이 강하지 않아서 좋습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "알코올이나 꽃 향기가 강하지 않아",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "머리도 안 아파서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "케이스도 고급집니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "620433",
+    "RawText": "너무 마음에 안 듭니다. 비추예요. 향이 별로입니다. 냄새가 은은하지 않고 알코올 냄새가 너무 강합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 플** EDP 75ml",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "14",
+    "RDate": "20191220",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 별로입니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "냄새가 은은하지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "알코올 냄새가 너무 강합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "620434",
+    "RawText": "첨 접한 ㅇㅇㅇ. 시향하지 않은 상태에서 구매한터라 향이 100%만족은 아니지만 나쁘지 않아요. 가격도 비싼데 샘플없이 달랑 향수만 보냈네요. 아쉬워요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 플** EDP 75ml",
+    "ReviewScore": "5",
+    "Syllable": "85",
+    "Word": "19",
+    "RDate": "20200108",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 100%만족은 아니지만 나쁘지 않아요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 비싼데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "샘플없이 달랑 향수만 보냈네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "620435",
+    "RawText": "시향은 안 해보고 구매했는데 겨울에 어울리는 향이 아니네요. 다른 제품들도 많이 써봤는데 이 제품은 사용감이 좋지 않네요. 향이 너무 과해서 아쉽습니다. 사용은 그만 하려고 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 플** EDP 75ml",
+    "ReviewScore": "5",
+    "Syllable": "101",
+    "Word": "25",
+    "RDate": "20200111",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "겨울에 어울리는 향이 아니네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사용감",
+        "SentimentText": "사용감이 좋지 않네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 너무 과해서 아쉽습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "620439",
+    "RawText": "새로 구입한 제품입니다. ㅇㅇㅇ중 향이 제일 별로네요. 가격이 비싸고 용량도 작습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 플** EDP 75ml",
+    "ReviewScore": "5",
+    "Syllable": "48",
+    "Word": "11",
+    "RDate": "20210114",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 제일 별로네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 비싸고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/개수",
+        "SentimentText": "용량도 작습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "620440",
+    "RawText": "향은 너무 좋습니다. 근데 용량 대비 가격은 엄청 비싸고 지속력이 좀 아쉽긴 하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 플** EDP 75ml",
+    "ReviewScore": "5",
+    "Syllable": "47",
+    "Word": "13",
+    "RDate": "20180912",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향은 너무 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "용량 대비 가격은 엄청 비싸고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력이 좀 아쉽긴 하네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "620442",
+    "RawText": "시향해보고 구매했어요. 향이 좋습니다. 가격도 조금 저렴하게 구입해서 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 플** EDP 75ml",
+    "ReviewScore": "5",
+    "Syllable": "43",
+    "Word": "9",
+    "RDate": "20181106",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 조금 저렴하게 구입해서 좋아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "620451",
+    "RawText": "백화점에서 시향해보고 잔향이 너무 좋아서 저렴하게 인터넷에서 구매했네요. 토요일 주문에 일요일출고되어 월요일날 받았어요. 배송도 빠르고 너무 좋습니다. 다쓰면 또 사려구요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 플** EDP 75ml",
+    "ReviewScore": "5",
+    "Syllable": "96",
+    "Word": "20",
+    "RDate": "20200721",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "잔향이 너무 좋아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 인터넷에서 구매했네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "620455",
+    "RawText": "배송이 오래 걸리네요. 향도 별로예요. 향이 많이 진합니다. 다음데 또 구매할 일은 없을 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 플** EDP 75ml",
+    "ReviewScore": "3",
+    "Syllable": "57",
+    "Word": "15",
+    "RDate": "20200110",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 별로예요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 많이 진합니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "620456",
+    "RawText": "진짜 오래 걸렸어요. 맘에 여유를 갖고 주문하세요. 그래도 물건은 잘 왔어요. 너무 오래 걸려서 혹시 못받으면 어쩌나란 생각이 있었지만 괜찮습니다. 향수엔 문제 없으니까요. 향도 좋고 가격도 저렴해서 더 좋았어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 플** EDP 75ml",
+    "ReviewScore": "4",
+    "Syllable": "119",
+    "Word": "29",
+    "RDate": "20200613",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴해서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "620461",
+    "RawText": "처음 뿌렸을 때 매력적인 향을 기대했는데 이 제품은 첫 향이 매력적이지 않아요. 지속력도 짧고요. 구매하실 분들은 꼭 시향해 보시길 바랍니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 플** EDP 75ml",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "20",
+    "RDate": "20190818",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "첫 향이 매력적이지 않아요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력도 짧고요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "620462",
+    "RawText": "처음 뿌리면 비누냄새가 퍼집니다. 어디 고급진 장소에서 나는 것 같은 그런 냄새예요. 그 다음은 알싸한 통후추랑 탄 나무 냄새가 살짝 섞인 향이 납니다. 나중에는 그냥 내 살결에서 나는 안달콤하고 안새콤한 은은한 향 같아집니다. 달콤한 꽃향이나 머리 아픈 파우더향이 아니라서 더 좋아요. 용량 많아서 좋습니다. 시향지 보내줬는데 ㅇㅇㅇ민트도 냄새 참 좋았어요. 풀냄새인데 맡자마자 정원에 있는 것 같은 착각이 들었습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 플** EDP 75ml",
+    "ReviewScore": "5",
+    "Syllable": "235",
+    "Word": "58",
+    "RDate": "20190819",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "처음 뿌리면 비누냄새가 퍼집니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "어디 고급진 장소에서 나는 것 같은 그런 냄새예요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "그 다음은 알싸한 통후추랑 탄 나무 냄새가 살짝 섞인 향이 납니다.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "나중에는 그냥 내 살결에서 나는 안달콤하고 안새콤한 은은한 향 같아집니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "달콤한 꽃향이나 머리 아픈 파우더향이 아니라서 더 좋아요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/개수",
+        "SentimentText": "용량 많아서 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "ㅇㅇㅇ민트도 냄새 참 좋았어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "풀냄새인데 맡자마자 정원에 있는 것 같은 착각이 들었습니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "620469",
+    "RawText": "유통기한이 1년도 안 남은 제품이 와서 아쉽습니다. 유통기한이 너무 짧아서 사용하기 꺼려지네요. 괜히 산 것 같아 짜증이 납니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 플** EDP 75ml",
+    "ReviewScore": "1",
+    "Syllable": "72",
+    "Word": "18",
+    "RDate": "20210215",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한이 1년도 안 남은 제품이 와서 아쉽습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한이 너무 짧아서 사용하기 꺼려지네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "620471",
+    "RawText": "상품이 정품은 맞는 것 같은데 이상하게 기존에 썼던거랑 향이 너무 달라요. 지속력도 너무 약하고 여러모로 다르네요. 30분 후면 향이 다 사라집니다. 특유의 톡쏘는 향도 안 느껴지고 속상해요. 며칠 놔뒀다가 쓰면 괜찮아질까요?",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 플** EDP 75ml",
+    "ReviewScore": "3",
+    "Syllable": "126",
+    "Word": "31",
+    "RDate": "20200730",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": " 기존에 썼던거랑 향이 너무 달라요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력도 너무 약하고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "30분 후면 향이 다 사라집니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "특유의 톡쏘는 향도 안 느껴지고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "620496",
+    "RawText": "10미리 향수도 보내주셔서 감사해요. 주말에 살까말까 하는데 ㅇㅇㅇ 특가로 떠서 바로 구매했습니다. 파우더향 살짝 나는 중성향수 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 플** EDP 75ml",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "17",
+    "RDate": "20210525",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "10미리 향수도 보내주셔서 감사해요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "ㅇㅇㅇ 특가로 떠서 바로 구매했습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "파우더향 살짝 나는 중성향수 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "620508",
+    "RawText": "다른 제품 사용하다 금년초에 제품이 나왔지만 아직 사용하는것이 있어 금번에 구입하게 되었는데 향은 좋습니다. 전에는 사은품 챙겨주시더니 이번엔 사은품이 10ml 바디하나 왔어요. 사은품이 부실해요. 지금까지 구입한 ㅇㅇㅇ 향수 중에 샘플이 가장 적었네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 플** EDP 75ml",
+    "ReviewScore": "5",
+    "Syllable": "142",
+    "Word": "32",
+    "RDate": "20180831",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": " 향은 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "전에는 사은품 챙겨주시더니 이번엔 사은품이 10ml 바디하나 왔어요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품이 부실해요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "지금까지 구입한 ㅇㅇㅇ 향수 중에 샘플이 가장 적었네요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "620510",
+    "RawText": "애장템 OOO제품에 이어서 이 제품을 구입했습니다. 기대만큼 오묘한 향이네요. 잔향도 은은하게 오래가고 사용감이 싱그러운 느낌이 들어서 추천해요. 그래도 OOO제품도 좋아해서 하루씩 번갈아가며 쓰고 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 플** EDP 75ml",
+    "ReviewScore": "5",
+    "Syllable": "116",
+    "Word": "24",
+    "RDate": "20181215",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "기대만큼 오묘한 향이네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "잔향도 은은하게 오래가고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "오래가고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용감",
+        "SentimentText": "사용감이 싱그러운 느낌이 들어서 추천해요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "620515",
+    "RawText": "상품평에서 말한 잔향이 좋다는게 이런거네요. 첫 향은 조금 톡 쏘는 향인데 30분 정도 지나면 은은하게 퍼지면서 하루종일 향이 나요. ㅇㅇ도 너무 좋아하며 뿌리고 있는데 이건 또 다른 은은한 향이면서 매력적입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 플** EDP 75ml",
+    "ReviewScore": "5",
+    "Syllable": "119",
+    "Word": "30",
+    "RDate": "20191126",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "잔향이 좋다는게 이런거네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "첫 향은 조금 톡 쏘는 향인데 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "30분 정도 지나면 은은하게 퍼지면서 하루종일 향이 나요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "다른 은은한 향이면서 매력적입니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "620519",
+    "RawText": "향도 너무 좋고 지속력도 좋습니다. 여성 여성하면서 깨끗한 느낌을 주는 향입니다. 머스크향도 있어서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 플** EDP 75ml",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "14",
+    "RDate": "20191223",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 너무 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력도 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "여성 여성하면서 깨끗한 느낌을 주는 향입니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "머스크향도 있어서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "620522",
+    "RawText": "탑노트 매우 호불호 갈릴 수 있어요. 잔향 좋아서 사긴 했지만 스파이시한 탑노트 적응이 잘 안됩니다. 구매에 참고하시길 바래요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 플** EDP 75ml",
+    "ReviewScore": "4",
+    "Syllable": "71",
+    "Word": "18",
+    "RDate": "20200128",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "탑노트 매우 호불호 갈릴 수 있어요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "잔향 좋아서 사긴 했지만 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "스파이시한 탑노트 적응이 잘 안됩니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "620529",
+    "RawText": "비가 와서 그런지 박스 포장 상태도 좋지 않았고 내용물도 뒤엉켜서 와서 불만이 많습니다. 샘플 시향지도 하나도 안 왔습니다. 구성도 좋지 않고 향도 생각보다 좋지 않습니다. 괜히 산 것 같네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 플** EDP 75ml",
+    "ReviewScore": "5",
+    "Syllable": "108",
+    "Word": "29",
+    "RDate": "20210706",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "샘플 시향지도 하나도 안 왔습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성도 좋지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 생각보다 좋지 않습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "620556",
+    "RawText": "배송도 빠르고 향도 마음에 듭니다. 겨울에 사용하기 좋고 보통 살냄새라 하는데 뿌리고 직후 보단 잔향이 정말 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 플** EDP 75ml",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "17",
+    "RDate": "20210104",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 마음에 듭니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "겨울에 사용하기 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "뿌리고 직후 보단 잔향이 정말 좋아요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "620559",
+    "RawText": "지속력이 장난아닙니다. 저녁에 받아서 한번 뿌렸는데 다음날에 향이 느껴집니다. 향도 너무 맘에 드네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 플** EDP 75ml",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "13",
+    "RDate": "20191225",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력이 장난아닙니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "저녁에 받아서 한번 뿌렸는데 다음날에 향이 느껴집니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 너무 맘에 드네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "620564",
+    "RawText": "좀 늦게 받았지만 배송안내 했었어요. 향 맘에 듭니다. 향이 은은해서 데일리로 사용 가능할것 같습니다. 공병이랑 감사해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 플** EDP 75ml",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "16",
+    "RDate": "20200121",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향 맘에 듭니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 은은해서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "데일리로 사용 가능할것 같습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "620565",
+    "RawText": "설연휴 시작 하는 날 주문했어요. 대체공휴일 부터 택배 발송해주셔서 생각보다 빠르게 받았습니다. 정품이라 믿고 구매했네요. 도착하자마자 뿌렸는데 향도 좋고 지속력도 좋아요. 계속 킁킁거리게 되네요. 머스크 향을 좋아해서 전 OOO 보다 이 제품을 더 자주 사용할 듯합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 플** EDP 75ml",
+    "ReviewScore": "5",
+    "Syllable": "152",
+    "Word": "36",
+    "RDate": "20200128",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력도 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "머스크 향을 좋아해서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "620566",
+    "RawText": "용량은 적고 가격은 비싸고 향도 백화점에서 시향했던 향과 달라 당황스럽네요. 지속력도 짧습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 플** EDP 75ml",
+    "ReviewScore": "5",
+    "Syllable": "53",
+    "Word": "12",
+    "RDate": "20200207",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용량/개수",
+        "SentimentText": "용량은 적고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 비싸고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 백화점에서 시향했던 향과 달라 당황스럽네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력도 짧습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "620572",
+    "RawText": "반신반의하면서 후기보고 산 향수인데 향의 지속력이 강해서 너무 맘에 들어요. 배송도 빠르고 할인가격에 잘 산거 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 플** EDP 75ml",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "16",
+    "RDate": "20200304",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "향의 지속력이 강해서 너무 맘에 들어요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인가격에 잘 산거 같아요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "620620",
+    "RawText": "다른 향수 쓰고 있었는데 궁금해서 구매해 봤어요. 향이 강해서 별로예요. 시원한 느낌의 향이 아니라서 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 플** EDP 75ml",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "15",
+    "RDate": "20200411",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 강해서 별로예요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "시원한 느낌의 향이 아니라서 아쉽네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "620621",
+    "RawText": "향기가 독하지도 않고 향이 진심 은은한게 명품같은 향수라고 할까 한번 슥 하고 뿌리면 하루 종일 좋은 향기 가득합니다. 그래서 벌써 두번째 구매해서 사용중이에요. 강력 추천해요. 남성 여성 공용으로 사용해도 매우 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 플** EDP 75ml",
+    "ReviewScore": "5",
+    "Syllable": "124",
+    "Word": "31",
+    "RDate": "20200623",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향기가 독하지도 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 진심 은은한게 명품같은 향수라고 할까 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "한번 슥 하고 뿌리면 하루 종일 좋은 향기 가득합니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "남성 여성 공용으로 사용해도 매우 좋습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "620623",
+    "RawText": "향수도 보니 향이 좀 오래가요. 첫향과 잔향이 다르고 둘다 좋네요. 약간 중성적인 향이고 요즘 뿌리긴 좀 무거운 향이지만, 워낙 머스크계열 좋아해서 만족스럽습니다. .",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 플** EDP 75ml",
+    "ReviewScore": "5",
+    "Syllable": "93",
+    "Word": "23",
+    "RDate": "20200702",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 좀 오래가요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "첫향과 잔향이 다르고 둘다 좋네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "약간 중성적인 향이고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "요즘 뿌리긴 좀 무거운 향이지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "워낙 머스크계열 좋아해서 만족스럽습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "620631",
+    "RawText": "제가 생각했던 꽃 향이랑 너무 달라서 잘못 구매했나 싶었는데 구매전 알아본대로 살냄새처럼 변하는게 좋았어요. 매일은 아니고 가끔 살냄새 같이 은은하고 평범한게 하고 싶을 때 뿌릴 생각입니다. 독특하고 무드있는 향인 이런 향수 느낌을 좋아합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 플** EDP 75ml",
+    "ReviewScore": "5",
+    "Syllable": "136",
+    "Word": "33",
+    "RDate": "20210404",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "제가 생각했던 꽃 향이랑 너무 달라서 잘못 구매했나 싶었는데",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "구매전 알아본대로 살냄새처럼 변하는게 좋았어요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "독특하고 무드있는 향인 이런 향수 느낌을 좋아합니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "가끔 살냄새 같이 은은하고 평범한게 하고 싶을 때 뿌릴 생각입니다. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "620652",
+    "RawText": "향 맘에 듭니다. 첫 향때문에 호불호가 갈릴수 있을거 같긴 한데 이제 저는 그 첫 향마저도 좋아요. 늦은 가을 겨울에 쓰기 딱입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 플** EDP 75ml",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "21",
+    "RDate": "20210902",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향 맘에 듭니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "첫 향때문에 호불호가 갈릴수 있을거 같긴 한데 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "이제 저는 그 첫 향마저도 좋아요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "늦은 가을 겨울에 쓰기 딱입니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "620655",
+    "RawText": "집에 있는 진품과 비교하니 진품 맞는거 같습니다. 백화점에서 시향 해보고 구하질 못해서 여기서 시켰는데 그때 맡았던 향은 정말 잔향이 살결에서 나는 비릿한냄새 처럼 너무 좋던데 이건 머스크 파우더 향이 먼저 나서 이틀 기다렸다 써볼생각입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 플** EDP 75ml",
+    "ReviewScore": "5",
+    "Syllable": "135",
+    "Word": "34",
+    "RDate": "20210907",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "잔향이 살결에서 나는 비릿한냄새 처럼 너무 좋던데",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "머스크 파우더 향이 먼저 나서 이틀 기다렸다 써볼생각입니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "620656",
+    "RawText": "시향 안해보고 살냄새라고 해서 구매했는데 만족합니다. 최근에 자주 사용하고 있습니다. 첫향은 후추향이 나요. 향수 잘 모르는 사람으로 잔향이 어떤지는 잘 모르겠지만 저는 향이 좋습니다. 다만 OOO이 향이 쎄다보니 조금만 뿌려도 주변에서 제가 온 줄 아네요. 다음부터는 더 살짝 뿌려야겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 플** EDP 75ml",
+    "ReviewScore": "5",
+    "Syllable": "164",
+    "Word": "39",
+    "RDate": "20210912",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "첫향은 후추향이 나요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "잔향이 어떤지는 잘 모르겠지만 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 쎄다보니",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "시향 안해보고 살냄새라고 해서 구매했는데 만족합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "다음부터는 더 살짝 뿌려야겠습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "620678",
+    "RawText": "쿠폰 적용해서 저렴하게 잘 구입어요. 10년 넘게 사용중인데 향이 넘 좋아서 바꾸질 못하고 있어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 오리지널 머스크 EDT 50ml",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "14",
+    "RDate": "20220630",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰 적용해서 저렴하게 잘 구입어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": " 향이 넘 좋아서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "620680",
+    "RawText": "머스크 향을 너무 좋아합니다. ㅇㅇ향수 머스크 향이 너무 좋아 진짜 오랜 세월동안 잘 쓰고 있어요. 요번은 카드할인에 구성이 좋아 두셋트 구매했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 오리지널 머스크 EDT 50ml",
+    "ReviewScore": "5",
+    "Syllable": "84",
+    "Word": "21",
+    "RDate": "20220623",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "ㅇㅇ향수 머스크 향이 너무 좋아",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "카드할인에 구성이 좋아",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성이 좋아",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "620698",
+    "RawText": "생각했던 것 보다 향이 엄청 강합니다. 전 무조건 전날에 뿌려놓고 담날 써야 할 것 같아요. 평소에 상콤 달달한걸 좋아해서 이런 종류의 향은 첨이지만 기분전환 하기에는 좋을 듯 해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 오리지널 머스크 EDT 50ml",
+    "ReviewScore": "5",
+    "Syllable": "102",
+    "Word": "28",
+    "RDate": "20220218",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "생각했던 것 보다 향이 엄청 강합니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "무조건 전날에 뿌려놓고 담날 써야 할 것 같아요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "이런 종류의 향은 첨이지만 기분전환 하기에는 좋을 듯 해요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "620708",
+    "RawText": "향이 너무 안 좋아서 향수 뭐 쓰냐고 물어보지도 않네요. 사용하면 할수록 기분이 안 좋아지는 향입니다. 재구매는 절대 안 할 것 같습니다. 추천하지 않고 구매하지도 마시길 바랍니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 오리지널 머스크 EDT 50ml",
+    "ReviewScore": "5",
+    "Syllable": "101",
+    "Word": "26",
+    "RDate": "20220126",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 너무 안 좋아서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "기분이 안 좋아지는 향입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "620711",
+    "RawText": "좋은 가격에 구매했어요. 향을 맡아본 바로는 무겁지않은 머스크향에 비누의 상쾌함과 프로랄계의 달콤함이 느껴지네요. 향이 오래가는 편은 아닌듯 해요. 여름보다는 겨울에 사용하기 좋은 향수같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 오리지널 머스크 EDT 50ml",
+    "ReviewScore": "5",
+    "Syllable": "107",
+    "Word": "23",
+    "RDate": "20220126",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 가격에 구매했어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "무겁지않은 머스크향에 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "비누의 상쾌함과 프로랄계의 달콤함이 느껴지네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "향이 오래가는 편은 아닌듯 해요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "여름보다는 겨울에 사용하기 좋은 향수같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "620712",
+    "RawText": "좋아하는 계열의 향이어서 구매해 보았는데 시향을 했다면 선택하지 않았을 것 같은 향입니다. 첫 향이 너무 강한데 남자 오래된 스킨 향 같네요. 그런데 묘하게 잔향이 잔잔합니다. 은근히 중독성 있는 잔잔한 향이 매력이 있긴 있어요. 몸에 뿌리기보다 섬유에 뿌리는 쪽으로 하면 거부감이 줄어 좋을 듯합니다. 향이 잔잔한데 무거운 느낌이라 계절은 가을, 겨울이 어울리는 듯해서 부지런히 사용해야겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 오리지널 머스크 EDT 50ml",
+    "ReviewScore": "5",
+    "Syllable": "221",
+    "Word": "54",
+    "RDate": "20220126",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "시향을 했다면 선택하지 않았을 것 같은 향입니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "첫 향이 너무 강한데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "남자 오래된 스킨 향 같네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "묘하게 잔향이 잔잔합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "은근히 중독성 있는 잔잔한 향이 매력이 있긴 있어요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 잔잔한데 무거운 느낌이라",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "계절은 가을, 겨울이 어울리는 듯해서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "620718",
+    "RawText": "하도 유명하다고 해서 사 봤는데 냄새는 제 취향 아니고 지속력도 너무 많이 떨어지는데 왜 그렇게 유명한지 모르겠네요. 비누 냄새도 아니고 요즘 사람들이 좋아하는 냄새인지 모르겠는데 저는 별로라서 다시 사진 않을 거예요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 오리지널 머스크 EDT 50ml",
+    "ReviewScore": "5",
+    "Syllable": "122",
+    "Word": "31",
+    "RDate": "20220123",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "냄새는 제 취향 아니고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력도 너무 많이 떨어지는데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "비누 냄새도 아니고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "요즘 사람들이 좋아하는 냄새인지 모르겠는데 저는 별로라서",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "620729",
+    "RawText": "시향해 보지 않았지만 제가 머스크 향을 좋아해서 상품평 보고 남편에게 선물했는데, 처음 맡자마자 꼬릿한 냄새가 난다며 거부감이 드는 향이라고 싫어하네요. 취향이 아닌 향이라 못 쓰겠다하니 기분이 좋지 않았네요. 남편에겐 불호 향이네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 오리지널 머스크 EDT 50ml",
+    "ReviewScore": "5",
+    "Syllable": "131",
+    "Word": "31",
+    "RDate": "20220120",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "꼬릿한 냄새가 난다며 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "거부감이 드는 향이라고 싫어하네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "취향이 아닌 향이라 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "불호 향이네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "620730",
+    "RawText": "머스크 향이 첫 향은 진하고 강하고 꼬릿꼬릿합니다. 뿌리고 나서 시간이 흐르면 보송하고 따뜻한 니트랑 잘어울리는 머스크 향이 남습니다. 그게 참 좋습니다. 마스크 향 그자체입니다. 뿌리는 용기 입구쪽이 헐겁고 흘러서 좀 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 오리지널 머스크 EDT 50ml",
+    "ReviewScore": "5",
+    "Syllable": "128",
+    "Word": "31",
+    "RDate": "20220120",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "머스크 향이 첫 향은 진하고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "뿌리고 나서 시간이 흐르면 보송하고 따뜻한 니트랑 잘어울리는 머스크 향이 남습니다.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "마스크 향 그자체입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "뿌리는 용기 입구쪽이 헐겁고 흘러서 좀 아쉽네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "진하고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "꼬릿꼬릿합니다. ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "620733",
+    "RawText": "계속 품절이여서 못사는줄 알았는데 운좋게 구매할수있었어요. 겨울에 너무 어울리는 향이며 남녀노소 상관없이 사용가능한 향 같습니다. 약간 무거운듯한 향이여서 좋고 향이 호불호가 갈릴꺼 같기도 하지만 저는 만족해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 오리지널 머스크 EDT 50ml",
+    "ReviewScore": "5",
+    "Syllable": "118",
+    "Word": "26",
+    "RDate": "20220119",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "겨울에 너무 어울리는 향이며 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "남녀노소 상관없이 사용가능한 향 같습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "약간 무거운듯한 향이여서 좋고  ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 호불호가 갈릴꺼 같기도 하지만 저는 만족해요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "620734",
+    "RawText": "사람 본연의 채취에 따라 다른 냄새가 난다는 평을 보고 구입했는데, 제겐 안좋은 냄새가 납니다. 시향후 구입하세요. 시간이 지나고 잔향은 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 오리지널 머스크 EDT 50ml",
+    "ReviewScore": "5",
+    "Syllable": "81",
+    "Word": "20",
+    "RDate": "20220119",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "제겐 안좋은 냄새가 납니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "시간이 지나고 잔향은 좋네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "620736",
+    "RawText": "사기 전에 고민을 많이 했어요. 향이 꼬릿하고 이상하다는 얘기가 많아서 몇 달을 고민하다가 구매하기로 결정했습니다. 세일 할 때 쿠폰 써서 저렴하게 샀습니다. 포장도 꼼꼼하고 배송도 빠르네요. 신뢰할 수 있는 OO쇼핑이라서 정품 여부는 의심 안 합니다. 향은 역시 꼬릿합니다. 본인은 잠시만 참으면 지나가요. 남들은 계속 난다지만요. 우드 향 애호가로서는 향이 너무 좋습니다. 향수 여러가지 구비해 두고 기분에 맞춰 뿌리는데 습한 날 OOO랑 번갈아 뿌립니다. 마음에 듭니다. 재구매 의사 있어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 오리지널 머스크 EDT 50ml",
+    "ReviewScore": "5",
+    "Syllable": "278",
+    "Word": "68",
+    "RDate": "20220119",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "세일 할 때 쿠폰 써서 저렴하게 샀습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향은 역시 꼬릿합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "본인은 잠시만 참으면 지나가요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "남들은 계속 난다지만요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 너무 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "620742",
+    "RawText": "후기가 좋아서 한번 써보려고 샀는데 호불호가 좀 강한 향일 것 같네요. 저한테는 안 맞네요. 그리고 향은 강하지만 지속력이 거의 없습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 오리지널 머스크 EDT 50ml",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "20",
+    "RDate": "20220118",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "호불호가 좀 강한 향일 것 같네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "저한테는 안 맞네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향은 강하지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력이 거의 없습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "620746",
+    "RawText": "너무 마음에 듭니다. 추천해요. 은은한 무스크향을 구하기 어려운데 제가 원하는 향이어서 참 좋았어요. 병의 모양도 심플해서 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 오리지널 머스크 EDT 50ml",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "17",
+    "RDate": "20220117",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "제가 원하는 향이어서 참 좋았어요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "병의 모양도 심플해서 좋아요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "620750",
+    "RawText": "수 년째 쓰고 있는 필수템입니다. 향이 좋아서 주변에서 무슨 향수 쓰냐고 물어본답니다. 일년내내 쓰고 있지만 특히 특히 가을과 겨울에 잘 어울려 사용하기 좋습니다. 앞으로도 단종 없이 계속 판매되었으면 좋겠습니다. 추천합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 오리지널 머스크 EDT 50ml",
+    "ReviewScore": "5",
+    "Syllable": "126",
+    "Word": "30",
+    "RDate": "20220115",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 좋아서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "특히 가을과 겨울에 잘 어울려 사용하기 좋습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "620751",
+    "RawText": "배송은 조금 느렸지만 믿을만한 곳에서 저렴하게 잘 사서 좋습니다. 오래전에 사용했었는데 연예인 입덕기념으로 재구매했습니다. 향이 좋아서 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 오리지널 머스크 EDT 50ml",
+    "ReviewScore": "5",
+    "Syllable": "82",
+    "Word": "17",
+    "RDate": "20220115",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 사서 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 좋아서 만족합니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "620756",
+    "RawText": "머스크 좋아해서 당연히 향이 좋을 줄 알았는데 향이 제 취향이 아니라서 아쉽네요. 잔향도 오래가지 않아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 오리지널 머스크 EDT 50ml",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "15",
+    "RDate": "20220113",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 제 취향이 아니라서 아쉽네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "잔향도 오래가지 않아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "620760",
+    "RawText": "처음 사용해보는 향수인데 첫 향이 너무 강해서 아쉽고 잔향도 생각보다 좋지는 않네요. 향이 좋지 않아서 구매 후회가 됩니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 오리지널 머스크 EDT 50ml",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "18",
+    "RDate": "20220112",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "첫 향이 너무 강해서 아쉽고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "잔향도 생각보다 좋지는 않네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 좋지 않아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "620762",
+    "RawText": "호불호 갈린데서 걱정했는데 되게 좋았습니다. 익숙한 머스크향이어서 좋았어요. 후기를 보니 겨울 향수로 많이들 추천했는데 겨울에 사용하기 좋은 거 같아요. 선물용으로 샀는데 선물 상자를 보내주셔서 감사했지만 상자보다 향수가 더 크네요. 하나만 넣어도 꽉 차요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 오리지널 머스크 EDT 50ml",
+    "ReviewScore": "5",
+    "Syllable": "144",
+    "Word": "33",
+    "RDate": "20220111",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "익숙한 머스크향이어서 좋았어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "겨울에 사용하기 좋은 거 같아요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "620763",
+    "RawText": "남자여자 모두 쓸 수 있는 제품이고 생각보다 독하지 않고 은은하게 오래갑니다. 잔향이 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 오리지널 머스크 EDT 50ml",
+    "ReviewScore": "5",
+    "Syllable": "52",
+    "Word": "13",
+    "RDate": "20220111",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "남자여자 모두 쓸 수 있는 제품이고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "생각보다 독하지 않고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "은은하게 오래갑니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "잔향이 좋아요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "620764",
+    "RawText": "첫 향이 안 좋은데 그 향이 생각보다 남아있어 별로네요. 잔향은 빠르게 사라지는 거 같고요. 기분 전환하려고 오래간만에 향수 구매했는데 다 쓰면 재구매는 안 할 거 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 오리지널 머스크 EDT 50ml",
+    "ReviewScore": "5",
+    "Syllable": "96",
+    "Word": "26",
+    "RDate": "20220111",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "첫 향이 안 좋은데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "그 향이 생각보다 남아있어 별로네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "잔향은 빠르게 사라지는 거 같고요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "620765",
+    "RawText": "우연히 유튜브에서 추천해서 구입하게 되었습니다. ㅇㅇ 향수는 처음 구입해 봤습니다. 중성적인 느낌의 향이라 선물용으로 너무 좋을 것 같습니다. 계절 상관없이 사용해도 좋을것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 오리지널 머스크 EDT 50ml",
+    "ReviewScore": "5",
+    "Syllable": "101",
+    "Word": "23",
+    "RDate": "20220110",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "중성적인 느낌의 향이라 선물용으로 너무 좋을 것 같습니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "계절 상관없이 사용해도 좋을것 같아요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "620767",
+    "RawText": "겨울하면 제일 먼저 생각나는 향이에요. 호불호가 있어서 망설여지긴 했는데 막상 받아서 뿌려보니 왜 망설였는지 모르게 향이 좋아요. 추워지기 시작하면 코트에 뿌려두면 한참까지도 은은하게 머스크향이 올라와서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 오리지널 머스크 EDT 50ml",
+    "ReviewScore": "5",
+    "Syllable": "119",
+    "Word": "26",
+    "RDate": "20220110",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "겨울하면 제일 먼저 생각나는 향이에요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "추워지기 시작하면 코트에 뿌려두면 한참까지도 은은하게 머스크향이 올라와서 좋습니다. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "한참까지도 은은하게 머스크향이 올라와서 좋습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "620770",
+    "RawText": "좋은 가격에 잘 구매했어요. 완전 마음에 듭니다. 배송 빨라서 좋습니다. 샘플도 받아서 좋습니다. 머스크 향 좋아하시면 추천합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 오리지널 머스크 EDT 50ml",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "17",
+    "RDate": "20220109",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 가격에 잘 구매했어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "샘플도 받아서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "머스크 향 좋아하시면 추천합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "620775",
+    "RawText": "할인쿠폰 사용해서 구입했습니다. 향이 괜찮습니다. 시향없이 산거라 맘에 안들면 어쩌나싶었는데 맘에 드는 향이에요. 잘 뿌려댈것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 오리지널 머스크 EDT 50ml",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "16",
+    "RDate": "20220106",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 괜찮습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "맘에 드는 향이에요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인쿠폰 사용해서 구입했습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "620776",
+    "RawText": "배송도 빠르고 싸게 사서 좋습니다. 안정화 시키기 전에 뿌려봤는데 향이 생각보다 라이트하긴 한데 기존에 쓰던 향수들이 다 무거워서 오히려 신선하고 좋은 향이었어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 오리지널 머스크 EDT 50ml",
+    "ReviewScore": "5",
+    "Syllable": "91",
+    "Word": "22",
+    "RDate": "20220105",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 생각보다 라이트하긴 한데 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "신선하고 좋은 향이었어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸게 사서 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "620780",
+    "RawText": "향수는 첫구매입니다. 정말 안아주고 싶은 은은한 향이에요. 기분이 좋아지는 향입니다. 저렴하게 구매할수있었기에 더 만족해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 오리지널 머스크 EDT 50ml",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "14",
+    "RDate": "20220105",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "정말 안아주고 싶은 은은한 향이에요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "기분이 좋아지는 향입니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구매할수있었기에 더 만족해요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "620793",
+    "RawText": "머스크향이 깊고 진해서 참 좋네요. 뿌리고 10여분 정도만 지나면 향이 참 포근합니다. 지속력도 생각보다 길고 몸에 직접 분사하는 거 보다 니트나 코트에 살짝 닿도록 뿌리면 하루종일 향을 즐길 수 있어요 겨울에 너무나 잘 어울리는 향입니다 향이 하얗고 보송한 이미지도 잘 어울리지만 왠지 섹시한 느낌도 나서 좋은 향이네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 오리지널 머스크 EDT 50ml",
+    "ReviewScore": "5",
+    "Syllable": "180",
+    "Word": "47",
+    "RDate": "20211231",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "머스크향이 깊고 진해서 참 좋네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "뿌리고 10여분 정도만 지나면 향이 참 포근합니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력도 생각보다 길고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "니트나 코트에 살짝 닿도록 뿌리면 하루종일 향을 즐길 수 있어요 ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "겨울에 너무나 잘 어울리는 향입니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 하얗고 보송한 이미지도 잘 어울리지만",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "섹시한 느낌도 나서 좋은 향이네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "620806",
+    "RawText": "호불호 많이 탈 향이에요. 화이트 머스크 좋아하시는 분들은 고민해봐야 할 거 같아요. 후기도 찾아보면 애니멀릭한 첫 향이라고 하는데 걍 뿌리자마자 무슨 말인지 알았어요. 저는 잔향도 오줌냄새로 느껴져서 결국 다른 분께 드렸답니다. 근데 이 향 자체가 호불호가 있다보니 매니아층은 확실하게 있어요 저한테는 불호인 향인데 다른분들은 또 모르겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 오리지널 머스크 EDT 50ml",
+    "ReviewScore": "5",
+    "Syllable": "192",
+    "Word": "46",
+    "RDate": "20211226",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "호불호 많이 탈 향이에요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "애니멀릭한 첫 향이라고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "잔향도 오줌냄새로 느껴져서 결국 다른 분께 드렸답니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "이 향 자체가 호불호가 있다보니",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "불호인 향인데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "620809",
+    "RawText": "살짝 뿌리면 특유의 머스크향 좋습니다. 잔향은 파우더리한 비누향이네요. 그런데 향이 진해서 많이 뿌리면 주변 사람들에게 민폐예요. 겨울에 사용하기 좋은 향수고 달달한 플로랄 계열 향수와 믹스해서 써도 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 오리지널 머스크 EDT 50ml",
+    "ReviewScore": "5",
+    "Syllable": "117",
+    "Word": "27",
+    "RDate": "20211225",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "살짝 뿌리면 특유의 머스크향 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "잔향은 파우더리한 비누향이네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 진해서 많이 뿌리면 주변 사람들에게 민폐예요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "겨울에 사용하기 좋은 향수고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "달달한 플로랄 계열 향수와 믹스해서 써도 좋습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "620811",
+    "RawText": "향 좋습니다. 첫 향 보다는 잔 향이 좋습니다. 지속력은 약한 편입니다. 지속력이 약해서 중간 중간 뿌려줘야 할 듯 합니다. 머스크 향 좋아하시는 분 들 이라면 호불호 없이 사용하기 좋을 것 같습니다. 진짜 겨울에 어울리는 향입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 오리지널 머스크 EDT 50ml",
+    "ReviewScore": "5",
+    "Syllable": "130",
+    "Word": "35",
+    "RDate": "20211224",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "첫 향 보다는 잔 향이 좋습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력은 약한 편입니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력이 약해서 중간 중간 뿌려줘야 할 듯 합니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "머스크 향 좋아하시는분들 이라면 호불호 없이 사용하기 좋을 것 같습니다. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "진짜 겨울에 어울리는 향입니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "620814",
+    "RawText": "처음에 받아서 향을 맡아봤는데 겁나 안좋아서 반신반의 하면서 계속 썼는데 잔향이 은은하니 좋습니다. ㅇㅇ제품 강추해요. 향이 진짜 오래갑니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 오리지널 머스크 EDT 50ml",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "18",
+    "RDate": "20211222",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "처음에 받아서 향을 맡아봤는데 겁나 안좋아서",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "잔향이 은은하니 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "향이 진짜 오래갑니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "620816",
+    "RawText": "샘플도 많이 넣어주시고 작은 병에 담긴 향수도 넘넘 좋았습니다. 생각보다 향 지속력도 좋았어요.  겨울하면 이제 생각나는 향입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 오리지널 머스크 EDT 50ml",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "17",
+    "RDate": "20211221",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "샘플도 많이 넣어주시고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "작은 병에 담긴 향수도 넘넘 좋았습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "생각보다 향 지속력도 좋았어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "겨울하면 이제 생각나는 향입니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "620823",
+    "RawText": "은은하고 편안한 향이에요. 아로마 효과도 있는것 같은 향이고 첫 향도 자극적이지 않고 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 오리지널 머스크 EDT 50ml",
+    "ReviewScore": "5",
+    "Syllable": "52",
+    "Word": "13",
+    "RDate": "20211217",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "은은하고 편안한 향이에요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "아로마 효과도 있는것 같은 향이고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "첫 향도 자극적이지 않고 좋아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "620824",
+    "RawText": "진짜 최애향수 등극입니다. 누구는 애니멀릭한 향이라 꼬릿꼬릿하다는데 뭐 머스크가 다 그런 것 같아요. 큰 용량 100미리가 없다는게 아쉬워요. 겨울향수로 딱이네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 오리지널 머스크 EDT 50ml",
+    "ReviewScore": "5",
+    "Syllable": "91",
+    "Word": "20",
+    "RDate": "20211217",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "누구는 애니멀릭한 향이라 꼬릿꼬릿하다는데 뭐 머스크가 다 그런 것 같아요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "용량/개수",
+        "SentimentText": " 큰 용량 100미리가 없다는게 아쉬워요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "겨울향수로 딱이네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "620829",
+    "RawText": "첫 향도 머스크향이 너무 강해서 아쉽습니다. 잔향도 생각보다 좋지 않네요. 지속력도 없는 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 오리지널 머스크 EDT 50ml",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "14",
+    "RDate": "20211215",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "첫 향도 머스크향이 너무 강해서 아쉽습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "잔향도 생각보다 좋지 않네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력도 없는 것 같습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "620835",
+    "RawText": "친구 생일 선물로 구매했는데 너무 좋아했어요. 향이 좋고 오래가고 시간이 지날 수록 은은하게 향이 나서 좋다고 하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 오리지널 머스크 EDT 50ml",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "17",
+    "RDate": "20211214",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "오래가고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "시간이 지날 수록 은은하게 향이 나서 좋다고 하네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "620839",
+    "RawText": "향은 은은하지만 생각보다 지속력이 짧아서 아쉽습니다. 잘 사용하고 있지만 지속력이 딱 가격만큼입니다. 첫 향은 거북하지만 그 뒤로 향이 나쁘지 않아서 괜찮은 것 같습니다. 저렴한 가격에 구입한 향수여서 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 오리지널 머스크 EDT 50ml",
+    "ReviewScore": "5",
+    "Syllable": "119",
+    "Word": "28",
+    "RDate": "20211211",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향은 은은하지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "생각보다 지속력이 짧아서 아쉽습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력이 딱 가격만큼입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "첫 향은 거북하지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 나쁘지 않아서 괜찮은 것 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 구입한 향수여서 만족합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "620841",
+    "RawText": "향이 좋다고 유명해서 샀는데 저한테는 향이 안맞아요. 그 똥차 냄새가 자꾸 속이 울렁거려서 시간지나면 없어진다고 하는데 저는 몇시간이 지나도 계속 나네요. 안정화 시키고 맡아도 똥차 냄새는 똑같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 오리지널 머스크 EDT 50ml",
+    "ReviewScore": "5",
+    "Syllable": "112",
+    "Word": "27",
+    "RDate": "20211210",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "저한테는 향이 안맞아요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": " 그 똥차 냄새가 자꾸 속이 울렁거려서 시간지나면 없어진다고 하는데 저는 몇시간이 지나도 계속 나네요.",
+        "SentimentWord": "14",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "안정화 시키고 맡아도 똥차 냄새는 똑같습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "620843",
+    "RawText": "너무 마음에 듭니다. 추천해요. 귀여운 파우치 까지 크리스마스 선물 받은 기분입니다. 겨울 향수 추천으로 처음 써보는건데 머스크향이 좋네요.  향수병도 이뻐요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 오리지널 머스크 EDT 50ml",
+    "ReviewScore": "5",
+    "Syllable": "89",
+    "Word": "20",
+    "RDate": "20211210",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "머스크향이 좋네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "향수병도 이뻐요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "620847",
+    "RawText": "블라인드 구입인데 첫 향은 좀 더 써봐야 알 것 같습니다. 향이 나쁘진 않습니다. 향수 뿌릴때 분사가 그냥 찍 나오고 고루 퍼지지 않아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 오리지널 머스크 EDT 50ml",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "22",
+    "RDate": "20211209",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "첫 향은 좀 더 써봐야 알 것 같습니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 나쁘진 않습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "향수 뿌릴때 분사가 그냥 찍 나오고 고루 퍼지지 않아요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "620849",
+    "RawText": "시향없이 검색과 후기만 보고 구매했습니다. 어떤분이 동물원 냄새라고 해서 걱정했는데 전 아니네요. 몇일 써보니 너무 쨍하지도 않고 은은한 항이 오래가고, 많이 분사해서 쓰는편이라 무난하고 따뜻한 느낌의 향이라 좋습니다. 배송도 오래 걸린다고들 하시던데 주말끼고 4일 걸렸고, 날짜도 2025년 넉넉히 있는걸로 받았습니다. ㅇㅇㅇ 세일기간에 구매해서 그런지 저렴하고 샘플은 넉넉히 주셨네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 오리지널 머스크 EDT 50ml",
+    "ReviewScore": "5",
+    "Syllable": "217",
+    "Word": "48",
+    "RDate": "20211208",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "너무 쨍하지도 않고 은은한 항이 오래가고,",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": " 오래가고,",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "무난하고 따뜻한 느낌의 향이라 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "날짜도 2025년 넉넉히 있는걸로 받았습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "ㅇㅇㅇ 세일기간에 구매해서 그런지 저렴하고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "샘플은 넉넉히 주셨네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "620850",
+    "RawText": "겨울에 사용하기 좋은 향입니다. 머스크 계열 향을 좋아하지만 강한 향으로 염려하시는 분들이라면 자기 전에 뿌리면 다음 날 잔향은 좋아하실 듯합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 오리지널 머스크 EDT 50ml",
+    "ReviewScore": "5",
+    "Syllable": "82",
+    "Word": "20",
+    "RDate": "20211208",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "겨울에 사용하기 좋은 향입니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "강한 향으로 염려하시는 분들이라면 자기 전에 뿌리면 다음 날 잔향은 좋아하실 듯합니다.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "620851",
+    "RawText": "머스크향들 중에서도 무난하고 기분 좋게 하는 정도의 향이라 좋고 배송도 빠르고 크림과 토너 샘플 파우치도 보내주셔서 너무 만족해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 오리지널 머스크 EDT 50ml",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "18",
+    "RDate": "20211208",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "머스크향들 중에서도 무난하고 기분 좋게 하는 정도의 향이라 좋고",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "크림과 토너 샘플 파우치도 보내주셔서 너무 만족해요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "620853",
+    "RawText": "ㅇㅇㅇ 좋아하는 사람인데 향이 좀 쎈 편이네요. 섞어서 사용 중입니다. 가을 겨울에 사용하기 좋은 향이네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 오리지널 머스크 EDT 50ml",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "15",
+    "RDate": "20211206",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 좀 쎈 편이네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "가을 겨울에 사용하기 좋은 향이네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "620857",
+    "RawText": "매장에서 시향 하자마자 반해 버렸어요. 겨울에 쓰기에 너무 완벽한 머스크 향이랍니다. 잔향이 기가 막힙니다. 남편도 향수 잘 샀다고 너무 좋아합니다. 대용량이 없다는 게 아쉬워요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 오리지널 머스크 EDT 50ml",
+    "ReviewScore": "5",
+    "Syllable": "100",
+    "Word": "24",
+    "RDate": "20211204",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "시향 하자마자 반해 버렸어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "겨울에 쓰기에 너무 완벽한 머스크 향이랍니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "잔향이 기가 막힙니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/개수",
+        "SentimentText": "대용량이 없다는 게 아쉬워요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  }
+]

@@ -1,0 +1,3182 @@
+[
+  {
+    "Index": "750972",
+    "RawText": "원래 쓰던 제품인데 많이 저렴하게 사서 좋아요. 쉽고 간편하게 염색할 수 있어 좋습니다. 추천합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "14",
+    "RDate": "20180601",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "많이 저렴하게 사서 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "쉽고 간편하게 염색할 수 있어 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "750983",
+    "RawText": "머리가 상하고 염색이 골고루 안 되어서 깔끔하지 않고 얼룩졌어요. 그냥 미용실에 가서 할걸 그랬나 봐요. 실망입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "16",
+    "RDate": "20180609",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머리가 상하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색이 골고루 안 되어서 깔끔하지 않고 얼룩졌어요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "750992",
+    "RawText": "거품염색이 편하다고 해서 구매했어요. 흰머리가 많은데 새치 염색이 잘 안되네요. 제품의 색상도 별로예요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "13",
+    "RDate": "20180614",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "새치 염색이 잘 안되네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "제품의 색상도 별로예요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "750994",
+    "RawText": "염색도 빠르게 잘 되고 새치머리 염색도 잘됩니다. 혼합하지 않고 흔들어 사용하니 간편해서 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "54",
+    "Word": "13",
+    "RDate": "20180618",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색도 빠르게 잘 되고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "새치머리 염색도 잘됩니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "혼합하지 않고 흔들어 사용하니 간편해서 좋아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "751001",
+    "RawText": "배송 빠르네요. 이전에는 쓰던 크림제형보다 염색력이 좋진 않아요. 긴 머리 뿌리 염색했는데 발색이 자연스럽게 안 나오네요. 새치는 좀 밝은 갈색으로 보입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "88",
+    "Word": "21",
+    "RDate": "20180620",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "이전에는 쓰던 크림제형보다 염색력이 좋진 않아요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "긴 머리 뿌리 염색했는데 발색이 자연스럽게 안 나오네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "새치는 좀 밝은 갈색으로 보입니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "751005",
+    "RawText": "배송도 빠르고 가격도 저렴해서 좋은데 염색은 잘 안되는 듯하네요. 염색약도 손에 묻어나고 이틀 정도 물도 빠지네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "16",
+    "RDate": "20180621",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴해서 좋은데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색은 잘 안되는 듯하네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "이염",
+        "SentimentText": "염색약도 손에 묻어나고 이틀 정도 물도 빠지네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "이틀 정도 물도 빠지네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "751014",
+    "RawText": "세치 염색하려고 구매했어요. 거품타입이라 염색하기 편하고 가격도 저렴하게 잘 산 것 같아요. 배송도 빠르고 포장도 맘에 들어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "17",
+    "RDate": "20180627",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "거품타입이라 염색하기 편하고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하게 잘 산 것 같아요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "751019",
+    "RawText": "인터넷에서 가격 저렴해서 잘 샀네요. 향이 좀 강하고 염색은 오래 지속되지 않아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "46",
+    "Word": "12",
+    "RDate": "20180704",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "인터넷에서 가격 저렴해서 잘 샀네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 좀 강하고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "염색은 오래 지속되지 않아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "751021",
+    "RawText": "벌써 2번째 주문인데 잘 쓰고 있습니다. 가격도 저렴하고 배송도 업체에서 빨리 해주시는 것 같아 감사드립니다. 효과를 기대하며 지속적으로 이용하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "85",
+    "Word": "19",
+    "RDate": "20180706",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과를 기대하며 지속적으로 이용하겠습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "751028",
+    "RawText": "매장보다 가격이 저렴하네요. 집에서 염색해보니 염색 효과는 좀 떨어지네요. 색감도 좀 어두워 보입니다. 미용실 가는 게 답인 듯합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "18",
+    "RDate": "20180717",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "매장보다 가격이 저렴하네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색 효과는 좀 떨어지네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "색감도 좀 어두워 보입니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "751032",
+    "RawText": "빗질하던 염색약보다 사용하기 편합니다. 설명서대로 충분히 흔들어주고 10분 정도 기다렸는데 염색이 잘 안 나오네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "14",
+    "RDate": "20180719",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "빗질하던 염색약보다 사용하기 편합니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "설명서대로 충분히 흔들어주고 10분 정도 기다렸는데 염색이 잘 안 나오네요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "751036",
+    "RawText": "사용하기 간편해서 좋은 제품입니다. 그래서 항상 이 제품만 사용하고 있습니다. 배송이 늦어서 많이 기다렸지만 앞으로도 계속 구매할 것 같습니다. 가격비교를 해보니 이곳이 가장 저렴해서 구입했습니다. 추천해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "116",
+    "Word": "26",
+    "RDate": "20180721",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기 간편해서 좋은 제품입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴해서 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "751037",
+    "RawText": "혼자 염색하기 너무 편해서 좋습니다. 발색도 뚜렷하고 이쁜데, 물빠짐은 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "45",
+    "Word": "10",
+    "RDate": "20180722",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "혼자 염색하기 너무 편해서 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "발색도 뚜렷하고 이쁜데, ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "물빠짐은 있습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "751049",
+    "RawText": "배송은 주문하고 다음날 바로 왔습니다. 마트보다 싼 가격에 구매했습니다. 혼자서도 염색하기 편해서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "13",
+    "RDate": "20180804",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "마트보다 싼 가격에 구매했습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "혼자서도 염색하기 편해서 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "751054",
+    "RawText": "염색을 간편하게 할 수 있어서 좋습니다. 그런데 염색 후 머리가 가렵습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "42",
+    "Word": "11",
+    "RDate": "20180806",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "염색을 간편하게 할 수 있어서 좋습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "염색 후 머리가 가렵습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "751066",
+    "RawText": "부모님과 함께 하려고 색별로 구매했습니다. 아빠는 흑갈색으로 염색 해드렸는데, 거품형이라 마구 편하게 했더니 이마 목등에도 염색이 됐습니다. 다른데도 염색되는 걸 보니 제 긴머리는 혼자서 염색하기 불편할 것 같습니다. 그래도 가격이 싸서 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "137",
+    "Word": "32",
+    "RDate": "20180812",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "거품형이라 마구 편하게 했더니 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "이염",
+        "SentimentText": "이마 목등에도 염색이 됐습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "이염",
+        "SentimentText": "다른데도 염색되는 걸 보니 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "긴머리는 혼자서 염색하기 불편할 것 같습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 싸서 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "751071",
+    "RawText": "다른 염색약을 사용하는데 염색이 쉬울 것 같아서 구매했습니다. 남편과 같이 사용하는데 간편해서 좋습니다. 다만 새치 커버력은 기대보다 별로입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "81",
+    "Word": "18",
+    "RDate": "20180817",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "남편과 같이 사용하는데 간편해서 좋습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "새치 커버력은 기대보다 별로입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "751079",
+    "RawText": "새치가 많이 생겨서 커버용으로 구매했어요. 간편하게 흔들어서 사용하니 편해서 좋습니다. 다만 생각보다 새치가 잘 가려지지는 않네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "16",
+    "RDate": "20180819",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "간편하게 흔들어서 사용하니 편해서 좋습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "새치가 잘 가려지지는 않네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "751092",
+    "RawText": "신랑이 매번 미용실에서 새치 염색 하는 것을 귀찮아 해서 구매했습니다. 냄새도 심하고 성분이 독한지 머리가 가렵다고 하네요. 새치 커버도 제대로 되지 않아 실망했네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "93",
+    "Word": "23",
+    "RDate": "20180825",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 심하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "성분이 독한지",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "머리가 가렵다고 하네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "새치 커버도 제대로 되지 않아 실망했네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "751101",
+    "RawText": "배송비도 있어 주문할 때 한꺼번에 3통 구매했는데, 새치 염색이 잘 되지 않네요. 거품형이라 사용하기는 편합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "15",
+    "RDate": "20180830",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "새치 염색이 잘 되지 않네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "거품형이라 사용하기는 편합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "751109",
+    "RawText": "오프라인보다 훨씬 저렴하게 잘 구매했습니다. 다만 유통기한이 좀 짧아서 아쉽네요. 배송도 빨랐습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "12",
+    "RDate": "20180906",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "오프라인보다 훨씬 저렴하게",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한이 좀 짧아서 아쉽네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "751116",
+    "RawText": "두세 번 쓸 수 있을 정도로 양이 넉넉해요. 몇 달 뒤에 써도 품질이 떨어지지 않아서 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "52",
+    "Word": "16",
+    "RDate": "20180912",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "두세 번 쓸 수 있을 정도로 양이 넉넉해요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "몇 달 뒤에 써도 품질이 떨어지지 않아서 좋아요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "751123",
+    "RawText": "빠른 배송 좋아요. 제품을 써보니 거품도 많이 잘 나고 양도 제법 되어 두세 번은 쓸 수 있을 것 같아요. 두피에 자극도 거의 없어 다 쓰고 재구매할 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "91",
+    "Word": "28",
+    "RDate": "20180917",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품도 많이 잘 나고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 제법 되어 두세 번은 쓸 수 있을 것 같아요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "두피에 자극도 거의 없어 다 쓰고 재구매할 것 같습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "751130",
+    "RawText": "항상 쓰던 제품입니다. 거품형이라 셀프 염색약 중 제일 사용하기 편한 거 같아요. 따로 섞을 필요도 없고, 섞이면서 분출되는 형식이라 사용하기 편하고 양도 넉넉해서 두 번까지도 쓸 수 있어요. 새치 염색 때문에 매번 쓰는지라 여기서 구매하니 매장보다 더 저렴하고 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "152",
+    "Word": "39",
+    "RDate": "20180925",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "거품형이라 셀프 염색약 중 제일 사용하기 편한 거 같아요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "따로 섞을 필요도 없고, 섞이면서 분출되는 형식이라 사용하기 편하고",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 넉넉해서 두 번까지도 쓸 수 있어요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "여기서 구매하니 매장보다 더 저렴하고 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "751149",
+    "RawText": "새치 염색 제품 중 가장 사용하기 편한 제품인 거 같아요. 빠르고 간편해요. 가격까지 저렴해서 너무 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "16",
+    "RDate": "20181009",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "새치 염색 제품 중 가장 사용하기 편한 제품인 거 같아요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "빠르고 간편해요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격까지 저렴해서 너무 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "751153",
+    "RawText": "머리에 새치가 생겨서 구매했어요. 그런데 구성품 중 빗의 품질이 안 좋네요. 가격대비 용량도 적은 거 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "16",
+    "RDate": "20181011",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "구성품 중 빗의 품질이 안 좋네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "가격대비 용량도 적은 거 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "751159",
+    "RawText": "우선 간편하고 염색이 잘 되어서 좋아요. 일부 남으면 나중에 사용할 수 있으니 편해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "48",
+    "Word": "13",
+    "RDate": "20181015",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "간편하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색이 잘 되어서 좋아요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "일부 남으면 나중에 사용할 수 있으니 편해요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "751173",
+    "RawText": "인터넷으로 주문했는데 마트 보다 조금 비싸네요. 거품형이 사용할 때 흘러내려 사용하기도 불편하고 머리에 바를 때도 힘드네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "16",
+    "RDate": "20181030",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "인터넷으로 주문했는데 마트 보다 조금 비싸네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "거품형이 사용할 때 흘러내려 사용하기도 불편하고 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "머리에 바를 때도 힘드네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "751174",
+    "RawText": "처음엔 멋내기용으로 사다 염색했는데 색은 잘 나오나 멋내기라 새치까지는 염색되지 않아서 새치커버용으로 구매했습니다. 새치까지 염색이 잘 됩니다. 다만 멋내기용 보단 양이 적어서 긴 머리는 2개 필요할 것 같습니다. 흰머리가 요즘 많아져서 고민이었는데, 염색도 잘되고 피부에 묻어도 잘 지워져서 좋습니다. 그리고 멋내기용은 2주면 흰머리가 보이는데 이건 새치전용이라 그런지 길게는 한달이상 지속되네요. 밝은 갈색으로 했는데 밤색으로 생각보다 색이 어둡게 나옵니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "258",
+    "Word": "58",
+    "RDate": "20181031",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "새치까지 염색이 잘 됩니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "멋내기용 보단 양이 적어서 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색도 잘되고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "클렌징/제거력",
+        "SentimentText": "피부에 묻어도 잘 지워져서 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "새치전용이라 그런지 길게는 한달이상 지속되네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "밝은 갈색으로 했는데 밤색으로 생각보다 색이 어둡게 나옵니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "751177",
+    "RawText": "마트보다 훨씬 저렴해서 눈 튀어나오는 줄 알았습니다. 신랑이 새치가 많아서 머리 자를 때마다 염색도 같이하니 부담이었는데, 이제부터는 저렴하게 염색할 수 있어서 좋습니다. 앞으로도 계속 구입할 예정입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "114",
+    "Word": "26",
+    "RDate": "20181128",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "마트보다 훨씬 저렴해서 눈 튀어나오는 줄 알았습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "751180",
+    "RawText": "냄새가 심하고 염색도 잘 안 되네요. 머리 헹굼 시 염색약이 계속 묻어 나옵니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "4",
+    "Syllable": "45",
+    "Word": "13",
+    "RDate": "20190111",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새가 심하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색도 잘 안 되네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "머리 헹굼 시 염색약이 계속 묻어 나옵니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "751190",
+    "RawText": "다른 제품처럼 섞어서 할 필요 없이 한번에 샴푸하듯이 사용하니 간편해서 좋아요. 발색도 잘 나와서 좋습니다. 재구매 의사 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "18",
+    "RDate": "20180430",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "다른 제품처럼 섞어서 할 필요 없이 한번에 샴푸하듯이 사용하니 간편해서 좋아요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "발색도 잘 나와서 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "751198",
+    "RawText": "염색 시간은 짧아서 편하지만 지속 시간은 조금 짧습니다. 그래도 머릿결이 상하지 않아 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "53",
+    "Word": "13",
+    "RDate": "20181022",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "염색 시간은 짧아서 편하지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속 시간은 조금 짧습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "머릿결이 상하지 않아 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "751215",
+    "RawText": "새치머리 밝은 갈색 구입했습니다. 한꺼번에 여러 개 구입했는데, 생각보다 유통기한이 짧아서 아쉽네요. 새치도 잘 가려지지는 않네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "16",
+    "RDate": "20181019",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한이 짧아서 아쉽네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "새치도 잘 가려지지는 않네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "751216",
+    "RawText": "늘 써오던 제품인데 오프라인 매장서 사다가 처음으로 온라인에서 구매했습니다. 가격도 훨씬 저렴하고 제품 품질도 좋고 만족합니다. 이번에 제품 다 사용하면 다음번에 또 구매할 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "104",
+    "Word": "25",
+    "RDate": "20181021",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 훨씬 저렴하고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "751248",
+    "RawText": "염색이 잘 안되네요. 중단발인데 양이 적어서 하나 가지고는 부족했나 봅니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "42",
+    "Word": "10",
+    "RDate": "20190725",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색이 잘 안되네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "중단발인데 양이 적어서 하나 가지고는 부족했나 봅니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "751270",
+    "RawText": "거품형은 처음 써봤는데 섞어 쓰는 것보다 바르는 게 전 좀 더 불편하네요. 새치 커버도 잘 안되네요. 구성품도 아쉽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "18",
+    "RDate": "20200207",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "거품형은 처음 써봤는데 섞어 쓰는 것보다 바르는 게 전 좀 더 불편하네요. ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "새치 커버도 잘 안되네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성품도 아쉽습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "751279",
+    "RawText": "처음 써보는 거라 염색이 잘 나올까 여기저기 얼룩덜룩 하지는 않을까 얼굴에 물들면 어쩌지 그런 걱정이 많았는데, 거품형이라 바르기 수월했네요. 어깨 조금 내려오는 기장인데 양이 많아서 1통으로 충분했습니다. 이마와 팔뚝에 염색약이 묻어났지만, 물에 잘 씻으니 없어지네요. 얼룩덜룩한 부분 없이 생각보다 염색이 잘 되었지만, 덜 발린 부분은 염색이 잘 안 되었습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "204",
+    "Word": "49",
+    "RDate": "20200224",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "거품형이라 바르기 수월했네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "어깨 조금 내려오는 기장인데 양이 많아서 1통으로 충분했습니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "이염",
+        "SentimentText": "이마와 팔뚝에 염색약이 묻어났지만, ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "클렌징/제거력",
+        "SentimentText": "물에 잘 씻으니 없어지네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "얼룩덜룩한 부분 없이 생각보다 염색이 잘 되었지만,",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "덜 발린 부분은 염색이 잘 안 되었습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "751299",
+    "RawText": "이전에 4n을 써봤는데, 너무 검게 염색돼서 5n으로 구입했습니다. 갈색인데 발색도 예쁘고 거품형이라 사용도 편합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "14",
+    "RDate": "20200715",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "발색력",
+        "SentimentText": "갈색인데 발색도 예쁘고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "거품형이라 사용도 편합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "751300",
+    "RawText": "혼자서도 염색하기 간편해서 좋습니다. 다만 피부에 염색약이 묻어나네요. 미온으로 씻었는데 깨끗하게 씻기지 않네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "13",
+    "RDate": "20200807",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "혼자서도 염색하기 간편해서 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "이염",
+        "SentimentText": "피부에 염색약이 묻어나네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "클렌징/제거력",
+        "SentimentText": "미온으로 씻었는데 깨끗하게 씻기지 않네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "751302",
+    "RawText": "새치 때문에 매번 미용실 가기 부담이 돼서 사봤는데 새치 커버가 좀 아쉽고 두피가 좀 가려웠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "54",
+    "Word": "15",
+    "RDate": "20200831",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "새치 커버가 좀 아쉽고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "두피가 좀 가려웠어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "751303",
+    "RawText": "새치 때문에 주문했는데 새치 커버는 잘 되는데 전체적으로 발랐더니 너무 어둡게 염색이 되네요. 그래도 다른 제품보다 새치커버는 잘 됩니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "19",
+    "RDate": "20200831",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "새치 커버는 잘 되는데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "전체적으로 발랐더니 너무 어둡게 염색이 되네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "다른 제품보다 새치커버는 잘 됩니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "751304",
+    "RawText": "염색 후 3일 정도는 물 빠짐이 있었고 수건에도 묻어났어요. 재구매는 하지 않을 것 같네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "4",
+    "Syllable": "51",
+    "Word": "14",
+    "RDate": "20200902",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "염색 후 3일 정도는 물 빠짐이 있었고 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "이염",
+        "SentimentText": "수건에도 묻어났어요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "751310",
+    "RawText": "기존 염색약은 염색할 때 그릇에 염색약 짜고 비닐장갑 끼고 섞어 사용해야 해서 불편하고 귀찮았어요. 이 제품은 흔들어서 샴푸하듯 편하게 사용할 수 있다고 해서 주문해 봤어요. 이곳에서 2가지 색상으로 주문했는데 저렴한 가격으로 구매했어요. 새치커버 효과는 아직 사용전이라 뭐라고 말씀 드릴 수가 없네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "169",
+    "Word": "41",
+    "RDate": "20201224",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격으로 구매했어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "새치커버 효과는 아직 사용전이라 뭐라고 말씀 드릴 수가 없네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "751321",
+    "RawText": "사용하기 편해서 좋습니다. 짧은 시간에 염색이 잘 되어서 계속 사용할 것 같아요. 동봉된 장갑은 사이즈가 좀 작아서 사용하기 불편하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "19",
+    "RDate": "20190903",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기 편해서 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "짧은 시간에 염색이 잘 되어서 계속 사용할 것 같아요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "동봉된 장갑은 사이즈가 좀 작아서 사용하기 불편하네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "751336",
+    "RawText": "며칠 동안 사용해 봤는데 제형이 묽은 거품타입이라 흘러내려 사용하기 불편하고 새치커버도 잘 안되는 듯합니다. 타사 제품 보다 품질도 좋은 것 같지 않네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "86",
+    "Word": "22",
+    "RDate": "20190828",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 묽은 거품타입이라 흘러내려 사용하기 불편하고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "새치커버도 잘 안되는 듯합니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "타사 제품 보다 품질도 좋은 것 같지 않네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "751343",
+    "RawText": "새치염색으로 4번과 6번구입 후기입니다. 거품형태로 다른 염색약에 비해 사용감 매우 편해요. 출근시간 전 흔들고 짤라서 비비거나 빗으로 빗어서 15분간 방치 후 씻어냅니다. 양이 너무 적긴 해요.  3일 후 흰머리가 반짝거리기 시작하는데 일주일째 흰머리도 아닌 염색상태도 아닌 애매한 색으로 탈색이 됩니다. 8일쯤 다시 염색 해야 해요. 저는 밝은갈색 셀프 새치염색을 월1회 꾸준히 하고 있어요. 불편해도 그냥 쓰던 약으로 염색 하려구요. 검정색은 모르겠으나 반짝임이 금새 너무 심해요.  밝은 갈색은 새치염색약으로는 추천하지 않아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "2",
+    "Syllable": "299",
+    "Word": "70",
+    "RDate": "20191020",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "거품형태로 다른 염색약에 비해 사용감 매우 편해요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양이 너무 적긴 해요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": " 3일 후 흰머리가 반짝거리기 시작하는데 일주일째 흰머리도 아닌 염색상태도 아닌 애매한 색으로 탈색이 됩니다. ",
+        "SentimentWord": "14",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": " 검정색은 모르겠으나 반짝임이 금새 너무 심해요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "밝은 갈색은 새치염색약으로는 추천하지 않아요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "751344",
+    "RawText": "사용은 편리한데 새치염색은 별로에요. 물빠짐도 심해서 5일만에 금발이 되었어요. 밝은갈색으로 새치염색 하실 분은 이 제품 추천하지 않습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "3",
+    "Syllable": "78",
+    "Word": "17",
+    "RDate": "20191020",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용은 편리한데 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "새치염색은 별로에요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "물빠짐도 심해서 5일만에 금발이 되었어요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "밝은갈색으로 새치염색 하실 분은 이 제품 추천하지 않습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "751345",
+    "RawText": "새치 때문에 커트 할 때마다 염색해야 해서 염색비용이 부담스러웠어요. 간편하고 저렴하게 염색할 수 있을 것 같아 구매했어요. 새치커버에 효과 있으면 좋을 듯하네요. 가격은 적당합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "102",
+    "Word": "24",
+    "RDate": "20200325",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "새치커버에 효과 있으면 좋을 듯하네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 적당합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "751359",
+    "RawText": "사용하기 편해서 계속 주문하게 되네요. 단점이라면 염색 후 3주 정도면 샴푸할 때마다 염색물이 빠집니다. 지속력이 짧아서 아쉽긴 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "4",
+    "Syllable": "76",
+    "Word": "18",
+    "RDate": "20200127",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기 편해서 계속 주문하게 되네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "염색 후 3주 정도면 샴푸할 때마다 염색물이 빠집니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력이 짧아서 아쉽긴 합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "751361",
+    "RawText": "가격이 저렴합니다. 주문하고 다음 날 제품 받았어요. 받고 바로 사용해 봤는데 흔들어서 누르면 거품이 나와서 염색이 쉽고 편해졌어요. 염색 효과는 좀 더 사용해봐야 알 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "100",
+    "Word": "26",
+    "RDate": "20200218",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "흔들어서 누르면 거품이 나와서 염색이 쉽고 편해졌어요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색 효과는 좀 더 사용해봐야 알 것 같아요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "751367",
+    "RawText": "집에서 염색하려고 구입했는데  새치커버도 잘 되고 사용하기도 너무 편하네요. 다 쓰고 또 주문해야겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "13",
+    "RDate": "20200421",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "새치커버도 잘 되고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기도 너무 편하네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "751368",
+    "RawText": "염색이 무엇보다 쉽고 간편해서 좋습니다. 알레르기 체질이라 약간의 가려움이 있지만, 다른 제품보다는 가려움이 덜 한 것 같습니다. 색깔도 이쁘게 잘 나오는 편이에요. 계속해서 구매할 예정입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "4",
+    "Syllable": "108",
+    "Word": "25",
+    "RDate": "20200508",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "염색이 무엇보다 쉽고 간편해서 좋습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "알레르기 체질이라 약간의 가려움이 있지만, ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "다른 제품보다는 가려움이 덜 한 것 같습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "색깔도 이쁘게 잘 나오는 편이에요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "751370",
+    "RawText": "무엇보다 쉽고 간편해서 염색이 한결 편해졌어요. 혼자서도 너무 쉽게 할 수 있어서 좋네요. 약간의 물 빠짐이 있기는 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "18",
+    "RDate": "20200508",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "쉽고 간편해서 염색이 한결 편해졌어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "혼자서도 너무 쉽게 할 수 있어서 좋네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "약간의 물 빠짐이 있기는 합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "751375",
+    "RawText": "마트 보다 저렴한 가격이 좋네요. 가성비도 정말 좋아요. 근데 한가지 작은 샘플 하나도 없어서 아쉬움이 남네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "16",
+    "RDate": "20200527",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "마트 보다 저렴한 가격이 좋네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비도 정말 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "작은 샘플 하나도 없어서 아쉬움이 남네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "751376",
+    "RawText": "사용이 간편하고 좋은데 그 전에는 쓰던 제품보다 새치부분 커버가 덜 되는 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "47",
+    "Word": "13",
+    "RDate": "20200527",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용이 간편하고 좋은데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "그 전에는 쓰던 제품보다 새치부분 커버가 덜 되는 것 같아요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "751378",
+    "RawText": "크림타입 보다 새치커버가 잘 안되고 용량도 좀 작아서 아쉽네요. 사용하기는 간편해서 괜찮아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "52",
+    "Word": "12",
+    "RDate": "20200405",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "크림타입 보다 새치커버가 잘 안되고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량도 좀 작아서 아쉽네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기는 간편해서 괜찮아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "751388",
+    "RawText": "새치머리 염색용입니다. 거품을 대충 슥슥 바르고 시간 되면 머리 감고 혼자서도 편하게 잘 됩니다. 크림 제형 쓸때는 내가 섞어서 골고루 발라주곤 했습니다. 새치커버도 잘 되는편입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "102",
+    "Word": "25",
+    "RDate": "20220603",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "거품을 대충 슥슥 바르고 시간 되면 머리 감고 혼자서도 편하게 잘 됩니다.  ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "새치커버도 잘 되는편입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "751389",
+    "RawText": "사용 방법이나 보관은 편해서 좋습니다. 새치커버는 그리 잘 되는 것 같진 않네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "4",
+    "Syllable": "45",
+    "Word": "12",
+    "RDate": "20220806",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용 방법이나 보관은 편해서 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "새치커버는 그리 잘 되는 것 같진 않네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "751398",
+    "RawText": "새치염색이라 진한걸로 사용하다가 미용실에서 새치가 많지 않아서 밝은 색으로 해도 괜찮다고 해서 다시 주문했네요. 거품타입이라 사용하기 편하고 뿌리염색용으로도 사용하기도 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "99",
+    "Word": "20",
+    "RDate": "20170729",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "거품타입이라 사용하기 편하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "뿌리염색용으로도 사용하기도 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "751400",
+    "RawText": "새치커버가 잘되고. 사용하기도 쉽고 편합니다. 가격은 생각보다 저렴하지 않네요.  배송과, 포장상태도 양호했어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "12",
+    "RDate": "20170827",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "새치커버가 잘되고. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기도 쉽고 편합니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 생각보다 저렴하지 않네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "751404",
+    "RawText": "배송이 빠르고 가격도 가장 저렴한 것 같아요. 염색하기 귀찮았는데 쉽고 편해졌어요. 향은 좀 진해서 부담스럽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "4",
+    "Syllable": "63",
+    "Word": "15",
+    "RDate": "20170811",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 가장 저렴한 것 같아요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "염색하기 귀찮았는데 쉽고 편해졌어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 좀 진해서 부담스럽네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "751407",
+    "RawText": "생각보다 용량이 작고 새치커버력은 기존 사용하던 제품과 비슷합니다. 재구매는 좀 더 써보고 결정하려구요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "13",
+    "RDate": "20170921",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "생각보다 용량이 작고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "새치커버력은 기존 사용하던 제품과 비슷합니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "751430",
+    "RawText": "혼자서 염색하기 좋다고 해서 주문했어요. 새치커버에 효과 있으면 좋겠고 오래 지속되면 좋을 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "14",
+    "RDate": "20220102",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "새치커버에 효과 있으면 좋겠고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "오래 지속되면 좋을 것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "751432",
+    "RawText": "염색이 잘 안됩니다. 조금씩 덜어서 사용하기가 불편합니다. 처음 샀는데 품질이 정말 안 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "53",
+    "Word": "13",
+    "RDate": "20210507",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색이 잘 안됩니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "조금씩 덜어서 사용하기가 불편합니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 정말 안 좋네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "751437",
+    "RawText": "사용하기 불편합니다. 피부 트러블이 생겼어요. 염색이 오래가지도 않는 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "45",
+    "Word": "10",
+    "RDate": "20220706",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기 불편합니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "피부 트러블이 생겼어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "염색이 오래가지도 않는 것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "751460",
+    "RawText": "다른 곳보다 비싸게 구매했습니다. 제품은 아직 사용 전입니다. 유통기한 짧은 걸 보내셨어요. 그래도 효과가 좋기를 기대해 봅니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "17",
+    "RDate": "20180320",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "다른 곳보다 비싸게 구매했습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한 짧은 걸 보내셨어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과가 좋기를 기대해 봅니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "751462",
+    "RawText": "흰머리가 많아서 염색이 잘 안됩니다. 발색도 마음에 안 들어요. 염색약이 너무 어두운 칼라라서 그런 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "3",
+    "Syllable": "63",
+    "Word": "16",
+    "RDate": "20180405",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "흰머리가 많아서 염색이 잘 안됩니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "발색도 마음에 안 들어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "염색약이 너무 어두운 칼라라서 그런 것 같습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "751473",
+    "RawText": "흰머리가 절반 정도 됩니다. 내 머리카락에 젊음을 입혀주기 위해 구입했습니다. 염색제 색상도 좋습니다. 셀프 염색하기 쉬워서 구입했습니다. 시작한지 벌써 5년이 되었네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "4",
+    "Syllable": "95",
+    "Word": "21",
+    "RDate": "20180409",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "염색제 색상도 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "셀프 염색하기 쉬워서 구입했습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "751477",
+    "RawText": "어제 샀는데 배송이 오늘 바로 왔어요. 배송만 무지 빠른 것 같습니다. 그리고 바로 해봤는데 염색이 잘 안 나오네요. 거품 염색이 편하다고 해서 구입했는데 염색 과정도 불편하고 헹굼시 계속 물이 빠지네요. 앞으로 이용 안 합니다. 사은품도 별로에요. 가격도 비싸게 구입했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "155",
+    "Word": "39",
+    "RDate": "20180626",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색이 잘 안 나오네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "염색 과정도 불편하고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "헹굼시 계속 물이 빠지네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품도 별로에요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 비싸게 구입했습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "751482",
+    "RawText": "흰머리가 점점 생겨나서 샀어요. 너무 밝은 색은 왠지 걱정이 되어서 갈색으로 구매했는데 너무 어둡게 발색되지는 않았으면 좋겠어요. 사용하기는 편할 거 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "88",
+    "Word": "21",
+    "RDate": "20180228",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "발색력",
+        "SentimentText": "너무 어둡게 발색되지는 않았으면 좋겠어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기는 편할 거 같아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "751483",
+    "RawText": "ㅇㅇㅇ이라 좋을 것으로 예상하고 구매했습니다. 가격이 좀 비싸기는 하지만 거품이라 집에서 간편하게 할 수 있습니다. 그런데 염색력은 좀 떨어지네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "82",
+    "Word": "19",
+    "RDate": "20180304",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 좀 비싸기는 하지만 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "거품이라 집에서 간편하게 할 수 있습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색력은 좀 떨어지네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "751498",
+    "RawText": "제품은 미사용 상태라서 잘 모르겠어요. 그동안 OOO 제품을 계속 사용했는데 암모니아 냄새가 너무 심해서 이 제품을 구입해 봤어요. 색감을 확인하기 위해 우선 3종류를 선택했는데 염색 효과가 만족스러웠으면 좋겠어요. 냄새는 거의 없어 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "4",
+    "Syllable": "135",
+    "Word": "32",
+    "RDate": "20180615",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색 효과가 만족스러웠으면 좋겠어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새는 거의 없어 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "751501",
+    "RawText": "생각보다 사용하기 불편한 염색약입니다. 냄새도 강해서 별로에요. 여기가 가격이 비싼편이였네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "52",
+    "Word": "10",
+    "RDate": "20180620",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "생각보다 사용하기 불편한 염색약입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 강해서 별로에요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 비싼편이였네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "751503",
+    "RawText": "전에 사용했던 염색약 보다 사용하기 불편합니다. 냄새도 심해요. 사용하고 남아도 다음에 재사용하기 하기도 힘들어요. 그래서 다시 구입할 생각은 없습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "85",
+    "Word": "19",
+    "RDate": "20180710",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "전에 사용했던 염색약 보다 사용하기 불편합니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 심해요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하고 남아도 다음에 재사용하기 하기도 힘들어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "751506",
+    "RawText": "편리해서 사용하는 제품 입니다. 흰머리가 반이상이라 쓰고 있어요. 제형이 좀 흘러 내리기는 하지만 염색은 잘 나와서 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "17",
+    "RDate": "20180716",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "편리해서 사용하는 제품 입니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 좀 흘러 내리기는 하지만 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색은 잘 나와서 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "751511",
+    "RawText": "ㅇㅇㅇ이  좋다고 해서 구입했습니다. 염색이 잘 안 나와요. 향도 강해서 부담스럽네요. 가격도 비싸게 구입했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "14",
+    "RDate": "20180725",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색이 잘 안 나와요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 강해서 부담스럽네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 비싸게 구입했습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "751522",
+    "RawText": "밝은 염색모라 살짝 톤 다운 시키려고 짙은 갈색을 주문했는데 검은색으로 발색되어서 별로예요. 색상 표기가 잘못된 건지 색을 잘못 선택했나봐요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "4",
+    "Syllable": "79",
+    "Word": "19",
+    "RDate": "20180928",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "발색력",
+        "SentimentText": "짙은 갈색을 주문했는데 검은색으로 발색되어서 별로예요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상 표기가 잘못된 건지 색을 잘못 선택했나봐요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "751524",
+    "RawText": "정말 냄새도 너무 심합니다. 발색은 짙은 갈색이 많이 짙어서 검정 같아서 별로에요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "46",
+    "Word": "12",
+    "RDate": "20180401",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "정말 냄새도 너무 심합니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "발색은 짙은 갈색이 많이 짙어서 검정 같아서 별로에요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "751526",
+    "RawText": "미용실에서 염색하면 알러지가 유발되서 구입했습니다. 이것저것 쓰다가 거품형이 가장 편할 것 같아서 샀어요. 염색 후 가려움증이 며칠정도 있어서 약을 먹을 정도였어요. 사용중지 했습니다.바르고 눈도 따가웠습니다. 눈이 침침해 지는 현상도 있었어요. 정말 심하게 알러지와 눈침침해지는 증상이 일주일 이상 갔습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "173",
+    "Word": "38",
+    "RDate": "20180424",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "염색 후 가려움증이 며칠정도 있어서 약을 먹을 정도였어요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "눈도 따가웠습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "눈이 침침해 지는 현상도 있었어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "정말 심하게 알러지와 눈침침해지는 증상이 일주일 이상 갔습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "751527",
+    "RawText": "염색이 잘 되고 사용하기 편해요. 근데 물이 계속 빠지네요. 염색한지 오래됐는데 아직까지 수건에 묻어 나오네요. 머리색도 옅어져서 난감해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "1",
+    "Syllable": "78",
+    "Word": "18",
+    "RDate": "20180428",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색이 잘 되고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기 편해요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "물이 계속 빠지네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "이염",
+        "SentimentText": "염색한지 오래됐는데 아직까지 수건에 묻어 나오네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "머리색도 옅어져서 난감해요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "751530",
+    "RawText": "미용실에서 하는 것보다 별로네요. 돈 아까워요. 물 빠짐도 있는 거 같습니다. 가격대비 용량도 적네요. 추천하지 않습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "4",
+    "Syllable": "68",
+    "Word": "16",
+    "RDate": "20180616",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "돈 아까워요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "물 빠짐도 있는 거 같습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "가격대비 용량도 적네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "751548",
+    "RawText": "몇년째 쓰던 제품이 품절이라 구매했습니다. 마트에서 사는 것 보다 더 비싸게 구매했더라구요. 이번엔 여러개 구입했는데 속상합니다. 셀프염색이 잘 되면 좋겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "90",
+    "Word": "20",
+    "RDate": "20190420",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "마트에서 사는 것 보다 더 비싸게 구매했더라구요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "셀프염색이 잘 되면 좋겠습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "751549",
+    "RawText": "간편하다고 해서 구입해서 사용해봤습니다. 색상 선택을 잘해야겠어요. 너무 진한 검정색으로 발색이 됐습니다. 발색이 정말 별로에요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "4",
+    "Syllable": "72",
+    "Word": "15",
+    "RDate": "20190426",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "발색력",
+        "SentimentText": "너무 진한 검정색으로 발색이 됐습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "발색이 정말 별로에요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "751568",
+    "RawText": "사용시 제형이 흘러내리지도 않고 부드럽게 잘 발라져요. 설명서 시간보다 몇분 정도 더했더니 진짜로 좀 진하게 나왔어요. 다른 제품은 시간이 갈수록  머리 감을때 뻣뻣해져서 감기 힘든데 이 제품은 머릿결이 부드러워져 감기 좋습니다. 맘에 쏙 들어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "138",
+    "Word": "34",
+    "RDate": "20190709",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 흘러내리지도 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "부드럽게 잘 발라져요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "설명서 시간보다 몇분 정도 더했더니 진짜로 좀 진하게 나왔어요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "머릿결관리",
+        "SentimentText": "이 제품은 머릿결이 부드러워져 감기 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "751577",
+    "RawText": "이 제품 사용해 보니 살까지 이염이 됐습니다. 씻어도 제거가 잘 안됩니다. 심지어 흰머리 염색도 잘 안 됐습니다. 이 제품 계속 사용 못하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "82",
+    "Word": "22",
+    "RDate": "20190911",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "이염",
+        "SentimentText": "살까지 이염이 됐습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "클렌징/제거력",
+        "SentimentText": "씻어도 제거가 잘 안됩니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "흰머리 염색도 잘 안 됐습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "751620",
+    "RawText": "이 제품이 염색하기 편합니다. 그런데 갈색은 염색이 잘 안되요. 다음번에는 새치커버용 검정색으로 구입해야겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "13",
+    "RDate": "20190325",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "염색하기 편합니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "갈색은 염색이 잘 안되요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "751621",
+    "RawText": "부모님 염색해 드리려고 주문했어요. 할인을 못 받아서 저렴하게 구매하지는 못했네요. 피부가 예민하신데 자극적인거 같아요. 사용하기도 불편해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "4",
+    "Syllable": "79",
+    "Word": "16",
+    "RDate": "20190328",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인을 못 받아서 저렴하게 구매하지는 못했네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "피부가 예민하신데 자극적인거 같아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기도 불편해요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "751622",
+    "RawText": "이런 저런 제품 보다가 후기를 보니 편하고 괜찮은거 같아서 구입했어요. 할인을 못 받아서 싸게 구매하지 못해서 아쉽네요. 효과가 기대됩니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "19",
+    "RDate": "20190329",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인을 못 받아서 싸게 구매하지 못해서 아쉽네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과가 기대됩니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "751634",
+    "RawText": "버블 제형이라 덜 흘러내려서 좋은 것 같습니다. 소량으로 염색도 잘 되는 것 같습니다. 다른 염색제는 많이 발라도 염색이 안 되고 그래서 많이 발랐는데 피부에 묻어나고 안 좋은 기억이 있었습니다. 결국 그 제품은 한통을 한 번에 다 사용하고 말았습니다. 근데 이 제품을 쓰니까 구성품도 좋은 것 같습니다. 특히 염색약 묻지 말라고 준 귀 가리는 거 말입니다. 귀 가리는 거는 너덜너덜해질 때까지 사용하다 버립니다. 단점은 염색약이 튈 때가 있습니다. 그래서 타올 한장 깔아 놓고 사용하고 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "278",
+    "Word": "74",
+    "RDate": "20190104",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "버블 제형이라 덜 흘러내려서 좋은 것 같습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "소량으로 염색도 잘 되는 것 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성품도 좋은 것 같습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "751635",
+    "RawText": "저렴한 다른 제품 사용하고 있었는데 이 제품이 상품평이 좋아서 몇 개 구매했어요. OOO 브랜드가 유명해서 믿고 구매했는데 생각보다 염색이 잘 안되어서 별로예요. 사용하기도 불편하네요. 괜히 샀어요. 예전에 쓰던 제품 구매할 걸 그랬나 봐요. 혹시 구매하실 분들은 꼼꼼히 따져보고 구매하세요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "163",
+    "Word": "39",
+    "RDate": "20190104",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "염색력",
+        "SentimentText": "생각보다 염색이 잘 안되어서 별로예요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기도 불편하네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "751662",
+    "RawText": "저렴한 가격에 사용이 간편해서 잘 쓰고 있어요. 용량은 넉넉하지 않아 자주 구매하게 되네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "51",
+    "Word": "13",
+    "RDate": "20181218",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용이 간편해서 잘 쓰고 있어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량은 넉넉하지 않아 자주 구매하게 되네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "751663",
+    "RawText": "용량이 작은 편인데 긴 머리라서 두 통이나 사용했어요. 사용해 보니 흑색으로 발색되어서 별로예요. 얼굴에 묻었는데 바로 안 지웠더니 잘 안 지워지네요. 바로 닦아주는 게 좋을 듯합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "103",
+    "Word": "26",
+    "RDate": "20181221",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량이 작은 편인데 긴 머리라서 두 통이나 사용했어요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "사용해 보니 흑색으로 발색되어서 별로예요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "이염",
+        "SentimentText": "얼굴에 묻었는데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "클렌징/제거력",
+        "SentimentText": "바로 안 지웠더니 잘 안 지워지네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "751669",
+    "RawText": "거품형태라 간편하고 혼자서 염색하기도 쉽네요. 머리 숱이 많고 기장도 길어 용량은 좀 아쉽고 머리 감을 때마다 물 빠짐이 좀 심하긴 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "21",
+    "RDate": "20181227",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "거품형태라 간편하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "혼자서 염색하기도 쉽네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "머리 숱이 많고 기장도 길어 용량은 좀 아쉽고",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "머리 감을 때마다 물 빠짐이 좀 심하긴 합니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "751671",
+    "RawText": "염색은 간편해서 좋은데 염색이 오래 지속되지는 않네요. 2주 정도면 물이 빠지는 듯해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 미** 거품염색 1개",
+    "ReviewScore": "4",
+    "Syllable": "49",
+    "Word": "12",
+    "RDate": "20181227",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "염색은 간편해서 좋은데 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "염색이 오래 지속되지는 않네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "2주 정도면 물이 빠지는 듯해요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "751692",
+    "RawText": "싸서 샀는데 가루 제형이 잘 안 섞이네요. 감을 때 가루 제형이 그대로 떨어지네요. 염색도 잘 안 되는 거 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 리** 염색제",
+    "ReviewScore": "3",
+    "Syllable": "64",
+    "Word": "19",
+    "RDate": "20220703",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸서 샀는데 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "가루 제형이 잘 안 섞이네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "감을 때 가루 제형이 그대로 떨어지네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색도 잘 안 되는 거 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "751699",
+    "RawText": "헤어 염색용으로 저렴한 제품을 찾아서 구입했어요. 저렴한 가격에 염색도 잘되네요. 사용할 때마다 가루 제형을 섞어야 해서 좀 불편하긴 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 리** 염색제",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "19",
+    "RDate": "20220503",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색도 잘되네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "사용할 때마다 가루 제형을 섞어야 해서 좀 불편하긴 합니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "751704",
+    "RawText": "여러 개 구입했는데 만족스럽지 않아요. 냄새도 나고 피부에 착색이 되네요. 염색 후 물 빠짐도 있어요. 추천하지 않습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 리** 염색제",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "17",
+    "RDate": "20220321",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 나고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "이염",
+        "SentimentText": "피부에 착색이 되네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "염색 후 물 빠짐도 있어요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "751715",
+    "RawText": "이 제품은 사용할 때 화학적 냄새가 나서 별로예요. 염색할 때 따가운 거 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 리** 염색제",
+    "ReviewScore": "5",
+    "Syllable": "45",
+    "Word": "13",
+    "RDate": "20220317",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "화학적 냄새가 나서 별로예요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "염색할 때 따가운 거 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "751727",
+    "RawText": "가격대비 효과가 별로네요. 염색이 잘 안 되는 거 같아요. 재구매는 안 할 거 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 리** 염색제",
+    "ReviewScore": "5",
+    "Syllable": "49",
+    "Word": "14",
+    "RDate": "20220317",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "가격대비 효과가 별로네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "염색력",
+        "SentimentText": "염색이 잘 안 되는 거 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  }
+]

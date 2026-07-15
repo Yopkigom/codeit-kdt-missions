@@ -1,0 +1,3692 @@
+[
+  {
+    "Index": "826706",
+    "RawText": "가격대비 제품 구성이 좋아 보여서 구매했는데 1개짜리였네요. 가격을 제대로 확인하지 않은 제 잘못입니다. 그래도 1개를 이 가격에 판매하시다니 너무 비싼 거 같아요. 부디 다른 분들은 저 같은 실수를 하지 않으셨으면 좋겠어요. 씁쓸합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "1",
+    "Syllable": "133",
+    "Word": "32",
+    "RDate": "20210422",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "가격대비 제품 구성이 좋아보여서 구매했는데 1개짜리였네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "1개를 이 가격에 판매하시다니 너무 비싼 거 같아요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "826708",
+    "RawText": "안전화신고 일하는 직업입니다. 집에 가면 발냄새가 심한편입니다. 거품이 잘나고 향이 좋아서 비누로 씻는것보단 사용하기 편합니다. 발냄새가 안나네요. 근데 각질제거는 잘모르겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "99",
+    "Word": "20",
+    "RDate": "20210421",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품이 잘나고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "비누로 씻는것보단 사용하기 편합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "발냄새가 안나네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "각질제거는 잘모르겠어요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "826709",
+    "RawText": "발도 전용 풋샴푸를 써야한다고 해서 구매했습니다. 써보니 개운합니다. 향도 제가 좋아하는 자몽향이라 좋습니다. 잘 사용하고 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "16",
+    "RDate": "20210421",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "개운합니다. ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 제가 좋아하는 자몽향이라 좋습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826710",
+    "RawText": "엄마가 하루 종일 거의 서서 일하기 때문에 엄마용으로 구입했습니다. 세정시 거품도 풍부합니다. 향기도 은은하고 상쾌합니다. 물로 씻어낼 때 일시적으로 쿨링감도 있고 해서 기분도 좋아진다고 합니다. 필수템입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "117",
+    "Word": "26",
+    "RDate": "20210421",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "거품력",
+        "SentimentText": "세정시 거품도 풍부합니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 향기도 은은하고 상쾌합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "쿨링감도 있고 해서 기분도 좋아진다고 합니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826711",
+    "RawText": "한번 쓰기 시작하니 계속 구매하는 제품입니다. 향도 좋고 발도 깨끗하게 잘 씻겨서 좋고 무엇보다 사용하기 편해서 좋습니다. 레몬향 보다는 자몽향이 더 맘에 드네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "91",
+    "Word": "23",
+    "RDate": "20210420",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "발도 깨끗하게 잘 씻겨서 좋고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기 편해서 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "레몬향 보다는 자몽향이 더 맘에 드네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826716",
+    "RawText": "행사해서 한 번 구입 했는데 괜찮아서 다시 구매했어요. 발냄새가 향긋해지고 발이 보송보송해서 마음에 들어요. 뿌리고 씻기만 하는 제품이라 사용하기 편합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "87",
+    "Word": "20",
+    "RDate": "20210415",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "발냄새가 향긋해지고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "발이 보송보송해서 마음에 들어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "뿌리고 씻기만 하는 제품이라 사용하기 편합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826717",
+    "RawText": "비누로 쓰다가 각질 대박이라 리뷰에 각질이 확 줄였다는 글 보고 그냥 구매했어요. 각질 좀 없어지는 듯하고 향도 좋습니다. 용량 대비 저렴한 편은 아닌 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "91",
+    "Word": "25",
+    "RDate": "20210415",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "각질 좀 없어지는 듯하고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "용량 대비 저렴한 편은 아닌 것 같아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "826724",
+    "RawText": "자극은 덜한데 세정이 잘 되는 지는 아직 잘 모르겠네요. 그래도 자주 하면 뒷꿈치 각질이 제거 되는 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "18",
+    "RDate": "20210409",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "자극은 덜한데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "세정이 잘 되는 지는 아직 잘 모르겠네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "자주 하면 뒷꿈치 각질이 제거 되는 것 같습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826725",
+    "RawText": "손으로 발 닦는 걸 좋아하지 않는 편이라 발바닥에 각질이 많이 생겨서 구매 했는데, 확실히 발바닥 각질에 효과가 좋네요. 다만 분사력이 좋지 않아요. 잘 뿌려지지 않아 불편하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "100",
+    "Word": "26",
+    "RDate": "20210409",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "발바닥 각질에 효과가 좋네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "분사력",
+        "SentimentText": "분사력이 좋지 않아요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "분사력",
+        "SentimentText": "잘 뿌려지지 않아 불편하네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "826729",
+    "RawText": "발 씻기에 간편해서 좋습니다. 편의성이 일등이네요. 향도 좋습니다. 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "44",
+    "Word": "9",
+    "RDate": "20210405",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "발 씻기에 간편해서 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "편의성이 일등이네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826731",
+    "RawText": "맨발로 신발을 자주 신다 보니 발냄새가 심해지고 행사하기에 저렴하게 구입해 봤는데 기대 이상입니다. 발에 땀이 많은데 발냄새도 덜 납니다. 향기도 좋아요. 더운 여름에 대비해서 장만해 둬야 할 제품입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "114",
+    "Word": "28",
+    "RDate": "20210404",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "행사하기에 저렴하게",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "발냄새도 덜 납니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기도 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "더운 여름에 대비해서 장만해 둬야 할 제품입니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826736",
+    "RawText": "그냥 비누로 씻고 각질은 도구로 하니 점점 거칠어져서 구매하게 되었어요. 이 제품 써보니 산뜻하고 발이 매끈해졌네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "16",
+    "RDate": "20210403",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "산뜻하고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "발이 매끈해졌네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826742",
+    "RawText": "아이들이 좋아해서 계속 재구매해서 사용합니다. 학교 갔다 돌아오면 제일 먼저 손발 씻으라고 교육 중인데 비누칠 안 해도 되고 뿌리기만 하면 되어서 너무 편하고 좋아요. 수입품만 있는 줄 알았는데 국산으로도 풋샴푸가 나와서 너무 반갑습니다. 다만 스프레이 타입이라 좀 헤프게 쓰게 되어서 가격이 좀 저렴했으면 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "176",
+    "Word": "44",
+    "RDate": "20210401",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "뿌리기만 하면 되어서 너무 편하고 좋아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "스프레이 타입이라 좀 헤프게 쓰게 되어서",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 좀 저렴했으면 합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "826749",
+    "RawText": "할인 받아서 저렴하게 구매했습니다. 다 쓰면 또 구매할 생각입니다. 외출하고 다녀오면 매일 사용하게 되는 것 같아요. 향도 나쁘지 않습니다. 용량은 살짝 작은 편이에요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "94",
+    "Word": "23",
+    "RDate": "20210328",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인 받아서 저렴하게 구매했습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 나쁘지 않습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량은 살짝 작은 편이에요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "매일 사용하게 되는 것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826751",
+    "RawText": "가격도 적당하고 별다른 자극도 없어서 데일리로 쓰기 좋습니다. 향은 제법 강한 편이라 아쉽지만 향이 오래 가지는 않아 좋습니다. 가끔 욕실에 그냥 뿌리는 용도로 활용합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "96",
+    "Word": "24",
+    "RDate": "20210326",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 적당하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "별다른 자극도 없어서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "데일리로 쓰기 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 제법 강한 편이라 아쉽지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "향이 오래 가지는 않아 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "가끔 욕실에 그냥 뿌리는 용도로 활용합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826753",
+    "RawText": "주변에서 사용하는 거 보니 편해보여서 구매했는데 사용하기 편하네요. 여름에 땀 많이 날때 사용하기 좋은 제품입니다. 다음에도 구매할 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "81",
+    "Word": "19",
+    "RDate": "20210325",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기 편하네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "여름에 땀 많이 날때 사용하기 좋은 제품입니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826754",
+    "RawText": "남편이 무좀도 있고 발을 잘 안 씻는 편이라 구매했는데 손으로 직접 발에 문지르지 않게 되어서 편합니다. 분무기 형태라 발에 뿌리면 되니까 좋은 것 같습니다. 처음 써보는 거라 사 봤는데 좋은 것 같아요. 가격이 더 저렴해지면 좋을 것 같아요. 데일리로 사용하기 좋은 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "157",
+    "Word": "43",
+    "RDate": "20210325",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "손으로 직접 발에 문지르지 않게 되어서 편합니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "분무기 형태라 발에 뿌리면 되니까 좋은 것 같습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 더 저렴해지면 좋을 것 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "데일리로 사용하기 좋은 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826762",
+    "RawText": "보송한 마무리감과 자몽 향이 좋습니다. 몇 번째 재구매 합니다. 화장실 마다 챙겨두고 사용 중인데 발 씻기 편해서 좋아요. 그리고 발 브러쉬랑 같이 사용하니 발씻기 더 편해서 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "101",
+    "Word": "27",
+    "RDate": "20210317",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "보송한 마무리감과",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": " 자몽 향이 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "발 씻기 편해서 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "발 브러쉬랑 같이 사용하니 발씻기 더 편해서 좋아요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826767",
+    "RawText": "아들의 엄청난 발 냄새로 구매했습니다. 그동안 이것 저것 무지하게 많은 제품을 써 봤는데 이 제품이 그나마 괜찮네요. 발 씻고 나면 향이 있어서 좋습니다. 다만 가격이 생각보다 비싸네요. 조금만 더 저렴해지면 좋겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "123",
+    "Word": "31",
+    "RDate": "20210310",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 있어서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 생각보다 비싸네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "조금만 더 저렴해지면 좋겠습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "826771",
+    "RawText": "중학생 아들 발 냄새 제거용으로 구입했습니다. 일단 한번 사용했는데 향기는 안 나지만 발냄새는 안 나서 만족하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "16",
+    "RDate": "20210307",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기는 안 나지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "발냄새는 안 나서 만족하네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826772",
+    "RawText": "고장 난 제품이 왔는지 기대하면서 기다렸다가 오늘 배송 받고 처음 써보려고 했더니 분사가 안 됩니다. 용기가 불량인지 미끈미끈한 액체가 좀 새면서 손만 미끄러워지고 발에 분사가 전혀 안 되네요. 속상합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "115",
+    "Word": "29",
+    "RDate": "20210306",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "분사력",
+        "SentimentText": "분사가 안 됩니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "분사력",
+        "SentimentText": "발에 분사가 전혀 안 되네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기가 불량인지 미끈미끈한 액체가 좀 새면서 손만 미끄러워지고",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "826773",
+    "RawText": "잘 사용하고 있어요. 특히 여름철에 사용하기 좋고 겨울에도 사용하기 좋아요. 향이 상큼한 향이라 씻을 때 기분이 좋습니다. 양이 작아서 조금 헤프게 쓰면 금방 다 쓸 거 같습니다. 세일해서 저렴하게 구매했는데 재구매도 할 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "131",
+    "Word": "34",
+    "RDate": "20210306",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "여름철에 사용하기 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "겨울에도 사용하기 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 상큼한 향이라 씻을 때 기분이 좋습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양이 작아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "세일해서 저렴하게 구매했는데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826774",
+    "RawText": "우선적으로 발을 씻기 간편해서 좋습니다. 피부가 예민해서 피부에 바로 와닿는 제품은 피부질환이 생길까 항상 걱정하고 구매하는데, 이 제품은 트러블도 안 생기고 시원해서 좋아요. 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "105",
+    "Word": "24",
+    "RDate": "20210306",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "발을 씻기 간편해서 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "트러블도 안 생기고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "시원해서 좋아요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826780",
+    "RawText": "발 냄새 때문에 샀는데 쓸수록 만족스럽네요. 계속 쓰게 됩니다. 냄새도 잡아주고 사용하기 편한 것 같습니다. 발 냄새 잡아주니 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "19",
+    "RDate": "20210302",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "냄새도 잡아주고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기 편한 것 같습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "발 냄새 잡아주니 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826782",
+    "RawText": "세일할때 반값으로 구매해서 아주 좋아요. 아이가 있어 자주는 못하지만 데일리로 사용하기에 좋은 것 같아요. 특히나 땀이 많은날은 개운하게 씻겨서 더 좋은거 같아요. 강추합니다. 저같이 땀이 많고 뒤꿈치 까칠하신분은 사용해보세요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "127",
+    "Word": "29",
+    "RDate": "20210302",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "세일할때 반값으로 구매해서 아주 좋아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "데일리로 사용하기에 좋은 것 같아요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "땀이 많은날은 개운하게 씻겨서 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826784",
+    "RawText": "간단하게 사용 할 수 있어서 좋습니다. 저녁에 일 끝나고 들어와서 칙칙 뿌리고 쓱쓱 금방 씻으니까 사용하기 편하네요. 앞으로는 구성도 좋아졌으면 하는 소망이 있습니다. 제가 쓰는 거 보고 좋다고 해서 저렴한 가격이라 부담 없이 하나 선물했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "137",
+    "Word": "35",
+    "RDate": "20210301",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "간단하게 사용 할 수 있어서 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "칙칙 뿌리고 쓱쓱 금방 씻으니까 사용하기 편하네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "앞으로는 구성도 좋아졌으면 하는 소망이 있습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격이라 부담 없이 하나 선물했습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826787",
+    "RawText": "자몽향이 납니다. 매일 사용하면 자극이 있어서 며칠 걸러 한 번씩 사용합니다. 칙칙 분사하면 거품도 충분히 잘 나고 잘 씻겨요. 손으로 구석구석 주무르지 않고 발끼리 문질러서 씻어도 잘 씻깁니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "109",
+    "Word": "28",
+    "RDate": "20210301",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "자몽향이 납니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "매일 사용하면 자극이 있어서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품도 충분히 잘 나고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "잘 씻겨요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "발끼리 문질러서 씻어도 잘 씻깁니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826788",
+    "RawText": "발 냄새에 좋다고 해서 구매해봤습니다. 특히 여름에 사용하기 좋을 것 같습니다. 남편이 퇴근하고 발 씻을 때 사용합니다. 냄새도 상큼하고 거품도 잘나서 사용하기 편합니다. 다만 용량이 살짝 작은 것 같아 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "119",
+    "Word": "30",
+    "RDate": "20210301",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "여름에 사용하기 좋을 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 상큼하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품도 잘나서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기 편합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량이 살짝 작은 것 같아 아쉽네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "826789",
+    "RawText": "너무 편리할 것 같고 향기를 궁금해 하면서 구매를 했습니다. 기대 만큼 좋은 품질은 아닌 것 같습니다. 향기는 일반 비누가 더 좋아 보입니다. 조금 더 시원한 향기를 첨가 했으면 좋았겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "106",
+    "Word": "29",
+    "RDate": "20210228",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "기대 만큼 좋은 품질은 아닌 것 같습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기는 일반 비누가 더 좋아 보입니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "조금 더 시원한 향기를 첨가 했으면 좋았겠어요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "826790",
+    "RawText": "할인 안하면 안사려고 했는데 구매해 써보니 좋은 것 같습니다. 향도 좋고 발이 깨끗하게 잘 씻겨서 좋아요. 다음엔 다른 향도 나왔으면 좋겠습니다. 좀 더 분사가 넓게 되었으면 좋았을텐데 조금 아쉽네요. 마음에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "121",
+    "Word": "31",
+    "RDate": "20210226",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "발이 깨끗하게 잘 씻겨서 좋아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "다른 향도 나왔으면 좋겠습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "분사력",
+        "SentimentText": "좀 더 분사가 넓게 되었으면 좋았을텐데 조금 아쉽네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "826791",
+    "RawText": "늘 사용하는 제품인데요. 할인해서 저렴히 구매했어요. 거품 잘 나오고 향도 강하지 않고 헹굴때도 거품제형이 미끌거리지 않아 좋아요. 전용발판이랑 같이 사용하면 더 편하게 발을 씻을 수 있어 편리해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "111",
+    "Word": "27",
+    "RDate": "20210225",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인해서 저렴히 구매했어요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품 잘 나오고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 강하지 않고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "헹굴때도 거품제형이 미끌거리지 않아 좋아요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "전용발판이랑 같이 사용하면 더 편하게 발을 씻을 수 있어 편리해요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826792",
+    "RawText": "발냄새가 유독 많이 나고 땀도 많이 나서 발이 축축하고 찝찝하고 수시로 씻어도 그때 뿐이었어요. 거품은 좀 적은 듯하지만 발과 발톱사이를 깨끗이 씻고 나면 발 냄새가 제거되고 각질관리도 되어 좋습니다. 발이 편하니 몸도 편하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "128",
+    "Word": "33",
+    "RDate": "20210225",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품은 좀 적은 듯하지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "발 냄새가 제거되고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "각질관리도 되어 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826793",
+    "RawText": "풋세정제가 나왔길래 호기심에 사보았는데 아주 만족합니다. 발을 대충 씻는 남자애들 칙칙뿌리면 거품이 잘 나서 대충 문지르고 헹구면 손을 사용할 필요가 없어서 편하게 사용합니다. 사용하기 간편해서 자주 쓰게 되고 좋은 것 같아요. 더군다나 할인 행사까지 해줘서 저렴한 가격으로 여러 개 샀습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "164",
+    "Word": "40",
+    "RDate": "20210223",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "거품력",
+        "SentimentText": "칙칙뿌리면 거품이 잘 나서 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "대충 문지르고 헹구면 손을 사용할 필요가 없어서 편하게 사용합니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기 간편해서 자주 쓰게 되고 좋은 것 같아요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인 행사까지 해줘서 저렴한 가격으로",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826796",
+    "RawText": "궁금해 하면서 호기심에 구입해본 제품입니다. 몸을 굽히지 않아도 돼서 발 씻을때 편해요. 사용후 느낌도 산뜻합니다. 개인적으로 좋아하는 자몽향이라 아주 마음에 들어요. 행사할때 구입해서 더 저렴한 가격으로 샀네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "119",
+    "Word": "27",
+    "RDate": "20210221",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "몸을 굽히지 않아도 돼서 발 씻을때 편해요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "사용후 느낌도 산뜻합니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "개인적으로 좋아하는 자몽향이라 아주 마음에 들어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 행사할때 구입해서 더 저렴한 가격으로 샀네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826798",
+    "RawText": "종일 서서 일하는 남편 저녁에 집에 와서 발피로감 케어를 위해 구입했습니다. 세일중이라 저렴하게 구입했습니다. 쓰고 난뒤 약간의 쿨링감 덕에 좋다고 합니다. 벌써 5번째 구매해서 사용중입니다. 추천합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "114",
+    "Word": "26",
+    "RDate": "20210218",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "세일중이라 저렴하게 구입했습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "약간의 쿨링감 덕에 좋다고 합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826802",
+    "RawText": "발씻을때 허리를 숙이지 않고 뿌리면 거품으로 바로 씻을 수 있어서 편하고 좋습니다. 향은 호불호가 없이 모두 무난하게 사용할 수 있을거 같습니다. 세일할때 쟁여두면 좋을거 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "101",
+    "Word": "25",
+    "RDate": "20210217",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "발씻을때 허리를 숙이지 않고 뿌리면 거품으로 바로 씻을 수 있어서 편하고 좋습니다. ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 호불호가 없이 모두 무난하게 사용할 수 있을거 같습니다. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826803",
+    "RawText": "나이가 드니 발 뒷꿈치가 조금만 소홀하면 거칠어 지네요. 스타킹을 신을 수 없을 정도로 말입니다. 그냥 비누로 씻다가 할인해서 저렴하게 구입했는데 가볍게 뿌리고 문지르면 되니 사용하기 편하고 향이 좋은 것 같습니다. 용량만 더 커지면 좋을 듯해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "138",
+    "Word": "35",
+    "RDate": "20210216",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인해서 저렴하게 구입했는데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "가볍게 뿌리고 문지르면 되니 사용하기 편하고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 좋은 것 같습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량만 더 커지면 좋을 듯해요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "826806",
+    "RawText": "발 냄새가 너무 심해서 평소에 걱정이 많았는데 여기서 상품 검색하다가 눈에 띄어서 주문했는데 기대 이상입니다. 스프레식이라 사용하기 편하고 뿌리로 물로 씻으면 자몽향이 은은하게 나고 발이 뽀송하고 산뜻한 느낌이 너무 좋습니다. 용량은 살짝 작은 것 같네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "143",
+    "Word": "35",
+    "RDate": "20210216",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "스프레식이라 사용하기 편하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "자몽향이 은은하게 나고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "발이 뽀송하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "산뜻한 느낌이 너무 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량은 살짝 작은 것 같네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "826807",
+    "RawText": "일반 비누나 바디워시로 발 씻는 것보다 훨씬 상쾌합니다. 마무리도 보송하고 무엇보다 칙칙 뿌리면서 씻을 수 있기 때문에 너무 간편합니다. 저희 집에 놀려오는 친구들에게 추천했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "101",
+    "Word": "24",
+    "RDate": "20210216",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "비누나 바디워시로 발 씻는 것보다 훨씬 상쾌합니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "마무리도 보송하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "칙칙 뿌리면서 씻을 수 있기 때문에 너무 간편합니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826808",
+    "RawText": "어른들 사서 쓰세요. 특히 어르신들 사드리세요. 어르신들은 한 발 들고 비누칠 하기도 어렵고 미끄러지기도 쉽잖아요. 욕조에 앉는 것도 위험해요. 솔직히 애들은 비누 써도 가능 하지만 어른들은 허리 숙이기도 힘들잖아요. 집안에서 욕실이 생각보다 위험한 장소가 되기도 해요. 그리고 이거 생각보다 양이 많아서 오래 씁니다. 가격만 저렴해지면 더 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "195",
+    "Word": "47",
+    "RDate": "20210215",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양이 많아서 오래 씁니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격만 저렴해지면 더 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "826812",
+    "RawText": "발 꼼꼼히 씻기가 너무 귀찮아서 검색하다가 발견한 상품입니다. 샤워할 때 발샴푸를 발에 몇 번 뿌리고 한쪽 발로 다른 쪽 발을 문대는데, 이렇게만 해도 거품과 향이 충분히 올라옵니다. 그리고 발에 물을 뿌리며 서로 문지르면 향이 진하게 올라와서 발을 꼼꼼히 씻은 것 같은 느낌이 듭니다. 발냄새 없으니까 참 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "176",
+    "Word": "47",
+    "RDate": "20210208",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품과 향이 충분히 올라옵니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 충분히 올라옵니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 진하게 올라와서 발을 꼼꼼히 씻은 것 같은 느낌이 듭니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "발냄새 없으니까 참 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826825",
+    "RawText": "자몽향 구입했는데 제형이 거품 타입이라서 사용하기 편리하네요. 향기도 진하지 않아 좋고 잔향도 은은한 편이고 사용하기도 편해서 좋습니다. 허리를 구부리지 않고 사용해서 편합니다. 다른 사이트에서 발 닦는 실리콘 부착 브러쉬도 샀는데 그건 안 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "139",
+    "Word": "33",
+    "RDate": "20210131",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 거품 타입이라서 사용하기 편리하네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기도 진하지 않아 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "잔향도 은은한 편이고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기도 편해서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "허리를 구부리지 않고 사용해서 편합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826834",
+    "RawText": "이 제품으로 발 씻으니 발 냄새가 덜 나는 것 같아 좋은데 각질 제거는 더 아직 잘 모르겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "53",
+    "Word": "17",
+    "RDate": "20210128",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "발 냄새가 덜 나는 것 같아 좋은데",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "각질 제거는 더 아직 잘 모르겠어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "826840",
+    "RawText": "샤워실에서 발 닦을 때 자주 사용하는 제품이네요. 미끌거리지 않고 냄새도 잘 잡아줍니다. 자몽 향이 좋습니다. 세일할 때 저렴하게 사고 있습니다. 발 닦기 귀찮을 때 칙칙 뿌려서 샤워기로 헹구기만 하면 되니까 좋습니다. 유통기한은 살짝 짧네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "136",
+    "Word": "34",
+    "RDate": "20210120",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력",
+        "SentimentText": "미끌거리지 않고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "냄새도 잘 잡아줍니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "자몽 향이 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "세일할 때 저렴하게 사고 있습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "발 닦기 귀찮을 때 칙칙 뿌려서 샤워기로 헹구기만 하면 되니까 좋습니다.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한은 살짝 짧네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "826841",
+    "RawText": "향도 좋고 세정력도 좋고 발 씻기가 간편해서 늘 주문하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "33",
+    "Word": "9",
+    "RDate": "20210120",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "세정력도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "발 씻기가 간편해서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826846",
+    "RawText": "저희 집 필수품입니다. 외출하고 집에 돌아와서 발을 닦을 때 너무 편하게 씻을 수 있어 좋습니다. 다만 스프레이라 빨리 쓰게 되는 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "22",
+    "RDate": "20210114",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "너무 편하게 씻을 수 있어 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "스프레이라 빨리 쓰게 되는 것 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "826847",
+    "RawText": "1+1 행사로 구매했습니다. 남편 발냄새가 좀 나는 편인데 그냥 비누로는 적당하지 않은 것 같아 고민하던 차에 후기 보고 구매해봤어요. 우선 가장 중요한 발 냄새 제거에 효과가 있으며 시원한 느낌이 좋아요. 용량은 좀 작은 듯해서 오래 못 쓸 것 같고 향은 살짝 자극적이네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "154",
+    "Word": "42",
+    "RDate": "20210113",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "1+1 행사로 구매했습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "발 냄새 제거에 효과가 있으며",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "시원한 느낌이 좋아요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량은 좀 작은 듯해서 오래 못 쓸 것 같고 ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 살짝 자극적이네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "826852",
+    "RawText": "유튜버가 추천하는 상품인데 가격도 저렴해서 구매했습니다. 사용해보니 정말 발이 뽀드득 뽀드득 잘 씻겨서 좋습니다. 허리를 많이 굽힐 필요가 없어 사용하기 편해서 좋습니다. 향도 은은하고 스프레이형이라 분사하기도 편하네요. 다 쓰면 다른 향으로도 재구매할 예정입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "148",
+    "Word": "33",
+    "RDate": "20210109",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴해서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "발이 뽀드득 뽀드득 잘 씻겨서 좋습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "허리를 많이 굽힐 필요가 없어 사용하기 편해서 좋습니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 은은하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "스프레이형이라 분사하기도 편하네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826857",
+    "RawText": "아이들이 여럿인데 발을 제대로 씻지 않는것 같아서 알아보다가 ㅇㅇㅇ를 보고 구입했네요. 직접 손으로 발을 씻기 귀찮아하던 아이들도 손으로 뿌리면 거품이 나니 편하다고 발도 잘 씻어서 좋아요. 발등에 뿌리고 양발을 문지르면 쉽게 닦을 수 있고, 향도 은은하니 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "148",
+    "Word": "37",
+    "RDate": "20201229",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "아이들도 손으로 뿌리면 거품이 나니 편하다고 발도 잘 씻어서 좋아요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "발등에 뿌리고 양발을 문지르면 쉽게 닦을 수 있고",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 은은하니 좋아요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826858",
+    "RawText": "거품이 아주 풍부해서 제일 좋습니다. 그리고 향기도 마음에 듭니다. 신선한 자몽향이 나서 기분이 좋아집니다. 가끔 반려견도 이걸로 씻겨주고 있는데 발바닥 꺼끌거림도 없고 좋습니다. 애견용품이 아니라 자극적일까봐 걱정했는데 아무 이상 없고 오히려 더 깔끔하게 씻기고 향도 좋고 발바닥 보습도 되는지 꺼끌거림과 갈라짐이 없어져서 마음에 들어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "190",
+    "Word": "44",
+    "RDate": "20201226",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품이 아주 풍부해서 제일 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기도 마음에 듭니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "신선한 자몽향이 나서 기분이 좋아집니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "반려견도 이걸로 씻겨주고 있는데 발바닥 꺼끌거림도 없고 좋습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "발바닥 꺼끌거림도 없고 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "자극적일까봐 걱정했는데 아무 이상 없고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "더 깔끔하게 씻기고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "발바닥 보습도 되는지 꺼끌거림과 갈라짐이 없어져서 마음에 들어요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826859",
+    "RawText": "간편하게 사용이 가능해서 매번 쓰고 있습니다. 원 플러스 원 행사하거나 세일할 때마다 쟁여놓고 있어요. 한 번 써보고 나니까 사용하기 편해서 계속 찾게 되는 상품입니다. 향도 좋아서 씻고 나면 상쾌한 기분이 들어 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "124",
+    "Word": "32",
+    "RDate": "20201224",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "간편하게 사용이 가능해서 매번 쓰고 있습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기 편해서 계속 찾게 되는 상품입니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "씻고 나면 상쾌한 기분이 들어 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826866",
+    "RawText": "발 씻는데 허리 안구부리고 사용하기 편해서 짱 좋네요. 뽀득뽀득하게 씻겨요. 자몽향 넘 세서 담엔 다른향 살거에요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "16",
+    "RDate": "20201217",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "발 씻는데 허리 안구부리고 사용하기 편해서 짱 좋네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "뽀득뽀득하게 씻겨요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "자몽향 넘 세서 담엔 다른향 살거에요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "826867",
+    "RawText": "이 제품을 보고 신기해서 써보고 싶어서 구입하게 되었습니다. 마침 1+1이라서 가격도 저렴하고 상품평도 좋아서 샀습니다. 발에 뿌리고 거품을 내서 씻어보니 뽀득하게 잘 씻기고 상쾌해서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "108",
+    "Word": "25",
+    "RDate": "20201215",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "1+1이라서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "뽀득하게 잘 씻기고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "상쾌해서 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826868",
+    "RawText": "이젠 비누로는 씻을 수 없게 됐어요. 귀찮아도 간편하게 뿌리고 비비고 씻으면 되요. 너무 편하고 사용감이 깔끔하고 냄새도 좋아서 여러개 사두고 있습니다. 이번에도 다 사용하면 재구매 예정이에요. 추천합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "115",
+    "Word": "27",
+    "RDate": "20201214",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "귀찮아도 간편하게 뿌리고 비비고 씻으면 되요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "너무 편하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용감",
+        "SentimentText": "사용감이 깔끔하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "냄새도 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826873",
+    "RawText": "향이 좀 센 편입니다. 그렇지만 발 씻을 때 간편하고 개운합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "36",
+    "Word": "10",
+    "RDate": "20201212",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 좀 센 편입니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "발 씻을 때 간편하고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": " 개운합니다.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826882",
+    "RawText": "늘 사용하고 있습니다. 온 가족이 함께 사용하기 좋습니다. 향도 좋아요. 그런데 구성이 좋지는 않네요. 다음에는 구성이 더 좋아졌으면 좋겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "80",
+    "Word": "19",
+    "RDate": "20201206",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "온 가족이 함께 사용하기 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성이 좋지는 않네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "다음에는 구성이 더 좋아졌으면 좋겠어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "826886",
+    "RawText": "항상 구매하는 제품이에요. 스프레이 분사식이라서 사용하기 편하고 좋습니다. 조금만 뿌려도 거품이 많이 나고 제형도 쫀쫀해서 발이 깨끗하게 잘 닦이는 느낌입니다. 향도 상큼하니 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "102",
+    "Word": "23",
+    "RDate": "20201204",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "스프레이 분사식이라서 사용하기 편하고 좋습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "거품력",
+        "SentimentText": "조금만 뿌려도 거품이 많이 나고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형도 쫀쫀해서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "발이 깨끗하게 잘 닦이는 느낌입니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 상큼하니 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826893",
+    "RawText": "조금만 뿌려도 거품이 쫀쫀해서 발이 잘 닦입니다. 향이 상큼해서도 좋습니다. 운전 많이 해서 땀이 많은 남편에게도 좋습니다. 필라테스 다녀와 여러사람이 사용했을 매트를 쓴 저에게도 좋습니다. 온 가족 필수품입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "119",
+    "Word": "28",
+    "RDate": "20201202",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "거품력",
+        "SentimentText": "조금만 뿌려도 거품이 쫀쫀해서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "발이 잘 닦입니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 상큼해서도 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "온 가족 필수품입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826896",
+    "RawText": "꾸준히 사용하고 있는 제품입니다. 원래는 발샴푸라고 독일제품을 사용하였는데 향이 그닥 좋지 않고 가격도 비싼편인데 이번에 국내제품으로 나온걸 보고 계속 떨어지면 미리 쟁여놓고 사용하고 있어요. 스프레이 타입이라 사용하기도 편하고 향도 좋고 씻고 나서 깔끔한 느낌이 들어 온가족이 다 좋아합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "164",
+    "Word": "38",
+    "RDate": "20201202",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "스프레이 타입이라 사용하기도 편하고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "씻고 나서 깔끔한 느낌이 들어 온가족이 다 좋아합니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826904",
+    "RawText": "요즘 같은 때에는 필수품입니다. 귀가하자마자 서서 간편하게 뿌리고 씻으면 끝입니다. 마무리감도 산뜻하고 좋아요. 어린이도 혼자 사용할 수 있을 만큼 간편합니다. 살 때마다 몇 통씩 사 둡니다. 추천해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "113",
+    "Word": "27",
+    "RDate": "20201201",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "요즘 같은 때에는 필수품입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "서서 간편하게 뿌리고 씻으면 끝입니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "마무리감도 산뜻하고 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "어린이도 혼자 사용할 수 있을 만큼 간편합니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826910",
+    "RawText": "향도 은은하고 세정력도 좋아서 이 제품으로 매번 구매하게 되네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "36",
+    "Word": "9",
+    "RDate": "20201119",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 은은하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "세정력도 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826916",
+    "RawText": "발 씻기가 너무 편합니다. 물 뿌리고 발로 대충만 해도 되니까 편하게 사용합니다. 거품도 잘 나고 뽀송해서 좋은 것 같습니다. 또 구매해서 엄마 사드렸습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "88",
+    "Word": "23",
+    "RDate": "20201112",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "발 씻기가 너무 편합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "물 뿌리고 발로 대충만 해도 되니까 편하게 사용합니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품도 잘 나고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "뽀송해서 좋은 것 같습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826919",
+    "RawText": "외출 후 돌아와 손을 사용하지 않고 바로 발에 뿌리고 발을 씻을 수 있어서 편해서 좋습니다. 손은 손대로 씻고 발은 샤워기로 적셔 준 다음 풋샴푸 뿌리고 발끼리 비벼주고 다시 샤워기로 헹궈주는데, 발이 상쾌해서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "123",
+    "Word": "33",
+    "RDate": "20201111",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "손을 사용하지 않고 바로 발에 뿌리고 발을 씻을 수 있어서 편해서 좋습니다. ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "발이 상쾌해서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826923",
+    "RawText": "늘 쓰고 있어요. 외출하고 돌아와서 손에 물 안 묻히고 발을 간편하게 씻을 수 있는 아이템인데, 향도 강해서 씻을 때 더 기분 좋은 아이템이에요. 최근에 이걸로 주방이나 렌지 찌든 때 잘 지워진다는 소리를 들었는데, 세정력은 사실 일반 다른 세제들과 비등한 수준인거 같고 강렬한 향이 청소 후에 더 깨끗한 느낌을 선사해주는게 아닐까, 하는 생각이 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "198",
+    "Word": "53",
+    "RDate": "20201108",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "손에 물 안 묻히고 발을 간편하게 씻을 수 있는 아이템인데,",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 강해서 씻을 때 더 기분 좋은 아이템이에요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "세정력은 사실 일반 다른 세제들과 비등한 수준인거 같고 ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "강렬한 향이 청소 후에 더 깨끗한 느낌을 선사해주는게 아닐까, 하는 생각이 듭니다. ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826929",
+    "RawText": "향이 좋습니다. 발에 뿌리니 거품 제형으로 나와서 발 씻기 편합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "38",
+    "Word": "10",
+    "RDate": "20201105",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "거품 제형으로 나와서 발 씻기 편합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826930",
+    "RawText": "이 제품이 나오면서 쭉 사용하고 있어요. 향도 좋고 깔끔하게 씻겨서 다른 사람들에게 추천하게 되네요. 가격은 비싸지만 떨어지기 전에 미리 주문하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "83",
+    "Word": "20",
+    "RDate": "20201103",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "깔끔하게 씻겨서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 비싸지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "826932",
+    "RawText": "원래는 발을 바디워시로 씻었는데 이 제품 사고 나서 거품으로 바로 씻을 수 있어 편합니다. 향도 상큼하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "16",
+    "RDate": "20201103",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "거품으로 바로 씻을 수 있어 편합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 상큼하네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826933",
+    "RawText": "진짜 발 씻기 너무 편합니다. 뿌리고 닦으면 발이 뽀득합니다. 가격은 비싸지만 향도 좋아서 하나 더 샀습니다. 다른 향도 구매하고 싶습니다. 게으른 자에게 있어서 최고의 제품이네요. 발 씻을 때 안 쪼그려 앉아도 되어서 편합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "128",
+    "Word": "33",
+    "RDate": "20201031",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "진짜 발 씻기 너무 편합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "뿌리고 닦으면 발이 뽀득합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 비싸지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "발 씻을 때 안 쪼그려 앉아도 되어서 편합니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826936",
+    "RawText": "신선한 느낌의 자몽향이 좋고 거품이 아주 잘 납니다. 뽀득뽀득하게 잘 헹구어져서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "50",
+    "Word": "12",
+    "RDate": "20201028",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "신선한 느낌의 자몽향이 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품이 아주 잘 납니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "클렌징/제거력",
+        "SentimentText": "뽀득뽀득하게 잘 헹구어져서 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826937",
+    "RawText": "가격은 좀 있지만 향이 상큼하고 잘 씻기는 것 같습니다. 아이들도 편리하게 사용할 수 있어요. 성분은 모르겠지만 세균이 없어지는 것 같아서 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "82",
+    "Word": "21",
+    "RDate": "20201028",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 좀 있지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 상큼하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "잘 씻기는 것 같습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "아이들도 편리하게 사용할 수 있어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "성분은 모르겠지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "세균이 없어지는 것 같아서 좋아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826940",
+    "RawText": "진짜 개운하게 잘 쓰고 있습니다. 세정력이 좋은데 물에 잘 씻겨나가서 찝찝하지 않고, 씻고 나서 냄새는 은은하고 상큼합니다. 발에 땀 찼을 때 편하게 뿌려서 발로 문지르고 물로 헹궈내면 되니까 사용하기 편하구요. 손으로 발에 비누칠하지 않아도 되는 건 엄청 편해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "148",
+    "Word": "38",
+    "RDate": "20201028",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "진짜 개운하게 잘 쓰고 있습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "세정력이 좋은데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "클렌징/제거력",
+        "SentimentText": "잘 씻겨나가서 찝찝하지 않고,",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "씻고 나서 냄새는 은은하고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "상큼합니다. ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "발에 땀 찼을 때 편하게 뿌려서 발로 문지르고 물로 헹궈내면 되니까 사용하기 편하구요.",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "손으로 발에 비누칠하지 않아도 되는 건 엄청 편해요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826942",
+    "RawText": "깔끔쟁이 6살 아들이 손 안대고 발 브러쉬에 뿌려서 발을 닦을 수 있어 편해서 좋아하네요. 향도 좋고 마무리 사용감도 깔끔해서 좋습니다. 다만 어린 아이들은 쓰지 말라고 쓰여 있어서 성분이 순한 것 같지는 않아 걱정은 됩니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "126",
+    "Word": "34",
+    "RDate": "20201028",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "손 안대고 발 브러쉬에 뿌려서 발을 닦을 수 있어 편해서 좋아하네요. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용감",
+        "SentimentText": "마무리 사용감도 깔끔해서 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "어린 아이들은 쓰지 말라고 쓰여 있어서 성분이 순한 것 같지는 않아 걱정은 됩니다.",
+        "SentimentWord": "13",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "826945",
+    "RawText": "샤워 할때가 아니더라도 간편하게 발을 자주 씻을수 있어 좋습니다. 뿌려만 주고 바로 씻을수 있어 편해서 좋습니다. 발이 깔끔하게 씻겨져요. 기분도 아주 상쾌해 지는 것 같아서 좋습니다. 향도 마음에 들어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "115",
+    "Word": "29",
+    "RDate": "20201021",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "간편하게 발을 자주 씻을수 있어 좋습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "뿌려만 주고 바로 씻을수 있어 편해서 좋습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "발이 깔끔하게 씻겨져요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "상쾌해 지는 것 같아서 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 마음에 들어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826947",
+    "RawText": "발에 묻은 먼지 털어내고 풋샴푸 몇 번 뿌린 후 발끼리 비벼서 씻는 제품이라 사용하기 편해서 좋아요. 아이들과 사용하기도 좋은 제품입니다. 사용감이 편하고 굳이 손을 발에 갖다 대지 않아도 발이 잘 씻겨요. 사용하기 간편하고 좋은 제품입니다. 호기심에 구매했다가 계속 재구매하고 있습니다. 발에 땀이 나는 분들에게 추천합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "182",
+    "Word": "45",
+    "RDate": "20201020",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기 편해서 좋아요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "아이들과 사용하기도 좋은 제품입니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용감",
+        "SentimentText": "사용감이 편하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "손을 발에 갖다 대지 않아도 발이 잘 씻겨요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기 간편하고 좋은 제품입니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "발에 땀이 나는 분들에게 추천합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826949",
+    "RawText": "발 냄새 때문에 지속적으로 사용하고 있습니다. 발 냄새가 완전히 없어지지는 않지만 지독한 냄새는 사라진 거 같아요. 많이 사용하는데 가격이 비싸서 세일할 때까지 기다립니다. 가격이 저렴했으면 좋겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "112",
+    "Word": "26",
+    "RDate": "20201014",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "발 냄새가 완전히 없어지지는 않지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "지독한 냄새는 사라진 거 같아요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 비싸서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴했으면 좋겠어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "826950",
+    "RawText": "기대하지 않았는데 새로운 세계를 만난 기분이네요. 왜 진작 구입하지 않았나 싶습니다. 사용하기 편하고 향도 좋고 발이 상쾌하네요. 온 가족이 잘 쓰고 있습니다. 용량만 더 커지면 최고일 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "111",
+    "Word": "28",
+    "RDate": "20201013",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기 편하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "발이 상쾌하네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "온 가족이 잘 쓰고 있습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량만 더 커지면 최고일 것 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "826953",
+    "RawText": "마무리감이 너무 산뜻하고 거품 제형이라 사용이 편합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "31",
+    "Word": "7",
+    "RDate": "20201010",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "마무리감이 너무 산뜻하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "거품 제형이라 사용이 편합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826955",
+    "RawText": "이거 참 좋네요. 향도 좋고 이걸로 발씻으면 냄새 하나도 안납니다. 신기해요. 행사때 많이많이 구매하시라고 추천해요. 칙칙뿌리고 씻으면 되니 편하기도 하고 손 안대고 발씻기 가능해요. 남동생한테도 강추해줬어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "117",
+    "Word": "26",
+    "RDate": "20201009",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "이걸로 발씻으면 냄새 하나도 안납니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "칙칙뿌리고 씻으면 되니 편하기도 하고 손 안대고 발씻기 가능해요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826958",
+    "RawText": "다른 분들에겐 어떨지 잘 모르겠지만 저는 순해서 몇 년째 항상 잘 쓰고 있습니다. 향도 좋고 뽀득하게 씻깁니다. 피부 트러블이 난 적도 없습니다. 비싸지만 항상 구입하는 제품입니다. 많이 파시길 바랍니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "114",
+    "Word": "29",
+    "RDate": "20201001",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "순해서 몇 년째 항상 잘 쓰고 있습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "뽀득하게 씻깁니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "피부 트러블이 난 적도 없습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "비싸지만",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "826959",
+    "RawText": "뿌리자마자 많은 거품이 발을 감싸 줘서 기분이 좋아지고 자몽향이 또 한 번 기분을 좋게 합니다. 물로 잘 씻겨 내려가고 때로는 거품놀이 하는 듯해서 기분 전환이 됩니다. 완전 온가족 데일리템입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "110",
+    "Word": "29",
+    "RDate": "20200930",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "거품력",
+        "SentimentText": "뿌리자마자 많은 거품이 발을 감싸 줘서 기분이 좋아지고",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "자몽향이 또 한 번 기분을 좋게 합니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "클렌징/제거력",
+        "SentimentText": "물로 잘 씻겨 내려가고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "온가족 데일리템입니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826960",
+    "RawText": "지인이 추천해서 구매했습니다. 발 씻으려고 고개 숙이지 않고 미끄러질 걱정도 없어 사용하기 편합니다. 향은 무난합니다. 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "16",
+    "RDate": "20200930",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "발 씻으려고 고개 숙이지 않고 미끄러질 걱정도 없어 사용하기 편합니다. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 무난합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826961",
+    "RawText": "좋은 제품 잘 샀습니다. 세정력 엄청 좋습니다. 향기도 좋고 가격이 비쌀 때 사서 너무 아쉽지만 그래도 제품이 좋아서 다음에 또 구매하고 싶습니다. 발이 상쾌해서 진짜 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "99",
+    "Word": "26",
+    "RDate": "20200929",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "세정력",
+        "SentimentText": "세정력 엄청 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 비쌀 때 사서 너무 아쉽지만",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "청량감/쿨링감",
+        "SentimentText": "발이 상쾌해서 진짜 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826962",
+    "RawText": "자주 사용합니다. 집에 들어오자마자 손 씻듯이 발도 간편하게 씻을 수 있어서 좋습니다. 발 씻을 때 손으로 비누 거품 내서 허리 숙여서 씻어야 했는데 이거 몇 번 착착 뿌려서 살살 비벼 씻으면 돼서 너무 편합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "119",
+    "Word": "34",
+    "RDate": "20200927",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "발도 간편하게 씻을 수 있어서 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "이거 몇 번 착착 뿌려서 살살 비벼 씻으면 돼서 너무 편합니다.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826965",
+    "RawText": "소셜 미디어에서 화제가 된 제품이라 가격은 비싸지만 구매했습니다. 향이 강해서 아쉽지만 발 씻을 때는 편리합니다. 화장실 청소하는 세제용으로 활용하기도 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "89",
+    "Word": "20",
+    "RDate": "20200923",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 비싸지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 강해서 아쉽지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "발 씻을 때는 편리합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "화장실 청소하는 세제용으로 활용하기도 좋아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826967",
+    "RawText": "뿌려서 사용하는 풋 전용 비누인데 사용하기 편해요. 발 각질이 없어진다고 해서 구매했는데 사용감도 좋고 향도 좋아서 자주 사용하고 있습니다. 변기 청소랑 주방 세척에도 활용하기 좋아요. 그러나 용량이 작아서 다른 곳 세척은 전용 액체로 청소하고 풋샴푸는 발에만 써야 오래 쓸 수 있어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "160",
+    "Word": "41",
+    "RDate": "20200921",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기 편해요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용감",
+        "SentimentText": "사용감도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 좋아서 자주 사용하고 있습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "변기 청소랑 주방 세척에도 활용하기 좋아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "용량이 작아서 다른 곳 세척은 전용 액체로 청소하고 풋샴푸는 발에만 써야 오래 쓸 수 있어요.",
+        "SentimentWord": "15",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "826969",
+    "RawText": "향이 좀 강해서 아쉽네요. 거품은 부드러워서 상당히 좋네요. 비빌수록 더 풍성하고 쫀쫀한 거품이 만들어지네요. 거품이 충분히 나와서 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "80",
+    "Word": "18",
+    "RDate": "20200919",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 좀 강해서 아쉽네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품은 부드러워서 상당히 좋네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "거품력",
+        "SentimentText": "비빌수록 더 풍성하고 쫀쫀한 거품이 만들어지네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품이 충분히 나와서 만족합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826970",
+    "RawText": "다한증이 심해서 사용하고 있어요. 발이 많이 건조해지긴 하지만 발 냄새가 사라집니다. 여름에 꼭 사용해야 하는 필수템입니다. 오래 서 계시거나 여름에도 구두와 운동화 신으시면 써보세요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "103",
+    "Word": "24",
+    "RDate": "20200919",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "발이 많이 건조해지긴 하지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "발 냄새가 사라집니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "여름에 꼭 사용해야 하는 필수템입니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826971",
+    "RawText": "여름에 구두 신고 집에 와서 씻을 때 너무 편하고 좋습니다. 발 씻기 너무 귀찮았는데 그냥 뿌리고 샤워기로 헹구면 되니까 편해서 미루지 않고 씻을 수 있네요. 향도 자몽향이라 상큼하고 좋습니다. 단, 제형이 좀 미끄러워서 씻고 나서 잘 헹궈야 해요. 그것만 빼면 다 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "154",
+    "Word": "42",
+    "RDate": "20200919",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "여름에 구두 신고 집에 와서 씻을 때 너무 편하고 좋습니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "그냥 뿌리고 샤워기로 헹구면 되니까 편해서",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 자몽향이라 상큼하고 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 좀 미끄러워서 씻고 나서 잘 헹궈야 해요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "826974",
+    "RawText": "다른 종류 두 가지 주문했는데 같은 종류 두 개가 와서 반품해서 다시 온 제품이 이건 무슨 배송이 잘못 됐는지 하자 제품을 보내 줬는지 액체가 나온 상태에 제품 분사 부분은 다 망가져 오고 사용할 수 없는 상태로 왔습니다. 가격은 비싼데 품질 최악입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "1",
+    "Syllable": "142",
+    "Word": "41",
+    "RDate": "20200918",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 비싼데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질 최악입니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "액체가 나온 상태에 제품 분사 부분은 다 망가져 오고",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "826976",
+    "RawText": "이거 온 국민이 알아야 하네요. 향 별로 써봤을 때 자몽이 제일 좋은 향입니다. 그런데 그거 보다 중요한 사실은 사용 전과 후로 이렇게 삶의 질이 올라간 제품은 드뭅니다. 발 냄새가 없어져서 너무 좋은 것 같습니다. 가격은 비싸지만 또 구매할 예정입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "142",
+    "Word": "39",
+    "RDate": "20200914",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "자몽이 제일 좋은 향입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "발 냄새가 없어져서 너무 좋은 것 같습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 비싸지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "826977",
+    "RawText": "아주 좋아요. 사고 싶었던 물건이었는데 드디어 사서 썼는데 아주 좋네요. 향기도 좋고 발도 뽀드득해지는 느낌이라 더 좋아요. 다음에 다른향으로도 사보고 싶네요. 그리고 대용량으로 나왔으면 좋겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "110",
+    "Word": "25",
+    "RDate": "20200913",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향기도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "발도 뽀드득해지는 느낌이라 더 좋아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "대용량으로 나왔으면 좋겠네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "826979",
+    "RawText": "열흘쯤 사용했는데 발냄새가 좀 없어지는 것 같아요. 촉촉함이 좀 약한 것 같고 양도 생각보단 많지 않아 오래 못 쓸 것 같네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "21",
+    "RDate": "20200911",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "발냄새가 좀 없어지는 것 같아요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉함이 좀 약한 것 같고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/사이즈",
+        "SentimentText": "양도 생각보단 많지 않아 오래 못 쓸 것 같네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "826982",
+    "RawText": "향이 꽤 진합니다. 대신 향 지속력은 덜한 편이라 씻고 난 처음에만 향이 강한 느낌이에요. 샤워기로 발 적시고 대충 발을 문질러서 씻으면 편합니다. 비빌수록 쫀쫀한 거품이 만들어져요. 거품이 풍성해서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "117",
+    "Word": "29",
+    "RDate": "20200910",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 꽤 진합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "향 지속력은 덜한 편이라",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "씻고 난 처음에만 향이 강한 느낌이에요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "샤워기로 발 적시고 대충 발을 문질러서 씻으면 편합니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "거품력",
+        "SentimentText": "비빌수록 쫀쫀한 거품이 만들어져요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "거품력",
+        "SentimentText": "거품이 풍성해서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826984",
+    "RawText": "손세정제만 사용하는게 좀 찜찜했어요. 발을 더 꼼꼼하게 씻어야 할 것 같은데 손세정제만 구매했었는데 이번에 마트 행사에서 우연히 보고 알게 되었습니다. 가격도 저렴해서 이후에는 계속 사용 중입니다. 씻기 편합니다. 마음도 든든합니다",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "129",
+    "Word": "30",
+    "RDate": "20200902",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "씻기 편합니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826985",
+    "RawText": "어른 쓰기에도 아이들 쓰기에도 편해서 좋습니다. 다 쓰고 잔향도 마음에 듭니다. 상쾌한 향입니다. 발도 그냥 보통 비누로 씻는 것 보다 더 깨끗하게 씻기는 느낌이라 만족해요. 용기가 재활용이 안 되는 재질이라 아쉽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "123",
+    "Word": "31",
+    "RDate": "20200902",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "어른 쓰기에도 아이들 쓰기에도 편해서 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "잔향도 마음에 듭니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "상쾌한 향입니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "보통 비누로 씻는 것 보다 더 깨끗하게 씻기는 느낌이라 만족해요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기가 재활용이 안 되는 재질이라 아쉽습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "826988",
+    "RawText": "사용하기 편리해요. 향이 너무 좋습니다. 발도 잘 씻겨요. 청소용 세제로도 활용하기 좋고 세면대 닦아봤더니 반짝반짝해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "15",
+    "RDate": "20200904",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기 편리해요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향이 너무 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "세정력",
+        "SentimentText": "발도 잘 씻겨요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "청소용 세제로도 활용하기 좋고 세면대 닦아봤더니 반짝반짝해요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826990",
+    "RawText": "이 제품을 비싸게 주고 사서 처음에는 의문이 있었지만 사기를 정말 잘 한 것 같습니다. 일단 향도 괜찮고 사용하기 편리해서 좋아요. 다른 향도 구매해보고 싶습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "91",
+    "Word": "24",
+    "RDate": "20200901",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "비싸게 주고 사서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향도 괜찮고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기 편리해서 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826993",
+    "RawText": "이거 쓴지 벌써 한달이 되었네요. 향은 은은하고 진짜 좋아요. 발에만 뿌리고 발로 문질러서 물로 씻는 제품인데.. 개인적으로 발끼리 문질러서 씻으니 찝찝한 기분이 들어서 걍 손에 뿌리고 손발 꼼꼼히 같이 씻습니다. 스프레이형으로 칙칙 뿌리면 거품이 바로 나와서 좋고,  비누 잡고 물 묻혀서 거품 만들고 하는 과정이 없어 편해요. 비누같이 쓰고 있어서 씻은뒤 풋로션 핸드크림 발라주는 저는 땡기는지 건조한지 잘 모르겠습니다만 그래도 전문 용품으로 씻으니 안심은 되요. 아마 다쓰고 한번 더 재구매 할것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "286",
+    "Word": "72",
+    "RDate": "20200903",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향은 은은하고 진짜 좋아요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "스프레이형으로 칙칙 뿌리면 거품이 바로 나와서 좋고,",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "비누 잡고 물묻혀서 거품 만들고 하는 과정이 없어 편해요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826995",
+    "RawText": "두번째 구매입니다. 여름에 슬리퍼 맨발로 신고 나갔다 집에 들어와서 재빨리 발닦을 때 사용합니다. 아무래도 맨발로 슬리퍼 신고 밖에 나갔다 그 발로 다시 집안을 돌아다니기에는 찝찝해요. 거품제라 사용하기 편리하고 향과 마무리 사용감도 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "137",
+    "Word": "32",
+    "RDate": "20200829",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "거품제라 사용하기 편리하고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향/냄새",
+        "SentimentText": "향과 마무리 사용감도 만족합니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용감",
+        "SentimentText": "마무리 사용감도 만족합니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "826997",
+    "RawText": "발샴푸 많이 나와서 이것저것 쓰고 있습니다.  세정력도 좋아요. 용기는 기존에 쓰던 게 더 좋습니다. 리필품이 있었으면 좋겠습니다. 그럼 리필 제품으로 사서 쓸 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "헤어/바디케어",
+    "ProductName": "OO 온** 코튼 풋샴푸 385ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "96",
+    "Word": "24",
+    "RDate": "20200829",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "세정력",
+        "SentimentText": "세정력도 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기는 기존에 쓰던 게 더 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  }
+]

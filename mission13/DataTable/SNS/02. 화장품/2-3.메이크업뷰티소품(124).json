@@ -1,0 +1,6054 @@
+[
+  {
+    "Index": "1024924",
+    "RawText": "안녕하세요~ 오늘은 ㅇㅇ ㅇㅇㅇ 제품을 리뷰해 보려고 가져왔어요!  ㅇㅇ의 팜파스 색상이 굉장히 핫해서 저도 이 색상으로 구입을 해봤는데요ㅎㅎ MLBB를 좋아하시는 분들에게는 완전 찰떡일 색상이에요! 벨벳 틴트이지만 처음 올라갈 때는 나름 촉촉하게 올라가고요 각질 부각도 많이 없는 편이에요ㅎㅎ 다만 픽싱이 되어도 묻어남은 있으니 마스크에 립이 묻는 게 너무 싫다~ 하시는 분들은 비추입니다ㅎㅎ   ㅇㅇ인 만큼 가격대가 높기 때문에 구매 생각이신 분들은 조건 잘 따져서 생각해 보세요~",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 센** 매트 리퀴드",
+    "Syllable": "271",
+    "Word": "64",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "MLBB를 좋아하시는 분들에게는 완전 찰떡일 색상이에요! ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "촉촉하게 올라가고요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "각질 부각도 많이 없는 편이에요ㅎㅎ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "밀착력/접착력",
+        "SentimentText": "픽싱이 되어도 묻어남은 있으니 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "밀착력/접착력",
+        "SentimentText": "마스크에 립이 묻는 게 너무 싫다~ 하시는 분들은 비추입니다ㅎㅎ ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대가 높기 때문에 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1024925",
+    "RawText": "안녕하세요~ 오늘은ㅇㅇㅇ ㅇㅇ 팔레트를 리뷰해 볼게요!  이 제품은 케이스 디자인에 반해서 구매한 제품인데요ㅎㅎ 뭔가 트렌디하면서도 옛날 감성이 있는 디자인이랄까??ㅎㅎ ㅇㅇㅇ답게 발색력은 매우 좋은 편인데다 가루날림도 적은 편이어서 정말 퀄리티가 좋은 제품이에요. 그리고 은근 섀도우 하나하나 다 활용할 수 있게 되더라고요?? 저는 원래 팔레트가 있어도 쓰는 컬러만 쓰는데..신기했어요ㅎㅎ 하지만 가격이 너무 아쉽네요! 기본적으로 가격대가 높은데다 할인폭도 좁아서 구매까지는 진입장벽이 있는 느낌이에요ㅠㅠ  가격대가 좀만 더 합리적이였으면 딱일 ㅇㅇㅇ의 아이섀도우 팔레트 리뷰해 보았습니다ㅎㅎ",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 뉴** 아이섀도우 팔레트",
+    "Syllable": "332",
+    "Word": "70",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "케이스 디자인에 반해서 구매한 제품인데요ㅎㅎ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "뭔가 트렌디하면서도 옛날 감성이 있는 디자인이랄까??ㅎㅎ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "발색력은 매우 좋은 편인데다 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "밀착력/접착력",
+        "SentimentText": "가루날림도 적은 편이어서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "정말 퀄리티가 좋은 제품이에요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "섀도우 하나하나 다 활용할 수 있게 되더라고요??",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 너무 아쉽네요! ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대가 높은데다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대가 좀만 더 합리적이였으면 딱일",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1025987",
+    "RawText": "안녕하세요~ 오늘은 ㅇㅇㅇ ㅇㅇ 섀도우를 소개해 볼게요!  이런 스틱 타입 섀도우가 좋은 점은 가루날림도 없고 밀착력이 우수한 점인데요, 이 제품도 마찬가지로 가루날림이 없어 눈시림도 없구 밀착이 잘 되고 발림도 좋아 쌍커풀 라인에 끼지 않더라구요. 그래서 파우더 타입 섀도우 사용이 어려우신 분들은 이런 스틱 타입 섀도우를 추천드려요! 근데 이 제품을 그닥 추천하지 않는데요, 그 이유가 안 좋은 성분이 들어있더라구요… 눈가에 사용하는 제품이라 더더욱 성분이 중요한데 사이클로펜타실록세인이라는 안 좋은 성분이 들어있어 사용하기 믿음직스럽지 않네요…  여러분들이 추천하는 안전한 스틱 섀도우가 있다면 공유해 주세요~",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 소** 스틱 섀도우 ",
+    "Syllable": "344",
+    "Word": "80",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "밀착력/접착력",
+        "SentimentText": "가루날림이 없어",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "눈시림도 없구",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "밀착력/접착력",
+        "SentimentText": "밀착이 잘 되고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림도 좋아 쌍커풀 라인에 끼지 않더라구요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "파우더 타입 섀도우 사용이 어려우신 분들은 이런 스틱 타입 섀도우를 추천드려요!",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "안 좋은 성분이 들어있더라구요… ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": " 사이클로펜타실록세인이라는 안 좋은 성분이 들어있어 사용하기 믿음직스럽지 않네요…",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1025988",
+    "RawText": "안녕하세요~ 오늘은 ㅇㅇㅇ ㅇㅇ팩트를 소개해 보도록 하겠습니다!  저는 주로 촉촉한 베이스를 사용해서 눈썹이랑 눈화장을 하기 전에는 꼭 파우더처리를 하는데요~ 기존에 쓰던 파우더 팩트를 다 써서 ㅇㅇㅇ 제품을 한번 사용해 봤어요ㅎㅎ 일단 가장 맘에 든 점은 제형의 입자가 고와서 팩트가 뭉치지 않더라구요~ 피부에 얹으면 요철 부각도 방지해 주고 잔주름이나 모공도 커버해주고 피부결 좋은 피부로 표현해 줘서 좋은 거 같더라구요~  주름, 모공, 요철 부각이 신경 쓰이시는 분들께 적극 추천하는 제품입니다~!",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 스** 픽서 팩트",
+    "Syllable": "282",
+    "Word": "68",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형의 입자가 고와서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "팩트가 뭉치지 않더라구요~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "피부에 얹으면 요철 부각도 방지해 주고 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "잔주름이나 모공도 커버해주고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "피부결 좋은 피부로 표현해 줘서 좋은 거 같더라구요~",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "주름, 모공, 요철 부각이 신경 쓰이시는 분들께 적극 추천하는 제품입니다~!",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1025989",
+    "RawText": "안녕하세요~ 오늘은 ㅇㅇㅇ ㅇㅇ 비건 쿠션을 리뷰해 볼거에요~  일단 벨벳 쿠션이라고 해서 벨벳 특유의 포슬포슬한 느낌을 기대하고 발라봤는데, 포슬포슬보다는 약간 퍼석퍼석한 느낌입니다..! 그래서 밀착이 잘 안된다는 느낌이 강했구요.. 잘 잘 안발려서 모공끼임있고 건조해서 각질부각이 심하게 나타났고 잠재워져 있던 각질까지 꺼내는 듯한 느낌이었습니다… 각질 제거를 하고 발라봐도 그닥 나아지진 않더라구요… 그래서 꼭 이 제품은 테스트를 해보는 것을 추천드려요ㅎㅎ  저에게는 너무나 실망스러운 제품이었네요…ㅎㅎ 사용해 보신 분들은 어땠나요??",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 워** 쿠션",
+    "Syllable": "302",
+    "Word": "65",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "포슬포슬보다는 약간 퍼석퍼석한 느낌입니다..!",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "밀착력/접착력",
+        "SentimentText": "그래서 밀착이 잘 안된다는 느낌이 강했구요.. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "잘 안발려서 모공끼임있고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "건조해서 각질부각이 심하게 나타났고 잠재워져 있던 각질까지 꺼내는 듯한 느낌이었습니다… ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1025990",
+    "RawText": "안녕하세요~ 오늘은 ㅇㅇㅇ 아이라이너를 소개해 볼게요~  리퀴드 제형의 아이라이너인만큼 또렷한 발색을 기대했지만 생각보다 색상이 연한 건지 발색이 약한 건지 색이 진하게 올라오진 않더라구요.. 그래도 자연스러운 발색을 원하시는 분들에겐 잘 맞을 듯한 느낌?? 이 제품은 덧바를수록 지워지는 특징이 있습니다..ㅎ 그래서 초보자분들에게는 추천하지 않구요… 유분으로 인해서 잘 지워지기 때문에 파우더 처리를 미리 해주거나 라이너를 바르고 그 위에 섀도우를 바르거나 하는 게 좋을 것 같습니다.  나름 무난하게 사용할 만한 제품인데, 저는 굳이 재구매를 하지 않을 제품이네요ㅎㅎ 여러분들은 어떠한가요??",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 리** 브러쉬 아이라이너 ",
+    "Syllable": "333",
+    "Word": "75",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "리퀴드 제형의 아이라이너인만큼 또렷한 발색을 기대했지만",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 연한 건지 발색이 약한 건지 색이 진하게 올라오진 않더라구요.. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "발색이 약한 건지 색이 진하게 올라오진 않더라구요..",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "자연스러운 발색을 원하시는 분들에겐 잘 맞을 듯한 느낌??",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "밀착력/접착력",
+        "SentimentText": "덧바를수록 지워지는 특징이 있습니다..ㅎ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "초보자분들에게는 추천하지 않구요… ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "유분으로 인해서 잘 지워지기 때문에",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "나름 무난하게 사용할 만한 제품인데,",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "1025991",
+    "RawText": "안녕하세요~ 오늘은 ㅇㅇㅇ ㅇㅇ 펜슬을 리뷰해 볼게요~  하드펜슬로는 ㅇㅇ가 굉장히 유명하죠?? 근데 이 제품은 가격대가 높기 때문에 더 저렴한 ㅇㅇㅇ 제품으로 구매해 봤어용ㅎㅎ 일단 발색이 정말정말 약한 제품입니다..ㅎ 분명히 그렸는데 그린 흔적이 전혀 없는…ㅎㅎ 정말 계속 덧발라야 발색이 나오는…그런 제품이고요..ㅎ 하드펜슬인 만큼 직접 깎아줘야 하는 제품인데 은근 또 제형 심이 잘 부러지더라구요?? 사용해 본 아이브로우 펜슬 중 가장 최악인 제품입니다…ㅎ  여러분…비싸더라도 ㅇㅇ 꺼 사세요…ㅎㅎ",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 아** 하드 펜슬",
+    "Syllable": "282",
+    "Word": "64",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "더 저렴한 ㅇㅇㅇ 제품으로 구매해 봤어용ㅎㅎ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "일단 발색이 정말정말 약한 제품입니다..ㅎ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "분명히 그렸는데 그린 흔적이 전혀 없는…ㅎㅎ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "정말 계속 덧발라야 발색이 나오는…그런 제품이고요..ㅎ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "하드펜슬인 만큼 직접 깎아줘야 하는 제품인데",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "은근 또 제형 심이 잘 부러지더라구요?? ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1025992",
+    "RawText": "안녕하세요~ 오늘은 ㅇㅇㅇ 틴트 글래스를 리뷰해 보겠습니다~  ㅇㅇㅇ에서는 베이스만 사용해 봤는데 틴트 평이 생각보다 좋아서 한번 구매해 봤어요ㅎㅎ 촉촉한 타입의 틴트인데 발라보니까 광이 장난 아니더라구요~~ 촉촉 틴트가 처음에만 촉촉하고 시간이 지나면 끈적해지는 경우가 더러 있는데, 이 틴트는 계속 광이 돌면서 촉촉하더라구요ㅎㅎ 정말 만족했습니다ㅎㅎ 다만 실제 발색이 상세 설명에 나오는 발색보다 연한 편이니 이 점 참고해 주세요~  글로우 틴트 중에서 신흥강자가 될 것 같은 제품이네요~ㅎㅎ",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 틴트 글래스",
+    "Syllable": "277",
+    "Word": "64",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "촉촉한 타입의 틴트인데 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "광이 장난 아니더라구요~~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "계속 광이 돌면서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "촉촉하더라구요ㅎㅎ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "실제 발색이 상세 설명에 나오는 발색보다 연한 편이니 이 점 참고해 주세요~",
+        "SentimentWord": "12",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "1025994",
+    "RawText": "안녕하세요~ 오늘은 ㅇㅇㅇ ㅇㅇ헬시 글로우쿠션을 리뷰해 보도록 하겠습니다!  사실 저는 이렇게 비싼 ㅇㅇㅇ 제품은 처음이에요..ㅎㅎ 첫번째로 가격대에 놀랐습니다…ㅎ 발라보니 분명 헬시 글로우라고 되어있지만 촉촉한 광이 아니라 유분이 가득한 광이랄까?? 다크닝도 꽤 심한 편이고 지속력도 별로에요ㅠㅠ 불행 중 다행인지 묻어남은 없는 편이네요ㅎㅎ 이 제품에 이 가격대가 맞나…생각하게 되네요ㅋㅋㅋㅠㅠㅠ 그래도 잘 맞는 분들이 있겠죠??   저에겐 총체적 난국이라고 생각되는 제품이네요…안 맞아요ㅠㅠ",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 비** 헬시글로우 쿠션",
+    "Syllable": "276",
+    "Word": "58",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "이렇게 비싼 ㅇㅇㅇ 제품은 처음이에요..ㅎㅎ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 첫번째로 가격대에 놀랐습니다…ㅎ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "촉촉한 광이 아니라 유분이 가득한 광이랄까?? ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "다크닝도 꽤 심한 편이고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력도 별로에요ㅠㅠ ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "밀착력/접착력",
+        "SentimentText": "묻어남은 없는 편이네요ㅎㅎ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "이 제품에 이 가격대가 맞나…생각하게 되네요ㅋㅋㅋㅠㅠㅠ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "저에겐 총체적 난국이라고 생각되는 제품이네요…안 맞아요ㅠㅠ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1025995",
+    "RawText": "안녕하세요~ 오늘은 ㅇㅇㅇ 펜슬을 리뷰해 보려고 합니다!  일단 저는 애교살용으로 크림 컬러를 구매를 했어요~ 일단 총평을 먼저 말씀드리자면 애교살용으로도 컨실러용으로도 그닥인 제품입니다..ㅠㅠ 일단 가려지긴 가려지는데 너무 티나게 가려져요… 뻑뻑한 발림성이 있는데 마치 크레파스로 그리는 듯한 느낌이에요… 발림성은 부드럽긴 하지만 밀착력은 또 별로라ㅠㅠ 여러모로 활용하기가 어려운 제품이네요..ㅎㅎ 그냥저냥한 사용감이라 생각했는데 리뷰를 적다 보니 좀 돈 아까워지긴 하네요ㅎㅎ…   저는 이 제품이 잘 안 맞네요ㅠ 아쉬워라….",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 소** 펜슬",
+    "Syllable": "295",
+    "Word": "63",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "애교살용으로도 컨실러용으로도 그닥인 제품입니다..ㅠㅠ ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "가려지긴 가려지는데 너무 티나게 가려져요… ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "뻑뻑한 발림성이 있는데 마치 크레파스로 그리는 듯한 느낌이에요… ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성은 부드럽긴 하지만 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "밀착력/접착력",
+        "SentimentText": " 밀착력은 또 별로라ㅠㅠ ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "여러모로 활용하기가 어려운 제품이네요..ㅎㅎ ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사용감",
+        "SentimentText": "그냥저냥한 사용감이라 생각했는데 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "리뷰를 적다 보니 좀 돈 아까워지긴 하네요ㅎㅎ… ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "저는 이 제품이 잘 안 맞네요ㅠ 아쉬워라….",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1025996",
+    "RawText": "안녕하세요~ 오늘은 ㅇㅇㅇ 벨벳 립스틱을 리뷰해 볼거에요~  벨벳 립스틱이라고는 하지만 매트함이 더 강한 편이고요, 매트한 만큼 각질 부각이 있는 립스틱입니다! 하지만 매트 립스틱이라고 하면 예상되는 특징 중 하나이므로 이정도는 예상했어서 저는 색상 하나만 보고 구매를 한 거랍니다ㅎㅎ 근데 색상이 제가 생각한 것보다 어둡게 올라오더라고요?? 그래서 이 제품을 사용할 이유를 다 잃어버린 상황이 되어버렸답니다…ㅎㅎ…..   전체적으로는 그냥 무난무난한 매트립스틱이니 여러분들에게 도움이 되었으면 좋겠네요~~",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 리** 립스틱",
+    "Syllable": "283",
+    "Word": "61",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "매트함이 더 강한 편이고요,",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "매트한 만큼 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "각질 부각이 있는 립스틱입니다! ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상 하나만 보고 구매를 한 거랍니다ㅎㅎ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "색상이 제가 생각한 것보다 어둡게 올라오더라고요?? ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1025997",
+    "RawText": "안녕하세요~ 오늘은 ㅇㅇㅇ ㅇㅇ 컨실러를 소개해 드리도록 하겠습니다!  이런 스틱 타입의 컨실러는 처음인데, ㅇㅇㅇ가 워낙 컨실러로 유명하니깐 도전해 봤습니다ㅎㅎ 발림성은 되게 부드러워요! 근데 제형이 부드러운 만큼 커버력은 상당히 낮습니다! 지속력도 낮구요.. 다크서클에 바르고 시간이 좀 지나니깐 잘 안 발렸는지 주름에 끼인 것처럼 보이는 현상이 나타나더라구요… 그래서 저는 컨실러보다는 수정 화장용으로 사용하는 걸 더 추천드려요ㅎㅎ  확실한 커버를 원하시는 분들에게는 맞지 않을 것 같네요~~",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 프** 스틱 컨실러",
+    "Syllable": "278",
+    "Word": "62",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "발림성",
+        "SentimentText": " 발림성은 되게 부드러워요! ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": " 제형이 부드러운 만큼 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "커버력은 상당히 낮습니다! ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력도 낮구요..",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "다크서클에 바르고 시간이 좀 지나니깐 잘 안 발렸는지 주름에 끼인 것처럼 보이는 현상이 나타나더라구요… ",
+        "SentimentWord": "14",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "컨실러보다는 수정 화장용으로 사용하는 걸 더 추천드려요ㅎㅎ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "확실한 커버를 원하시는 분들에게는 맞지 않을 것 같네요~~",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1025998",
+    "RawText": "안녕하세요~ 오늘은 ㅇㅇㅇ ㅇㅇ 쿠션을 리뷰해 볼거에요~  ㅇㅇㅇ 컨실러를 잘 사용하고 있어서 이번엔 쿠션도 한번 구매해 봤어용ㅎㅎ 컨실러로 유명한 브랜드니 쿠션도 기대를 하고 구매해 본 건데 기대 이하였습니다… 생각보다 너무 매트해서 제 피부에는 계속 들뜨는 느낌이 있구여ㅠㅠ 양조절하기도 힘들어서 밀착이 어려운 제품이에요… 밀착이 잘 안돼서 그런지 묻어남도 상당한 편입니다… 이거 사용하실 때 흰색 마스크는 절대 금지입니다! 묻어난 게 다 비칩니다ㅠㅠ  ㅇㅇㅇ는 컨실러만 사용하는 걸로..!!",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 롱** 컨실픽싱 쿠션",
+    "Syllable": "277",
+    "Word": "64",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "생각보다 너무 매트해서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "제 피부에는 계속 들뜨는 느낌이 있구여ㅠㅠ ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "양조절하기도 힘들어서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "밀착력/접착력",
+        "SentimentText": "밀착이 어려운 제품이에요…",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "밀착력/접착력",
+        "SentimentText": "밀착이 잘 안돼서 그런지 묻어남도 상당한 편입니다…",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "밀착력/접착력",
+        "SentimentText": "이거 사용하실 때 흰색 마스크는 절대 금지입니다! 묻어난 게 다 비칩니다ㅠㅠ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1025999",
+    "RawText": "안녕하세요~ 오늘은 ㅇㅇㅇ 컨실 팟을 소개해 드리려고 해요~  보통의 팁 컨실러를 사용하다가 양조절이 조금 힘들어서 컨실팟을 구매해 보았는데요~ 생각보다 되게 부드럽게 발려서 놀란 제품이에요ㅎㅎ 촉촉하고 부드러운 제형이고요, 그만큼 커버력이 엄청 강력하진 않아요! 그래도 다클서클용으로는 딱인 제품인 것 같습니다ㅎㅎ 하지만 바르고 시간이 좀 지나면 커버된 부분이 조금씩 지워져 보이더라구요..ㅎ 지속력은 다소 아쉽습니다..  휴대하기 좋은 크기라 밖에서도 수정 화장 뚝딱... 모두들 사용해 보셨으면 좋겠어요~~",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 컨** 컨실러",
+    "Syllable": "286",
+    "Word": "62",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "발림성",
+        "SentimentText": "생각보다 되게 부드럽게 발려서 놀란 제품이에요ㅎㅎ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "촉촉하고 부드러운 제형이고요,",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": " 커버력이 엄청 강력하진 않아요!",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": " 다클서클용으로는 딱인 제품인 것 같습니다ㅎㅎ ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "바르고 시간이 좀 지나면 커버된 부분이 조금씩 지워져 보이더라구요..ㅎ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력은 다소 아쉽습니다..",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "휴대하기 좋은 크기라 밖에서도 수정 화장 뚝딱... ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026000",
+    "RawText": "안녕하세요~ 오늘은 ㅇㅇㅇ 롱래스팅 팁 컨실러를 리뷰해 볼게요~~  이 제품은 워낙 유명해서 큰 기대를 하고 구매를 해봤는데요ㅎㅎ 생각보다 실망스러운 점이 많이 보이더라구요ㅠㅠ 저는 다크서클을 가리려고 구매를 한건데, 커버력이 기대했던 것보다 낮았어요… 그래도 어느정도 푸른끼는 잡아줄 줄 알았지만 그렇지 않더라고요… 그리고 두껍게 발리는 건지 주름 끼임이 있는 편이랍니다… 제품 제형 자체가 좀 매트해서 주름 부각이 되는 편인 것 같네요.   여러분들은 저처럼 돈 날리지 마시고 다른 컨실러 구매하세요ㅎㅎ…",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 롱** 팁 컨실러",
+    "Syllable": "284",
+    "Word": "66",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "커버력",
+        "SentimentText": " 커버력이 기대했던 것보다 낮았어요…",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": " 어느정도 푸른끼는 잡아줄 줄 알았지만 그렇지 않더라고요… ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "두껍게 발리는 건지 주름 끼임이 있는 편이랍니다… ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형 자체가 좀 매트해서 주름 부각이 되는 편인 것 같네요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 돈 날리지 마시고 다른 컨실러 구매하세요ㅎㅎ…",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1026001",
+    "RawText": "안녕하세요~오늘은 ㅇㅇㅇ쿠션 스웨이드를 리뷰해 볼거에요~  원래 ㅇㅇㅇ쿠션 글래스를 굉장히 잘 사용하고 있었는데, 매트한 쿠션이 나왔다고 해서 구매해 보았습니다ㅎㅎ 제형은 세미매트한데 그렇다고 속건조가 심한 제품은 아니에요~ 겉은 보송하고 속은 촉촉한 느낌?? 저는 코부분이랑 볼부분 모공 커버되는 걸 중요하게 생각하는데 대충 발랐는데도 얇게 뭉치지 않고 지저분하지 않게 매끈하게 잘 올라가요~ 다크닝이 좀 있는 편이지만 신경 쓰일 정도는 아닙니다!   세미매트 쿠션을 찾으시는 분들께 이 쿠션 추천할게요!",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 쿠션 스웨이드",
+    "Syllable": "283",
+    "Word": "63",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형은 세미매트한데 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "속건조가 심한 제품은 아니에요~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "겉은 보송하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "속은 촉촉한 느낌??",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "얇게 뭉치지 않고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "지저분하지 않게 매끈하게 잘 올라가요~ ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "다크닝이 좀 있는 편이지만 신경 쓰일 정도는 아닙니다! ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "세미매트 쿠션을 찾으시는 분들께 이 쿠션 추천할게요!",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026002",
+    "RawText": "안녕하세요~ 오늘은 ㅇㅇㅇ 블러셔 멜로우를 리뷰해 볼거에요~  이 블러셔는 제형이 굉장히 특이한 제품인데요~ 보통 블러셔라고 하면은 파우더 타입 블러셔나 크림 타입 블러셔를 생각할 수 있는데, 이 제품은 젤리 같은 제형이더라구요~ 크림 타입 블러셔에 더 가까운 제형입니다. 제형이 제형인지라 다른 제형 블러셔보다 피부에 더 밀착되는 느낌이구요~ 이 제품은 특히 모공이나 요철 부각이 없어서 너무 좋아요! 약간 파우더 처리한 것처럼 모공과 요철이 블러처리가 되는 느낌이더라구요ㅎㅎ  새로운 타입의 블러셔인 만큼 이건 건조함도 훨씬 덜해요 왕추천합니다~!",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 멜** 블러셔 ",
+    "Syllable": "308",
+    "Word": "72",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 굉장히 특이한 제품인데요~ ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "이 제품은 젤리 같은 제형이더라구요~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "크림 타입 블러셔에 더 가까운 제형입니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "밀착력/접착력",
+        "SentimentText": "다른 제형 블러셔보다 피부에 더 밀착되는 느낌이구요~",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "모공이나 요철 부각이 없어서 너무 좋아요! ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": " 약간 파우더 처리한 것처럼 모공과 요철이 블러처리가 되는 느낌이더라구요ㅎㅎ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "건조함도 훨씬 덜해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026013",
+    "RawText": "안녕하세요~ 오늘은 ㅇㅇㅇ ㅇㅇ 쿠션을 리뷰해 볼게요~  ㅇㅇㅇ에서 촉촉이 쿠션을 사용해 본 적은 없어서 큰 기대를 하며 구매해 본 제품인데요, 결론부터 말씀드리자면 기대 이하입니다ㅠㅠ 바르자 마자는 촉촉하지만 시간이 지나면 속당김이 있어요ㅠㅠ 그래서 그런지 들뜸도 상당히 보이는 편입니다… ㅇㅇㅇ하면 커버력인데 이 제품은 커버력 기대하지 마시고 촉촉한 쿠션인 만큼 묻어남도 상당해요… 그리고 무너질 때도 지저분하게 무너진답니다~ㅎㅎ…  저에게는 전체적으로 기대 이하인 제품이네요… 여러분들은 어땠나요??",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 킬** 밀착광채 쿠션",
+    "Syllable": "282",
+    "Word": "61",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "바르자 마자는 촉촉하지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": " 시간이 지나면 속당김이 있어요ㅠㅠ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "들뜸도 상당히 보이는 편입니다…",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "이 제품은 커버력 기대하지 마시고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "촉촉한 쿠션인 만큼",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "밀착력/접착력",
+        "SentimentText": "묻어남도 상당해요…",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "무너질 때도 지저분하게 무너진답니다~ㅎㅎ…",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1026014",
+    "RawText": "안녕하세요~ 오늘은ㅇㅇㅇ를 리뷰해 볼게요~  컨실러 중에서 유명한 제품이죠ㅎㅎ 좀 촉촉한 컨실러를 찾고 있어서 이 제품을 구입했답니다~ 일단 촉촉하다고 한 것치고는 막 그렇게 촉촉한 타입은 아니에요. 은근 매트한? 그래서 건성이신 분들은 매트해서 주름끼임이나 들뜸이 있을 수 있겠다고 생각했어요. 그래도 유명한 만큼 커버력과 지속력은 되게 좋은 편이고 가볍게 발리기 때문에 초보자분들도 충분히 사용할 수 있을 듯합니다ㅎㅎ  전체적으로 평균 이상이었던 거 같아요. 세일할 때 사시면 가성비도 괜찮은듯..ㅎㅎ",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 킬** 리퀴드컨실러",
+    "Syllable": "282",
+    "Word": "64",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "촉촉하다고 한 것치고는 막 그렇게 촉촉한 타입은 아니에요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "은근 매트한? ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "피부타입",
+        "SentimentText": " 건성이신 분들은 매트해서 주름끼임이나 들뜸이 있을 수 있겠다고 생각했어요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "매트해서 주름끼임이나 들뜸이 있을 수 있겠다고 생각했어요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": " 들뜸이 있을 수 있겠다고 생각했어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "커버력과 지속력은 되게 좋은 편이고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력은 되게 좋은 편이고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "가볍게 발리기 때문에 초보자분들도 충분히 사용할 수 있을 듯합니다ㅎㅎ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "초보자분들도 충분히 사용할 수 있을 듯합니다ㅎㅎ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026015",
+    "RawText": "안녕하세요~ 오늘은 ㅇㅇㅇ 펜슬을 리뷰해 보도록 하겠습니다!  보통 펜슬형 아이브로우에 브러쉬가 같이 있는 제품은 흔치 않은데 이 제품은 브러쉬도 있고 펜슬도 같이 있어서 한번 구입해 봤습니다ㅎㅎ 일단 발림성은 되게 부드러워요. 그냥 부드럽게 쌱하고 나면 그려져 있는 정도??라서 편해요. 그러나 지속력이 안 좋습니다ㅎㅎ 금방 지워지네요ㅠㅠ 브로우 그리고 그 위에 파우더 처리는 필수인 것 같아요ㅎㅎㅠㅠ   펜슬이다 보니 계속 깎아줘야 하는데 제형 심이 너무 잘 부러집니다… 여러모로 비추해요~~",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 킬** 리스 파우더 펜슬",
+    "Syllable": "277",
+    "Word": "65",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성은 되게 부드러워요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "그냥 부드럽게 쌱하고 나면 그려져 있는 정도??라서 편해요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력이 안 좋습니다ㅎㅎ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "금방 지워지네요ㅠㅠ ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "펜슬이다 보니 계속 깎아줘야 하는데 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형 심이 너무 잘 부러집니다… ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1026016",
+    "RawText": "안녕하세요~ 오늘은 ㅇㅇㅇ 펜라이너를 소개해 보도록 하겠습니다~  모든 아이라인 제품에 쉽게 빠지는 마성의 눈을 가진 저로써는 기대를 하며 구입을 해보았는데요ㅎㅎ 전체적으로 기대 이상인 제품이네요ㅎㅎ 발색도 뚜렷하고 지속력도 어마무시하고… 진짜 지워지거나 번지지 않아서 되게 신기했어요. 근데 색상이 생각보다 진하고 브러쉬도 생각보다 두꺼워요. 이 점 참고해 주시고~ 얇고 가늘게 그려지는 것보다는 좀 탄탄하게 그려진다고 보시면 됩니다!  섬세한 컨트롤이 필요 없는 제품이니 초보자분들에게도 추천하는 제품이에요!",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 수** 펜라이너",
+    "Syllable": "286",
+    "Word": "62",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "발색력",
+        "SentimentText": "발색도 뚜렷하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력도 어마무시하고…",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "진짜 지워지거나 번지지 않아서 되게 신기했어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "근데 색상이 생각보다 진하고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "사이즈/두께",
+        "SentimentText": "브러쉬도 생각보다 두꺼워요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "얇고 가늘게 그려지는 것보다는 좀 탄탄하게 그려진다고 보시면 됩니다!",
+        "SentimentWord": "9",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "섬세한 컨트롤이 필요 없는 제품이니 초보자분들에게도 추천하는 제품이에요!",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "밀착력/접착력",
+        "SentimentText": "번지지 않아서 되게 신기했어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026017",
+    "RawText": "안녕하세요~ 오늘은 ㅇㅇㅇ타투펜을 리뷰하도록 할게요~  일단 이 제품은 타투펜인만큼 한번 그리면 며칠 동안 지속되는 제품인데, 요새 매일 화장해야 하는 저에게 꼭 필요한 제품이죠ㅎㅎ 근데 기대 이하인 제품이네요..ㅠㅠ 내용물이 금방 없어지는 느낌이에요… 마르는 건지 그만큼 용량이 적은 건지… 사용한 지 얼마 안 됐는데도 내용물이 안 나오기 시작하네요..ㅎㅎ 착색도 생각보다 노랗더라구요… 시간이 지나면 착색이 더더욱 노란빛을 띠게 된답니다..ㅎㅎ  이 돈으로 다른 걸 구매하는게 나았겠어요~~",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 킬** 듀얼 타투펜 ",
+    "Syllable": "276",
+    "Word": "62",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "한번 그리면 며칠 동안 지속되는 제품인데, ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/개수",
+        "SentimentText": "내용물이 금방 없어지는 느낌이에요… 마르는 건지 그만큼 용량이 적은 건지…",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "착색도 생각보다 노랗더라구요…",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "시간이 지나면 착색이 더더욱 노란빛을 띠게 된답니다..ㅎㅎ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1026026",
+    "RawText": "안녕하세요~ 오늘은 ㅇㅇㅇ ㅇㅇ밤을 리뷰해 볼거에요~  뭔가 제품명부터 약간의 아이러니함 있죠?? 쉬어한데 매트한ㅎㅎ 세상 처음 보는 제형이어서 궁금해서 구매해봤어요ㅎㅎ 근데 발라보니 왜 이런 제형을 다른 브랜드에서 제작하지 않는지 알겠더라구요… 일단 제형이 겉은 보송한데 속은 촉촉한 느낌이에요. 입술이 조이지도 않고 편하긴 한데, 매트해서인지 각질과 함께 뜯어져 나와서 입술이 얼룩덜룩해지는 현상이 나타나네요...  여러모로 비추하는 제품입니다..! 그래도 발색은 자연스러워서 좋네요…",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 멜** 매트 밤",
+    "Syllable": "273",
+    "Word": "57",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": " 쉬어한데 매트한ㅎㅎ 세상 처음 보는 제형이어서",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 겉은 보송한데 속은 촉촉한 느낌이에요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "입술이 조이지도 않고 편하긴 한데,",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "매트해서인지 각질과 함께 뜯어져 나와서 입술이 얼룩덜룩해지는 현상이 나타나네요...",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "그래도 발색은 자연스러워서 좋네요…",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026027",
+    "RawText": "안녕하세요~ 오늘은 ㅇㅇㅇ ㅇㅇ틴트를 리뷰해 보겠습니다~  ㅇㅇㅇ 촉촉한 틴트라… 뭔가 저에게는ㅇㅇㅇ란 매트한 제품들이 먼저 떠올라서 ㅇㅇㅇ의 촉촉한 틴트가 조금 어색하네요ㅎㅎ 일단 이 제품은 확실히 촉촉한 광택감이 잘 표현되는 제품이에요! 하지만 한번만 발랐을 때 색상이 조금 탁해보이는 점 참고해 주세요! 몇 번 더 올려야 맑은 색이 올라오더라구요ㅎㅎ시럽틴트라 요플레현상이 조금 있지만 그래도 지속력이나 밀착력 면에서는 나쁘지 않은 제품이네요ㅎㅎ  저에게는 그저 무난한 촉촉한 틴트네요! 여러분들은 어떠셨나요?",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 듀** 틴트",
+    "Syllable": "287",
+    "Word": "63",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "촉촉한 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": " 광택감이 잘 표현되는 제품이에요! ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": " 한번만 발랐을 때 색상이 조금 탁해보이는 점 참고해 주세요! ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "몇 번 더 올려야 맑은 색이 올라오더라구요ㅎㅎ ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "시럽틴트라 요플레현상이 조금 있지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력이나 밀착력 면에서는 나쁘지 않은 제품이네요ㅎㅎ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "밀착력/접착력",
+        "SentimentText": "밀착력 면에서는 나쁘지 않은 제품이네요ㅎㅎ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "저에게는 그저 무난한 촉촉한 틴트네요!",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026028",
+    "RawText": "안녕하세요~ 오늘은 ㅇㅇㅇ ㅇㅇ진정쿠션을 리뷰해 보도록 하겠습니다!  일단 ㅇㅇㅇ의 이 ㅇㅇ라인은 정말 유명하죠ㅎㅎ 같은 라인인데 진정성분이 들어간 쿠션이라 바로 구매해 보았습니다ㅎㅎ 근데 색상이 노란빛이 강해서 살짝 실망… 저는 상아빛 나는 쿠션이 좋은데 이 쿠션은 노란빛이 너무 강하더라구요… 커버력이 약해서 웬만한 잡티는 안 가려지구요 약간 쌩얼 느낌 나는 쿠션이에요… 발림성은 괜찮은데 속건조도 있고 밀착력은 좀 아쉬운 제품이네요…   ㅇㅇㅇ ㅇㅇ 라인 중 가장 실망스런 제품이었네요..ㅎㅎ",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 킬** 진정쿠션 기획세트",
+    "Syllable": "278",
+    "Word": "63",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 노란빛이 강해서 살짝 실망… ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "저는 상아빛 나는 쿠션이 좋은데 이 쿠션은 노란빛이 너무 강하더라구요… ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "커버력이 약해서 웬만한 잡티는 안 가려지구요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "약간 쌩얼 느낌 나는 쿠션이에요…",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성은 괜찮은데 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "속건조도 있고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "밀착력/접착력",
+        "SentimentText": "밀착력은 좀 아쉬운 제품이네요… ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "진정성분이 들어간 쿠션이라",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026029",
+    "RawText": "안녕하세요~ 오늘은 ㅇㅇㅇ ㅇㅇ립을 리뷰해 보겠습니다~  일단 제품명에 나와있는 것처럼 이 제품은 촉촉하기보단 매트한 립스틱에 가까운 제품이에요~ 하지만 그렇다고 너무 건조하지 않은 제품입니다… 약간 겉은 보송하고 속은 촉촉한 느낌?? 발림성도 처음 몇번 제외하고는 굉장히 부드럽게 발리기 때문에 좋았어요. 연한 발색을 원하면 그냥 입술 위에 톡톡하면은 자연스러운 발색을 얻을 수 있습니다ㅎㅎ 각질부각이 아예 없진 않지만 매트한 제품치고는 적은 편인 것 같아요. 잘 발려서 주름 끼임도 크지 않구…  여러모로 저에게는 무난한 제품이네요~ 여러분들은 어떤가요??",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 쉬** 립스틱",
+    "Syllable": "313",
+    "Word": "72",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "촉촉하기보단 매트한 립스틱에 가까운 제품이에요~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "너무 건조하지 않은 제품입니다… ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "약간 겉은 보송하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "속은 촉촉한 느낌?? ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성도 처음 몇번 제외하고는 굉장히 부드럽게 발리기 때문에 좋았어요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "연한 발색을 원하면 그냥 입술 위에 톡톡하면은 자연스러운 발색을 얻을 수 있습니다ㅎㅎ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "각질부각이 아예 없진 않지만 매트한 제품치고는 적은 편인 것 같아요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "잘 발려서 주름 끼임도 크지 않구…",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "1026030",
+    "RawText": "안녕하세요~ 오늘은 ㅇㅇㅇ ㅇㅇ 쿠션을 리뷰해 보도록 하겠습니다~!  ㅇㅇㅇ ㅇㅇ 라인이 유명하기도 하고 구성도 좋고 해서 구입을 해봤는데요, 발라보니까 발림성도 좋고 색상까지 예뻐서 애정템이 될 수도 있겠다~ 싶더라구요ㅎㅎ 그런데 파우더 처리를 했는데도 베이스가 30분 만에 무너지고 마스크에 긁혀서 다 벗겨지더라구요… 지금까지 사용한 쿠션 중에 지속력이 가장 엉망이네요… ㅇㅇㅇ ㅇㅇ라인이다 보니까 기대도 높았는데 그 기대에 못 미쳤네요…  기대가 컸던 만큼 실망도 큰 쿠션입니다... 구매하지 마세요~~",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 킬** 파운웨어 쿠션",
+    "Syllable": "284",
+    "Word": "64",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성도 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": " 발림성도 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상까지 예뻐서 애정템이 될 수도 있겠다~ 싶더라구요ㅎㅎ ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": " 파우더 처리를 했는데도 베이스가 30분 만에 무너지고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "밀착력/접착력",
+        "SentimentText": "마스크에 긁혀서 다 벗겨지더라구요… ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지금까지 사용한 쿠션 중에 지속력이 가장 엉망이네요… ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1026047",
+    "RawText": "안녕하세요~ 오늘은 ㅇㅇㅇ 신상! ㅇㅇㅇ ㅇㅇ쿠션을 리뷰해 볼거에요~  일단 글로우 쿠션인 만큼 발랐을 때 굉장한 수분감과 함께 수분광이 엄청나게 돌아요ㅎㅎ 볼 부분에 속건조가 조금 심한 편인데도 이 쿠션을 바를 때는 건조함이 크게 느껴지지 않았어요. 다만 마무리 사용감이 발림성과 좀 다르더라구요… 뭔가 좀 텁텁한 마무리 사용감이었어요… 글로우 쿠션에서 이런 마무리감을 느낄 줄은 생각도 못 했네요…ㅎㅎ 시간이 지나면서 유분기가 올라와서 그런가 무너짐이 좀 지저분해요…  글로우 쿠션 찾으시는 분들은 이런 점 참고하세요..!!",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 무** 글로우 쿠션",
+    "Syllable": "295",
+    "Word": "69",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "굉장한 수분감과 함께 수분광이 엄청나게 돌아요ㅎㅎ ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "수분광이 엄청나게 돌아요ㅎㅎ ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "건조함이 크게 느껴지지 않았어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용감",
+        "SentimentText": "사용감이 발림성과 좀 다르더라구요… 뭔가 좀 텁텁한 마무리 사용감이었어요… ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "시간이 지나면서 유분기가 올라와서 그런가 무너짐이 좀 지저분해요…",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "유분기가 올라와서 그런가 무너짐이 좀 지저분해요…",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1026055",
+    "RawText": "안녕하세요~ 오늘은 ㅇㅇㅇ ㅇㅇ밤을 리뷰해 볼거에요~  요새 컬러립밤이 유행인가봐요ㅎㅎ 다양한 브랜드에서 컬러립밤을 출시하고 있는데 이번엔 ㅇㅇㅇ에서 런칭을 했네요ㅎㅎ 일단 립밤 제품이라 착색이랑 지속력은 기대하시면 안돼요..! 밥 먹고 나면 다 사라져 있습니다ㅎㅎ 발색력은 기대 이하였어요…정~~말 자연스러운 발색인데요, 아무리 덧발라도 색이 진해지지 않아요ㅎㅎ 진짜 생얼용으로 딱인…ㅎㅎ 색조 메이크업을 하시는 분들께는 아쉬운 발색이에요…  저는 다른 브랜드 컬러립밤을 알아보는 걸로 할게요ㅎㅎ",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 잉** 글로이밤",
+    "Syllable": "278",
+    "Word": "57",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "발색력",
+        "SentimentText": "착색이랑 지속력은 기대하시면 안돼요..! ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력은 기대하시면 안돼요..! ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": " 밥 먹고 나면 다 사라져 있습니다ㅎㅎ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "발색력은 기대 이하였어요…",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "정~~말 자연스러운 발색인데요, ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "아무리 덧발라도 색이 진해지지 않아요ㅎㅎ 진짜 생얼용으로 딱인…ㅎㅎ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "색조 메이크업을 하시는 분들께는 아쉬운 발색이에요…",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1026060",
+    "RawText": "안녕하세요~ 오늘 ㅇㅇㅇ ㅇㅇ 파우더를 들고 와 봤어용~  시중에서 판매하던 기존 파우더 제품들은 쿨링 효과가 없는데, 이 제품은 파우더인데 쿨링감까지 준다해서 신기해서 구매해 보았습니다ㅎㅎ 일단 바르자마자 너무 신기하게 쿨링감이 확 느껴지더라고요ㅋㅋㅋ 약간 차가워서 물기가 있는 느낌인데 만져보면 완전 보송하답니다ㅎㅎ 쿨링감에 신기해했지만 파우더 기능에는 조금 실망했어요.. 파우더 제형 입자 자체가 곱지는 않아서 그래서 그런지 파우더 바른 부위가 들뜨거나 뭉치는 현상이 발생하네요…  쿨링감에 속지 말고 다른 파우더 제품 구매하시는 걸 추천드립니다~",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 오** 쿨링 파우더",
+    "Syllable": "309",
+    "Word": "69",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "너무 신기하게 쿨링감이 확 느껴지더라고요ㅋㅋㅋ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "약간 차가워서 물기가 있는 느낌인데",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "물기가 있는 느낌인데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "만져보면 완전 보송하답니다ㅎㅎ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "쿨링감에 신기해했지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "파우더 기능에는 조금 실망했어요.. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "파우더 제형 입자 자체가 곱지는 않아서 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": " 파우더 바른 부위가 들뜨거나 뭉치는 현상이 발생하네요…",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "뭉치는 현상이 발생하네요…",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1026066",
+    "RawText": "안녕하세요~ 오늘은 ㅇㅇㅇ ㅇㅇ 펜슬라이너를 리뷰해 볼거에요~  좀 얇은 펜슬라이너를 찾고 있었는데 가격에 반해서 바로 구매해 보았습니다ㅎㅎ 구매하기 전에 손등에 테스트를 했는데, 손등 위에는 되게 부드럽게 발려서 발림성이 좋네~하고 구매를 한 거거든요…근데 이게 웬걸 눈에다가 바르니까 발색이 전혀 안되는데요…? 눈 위에서는 부드럽기는커녕 너무 뻣뻣하게 발리고 발색도 제대로 되지가 않는… 진짜 신기한 현상이었네요… 다시는 겪고 싶지 않은ㅎㅎㅎ   잘 사용하고 계시는 분들 있으면 꿀팁 좀 알려주세요~",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 잉** 펜슬라이너",
+    "Syllable": "281",
+    "Word": "64",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격에 반해서 바로 구매해 보았습니다ㅎㅎ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "손등 위에는 되게 부드럽게 발려서 발림성이 좋네~하고 구매를 한 거거든요…",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "눈에다가 바르니까 발색이 전혀 안되는데요…?",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "눈 위에서는 부드럽기는커녕 너무 뻣뻣하게 발리고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "발색도 제대로 되지가 않는… 진짜 신기한 현상이었네요… ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1026068",
+    "RawText": "안녕하세요~ 오늘은 ㅇㅇㅇ ㅇㅇ틴트를 리뷰해 보겠습니다~  ㅇㅇㅇ의 벨벳 라인과 다르게 이 제품은 촉촉한 워터틴트에요. 전에 사용하던 ㅇㅇ워터틴트는 마무리감이 끈적해서 이 제품도 그럴까봐 걱정했었는데, 다행히 이 제품의 마무리감은 끈적임보다 촉촉함이 더 강합니다. 발림성도 부드럽게 잘 되고 지속력도 중상 정도?? 밥 먹고 나면 아주 조금 지워지는 편입니당. 착색은 빨리 되는 편이에요! 쌩얼이든 화장을 했든 어떤 상황에서도 잘 어울릴 만한 틴트입니다!  개인적으로 저는 무난하게 만족하는 제품이에요ㅎㅎ 여러분들은 어떠신가요??",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 잉** 드롭틴트",
+    "Syllable": "295",
+    "Word": "65",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "촉촉한 워터틴트에요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "마무리감은 끈적임보다 촉촉함이 더 강합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성도 부드럽게 잘 되고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력도 중상 정도?? ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "밥 먹고 나면 아주 조금 지워지는 편입니당",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "착색은 빨리 되는 편이에요! ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "쌩얼이든 화장을 했든 어떤 상황에서도 잘 어울릴 만한 틴트입니다!",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026069",
+    "RawText": "안녕하세요~ 오늘은 ㅇㅇㅇ ㅇㅇ 브러쉬라이너를 리뷰해 보도록 하겠습니다!   얇은 리퀴드 아이라이너를 찾던 와중에 가격이 완전 괜찮아서 구매해 본 제품인데요~ 일단 색이 조금 진해서 놀랐어요ㅎㅎ 저는 웜톤인데 쿨톤에게 잘 어울리는 색상이어서 이 부분은 조금 아쉬웠고요… 눈가에다가 사용하는 제품인 만큼 성분을 중요시 생각하는데, 찾아보니 유해성분이 거의 없더라고요~ 이정도면 순한 듯해서 안심하고 사용해도 될 정도 같습니다ㅎㅎ  웜톤 색상만 추가한다면 재구매 할 의향이 충분히 있는 제품입니다ㅎㅎ",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 잉** 브러쉬라이너",
+    "Syllable": "277",
+    "Word": "62",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가격이 완전 괜찮아서 구매해 본 제품인데요~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색이 조금 진해서 놀랐어요ㅎㅎ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "저는 웜톤인데 쿨톤에게 잘 어울리는 색상이어서 이 부분은 조금 아쉬웠고요… ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "유해성분이 거의 없더라고요~ ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "이정도면 순한 듯해서 안심하고 사용해도 될 정도 같습니다ㅎㅎ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "웜톤 색상만 추가한다면 재구매 할 의향이 충분히 있는 제품입니다ㅎㅎ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1026074",
+    "RawText": "안녕하세요. 겨울은 개인적으로 피부고민이 많네요. 오늘은 호불호가 강하다고 생각되는 OO 컨실러를 사용해본 제 개인적인 후기를 말씀드리려고 합니다.    색상도 다양하게 나오고 다크서클까지 가려주고 여드름 흉터가리기로 너무 유명한 제품이죠.  제 얼굴에 트러블도 많고, 붉은기도 있고 피부도 얇은데 이걸 다 가리려면  정말 커버력이 괜찮은 컨실러여야 하는데 제가 발랐을 때에는 커버력이 꽤나 만족스러웠습니다.  컨실러가 두껍게 발리는 느낌이 나지 않아 전체 베이스 제품으로 사용해도 자연스러울 정도입니다. 게다가 휴대하기도 편하고, 밀착력도 좋아 계속 쓰고 싶더라고요.  근데 브러시에 앞뒤로 적절히 묻게 양조절을 잘해야할 것 같아요. 어느때는 많이 나오고 어느때는 좀 덜발리고 하더라고요.  근데 같은 제품이라도 어떤 분은 트러블이 좀 나고, 여드름을 가리다가 더 낫다는 말도 들어봤으니 자기한테 맞으면 이 제품을 쓰는 게 나을 것 같아요.  저는 트러블이 없었지만 안맞는 사람도 많은 것 같더라고요.   아무리 퍼펙트한 화장을 한다고 해도 피부가 일단 좋아야, 피부고민이 없죠.  미세먼지도 요즘 많은 시기이니 클렌징 깨끗하게 하고 스킨케어는 꼭 제대로 하시길!!  내 피부가 빛을 볼 그 때까지 파이팅입니다!",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 커** 컨실러 6.5g ",
+    "Syllable": "623",
+    "Word": "144",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 다양하게 나오고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "커버력이 꽤나 만족스러웠습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "두껍게 발리는 느낌이 나지 않아",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "전체 베이스 제품으로 사용해도 자연스러울 정도입니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "휴대하기도 편하고,",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "밀착력/접착력",
+        "SentimentText": "밀착력도 좋아",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "트러블이 없었지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026075",
+    "RawText": "누드립스틱이 이쁘게 발린다고 해서 하나 사볼까 요즘 고민하고 있었는데요. 그러던 찰나 OO 립스틱이 진짜 인기 많다고 해서 가격도 저렴하고 해서 급하게 구매해봤습니다.   저는 OOO과 OOOO색을 구매했는데요.  OOOO는 발색이 뭔가 립밤 바른 느낌이었어요. 발색이 아무 티도 안난다고 해야하나  개인적으로는 OOO 색상이 맘에 들었어요. 핑크빛이 더 돌아서 생기발랄한 느낌인데 굉장히 자연스러운 립톤이라는 생각이 들었습니다.  매트한 느낌은 좀 있는데 착착 밀착되는 느낌이 들어 되려 발림성이 좋은 느낌이었습니다.  그리고 역시 립스틱의 단점이라고 해야하나. 건조로 인한 각질 같은 경우는 조금 생겨서  잘 닦아준 후에 발라야 합니다.  겨울이라 점점 건조해지니 입술팩을 하고나서 바르면 더 좋겠죠.   입술이든 피부든 보습력은 개인적으로 항상 신경써야하는 것 같아요.  시간 나실때 항상 팩으로 나의 피부 보습력! 챙겨주시는 거 잊지마세요!",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 제** 립스틱 3g ",
+    "Syllable": "474",
+    "Word": "107",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고 해서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "OOOO는 발색이 뭔가 립밤 바른 느낌이었어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "발색이 아무 티도 안난다고 해야하나",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "OOO 색상이 맘에 들었어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "핑크빛이 더 돌아서 생기발랄한 느낌인데 굉장히 자연스러운 립톤이라는 생각이 들었습니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "매트한 느낌은 좀 있는데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "밀착력/접착력",
+        "SentimentText": "착착 밀착되는 느낌이 들어",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성이 좋은 느낌이었습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "건조로 인한 각질 같은 경우는 조금 생겨서",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1026076",
+    "RawText": "OO OOO 오드퍼퓸은 남자들이 좋아하는 여자향수라고 하더라고요 그래서 데이트 할 때 뿌려보려고 구입했습니다  처음엔 생각보다 양이 많아 조금 걱정했는데뿌리고 나니 그럴 걱정은 없더라고요 이 향수는 너무 강하지도 않는 은은한 향을 가지고 있어요유행을 타지 않는 클래식한 느낌으로 따뜻하면서 코끝으로 잔향이 퍼지는 느낌이 좋아요. 그래서 추운 겨울에 더 잘 어울리는 향수입니다. 지속력도 꽤 오래되는데 너무 많이 뿌리면 향이 좀 무겁다는 느낌이 드니 가볍게 한번만 칙칙하고 뿌리는 걸 추천드려요. 특히 제가 데이트하고 나갔을 때 제 남친이 좋은 향기가 난다고 계속 얘기하더라고요. 그래서 아, 이거 뿌리고 다녀야겠다라는 생각을 했습니다.    남자들이 좋아하는 향수라고 하니 좋아하는 남성 분에게 사랑받고 싶다면 이 향수 한번 사용해보세요~ ",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 오** 퍼퓸",
+    "Syllable": "414",
+    "Word": "98",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/개수",
+        "SentimentText": "생각보다 양이 많아",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "너무 강하지도 않는 은은한 향을 가지고 있어요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "유행을 타지 않는 클래식한 느낌으로 따뜻하면서 코끝으로 잔향이 퍼지는 느낌이 좋아요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "추운 겨울에 더 잘 어울리는 향수입니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력도 꽤 오래되는데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "너무 많이 뿌리면 향이 좀 무겁다는 느낌이 드니",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "남친이 좋은 향기가 난다고 계속 얘기하더라고요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026082",
+    "RawText": "안녕하세요~ 오늘은 ㅇㅇㅇ ㅇㅇ립펜슬을 리뷰해 볼게요~  요새 오버립이 유행인만큼 립펜슬을 사용하시는 분들이 많아지는 추세인데, 저도 그 유행에 탑승했습니다ㅎㅎ 저는 오트베이지 컬러를 구입했는데요, 오트베이지 컬러는 오버립 입문자가 사용하기 가장 좋다고 해서 구매하게 되었어요~ 근데 생각보다 발색이 너무 진하기 때문에 이 점 유의하시는 게 좋을 것 같습니다ㅎㅎ 용기 뚜껑이 좀 부실한 게 아쉽네요…  오버립 말고도 헤어라인 쉐딩용과 같이 활용하기 좋아서 이 제품 추천드립니다~",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 도** 무드 립펜슬",
+    "Syllable": "267",
+    "Word": "61",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "발색력",
+        "SentimentText": "생각보다 발색이 너무 진하기 때문에",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기 뚜껑이 좀 부실한 게 아쉽네요…",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "오버립 말고도 헤어라인 쉐딩용과 같이 활용하기 좋아서 이 제품 추천드립니다~",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026087",
+    "RawText": "요즘 화장품 유튜브를 많이 보고 있는데요.  유튜브들이 OO 화장품 좋다고 해서 마스카라를 한번 구입해봤습니다.   생각보다 크기는 작아서 좀 놀랐어요. . 일단 발라보았습니다. 얇게 발리는 편이고요.  한올한올 깔끔하게 올라가는 게 꼼꼼히 바를 수 있어서 편하고 좋네요.  애교살에 조금 묻어서 너구리가 될줄 알았는데 그정도는 아니고요.  지속도 꽤 장시간 되서 컬 유지가 꽤 되는 편입니다.  자연스럽게 길어지는 느낌이라고나 할까요  고정력도 만족스럽고 뭉침이 적습니다.  아쉬운 부분이 있다면 시간 지나면 속눈썹이 좀 처지는 편입니다. 그래도 뭐 이쁘게 발리니 이거 바르고 뷰러로 한껏 올리면 되겠죠?   마스카라는 바르고 난 후에 완벽히 마르기 전까지는  너구리가 안되게 항상 조심해야하는 거 같아요.  외출 전에 너구리가 됐는지 안됐는지 잘 말랐는지 또 확인하고 확인해서 나갑시다!  ",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 한** 픽스 마스카라 7g ",
+    "Syllable": "444",
+    "Word": "103",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/두께",
+        "SentimentText": "생각보다 크기는 작아서 좀 놀랐어요. .",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "얇게 발리는 편이고요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "한올한올 깔끔하게 올라가는 게",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "꼼꼼히 바를 수 있어서 편하고 좋네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "밀착력/접착력",
+        "SentimentText": "애교살에 조금 묻어서 너구리가 될줄 알았는데 그정도는 아니고요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속도 꽤 장시간 되서 컬 유지가 꽤 되는 편입니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "자연스럽게 길어지는 느낌이라고나 할까요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "고정력도 만족스럽고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "뭉침이 적습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "시간 지나면 속눈썹이 좀 처지는 편입니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1026091",
+    "RawText": "안녕하세요~ 오늘은 너무나도 유명한 ㅇㅇㅇ ㅇㅇ마스카라를 들고 와봤어용~ㅎㅎ  ㅇㅇㅇ 픽서를 잘 사용하고 있다가 이 제품 추천이 너무 많아서 한번 구매해 보았습니다ㅎㅎ 일단 유명한 이유가 있듯이 제품은 만족스럽네요ㅎㅎ 브러쉬가 너무 통통하면 액을 바르기가 쉽지 않은데 이 제품의 브러쉬는 날씬해서 초보자분들도 잘 바를 것 같아요. 발림성은 좋은 편인데요. 속눈썹이 길어진다거나 볼륨이 생기거나 하는 기능은 딱히 없으니 이 점 참고해주세요ㅎㅎ  마스카라 유목민 분들은 이 제품 사용해 보세요~~",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 컬** 마스카라",
+    "Syllable": "275",
+    "Word": "64",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "초보자분들도 잘 바를 것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성은 좋은 편인데요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "속눈썹이 길어진다거나 볼륨이 생기거나 하는 기능은 딱히 없으니 이 점 참고해주세요ㅎㅎ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1026122",
+    "RawText": "화장품 가게가 세일해서 들어갔는데 색상도 예뻐보이고 가격구성도 맞출겸 OO OOO 립스틱을 사보았습니다.   제형이 벨벳티한 느낌이 좀 강하고 매트한 질감은 조금 있습니다.  입술위에 스무스하게 스윽 발리지는 않고 입술 각질 관리하거나 립밤을 좀 바른 후 발라야 스무스하게 발려집니다.  지속력은 립스틱이라 먹거나 마스크를 쓰면 그냥 날아가네요. 대신 입술에 바르고 휴지로 음파하고 비슷한 컬러의 섀도우나 블러셔로 입술라인 주변 코팅하듯 브러쉬로 쓸어주면 오버립 발색도 잘되고 음료 마실때는 덜 묻네요.   번들거림을 싫어하시는 분들에게 추천드려요.  발색은 예쁘게 잘 되네요. 가벼운 느낌의 발색을 찾는다면 OO OOO 사세요~",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 데** 립스틱 3.5g ",
+    "Syllable": "352",
+    "Word": "79",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 예뻐보이고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 벨벳티한 느낌이 좀 강하고 매트한 질감은 조금 있습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "입술위에 스무스하게 스윽 발리지는 않고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "입술 각질 관리하거나 립밤을 좀 바른 후 발라야 스무스하게 발려집니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력은 립스틱이라 먹거나 마스크를 쓰면 그냥 날아가네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "오버립 발색도 잘되고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "밀착력/접착력",
+        "SentimentText": "음료 마실때는 덜 묻네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "번들거림을 싫어하시는 분들에게 추천드려요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "발색은 예쁘게 잘 되네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "가벼운 느낌의 발색을 찾는다면 OO OOO 사세요~",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026123",
+    "RawText": "OO라는 브랜드 아시나요? 이 브랜드가 틴트로 굉장히 유명하더라고요.  그래서 저도 구매해봤습니다. 제가 구매한 것은 OO 베스트 제품 중 하나 OO OOO 립 틴트 입니다.   어두운 피부색을 가진 가을 딥톤에게는 정말 찰떡인 색상이더라고요.  육안으로 볼때는 대단히 어둡지만 가을 딥톤인 저에게는 발색시 적당히 붉게 분위기 있는 색으로 발색이 됐습니다. 매트하지만 적당히 촉촉하여 스머징이 잘 되는 제형이라 사용하기 좋았습니다.  특히 각질 부자인 저에게 촉촉해서 각질 부각이 안되고 지금 딱 맞는 시기여서 겨울 내내 쭈욱 바를 수 있을 것 같아요. 너무 만족스럽고 다른 색도 구매해볼까 합니다.  하지만 지속력은 기대 안하시는 게 좋을 것 같아요. 색상으로 만족하신다면 구매하세요!   화장하지 않은 얼굴에 생기만 줄 때도 사용할 수 있는 부분은 좋습니다.  OO라는 제품 처음 써봤지만 왜 틴트 틴트 하는지 알겠어요. 색상 넘 예쁩니다!",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 라** 립 틴트8 5g ",
+    "Syllable": "472",
+    "Word": "116",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "어두운 피부색을 가진 가을 딥톤에게는 정말 찰떡인 색상이더라고요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "육안으로 볼때는 대단히 어둡지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "발색시 적당히 붉게 분위기 있는 색으로 발색이 됐습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "매트하지만 적당히 촉촉하여",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "스머징이 잘 되는 제형이라 사용하기 좋았습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "촉촉해서 각질 부각이 안되고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "지금 딱 맞는 시기여서 겨울 내내 쭈욱 바를 수 있을 것 같아요.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력은 기대 안하시는 게 좋을 것 같아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "화장하지 않은 얼굴에 생기만 줄 때도 사용할 수 있는 부분은 좋습니다.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상 넘 예쁩니다!",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026124",
+    "RawText": "오랜만에 기분전환을 하고 싶어서 화장품을 검색하던 중 우연히 케이스까지 고급스럽고 색감이 예쁜 립스틱을 발견해 구매했어요. 바로 OOO OOO 매트 립스틱입니다.   OO 립스틱은 한번의 터치로도 부드럽게 슬라이딩되고 고발색으로 OOOO 색상이 제 입술에 과하지 않고 자연스럽게 잘 표현되었어요. 매트한 립스틱을 그렇게 좋아하진 않아 살짝 걱정 했는데 립스틱 발랐을 때 각질 부각 없이 부드럽게 발리고 제형이 벨벳 타입의 느낌으로 보송보송하면서도 수분감도 느껴졌습니다.  발색도 잘되고 발림성도 좋고 지속력까지! 세박자가 완벽하네요  거기에 추가하면 마스크에 묻어남도 많지 않은 게 큰 장점입니다.   오랜만에 제 얼굴톤에 잘 맞는 립스틱을 샀더니 기분도 좋아지고 선물 받는 기분도 들고,  이번 립스틱 구매는 성공한 것 같아요!",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 립** 매트 립스틱 3.2g",
+    "Syllable": "408",
+    "Word": "94",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용기",
+        "SentimentText": "케이스까지 고급스럽고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색감이 예쁜",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "한번의 터치로도 부드럽게 슬라이딩되고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "고발색으로 OOOO 색상이 제 입술에 과하지 않고 자연스럽게 잘 표현되었어요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "각질 부각 없이 부드럽게 발리고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 벨벳 타입의 느낌으로 보송보송하면서도",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "수분감도 느껴졌습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "발색도 잘되고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력까지! 세박자가 완벽하네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026143",
+    "RawText": "저는 홈쇼핑 채널 정말 많이 보는데요.  요즘 OO OOO 쿠션 제품이 정말 좋다고 많이 나오길래 한번 구매해봤습니다.   발림성이 좋고 제형이 아주 부드럽습니다. 눌러서 짜서 쓰는 용기라 위생적인 부분이 좋은 것 같습니다. 바른 후 땀이 나면 구멍이 송송 납니다. 다른 제품보다 땀에 지워지는 게 심하게 표가 나고 마스크에 묻어남이 좀 심한 것 같아요.   21호인데도 하얀 느낌은 아닙니다. 제가 그닥 흰 피부가 아닌데도 이 호수가 맞아서 아주 까만 피부가 아니면 21호를 쓰시길 추천드립니다.  커버가 엄청 잘된다고 그랬는데, 기대하는 만큼은 아니었던 것 같아요.  120시간 지속력이 있는지는 잘 모르겠습니다.  피부에 좋은 성분이 많이 들어있다고 했는데, 오랜 기간 써봐야 알 것 같아요.  눌러서 짜서 쓰니까 위생적이긴 하지만 이걸 잘못 컨트롤하면 옷에 튈 수 있으니까 조심하셔야 해요.   그래도 홈쇼핑에서 추천한다고 무조건 사는 건 아닌 것 같아요. 저는 앞으로 홈쇼핑 추천 제품들은 OOOO이라도 가서 테스트를 해보고 구매해보려고요.",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 트** 쿠션 21호 본품",
+    "Syllable": "531",
+    "Word": "130",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성이 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 아주 부드럽습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "눌러서 짜서 쓰는 용기라 위생적인 부분이 좋은 것 같습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "땀이 나면 구멍이 송송 납니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "다른 제품보다 땀에 지워지는 게 심하게 표가 나고",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "밀착력/접착력",
+        "SentimentText": "마스크에 묻어남이 좀 심한 것 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "21호인데도 하얀 느낌은 아닙니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "제가 그닥 흰 피부가 아닌데도 이 호수가 맞아서",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "커버가 엄청 잘된다고 그랬는데, 기대하는 만큼은 아니었던 것 같아요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "120시간 지속력이 있는지는 잘 모르겠습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "1026152",
+    "RawText": "향수에 관심이 많아 최근 향수 관련 카페에 가입했는데요.  저는 달콤한 향을 좋아하는데 저랑 향수 취향이 비슷한 분들이 OO OOO 오데 퍼퓸을 추천해주셔서 구매해봤습니다.   먼저 향을 맡아보니 정말 달달하니 제 스타일입니다.  향을 맡고 나서 뿌려 보니 향이 부드럽고 지속력이 훨씬 좋아서 만족스럽습니다.  폭신하고 사랑스러운 분위기의 향을 좋아한다면 더욱 마음에 들어하실 것 같습니다.  겨울에 러블리한 스웨터에 너무 잘 어울리는 향이라 크리스마스에 사용해도 좋을 것 같아요.  저는 이 향수 케이스도 핑크핑크하고 러블리한 게 너무 마음에 듭니다.   향수는 그 날 온도나 습도에 따라 향이 다르게 느껴지는 거 아시나요?  이 향수도 평소엔 달콤한 향이 나서 너무 좋은데 습한 날 뿌리면 약간 파우더리한 느낌의 향이 괜히 뿌렸다 싶습니다. 이 부분 참고하셨으면 좋겠습니다.",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 스** 오데퍼퓸 ",
+    "Syllable": "435",
+    "Word": "106",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향을 맡아보니 정말 달달하니 제 스타일입니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 부드럽고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력이 훨씬 좋아서 만족스럽습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "폭신하고 사랑스러운 분위기의 향을 좋아한다면 더욱 마음에 들어하실 것 같습니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "겨울에 러블리한 스웨터에 너무 잘 어울리는 향이라",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "케이스도 핑크핑크하고 러블리한 게 너무 마음에 듭니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "평소엔 달콤한 향이 나서 너무 좋은데",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "습한 날 뿌리면 약간 파우더리한 느낌의 향이 괜히 뿌렸다 싶습니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1026171",
+    "RawText": "저는 요즘 육아로 화장도 안했는데, 너무 칙칙해보인다는 생각이 요즘 많이 들더라고요.  그래서 좀 생기있게 보여주는 립을 하나 바르면 나아지지 않을까라는 생각이 들어 자연스럽다는 후기가 많은 OO 립스틱을 구매했습니다.   우선 디자인부터 넘 마음에 들더라고요. 요즘에 립스틱을 자주 안사봤는데,  원래 이렇게 디자인이 이쁘게 나오나요?? 한번 발라보니 너무나도 부드럽게 잘 발려요. 향도 거부감없이 괜찮아요. 매트한데도 이정도면 만족스럽습니다.  요즘 립스틱은 바르면 너무 눈에 띈다는 생각을 많이 하는데, 이 립스틱 색상은 튀지 않아서 너무 좋아요.  그리고 네추럴함과 지적임을 표현해줄 수 있는 색상이고, 제형이 부드럽고 뭉치지도 않아요.  화장을 안하고 이걸 발라도 입술만 동동 떠보이지 않으며, 향도 너무 좋네요.  확실히 피부톤도 밝아보이고 생기있어보이는 자연스러운 느낌이 좋았습니다.   저는 좀 어두운 톤인데 밝은 피부톤인 분들한테 더 잘 어울릴 거 같아요.  마스크에 잘 묻어나지 않는 편이니 한번 관심있는 분들은 사용해보세요",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 에** 립스틱 3.5g ",
+    "Syllable": "527",
+    "Word": "120",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인부터 넘 마음에 들더라고요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "원래 이렇게 디자인이 이쁘게 나오나요??",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "너무나도 부드럽게 잘 발려요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 거부감없이 괜찮아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "매트한데도",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상은 튀지 않아서 너무 좋아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "네추럴함과 지적임을 표현해줄 수 있는 색상이고,",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 부드럽고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "뭉치지도 않아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 너무 좋네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026172",
+    "RawText": "최근에 직장 동료가 해외 나갔다오면서 OO 립밤을 선물 했는데요.  워낙 유명한 제품이라 너무 기분이 좋아 재빨리 사용해봤습니다.   OO는 오리지날이 가장 유명하죠.  저는 이번에 석류향을 선물받아 써봤는데, 좀 특이한데 향은 마음에 듭니다.  향은 너무 좋지만 발림성은 좀 떨어지는 것 같아요.  한 번 바를 때 떡칠 정도는 해줘야 발랐구나라는 느낌이 납니다.  매트한 느낌이라고 하면 좀 이해가 가시려나요.  그래도 촉촉한 느낌은 없지만 바른 만큼 보습이 되긴 합니다.  자주 덧발라줘야하는 건가 싶기도 하고 좀 귀찮긴 하네요.  발색은 거의 없어서, 립스틱은 따로 발라야겠는데 그냥 보습력 좋은 틴트 하나만 발라도 될 것 같습니다.   유명하다고 제 마음에 다 쏙 드는 것 같지는 않네요.  향은 제 마음에 드는데 발림과 보습력은 쏘쏘였습니다.  ",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 모** 립 밤 4.25g ",
+    "Syllable": "422",
+    "Word": "103",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "석류향을 선물받아 써봤는데, 좀 특이한데 향은 마음에 듭니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향은 너무 좋지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성은 좀 떨어지는 것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "한 번 바를 때 떡칠 정도는 해줘야 발랐구나라는 느낌이 납니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "매트한 느낌이라고 하면 좀 이해가 가시려나요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "촉촉한 느낌은 없지만 바른 만큼 보습이 되긴 합니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "발색은 거의 없어서,",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향은 제 마음에 드는데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림과 보습력은 쏘쏘였습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "보습력은 쏘쏘였습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "1026173",
+    "RawText": "저는 멜라닌색소 부족으로 눈밑 색소침착이 심한 편에다 볼옆에도 색소침착된 부분이 있는데요. 항상 이부분을 자연스럽게 가리고 싶은데 파운데이션을 써도 쿠션을 써도 잘 안가려졌어요. 그 와중에 커버력 좋다는 OO의 OOO 쿠션 파운데이션을 알게되었습니다.   이걸 바르면 점은 조금 보여도, 색소 침착된 부분을 감쪽 같이 가려줬어요. 기초화장도 안된 상태에서 발랐는데 바르고 손가락으로 두드려주니 피부가 엄청 좋아보였어요. 바른김에 마스크도 써봤는데, 조금 묻긴합니다.  그래도 촉촉한 보습력과 과한 유분을 잡아주면서 잡티까지 가려주니 이 OOO 쿠션을 톡톡  몇번 두드려주면 울통불통한 피부결을 매끈하게 표현해줘서 넘 마음에 듭니다.  저는 쿠션을 메인으로 사용하기 때문에 이정도 수분감과 커버력이면 꾸준히 쓸 수 있을 것 같아요.   이 제품은 가급적 얇게 여러번 도포하는 것이 피부를 매끈하게 표현하는데 도움을 주니,  쿠션을 사용할 때 참고하셨으면 좋겠습니다.",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 클** 쿠션 파운데이션 본품 15g ",
+    "Syllable": "483",
+    "Word": "109",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "커버력",
+        "SentimentText": "점은 조금 보여도, 색소 침착된 부분을 감쪽 같이 가려줬어요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "바르고 손가락으로 두드려주니 피부가 엄청 좋아보였어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "밀착력/접착력",
+        "SentimentText": "마스크도 써봤는데, 조금 묻긴합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "촉촉한 보습력과",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "과한 유분을 잡아주면서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "잡티까지 가려주니",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "울통불통한 피부결을 매끈하게 표현해줘서 넘 마음에 듭니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "이정도 수분감과 커버력이면 꾸준히 쓸 수 있을 것 같아요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "커버력이면 꾸준히 쓸 수 있을 것 같아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026174",
+    "RawText": "저는 여러 브랜드의 속눈썹을 사용해봤는데요. OO 이 속눈썹이 저한테는 잘 맞는 속눈썹에 속해요. 가볍고 자연스럽게 붙거든요.   OO 속눈썹은 눈썹대가 가는 디자인이라 자연스럽게 잘 붙어요.  다른 거는 붙이기 짜증나고 잘라야 잘 붙여지고 그런데 이거는 자르지 않아도 길이가 딱 맞고, 너무 쉽게 잘 붙여집니다.  디자인도 예쁘고 튼튼하고 사용하기 편합니다.  매일 매일 속눈썹을 붙여도 쓰는데 불편함이 전혀 없었어요.  약간 속눈썹 연장한 느낌이 난다고 할까요. 진짜 속눈썹이 길어보입니다.  하지만 가는만큼 속눈썹이 풍성하다는 느낌은 좀 부족합니다.  속눈썹을 가득 채우고 싶으신 분들은 다른 제품을 찾는 게 나을 것 같아요.   뜯을 때는 정말 살살 핀셋으로 조심히 뜯어야돼요.  안그러면 풀때기가 뭉탱이로 묻혀있게 남아서 좀 짜증나요.  속눈썹은 잘라서 쓰지 않는 이상 비슷하니 이 부분 조심해서 뜯으세요!",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 퓨** 속눈썹 4쌍  ",
+    "Syllable": "456",
+    "Word": "107",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "저한테는 잘 맞는 속눈썹에 속해요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "밀착력/접착력",
+        "SentimentText": "가볍고 자연스럽게 붙거든요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "눈썹대가 가는 디자인이라 자연스럽게 잘 붙어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "밀착력/접착력",
+        "SentimentText": "자연스럽게 잘 붙어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/두께",
+        "SentimentText": "자르지 않아도 길이가 딱 맞고,",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "너무 쉽게",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "밀착력/접착력",
+        "SentimentText": "잘 붙여집니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 예쁘고 튼튼하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기 편합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "매일 매일 속눈썹을 붙여도 쓰는데 불편함이 전혀 없었어요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026175",
+    "RawText": "요즘 얼굴도 건조하고 입도 건조하고 손도 건조해서 건조 비상 상황입니다.  OO OOO 립밤은 왠지 제주도 느낌이 강해보여 느낌이 좋다하며 구매해봤습니다.   일단 OOO 립밤은 가지고 다니기 좋게 아주 작고 귀엽게 생겼습니다.  발라보면 꿀향이 느껴지는데 불편하거나 거부감이 없어 좋아요.  립밤 제형은 입술에 부드럽게 발라졌습니다. 정말 사르르 녹는 느낌의 발림성이었어요. 바르고 나면 확실하게 보습이 되어 땡기는 느낌도 없어요.  건조할때마다 수시로 발라주면 진짜 푸석함도 없어지고 촉촉해집니다.  수분감과 지속력이 충분히 좋은 편이라 데일리 립밤으로 쓰기 좋아요.  데일리용으로 마구마구 듬뿍 쓸 거다 하면 이걸 추천드립니다. 참, 자기전에 듬뿍 바르고 다면 다음날 촉촉함이 느껴집니다. 기분이 아주 좋답니다.  한 번 해보세요~",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 유** 립밤 ",
+    "Syllable": "412",
+    "Word": "93",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "가지고 다니기 좋게 아주 작고 귀엽게 생겼습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "꿀향이 느껴지는데 불편하거나 거부감이 없어 좋아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "입술에 부드럽게 발라졌습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "사르르 녹는 느낌의 발림성이었어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "확실하게 보습이 되어 땡기는 느낌도 없어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "건조할때마다 수시로 발라주면 진짜 푸석함도 없어지고 촉촉해집니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "푸석함도 없어지고 촉촉해집니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "수분감과 지속력이 충분히 좋은 편이라",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력이 충분히 좋은 편이라",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "데일리 립밤으로 쓰기 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026176",
+    "RawText": "최근 화장품 가게에 방문해서 OO OOO 쿠션을 사용해봤는데요. 이게 색상이 제 피부색이랑 잘맞고 화사해보여 아주 만족스럽더라고요. 그래서 현장에서 바로 구매했습니다.   구매하고 지속적으로 사용해보니 정말 잘 샀다는 생각이 들었어요. 쓸수록 제 피부에 착 맞는 쿠션이었어요. 저는 밝은 21C를 구매했는데요.  확실히 핑크 느낌 나는 밝은 톤이 화사하고 좋더라고요. 색상이 화사하고 쿨톤 느낌으로 화장할 때 딱인 것 같아요.  한손에 쏙 들어오는 사이즈에 민트색 케이스도 이뻐서 가지고 다니기 좋고요.  바른지 장시간 지나도 이쁘게 무너지고 끼임 현상도 전혀 없어서 살짝만 수정해주면 되더라고요. 다만 시간이 지나면 좀 건조해서 각질이 올라와서 쿠션 전에 보습을 꼼꼼히 한 후에 사용해야 할 것 같아요.   요즘 같은 추운 겨울보다는 여름에 사용하면 더 좋을 것 같은 OO 쿠션이었어요.  참, 마스크 묻어남은 코에 살짝 묻어나는 거 빼고는 없었습니다. 이 부분은 좋은 것 같아요",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 네** 쿠션 파운데이션 15g ",
+    "Syllable": "493",
+    "Word": "120",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 제 피부색이랑 잘맞고 화사해보여 아주 만족스럽더라고요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "제 피부에 착 맞는 쿠션이었어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "핑크 느낌 나는 밝은 톤이 화사하고 좋더라고요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 화사하고 쿨톤 느낌으로 화장할 때 딱인 것 같아요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/두께",
+        "SentimentText": "한손에 쏙 들어오는 사이즈에",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "민트색 케이스도 이뻐서 가지고 다니기 좋고요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "장시간 지나도 이쁘게 무너지고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "끼임 현상도 전혀 없어서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "시간이 지나면 좀 건조해서 각질이 올라와서",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "밀착력/접착력",
+        "SentimentText": "마스크 묻어남은 코에 살짝 묻어나는 거 빼고는 없었습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026178",
+    "RawText": "마스카라는 바르면 이쁘지만 지울때는 박박 문질러야 하는게 너무 귀찮고 버거울때 많으시죠? 저는 워터프루프 마스카라를 사용했었는데 이게 너무 지우기가 너무 힘들어서  워셔블로로 찾고 있었어요. 그러던 중 OO OOO 마스카라를 발견했습니다.   일단 발리는 건 엄청 잘 발리네요. 고정도 잘되고요.  시간이 지나면 눈썹은 좀 내려오지만 눈시림도 없고, 다음날 눈꼽 끼는 것도 없었습니다.  영양도 준다는데, 그건 몇 번쓴다고 느껴지진 않는 것 같아요.  그리고 저는 기름이 많이 올라오는 피부인데도 땀이 흘러도 팬더가 되지 않아 좋아요.  물에도 슉 닦이니 눈썹이 빠지지도 않고요. 물론 클린징이 너무 잘 지는 부분이 가장 마음에 들었어요.  근데 가끔 가루입자가 떨어지는 부분은 좀 걸리네요. 양도 좀 적고요.  그래도 마스카라를 지우느라 클렌징 오일을 써야하니 돈, 시간 들고 눈아프고  진짜 고생이 많았는데  진짜 편하네요.   저처럼 이 마스카라 지우는데 온 힘을 쏟는게 너무 너무 싫은 사람은 이 워셔블 마스카라가  정말 잘맞는 거 같아요 한번 사용해보세요!  ",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 홈** 워셔블 마스카라 7g ",
+    "Syllable": "542",
+    "Word": "130",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발리는 건 엄청 잘 발리네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "고정도 잘되고요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "시간이 지나면 눈썹은 좀 내려오지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "눈시림도 없고, 다음날 눈꼽 끼는 것도 없었습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "영양도 준다는데, 그건 몇 번쓴다고 느껴지진 않는 것 같아요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "땀이 흘러도 팬더가 되지 않아 좋아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "밀착력/접착력",
+        "SentimentText": "팬더가 되지 않아 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "물에도 슉 닦이니",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "클린징이 너무 잘 지는 부분이 가장 마음에 들었어요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "밀착력/접착력",
+        "SentimentText": "가끔 가루입자가 떨어지는 부분은 좀 걸리네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1026179",
+    "RawText": "애 낳고 아줌마가 되니 기미, 잡티, 다크써클만 늘어나니 기분이 우울하네요. 이런 걸 다 가릴 수 있는 게 컨실러밖에 더 있나요. 그래서 이번에 마법 스틱 컨실러라 불리는 OO OOO 컨실러를 구매해봤습니다.   펜 타입으로 휴대하기 가 간편하고 오토타입이라 언제 어디서나 간편하게 사용할 수 있어요.  워터프루프 기능이 있어 그런지 습한 날이나 땀을 흘려도 뭉침없이 지속됩니다.   커버력으로 유명한 OO 컨실러라 커버는 의심을 안했는데요. 색상이 다소 어둡다는 점은 아쉽지만 밀착력이랑 커버력은 마음에 듭니다.   점을 가리고 싶거나 기미 주근깨가 많아 커버할 점이 많은 분들은 OO 컨실러 추천해드립니다. 피부의 단점을 잘 가려줘서 환해보이고 깨끗해 보여 좋네요.",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 매** 컨실러 0.9 g  ",
+    "Syllable": "374",
+    "Word": "89",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "펜 타입으로 휴대하기 가 간편하고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "오토타입이라 언제 어디서나 간편하게 사용할 수 있어요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "워터프루프 기능이 있어 그런지 습한 날이나 땀을 흘려도 뭉침없이 지속됩니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "뭉침없이",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 다소 어둡다는 점은 아쉽지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "밀착력/접착력",
+        "SentimentText": "밀착력이랑 커버력은 마음에 듭니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "커버력은 마음에 듭니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "커버할 점이 많은 분들은 OO 컨실러 추천해드립니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "피부의 단점을 잘 가려줘서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "환해보이고 깨끗해 보여 좋네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026180",
+    "RawText": "평소에 OO 제품을 많이 사용하는데요. 그 중에 컨실러도 괜찮을까 싶어 이번에 처음 컨실러도 구입해봤습니다.   저는 홍조끼가 있어 볼 쪽에는 컨실러를 꼭 발라야합니다. 쿠션 팩트를 얇게 두드린 후 볼에 컨실러를 바르면 뽀샤시한 피부가 완성되요. OO의 컨실러도 커버력이 좋겠지 하고 기대했는데 기대만큼은 못하네요. OO OOO 컨실러는 얇게 발려서 그런지 커버력이 좀 약하네요. 여러번 덧발라야 효과가 나옵니다. 근데 너무 많이 바르면 무슨 호빵 같은 피부톤이 되네요.   저처럼 홍조 있으신 분들이나 기미가 있어 컨실러의 커버를 중요시 하는 분들에겐 비추입니다. 화장을 한듯 안한듯 연한 피부톤 화장을 선호하시는 분들이 사용하시면 좋을 것 같아요.",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 블** 커버 컨실러 5.5g",
+    "Syllable": "364",
+    "Word": "87",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "커버력",
+        "SentimentText": "커버력이 좋겠지 하고 기대했는데 기대만큼은 못하네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "얇게 발려서 그런지",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "커버력이 좀 약하네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "여러번 덧발라야 효과가 나옵니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "너무 많이 바르면 무슨 호빵 같은 피부톤이 되네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "컨실러의 커버를 중요시 하는 분들에겐 비추입니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "화장을 한듯 안한듯 연한 피부톤 화장을 선호하시는 분들이 사용하시면 좋을 것 같아요.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026181",
+    "RawText": "이마에 제가 점이 있는데 앞머리 잔머리 펌하고 이마를 드러내려고 OO OOO 컨실러를 구입해 사용해봤습니다.   컨실러 오픈 했을때 입구가 오염되지 않도록 디자인이 되어있는 점 좋았습니다.  제형은 크리미 타입인데, 바르면 보송보송 해집니다. 발림성은 나쁘지 않고 밀착력이 좋아 피부에 끼이거나 뭉치는 현상은 없어요. 바르고 땀흘릴 일은 없어서 워터프루프 기능까지는 있는지 모르겠는데 건성인 저에게는 지속력이 괜찮았어요.  컨실러보다는 파운데이션 느낌이 강하고요. 피부가 하얀편인데 컨실러 색이 좀 누렇네요.   작은 기미 정도 가려질 것 같습니다. 아까우니 비비랑 섞어 사용하면 제 점도 가려지겠죠?",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 더** 크리미 컨실러 5.6g ",
+    "Syllable": "336",
+    "Word": "75",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "입구가 오염되지 않도록 디자인이 되어있는 점 좋았습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형은 크리미 타입인데,",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "바르면 보송보송 해집니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성은 나쁘지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "밀착력/접착력",
+        "SentimentText": "밀착력이 좋아",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "피부에 끼이거나 뭉치는 현상은 없어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "피부타입",
+        "SentimentText": "건성인 저에게는 지속력이 괜찮았어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력이 괜찮았어요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "피부가 하얀편인데 컨실러 색이 좀 누렇네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "작은 기미 정도 가려질 것 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "1026182",
+    "RawText": "요즘 운전하는 일이 더 많아지는데 그래서 그런지 기미가 계속 생기네요. 관리받으러 다닐 시간도 업서서 급한대로 컨실러로 가려주려고 OO OOO 컨실러를 구매했습니다.   작고 가벼운 용량이라 좋아요. 가방안에 쏙 넣고 다니다가 수정화장이 필요한 순간 활용하기 좋아요. 기미가 완벽하게 가려지진 않지만 멀리서 보면 잡티없이 뽀얗게 보이는 정도의 커버력입니다. 색상도 밝아서 얼굴톤이 밝아지는 것 같아요. 밀착도 잘되고 뭉침이나 들뜸은 없는 편입니다. 시간이 지나 화장이 무너져도 컨실러를 바른 부위는 조금 더 오래 톤을 유지시켜 줍니다.   전에 사용했던 제형이 좀 묽어서 표현이 잘 안되었는데, OO는 자연스럽게 커버도 되고 컨실러 하고 안하고의 차이가 컸습니다. 소량씩 콕콕 찍어서 사용하면 되서 은근 오래 사용할 것 같아요.  ",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 더** 크리미 컨실러 5.6g ",
+    "Syllable": "409",
+    "Word": "97",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/두께",
+        "SentimentText": "작고 가벼운 용량이라 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/개수",
+        "SentimentText": "가벼운 용량이라 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "가방안에 쏙 넣고 다니다가 수정화장이 필요한 순간 활용하기 좋아요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "기미가 완벽하게 가려지진 않지만 멀리서 보면 잡티없이 뽀얗게 보이는 정도의 커버력입니다.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 밝아서 얼굴톤이 밝아지는 것 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "얼굴톤이 밝아지는 것 같아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "밀착력/접착력",
+        "SentimentText": "밀착도 잘되고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "뭉침이나 들뜸은 없는 편입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "들뜸은 없는 편입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "컨실러를 바른 부위는 조금 더 오래 톤을 유지시켜 줍니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026183",
+    "RawText": "제 동생이 해외를 자주 나가는데, 이건 언니에게 딱이라며 OO OOO 립스틱을 선물해 주었습니다. 얼마나 괜찮길래 그러나 호기심에 얼른 사용해봤습니다.   립밤없이 바로 입술에 올렸더니 딱 알맞게 매트하게 올라갑니다.  근데 보통 립스틱 바를 때 립밤을 바른 후 올리는데 이건 립밤 위에 바르면 제형이 너무 묽어지더라고요. 이 제품의 제형은 립밤을 바르지 않고 바르는 게 나을 것 같아요. 립스틱 제형 자체가 묽어서 그런 것 같아요. 그래도 매트하게 발려서 마음에 듭니다.  색상은 정말 제가 딱 원하던 그 색상입니다. 살짝 더 오렌지 빛이 도는 걸 원했지만 레드와오렌지 색이 적당히 가미돼서  너무 에쁘네요.  향은 초콜릿향이 나서 달달한 기분이 듭니다.   한 번 바르고 나니 OO 제품도 괜찮네 라는 생각이 듭니다.  OO 립스틱도 계속 구매해서 바르고 다닐 생각이에요.",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 컬** 립스틱 3.97g ",
+    "Syllable": "434",
+    "Word": "109",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "딱 알맞게 매트하게 올라갑니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "립밤 위에 바르면 제형이 너무 묽어지더라고요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "이 제품의 제형은 립밤을 바르지 않고 바르는 게 나을 것 같아요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "립스틱 제형 자체가 묽어서 그런 것 같아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "매트하게 발려서 마음에 듭니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상은 정말 제가 딱 원하던 그 색상입니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "레드와오렌지 색이 적당히 가미돼서  너무 에쁘네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향은 초콜릿향이 나서 달달한 기분이 듭니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026184",
+    "RawText": "립은 레드만 고집하는데, 색상이 넘 이쁘다는 평이 많아 이번에 OO OOO 립스틱을 구매해봤습니다.   OOO제품 색상이 립스틱만 쓰는 저로써는 좋은 제품인 것 같아요.  발색이 너무 예쁘게 됩니다.  케이스도 굉장히 매트한 느낌으로 깔끔합니다.  케이스는 매트해 보이지만 제품은 부드럽고 촉촉한 느낌으로 발려지는 반전이 재밌습니다.  겨울이라 그런지 입술에 각질도 많이 생기고 했는데 이걸 바르면 끼임도 없이 잘 유지돼서 좋네요.  지속력과 발색력이 좋은 OO 립스틱입니다.   립스틱 바르고 마스크 쓰는 게 아쉬울 정도에요.  빨리 마스크 벗고 예쁜 립스틱 바르고 외출하는 날이 왔으면 좋겠어요.",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 프** 립스틱 4g",
+    "Syllable": "335",
+    "Word": "77",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 립스틱만 쓰는 저로써는 좋은 제품인 것 같아요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "발색이 너무 예쁘게 됩니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "케이스도 굉장히 매트한 느낌으로 깔끔합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "케이스는 매트해 보이지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "제품은 부드럽고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "촉촉한 느낌으로 발려지는",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "끼임도 없이 잘 유지돼서 좋네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "잘 유지돼서 좋네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력과 발색력이 좋은",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "발색력이 좋은",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026185",
+    "RawText": "OO OOO 컨실러는 개인적으로 사용해보고 싶었었는데, 가격대가 있어 망설이다가 이번에 세일해서 가격이 조금 내렸기에 서둘러 구매했습니다.   이런 딱딱한 제형의 컨실러가 작은 잡티를 커버하기엔 좋은데 건조한 그런 제형으로 나오는 것들은 촉촉한 피부상태일 때는 잘 안되어 불편했는데 이건 촉촉할때 커버도 잘 되고 매트할때도 잘 되는 것 같아요. 그리고 컬러도 딱 많이 쓰는 컬러들로만 구성되어 있어서 좋고 작아서 휴대하기도 편하네요. 그런데 촉촉한 편이라 그런지 커버하고 유지력을 높이기 위해 파우더를 얹을 때 힘조절을 잘 못하면 바른 게 벗겨집니다.   하지만 다크서클을 가리기에는 조금 약한 것 같습니다. 얇거나 미세한 잡티는 잘 가려주는데 팬더를 커버해주기는 부족한 부분이 있어 다른 컨실러랑 섞어서 사용해야겠어요.",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 블** 컨실러 6.4g ",
+    "Syllable": "403",
+    "Word": "95",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대가 있어 망설이다가",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "세일해서 가격이 조금 내렸기에 서둘러 구매했습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "이런 딱딱한 제형의 컨실러가 작은 잡티를 커버하기엔 좋은데",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "촉촉할때 커버도 잘 되고 매트할때도 잘 되는 것 같아요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "컬러도 딱 많이 쓰는 컬러들로만 구성되어 있어서 좋고",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "작아서 휴대하기도 편하네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "촉촉한 편이라 그런지",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "힘조절을 잘 못하면 바른 게 벗겨집니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "다크서클을 가리기에는 조금 약한 것 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "얇거나 미세한 잡티는 잘 가려주는데",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026186",
+    "RawText": "컨실러를 많이 사용해봤는데, 저한테는 들드거나 뭉치는 게 좀 지저분해 보이더라고요. 그래서 다크랑 홍조만 가려보려고 주황빛과 그린 빛을 찾던 중 딱 맞는 제품을 발견해 OO OOO 컨실러를 구매했습니다.   임신 중이라 얼굴이 칙칙해서 그런지 다크를 안 가리면 못 나가는데요. 이 다크를 가려주는 용으로 딱인 것 같아요. 사용해보니 제형이 엄청 크리미하면서 발림성도 좋고요.  지속력 갑에 들뜸도 없고 뭉침없이 커버가 잘 되네요.  색상별로 여러가지라 그때 그때 맞춰서 사용하기 좋아요.  단 붓으로 발라야지 손으로 바르면 뭉침이 좀 있으니 참고하시기 바랍니다.   제 친구들에게도 이거 구매해보라고 추천했어요.  여러 기능 있는 컨실러를 찾으신다면 OO OOO 컨실러 추천드려요~",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 올** 팔렛트 컨실러 6g ",
+    "Syllable": "381",
+    "Word": "89",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "주황빛과 그린 빛을 찾던 중 딱 맞는 제품을 발견해",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "다크를 가려주는 용으로 딱인 것 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 엄청 크리미하면서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성도 좋고요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력 갑에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "들뜸도 없고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "뭉침없이",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "커버가 잘 되네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상별로 여러가지라 그때 그때 맞춰서 사용하기 좋아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "붓으로 발라야지 손으로 바르면 뭉침이 좀 있으니",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "1026187",
+    "RawText": "남자친구가 컨실러 같은 거 뭐가 좋냐고 물어봐서  편하게 바를 수 있는 걸 찾다가 발견한 OO OOO커버스틱입니다. 제 남친은 화장을 한적이 없는데 갑자기 찾아서 쉬운 걸로 찾아줬어요.   동그란 스틱이라 밑에서 가볍게 돌린 다음 커버 하고 싶은 부분에 쓱 바르면 되는 거라 사용법이 무척 간편합니다. 손을 댈 필요 없이 그냥 쓱쓱 바르기만 하면 돼요.  색상은 따로 호수 선택이 없어서 너무 밝거나 어둡지는 않을까 걱정했는데 스킨 색상과 비슷한 색상이라 자연스럽게 쓸 수 있어요.  커버 기능만 있는 게 아니라 자외선 차단이 되는 커버 스틱이라 선크림을 바르지 않고 이것만 사용해도 될 것 같아요.   제 남친이 왜 컨실러를 찾나 궁금했는데, 면접 때 깔끔하게 보이고 싶어서라고 하더라고요. 마이너스 되는 부분을 보정해주는데 아주 신속하게 해결되는 게 남친도 마음에 들어합니다.",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 슈퍼** 커버스틱 18g ",
+    "Syllable": "436",
+    "Word": "111",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용법이 무척 간편합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "손을 댈 필요 없이 그냥 쓱쓱 바르기만 하면 돼요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상은 따로 호수 선택이 없어서 너무 밝거나 어둡지는 않을까 걱정했는데",
+        "SentimentWord": "10",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "스킨 색상과 비슷한 색상이라 자연스럽게 쓸 수 있어요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "커버 기능만 있는 게 아니라 자외선 차단이 되는 커버 스틱이라",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "선크림을 바르지 않고 이것만 사용해도 될 것 같아요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "아주 신속하게 해결되는 게",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "자외선 차단이 되는 커버 스틱이라",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026189",
+    "RawText": "제 피부는 쿨톤이라 핑크 립스틱 아니면 거의 맞지 않는데요. 예뻐서 구매하면 실패가 많아 의외로 맞는 핑크색을 찾지가 쉽지 않아 테스트를 거쳐 구매하는데 OO OOO 립스틱이 괜찮아 보여 구매했습니다.   레드에 가까운 핑크입니다. 테스트 했을때와 집에와서 다시 발라보니 느낌이 좀 다르네요.  그래도 비비드한 매트립 치고는 발림성이 좋고, 진하게 아님 찍듯이 바르면 좀 더 연하게 표현 됩니다. 각질 부각없이 잘 발리는 게 좋았어요.  하지만 립스틱이 다들 그렇겠지만 종이컵 살짝 닿아도 잘 묻어나고요. 뭐 마시거나 하면 바로 지워지네요.   정말 색이 안맞으면 잘 못바르는데 그래도 이건 진한 핑크에 가까워서 바를만 합니다.  한번 바르고 티슈로 한번 입술을 찍어내고 마스크를 쓰면 좀 덜 묻어나니 참고하세요~",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 뉴** 매트 립스틱 1.7g",
+    "Syllable": "399",
+    "Word": "98",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "레드에 가까운 핑크입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성이 좋고,",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "진하게 아님 찍듯이 바르면 좀 더 연하게 표현 됩니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "각질 부각없이 잘 발리는 게 좋았어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "밀착력/접착력",
+        "SentimentText": "종이컵 살짝 닿아도 잘 묻어나고요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "뭐 마시거나 하면 바로 지워지네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "진한 핑크에 가까워서 바를만 합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "밀착력/접착력",
+        "SentimentText": "티슈로 한번 입술을 찍어내고 마스크를 쓰면 좀 덜 묻어나니",
+        "SentimentWord": "9",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "1026191",
+    "RawText": "코로나로 인해 화장할일이 없어서, 장시간 화장을 안했더니 화장품 유통기한이 다 지나버렸네요. 그 중 립스틱도 쓸게 없어서 뭘 구매해볼까 찾아보다가 OO OOO 립스틱의 여리한 복숭아 색이 마음에 들어 구매해봤습니다.   OO 립스틱을 발라보면 뽀송하지는 않고 촉촉해요.  겨울이라 너무 건조한데, 립스틱치고는 매트보다는 촉촉한 느낌이라 괜찮은 거 같아요.  각질 부각없이 잘 발리는 것도 마음에 듭니다.  발색도 선명하게 발려서 진하게 잘 발리네요. 색상도 이뻐요.  끼임이나 밀림도 없고, 갑자기 구매한 것 치고는 꽤나 마음에 듭니다.   건조한 느낌이 없는 립스틱이라 겨울에 찰떡인 것 같아요.  매트한 느낌이 싫으신 분들께 추천드립니다.",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 글** 터치 립스틱 3g",
+    "Syllable": "359",
+    "Word": "82",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "여리한 복숭아 색이 마음에 들어",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "뽀송하지는 않고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "촉촉해요.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "겨울이라 너무 건조한데, 립스틱치고는 매트보다는 촉촉한 느낌이라 괜찮은 거 같아요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "매트보다는 촉촉한 느낌이라 괜찮은 거 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "각질 부각없이 잘 발리는 것도 마음에 듭니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "발색도 선명하게 발려서 진하게 잘 발리네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 이뻐요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "끼임이나 밀림도 없고,",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "건조한 느낌이 없는 립스틱이라",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026193",
+    "RawText": "OO OOO 립스틱 제품은 처음인데요. OOOO 광고보고 궁금해서 구매해봤습니다.  사실 테스트를 미리 못해봐서 좀 불안하긴 해봤지만 시험삼아 사봤습니다.   색상은 예상했던 가을립이었습니다. 대신 안에 오렌지 발색이 덜 묻혀서 안쪽만 또 따로 다른 컬러를 발라야 제가 원하던 그 발색이 나오네요. 투톤 발색의 의미는 그렇게 없는 거 같아요.  발색은 좋은 편이지만 발림이 뻑뻑해서 각질 부각이 있는 부분은 좀 아쉽습니다.  지속력은 립스틱 제형이라 그런지 금방 지워집니다.  OOOO 광고로 샀지만 뭔가 좀 아쉬운 부분이 많네요. 그래도 가을겨울철에 짧게 쓸만은 합니다. 개인적으로 가을웜톤분들에게 이 색상 추천드립니다.   그리고 립스틱 아끼지 않고 막 쓰시는 분들에게 막가지고 다니기는 좋을 것 같아요.  입술이 건조하고 각질이 많은 분들에게는 비추입니다.",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 투** 립스틱 3.4g  ",
+    "Syllable": "426",
+    "Word": "98",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상은 예상했던 가을립이었습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "안에 오렌지 발색이 덜 묻혀서 안쪽만 또 따로 다른 컬러를 발라야 제가 원하던 그 발색이 나오네요.",
+        "SentimentWord": "16",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "투톤 발색의 의미는 그렇게 없는 거 같아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "발색은 좋은 편이지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림이 뻑뻑해서 각질 부각이 있는 부분은 좀 아쉽습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력은 립스틱 제형이라 그런지 금방 지워집니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "립스틱 제형이라 그런지 금방 지워집니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "가을겨울철에 짧게 쓸만은 합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "가을웜톤분들에게 이 색상 추천드립니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "막가지고 다니기는 좋을 것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026194",
+    "RawText": "기분이 우울한 날에 립스틱 색을 바꾸면 전환이 좀 되죠.  좀 기분이 안좋았던 날 OO OOO 립스틱 119호를 구매해서 발라봤는데, 기분이 상쾌해지더라고요~   OO 119호 립스틱 컬러는 흰종이에 얹었을때는 짙은 레드지만 피부 위에 올렸을 땐 오렌지 빛이 약간 도는 레드입니다. 이 컬러는 웜톤 쿨톤 상관없이 여러피부에 두루 두루 어울리는 호불호 없는 컬러 같아요. 그래서 선물용으로도 좋을 것 같습니다.  일반 매트 립스틱은 건조한 날씨에 더더욱 쩍쩍 갈라지는 느낌이라면 이 OO OOO 립스틱은 완전 매트하진 않지만 대신 촉촉하면서도 밀착력은 우수하네요.  오전에 바르고 수정화장 없이 오후까지 멀쩡한 걸 보니 지속력도 꽤 긴 것 같아요.  립스틱 디자인도 너무 예쁘게 바르는 부분이 작게 되어 있어 입꼬리 부분까지 깔끔하게 바를 수 있도록 디자인 되어 있어 너무 좋습니다.   이쁜 립스틱 케이스가 너무 고급스러워서 가방에서 꺼낼 때도 좋습니다.  사무실에서 컴퓨터 앞에 세워두면 사람들이 이거 뭐냐고 많이 묻더라고요.  특이한 케이스라 시선이 많이 주목되는 것 같아요.",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 루** 매트 립스틱 3g ",
+    "Syllable": "548",
+    "Word": "134",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "발색력",
+        "SentimentText": "피부 위에 올렸을 땐 오렌지 빛이 약간 도는 레드입니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "웜톤 쿨톤 상관없이 여러피부에 두루 두루 어울리는 호불호 없는 컬러 같아요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "완전 매트하진 않지만 대신 촉촉하면서도",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "밀착력/접착력",
+        "SentimentText": "밀착력은 우수하네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "오전에 바르고 수정화장 없이 오후까지 멀쩡한 걸 보니 지속력도 꽤 긴 것 같아요.",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "립스틱 디자인도 너무 예쁘게 바르는 부분이 작게 되어 있어",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "입꼬리 부분까지 깔끔하게 바를 수 있도록 디자인 되어 있어 너무 좋습니다.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "이쁜 립스틱 케이스가 너무 고급스러워서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "특이한 케이스라 시선이 많이 주목되는 것 같아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026195",
+    "RawText": "립밤은 색상 없는 걸 쓰고 있었는데 좀 색조 있는 걸 쓰고 싶어서 찾다가 이거다 싶어 OO OOO 립밤을 구매했습니다.  일단 발림성은 너무 부드러워 마음에 들었습니다.  색은 생각보다 어둡고 붉은 것 같지만 나쁘지 않았습니다.  생각보다 색이 진하다고 생각하시면 될 거 같아요.  향은 달달한 초코향이 나는데, 달콤한 향에 거부감이 있다면 피하셨으면 좋겠어요.  바른 직후는 촉촉한데 보습력이 그리 오래 가지는 않는 것 같아요.  시간이 지나면 조금 건조해져서 립밤을 다시 바르게 되네요.  이 립밤을 다시 바르기엔 색이 너무 진해질 거 같아요.  그래도 심하게 건조하거나 뜨는 건 아니고 바르기도 쉬워서 손이 자주 갑니다.   참, 생얼에 자신있는 분들에게 추천드립니다. 쌩얼에 이걸 바르면 얼굴 혈색도 좋아보이고 여러모로 활용하기 좋은 것 같아요~",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 블** 립밤 ",
+    "Syllable": "421",
+    "Word": "104",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성은 너무 부드러워 마음에 들었습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색은 생각보다 어둡고 붉은 것 같지만 나쁘지 않았습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "생각보다 색이 진하다고 생각하시면 될 거 같아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향은 달달한 초코향이 나는데, 달콤한 향에 거부감이 있다면 피하셨으면 좋겠어요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "바른 직후는 촉촉한데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "보습력이 그리 오래 가지는 않는 것 같아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "시간이 지나면 조금 건조해져서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "건조해져서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "다시 바르기엔 색이 너무 진해질 거 같아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "심하게 건조하거나 뜨는 건 아니고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "1026198",
+    "RawText": "저는 요즘 매트 립스틱에 푹 빠져있습니다.  OO 색조화장품이 유명하다고 해서 이번엔 OO OOO 매트립스틱을 사용해봤습니다.   매트 립스틱답게 바르고나면 보송보소하게 마무리가 되는데 보통 다른 매트 립스틱은 바르고 나서 조금 지나면 각질 부각이 심해지는 경우도 있는데 역시 OO 매트 립스틱은 건조로 인한 각질 부각이 전혀 없었어요. 당연히 주름끼임도 전혀 없고요.  발색도 진하고 예쁘게 되어서 한번만 발라도 예쁜 맑은 레드 컬러가 잘 살아 올라오고요. 매트 립스틱이다 보니 유지력도 완전 좋아요.  마스크 쓰고 음료 마시려고 빨대를 빨아도 그대로라 덧바르지 않아줘도 돼서 거울을 자주 보는 일도 많이 줄었습니다. 마스크에 안묻는 게 정말 신세계에요. 뽀송한 파우더 같이 안 묻어나요.  똥손도 쓰기 편해서 대충 슥삭슥삭 그리듯이 발라주면 되고 그라데이션 하듯 안쪽부터 진하게 살살 연하게 힘빼면서 그리면 자연스럽게 입술이 잘 표현되더라고요. 틴트 보다는 훨씬 사용하기 쉬운 것 같아요. 립스틱을 자연스럽게 바르기 어렵다면 아임유니 립스틱을 꼭 사용해보세요",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 웨** 매트 립스틱 3.2g ",
+    "Syllable": "538",
+    "Word": "128",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "보송보소하게 마무리가 되는데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "건조로 인한 각질 부각이 전혀 없었어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "주름끼임도 전혀 없고요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "발색도 진하고 예쁘게 되어서 한번만 발라도 예쁜 맑은 레드 컬러가 잘 살아 올라오고요.",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "유지력도 완전 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "마스크 쓰고 음료 마시려고 빨대를 빨아도 그대로라",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "밀착력/접착력",
+        "SentimentText": "마스크에 안묻는 게 정말 신세계에요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "밀착력/접착력",
+        "SentimentText": "뽀송한 파우더 같이 안 묻어나요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "똥손도 쓰기 편해서 대충 슥삭슥삭 그리듯이 발라주면 되고",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "자연스럽게 입술이 잘 표현되더라고요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026202",
+    "RawText": "요즘 피곤해서 그런지 입술이 벗겨지고 각질이 잘 생기네요.  이럴 수록 입술 잘 챙겨야죠. 색깔도 다양하게 발라보고 싶어 이번엔  OO OOO 립 크레용을 구매해봤습니다.   여러 색상을 다양하게 그라데이션으로 바를 수 있어서 좋아요.  매트한데 크래용 타입 제형이라 부드럽고 지속력도 오래가는 거 같아요.  하지만 손으로 문지르면 번져서 저처럼 입으로 손을 많이 가져가는 버릇이 있으면 손이나 입주변이 난리 납니다.  그것만 조심하고 이걸 꾸준히 바르면 입술은 촉촉해지고 기분도 좋아져요. 색상은 예상했던 색감보다 좀 어둡고 연한 쪽인데 그래도 색깔이 이쁩니다.  색도 여러가지로 다양하고 안겹치니 정말 좋습니다.   립이야 지워지면 덧바르면 되니, 묻는 건 그렇게 신경을 안쓰지만 냄새는 좀 약품 냄새 같은 게 나네요. 그런 향에 둔감하신 분이라면 오래두고 쓰셔도 무방할 것 같아요.  ",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 릴** 립크레용 4g ",
+    "Syllable": "442",
+    "Word": "105",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "여러 색상을 다양하게 그라데이션으로 바를 수 있어서 좋아요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "매트한데 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "크래용 타입 제형이라 부드럽고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력도 오래가는 거 같아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "밀착력/접착력",
+        "SentimentText": "손으로 문지르면 번져서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "입술은 촉촉해지고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상은 예상했던 색감보다 좀 어둡고 연한 쪽인데 그래도 색깔이 이쁩니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색도 여러가지로 다양하고 안겹치니 정말 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "냄새는 좀 약품 냄새 같은 게 나네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1026205",
+    "RawText": "인터넷으로 향수를 보다가 립스틱을 닮은 향수 케이스가 신기해 한번 구매해봤습니다.   OO OOO 퍼퓸은 일단 케이스부터 귀여웠어요.  돌려서 쓰는 향수 케이스는 처음이라 너무 신기했습니다.  다른 향수들은 휴대하고 다니면 액이 흐를까 노심초사했는데, 이건 휴대할 때 샐 걱정이 전혀 없고 그냥 파우치에 화장품이랑 같이 넣어 가지고 다녀도 문제가 전혀 없을 것 같아요.   실용성 좋고, 립스틱처럼 미니미니한게 귀엽습니다.  한번 뿌리면 분사력도 좋아 향이 은은하게 퍼집니다. 약간의 파우더리함과 산뜻한 꽃내음이 어우러져서 잔향까지 오래가는데, 이거 한번 뿌리고  회사를 가면 동료들이 너무 좋아합니다. 무슨 향수냐고 물어보시는 분도 계시고 이번에 향수 정말 잘 산 것 같아요.   고급스러움도 묻어나고 가지고 다니기도 편리하며 은은하게 오래지속되는 오드퍼퓸이 꽤 마음에 들었습니다. 이게 리필도 되는 거 같아서 다음엔 다른 향도 써보려고요~",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 싱** EDP ",
+    "Syllable": "471",
+    "Word": "108",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용기",
+        "SentimentText": "립스틱을 닮은 향수 케이스가 신기해 한번 구매해봤습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "케이스부터 귀여웠어요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "돌려서 쓰는 향수 케이스는 처음이라 너무 신기했습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "휴대할 때 샐 걱정이 전혀 없고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "파우치에 화장품이랑 같이 넣어 가지고 다녀도 문제가 전혀 없을 것 같아요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "실용성 좋고,",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/두께",
+        "SentimentText": "립스틱처럼 미니미니한게 귀엽습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 은은하게 퍼집니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "약간의 파우더리함과 산뜻한 꽃내음이 어우러져서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "잔향까지 오래가는데,",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026211",
+    "RawText": "OO 향수를 처음 구매해봤는데요. 저는 화장품만 사봤지 향수는 처음이라 반신반의 하면서 사용을 해봤는데, 어느 정도 만족스럽습니다.   일단 케이스가 너무 예쁘고 용량도 적당하니 딱 좋은 것 같습니다.  향은 중성적인 향이 강합니다. 남자 스킨 냄새가 나는데 거기다가 뭔가 다른 더 특이한 향이 납니다. 그래도 길 지나가다가 한번 즈음 맡아본 향이라, 그렇게 부담스러운 향은 아니더라고요.  처음 뿌렸을 때는 향이 너무 강해서 놀랐지만 시간이 지남에 따라 살의 향과 어우러지면서  묘한 향이 납니다.  무거운 향이라 가을, 겨울철에 잘 어울리는 것 같아요.  은은하게 퍼지는 향이 지속력이 꽤 긴 편입니다.  케이스도 너무 예뻐서 친구들한테 크리스마스 선물로 주기 딱인 것 같아요.   향이 강하기 때문에 수시로 자주 뿌리면 좀 부담스러울 수 있으니, 주의하시면 좋을 것 같아요. 지속력도 기니까 (향의 변화도 크지 않아요) 자주 뿌릴 필요는 없습니다",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 리** EDT ",
+    "Syllable": "476",
+    "Word": "117",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용기",
+        "SentimentText": "케이스가 너무 예쁘고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/개수",
+        "SentimentText": "용량도 적당하니 딱 좋은 것 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향은 중성적인 향이 강합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "남자 스킨 냄새가 나는데 거기다가 뭔가 다른 더 특이한 향이 납니다.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "길 지나가다가 한번 즈음 맡아본 향이라, 그렇게 부담스러운 향은 아니더라고요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "처음 뿌렸을 때는 향이 너무 강해서 놀랐지만",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "시간이 지남에 따라 살의 향과 어우러지면서  묘한 향이 납니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "무거운 향이라 가을, 겨울철에 잘 어울리는 것 같아요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "은은하게 퍼지는 향이",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력이 꽤 긴 편입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026216",
+    "RawText": "저는 원체 인터넷쇼핑을 좋아하는데, 코로나 때문에 외출을 안한지 오래되기도 했고 상쾌한 기분도 낼 겸 화장품 쇼핑을 좀 했습니다. 그 중에 OOO 컨실러라는 단어가 마음에 들어 OO OOO 컨실러를 구매했어요.   일단 크기도 휴대용으로 사용하기 딱 좋아요. 전에 컨실러를 잘 안하고 다녔을 때는 사람이 좀 칙칙해보인다는 생각을 좀 했는데, 이거 바르고 좀 칙칙한 부분을 해결한 것 같아요. 가성비로 유명한 제품이어서 궁금했는데 사용해보니까 왜 인지 딱 알겠네요. 근데 왜 다섯가지 색상이나 있어야하나 궁금하신 분들도 있을 거에요. 그린은 홍조를 보정하고 핑크는 다크서클을 보정하고 다크베이지는 컨투어링을 내추럴베이지는 잡티 커버를, 라이트베이지는 입체적인 윤곽을 살려준다고 해요. 컨실러 작업이 끝난 후 그 위에 파운데이션을 발라주면 완벽 피부 보정이 가능합니다.   발리는 것도 부드럽게 발리고 커버도 괜찮게 됩니다.  단, 컨실러만 바르면 좀 건조하기 마련이니 바르기 전에 꼭 선크림 바르고 사용하세요!",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 올** 팔렛트 컨실러 6g ",
+    "Syllable": "508",
+    "Word": "120",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "크기도 휴대용으로 사용하기 딱 좋아요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "이거 바르고 좀 칙칙한 부분을 해결한 것 같아요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비로 유명한 제품이어서 궁금했는데 사용해보니까 왜 인지 딱 알겠네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "컨실러 작업이 끝난 후 그 위에 파운데이션을 발라주면 완벽 피부 보정이 가능합니다.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발리는 것도 부드럽게 발리고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "커버도 괜찮게 됩니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "컨실러만 바르면 좀 건조하기 마련이니",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1026217",
+    "RawText": "펄 립스틱 혹시 찾으시는 분 계신가요? 저는 요즘 립스틱 중 펄라인이 댕기는데 별로 없어서 OO OOO 립스틱을 겨우 찾았어요. 이번에 OOO 핑크색을 구매했습니다.   요즘 찾기 힘든 핑크펄 립스틱이에요.  날씨가 따뜻할 때 어울릴 색상인 것 같으나 겨울에도 핑크를 고집하는 저 같은 사람에게는 딱 좋은 제품입니다.  OOO 립스틱은 연한핑크색이라 좋고요. 발색도 잘 나오고 예쁘네요.  은은하게 연하게 반짝이는 것이 입술을 도톰하게 보이게 합니다. 향은 따로 나지 않지만 바르면 좀 기름기 맛? 그런 게 느껴집니다.  오래 유지도 되고 잘 묻어나지 않네요.   근데 이게 펄이 좀 강해서 펄 느낌을 좋아하지 않는 분들은 비추입니다.  발색이 여리여리한 느낌을 주어 저는 만족합니다.",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 큐** 립스틱",
+    "Syllable": "383",
+    "Word": "94",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "요즘 찾기 힘든 핑크펄 립스틱이에요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "날씨가 따뜻할 때 어울릴 색상인 것 같으나",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "겨울에도 핑크를 고집하는 저 같은 사람에게는 딱 좋은 제품입니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "연한핑크색이라 좋고요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "발색도 잘 나오고 예쁘네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "은은하게 연하게 반짝이는 것이 입술을 도톰하게 보이게 합니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향은 따로 나지 않지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "오래 유지도 되고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "밀착력/접착력",
+        "SentimentText": "잘 묻어나지 않네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "발색이 여리여리한 느낌을 주어 저는 만족합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026219",
+    "RawText": "이번에 생일 선물로 친구에게 OO 립스틱을 선물받았습니다.  케이스도 고급스러운 게 색깔도 이뻐서 겉보기엔 마음에 들어 사용해봤습니다.    색상은 코랄컬러인데 피부에 형광등 켜주는 색상이라 어느정도는 만족했습니다.  피부를 돋보이게 해주는 색인 것 같습니다.  색상이 자연스럽게 피부와 어우러지네요.  하지만 개인적으로는 발림이 뻑뻑하다는 느낌이 들었습니다.  발림이 뻑뻑해 각질이 일어나서 다른 립글로즈랑 섞어바르면 좀 낫더라고요.  입술사이 립스틱이 낑기는 편이라 바를 때 주의해서 바르세요.   저랑은 좀 안맞는 것 같지만, 색상이 피부를 돋보이게 하고 싶으신 분들에게는 맞는 것 같아요.  각질 부각이 심하신 분들은 피하세요",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 퍼** 루즈 인텐스",
+    "Syllable": "354",
+    "Word": "76",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용기",
+        "SentimentText": "케이스도 고급스러운 게",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색깔도 이뻐서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상은 코랄컬러인데 피부에 형광등 켜주는 색상이라 어느정도는 만족했습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "피부를 돋보이게 해주는 색인 것 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 자연스럽게 피부와 어우러지네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림이 뻑뻑하다는 느낌이 들었습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림이 뻑뻑해 각질이 일어나서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "입술사이 립스틱이 낑기는 편이라",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "저랑은 좀 안맞는 것 같지만,",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 피부를 돋보이게 하고 싶으신 분들에게는 맞는 것 같아요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026237",
+    "RawText": "이번에 OO OOO 쿠션 파운데이션을 선물 받았어요.  OO 쿠션은 처음 보는데 느낌부터 좀 달랐어요.  블랙케이스가 무광으로 고급지고, 케이스 오픈 버튼도 너무 편리하게 느껴졌어요.   저는 이번에 내추럴베이지 톤을 구매했는데요.  하얗게 뜨지 않고 자연스럽게 베이지 톤으로 부드럽게 나타납니다.  커버도 주근깨나 기미정도는 안 보이고, 점은 약간 가려지는 정도입니다.  살짝 밝게 보여서 원래 이렇게 피부가 밝았나 물어보시는 분들도 계셨어요.  확실히 톤을 화사하게 해주는 것 같아요. 촉촉한 느낌은 좀 덜한 것 같아요. 아침에 화장하고 퇴근한 후 저녁에 씻을 때까지 쿠션의 효과가 유지되는 것 보면 뜨는 듯한 느낌보다는 차분하게 유지되는 것 같아요.   한듯 안한듯한 투명한 화장이 나오길 원하시면 OO도 괜찮은 것 같아요.  간단하게 톡톡 후다닥 바르고 나갈 수 있는 화장품입니다.  너무 많이 바르지 않아도 조금의 양으로 화장할 수 있어 마음에 들었습니다.  ",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 콜** 쿠션 파운데이션 15g ",
+    "Syllable": "486",
+    "Word": "115",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용기",
+        "SentimentText": "블랙케이스가 무광으로 고급지고, 케이스 오픈 버튼도 너무 편리하게 느껴졌어요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "하얗게 뜨지 않고 자연스럽게 베이지 톤으로 부드럽게 나타납니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "커버도 주근깨나 기미정도는 안 보이고, 점은 약간 가려지는 정도입니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "살짝 밝게 보여서 원래 이렇게 피부가 밝았나 물어보시는 분들도 계셨어요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "확실히 톤을 화사하게 해주는 것 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "촉촉한 느낌은 좀 덜한 것 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "아침에 화장하고 퇴근한 후 저녁에 씻을 때까지 쿠션의 효과가 유지되는 것 보면",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "뜨는 듯한 느낌보다는 차분하게",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "유지되는 것 같아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "한듯 안한듯한 투명한 화장이 나오길 원하시면 OO도 괜찮은 것 같아요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026241",
+    "RawText": "저는 화장품에 욕심이 많아요.  개인적인 저의 취향으로는 커버력이 덜해도 자연스러운 쿠션을 자주 쓰게 되더라고요.  그래서 얇게 올라가는 쿠션을 선호하는데, 친한 친구가 제 취향에 딱 맞는 쿠션을 찾았다며 선물해주더라고요. OO OOO 쿠션 제품이었습니다.   되게 얇고 깔끔한 디자인이라서 휴대하기에도 부피를 차지 않아서 좋더라고요. 손이 작은편이라 얇으니까 손에 착 감기고 좋은 것 같아요. 이렇게 슬림한데도 넉넉한 용량이 꽉차게 들어있는 게 신기해요. 선크림을 바른 후, 바로 쿠션으로 톡톡해주었는데요.  퍼프도 좋아서 그런지 되게 밀착감 있게 피부표현이 되더라고요. 완전 커버에 초첨을 맞추기보다는 투명하게 비치듯 표현하는 편에 초첨을 맞춘 쿠션인 거 같아 저한테 더 잘 맞는다는 생각이 들었습니다.  굉장히 얇고 투명하게 올라가는 제형이라 뭉치거나 두껍게 발리지도 않고, 피부 자체가 되게 편안한 느낌이었습니다.  쿠션도 굉장히 촉촉한데, 지속력도 엄청 긴편이고요. 코에 끼임이 없는게 가장 마음에 들었습니다.   이 제품은 사전품평단을 통해서도 지속력과 밀착력에 우수한 평점을 얻었다고 하는데요.  건조한 날씨에 수분감 있고, 자연스럽게 표현되는 쿠션을 찾는다면 OO 제품을 사용해보세요~ ",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 더** 쿠션 글로우 15g ",
+    "Syllable": "616",
+    "Word": "138",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/두께",
+        "SentimentText": "되게 얇고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "깔끔한 디자인이라서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "휴대하기에도 부피를 차지 않아서 좋더라고요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/두께",
+        "SentimentText": "얇으니까 손에 착 감기고 좋은 것 같아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/두께",
+        "SentimentText": "이렇게 슬림한데도",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/개수",
+        "SentimentText": "넉넉한 용량이 꽉차게 들어있는 게 신기해요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "밀착력/접착력",
+        "SentimentText": "되게 밀착감 있게 피부표현이 되더라고요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "완전 커버에 초첨을 맞추기보다는",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "투명하게 비치듯 표현하는 편에 초첨을 맞춘 쿠션인 거 같아",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "저한테 더 잘 맞는다는 생각이 들었습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026242",
+    "RawText": "\u0027OO OOO 쿠션 파운데이션\u0027 이 제품 이름을 보고  너무 궁금해서 구입했어요.  얼마나 아우라가 나고 광채가 나길래 이름에 OOO가 날까?  궁금하시지 않나요?  저는 너무 궁금해서 배송이 오자마자 발라봤어요.   이 제품은 얇게 펴발려 피부 좋은 사람이 쓰기 적합한 것 같아요.  저는 살짝 당기는 느낌이 들어서 한번 지우고 두번째 쓰니까 괜찮았어요.  촉촉함이 풍부한 제품이라 그런지 바를 때마다 환하고 윤기가 나서 예뻐보여요.  광채가 나고 본래 피부톤보다 살짝 밝은 느낌입니다.  양이 조금 적은 느낌이라  그 부분은 조금 아쉬웠어요.  잡티는 잘 보이는 편이라 잡티를 잘 가리고 싶은 분들은 좀 피해주세요.   참, 오랜시간 사용하면 스펀지 표면에 내용물이 건조된 것으로 보일 수 있으나 스펀지를 꾹 눌러보시거나 뒤집어 사용하시면 내용물이 충분히 묻어 나온다고 합니다.",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 아** 쿠션 파운데이션 17g ",
+    "Syllable": "437",
+    "Word": "105",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "발림성",
+        "SentimentText": "얇게 펴발려",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "살짝 당기는 느낌이 들어서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "촉촉함이 풍부한 제품이라 그런지",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "환하고 윤기가 나서 예뻐보여요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "광채가 나고 본래 피부톤보다 살짝 밝은 느낌입니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/개수",
+        "SentimentText": "양이 조금 적은 느낌이라  그 부분은 조금 아쉬웠어요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "잡티는 잘 보이는 편이라",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1026245",
+    "RawText": "요즘 제 피부가 울룩불룩 자국이 많은 상태여서 컨실러 스틱은 맞는 데가 있고 안맞는 부분이 있더라고요. 이번에 구매한 OO OOO 컨실러는 솔로 바를 수 있는 부분도 같이 들어있어 저한테 딱 편리할 거 같아 구매해봤습니다.   OOO이라 하나는 립스틱 같은 것, 다른쪽은 찍어바르는 부분 두가지 종류가 다 들어있어 골라쓰는 편리함이 있네요.  스틱을 잡티 부분에 쓱쓱 바른 후, 손가락이나 스펀지로 톡톡 두드리면 부드럽게 잘 발리네요. 그 위에 쿠션을 발라도 악 건성인데도 불구하고 발림이 뻑뻑하거나 건조하지 않습니다.  스틱 부분은 넓은 부위에 쓱쓱 바르면 엷은 기미, 코의 붉은 부분 등 커버에 좋습니다.  다만, 스틱으로 했을땐 진한 점은 비치구요. 점 부위만 솔 부분으로 콕 찍으면 진한 점도 완벽히 커버됩니다.  하지만 살짝 끈적거리고 덧바르면 덧바를수록 조금씩 들뜨네요. 이걸 바르고 파우더를 마무리 단계에서 바르니 마스크에 안묻어나서 좋네요.   요즘 컨실러로 볼 전체 기미, 주근깨, 잡티 위에 바르고 파우더로 마무리하니 너무 좋네요. 역시 커버는 컨실러만한 게 없는 거 같아요.",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 듀** 컨실러",
+    "Syllable": "556",
+    "Word": "138",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "하나는 립스틱 같은 것, 다른쪽은 찍어바르는 부분 두가지 종류가 다 들어있어 골라쓰는 편리함이 있네요.",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "부드럽게 잘 발리네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "피부타입",
+        "SentimentText": "악 건성인데도 불구하고 발림이 뻑뻑하거나 건조하지 않습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림이 뻑뻑하거나 건조하지 않습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "건조하지 않습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "엷은 기미, 코의 붉은 부분 등 커버에 좋습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "스틱으로 했을땐 진한 점은 비치구요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "점 부위만 솔 부분으로 콕 찍으면 진한 점도 완벽히 커버됩니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "살짝 끈적거리고 덧바르면 덧바를수록 조금씩 들뜨네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1026247",
+    "RawText": "컨실러 펜슬은 한번도 사용해본적이 없는데, OO OOO 컨실러 펜슬이 컨실러 맛집이라는 소문을 듣고 구매해봤어요. 어떤 느낌인지 궁금하기도 했고요.   컨실러 펜슬은 생각보다 발림이 매우 좋네요.  지속력은 최고라고까진 그렇지만 바른지 5시간 후 즈음에도 그닥 변화가 없어요.  눈아래 기미를 커버하고 싶었는데, 기미보다는 작은 부위의 커버가 진짜 잘 가려지는 것 같아요. 여드름 흔적이나 진한 점도 슥슥 잘 가려져요.  펜을 살짝 눕혀서 슥슥하다보니 어느새 피부에 묻어나와요.  면적이 넓은 기미는 아무래도 가리면 뭉치고 슥슥하다보면 바른 게 지워지고 하네요. 확실히 작은 부위를 가리는데 추천 드립니다.  발색도 잘 되는 편이에요. 베이스 안한 맨살에도 색이 잘 나오는데 제형이 딱딱해서 자극이 조금 있습니다.   턱, 볼쪽의 트러블이나 눈썹 정리하는 용도로 써도 좋은 것 같아요. 유통기한이 있으니 꼭 확인하시고 쓰세요!",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 스** 컨실러 펜슬 2.5g ",
+    "Syllable": "462",
+    "Word": "108",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "발림성",
+        "SentimentText": "생각보다 발림이 매우 좋네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력은 최고라고까진 그렇지만 바른지 5시간 후 즈음에도 그닥 변화가 없어요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "작은 부위의 커버가 진짜 잘 가려지는 것 같아요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "여드름 흔적이나 진한 점도 슥슥 잘 가려져요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "면적이 넓은 기미는 아무래도 가리면 뭉치고 슥슥하다보면 바른 게 지워지고 하네요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "작은 부위를 가리는데 추천 드립니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "발색도 잘 되는 편이에요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "베이스 안한 맨살에도 색이 잘 나오는데",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 딱딱해서 자극이 조금 있습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "턱, 볼쪽의 트러블이나 눈썹 정리하는 용도로 써도 좋은 것 같아요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026251",
+    "RawText": "화장을 하고 나고 장시간 지나면 지워져서 커버에 계속 신경쓸 때 정말 짜증나죠?  이번에 1회 사용으로 무려 120시간이나 커버가 지속되는 파운데이션이 있다는 소문을 듣고,  OO OOO 스틱 파운데이션을 구매했습니다.   정말 장시간 지속이 되는지 너무 궁금해서, 구매 후 서둘러 사용해봤습니다.  파운데이션 사용 후 아침에 외출했는데 수정 하나도 안했는데 정말 저녁까지 무너짐 없이 상태가 너무 좋더라고요.  사용할 때는 너무 좋은데 이게 스틱 타입이라서 직접적으로 문지르면 안되더라고요.  필요한 부분에 원하는 양을 발라서 문질러 주고 브러쉬로 삭삭 펴주면 됩니다.  필요한 부분에 맞춰서 양조절이 가능하니 편해요. 손에 파운데이션을 묻힐 필요도 퍼프도 필요없어서 너무 간편하게 사용했어요.  제형이 피부에 닿으면 사르르 녹아들어 주름과 모공을 촘촘하고 매끈하게 커버해주니까 들뜸이나 뭉침없이 얇고 견고하게 커버해주니깐 좋더라고요.  크기도 너무 좋은 게 손에 들어오는 사이즈여서 작은 파우치나 간소한 가방에도 쏙 들어가니까 외출할 때 여행갈때에도 휴대하기가 딱 좋아요.   보통은 외출시에는 쿠션이 수정화장하기 좋은데 이건 브러쉬가 내장되어 있고 크기도 딱 컴팩트한 사이즈라 더 좋은 것 같습니다. 무엇보다 커버의 지속력이 오래된다는 점이 너무 마음에 들어서 계속 사용할 것 같아요.",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 메** 스틱 파운데이션 SPF50+ PA++++ 16g ",
+    "Syllable": "666",
+    "Word": "153",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "아침에 외출했는데 수정 하나도 안했는데 정말 저녁까지 무너짐 없이 상태가 너무 좋더라고요.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "스틱 타입이라서 직접적으로 문지르면 안되더라고요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "필요한 부분에 맞춰서 양조절이 가능하니 편해요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "손에 파운데이션을 묻힐 필요도 퍼프도 필요없어서 너무 간편하게 사용했어요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 피부에 닿으면 사르르 녹아들어",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "주름과 모공을 촘촘하고 매끈하게 커버해주니까",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "들뜸이나 뭉침없이",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "뭉침없이 얇고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "견고하게 커버해주니깐 좋더라고요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/두께",
+        "SentimentText": "크기도 너무 좋은 게 손에 들어오는 사이즈여서",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026252",
+    "RawText": "메이크업할때 유통기한 꼭 확인하셔야 하는 거 아시죠?  저는 요즘 쳐박아두고 확인을 안했더니 제품들이 다 날짜가 지났더라고요. 컨실러도 쓸게 다 없어서 뭘 살까 고민하다가 튜브형인 OO OOO 컨실러를 사용해보려고 구입했어요.   OO OOO는 약간 어둡게 나온다고 들어서 가장 밝은색인 브라이트를 선택했습니다. 사용감은 피부에 착 밀착이 잘 되고 번들거림없이 촉촉하게 발렸습니다.  시간이 지나도 무너짐이 적고 들뜸이 없었습니다.  다만 두껍게 바르면 답답해보이고, 얇게 펴바르면 적절하게 잘 발립니다.  커버력이 상당히 좋으므로 얇게 사용해도 잘 가려집니다.  작은 점들도 가려질만큼 커버력은 상당히 좋아요. 홍조와 여드름 흉터도 잘 가려집니다.  향도 호불호도 없이 무향입니다.  촉촉하고 들뜸도 없고, 시간이 지나도 무너짐이 적습니다.  한스킨 제품이 커버력과 밀착력도 우수한 것 같네요.   저한테는 잘 맞는 거 같네요. 잡티가 너무 스트레스 였는데, 좋아서 파운데이션처럼 듬뿍 듬뿍 바르며 다니고 있어요. 여러분도 자신한테 맞는 컨실러 찾으셨나요?",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 블** 커버 컨실러 12g ",
+    "Syllable": "536",
+    "Word": "120",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사용감",
+        "SentimentText": "사용감은 피부에 착 밀착이 잘 되고 번들거림없이 촉촉하게 발렸습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "밀착력/접착력",
+        "SentimentText": "피부에 착 밀착이 잘 되고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "번들거림없이",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "촉촉하게 발렸습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "시간이 지나도 무너짐이 적고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "들뜸이 없었습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "두껍게 바르면 답답해보이고, 얇게 펴바르면 적절하게 잘 발립니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "커버력이 상당히 좋으므로 얇게 사용해도 잘 가려집니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "작은 점들도 가려질만큼 커버력은 상당히 좋아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "홍조와 여드름 흉터도 잘 가려집니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026253",
+    "RawText": "늘 얼굴에 잡티를 가리려고 컨실러를 아주 얇게 꼭 바르고 화장을 하는 편인데요. 한번 바르기 시작했더니 안바르면 너무 이상하더라고요. 이번에 컨실러를 다 써서 새로 시도해본 컨실러 제품이 있습니다. 바로 OO OOO 컨실러 입니다.   이름처럼 피부에 얇게 밀착되어 커버가 된다길래 얼굴 피부는 밝은 편이라 라이트베이지 컬러로 구매해봤어요. 21호 제품을 사용하신다면 라이트베이지가 적당한 것 같습니다.  일단 제품 팁 자체가 굉장히 얇아요. 그래서 국소부위에 사용하기도 쉬워서 좋고 컨실러를 사용할때 양조절이 힘드신 분들도 편하게 사용하시기 좋을 것 같아요. 저는 여드름 흉터가 많은 편이라 컨실러는 완전 필수인데 지금껏 사용해본 무수히 많은 컨실러들에 비해 지속력도 길고 무너짐없이 유지되어 정말 만족한 상품입니다.   가격대도 부담없어서 정말 가성비가 좋은 제품인 것 같아요. 지성인 타입인데도 유분기 없이 피부에 밀착되는 것도 마음에 듭니다. 지성인 분들에게 추천드려요!  ",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 스** 컨실러 ",
+    "Syllable": "493",
+    "Word": "114",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "21호 제품을 사용하신다면 라이트베이지가 적당한 것 같습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "국소부위에 사용하기도 쉬워서 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "양조절이 힘드신 분들도 편하게 사용하시기 좋을 것 같아요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력도 길고 무너짐없이 유지되어 정말 만족한 상품입니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대도 부담없어서 정말 가성비가 좋은 제품인 것 같아요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "피부타입",
+        "SentimentText": "지성인 타입인데도 유분기 없이 피부에 밀착되는 것도 마음에 듭니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "유분기 없이 피부에 밀착되는 것도 마음에 듭니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "밀착력/접착력",
+        "SentimentText": "피부에 밀착되는 것도 마음에 듭니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "피부타입",
+        "SentimentText": "지성인 분들에게 추천드려요!",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026254",
+    "RawText": "나이가 들면 기미가 점점 늘어나는 것 같아요. 그래서 컨실러를 구입하기로 결심했는데, 그 나마 예전에 잘 가려졌던 OO 제품이 생각나 구매해봤습니다.   전에는 손가락으로 대충 발랐는데 기미가 늘어나서 이번엔 스펀지로 사용해봤습니다.  꾹 눌러서 묻히고 톡톡톡 두드려서 발랐습니다. 스틱형 파운데이션 보다 제형의 질감이 더 단단합니다. 제가 눈밑 아래로 기미가 둥그렇게 차지하고 있어 쿠션이며 컨실러며 기미를 가리고 싶어 많이 사용해봤는데 이게 커버력이 제일 괜찮은 것 같아요. 컨실러만 사용했을 때보다 그 위에 파우더를 덧 발라주니 더 큰 효과가 생겨 기미를 90프로 정도는 가려준다고 보시면 될 것 같아요.   살짝 끈적임이 있기 때문에 파우더를 바르면 매트해져 보송보송 해져요.  제형의 입자가 부드럽고 피부 트러블도 전혀 없어, 컨실러 유목민 들에게 추천드립니다.",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 케** 크림 컨실러 6g ",
+    "Syllable": "431",
+    "Word": "102",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "스틱형 파운데이션 보다 제형의 질감이 더 단단합니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "커버력이 제일 괜찮은 것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "그 위에 파우더를 덧 발라주니 더 큰 효과가 생겨",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "기미를 90프로 정도는 가려준다고 보시면 될 것 같아요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "살짝 끈적임이 있기 때문에",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형의 입자가 부드럽고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "피부 트러블도 전혀 없어,",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026262",
+    "RawText": "코로나 때문에 마스크로 얼굴 반이 가려지니 요즘은 컨실러로 잡티만 가려도 충분할 때가 많은데요, OO의 OOO 컨실러는 어떤지 살펴 보도록 해요.  색이 자연스러워서 마음에 들어요. 커버력은 아주 뛰어난 편은 아니에요. 두껍게 발라도 그다지 오래가지 않더라고요. 하지만 무거운 느낌 없이 발리기 때문에 피부톤을 어느 정도 보정하는 용도로 괜찮은 것 같아요. 바를 때는 잘 발리는데 시간이 지나면 건조감이 느껴진다는 게 살짝 단점이네요.   이 제품 색상이 무려 아홉 가지로 다양하니, 용도에 맞는 색상을 잘 골라 보시길 바랄게요.",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 빅** 컨실러 PRO",
+    "Syllable": "296",
+    "Word": "73",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색이 자연스러워서 마음에 들어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "커버력은 아주 뛰어난 편은 아니에요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "두껍게 발라도 그다지 오래가지 않더라고요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "무거운 느낌 없이 발리기 때문에",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "피부톤을 어느 정도 보정하는 용도로 괜찮은 것 같아요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "바를 때는 잘 발리는데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "시간이 지나면 건조감이 느껴진다는 게 살짝 단점이네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 무려 아홉 가지로 다양하니,",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026263",
+    "RawText": "오랜만에 제대로 메이크업을 해야 할 스케줄이 생겨서 급하게 구매해 본 OO OOO 컨실러 사용후기예요.  피치 색상을 사용해 봤는데요, 피치라기보다는 분홍기가 도는 파운데이션 같은 색상으로 괜찮았어요. 커버력은 잡티를 완전히 가리는 정도까지는 아니고, 다크서클을 가볍게 커버하는 정도예요. 다크서클을 가리거나 티 안 나게 볼륨감을 더하고 싶은 부분에 사용하면 좋을 듯해요.  저렴한 가격에 이 정도 지속력이면 쓸 만한 것 같아요.  가격이 저렴하고 적당한 성능으로, 가성비를 추구하는 분들이라면 만족하실 거예요.",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 빅** 컨실러 PRO",
+    "Syllable": "286",
+    "Word": "65",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "피치라기보다는 분홍기가 도는 파운데이션 같은 색상으로 괜찮았어요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "커버력은 잡티를 완전히 가리는 정도까지는 아니고, 다크서클을 가볍게 커버하는 정도예요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "다크서클을 가리거나 티 안 나게 볼륨감을 더하고 싶은 부분에 사용하면 좋을 듯해요.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "티 안 나게 볼륨감을 더하고 싶은 부분에 사용하면 좋을 듯해요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "이 정도 지속력이면 쓸 만한 것 같아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "적당한 성능으로,",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비를 추구하는 분들이라면 만족하실 거예요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026264",
+    "RawText": "2018년 상반기 컨슈머 뷰티 어워드 리퀴드컨실러 부문 수상작~ OO의 OOO 컨실러 사용후기입니다.  무려 어워드 수상작인데 가격이 엄청 저렴해서 냉큼 주문해 봤어요. 그런데 개봉 전에 아무리 샅샅이 살펴도 유통기한, 사용기한을 찾을 수가 없어서 좀 당황했어요. 컨실러도 사용기한이 있을 텐데 이상하네요..? 새 거니까 아무튼 아직은 괜찮겠죠ㅋ 발라 보니 끈적임도 별로 없고 잘 발려서 주름에 끼이는 것도 별로 없었어요. 잡티 숨기기에 좋은 것 같아요.  컨실러 입문자 분들이 부담없이 도전해 보기 좋은 제품이라는 생각이 들었습니다.",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 빅** 컨실러 PRO",
+    "Syllable": "299",
+    "Word": "71",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 엄청 저렴해서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한, 사용기한을 찾을 수가 없어서 좀 당황했어요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "끈적임도 별로 없고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "잘 발려서 주름에 끼이는 것도 별로 없었어요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "잡티 숨기기에 좋은 것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "컨실러 입문자 분들이 부담없이 도전해 보기 좋은 제품이라는 생각이 들었습니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026265",
+    "RawText": "요즘은 쿠션+컨실러 조합이 인기더라고요. 그래서 저도 OO의 OOO 컨실러를 구입해 봤어요.  저는 다크서클을 가리려고 사 봤는데요. 저렴이 브랜드인 만큼 가격이 저렴하고 용량도 적당해서 선택했어요. 저렴이라서 큰 기대 없이 사용해 봤는데, 의외로 밀착력도 좋고 다크서클이 잘 가려지는 커버력이더라고요. 요즘은 커버력 좋은 파운데이션을 전체적으로 바르기보다는 피부 표현은 가볍게 하고 잡티 부분만 컨실러로 가리는 분들이 더 많으시던데, 데일리로 사용하기 좋은 컨실러인 듯해요.  가성비 좋은 컨실러로 추천합니다~",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 빅** 컨실러 PRO",
+    "Syllable": "286",
+    "Word": "63",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/개수",
+        "SentimentText": "용량도 적당해서 선택했어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴이라서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "밀착력/접착력",
+        "SentimentText": "밀착력도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "다크서클이 잘 가려지는 커버력이더라고요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "데일리로 사용하기 좋은 컨실러인 듯해요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋은 컨실러로 추천합니다~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026266",
+    "RawText": "OO OOO 파운데이션의 장단점을 콕콕 짚어 드리는 속 시원한 사용후기를 가져 왔어요.  커버력이 좋기로 유명한데요, 요즘은 워낙 뛰어난 제품이 많아서 그런지 비교하자면 보통 정도의 커버력인 것 같아요. 한 번 바르면 싹 가려지는, 그런 커버력은 아니란 거죠. 장점은 얇게 밀착되고 오래 지속되고 묻어남이 적다는 점이에요. 매트해서 초보자가 피부 표현을 예쁘게 하기에는 약간 까다로울 수도 있다고 생각이 들어요. 초보자라면 오히려 저렴이 유사품 쪽이 나을 수도 있어요.  비싸고 유명한 것보단, 자신에게 잘 맞는 제품을 찾는 데에 이 사용후기가 도움이 되었으면 좋겠어요.",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 더** 파운데이션 30ml(SPF10)",
+    "Syllable": "319",
+    "Word": "78",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "커버력",
+        "SentimentText": "보통 정도의 커버력인 것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "한 번 바르면 싹 가려지는, 그런 커버력은 아니란 거죠.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "밀착력/접착력",
+        "SentimentText": "장점은 얇게 밀착되고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "오래 지속되고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "밀착력/접착력",
+        "SentimentText": "묻어남이 적다는 점이에요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "매트해서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "초보자가 피부 표현을 예쁘게 하기에는 약간 까다로울 수도 있다고 생각이 들어요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1026267",
+    "RawText": "코로나로 하늘길이 막히기 전에는 면세점에서 꼭 하나씩 사 오곤 했던 OO OOO 파운데이션이에요.  저는 웜 포슬린이라는 색상을 선택했는데요, 딱 제가 원하던 색상이었어요. 일반적인 21호 색상보다는 조금 더 밝으면서 붉은기가 없는 색상을 원했거든요. 색조 화장품이니만큼 잘 맞는 색상을 찾았다는 데서 일단 반은 성공이지요. 그리고 아침에 바른 그 색상이 저녁까지 유지된다면 나머지 반도 성공이라고 할 수 있을 텐데요 지속력이 좋아서 다크닝이 없답니다! 밤에 화장을 지울 때까지 밝고 생기있게 유지가 되더라고요.    요즘은 쿠션이 대세지만 오히려 중간 중간 두드려 줄 필요 없는 이 파운데이션이 저는 편한 것 같아요.",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 더** 파운데이션 30ml(SPF10)",
+    "Syllable": "346",
+    "Word": "84",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "웜 포슬린이라는 색상을 선택했는데요, 딱 제가 원하던 색상이었어요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "잘 맞는 색상을 찾았다는 데서 일단 반은 성공이지요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력이 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "다크닝이 없답니다!",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "밤에 화장을 지울 때까지 밝고 생기있게 유지가 되더라고요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "밝고 생기있게",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "중간 중간 두드려 줄 필요 없는 이 파운데이션이 저는 편한 것 같아요.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026268",
+    "RawText": "OO OOO 파운데이션은 지성 피부인 분들께 아주 유명한데요, 건성 피부가 쓰면 어떨까요? 제가 한 번 써 봤습니다.  커버력은 듣던 대로 있는 것 같아요. 그런데 역시 건성 피부인 저에게는 너무 건조해서 단독으로 바르면 인정사정없이 뜨네요ㅋㅋ 한여름에는 쓸 수 있을지 모르겠는데 봄, 가을, 겨울에는 절대 쓸 수 없겠어요. 색상은 웜바닐라를 사용해 봤는데 노란기가 너무 강해요. 붉은기 없는 걸 바라긴 했지만 이건 너무 노래서 또 안 되겠더라고요. 피부타입에도, 피부색에도 안 맞네요.  시험삼아 써 본 거긴 하지만, 너무 무모한 도전이었나 봐요ㅋㅋ",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 더** 파운데이션 30ml(SPF10)",
+    "Syllable": "308",
+    "Word": "77",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "커버력",
+        "SentimentText": "커버력은 듣던 대로 있는 것 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "피부타입",
+        "SentimentText": "건성 피부인 저에게는 너무 건조해서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "너무 건조해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "인정사정없이 뜨네요ㅋㅋ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "한여름에는 쓸 수 있을지 모르겠는데",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "봄, 가을, 겨울에는 절대 쓸 수 없겠어요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상은 웜바닐라를 사용해 봤는데 노란기가 너무 강해요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "너무 노래서 또 안 되겠더라고요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "피부타입",
+        "SentimentText": "피부타입에도, 피부색에도 안 맞네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "피부색에도 안 맞네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1026269",
+    "RawText": "완벽한 파운데이션을 찾는다면 역시 이거 아닐까요? OO의 OOO 파운데이션 사용후기입니다.  저는 밝은 웜톤 피부인데요, 색상이 웜톤, 쿨톤으로 구분되어 나와서 일단 색상 선택하기가 좋았어요. 제가 구매한 곳에서는 파운데이션 브러시를 구성품으로 주는 점도 좋았는데, 브러시로 펴 바르니 정말 감탄이 나올 정도로 얇게 잘 발리더라고요. 한 번 바르면 피부결이 예쁘게 보정되고, 커버가 필요한 곳에는 한두 번 덧바르면 완벽하게 커버가 돼요. 바르고 몇 시간 동안 마스크를 쓰고 있었는데 콧등 부분 외에는 묻어나지도 않았답니다.  메이크업 트렌드는 계속 바뀌어도 얇고 매끈하게 커버 되는 파운데이션은 언제나 소중한 아이템이네요.",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 더** 파운데이션 30ml(SPF10)",
+    "Syllable": "348",
+    "Word": "81",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 웜톤, 쿨톤으로 구분되어 나와서 일단 색상 선택하기가 좋았어요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "파운데이션 브러시를 구성품으로 주는 점도 좋았는데,",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "감탄이 나올 정도로 얇게 잘 발리더라고요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "한 번 바르면 피부결이 예쁘게 보정되고,",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "커버가 필요한 곳에는 한두 번 덧바르면 완벽하게 커버가 돼요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "밀착력/접착력",
+        "SentimentText": "마스크를 쓰고 있었는데 콧등 부분 외에는 묻어나지도 않았답니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "얇고 매끈하게 커버 되는",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026270",
+    "RawText": "오랜만에 파운데이션 후기예요. 익히 알고 계실 OO OOO 파운데이션이랍니다.  너무 유명한 제품이죠? 저는 한 번도 사용해 본 적이 없다가 얼마 전 선물 받아서 처음 사용해 봤어요. 지성 피부에게는 이만한 파운데이션이 없다고 하던데, 저는 건성 피부라서 촉촉한 에센스를 섞어 사용해 봤어요. 사용감이 텁텁하지 않으면서 커버가 잘 되고 지속력도 뛰어나서, 아~ 이래서 유명하구나 했어요. 얇게 잘 발리면서도 커버력이 좋으니 화장한 얼굴이 굉장히 자연스러워 보여서 만족했어요.  파운데이션에 더 이상 바랄 게 있을까요? 거의 모든 니즈를 만족시켜줄 수 있는 제품이 아닐까 싶어요.",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 더** 파운데이션 30ml(SPF10)",
+    "Syllable": "323",
+    "Word": "78",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사용감",
+        "SentimentText": "사용감이 텁텁하지 않으면서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "커버가 잘 되고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력도 뛰어나서,",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "얇게 잘 발리면서도",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "커버력이 좋으니",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "화장한 얼굴이 굉장히 자연스러워 보여서 만족했어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026283",
+    "RawText": "OO의 유일한 립 밤 제품~ OOO 립 밤 사용후기입니다.  유일한 립 밤이라니 놀라셨죠? 립 밤 하면 떠오르는 대표 브랜드 중 하나라서 다양한 제품이 있을 줄 알았는데 홈페이지를 보니 이 제품 하나뿐이어서 저도 놀랐어요ㅎㅎ 제품은 무색무취의 스틱 제형으로 깨끗한 느낌이에요. 겨울이라도 따뜻한 실내에 있다 보면 녹는 제품들도 있는데 제형이 단단한 편이라 녹을 염려 없이 깔끔하고, 그러면서도 잘 발리고 보습력이 좋아요. 자외선 차단 기능도 있으니 빠지는 구석이 하나도 없는 것 같네요.  OO 립 밤 제품군에 이 제품이 유일한 이유는 아마도 다른 립밤을 출시할 필요 없을 정도로 이 제품 하나에 완벽을 기했다는 자신감이 아닐까~ 그런 생각을 해 봅니다.",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 데** 립 밤 SPF15 4g",
+    "Syllable": "366",
+    "Word": "95",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "무색무취의 스틱 제형으로 깨끗한 느낌이에요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "무취의 스틱 제형으로 깨끗한 느낌이에요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "스틱 제형으로 깨끗한 느낌이에요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 단단한 편이라 녹을 염려 없이 깔끔하고,",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "잘 발리고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "보습력이 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "자외선 차단 기능도 있으니",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026284",
+    "RawText": "립 밤 정도는 별 생각 없이 손에 집히는 대로 살 수도 있지만 저는 소심해서 그런지 은근히 고민하면서 고르게 되더라고요. 저 같은 소심이들의 고민에 도움을 드릴 오늘의 후기~ OO OOO 립 밤 사용후기입니다.  OO의 보습 제품들은 널리 품질을 인정 받고 있는데, 립 밤도 빼놓을 수 없는 품목이에요. 여러가지 특색 있는 제품들이 많지만 OO는 그야말로 기본에 충실한 제품이라 할 수 있죠. 저 개인적으로 제일 마음에 드는 부분은 바르고 물을 마셔도 물컵에 묻어나는 게 없다는 거예요. 입술에 자르르 광택 흐르는 제품이 아님에도 수분 유지는 정말 잘 돼요. 각질도 잘 잠재워 주고요.  기능에 충실하고 사용감이 뛰어난 립 밤이라서 추천합니다.",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 데** 립 밤 SPF15 4g",
+    "Syllable": "360",
+    "Word": "95",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "밀착력/접착력",
+        "SentimentText": "바르고 물을 마셔도 물컵에 묻어나는 게 없다는 거예요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "입술에 자르르 광택 흐르는 제품이 아님에도",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "수분 유지는 정말 잘 돼요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "유지는 정말 잘 돼요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "각질도 잘 잠재워 주고요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "기능에 충실하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용감",
+        "SentimentText": "사용감이 뛰어난 립 밤이라서 추천합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026285",
+    "RawText": "첫눈에 확 끌리진 않지만 알면 알수록 편안한 매력에 빠져드는 사람이 있죠~ 이 립 밤도 그런 것 같아요. OO OOO 립 밤 사용후기예요.  그냥 별 생각 없이 썼는데 쓰다 보니 이거 없으면 안 될 것 같은 아이템이랄까요? 특히 겨울에 외출할 때는 꼭 가방에 챙겨 나가는 립 밤이에요. 바를 땐 촉촉하다는 느낌이 그렇게 확 들지 않는데, 바르고 시간이 좀 지나고 생각해 보면 입술 건조한 느낌이 없었단 걸 깨닫게 돼요. 은근히 보습력이 좋고 은근히 지속력이 좋아요.  티내지 않으면서 묵묵히 곁을 지켜 주는~ 그런 친구 같은 립 밤이라서 추천 드려요.",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 데** 립 밤 SPF15 4g",
+    "Syllable": "308",
+    "Word": "86",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "겨울에 외출할 때는 꼭 가방에 챙겨 나가는 립 밤이에요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "바를 땐 촉촉하다는 느낌이 그렇게 확 들지 않는데,",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "시간이 좀 지나고 생각해 보면 입술 건조한 느낌이 없었단 걸 깨닫게 돼요.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "은근히 보습력이 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "은근히 지속력이 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026286",
+    "RawText": "이 제품은 한 20년째 쓰는 것 같아요ㅋㅋ 20년간 계속 쓴 건 아니지만 다른 거 쓰다가 이것도 쓰다가, 그렇게요. OO OOO 립 밤 사용후기입니다.  저는 겨울엔 이보다 더 촉촉한 제품을 선호해서 이 제품은 봄, 가을에 잘 써요. 가격도 저렴하고 품질도 좋고 디자인도 너무 유치하지 않아 마음에 들고 용기가 그립감도 좋고... 그냥 립 밤, 하면 표준처럼 생각되는 제품인 것 같아요. 색깔이나 향이 있는 제품이 궁금해서 이것저것 써 보긴 하지만, 그러다가도 한 번씩은 이 제품으로 돌아왔다 다시 외유를 나가게 되는, 베이스캠프 같은 제품이네요.  뭐, 긴 말이 필요 없는 제품이죠.  아마 재벌2세도 립밤은 이걸 쓰지 않을까...ㅋ",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 데** 립 밤 SPF15 4g",
+    "Syllable": "355",
+    "Word": "92",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "겨울엔 이보다 더 촉촉한 제품을 선호해서",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "이보다 더 촉촉한 제품을 선호해서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "봄, 가을에 잘 써요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 너무 유치하지 않아 마음에 들고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기가 그립감도 좋고...",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026303",
+    "RawText": "강렬하고 세련된 디자인이 인상적인, OO OOO 쿠션 사용후기입니다^^  커버력을 강조한 제품의 경우, 건조한 피부인 저는 좀 망설이게 돼요. 이 제품도 그런 면에서 약간 아쉬움이 있답니다. 너무 매트해서 제 피부에 바르면 좀 뭉치더라고요. 그래서 그런지 마스크에 묻어나기도 하고 지속력도 기대에 못 미쳐서 아쉬웠어요. 하지만 어쩌다 잘 발린 날은 피부 좋아 보인다는 얘길 듣기도 해서 아직 미련을 못 버리겠어요ㅎㅎ   피부 타입을 잘 고려하셔서 사용하시면 괜찮을 것 같은 제품이에요.",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 킬** 파운웨어 쿠션 기획세트 [본품+리필] 15gx2 SPF 50",
+    "Syllable": "271",
+    "Word": "66",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "강렬하고 세련된 디자인이 인상적인,",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "너무 매트해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "좀 뭉치더라고요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "밀착력/접착력",
+        "SentimentText": "마스크에 묻어나기도 하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력도 기대에 못 미쳐서 아쉬웠어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "잘 발린 날은 피부 좋아 보인다는 얘길 듣기도 해서",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026304",
+    "RawText": "\u0027죽여주는 커버력\u0027이란 뜻일까요? 강렬한 이름의 OO의 OOO 쿠션을 알아 보도록 해요.  마스크를 쓰면서는 \u0027묻어남이 적을 것\u0027이 쿠션의 제1조건으로 되었어요. 이 쿠션 사용해 보니 잘 묻어나지 않아서 괜찮더라고요. 지속력도 좋고요. 제 얼굴이 하얀 편인데 동동 떠 보이지 않고 잘 어우러지는 색깔도 마음에 들었요. 팩트 두께가 얇아서 가지고 다니기 좋다는 점도 하나의 장점이네요. 퍼프가 부드러워서 촉감이 좋지만 빨리 헤지는 편이라서 퍼프는 여분을 구비해 두시면 좋을 듯해요.  피부가 유독 하얀 분들은 맞는 색상 찾기가 어려운데 이 제품 한 번 테스트 해 보시면 좋을 것 같아요^^ ",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 킬** 파운웨어 쿠션 기획세트 [본품+리필] 15gx2 SPF 50",
+    "Syllable": "329",
+    "Word": "82",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "밀착력/접착력",
+        "SentimentText": "잘 묻어나지 않아서 괜찮더라고요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력도 좋고요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "동동 떠 보이지 않고 잘 어우러지는 색깔도 마음에 들었요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/두께",
+        "SentimentText": "두께가 얇아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "가지고 다니기 좋다는 점도 하나의 장점이네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026305",
+    "RawText": "화장품 중에서도 색조는 특히 가격과 품질이 비례하진 않는 것 같아요. 저렴하면서도 품질 좋은 OO의 OOO 쿠션을 사용해 봤어요.  국산 브랜드인 만큼 저렴하고 사용감은 뛰어난 제품이에요. 얇게 발리고 들뜸이 없으면서 커버력이 높아요. 밀착력이 좋아서 지속도 오래 되고요. 높은 커버력이 취향에 따라 좋을 수도, 나쁠 수도 있는데요. 아주 투명한 피부 표현을 원하신다면 커버력이 과하다고 느끼실 수도 있어요. 하지만 일반적인 기준에서 보자면 좋은 커버력이라고 생각합니다.  쿠션을 주로 사용하는 분이라면 시도해보시라고 권하고 싶은 제품이에요.",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 킬** 파운웨어 쿠션 기획세트 [본품+리필] 15gx2 SPF 50",
+    "Syllable": "303",
+    "Word": "70",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하면서도",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질 좋은",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용감",
+        "SentimentText": "사용감은 뛰어난 제품이에요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "얇게 발리고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "들뜸이 없으면서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "커버력이 높아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "밀착력/접착력",
+        "SentimentText": "밀착력이 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속도 오래 되고요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "높은 커버력이 취향에 따라 좋을 수도, 나쁠 수도 있는데요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "1026306",
+    "RawText": "색조화장품 구매할 때 꼭 찾아 보는 브랜드, OO의 OOO 쿠션 사용후기예요.  색조는 색상이 중요한데, 찾기 힘든 페어 색상이 있어서 좋았어요. 저는 피부가 엄청 밝은 편이라서 보통의 밝은 베이지 톤은 어둡거든요. 게다가 OO답게 커버력도 좋고 유지도 잘 돼서 쿠션이지만 일과 중에 수정화장 할 일이 거의 없더라고요. 쿠션은 원래 수정화장 편하라고 나온 제품인데 말이죠ㅎㅎ 배송은 조금 느렸지만 제품이 좋으니까 문제 없죠. 증정품으로 받은 클렌징 폼도 좋아서 잘 쓰고 있답니다.  언제나 기대를 저버리지 않는 OO~ 특급 칭찬 해 주고 싶어요^^",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 킬** 파운웨어 쿠션 기획세트 [본품+리필] 15gx2 SPF 50",
+    "Syllable": "306",
+    "Word": "77",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "찾기 힘든 페어 색상이 있어서 좋았어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "커버력도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "유지도 잘 돼서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "증정품으로 받은 클렌징 폼도 좋아서 잘 쓰고 있답니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "일과 중에 수정화장 할 일이 거의 없더라고요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026327",
+    "RawText": "무난하게 사용하기 좋은 OO OOO 오 드 뚜왈렛 사용후기예요.  향이 여성스러우면서 지나치게 화려하지 않아서 무난하게 사용하기 좋은 향수예요. 제가 리뷰들을 살펴 보니까 역시나 사용자 연령대가 굉장히 폭 넓더라고요. 지속력이 짧다는 리뷰도 많이 있었는데요, 제가 느끼기엔 잔향이 그렇게 금방 사라지진 않는 것 같아요. 처음의 상큼한 향이 금방 사라지고 은은한 잔향이 남는데, 본인은 아무래도 첫향이 가시고 나면 향을 잘 못 느끼지만 한참 지난 뒤에도 주위 사람들은 향을 느끼더라고요.  어느 연령대에나, 어느 자리에나 무난하게 어울리는 향수라서 하나 쯤 있으면 좋을 듯해요.",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 옴** 우먼 오 드 뚜왈렛",
+    "Syllable": "322",
+    "Word": "78",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "무난하게 사용하기 좋은",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 여성스러우면서 지나치게 화려하지 않아서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "무난하게 사용하기 좋은 향수예요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "잔향이 그렇게 금방 사라지진 않는 것 같아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "처음의 상큼한 향이",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "금방 사라지고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "은은한 잔향이 남는데,",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "한참 지난 뒤에도 주위 사람들은 향을 느끼더라고요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "어느 연령대에나, 어느 자리에나 무난하게 어울리는 향수라서",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1026328",
+    "RawText": "디자인 자체는 기하학적인데 색깔은 감성을 자극하는 보라색, 그 조화가 묘하게 매력적인 향수예요. OO OOO 오 드 뚜왈렛니다.  겨울에 잘 어울리는 향수인 것 같아요. 향이 정말 좋아요. 가격은 좀 부담스러웠지만 너무 싼 건 또 불안하고 믿을 만한 쇼핑몰에서 사는 게 낫겠더라고요. 그래서 좀 큰 마음 먹고 질렀는데 잘 지른 것 같아요. 딱 하나 아쉬운 점은 지속력인데요. 오 드 뚜왈렛 중에서도 지속시간이 짧은 편인 듯해요. 공병에 덜어서 가지고 다녀야 할 것 같아요.  이 향수 때문에 겨울이 기다려져요. 저 겨울 진짜 싫어는데 말이죠~",
+    "Source": "SNS",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 옴** 우먼 오 드 뚜왈렛",
+    "Syllable": "303",
+    "Word": "80",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 자체는 기하학적인데 색깔은 감성을 자극하는 보라색, 그 조화가 묘하게 매력적인 향수예요.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색깔은 감성을 자극하는 보라색, 그 조화가 묘하게 매력적인 향수예요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "겨울에 잘 어울리는 향수인 것 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 정말 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 좀 부담스러웠지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "딱 하나 아쉬운 점은 지속력인데요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속시간이 짧은 편인 듯해요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "이 향수 때문에 겨울이 기다려져요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]

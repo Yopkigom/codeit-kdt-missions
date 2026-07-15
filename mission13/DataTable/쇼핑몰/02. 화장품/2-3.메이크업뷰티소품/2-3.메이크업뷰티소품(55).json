@@ -1,0 +1,3434 @@
+[
+  {
+    "Index": "628276",
+    "RawText": "양에 비해 가격이 너무 착한 건 좋지만 향이 오래가지 않아요. 그냥 스킨 바른 정도로 향이 진하지 않아서 아쉬워요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "18",
+    "RDate": "20220613",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "양에 비해 가격이 너무 착한 건 좋지만",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "향이 오래가지 않아요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 진하지 않아서 아쉬워요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "628278",
+    "RawText": "OOO 향수가 가성비 좋다고 들어서 구매했습니다. 향도 남자스러운 것이 괜찮습니다. 다만 작년에 구매한 OO에 비해 향이 좀 안 좋은 것 같습니다. 이유가 뭔지 궁금합니다. 정품이라고 스티커에 붙여있는데 맞을거라 믿습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "4",
+    "Syllable": "124",
+    "Word": "29",
+    "RDate": "20220609",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 남자스러운 것이 괜찮습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "OO에 비해 향이 좀 안 좋은 것 같습니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "628293",
+    "RawText": "매장에서 뿌려보고는 써보고 싶었는데 저렴한 가격에 판매하고 있길래 당장 구입했습니다. 그런데 이전에 사용해 본 제품과는 달리 향이 약하고 지속력 또한 금방 사라져서 아쉬워요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "97",
+    "Word": "23",
+    "RDate": "20220531",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 판매하고 있길래 당장 구입했습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 약하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력 또한 금방 사라져서 아쉬워요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "628308",
+    "RawText": "여름 보다 겨울에 더 어울리는 향수라고 해서 구입해봤습니다. 막상 사용해보니 향이 마음에 들지 않습니다. 다른 브랜드의 단종된 제품과 같이 향이 너무 과해서 사용이 꺼려집니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "98",
+    "Word": "24",
+    "RDate": "20220523",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 마음에 들지 않습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 너무 과해서 사용이 꺼려집니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "628310",
+    "RawText": "여기가 가장 저렴해서 주문했는데 역시 향도 시원하고 바다 향이라 좋습니다. 용량이 엄청 커서 한동안 잘 쓸 것 같습니다. 다 쓰면 또 주문하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "83",
+    "Word": "22",
+    "RDate": "20220522",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "여기가 가장 저렴해서 주문했는데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 시원하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "바다 향이라 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/개수",
+        "SentimentText": "용량이 엄청 커서 한동안 잘 쓸 것 같습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "628316",
+    "RawText": "향 좋아 구입했는데 향이 약해서 온몸에 뿌려야 그나마 향이 납니다. 손목에만 뿌리면 손을 코 가까이 가져가야 향이 나네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "18",
+    "RDate": "20220518",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 약해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "온몸에 뿌려야 그나마 향이 납니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "손목에만 뿌리면 손을 코 가까이 가져가야 향이 나네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "628317",
+    "RawText": "여러가지 향수를 쓰고 있습니다. 남편이 쓰는 향수가 거의 다 써서 선물했습니다. 배송도 빠르고 포장도 잘되어 도착했습니다. 양이 많아 부담없이 뿌려서 좋네요. 향은 말할 필요 없이 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "106",
+    "Word": "26",
+    "RDate": "20220516",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/개수",
+        "SentimentText": "양이 많아 부담없이 뿌려서 좋네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향은 말할 필요 없이 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "628325",
+    "RawText": "ㅇㅇ 오랜만에 구매합니다. 로션은ㅇㅇ만쓰는데 향이 마음에 들어서 재구매했습니다. 이제 여름도 다가오고 해서 구입합니다. 근데 향이 좀 오래 갔으면 하는 마음입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "91",
+    "Word": "20",
+    "RDate": "20220511",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 마음에 들어서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "향이 좀 오래 갔으면 하는 마음입니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "628338",
+    "RawText": "2년 전부터 OOO, OO 여러가지 사용하고 있습니다. 이번에 구입한 이 제품은 가성비 좋은 향수네요. 부담없이 데일리로 사용하기 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "4",
+    "Syllable": "78",
+    "Word": "18",
+    "RDate": "20220503",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋은 향수네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "부담없이 데일리로 사용하기 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "628339",
+    "RawText": "향은 금방 날아가서 아쉬워요. 향이 금방 날아가서 여러 번 뿌려야 됩니다. 샤워코롱 수준으로 지속력이 약해서 그냥 막 뿌리긴 해요. 옛날 생각이 나게 하는 향이 좋아서 쓰지만 오래 지속되는 향 찾으시면 추천하지 않습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "123",
+    "Word": "32",
+    "RDate": "20220503",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "향은 금방 날아가서 아쉬워요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "향이 금방 날아가서 여러 번 뿌려야 됩니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "샤워코롱 수준으로 지속력이 약해서 그냥 막 뿌리긴 해요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "옛날 생각이 나게 하는 향이 좋아서 쓰지만",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "오래 지속되는 향 찾으시면 추천하지 않습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "628341",
+    "RawText": "아들이 OOO을 쓰고 있는데 신랑이 향이 좋다 하기에 OO도 남자들 평이 좋아 OO으로 구입했습니다. 향이 텁텁하거나 남자 향날까 걱정했는데 시향해 보니 향이 괜찮아요. 향이 진하지 않고 상큼하니 거슬리지 않아 좋아요. 데일리로 사용하기 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "138",
+    "Word": "33",
+    "RDate": "20220428",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 괜찮아요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 진하지 않고 상큼하니 거슬리지 않아 좋아요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "상큼하니 거슬리지 않아 좋아요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "데일리로 사용하기 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "628344",
+    "RawText": "용기에 기스가 짜증날 정도로 많아요. 향에서는 알코올 냄새가 심하고 향 자체도 뿌릴 때부터 약해서 지속력도 없습니다. 며칠 알코올 안정화시키고 사용해 볼게요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "3",
+    "Syllable": "88",
+    "Word": "21",
+    "RDate": "20220423",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기에 기스가 짜증날 정도로 많아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향에서는 알코올 냄새가 심하고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향 자체도 뿌릴 때부터 약해서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력도 없습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "628347",
+    "RawText": "저렴하게 잘 구매했습니다. 향도 좋고 지속력도 오래갑니다. OOO 향수 추천해요. 대용량으로 구매했더니 아직도 잘 쓰고 있어서 좋아요. 저렴하게 잘 구매해서 만족합니다. 향이 좋고 지속력도 오래간답니다. 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "118",
+    "Word": "26",
+    "RDate": "20220420",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 구매했습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력도 오래갑니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/개수",
+        "SentimentText": "대용량으로 구매했더니 아직도 잘 쓰고 있어서 좋아요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 구매해서 만족합니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력도 오래간답니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "628364",
+    "RawText": "품질이 불량인 것 같습니다. 이전 제품과는 다르게 지속력이 너무 짧아서 어이가 없네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "48",
+    "Word": "12",
+    "RDate": "20220413",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 불량인 것 같습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력이 너무 짧아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "628388",
+    "RawText": "튀지 않는 은은한 향이라서 좋아요. 지속성은 다소 아쉬움이 많습니다. 용량이 커서 오랫동안 사용 가능할 것 같아요. 용기의 분무 부분이 분사 후 새네요. 용기가 불량이라 몇 방울씩 흘러내려서 아쉬워요. 디자인은 마음에 들지만 전체적으로 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "137",
+    "Word": "33",
+    "RDate": "20220329",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "튀지 않는 은은한 향이라서 좋아요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속성은 다소 아쉬움이 많습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/개수",
+        "SentimentText": "용량이 커서 오랫동안 사용 가능할 것 같아요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기의 분무 부분이 분사 후 새네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기가 불량이라 몇 방울씩 흘러내려서 아쉬워요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인은 마음에 들지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "628408",
+    "RawText": "일상용으로 사용하는 제품입니다. 같은 제품을 10년 이상 사용하다보니 이제는 일상적인 향으로 사용하는데 좋아요. 많이 사용하다보니 대용량으로 구매해 오래 사용하니 좋네요. 저렴한 가격에 대용량이라 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "115",
+    "Word": "24",
+    "RDate": "20220312",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "일상적인 향으로 사용하는데 좋아요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/개수",
+        "SentimentText": "많이 사용하다보니 대용량으로 구매해 오래 사용하니 좋네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/개수",
+        "SentimentText": "대용량이라 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "628411",
+    "RawText": "향이 좋아서 마음에 들고 가격대가 적당해서 항상 사용하는 제품이에요. 이번에도 주문해서 한달 동안 사용을 잘 하고 있어요. 향이 은은하고 지속력이 있다보니 음식냄새 다른부분도 희석 시켜줘서 사용하기 좋습니다. 다음에도 주문하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "130",
+    "Word": "29",
+    "RDate": "20220310",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 좋아서 마음에 들고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대가 적당해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 은은하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력이 있다보니",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "음식냄새 다른부분도 희석 시켜줘서 사용하기 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "628426",
+    "RawText": "항상 쓰는 제품입니다. 은은한 향이 오랜 시간 유지됩니다. 가성비도 좋고 특별히 호불호가 있을만한 향이 아니라서 만족스러워요. 다 쓰면 또 구매할 예정이에요. 저렴한 가격에 잘 샀어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "103",
+    "Word": "25",
+    "RDate": "20220217",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "은은한 향이 오랜 시간 유지됩니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "오랜 시간 유지됩니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "특별히 호불호가 있을만한 향이 아니라서 만족스러워요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 잘 샀어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "628439",
+    "RawText": "신랑이 늘 사용하고 있습니다. OOO OO 둘 다 번갈아 쓰는데 몇년째 써도 이 향을 좋아합니다. 발렌타인 선물로 신랑에게 선물했네요. 저렴하게 잘 샀습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "88",
+    "Word": "22",
+    "RDate": "20220209",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "이 향을 좋아합니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 샀습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "628444",
+    "RawText": "수년 동안 이 향수만 사용하고 있습니다. 향이 무난하고 지속력도 괜찮은 편입니다. 가성비 좋은 향수예요. 가격도 너무 저렴하게 구매한 거 같아 매우 만족스러워요. 다 사용하면 재구매 의사 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "110",
+    "Word": "27",
+    "RDate": "20220205",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 무난하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력도 괜찮은 편입니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋은 향수예요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 너무 저렴하게 구매한 거 같아 매우 만족스러워요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "628452",
+    "RawText": "선물용으로 주문했는데 배송이 빨라서 좋았어요. 친구가 좋아해요. 향 지속력이 짧지만 그래도 향은 좋다고 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "14",
+    "RDate": "20220122",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "향 지속력이 짧지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "그래도 향은 좋다고 합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "628454",
+    "RawText": "OOO향수는 항상 OO에서 구입하고 있습니다. 은은한 향기가 좋고, 가격대비 품질 좋은 제품이에요. 신랑 향수로 항상 구비해 놓는 제품이네요. 앞으로 계속 애용하도록 할께요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "97",
+    "Word": "22",
+    "RDate": "20220122",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "은은한 향기가 좋고, ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격대비 품질 좋은 제품이에요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "628461",
+    "RawText": "선물 드렸는데 다행히 좋아하시네요. 남성 스킨향이 나는데 마음에 든다고 하십니다. 은은한 향이 오래가서 좋다고 하시네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "15",
+    "RDate": "20220115",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "남성 스킨향이 나는데 마음에 든다고 하십니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "은은한 향이 오래가서 좋다고 하시네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "오래가서 좋다고 하시네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "628475",
+    "RawText": "빠른 배송으로 잘 받았어요. 양이 많아서 오래 쓰겠네요. 생각보다 펌핑이 강해서 분사해주는 느낌이아니라 물총같이 나오는게 불편하네요. 조금 퀄리티가 안 좋은 것 같습니다. 하지만 저렴하니 쓰겠습니다. 향은 좋아요. 잘 쓸께요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "126",
+    "Word": "29",
+    "RDate": "20220104",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용량/개수",
+        "SentimentText": "양이 많아서 오래 쓰겠네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "펌핑이 강해서 분사해주는 느낌이아니라 물총같이 나오는게 불편하네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "퀄리티가 안 좋은 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하니 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향은 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "628479",
+    "RawText": "20년 전부터 사용한 향수입니다. 주변사람들은 그냥 제 향이라고 생각한답니다. 가격대비 용량이 넉넉하고 향은 좋은데 지속력은 정말 약해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "17",
+    "RDate": "20211231",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/개수",
+        "SentimentText": "가격대비 용량이 넉넉하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향은 좋은데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력은 정말 약해요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "628480",
+    "RawText": "ㅇㅇㅇ용량이 커서 부담 없이 사용해요. 향이 은은하고 지속력도 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "39",
+    "Word": "9",
+    "RDate": "20211231",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/개수",
+        "SentimentText": "ㅇㅇㅇ용량이 커서 부담 없이 사용해요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 은은하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력도 좋네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "628488",
+    "RawText": "데일리로 쓰기는 좋은데 지속력이 약한거 같아요. 그래서 아침에 많이 뿌리고 있어요. 저렴하고 향도 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "14",
+    "RDate": "20211221",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "데일리로 쓰기는 좋은데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력이 약한거 같아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 저렴하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 좋네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "628490",
+    "RawText": "OOO 향수 처음 써보는데 향이 강해서 별로예요. 유통기한도 짧네요. 재구매는 안 할 거 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "54",
+    "Word": "14",
+    "RDate": "20211218",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 강해서 별로예요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한도 짧네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "628494",
+    "RawText": "땀이 많은 체형이라 향수를 고르기 쉽지 않았습니다. 고민 끝에 가격은 비싸지만 구입했는데 이 향수 역시 잔향이 땀 냄새와 섞여 고약합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "20",
+    "RDate": "20211216",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 비싸지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "잔향이 땀 냄새와 섞여 고약합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "628508",
+    "RawText": "가격대비 향이 무난합니다. 착한가격에 가성비 있습니다. 향이 좋아서 두 개 구매했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "49",
+    "Word": "11",
+    "RDate": "20211207",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "가격대비 향이 무난합니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "착한가격에",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 있습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "628531",
+    "RawText": "가성비 좋은 향수입니다. 부담없이 편하게 뿌리기 좋습니다. 향도 무난해서 누구나 좋아하는 향입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "12",
+    "RDate": "20211106",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋은 향수입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "부담없이 편하게 뿌리기 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 무난해서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "누구나 좋아하는 향입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "628543",
+    "RawText": "주말 포함해서 배송이 너무 오래 걸렸습니다. 이 향이 궁금해서 구매해봤는데 향이 마음에 들지 않습니다. 유통기한도 짧고 비싸게 주고 사서 후회가 됩니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "85",
+    "Word": "21",
+    "RDate": "20211026",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 마음에 들지 않습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한도 짧고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "비싸게 주고 사서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "628546",
+    "RawText": "강아지를 키워서 강아지 냄새를 없애고자 향수를 구입해봤는데 향이 너무 안 좋고 가격만 비쌉니다. 추천하지 않아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "15",
+    "RDate": "20211023",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 너무 안 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격만 비쌉니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "628554",
+    "RawText": "항상 애용하는 제품인데 좋습니다. 가격대비 최고네요. 사계절 항시 사용하기 좋습니다. 앞으로도 계속 애용하도록 할께요. 다만 향이 조금 더 강하면 좋겠네요. 앞으로도 좋은 제품 기대할께요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "105",
+    "Word": "24",
+    "RDate": "20211016",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 최고네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "사계절 항시 사용하기 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 조금 더 강하면 좋겠네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "628555",
+    "RawText": "20대 때 쓰다가 다시 쓰려고 샀는데 예전 쓰던 것보다 향이 너무 약합니다. 그 전에는 두 번만 뿌리면 은은하게 퍼졌는데 이 제품은 향이 너무 옅습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "2",
+    "Syllable": "85",
+    "Word": "24",
+    "RDate": "20211014",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "예전 쓰던 것보다 향이 너무 약합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "이 제품은 향이 너무 옅습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "628565",
+    "RawText": "일단 양이 많아서 가장 만족스러워요. 뚜껑이야 있으나 없으나 별 상관이 없어서 대용량 테스터로 주문했습니다. 가격만 더 저렴해지면 좋겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "18",
+    "RDate": "20210930",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/개수",
+        "SentimentText": "양이 많아서 가장 만족스러워요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격만 더 저렴해지면 좋겠습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "628572",
+    "RawText": "상품 품질이 좋아서 마음에 듭니다. 가성비가 아주 좋은 제품이에요. 이 정도 가격에 이 정도 품질이면 안 사는 게 손해입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "19",
+    "RDate": "20210926",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "상품 품질이 좋아서 마음에 듭니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비가 아주 좋은 제품이에요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "이 정도 가격에 이 정도 품질이면 안 사는 게 손해입니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "628581",
+    "RawText": "향상 사용하는 향수입니다.  데일리로 사용하기 좋은 향수 입니다. 향 자체는 은은하고 지속력은 보통이며 매일 사용하는 제품이기 때문에 대용량을 저렴하게 구매하여 사용하고 있네요. 재구매할꼐요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "107",
+    "Word": "23",
+    "RDate": "20210917",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "데일리로 사용하기 좋은 향수 입니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향 자체는 은은하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력은 보통이며",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 대용량을 저렴하게 구매하여 사용하고 있네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "628597",
+    "RawText": "너무 잘 쓰고 있습니다. 꾸준히 쓰던 제품인데 항상 잘 사용합니다. 배송도 정말 빠르고 만족합니다. 무난한 향이라서 좋습니다. 가족 모두 가볍게 외출할 때 현관 옆에서 사용하기 좋습니다. 양도 많아서 괜찮네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "117",
+    "Word": "29",
+    "RDate": "20210905",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "무난한 향이라서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "가족 모두 가볍게 외출할 때 현관 옆에서 사용하기 좋습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/개수",
+        "SentimentText": "양도 많아서 괜찮네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "628600",
+    "RawText": "잔향이 좋은 향수입니다. 오래도록 사랑받는 이유가 있어요. 가격이 너무 착하고 여름에 편하게 쓰기 딱 좋아요. 평소에 냄새 방지용으로 활용하기 좋은 향수입니다. 용량도 커서 편하게 쓰기 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "108",
+    "Word": "26",
+    "RDate": "20210901",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "잔향이 좋은 향수입니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 너무 착하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "여름에 편하게 쓰기 딱 좋아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "평소에 냄새 방지용으로 활용하기 좋은 향수입니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/개수",
+        "SentimentText": "용량도 커서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "편하게 쓰기 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "628627",
+    "RawText": "신랑이 젊었을 때부터 사용하는 향수인데 질리지 않는 향입니다. 향이 튀지 않아서 좋지만 아쉬운 점은 향이 오래가지는 않습니다. 신랑이 자주 써서 멀리서 걸어와도 향으로 신랑을 알아볼 정도가 되었습니다. 다음에도 구매하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "126",
+    "Word": "29",
+    "RDate": "20210813",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "질리지 않는 향입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 튀지 않아서 좋지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "향이 오래가지는 않습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "628630",
+    "RawText": "향이 좋아 또 사용하고 있어요. 물론 여기가 정말 저렴합니다. 적극 추천합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "44",
+    "Word": "11",
+    "RDate": "20210811",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 좋아",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "여기가 정말 저렴합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "628642",
+    "RawText": "브랜드 명성에 맞게 디자인도 예쁘고 향도 너무 좋습니다. 계속 사용할 것 같습니다. 추천 드려요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "54",
+    "Word": "14",
+    "RDate": "20210727",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 예쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 너무 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "628644",
+    "RawText": "아들이 사용하는 향수네요. 향도 좋고 양도 많아서 부담 없이 무난하게 사용하기 좋은 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "54",
+    "Word": "14",
+    "RDate": "20210724",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/개수",
+        "SentimentText": "양도 많아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "무난하게 사용하기 좋은 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "628652",
+    "RawText": "생일 선물로 사줬는데 아주 마음에 들어합니다. 그런데 향이 금방 사라져서 자주 뿌려줘야 하네요. 향은 은은하니 좋습니다. 이것만 쓴다고 하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "80",
+    "Word": "19",
+    "RDate": "20210713",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "향이 금방 사라져서 자주 뿌려줘야 하네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향은 은은하니 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "628653",
+    "RawText": "향이 오래가지는 않지만 몇 년 동안 꾸준하게 사용해온 향수입니다. 향에 대한 거부감이 없어서 신랑이 자주 사용합니다. 앞으로도 이 제품을 계속 구매할 생각입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "90",
+    "Word": "22",
+    "RDate": "20210713",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 오래가지는 않지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향에 대한 거부감이 없어서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "628654",
+    "RawText": "ㅇㅇ에서 판매하는 향수보다 가격은 많이 저렴합니다. 향은 그냥 그렇고 지속력은 너무 안 좋습니다. 한마디로 가품일 확율이 높아요. 절대 사지 마세요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "83",
+    "Word": "20",
+    "RDate": "20210712",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 많이 저렴합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향은 그냥 그렇고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력은 너무 안 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "628658",
+    "RawText": "처음 주문해 봤는데 향이 약하고 지속력이 짧네요. 향이 약해서 많이 뿌리게 되니 가격대비 용량도 적은 느낌입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "4",
+    "Syllable": "63",
+    "Word": "16",
+    "RDate": "20210706",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 약하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력이 짧네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 약해서 많이 뿌리게 되니",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/개수",
+        "SentimentText": "가격대비 용량도 적은 느낌입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "628670",
+    "RawText": "OOO만의 향이 특별하고 용량도 200ml로 커서 선물하기에 좋습니다. 가격도 제일 싸고 배송도 빠르네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "13",
+    "RDate": "20210616",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "OOO만의 향이 특별하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/개수",
+        "SentimentText": "용량도 200ml로 커서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 제일 싸고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "628678",
+    "RawText": "용량이 많아 좋지만, 덜어 쓰는 용기가 있으면 좋겠어요. 향은 추천평이 좋아서 샀는데 제가 생각한 향과 다르네요. 향수는 직접 매장에서 고른 후 인터넷 구매해야 할 것 같아요. 배송이나 가격은 착하고 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "117",
+    "Word": "30",
+    "RDate": "20210602",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용량/개수",
+        "SentimentText": "용량이 많아 좋지만,",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "덜어 쓰는 용기가 있으면 좋겠어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "제가 생각한 향과 다르네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 착하고 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "628681",
+    "RawText": "신랑이 이 제품을 주문해줬습니다. 전에 구매한 다른 제품은 향이 취향에 맞지 않았는데 이 제품은 향이 산뜻해서 마음에 듭니다. 무겁지 않은 향이어서 데일리로 사용하기 좋습니다. 잔향도 은은해서 좋습니다. 요즘 향수에 빠진 신랑 덕분에 이 향수를 써봅니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "142",
+    "Word": "35",
+    "RDate": "20210530",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 산뜻해서 마음에 듭니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "무겁지 않은 향이어서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "데일리로 사용하기 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "잔향도 은은해서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "628686",
+    "RawText": "약간 첫 향은 남자 스킨 냄새라서 별로인데 옅어지고 나면 은은하니 좋은 향입니다. 동생 선물로 잘 구입했습니다. 그런데 가격은 다른 사이트가 저렴해서 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "4",
+    "Syllable": "89",
+    "Word": "22",
+    "RDate": "20210520",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "첫 향은 남자 스킨 냄새라서 별로인데",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "옅어지고 나면 은은하니 좋은 향입니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 다른 사이트가 저렴해서 아쉽네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "628694",
+    "RawText": "좋아하는 향이라서 제가 사용합니다. 내가 나에게 설렙니다. 방에서 방향제처럼 사용합니다. 향이 아주 제 취향이네요. 제 이상형이 이거 쓰면 좋겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "83",
+    "Word": "19",
+    "RDate": "20210501",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "좋아하는 향이라서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "방에서 방향제처럼 사용합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 아주 제 취향이네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "628702",
+    "RawText": "꾸준히 사용하고 있는 제품으로 용량이 커서 좋고 가격도 저렴하여 구매했어요. 타 싸이트에 비해 가격도 저렴하고 포장 배송 상태가 훌륭하네요. 계속 사용하고 있는 제품이라 향수 자체의 품질이 기본은 한다고 생각되네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "120",
+    "Word": "29",
+    "RDate": "20210422",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/개수",
+        "SentimentText": "용량이 커서 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하여 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 기본은 한다고 생각되네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "628703",
+    "RawText": "오랫만에 생각 나서 구매했는데 추억이 돋네요. 예전보단 향이 연하고 지속력도 떨어지네요. 하지만 추억을 소환하는 느낌 들어 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "17",
+    "RDate": "20210422",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 연하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력도 떨어지네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "628707",
+    "RawText": "다른 제품을 사고 싶었는데 안 팔아서 이 제품을 샀는데 용량도 많고 향기도 꽤 오래 갑니다. 배송도 빨라서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "18",
+    "RDate": "20210406",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/개수",
+        "SentimentText": "용량도 많고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "향기도 꽤 오래 갑니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "628713",
+    "RawText": "우선 용량이 커서 마음이 든든하네요. 써도 써도 얼마 남았는지 신경 안 써도 되어 좋습니다. 향은 늘 사용하던 것이라 마음에 듭니다. 남자보다 여자들이 더 좋아하는 향이라고 알려져 있는데 제가 제일 좋아하는 향이네요. 가성비도 좋아서 추천해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "136",
+    "Word": "34",
+    "RDate": "20210327",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/개수",
+        "SentimentText": "우선 용량이 커서 마음이 든든하네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향은 늘 사용하던 것이라 마음에 듭니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "제가 제일 좋아하는 향이네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비도 좋아서 추천해요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "628733",
+    "RawText": "처음 사용하는 제품입니다. 향이 좋지 않아서 가성비가 없는 것 같습니다. 배송도 너무 늦게 왔습니다. 재구매는 없을 듯해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "17",
+    "RDate": "20210223",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 좋지 않아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비가 없는 것 같습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "628737",
+    "RawText": "자주 구매합니다. 남자보다 여자들이 더 좋아하는 향이라고 들었습니다. 용량이 많아서 좋아요. 지속력은 좀 약하지만요. 그러나 향이 매력있어서 항상 구매합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "88",
+    "Word": "19",
+    "RDate": "20210218",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/개수",
+        "SentimentText": "용량이 많아서 좋아요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력은 좀 약하지만요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 매력있어서 항상 구매합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "628740",
+    "RawText": "아직 뿌리고 외출한 적은 없지만 자극적이지 않고 과하지 않은 세련된 향이에요. 남성용이긴 하지만 여성도 사용하려면 할 수 있을 것 같아요. 좋은 제품입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "4",
+    "Syllable": "87",
+    "Word": "22",
+    "RDate": "20210217",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "자극적이지 않고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "과하지 않은 세련된 향이에요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "남성용이긴 하지만 여성도 사용하려면 할 수 있을 것 같아요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "628752",
+    "RawText": "향수가 떨어져서 샀어요. 향도 좋은 편이고 잘 쓰고 있어요. 지속력은 잘 모르지만 뿌린 후 향이 좋아서 마음에 들어요. 가격도 좋습니다.계속 구매 하도록 하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "92",
+    "Word": "23",
+    "RDate": "20210118",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 좋은 편이고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력은 잘 모르지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 좋아서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "628761",
+    "RawText": "배송은 빨랐습니다. 실제 사용하기 전이라 지속력은 잘 모르겠어요. 뚜껑이 불량이고 박스가 저렇게 뜯겨져 있는 거는 처음 봅니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "17",
+    "RDate": "20201224",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력은 잘 모르겠어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "뚜껑이 불량이고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "628762",
+    "RawText": "남자친구 선물용으로 구매했는데 향이 너무 좋습니다. 사실 저만 알고 싶은 그런 제품인데 또 추천하고 싶고 모두가 사용해봤으면 하는 제품입니다. 양도 많고 저렴해서 또 구매하고 싶습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "103",
+    "Word": "25",
+    "RDate": "20201222",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 너무 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/개수",
+        "SentimentText": "양도 많고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴해서 또 구매하고 싶습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "628769",
+    "RawText": "향 지속력이 거의 없는 편이에요. 예전엔 오히려 향이 좀 강한 편이라 생각했던 향수였는데 지금은 향이 너무 약해서 방향제 정도로 써야겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "1",
+    "Syllable": "79",
+    "Word": "20",
+    "RDate": "20201210",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "향 지속력이 거의 없는 편이에요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 너무 약해서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "628776",
+    "RawText": "배송도 빠르고 정말 좋습니다. 선물용으로 샀는데 받는 사람이 좋아해서 아주 만족스러워요. 다른 곳보다 가격도 저렴하게 사서 더 좋습니다. 지속력은 잔향이 은은하게 오래가서 아주 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "104",
+    "Word": "24",
+    "RDate": "20201126",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하게",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력은 잔향이 은은하게 오래가서 아주 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "잔향이 은은하게",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "628783",
+    "RawText": "선물했는데 향이 너무 좋습니다. 계속 맡게 되는 향입니다. 대용량으로 저렴하게 구매해서 더욱 마음에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "14",
+    "RDate": "20201118",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 너무 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "계속 맡게 되는 향입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구매해서 더욱 마음에 듭니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "628796",
+    "RawText": "유리병에 매트한 질감의 코팅이 마음에 듭니다. 사용감이 좋고 양도 정말 많아요. 향은 은은하고 자극적이지 않아요. 지속시간은 약간 짧은 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "82",
+    "Word": "20",
+    "RDate": "20201024",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용기",
+        "SentimentText": "유리병에 매트한 질감의 코팅이 마음에 듭니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용감",
+        "SentimentText": "사용감이 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/개수",
+        "SentimentText": "양도 정말 많아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향은 은은하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "자극적이지 않아요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속시간은 약간 짧은 것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "628805",
+    "RawText": "오래전에 신랑이 썼던 향수인데 저도 좋아서 사용했습니다. 지속력이 약한게 단점입니다. 그래도 향이 좋아서 계속 구매합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "15",
+    "RDate": "20201010",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력이 약한게 단점입니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 좋아서 계속 구매합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "628806",
+    "RawText": "오래 전부터 쓰던 향수인데 다 써서 재주문했다가 오늘 받았습니다. 펌핑이 고장나서 기존껄로 끼웠습니다. 향이 너무 좋아요. 5년 정도 쓰고 있는데 향이 질리지 않고 저의 체취가 이 향이라는 착각이 들만큼 좋아요. 다음에도 또 주문할껍니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "133",
+    "Word": "33",
+    "RDate": "20201010",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용기",
+        "SentimentText": "펌핑이 고장나서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 너무 좋아요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 질리지 않고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "저의 체취가 이 향이라는 착각이 들만큼 좋아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "628808",
+    "RawText": "이전에 사용할 때 뿌리고 난 뒤 남는 잔향이 마음에 들어서 재구매했습니다. 달달한 향을 싫어하시는 분은 사용할 만 합니다. 저는 달달한 향은 좋아하지 않습니다. 향이 오래가는 향수는 아니지만 데일리로 사용하기 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "122",
+    "Word": "30",
+    "RDate": "20201007",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "잔향이 마음에 들어서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "향이 오래가는 향수는 아니지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "데일리로 사용하기 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "달달한 향을 싫어하시는 분은 사용할 만 합니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "628823",
+    "RawText": "처음 구매해봤는데 향이 너무 강해서 싫고 지속력도 오래 가지 않아서 별로입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "44",
+    "Word": "11",
+    "RDate": "20200901",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 너무 강해서 싫고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력도 오래 가지 않아서 별로입니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "628824",
+    "RawText": "ㅇㅇ에서 구매해서 오랫동안 사용하고 있습니다.  정품이라고 하고 가격이 싸서 구매했습니다. 사용해본 결과 이거는 지속력이 없습니다. 어떻게 1시간도 지속이 안되는지 제품 품질이 많이 실망스럽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "1",
+    "Syllable": "109",
+    "Word": "23",
+    "RDate": "20200831",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 싸서 구매했습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력이 없습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "어떻게 1시간도 지속이 안되는지",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "제품 품질이 많이 실망스럽네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "628833",
+    "RawText": "OO과 비교했을때 달콤하고 시원한 향은 조금 덜한 거 같아요. 그러나 우디향이 강해 좀더 남성적인 향이라는 점은 괜찮네요. 지속력이 조금 아쉬운 부분인데 OO보다 좀더 짧은 거 같아요. 또한 병이 완전 불투명이라 답답하고 잔여량 확인도 어려운 점이 단점이네요. 재구매는 안 할 거 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "161",
+    "Word": "41",
+    "RDate": "20200819",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "OO과 비교했을때 달콤하고 시원한 향은 조금 덜한 거 같아요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "우디향이 강해 좀더 남성적인 향이라는 점은 괜찮네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력이 조금 아쉬운 부분인데 OO보다 좀더 짧은 거 같아요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "병이 완전 불투명이라 답답하고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "잔여량 확인도 어려운 점이 단점이네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "628840",
+    "RawText": "여름에 뿌리면 좋을 것 같은 향수에요. 다만 발향이 그렇게 오래가지 않는 것 같네요.  한시간 정도까지만  짧게 지속 되는 것 같습니다. 가격이 저렴하니 장시간 발향을 기대하는 것은 무리 일수도 있겠어요. ㅇㅇㅇ보다는 조금 더 향이 강한 느낌이에요. 향은 너무 독하지 않고 자극적이지 않으면서 은은한 향이 마음에 들어요. 처음에 뿌리면 약간 냄새가 안 좋기는 합니다",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "204",
+    "Word": "52",
+    "RDate": "20200809",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "여름에 뿌리면 좋을 것 같은 향수에요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "발향이 그렇게 오래가지 않는 것 같네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "짧게 지속 되는 것 같습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가격이 저렴하니",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "장시간 발향을 기대하는 것은 무리 일수도 있겠어요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "ㅇㅇㅇ보다는 조금 더 향이 강한 느낌이에요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향은 너무 독하지 않고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "자극적이지 않으면서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "은은한 향이 마음에 들어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "처음에 뿌리면 약간 냄새가 안 좋기는 합니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "628843",
+    "RawText": "고등학생 자녀에게 아침마다 뿌려줘요. 친구들이 옆에 딱 붙어 있다고 하네요. 향기가 너무 좋습니다. 향이 상쾌하고 은은해서 좋네요. 대용량 정품 상품을 저렴하게 구입해서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "100",
+    "Word": "23",
+    "RDate": "20200801",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향기가 너무 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 상쾌하고 은은해서 좋네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구입해서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "628845",
+    "RawText": "향 지속력이 좋아요. 향이 OO 보다 무거운 느낌이여서 좋고 지속력도 괜찮아요. 데일리용으로 사용해도 좋을 것 같아요. 향이 좋고 튀지 않는 향이라서 무난하게 사용할 수 있을 듯 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "104",
+    "Word": "27",
+    "RDate": "20200725",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향 지속력이 좋아요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 OO 보다 무거운 느낌이여서 좋고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력도 괜찮아요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "데일리용으로 사용해도 좋을 것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "튀지 않는 향이라서 무난하게 사용할 수 있을 듯 합니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "628909",
+    "RawText": "몇 년 전부터 이 향수만 사용해요. 은은한 향이 좋아서 계속 이 제품만 구매하게 됩니다. 저렴하게 잘 구매했어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "17",
+    "RDate": "20200306",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "은은한 향이 좋아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 구매했어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "628924",
+    "RawText": "oo라서 나름 정품이 확실할 것 같아서 구매했는데 분사하면 알코올 향이 먼저 확 느껴집니다. 그리고 향도 너무 약합니다. 아이도 친구들이 사용한 거 보고 구매했는데 실망했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "3",
+    "Syllable": "99",
+    "Word": "24",
+    "RDate": "20200130",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "알코올 향이 먼저 확 느껴집니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 너무 약합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "628931",
+    "RawText": "용기의 분무기가 불량이어서 분사하면 절반은 버리게 됩니다. 바빠서 교환 기한을 지나 버리는 바람에 불편하지만 그냥 써요. 다른 불만은 딱히 없고, 용기 불량만 아니었으면 제품은 괜찮은 거 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "3",
+    "Syllable": "110",
+    "Word": "27",
+    "RDate": "20200111",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기의 분무기가 불량이어서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "불편하지만",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기 불량만 아니었으면",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "628933",
+    "RawText": "배송도 느리고 물품 포장 상태도 안 좋네요. 이 향수 처음 구매해보는데 괜히 산 것 같습니다. 향이 좋지 않아서 주위에서 물어보지도 않네요. 향이 과하다는 소리는 몇 번 들었습니다. 차라리 비싼 향수를 사는 게 나을 것 같네요. 추천하지 않습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "138",
+    "Word": "37",
+    "RDate": "20200106",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 좋지 않아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 과하다는 소리는 몇 번 들었습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "628947",
+    "RawText": "1년 전에 제조되어 유통기한이 짧은 제품을 보내주셨네요. 아무리 향수 사용기한이 길다고 해도 1년 전에 제조된 유통기한이 짧은 향수를 보내주신 점은 이해하기 어렵습니다. 반품 배송비가 아까워서 그냥 쓰겠지만 유통기한이 짧아서 실망스럽네요. 제조일자를 표시해서 판매하시면 좋겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "3",
+    "Syllable": "156",
+    "Word": "34",
+    "RDate": "20191211",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "1년 전에 제조되어 유통기한이 짧은 제품을 보내주셨네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한이 짧은 향수를 보내주신 점은 이해하기 어렵습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한이 짧아서 실망스럽네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "628959",
+    "RawText": "진짜 너무하는거 같아요. 늘 사용하던 향수라 할인 적용 받아 구매를 한건데 가품 향수인지 전에 쓰던 것과 상당한 비교가 될 정도로 향의 지속력이 넘 짧아서 잔향도 없어요. 너무 한 거 같습니다. 품질이 불량한 제품을 보내주셨나봐요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "2",
+    "Syllable": "129",
+    "Word": "34",
+    "RDate": "20191119",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "향의 지속력이 넘 짧아서 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 불량한 제품을 보내주셨나봐요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "잔향도 없어요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인 적용 받아",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "628970",
+    "RawText": "배송도 느리고 포장도 다 뜯어져서 와서 화가 났습니다. 백화점에서 파는 거랑 포장 상태가 많이 다르네요. 향이 거부감이 들어서 주위에서도 향이 별로라고 합니다. 추천하지 않습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "100",
+    "Word": "24",
+    "RDate": "20191023",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 거부감이 들어서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "주위에서도 향이 별로라고 합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "628975",
+    "RawText": "면세점 제품과 비교했는데 정품인지는 잘 모르겠습니다. 양도 생각보다 적고 향도 강해서 별로네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "4",
+    "Syllable": "53",
+    "Word": "12",
+    "RDate": "20191008",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용량/개수",
+        "SentimentText": "양도 생각보다 적고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 강해서 별로네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "628981",
+    "RawText": "아직 뿌려보진 않았지만 이중 포장에 유통기한이 긴 제품이 와서 만족합니다. 근데 뭔가 향이 빠르게 날라가는 거 같아서 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "18",
+    "RDate": "20190918",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한이 긴 제품이 와서 만족합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "향이 빠르게 날라가는 거 같아서 아쉽네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "629001",
+    "RawText": "좋은 가격에 구매했어요. 거의 최저가로 주문한 것 같아요. 계절 상관없이 사용하기 좋은 향수라서 가성비 좋게 대용량으로 주문 했는데 만족해요. 정품인지는 잘 모르겠지만 크게 다르지 않을 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "111",
+    "Word": "27",
+    "RDate": "20190606",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 가격에 구매했어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "거의 최저가로 주문한 것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "계절 상관없이 사용하기 좋은 향수라서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋게",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "629024",
+    "RawText": "잘 받았어요. 배송도 빠르고 물품도 파손 없이 잘 받았습니다. 포장 상태도 좋았어요. 항상 이 제품만 사용하고 있습니다. 타 브랜드 향수는 만족도가 높지 않더라고요. 그런데 이 향수는 향이 너무 좋아요. 달달한 향이 오래가는 편입니다. 주위에서 향이 너무 좋다며 어떤 향수 쓰냐고 물어보기도 해요. 몇 년간 꾸준히 사용하고 있는 제품입니다. 개인적으로 제일 좋아하는 향이고요. 추천드립니다. 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "225",
+    "Word": "54",
+    "RDate": "20190329",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 너무 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "달달한 향이 오래가는 편입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "오래가는 편입니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 너무 좋다며 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "제일 좋아하는 향이고요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "629077",
+    "RawText": "향 좋고 디자인 괜찮고 무엇보다 다른 향수와 달리 뚜껑을 열 수 있어서 편합니다. 빈 향수 공병에 담을 수 있어서 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "20",
+    "RDate": "20190117",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 괜찮고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "다른 향수와 달리 뚜껑을 열 수 있어서 편합니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "629093",
+    "RawText": "포장 튼튼하게 보내주셔서 파손된 것 없이 잘 받았어요. 유통기간도 넉넉해서 적당히 사용해도 문제없어 보여요. 테스터는 처음인데 향은 같지만 지속력이 약한 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "93",
+    "Word": "22",
+    "RDate": "20181128",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기간도 넉넉해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향은 같지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력이 약한 것 같습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "629102",
+    "RawText": "배송이 너무 느리게 왔고 상품도 포장이 다 뜯어져서 박스가 파손이 되었네요. 포장 상태 너무 안 좋습니다. 또한 향도 마음에 들지 않아요. 향이 너무 과해서 주위에서 눈치를 줍니다. 차라리 다른 향수를 사는 게 더 나아요. 이 향수보다 좋은 다른 향수도 많습니다. 절대 추천하지 않고요. 재주문은 없을 듯합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "174",
+    "Word": "46",
+    "RDate": "20181024",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 마음에 들지 않아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 너무 과해서 주위에서 눈치를 줍니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "629108",
+    "RawText": "잘 받았어요. 물품도 파손이나 하자 없이 잘 왔어요. 선물용인데 너무 예쁘게 포장해 주시고 쇼핑백도 주셔서 감사했습니다. 너무 만족합니다. 향은 너무 좋고 포근한 향입니다. 주위에서도 어떤 향수 쓰냐고 물어본답니다. 포장도 잘 해주셔서 좋아요. 이 향수 선물도 자주 하는데 앞으로 여기만 이용하고 구매해야겠어요. 감사드립니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "182",
+    "Word": "42",
+    "RDate": "20181006",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향은 너무 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "포근한 향입니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "629111",
+    "RawText": "겨울용으로 뿌리기 딱 좋은 향이네요. 대용량이라서 좋고 겨울내내 사용하기 좋을 거 같습니다. 향이 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "14",
+    "RDate": "20180929",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "겨울용으로 뿌리기 딱 좋은 향이네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/개수",
+        "SentimentText": "대용량이라서 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "겨울내내 사용하기 좋을 거 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "629115",
+    "RawText": "저렴하게 구매했는데 향 지속력이 많이 떨어져서 별로네요. 뿌리고 몇 시간 후면 향이 남지 않아서 아쉬워요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "4",
+    "Syllable": "59",
+    "Word": "15",
+    "RDate": "20180918",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구매했는데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "향 지속력이 많이 떨어져서 별로네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "뿌리고 몇 시간 후면 향이 남지 않아서 아쉬워요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "629120",
+    "RawText": "펌프 뚜껑이 고장 나서 내용물이 흐르네요. 전에 쓰던 거 있으니 교환해서 그냥 씁니다. 싼 가격에 잘 산 거 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "19",
+    "RDate": "20180907",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용기",
+        "SentimentText": "펌프 뚜껑이 고장 나서 내용물이 흐르네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "싼 가격에 잘 산 거 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "629124",
+    "RawText": "잘 받았어요. 포장도 괜찮았고 물품도 파손없이 잘 받았습니다. 향이 좋아서 항상 즐겨 뿌립니다. 주위에서도 향이 좋다고 물어볼 정도랍니다. 지속력이 아쉽긴 하지만 싼 가격이니 이 정도면 만족해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "109",
+    "Word": "26",
+    "RDate": "20180819",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 좋아서 항상 즐겨 뿌립니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "주위에서도 향이 좋다고 물어볼 정도랍니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력이 아쉽긴 하지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "싼 가격이니 이 정도면 만족해요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "629131",
+    "RawText": "평소에 이 향수 브랜드가 궁금해서 가격은 비싸지만 구매해봤습니다. 근데 향이 오래가지 않아서 너무 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "14",
+    "RDate": "20180604",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 비싸지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "향이 오래가지 않아서 너무 아쉽네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "629167",
+    "RawText": "배송상태가 양호하고 가격도 저렴하게 구입했어요. 향이 지속력이 짧아서 많이 아쉽습니다. 배송은 아주 빨라요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "3",
+    "Syllable": "59",
+    "Word": "13",
+    "RDate": "20180418",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하게 구입했어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "향이 지속력이 짧아서 많이 아쉽습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "629196",
+    "RawText": "배송 많이 빨라서 좋았어요. 항상 쓰던 제품입니다. 남녀노소 모두 사용하기 좋은 향이에요. 저렴하게 잘 구입했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "15",
+    "RDate": "20180222",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "남녀노소 모두 사용하기 좋은 향이에요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 구입했습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "629199",
+    "RawText": "잘 받았어요. 배송도 빠르고 가격도 저렴합니다. 다만 아쉬운건 역시 오 드 트왈렛이라 지속력이 정말 아쉬워요. OOO가 그래도 지속력이 나쁘진 않은데 오 드 트왈렛은 지속력이 짧은게 너무 아쉬워요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO C** BE EDT 200ml",
+    "ReviewScore": "4",
+    "Syllable": "110",
+    "Word": "27",
+    "RDate": "20171215",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "오 드 트왈렛이라 지속력이 정말 아쉬워요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "오 드 트왈렛은 지속력이 짧은게 너무 아쉬워요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "629219",
+    "RawText": "배송 빠릅니다. 향은 생각했던 데로 흔하지도 않으면서 매력적인 향입니다. 중성적인 향입니다. 남녀 구분 없이 쓸 수 있고 향은 지속력이 좋아 오래갈 듯한데 은은한 느낌은 아닙니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 소** EDT 100ml",
+    "ReviewScore": "5",
+    "Syllable": "100",
+    "Word": "25",
+    "RDate": "20220824",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향은 생각했던 데로 흔하지도 않으면서 매력적인 향입니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "중성적인 향입니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향은 지속력이 좋아 오래갈 듯한데 은은한 느낌은 아닙니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력이 좋아 오래갈 듯한데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "남녀 구분 없이 쓸 수 있고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]

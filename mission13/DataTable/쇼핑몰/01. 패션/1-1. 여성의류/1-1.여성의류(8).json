@@ -1,0 +1,3517 @@
+[
+  {
+    "Index": "2258",
+    "RawText": "검정색,  하얀색 티셔츠는 두꺼운 천에 느낌이고 다른 두개는 제가 좋아하는 얇고 부드러운천이라 너무 좋아용~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 아** 티셔츠 4종 세트",
+    "ReviewScore": "90",
+    "Syllable": "60",
+    "Word": "14",
+    "RDate": "20210501",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "검정색,  하얀색 티셔츠는 두꺼운 천에 느낌이고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "부드러운천이라 너무 좋아용~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2260",
+    "RawText": "나름 괜찮아요~살구색과 회색은 얇은데 ..살구색은 색상이 넘 맘에 들고,  그레이는 좀 어둡기는 하나 부드럽고 소재 좋아요~블래과 화이트는 조금 두툼한 편이고 소재도 괜찮고 프린트도 괜찮아요~실망할까 걱정했는데..저렴한 가격에 잘샀어요~^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 아** 티셔츠 4종 세트",
+    "ReviewScore": "90",
+    "Syllable": "134",
+    "Word": "27",
+    "RDate": "20210531",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "살구색과 회색은 얇은데 ..",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "살구색은 색상이 넘 맘에 들고,",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "그레이는 좀 어둡기는 하나",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "부드럽고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재 좋아요~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "블래과 화이트는  조금 두툼한 편이고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재도 괜찮고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "프린트도 괜찮아요~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 잘샀어요~^^",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2264",
+    "RawText": "저렴한 가격에 만족합니다  저는 핑크 베이지가 얇아서 받쳐입기가 좋아 더 자주 입습니다  좋아요~^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 아** 티셔츠 4종 세트",
+    "ReviewScore": "80",
+    "Syllable": "56",
+    "Word": "13",
+    "RDate": "20210705",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 만족합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "핑크 베이지가 얇아서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "받쳐입기가 좋아 더 자주 입습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2275",
+    "RawText": "싸이즈도 딱맞고 한여름에 입기딱이네요.낼출근길~~새로산 스커트에 입어볼생각이네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 아** 티셔츠 4종 세트",
+    "ReviewScore": "100",
+    "Syllable": "44",
+    "Word": "6",
+    "RDate": "20210502",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "싸이즈도 딱맞고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "한여름에 입기딱이네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2283",
+    "RawText": "두개는 얇고 조금 큰것 같고  두개는 약간 톡톡한개  기장도 적당하고 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 아** 티셔츠 4종 세트",
+    "ReviewScore": "100",
+    "Syllable": "42",
+    "Word": "11",
+    "RDate": "20200903",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "두개는 얇고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "조금 큰것 같고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "약간 톡톡한개",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "기장도 적당하고 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2285",
+    "RawText": "환절기에 입기 좋을 듯. 컬러별  디자인이 괜찮내요.  봉제부분 미흡한 부분 있어 별하나 뺍니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 풀오버 니트 3종",
+    "ReviewScore": "80",
+    "Syllable": "54",
+    "Word": "13",
+    "RDate": "20201018",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "환절기에 입기 좋을 듯.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "컬러별  디자인이 괜찮내요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "봉제부분 미흡한 부분 있어 별하나 뺍니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "2286",
+    "RawText": "신축성이  생각보다 없어서 아쉬운데  색상은 예뻐요~~ 잘입을게요~~^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 풀오버 니트 3종",
+    "ReviewScore": "80",
+    "Syllable": "40",
+    "Word": "7",
+    "RDate": "20201109",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "신축성",
+        "SentimentText": "신축성이  생각보다 없어서 아쉬운데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": " 색상은 예뻐요~~ ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2294",
+    "RawText": "옷감이 부드럽지도 않고 까슬거리고 원단이 얇아요 택을 떼버려서 반품도 못하고 돈아까워서 ㅠ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 풀오버 니트 3종",
+    "ReviewScore": "20",
+    "Syllable": "50",
+    "Word": "12",
+    "RDate": "20201015",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "옷감이 부드럽지도 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "까슬거리고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "원단이 얇아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "돈아까워서 ㅠ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "2302",
+    "RawText": "길이가 짧아서 가볍게 입기 좋지만 살짝만 더 길었으면 합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 풀오버 니트 3종",
+    "ReviewScore": "100",
+    "Syllable": "33",
+    "Word": "9",
+    "RDate": "20201120",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "길이",
+        "SentimentText": "길이가 짧아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "가볍게 입기 좋지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "살짝만 더 길었으면 합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "2309",
+    "RawText": "색감도 예쁘고 쿨하게 부드럽고 올여름에 잘입을수 있을듯요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 케** 라운드 골지 풀오버",
+    "ReviewScore": "100",
+    "Syllable": "32",
+    "Word": "7",
+    "RDate": "20210312",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색감도 예쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "쿨하게 부드럽고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "올여름에 잘입을수 있을듯요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2317",
+    "RawText": "넉넉하게 나왔네요. 지금 빨리 입어야할듯 얇아요~  하지만하나에 만원도 안하는옷이라면 가성비 괜찮습니다.  칼라도 괜찮아요. A라인 핏입니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 터들넥 니트 4종",
+    "ReviewScore": "100",
+    "Syllable": "78",
+    "Word": "15",
+    "RDate": "20201006",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "넉넉하게 나왔네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "만원도 안하는옷이라면 가성비 괜찮습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "칼라도 괜찮아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "A라인 핏입니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇아요~",
+        "SentimentWord": "1",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "지금 빨리 입어야할듯",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2318",
+    "RawText": "품은 넓고 겨드랑이는 끼는데 사이즈를 올릴수도 내릴수도 없는 애매한 사이즈네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 터들넥 니트 4종",
+    "ReviewScore": "100",
+    "Syllable": "43",
+    "Word": "10",
+    "RDate": "20201118",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "품은 넓고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "겨드랑이는 끼는데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "애매한 사이즈네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "2319",
+    "RawText": "핑크 색상 넘 에쁘고 나머지 무난한 색상이라 안에 받쳐입기도 편하고 하나만 입기에도 편하고 좋아요 가격까지 착해서 만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 터들넥 니트 4종",
+    "ReviewScore": "100",
+    "Syllable": "69",
+    "Word": "17",
+    "RDate": "20201027",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "핑크 색상 넘 에쁘고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "안에 받쳐입기도 편하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "하나만 입기에도 편하고 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격까지 착해서 만족합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2320",
+    "RawText": "그냥 디자인이 평범하고 50대용 옷. 고급스럽진 않아요. 가격만큼이네요. 검정색은 유난히 냄새가 심해 바로 세탁.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 니트 3종",
+    "ReviewScore": "60",
+    "Syllable": "63",
+    "Word": "14",
+    "RDate": "20201008",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "고급스럽진 않아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격만큼이네요.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "냄새",
+        "SentimentText": "검정색은 유난히 냄새가 심해",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 평범하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "2327",
+    "RawText": "색상마다 사이즈차이가 심합니다.  한번 반품하고 다시 구매했는데도 여전히 색상별로 사이즈가 제각각이네요.  소재도 금방늘어갈꺼같고 디자인이 이쁘긴한데 또 반품하기 귀찮아서 그냥 입어요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 메** 여성 니트 4종",
+    "ReviewScore": "40",
+    "Syllable": "103",
+    "Word": "20",
+    "RDate": "20201013",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈차이가 심합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 제각각이네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재도 금방늘어갈꺼같고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 이쁘긴한데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2329",
+    "RawText": "가격대비 좋아요~ 세탁시 변화 없어요^^ 싸이즈 한 칫수 작게 주문하세요. 넉넉한 싸이즈 입니다..",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 메** 여성 니트 4종",
+    "ReviewScore": "100",
+    "Syllable": "55",
+    "Word": "13",
+    "RDate": "20201022",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 좋아요~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "넉넉한 싸이즈 입니다..",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "세탁시 변화 없어요^^",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2332",
+    "RawText": "와~~우 오랫만에 가성비 좋은티 구매했어요 핏도 목선도 이쁘네요~~강추입니당",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 메** 여성 니트 4종",
+    "ReviewScore": "100",
+    "Syllable": "42",
+    "Word": "8",
+    "RDate": "20201005",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋은티 구매했어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏도 목선도 이쁘네요~~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "목선도 이쁘네요~~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2337",
+    "RawText": "목부분이 좀 많이 헐렁하고 소재가 생각보다 많이 반짝이지만 데일리로 편하게 잘 입을만해요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 메** 여성 니트 4종",
+    "ReviewScore": "100",
+    "Syllable": "49",
+    "Word": "12",
+    "RDate": "20201005",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "목부분이 좀 많이 헐렁하고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재가 생각보다 많이 반짝이지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "데일리로 편하게 잘 입을만해요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2343",
+    "RawText": "색상 디자인 다 예쁘네요 조금 아쉬운건 싸이즈가 조금 크다는거^^*",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 메** 여성 니트 4종",
+    "ReviewScore": "90",
+    "Syllable": "37",
+    "Word": "9",
+    "RDate": "20201007",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상 디자인 다 예쁘네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 다 예쁘네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "싸이즈가 조금 크다는거^^*",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "2344",
+    "RawText": "피부에닿아도 까끌거리지않네요 저렴한가격이지만   잘입을듯합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 메** 여성 니트 4종",
+    "ReviewScore": "100",
+    "Syllable": "34",
+    "Word": "4",
+    "RDate": "20201011",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감",
+        "SentimentText": "피부에닿아도 까끌거리지않네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한가격이지만",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2350",
+    "RawText": "색상이 이뻐여 디자인도 고급지게 반짝거리구 청바지 정장 어디에나 잘 어울려요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 메** 여성 니트 4종",
+    "ReviewScore": "100",
+    "Syllable": "42",
+    "Word": "10",
+    "RDate": "20201006",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 이뻐여",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 고급지게 반짝거리구",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "청바지 정장 어디에나 잘 어울려요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2365",
+    "RawText": "처음에는 살짝 까슬까슬 하던데 ...무난하고 편하게 입으려고 구매했고 울코스로 세탁했는데 변형은 없는데  세탁후 까슬거리지 않았음 좋겠어요~~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 메** 여성 니트 4종",
+    "ReviewScore": "80",
+    "Syllable": "79",
+    "Word": "16",
+    "RDate": "20201009",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "촉감",
+        "SentimentText": "처음에는 살짝 까슬까슬 하던데 ..",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 울코스로 세탁했는데 변형은 없는데 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2367",
+    "RawText": "너무 만족스럽게 잘입고 다니고 있어요~ 펄사가 들어갔지만 정말 과하지가 않았어요! 지금입기 딱!좋은 두께와 멋진스퇄일듯 싶습니다~^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 메** 여성 니트 4종",
+    "ReviewScore": "100",
+    "Syllable": "74",
+    "Word": "15",
+    "RDate": "20201008",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "펄사가 들어갔지만 정말 과하지가 않았어요!",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "지금입기 딱!좋은 두께",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "멋진스퇄일듯 싶습니다~^^",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2368",
+    "RawText": "완전 가성비 갑이예요  까끌거리지도 않구요 디자인이 너무이뻐요 냄새가 나서 세탁기에 울 코스로 돌렸는데 아무 변형도 없고 냄새도 빠졌어요 한세트 더 사두고 싶네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 메** 여성 니트 4종",
+    "ReviewScore": "100",
+    "Syllable": "90",
+    "Word": "22",
+    "RDate": "20200924",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "완전 가성비 갑이예요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "까끌거리지도 않구요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 너무이뻐요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "냄새",
+        "SentimentText": "냄새가 나서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "아무 변형도 없고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "냄새",
+        "SentimentText": "냄새도 빠졌어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2370",
+    "RawText": "배송도 빠르고 상품 색상, 디자인 다 마음에 들고 사이즈도 좋습니다. 받자마자 세탁하느라 사진을 못찍었네요ㅎㅎ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 메** 여성 니트 4종",
+    "ReviewScore": "100",
+    "Syllable": "61",
+    "Word": "14",
+    "RDate": "20200923",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상, 디자인 다 마음에 들고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 다 마음에 들고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈도 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2373",
+    "RawText": "영란 언니 말 듣고 샀는데 소재 너무 고급져요.  오늘 바로 입고 출근했어요. 갠적으로 민트색 좋네요. 거기에  쩌렴이 스커트랑 입었는데 같이 고급스러워 보여요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 메** 여성 니트 4종",
+    "ReviewScore": "100",
+    "Syllable": "90",
+    "Word": "22",
+    "RDate": "20200924",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재 너무 고급져요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "민트색 좋네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "거기에  쩌렴이 스커트랑 입었는데 같이 고급스러워 보여요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2375",
+    "RawText": "상품배송 느리고..목부분 쪼이고..옷이 큽니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 라** 넥 소프트 니트 4종 택1",
+    "ReviewScore": "60",
+    "Syllable": "25",
+    "Word": "4",
+    "RDate": "20201012",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "목부분 쪼이고..",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "옷이 큽니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "2377",
+    "RawText": "사이즈도  넉넉하고  색상이  다양해서  활용도가  괜찮은것같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 니트 4종세트",
+    "ReviewScore": "100",
+    "Syllable": "37",
+    "Word": "6",
+    "RDate": "20201021",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈도  넉넉하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이  다양해서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "활용도가  괜찮은것같아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2382",
+    "RawText": "그냥저냥 무난하게 입기 편하네요.사이즈 넉넉하니 잘맞고 보풀이 안일어나길 바랍니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 니트 4종세트",
+    "ReviewScore": "70",
+    "Syllable": "46",
+    "Word": "9",
+    "RDate": "20201130",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "활용성",
+        "SentimentText": "무난하게 입기 편하네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈 넉넉하니 잘맞고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2387",
+    "RawText": "착용감이 편하고 빨강은 색도 이쁘네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성용 기모 니트자켓 3종",
+    "ReviewScore": "100",
+    "Syllable": "20",
+    "Word": "5",
+    "RDate": "20201022",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감이 편하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "빨강은 색도 이쁘네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2393",
+    "RawText": "색상1개가맘에안들지만가격대비좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성용 기모 니트자켓 3종",
+    "ReviewScore": "60",
+    "Syllable": "18",
+    "Word": "1",
+    "RDate": "20201028",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상1개가맘에안들지만",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비좋아요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2403",
+    "RawText": "블랙만 목부분이 늘어나지않아  불편 ᆢ 빨강은 품이 큼 ㆍ 약간씩 사이즈가 다르네요 냄새도 심함  가격대비 무난함",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성용 기모 니트자켓 3종",
+    "ReviewScore": "100",
+    "Syllable": "63",
+    "Word": "16",
+    "RDate": "20201021",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "신축성",
+        "SentimentText": "블랙만 목부분이 늘어나지않아  불편 ᆢ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "빨강은 품이 큼 ㆍ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "약간씩 사이즈가 다르네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "냄새",
+        "SentimentText": "냄새도 심함",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 무난함",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2409",
+    "RawText": "남편하고 커플룩으로 구입 했는데 아직 3가지 컬러 중에  블랙만 두번 입어보니 손목 부터 팔굼치 스치는 부분이 보풀이 많이 일어 나네요. 사이즈는 마음에 들어요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성용 기모 니트자켓 3종",
+    "ReviewScore": "80",
+    "Syllable": "90",
+    "Word": "23",
+    "RDate": "20201023",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "보풀이 많이 일어 나네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈는 마음에 들어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2423",
+    "RawText": "가격은싸지만 한두번입으니보풀장난이아님ㅠ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 기모 니트자켓 3종",
+    "ReviewScore": "30",
+    "Syllable": "21",
+    "Word": "2",
+    "RDate": "20201216",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은싸지만",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "보풀장난이아님ㅠ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "2459",
+    "RawText": "일단 가격이 착합니다. 그리고 남편이 까다로운데 보자마자 맘에 든다고 좋아하네요. 근데 옷냄새가 너무 나네요. 밖에 걸어도 두고 섬유유연제로 세탁도 했는데 아직도 냄새가 납니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 기모 니트자켓 3종",
+    "ReviewScore": "100",
+    "Syllable": "99",
+    "Word": "23",
+    "RDate": "20201029",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 착합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "냄새",
+        "SentimentText": "옷냄새가 너무 나네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "냄새",
+        "SentimentText": "아직도 냄새가 납니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "2469",
+    "RawText": "남편하고 커플룩으로 구입 했는데 손목 부분이 부푸러기가 많이 일어 나네요 품질이 별로예요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 기모 니트자켓 3종",
+    "ReviewScore": "80",
+    "Syllable": "49",
+    "Word": "12",
+    "RDate": "20201023",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "손목 부분이 부푸러기가 많이 일어 나네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 별로예요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "2478",
+    "RawText": "사이즈가 슬림해서 한치수 크게 사도 괜찮을듯요 지금 입기 딱이네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 기모 니트자켓 3종",
+    "ReviewScore": "100",
+    "Syllable": "36",
+    "Word": "9",
+    "RDate": "20201026",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 슬림해서 한치수 크게 사도 괜찮을듯요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "지금 입기 딱이네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2480",
+    "RawText": "남편이 저렴한게 아주 똑똑하다네요 사이즈가 잘 맞는다고 좋아합니다 따뜻하고 디자인도 좋네요~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 기모 니트자켓 3종",
+    "ReviewScore": "100",
+    "Syllable": "51",
+    "Word": "11",
+    "RDate": "20201103",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한게 아주 똑똑하다네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 좋네요~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 잘 맞는다고 좋아합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2483",
+    "RawText": "생각보다 조금 얇은것같슨데요.디자인 무난하고 가볍게 걸치기 좋은것같습니다.저렴한 가격에 잘 구입했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 기모 니트자켓 3종",
+    "ReviewScore": "100",
+    "Syllable": "58",
+    "Word": "10",
+    "RDate": "20201027",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "생각보다 조금 얇은것같슨데요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 무난하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "가볍게 걸치기 좋은것같습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 잘 구입했습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2484",
+    "RawText": "사이즈잘맞고 디자인 맘에들어요. 간절기에 딱이네요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 기모 니트자켓 3종",
+    "ReviewScore": "100",
+    "Syllable": "28",
+    "Word": "5",
+    "RDate": "20201029",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈잘맞고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 맘에들어요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "간절기에 딱이네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2489",
+    "RawText": "정사이즈로 잘 맞네요 소매마감이 조금 아쉽긴 하지만 가성비 최고",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 기모 니트자켓 3종",
+    "ReviewScore": "100",
+    "Syllable": "35",
+    "Word": "9",
+    "RDate": "20201016",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "정사이즈로 잘 맞네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "소매마감이 조금 아쉽긴 하지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 최고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2506",
+    "RawText": "괜찮아~ 가볍고 따뜻하고 색상도 맘에 들어요~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 기모 니트자켓 3종",
+    "ReviewScore": "100",
+    "Syllable": "25",
+    "Word": "6",
+    "RDate": "20201116",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 맘에 들어요~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2508",
+    "RawText": "코몽트는  믿고구매합니다 남동생이하도 옷을안사입길래 앞번에 코몽트트레이닝복선물해쥤는데   편하다고매일 그옷만입고다니길래 이번에도 코몽트로 구매했는데 착용감이 완전맘에든다고 고맙다고하네요 가격대비 품질 좋고 디자인 완전짱입니다 이옷 안사면 후회합니다 안감기모라서 좋고  적극추천  강추강추",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 기모 니트자켓 3종",
+    "ReviewScore": "100",
+    "Syllable": "160",
+    "Word": "26",
+    "RDate": "20201021",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감이 완전맘에든다고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 품질 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 완전짱입니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "안감기모라서 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2515",
+    "RawText": "세탁하니 옷감이 다 늘어지고 따뜻함도 없어서 별로라고 하네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 기모 니트자켓 3종",
+    "ReviewScore": "60",
+    "Syllable": "33",
+    "Word": "8",
+    "RDate": "20201125",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "옷감이 다 늘어지고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻함도 없어서 별로라고 하네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "2523",
+    "RawText": "옷이 입으면 편하고 실용적이예요. 세탁망에 넣어 세탁, 건조기를 돌려도 문제가 없네요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 기모 니트자켓 3종",
+    "ReviewScore": "100",
+    "Syllable": "48",
+    "Word": "11",
+    "RDate": "20201126",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "입으면 편하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "실용적이예요.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "세탁, 건조기를 돌려도 문제가 없네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2528",
+    "RawText": "남푠꺼 배송받고보니 쫀쫀하고 촉감이 부드럽고 넘좋아서  여성것도구매하려보니 찾을수가없네요 ㅜㅜ 완판됬나바요 너무아쉽네요~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 기모 니트자켓 3종",
+    "ReviewScore": "100",
+    "Syllable": "67",
+    "Word": "11",
+    "RDate": "20201024",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "신축성",
+        "SentimentText": "쫀쫀하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "촉감이 부드럽고 넘좋아서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2537",
+    "RawText": "어깨 사이즈는 잘맞는데 입으면 기어올라가는 아랫단 부분이 조금 불펀하고 길이도 조금 길지만 목은 착용감이 불편하지 않아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 터틀넥 스웨터 4종",
+    "ReviewScore": "60",
+    "Syllable": "67",
+    "Word": "16",
+    "RDate": "20201105",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "어깨 사이즈는 잘맞는데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "입으면 기어올라가는 아랫단 부분이 조금 불펀하고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "길이도 조금 길지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "목은 착용감이 불편하지 않아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2540",
+    "RawText": "착용감이 너무 좋아요. 따뜻하게 출근할 때 돌아가면서 유니폼처럼 입어요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 터틀넥 스웨터 4종",
+    "ReviewScore": "100",
+    "Syllable": "40",
+    "Word": "9",
+    "RDate": "20201115",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감이 너무 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻하게",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "유니폼처럼 입어요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2542",
+    "RawText": "여든넷되신 엄마께 젊게 사시라고 사드렸는데 적당히 도톰하니 꽈배기무늬도 예쁘다고 넘나 좋아하시네여~ 맘에 들어하셔서 저도 기분 좋네여~^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 퓨** 케이블 니트 3종 ",
+    "ReviewScore": "100",
+    "Syllable": "77",
+    "Word": "16",
+    "RDate": "20201108",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "적당히 도톰하니",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "꽈배기무늬도 예쁘다고 넘나 좋아하시네여~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2545",
+    "RawText": "오늘 받자마자 바로 포장해체... 배송온 박스가 찌그러져있어서 기분이 별로였는데 제품을 확인하보니 또실망 ㅠㅠ 색상은 화면이 더 이쁘게 나오고 직접보면 좀 오래입은 듯한 색상이네요 그리고 제품확인을 안하시고 보내신건지 빨간색은 로거가 아예없네요 허리쪽에도 다른삭실이 섞여있고 전체적으로 장말 짜증납니다 걍 귀찮아서 입네요 ㅠㅠ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 퓨** 케이블 니트 3종 ",
+    "ReviewScore": "20",
+    "Syllable": "182",
+    "Word": "40",
+    "RDate": "20201112",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상은 화면이 더 이쁘게 나오고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "좀 오래입은 듯한 색상이네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "빨간색은 로거가 아예없네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "허리쪽에도 다른삭실이 섞여있고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "2547",
+    "RawText": "얇아서 좋고 안뚱뚱해보이고 디자인이 너무 이쁩니다 가성비 짱~ ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 퓨** 케이블 니트 3종 ",
+    "ReviewScore": "100",
+    "Syllable": "35",
+    "Word": "8",
+    "RDate": "20201109",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇아서 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "안뚱뚱해보이고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 너무 이쁩니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 짱~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2557",
+    "RawText": "색상이 방송에서하고 다르네요ㅠ 밝은색상이 아니고 좀 바랜색상이네요 가격대비 괜찮아서 그냥 입어볼까해요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 퓨** 케이블 니트 3종 ",
+    "ReviewScore": "80",
+    "Syllable": "56",
+    "Word": "11",
+    "RDate": "20201120",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 방송에서하고 다르네요ㅠ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "밝은색상이 아니고 좀 바랜색상이네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 괜찮아서 그냥 입어볼까해요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2572",
+    "RawText": "두번정도입었는데 세탁후 목부부이 약간 늘어집니다. 그것외엔 디자인은 이뻐요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 퓨** 케이블 니트 3종 ",
+    "ReviewScore": "50",
+    "Syllable": "42",
+    "Word": "8",
+    "RDate": "20201213",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "목부부이 약간 늘어집니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인은 이뻐요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2574",
+    "RawText": "딸이랑 같이입어요 정사이즈에 보온감도 좋고 피부에 닿는 느낌도 좋아요 아놀드 니트를 이가격에 산다는건 상상 그이상이네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 퓨** 케이블 니트 3종 ",
+    "ReviewScore": "100",
+    "Syllable": "66",
+    "Word": "15",
+    "RDate": "20201118",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "정사이즈에",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "보온감도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "피부에 닿는 느낌도 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "아놀드 니트를 이가격에 산다는건 상상 그이상이네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2575",
+    "RawText": "배송도 빠르고 좋아요  가격도 저렴하게 잘 구매했습니다  색상도 세가지로 이쁘네요 옷 코디히기도 쉬워요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 퓨** 케이블 니트 3종 ",
+    "ReviewScore": "100",
+    "Syllable": "57",
+    "Word": "13",
+    "RDate": "20201119",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하게 잘 구매했습니다 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 세가지로 이쁘네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "옷 코디히기도 쉬워요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2577",
+    "RawText": "사이즈가 작게나온것 같아요~ 소재는 면이여서 부드럽고 두께도 적당하네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 퓨** 케이블 니트 3종 ",
+    "ReviewScore": "100",
+    "Syllable": "39",
+    "Word": "8",
+    "RDate": "20201123",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 작게나온것 같아요~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재는 면이여서 부드럽고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "두께도 적당하네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2582",
+    "RawText": "촉감도좋고 디자인이 력셔리해보여요 핑크도 좋을것같아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 캐** 앙고라 니트 세트 3종",
+    "ReviewScore": "100",
+    "Syllable": "29",
+    "Word": "5",
+    "RDate": "20201118",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감",
+        "SentimentText": "촉감도좋고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 력셔리해보여요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "핑크도 좋을것같아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2583",
+    "RawText": "코트안에입기에ㅡ아주적당한 두께와핏이완전굿~입니다ㅡ 착한가격으로따뜻하게 ~럭셔리하게코디하기에 좋습니다~♡ ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 캐** 앙고라 니트 세트 3종",
+    "ReviewScore": "100",
+    "Syllable": "58",
+    "Word": "5",
+    "RDate": "20201224",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "아주적당한 두께와",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏이완전굿~입니다ㅡ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "착한가격으로",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻하게 ~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "럭셔리하게코디하기에 좋습니다~♡",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2595",
+    "RawText": "좋아요 사이즈 넉넉하니 박시하게 입으려고 큰 사이즈 주문했는데 사이즈 딱이네요  마음에 들어요 기모맨투맨은 따뜻하게  후드집업은 편하게 입을 수 있겠어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성용 맨투맨+후드집업 3종 세트",
+    "ReviewScore": "100",
+    "Syllable": "85",
+    "Word": "19",
+    "RDate": "20201030",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈 넉넉하니",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈 딱이네요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "기모맨투맨은 따뜻하게 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "후드집업은 편하게 입을 수 있겠어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2600",
+    "RawText": "77 주문했는데 88이 왔네요 그냥 입긴하는데  좀 커요  부드럽고 스타일은 맘에 들어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 캐시미어 쥬** 니트 3종",
+    "ReviewScore": "100",
+    "Syllable": "49",
+    "Word": "12",
+    "RDate": "20201223",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "77 주문했는데 88이 왔네요 그냥 입긴하는데 좀 커요 ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "부드럽고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "스타일은 맘에 들어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2604",
+    "RawText": "사이즈가 좀큰편이네요 잘 늘어나는 편이에요 살이 예민한편이어서 목이 많이 따가워요 예민한피부는 고려해보시는게...",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 캐시미어 쥬** 니트 3종",
+    "ReviewScore": "100",
+    "Syllable": "63",
+    "Word": "12",
+    "RDate": "20201223",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 좀큰편이네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": "잘 늘어나는 편이에요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "목이 많이 따가워요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "2624",
+    "RawText": "목부분이 이중이라 너무 두꺼워요. 사이즈도 별로네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 캐시미어 쥬** 니트 3종",
+    "ReviewScore": "100",
+    "Syllable": "28",
+    "Word": "6",
+    "RDate": "20210526",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "목부분이 이중이라 너무 두꺼워요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈도 별로네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "2626",
+    "RawText": "다소 얇은감은 있지만   이너로 입기엔 적당하네요   정사이즈주문하면  딱 맞을꺼같아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 캐시미어 쥬** 니트 3종",
+    "ReviewScore": "100",
+    "Syllable": "48",
+    "Word": "9",
+    "RDate": "20201204",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "다소 얇은감은 있지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "이너로 입기엔 적당하네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "정사이즈주문하면  딱 맞을꺼같아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2631",
+    "RawText": "생각했던것보다 디자인이 훨씬 더 예쁩니다 그런데 블랙색상이 소매통이 조금 더 넓어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 캐시미어 쥬** 니트 3종",
+    "ReviewScore": "100",
+    "Syllable": "46",
+    "Word": "11",
+    "RDate": "20201216",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 훨씬 더 예쁩니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "블랙색상이 소매통이 조금 더 넓어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "2639",
+    "RawText": "퀄리티 너무 좋고요. 케이블 니트 특성상 엉덩이까지 덮는 길이는 아니지만 적당한 길이에 색도 이뻐서 매우 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 케이블 니트 3종",
+    "ReviewScore": "100",
+    "Syllable": "64",
+    "Word": "16",
+    "RDate": "20201212",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "퀄리티 너무 좋고요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "적당한 길이에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색도 이뻐서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2642",
+    "RawText": "사이즈가너무크고.소매길이가터무니없이길어.착용감도 불편하고~~. 푸마이기에.기대했는데.....",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 더블기모 하프넥3종(집업/셔츠)",
+    "ReviewScore": "50",
+    "Syllable": "51",
+    "Word": "3",
+    "RDate": "20201224",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가너무크고.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "소매길이가터무니없이길어.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감도 불편하고~~.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "2658",
+    "RawText": "소재는 부들부들하고 좋아요 평소에 55입는데 힙이 좀 있는편이에요 니트바지 붙는게 부담스러워  66시켰더니 상의는 너무 커요ㅠㅠ 그래도 바지가 맘에들어서 입을까해요 상하의 사이즈 선택가능하면 좋겠어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 에** 니트 셋업 3종",
+    "ReviewScore": "100",
+    "Syllable": "111",
+    "Word": "23",
+    "RDate": "20201121",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재는 부들부들하고 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "상의는 너무 커요ㅠㅠ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "2667",
+    "RawText": "55사이즈인데 딱 맞게 입기 민망할듯해서 66구매했는데 약간 헐렁하게 괜찮네요. 생각보다 퀄리티 너무 좋아서 네이비55로 추가 구매하려고 합니다. 이가격에 진짜 괜찮아서 고민할것도 없이 구매 추천드려요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 에** 니트 셋업 3종",
+    "ReviewScore": "100",
+    "Syllable": "113",
+    "Word": "24",
+    "RDate": "20201119",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "약간 헐렁하게 괜찮네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "생각보다 퀄리티 너무 좋아서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "이가격에 진짜 괜찮아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2669",
+    "RawText": "사이즈변경하길 잘했어요.  사이즈 잘맞고 가격대비 좋은제품입니다. 홈쇼핑서 옷잘안사는데..  맘에듭니다. ^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 에** 니트 셋업 3종",
+    "ReviewScore": "100",
+    "Syllable": "61",
+    "Word": "10",
+    "RDate": "20201123",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈 잘맞고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 좋은제품입니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2671",
+    "RawText": "가격도 저렴하고 품질도 좋네요. 티,가디건, 바지가 몸에 붙지 않고 편합니다. 하지만 버건디 색상은 화면과 색상이 좀 다르네요. 짙은 퍼플쪽이라 화면과 좀 다르네요. 그래도 디자인은 예쁩니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 에** 니트 셋업 3종",
+    "ReviewScore": "100",
+    "Syllable": "107",
+    "Word": "25",
+    "RDate": "20201120",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 좋네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "티,가디건, 바지가 몸에 붙지 않고 편합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "버건디 색상은 화면과 색상이 좀 다르네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "짙은 퍼플쪽이라 화면과 좀 다르네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인은 예쁩니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2678",
+    "RawText": "품질이 너무 너무 좋아요 추천합니다 포근하고 따갑지않고 디자인도 맘에 들고 가격도 착하고 사이즈도 적당하고 세탁 후 보플만 생기지 않는다면 완벽합 니다~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 글** 기모 티블라우스 5종",
+    "ReviewScore": "100",
+    "Syllable": "85",
+    "Word": "21",
+    "RDate": "20201212",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 너무 너무 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "포근하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "따갑지않고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 맘에 들고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 착하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈도 적당하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2680",
+    "RawText": "한사이즈 크게 구매해서 좀 크긴 하지만 편하게 입어요 그런데 한번 입고 세탁했는데 보풀이 일어나네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 글** 기모 티블라우스 5종",
+    "ReviewScore": "100",
+    "Syllable": "55",
+    "Word": "14",
+    "RDate": "20210101",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "한사이즈 크게 구매해서 좀 크긴 하지만",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편하게 입어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "보풀이 일어나네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "2682",
+    "RawText": "일단 가볍고 부드러워요. 까슬거리는 느낌없이 입을수 있어서 좋아요. 루르핏 아니고 슬림핏이라  조금  건강해 보이는거 빼곤  만족해요. 보풀은 세탁 전이라 아직 모르겠어요. ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 글** 기모 티블라우스 5종",
+    "ReviewScore": "100",
+    "Syllable": "97",
+    "Word": "21",
+    "RDate": "20201231",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "부드러워요.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "까슬거리는 느낌없이 입을수 있어서 좋아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "루르핏 아니고 슬림핏이라  조금  건강해 보이는거 빼곤  만족해요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2693",
+    "RawText": "흰색옷   오늘 처음  착용하고   깜짝  놀랐어요 온몸에  흰색털이  다  묻어서요 저렴한 가격이라지만  품질이 너무하네요 ㅠ 착용해보시고  판매하시는지  궁금합니다 오늘  그냥  버렸어요 홈쇼핑  자주 이용하지만   OO쇼핑  신뢰가  깨지네요~ 상품평  안  남기려  했지만 담엔  꼭  참고하시라고  남깁니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 쥬** 앙고라 니트 3종",
+    "ReviewScore": "10",
+    "Syllable": "176",
+    "Word": "35",
+    "RDate": "20210109",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "온몸에  흰색털이  다  묻어서요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격이라지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 너무하네요 ㅠ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "2701",
+    "RawText": "디자인은 맘에 드는데 촉감이 좀 까슬건리네요...",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 쥬** 앙고라 니트 3종",
+    "ReviewScore": "60",
+    "Syllable": "27",
+    "Word": "6",
+    "RDate": "20210218",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인은 맘에 드는데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "촉감이 좀 까슬건리네요...",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "2702",
+    "RawText": "앙고라라고해서 망설였다가 나일론도 포함돼있다고해서 혹시나하고 구입했는데, 역시 앙고라는 저하고는 안맞는듯합니다. 따가워서 맨살엔 못입고 내의를입고 입어야할듯합니다. 그리고, 털이 너무 묻어서 안좋네요.. 디자인이랑 색상은 맘에드는데, 이 디자인으로 옷소재를 다른걸로해서  만들면 얼마나좋을까~ 하는 아쉬움이 있네요... 입으면 계속해서 불편하고 신경쓰일것같아 반품하려구여.. ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 쥬** 앙고라 니트 3종",
+    "ReviewScore": "100",
+    "Syllable": "210",
+    "Word": "37",
+    "RDate": "20201213",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "앙고라는 저하고는 안맞는듯합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "따가워서 맨살엔 못입고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "털이 너무 묻어서 안좋네요..",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이랑 색상은 맘에드는데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상은 맘에드는데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "옷소재를 다른걸로해서  만들면 얼마나좋을까~ 하는 아쉬움이 있네요...",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "입으면 계속해서 불편하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "내의를입고 입어야할듯합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "2703",
+    "RawText": "털이 너무 많이 날려요. 디자인은 예쁘지만 겉옷과 함께입기 어렵네요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 쥬** 앙고라 니트 3종",
+    "ReviewScore": "80",
+    "Syllable": "38",
+    "Word": "9",
+    "RDate": "20210406",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "털이 너무 많이 날려요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인은 예쁘지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "겉옷과 함께입기 어렵네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "2704",
+    "RawText": "티브와 다르지 않을까  크게 기대 안했는데 앙고라는 당연히 털빠지는거고 디자인 사이즈  가격 모두 만족합니다. 입어보니 핏도 루즈해서 더 좋아요~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 쥬** 앙고라 니트 3종",
+    "ReviewScore": "100",
+    "Syllable": "81",
+    "Word": "19",
+    "RDate": "20201214",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "앙고라는 당연히 털빠지는거고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 사이즈 가격 모두 만족합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈 가격 모두 만족합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 모두 만족합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": " 핏도 루즈해서 더 좋아요~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2706",
+    "RawText": "촉감이 따가와요. 테그떼어 반품못하고걍 버림. 딱 가격만큼.  원단이 부드럽지않고 촉감은 까칠하고 따가움",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 쥬** 앙고라 니트 3종",
+    "ReviewScore": "20",
+    "Syllable": "58",
+    "Word": "12",
+    "RDate": "20201218",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "촉감",
+        "SentimentText": "촉감이 따가와요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "딱 가격만큼.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "원단이 부드럽지않고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "촉감은 까칠하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "따가움",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "2712",
+    "RawText": "앙고라라 털이 많이 빠지네요 그래도 싸게 잘 샀습니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 쥬** 앙고라 니트 3종",
+    "ReviewScore": "100",
+    "Syllable": "29",
+    "Word": "8",
+    "RDate": "20201214",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "앙고라라 털이 많이 빠지네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "그래도 싸게 잘 샀습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2715",
+    "RawText": "10일에 주문해서 15일에 받았네요. 옷은 목부분이 좀 간지러워서 고민 많이 되었네요. 그래도 가성비 좋고 옷이 따뜻해서 안에 폴라만 있는거 받쳐서 입으려구요. 사이즈는 제각각이고 회색이 맘에 들어요. 사이즈 한치수 업해서 샀는데 회색이랑 흰색은 사이즈가 잘 맞는데 초록색은 좀 크네요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 쥬** 앙고라 니트 3종",
+    "ReviewScore": "100",
+    "Syllable": "160",
+    "Word": "38",
+    "RDate": "20201216",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "촉감",
+        "SentimentText": "목부분이 좀 간지러워서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "옷이 따뜻해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "안에 폴라만 있는거 받쳐서 입으려구요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈는 제각각이고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "회색이 맘에 들어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "회색이랑 흰색은 사이즈가 잘 맞는데 초록색은 좀 크네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "2717",
+    "RawText": "싸이즈 작고 맨살 닿는곳은 따가워요  털이 엄청 빠져서 다른 옷들이 뿌옇게 됬어요. 반품하고 싶은데  한개를 입어서 어쩔수없이 모두 버렸습니다.ㅠㅠ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 쥬** 앙고라 니트 3종",
+    "ReviewScore": "20",
+    "Syllable": "82",
+    "Word": "19",
+    "RDate": "20201218",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "싸이즈 작고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "맨살 닿는곳은 따가워요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "털이 엄청 빠져서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "2721",
+    "RawText": "물세탁이 안되어 좀 번거롭고, 비용적인 면에서 좀 그렇네요. 앙고라라 털빠짐이  좀 있네요.상품은 괜찮아요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 쥬** 앙고라 니트 3종",
+    "ReviewScore": "70",
+    "Syllable": "60",
+    "Word": "13",
+    "RDate": "20210114",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "물세탁이 안되어 좀 번거롭고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "비용적인 면에서 좀 그렇네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "앙고라라 털빠짐이  좀 있네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "2723",
+    "RawText": "아무리 싼맛에  구매한다 지만  품질이 너무 후져요. 옷에서 털이 풀풀 날려서 세탁하면 괜찬을려나 했더니 역시나 마찬가지  반품도 안되고 결국 구석에다  밀어놨었요. 너무 심해요. 왕 짜증남.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 쥬** 앙고라 니트 3종",
+    "ReviewScore": "10",
+    "Syllable": "107",
+    "Word": "25",
+    "RDate": "20201229",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "아무리 싼맛에  구매한다 지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 너무 후져요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "옷에서 털이 풀풀 날려서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "결국 구석에다  밀어놨었요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "2724",
+    "RawText": "정말 짜증납니다. 털도 엄청빠지고 입었을때 따갑습니다. 정말 최악의 옷입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 쥬** 앙고라 니트 3종",
+    "ReviewScore": "10",
+    "Syllable": "43",
+    "Word": "9",
+    "RDate": "20201225",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "털도 엄청빠지고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "입었을때 따갑습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "2726",
+    "RawText": "앙고라여서 그런지 회색은  잘 묻어나고 그린은 넘 느러지고 가격대비  딱 그정도네요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 쥬** 앙고라 니트 3종",
+    "ReviewScore": "100",
+    "Syllable": "47",
+    "Word": "11",
+    "RDate": "20210305",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "앙고라여서 그런지 회색은  잘 묻어나고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": "그린은 넘 느러지고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비  딱 그정도네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "2728",
+    "RawText": "면사라서아주좋아요 한사이즈크게주문했는데딱좋구요 컬러도기본컬러조합이라튀지않고괜찮네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 퓨** 케이블 니트 3종 ",
+    "ReviewScore": "80",
+    "Syllable": "45",
+    "Word": "3",
+    "RDate": "20201130",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "면사라서아주좋아요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "한사이즈크게주문했는데딱좋구요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "컬러도기본컬러조합이라튀지않고괜찮네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2744",
+    "RawText": "색상  좋아요. 특히 면이라 만족합니다!",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 퓨** 케이블 니트 3종 ",
+    "ReviewScore": "100",
+    "Syllable": "22",
+    "Word": "5",
+    "RDate": "20210103",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상  좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "특히 면이라 만족합니다!",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2750",
+    "RawText": "화면보다 입은 착용감이 더 이쁩니다  재질은 조금 살짝 거친듯 완전 부드럽진 않지만  착용감은 불편하거나 나쁘진 않아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 니트 3종 패키지",
+    "ReviewScore": "100",
+    "Syllable": "66",
+    "Word": "16",
+    "RDate": "20210103",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "핏",
+        "SentimentText": "화면보다 입은 착용감이 더 이쁩니다  ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질은 조금 살짝 거친듯 완전 부드럽진 않지만",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감은 불편하거나 나쁘진 않아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2764",
+    "RawText": "만족입니다  가격도 대박이구요 무엇보다도 부드럽고 목파임,길이가 딱 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 니트 3종",
+    "ReviewScore": "100",
+    "Syllable": "41",
+    "Word": "8",
+    "RDate": "20210120",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 대박이구요  ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "무엇보다도 부드럽고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "목파임,길이가 딱 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "길이가 딱 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2767",
+    "RawText": "울100인데 비해 가격도 저렴하고 재질이 톡톡하고 색상도 너무 예쁘네요 사이즈가 좀작게나와서 반사이즈는 위로 올라가는게 좋을듯 합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 니트 3종",
+    "ReviewScore": "100",
+    "Syllable": "74",
+    "Word": "16",
+    "RDate": "20210121",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "울100인데 비해 가격도 저렴하고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질이 톡톡하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 너무 예쁘네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 좀작게나와서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "반사이즈는 위로 올라가는게 좋을듯 합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "2769",
+    "RawText": "제품 사이즈나 배송은 좋았습니다. 근데 얼마안입어도 보풀이 넘 많이 생겨요. 가격이 저렴하긴 하지만 추천하긴 좀 그렇네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 니트 3종",
+    "ReviewScore": "100",
+    "Syllable": "67",
+    "Word": "16",
+    "RDate": "20210221",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈나 배송은 좋았습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "얼마안입어도 보풀이 넘 많이 생겨요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴하긴 하지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2774",
+    "RawText": "각 개별 포장 되어있고 면사로 되어 있지만 무겁지 않아 좋습니다 천연소재라서 피부에 닿는 느낌이 부드럽고 데일리하게 입을 수 있는 무난한 디자인인 것도 마음에 듭니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 긴팔 니트",
+    "ReviewScore": "100",
+    "Syllable": "92",
+    "Word": "24",
+    "RDate": "20210217",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "무겁지 않아 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "피부에 닿는 느낌이 부드럽고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "데일리하게 입을 수 있는",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "무난한 디자인인 것도 마음에 듭니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2784",
+    "RawText": "네크라인 모양이 너무 좁네요. 길이는 딱 맘에 들어요. 생각보다 살짝 얇아서 간절기에 입기에 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 루** 소프트 니트 4종",
+    "ReviewScore": "60",
+    "Syllable": "56",
+    "Word": "14",
+    "RDate": "20210319",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "네크라인 모양이 너무 좁네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "길이는 딱 맘에 들어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "생각보다 살짝 얇아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "간절기에 입기에 좋네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2788",
+    "RawText": "재질이 좀별루긴헌데 디자인이나 색감은 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 루** 소프트 니트 4종",
+    "ReviewScore": "100",
+    "Syllable": "24",
+    "Word": "5",
+    "RDate": "20210131",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질이 좀별루긴헌데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이나 색감은 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색감은 좋네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2797",
+    "RawText": "냄새는 나지만 가격대비 상품 괜찮은거 같습니다~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 루** 소프트 니트 4종",
+    "ReviewScore": "100",
+    "Syllable": "26",
+    "Word": "6",
+    "RDate": "20210203",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "냄새",
+        "SentimentText": "냄새는 나지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 상품 괜찮은거 같습니다~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2804",
+    "RawText": "엄마들 목 살짝 가려주는 디자인에 펄 들어가 색상이 고급진 느낌~~ 데일리 받쳐 입을 티셔츠로 굿",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 글** 기모 티블라우스 5종 ",
+    "ReviewScore": "100",
+    "Syllable": "54",
+    "Word": "15",
+    "RDate": "20210811",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "목 살짝 가려주는 디자인에",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "펄 들어가 색상이 고급진 느낌~~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "데일리 받쳐 입을 티셔츠로 굿",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2806",
+    "RawText": "촉감이 거칠지않고 부드럽네요.  안쪽에 얇게 기모까지 들어있어서 더좋았습니다. 66사이즈를 사서 살짝 큰듯하지만 55사이즈를 했음 답답할것도 같고 여유있게 입으실분은 66사이즈 핏되게 입을경우엔 55사이즈도 괜찮을듯 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 글** 기모 티블라우스 5종 ",
+    "ReviewScore": "100",
+    "Syllable": "125",
+    "Word": "24",
+    "RDate": "20210217",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감",
+        "SentimentText": "촉감이 거칠지않고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "부드럽네요.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇게 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "66사이즈를 사서 살짝 큰듯하지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "55사이즈를 했음 답답할것도 같고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "여유있게 입으실분은 66사이즈",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "핏되게 입을경우엔 55사이즈도 괜찮을듯 합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "기모까지 들어있어서 더좋았습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "2807",
+    "RawText": "싸다가. 이름 보고 삿는데 하루 입엇는데 보플이 마구마구 일어나고 목선에 박음질이 아예 멊고 뒤집어지고므로 화나서버리려다 돈 아까워 입고 잇어요 반품도 못하고 후회막급입니다 사면 품질불량에 반드시 후회 합니다 ㅡ여러분",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 글** 기모 티블라우스 5종 ",
+    "ReviewScore": "10",
+    "Syllable": "121",
+    "Word": "28",
+    "RDate": "20210330",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "하루 입엇는데 보플이 마구마구 일어나고  ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "목선에 박음질이 아예 멊고 뒤집어지고므로",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "사면 품질불량에 반드시 후회 합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "2813",
+    "RawText": "얄팍한데  따뜻하고 착용감 완전 좋아요. 매일 출근할때 입습니다. 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 글** 기모 티블라우스 5종 ",
+    "ReviewScore": "100",
+    "Syllable": "43",
+    "Word": "9",
+    "RDate": "20210217",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "얄팍한데 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감 완전 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "매일 출근할때 입습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]

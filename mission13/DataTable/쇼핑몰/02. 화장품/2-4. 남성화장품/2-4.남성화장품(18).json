@@ -1,0 +1,3356 @@
+[
+  {
+    "Index": "696233",
+    "RawText": "향이 강해서 부담이 됩니다. 겨울에 바르기 좋지 않습니다. 보습력이 안 좋은 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 옴므 파** 올인원 150ml 2개",
+    "ReviewScore": "3",
+    "Syllable": "49",
+    "Word": "13",
+    "RDate": "20210917",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 강해서 부담이 됩니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "겨울에 바르기 좋지 않습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "보습력이 안 좋은 것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "696251",
+    "RawText": "유통기한이 긴 제품이 와서 만족합니다. 남편이 늘 쓰는 제품인데 사용감이 좋다고 해서 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 옴므 파** 올인원 150ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "54",
+    "Word": "13",
+    "RDate": "20210915",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한이 긴 제품이 와서 만족합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용감",
+        "SentimentText": "사용감이 좋다고 해서 만족합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "696284",
+    "RawText": "향기도 좋고 양도 많고 품질도 좋아서 재구매했습니다. 다만 용기가 펌핑 타입이었으면 좋겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 옴므 파** 올인원 150ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "52",
+    "Word": "12",
+    "RDate": "20210906",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향기도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "양도 많고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 좋아서 재구매했습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기가 펌핑 타입이었으면 좋겠어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "696286",
+    "RawText": "배송이 생각보다 느렸고 제품은 로션 타입이 아닌 스킨 타입의 묽은 액체 제형이라 아쉽네요. 겨울에 사용하기에는 안 좋아요. 향도 별로입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 옴므 파** 올인원 150ml 2개",
+    "ReviewScore": "3",
+    "Syllable": "78",
+    "Word": "19",
+    "RDate": "20210902",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "스킨 타입의 묽은 액체 제형이라 아쉽네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "겨울에 사용하기에는 안 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 별로입니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "696308",
+    "RawText": "친구가 추천해서 구매했어요. 올인원이라 간편하게 사용하기 좋은데, 흡수력이 별로 좋은 것 같지는 않네요. 끈적임이 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 옴므 파** 올인원 150ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "15",
+    "RDate": "20210813",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "올인원이라 간편하게 사용하기 좋은데, ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "흡수력이 별로 좋은 것 같지는 않네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "끈적임이 있습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "696325",
+    "RawText": "전형적인 남성 스킨 향이 나서 아쉽습니다. 향이 좋지는 않네요. 주름 개선 효과도 없는 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 옴므 파** 올인원 150ml 2개",
+    "ReviewScore": "4",
+    "Syllable": "55",
+    "Word": "15",
+    "RDate": "20210802",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "전형적인 남성 스킨 향이 나서 아쉽습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 좋지는 않네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "주름 개선 효과도 없는 것 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "696326",
+    "RawText": "가성비 좋고 피부에 좋을거 같아 구입 해 봤어요. 피지조절 영앙공급 주름 미백개선도 된다고 하니 기대 해 봅니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 옴므 파** 올인원 150ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "17",
+    "RDate": "20210729",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "피지조절 영앙공급 주름 미백개선도 된다고 하니 기대 해 봅니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "696340",
+    "RawText": "향이 시원해서 좋습니다. 끈적임도 없어서 좋습니다. 바르고 나면 피부가 깔끔한 기분이 들어요.  잘 산것 같아요. 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 옴므 파** 올인원 150ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "16",
+    "RDate": "20210721",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 시원해서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "끈적임도 없어서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "피부가 깔끔한 기분이 들어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "696346",
+    "RawText": "아주 마음에 들어요. 추천합니다. 스킨과 로션을 한번에 사용 가능하니 편리하고 발림성도 좋고 향기가 무난해서 좋습니다. 향이 강하지 않아서 좋습니다. 너무 건조하지 않은 요즘이 사용하기 딱 입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 옴므 파** 올인원 150ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "110",
+    "Word": "26",
+    "RDate": "20210716",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "스킨과 로션을 한번에 사용 가능하니 편리하고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향기가 무난해서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 강하지 않아서 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "너무 건조하지 않은 요즘이 사용하기 딱 입니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "696372",
+    "RawText": "할인 행사가 있어 저렴하게 구매했습니다. 향도 좋고 가성비가 좋아 보이네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 옴므 파** 올인원 150ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "42",
+    "Word": "10",
+    "RDate": "20210707",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인 행사가 있어 저렴하게 구매했습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비가 좋아 보이네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "696385",
+    "RawText": "좋은 품질의 제품입니다. 저렴한 가격에 구매해서 좋은 거 같습니다. 앞으로도 이런 좋은 기회가 자주 있었으면 하는 바람입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 옴므 파** 올인원 150ml 2개",
+    "ReviewScore": "3",
+    "Syllable": "70",
+    "Word": "17",
+    "RDate": "20210630",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "좋은 품질의 제품입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 구매해서 좋은 거 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "696388",
+    "RawText": "여름에 사용하기 좋은 화장품입니다. 향도 좋고 제형이 가벼워서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 옴므 파** 올인원 150ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "40",
+    "Word": "9",
+    "RDate": "20210627",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "여름에 사용하기 좋은 화장품입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 가벼워서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "696404",
+    "RawText": "생각보다 품질이 별로입니다. 리뷰가 좋아서 구매해 봤는데 실망스러워요. 용기가 깨지기 쉬운 재질인데 포장에 완충재도 안 넣어 주셨고 제품의 용량이 정량과 다릅니다. 품질 관리가 제대로 안 되는 것 같네요. 발림성이나 흡수력도 생각보다 떨어집니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 옴므 파** 올인원 150ml 2개",
+    "ReviewScore": "3",
+    "Syllable": "137",
+    "Word": "32",
+    "RDate": "20210530",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "생각보다 품질이 별로입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기가 깨지기 쉬운 재질인데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "제품의 용량이 정량과 다릅니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질 관리가 제대로 안 되는 것 같네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성이나 흡수력도 생각보다 떨어집니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "흡수력도 생각보다 떨어집니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "696439",
+    "RawText": "피부에 끈적거림이 남고 흡수가 느리게 되는 것 같습니다. 가격도 비싼 편입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 옴므 파** 올인원 150ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "44",
+    "Word": "11",
+    "RDate": "20210516",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "피부에 끈적거림이 남고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "흡수가 느리게 되는 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 비싼 편입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "696442",
+    "RawText": "배송과 포장 상태 모두 만족스러워요. 향이 금방 사라져서 아쉽지만 얼굴에 스며드는 느낌이 좋네요. 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 옴므 파** 올인원 150ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "14",
+    "RDate": "20210516",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "향이 금방 사라져서 아쉽지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "얼굴에 스며드는 느낌이 좋네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "696463",
+    "RawText": "뭘 여러가지 바르는 성격이 아닌 울 신랑 같은 사람에겐 딱이에요. 전에도 1+1해서 사다가 한참 쓴 거 같은데 다시 1+1해서 재구매하네요. 향이 강하지도 않고 촉촉해요. 겨울에 쓰기엔 수분이 좀 부족한거 같아서 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 옴므 파** 올인원 150ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "124",
+    "Word": "31",
+    "RDate": "20210513",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "뭘 여러가지 바르는 성격이 아닌 울 신랑 같은 사람에겐 딱이에요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "1+1해서 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 강하지도 않고  ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "촉촉해요.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "겨울에 쓰기엔 수분이 좀 부족한거 같아서 아쉽네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "수분이 좀 부족한거 같아서 아쉽네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "696470",
+    "RawText": "잘 받았습니다. 좋습니다. 저렴하게 잘 샀네요. 유통기한 24년 1월까지로 넉넉합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 옴므 파** 올인원 150ml 2개",
+    "ReviewScore": "4",
+    "Syllable": "48",
+    "Word": "10",
+    "RDate": "20210512",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 샀네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한 24년 1월까지로 넉넉합니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "696480",
+    "RawText": "가격 대비 품질이 좋은 거 같아요. 샘플이 하나도 없어서 아쉬웠지만 좋은 물건 저렴하게 잘 받았습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 옴므 파** 올인원 150ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "15",
+    "RDate": "20210512",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격 대비 품질이 좋은 거 같아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "샘플이 하나도 없어서 아쉬웠지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 물건 저렴하게 잘 받았습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "696488",
+    "RawText": "시험 삼아 한번 구매하고 2세트 더 구매했어요. 부드럽게 잘 발리고 피부가 촉촉해서 좋은 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 옴므 파** 올인원 150ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "56",
+    "Word": "15",
+    "RDate": "20210511",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "발림성",
+        "SentimentText": "부드럽게 잘 발리고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "피부가 촉촉해서 좋은 것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "696513",
+    "RawText": "향이 강하지 않고 끈적임이 적어 좋아요. 다만 피부에서 금방 말라버려 얼굴이 건조하네요. 예전 쓰던 스킨보다 양을 조금 더 늘려 쓰는거 같아요. 그래도 가격대비 만족해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 옴므 파** 올인원 150ml 2개",
+    "ReviewScore": "4",
+    "Syllable": "95",
+    "Word": "24",
+    "RDate": "20210506",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 강하지 않고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "끈적임이 적어 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "얼굴이 건조하네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 만족해요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "696566",
+    "RawText": "향이 진하지 않아서 좋아요. 바르면 촉촉한 게 느껴져요. 약간 끈적이는 느낌이에요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 옴므 파** 올인원 150ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "46",
+    "Word": "11",
+    "RDate": "20210405",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 진하지 않아서 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "바르면 촉촉한 게 느껴져요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "약간 끈적이는 느낌이에요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "696567",
+    "RawText": "올인원이라 간편하게 사용하기 좋은데, 가격대비 품질은 보통입니다. 촉촉하지 않아서 얼굴 땡김이 있네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 옴므 파** 올인원 150ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "12",
+    "RDate": "20210404",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "올인원이라 간편하게 사용하기 좋은데,",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격대비 품질은 보통입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "촉촉하지 않아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "얼굴 땡김이 있네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "696577",
+    "RawText": "이 제품을 사서 사용했는데 피부결이 부드러워져서 좋습니다. 피부가 더 좋아진 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 옴므 파** 올인원 150ml 2개",
+    "ReviewScore": "4",
+    "Syllable": "50",
+    "Word": "12",
+    "RDate": "20210326",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "피부결이 부드러워져서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "피부가 더 좋아진 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "696588",
+    "RawText": "향은 은은해서 만족해요. 제형이 점도가 있는 편이라서 좋은데 손바닥으로 쳐도 내용물이 잘 안 나와서 사용하기 불편해요. 용기가 플라스틱이었으면 좋았을 거 같아요. 저렴하게 구매해서 좋았지만 재구매는 안 할 거 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 옴므 파** 올인원 150ml 2개",
+    "ReviewScore": "3",
+    "Syllable": "121",
+    "Word": "29",
+    "RDate": "20210320",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향은 은은해서 만족해요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 점도가 있는 편이라서 좋은데",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "손바닥으로 쳐도 내용물이 잘 안 나와서 사용하기 불편해요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기가 플라스틱이었으면 좋았을 거 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구매해서 좋았지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "696601",
+    "RawText": "배송은 살짝 느렸지만 제품에 손상 없이 잘 왔고 향이 은은해서 좋고 용량도 생각보다 크네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 옴므 파** 올인원 150ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "51",
+    "Word": "14",
+    "RDate": "20210315",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 은은해서 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "용량도 생각보다 크네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "696605",
+    "RawText": "향이 순하다고 해서 구매했는데 생각보다 향이 강하고 자극적이라서 아쉽네요. 제형의 농도는 적당한데 보습력이 별로예요. 재구매는 안 할 거 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 옴므 파** 올인원 150ml 2개",
+    "ReviewScore": "4",
+    "Syllable": "81",
+    "Word": "19",
+    "RDate": "20210314",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "생각보다 향이 강하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "자극적이라서 아쉽네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형의 농도는 적당한데 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "보습력이 별로예요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "696612",
+    "RawText": "아직 이틀 밖에 안 써 봤는데 효과가 좋았으면 좋겠네요. 하나만 쓰면 되니까 올인원이 편하긴 합니다. 많이 파세요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 옴므 파** 올인원 150ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "17",
+    "RDate": "20210310",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과가 좋았으면 좋겠네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "하나만 쓰면 되니까 올인원이 편하긴 합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "696632",
+    "RawText": "이번에 처음 써봤는데 끈적임이 없고 흡수가 빨라서 좋아요. 향은 바를 때만 나고 금방 없어져서 아쉬워요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 옴므 파** 올인원 150ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "15",
+    "RDate": "20210301",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "끈적임이 없고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "흡수가 빨라서 좋아요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향은 바를 때만 나고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "금방 없어져서 아쉬워요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "696664",
+    "RawText": "올인원 제품이라 구매했습니다. 생각했던 것보다 향도 별로이고 제형의 질감도 만족스럽지 못하네요. 품질이 보통입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 옴므 파** 올인원 150ml 2개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "13",
+    "RDate": "20210215",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 별로이고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형의 질감도 만족스럽지 못하네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 보통입니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "696678",
+    "RawText": "처음 올인원 사용해 보는데 편하긴 해요. 그런데 제형이 묽은 젤 타입이라 별로예요. 향도 안 좋아요. 재구매는 안 할 거 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 옴므 파** 올인원 150ml 2개",
+    "ReviewScore": "4",
+    "Syllable": "72",
+    "Word": "20",
+    "RDate": "20210209",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "처음 올인원 사용해 보는데 편하긴 해요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 묽은 젤 타입이라 별로예요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 안 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "696689",
+    "RawText": "향은 OOO과 유사한 시원한 향입니다. 제형이 진득한 타입이라 3~4번 쳐야 한번 쓸 양이 나오고 바르면 싹 없어지네요. 잘 발려지긴 하는데 피부가 좋아지는 건 모르겠습니다. 저렴한 가격과 강하지 않은 향이라 쓸만한 제품인 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 옴므 파** 올인원 150ml 2개",
+    "ReviewScore": "4",
+    "Syllable": "132",
+    "Word": "33",
+    "RDate": "20210209",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "시원한 향입니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 진득한 타입이라 3~4번 쳐야 한번 쓸 양이 나오고 ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "잘 발려지긴 하는데 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "피부가 좋아지는 건 모르겠습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격과",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "강하지 않은 향이라",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "696712",
+    "RawText": "가격이 착해서 구매해 보았습니다. 향은 은은한 향인데 다른 남성 화장품보다 향이 적고 지속력이 짧아서 아쉬운 면이 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 프** 올인원 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "17",
+    "RDate": "20220324",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 착해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향은 은은한 향인데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "다른 남성 화장품보다 향이 적고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력이 짧아서 아쉬운 면이 있습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "696717",
+    "RawText": "전에 사용한 제품은 만족했는데 이번 거는 제형이 묽어서 아쉽네요. 향도 생각보다 좋지 않아서 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 프** 올인원 200ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "57",
+    "Word": "14",
+    "RDate": "20211108",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 묽어서 아쉽네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 생각보다 좋지 않아서 아쉽네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "696720",
+    "RawText": "착한 가격에 구입했고 여름에 부담 없이 사용하기 좋습니다. 향도 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 프** 올인원 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "42",
+    "Word": "10",
+    "RDate": "20210710",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "착한 가격에 구입했고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "여름에 부담 없이 사용하기 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 만족합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "696722",
+    "RawText": "가격이 저렴해서 제일 좋습니다. 발림성 좋습니다. 향이 진하지 않아서 좋습니다. 배송도 빠르고 포장도 잘 되어서 왔습니다. 많이 파세요. 재구매 의사 있어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 프** 올인원 200ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "88",
+    "Word": "21",
+    "RDate": "20210525",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴해서 제일 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 진하지 않아서 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "696729",
+    "RawText": "화장품 기본 들어가는 향 냄새가 안나서 좋습니다. 발랐을 때 끈적임 없어서 좋습니다. 제가 원하던 제품입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 시** 올인원 300ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "61",
+    "Word": "15",
+    "RDate": "20220803",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "화장품 기본 들어가는 향 냄새가 안나서 좋습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "끈적임 없어서 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "696731",
+    "RawText": "지성피부로 안바르면 땡기고 바르면 번들거렸는데, 이 제품도 번들거리네요. 저에게는 안 맞는 제품인 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 시** 올인원 300ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "14",
+    "RDate": "20220719",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "피부타입",
+        "SentimentText": "지성피부로 안바르면 땡기고 바르면 번들거렸는데, 이 제품도 번들거리네요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "번들거리네요. ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "저에게는 안 맞는 제품인 것 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "696734",
+    "RawText": "기존 제품과 달리 용기가 사용하기 불편하네요. 용량도 전 보다 작아진 것 같아서 아쉽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 올인원 120ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "51",
+    "Word": "13",
+    "RDate": "20210729",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기가 사용하기 불편하네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "용량도 전 보다 작아진 것 같아서 아쉽습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "696735",
+    "RawText": "올인원 제품 처음인데 사용감이 좋지 않고 용량이 생각보다 작습니다. 보습력도 없습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 올인원 120ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "48",
+    "Word": "11",
+    "RDate": "20210830",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사용감",
+        "SentimentText": "사용감이 좋지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "용량이 생각보다 작습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "보습력도 없습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "696738",
+    "RawText": "적립금 사용이 안 되어서 비싸게 주고 샀습니다. 유통기한도 짧은 제품이 왔네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 올인원 120ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "44",
+    "Word": "11",
+    "RDate": "20210915",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "적립금 사용이 안 되어서 비싸게 주고 샀습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한도 짧은 제품이 왔네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "696740",
+    "RawText": "집이랑 회사에서 쓰려 2개 주문했는데 향이 호불호가 갈리는 것 같습니다. 그래도 올인원이라 사용하기는 편합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 올인원 120ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "14",
+    "RDate": "20220614",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 호불호가 갈리는 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "올인원이라 사용하기는 편합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "696746",
+    "RawText": "늘 쓰는 제품인데 향도 적당하고 펌핑식이라 편리해요. 땡김 없고 겨울에도 사용하기에도 괜찮습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 올인원 120ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "54",
+    "Word": "12",
+    "RDate": "20220114",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 적당하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "펌핑식이라 편리해요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "땡김 없고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "겨울에도 사용하기에도 괜찮습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "696756",
+    "RawText": "OO 제품은 다 괜찮은 것 같아요. 올인원이라 쓰기 편합니다. 기능이 더 좋아진 것 같아 더 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 올인원 120ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "16",
+    "RDate": "20210914",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "올인원이라 쓰기 편합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "기능이 더 좋아진 것 같아 더 좋습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "696770",
+    "RawText": "새로 리뉴얼 되었다고 해서 사봤습니다. 가격이 더 비싼 것 같네요. 본품은 아직 안 써서 모르는데 샘플이 많이 와서 일단 만족은 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 올인원 120ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "21",
+    "RDate": "20210720",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 더 비싼 것 같네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "샘플이 많이 와서 일단 만족은 합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "696774",
+    "RawText": "계속 구매해서 사용중입니다. 전에 쓰던 올인원보다 보습력이 좋아졌고 OOO 맞아 쿠폰할인으로 저렴하게 구매했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 올인원 120ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "13",
+    "RDate": "20220112",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "전에 쓰던 올인원보다 보습력이 좋아졌고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰할인으로 저렴하게 구매했습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "696778",
+    "RawText": "여러 개 바르기 귀찮아하는 편이라서 올인원 제품만 쓰고 있어요. 그동안 다른 올인원 제품만 쓰다가 이번에 OOO 올인원으로 바꿔봤습니다. 올인원이라서 간편하고 향이 좋아요. 앞으로 쭉 믿고 쓸 수 있겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 올인원 120ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "115",
+    "Word": "28",
+    "RDate": "20220427",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "올인원이라서 간편하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "696783",
+    "RawText": "남편이 너무 써 보고 싶어 해서 사 줬는데 바로 스며들지 않고 건조해서 아쉽습니다. 미끌미끌한 느낌이 남는다고 하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 올인원 120ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "17",
+    "RDate": "20220226",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "바로 스며들지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "건조해서 아쉽습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "미끌미끌한 느낌이 남는다고 하네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "696784",
+    "RawText": "계속 쓰고 있는 제품입니다. 보습력이 좋습니다. 향도 제 취향이고 은은한 향이라서 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 올인원 120ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "50",
+    "Word": "12",
+    "RDate": "20220313",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "보습력이 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 제 취향이고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "은은한 향이라서 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "696789",
+    "RawText": "한번 사용해보고 너무 괜찮아서 다시 주문했어요. 향도 무난하고 보습력도 좋은 상품입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 올인원 120ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "49",
+    "Word": "11",
+    "RDate": "20220520",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 무난하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "보습력도 좋은 상품입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "696790",
+    "RawText": "남편이 이 제품만 사용해서 구입했습니다. 트러블도 없고 촉촉해서 좋다고 하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 올인원 120ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "44",
+    "Word": "10",
+    "RDate": "20220525",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "트러블도 없고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "촉촉해서 좋다고 하네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "696796",
+    "RawText": "향도 상큼하고 아주 촉촉합니다. 가격도 가장 저렴하고 이 계절에 사용하기 좋은 제품이네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 올인원 120ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "50",
+    "Word": "12",
+    "RDate": "20220605",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 상큼하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "아주 촉촉합니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 가장 저렴하고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "이 계절에 사용하기 좋은 제품이네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "696805",
+    "RawText": "보습력이 최악입니다. 여태껏 사용한 로션이나 크림 중에서 보습력이 가장 좋지 않습니다. 제형도 너무 묽어서 별로고 보습력도 떨어져 피부가 다 텄습니다. 건조한 계절에는 듬뿍 발라도 피부가 건조합니다. 도저히 쓸 수가 없을 정도입니다. 버릴 수는 없어 그냥 놔두고 있습니다. 예전에 쓰던 크림을 다시 꺼내서 바르고 있네요. 용량은 크지만 전체적인 품질은 좋지 않은 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 퍼** 스킨밀크 에센스 1000ml 1개",
+    "ReviewScore": "1",
+    "Syllable": "210",
+    "Word": "52",
+    "RDate": "20211208",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "보습력이 최악입니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "보습력이 가장 좋지 않습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형도 너무 묽어서 별로고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "보습력도 떨어져",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "피부가 다 텄습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "건조한 계절에는 듬뿍 발라도 피부가 건조합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "피부가 건조합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "용량은 크지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "전체적인 품질은 좋지 않은 것 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "696809",
+    "RawText": "용량도 크고 향도 강하지 않아서 괜찮습니다. 자극적이지 않아서 좋은 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 퍼** 스킨밀크 에센스 1000ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "44",
+    "Word": "11",
+    "RDate": "20210930",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량",
+        "SentimentText": "용량도 크고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 강하지 않아서 괜찮습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "자극적이지 않아서 좋은 것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "696815",
+    "RawText": "용량도 크고 제형도 좋고 가격도 맘에 들어요. 향도 강하지 않고 은은하니 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 퍼** 스킨밀크 에센스 1000ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "46",
+    "Word": "12",
+    "RDate": "20210206",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량",
+        "SentimentText": "용량도 크고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 맘에 들어요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 강하지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "은은하니 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "696816",
+    "RawText": "가성비 좋습니다. 유통기한이 넉넉하네요. 향이 진하지 않고 은은합니다. 펌핑 용기라서 나오는 양 조절이 힘들어요. 잘 바르겠습니다. 또 구매 하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 퍼** 스킨밀크 에센스 1000ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "85",
+    "Word": "19",
+    "RDate": "20201227",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한이 넉넉하네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 진하지 않고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "은은합니다. ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "펌핑 용기라서 나오는 양 조절이 힘들어요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "696817",
+    "RawText": "가성비 별로네요. 농도가 묽어서 아쉽고 보습력이 약해서 겨울에 사용하기는 별로네요. 보습력이 나빠서 많이 바르던지 크림과 섞어서 사용해야 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 퍼** 스킨밀크 에센스 1000ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "81",
+    "Word": "18",
+    "RDate": "20201223",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 별로네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "농도가 묽어서 아쉽고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "보습력이 약해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "겨울에 사용하기는 별로네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "보습력이 나빠서 많이 바르던지 크림과 섞어서 사용해야 합니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "696830",
+    "RawText": "촉촉하고 좋다고 하시네요. 향도 좋습니다. 아버지께 2 번째 구매해드렸어요. 하나로 해결되니 더 좋아하시네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 옴므 선 올인원 플루이드 100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "13",
+    "RDate": "20220829",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "촉촉하고 좋다고 하시네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "하나로 해결되니 더 좋아하시네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "696832",
+    "RawText": "유통기한이 긴 제품이 와서 좋습니다. 다만 쇼핑백이 안 와서 살짝 아쉽네요. 올인원이라 바르기 편한 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 옴므 선 올인원 플루이드 100ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "62",
+    "Word": "16",
+    "RDate": "20220829",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한이 긴 제품이 와서 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "올인원이라 바르기 편한 것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "696833",
+    "RawText": "친구가 추천해서 처음으로 주문했습니다. 사용해보니 피부가 예민한 편이라 자극이 있네요. 저에겐 안 맞는 제품인 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 옴므 선 올인원 플루이드 100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "16",
+    "RDate": "20220829",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "피부가 예민한 편이라 자극이 있네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "저에겐 안 맞는 제품인 것 같습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "696844",
+    "RawText": "선크림 쓰고 있는 건 너무 번들거린다고 해서 이 제품으로 주문했어요. 촉촉하고 향도 진하지 않아 좋은데 향이 오래가지는 않는다고 하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 옴므 선 올인원 플루이드 100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "19",
+    "RDate": "20220826",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "촉촉하고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 진하지 않아 좋은데 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "향이 오래가지는 않는다고 하네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "696848",
+    "RawText": "남편이 쓸 제품을 찾고 있었는데 OOO이 가성비가 좋아요. 여러 개 바르기 귀찮아서 올인원만 쓰는데 간편해요. 가격도 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 옴므 선 올인원 플루이드 100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "17",
+    "RDate": "20220826",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "OOO이 가성비가 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "여러 개 바르기 귀찮아서 올인원만 쓰는데 간편해요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "696852",
+    "RawText": "늘 써오던 제품입니다. 사용하기 편합니다. 향도 적당해서 좋은 것 같습니다. 올인원이라 사용하기 편리해서 오랫동안 쭉 써오고 있는 제품입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 옴므 선 올인원 플루이드 100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "18",
+    "RDate": "20220825",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기 편합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 적당해서 좋은 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "올인원이라 사용하기 편리해서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "696854",
+    "RawText": "동생이 잘 쓰고 있습니다. 다른 거보다 품질이 좋다고 합니다. 올인원이라 바르기 편해서 좋은 것 같습니다. 다음에는 가격이 조금만 더 저렴해지면 좋겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 옴므 선 올인원 플루이드 100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "86",
+    "Word": "21",
+    "RDate": "20220825",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 좋다고 합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "올인원이라 바르기 편해서 좋은 것 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 조금만 더 저렴해지면 좋겠어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "696865",
+    "RawText": "제형이 쫀득한 편이라 잘 안 발라지네요. 피부가 좀 끈적이는 듯합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 옴므 선 올인원 플루이드 100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "39",
+    "Word": "10",
+    "RDate": "20220822",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 쫀득한 편이라 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "잘 안 발라지네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "피부가 좀 끈적이는 듯합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "696869",
+    "RawText": "후기가 많아서 주문해봤습니다. 기존에 쓰던 제품보다 향이 좀 강하기는 하지만, 시간 좀 지나면 은은하게 좋습니다. 양도 많고 올인원이라 사용하기 편하고 촉촉합니다. 펌핑이라 사용하기 편하다 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 옴므 선 올인원 플루이드 100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "110",
+    "Word": "25",
+    "RDate": "20220820",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "기존에 쓰던 제품보다 향이 좀 강하기는 하지만,",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "시간 좀 지나면 은은하게 좋습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "양도 많고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "올인원이라 사용하기 편하고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "촉촉합니다. ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "펌핑이라 사용하기 편하다 합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "696871",
+    "RawText": "스킨은 선호하지 않아 로션만 주로 쓰는데 이 제품은 올인원이라 편하네요. 사용감이 무겁지 않아 더 좋은 듯합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 옴므 선 올인원 플루이드 100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "16",
+    "RDate": "20220820",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "올인원이라 편하네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용감",
+        "SentimentText": "사용감이 무겁지 않아 더 좋은 듯합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "696873",
+    "RawText": "처음 써 봤는데 보습력이 나쁜 것 같습니다. 건성 피부에는 추천하지 않아요. 생각보다 용량도 너무 작은 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 옴므 선 올인원 플루이드 100ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "65",
+    "Word": "17",
+    "RDate": "20220819",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "보습력이 나쁜 것 같습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "피부타입",
+        "SentimentText": "건성 피부에는 추천하지 않아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "용량도 너무 작은 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "696875",
+    "RawText": "매번 좋은제품 저렴하게 구입해 잘사용하고 있습니다. 이번 사은품 보내주신거 감사합니다. 하나 구매할까 했는데 잘 쓰겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 옴므 선 올인원 플루이드 100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "15",
+    "RDate": "20220819",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구입해",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품 보내주신거 감사합니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "696880",
+    "RawText": "올인원 검색하다가 OOO이라 믿을만해서 구입했어요. 올인원이라 사용하기 편하고 사은품으로 보내주신 폼클렌저도 잘 쓸께요. 평균 배송기간으로 상품과 배송에 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 옴므 선 올인원 플루이드 100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "92",
+    "Word": "18",
+    "RDate": "20220817",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "올인원이라 사용하기 편하고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품으로 보내주신 폼클렌저도 잘 쓸께요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "696883",
+    "RawText": "꾸준히 사용하는 제품인데 아주 좋습니다. 향 좋고 면도 후에 진정 효과가 아주 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 옴므 선 올인원 플루이드 100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "48",
+    "Word": "13",
+    "RDate": "20220817",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "진정 효과가 아주 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "696888",
+    "RawText": "꾸준히 사용하는 제품이네요. 촉촉하고 피부가 당기지 않아서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 옴므 선 올인원 플루이드 100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "38",
+    "Word": "8",
+    "RDate": "20220816",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "촉촉하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "피부가 당기지 않아서 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "696890",
+    "RawText": "향이 좋습니다. 리뷰 믿고 써보려구요. 저렴한 가격에 잘 산것 같습니다. 샘플도 많이 주셨네요. 만족해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 옴므 선 올인원 플루이드 100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "14",
+    "RDate": "20220816",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 잘 산것 같습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "샘플도 많이 주셨네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "696892",
+    "RawText": "전에 쓰던 거 다 써서 이번엔 대용량으로 주문했는데 가격도 저렴하고 사은품으로 폼클렌징이 와서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 옴므 선 올인원 플루이드 100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "14",
+    "RDate": "20220816",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품으로 폼클렌징이 와서 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "696893",
+    "RawText": "항상 사용하고 있는 제품입니다. 올인원이라 사용하기 간편해서 좋습니다. 보내주신 사은품 폼 클렌징도 잘 쓰겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 옴므 선 올인원 플루이드 100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "14",
+    "RDate": "20220816",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "올인원이라 사용하기 간편해서 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품 폼 클렌징도 잘 쓰겠습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "696897",
+    "RawText": "처음으로 구매했는데 제가 선호하는 향이 아니라 아쉽네요. 사은품도 없어서 다음에는 구매 안할 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 옴므 선 올인원 플루이드 100ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "58",
+    "Word": "14",
+    "RDate": "20220816",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "제가 선호하는 향이 아니라 아쉽네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품도 없어서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "696898",
+    "RawText": "유통기한도 길고 배송과 포장도 마음에 들고 가격도 저렴하게 잘 구매했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 옴므 선 올인원 플루이드 100ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "42",
+    "Word": "10",
+    "RDate": "20220816",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한도 길고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하게 잘 구매했습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "696900",
+    "RawText": "판매량 많고 리뷰도 좋은데다가 1+1이라서 샀습니다. 배송은 오래 걸렸지만 만족합니다. 향도 은은하니 딱 좋아요. 사은품으로 폼클렌징 주셔서 감동했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 옴므 선 올인원 플루이드 100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "86",
+    "Word": "18",
+    "RDate": "20220816",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "1+1이라서 샀습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 은은하니 딱 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품으로 폼클렌징 주셔서 감동했습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "696901",
+    "RawText": "행사로 싸게 샀습니다 1+1에 가격 할인도 하고 사은품으로 클렌징폼까지 보내 주셨어요. 향도 좋고 배송도 빠르고 좋습니다. 만족스러워요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 옴므 선 올인원 플루이드 100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "17",
+    "RDate": "20220816",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "행사로 싸게 샀습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "1+1에 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 할인도 하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품으로 클렌징폼까지 보내 주셨어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "696909",
+    "RawText": "제품 유통기한이 충분해서 좋습니다. 사은품까지 좋은 걸로 주셔서 감사하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 옴므 선 올인원 플루이드 100ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "42",
+    "Word": "9",
+    "RDate": "20220813",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한이 충분해서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품까지 좋은 걸로 주셔서 감사하네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "696911",
+    "RawText": "신랑과 남동생에게 선물하려고 여러 개 구매했습니다. 세일해서 저렴하게 사서 좋았어요. 올인원이라 사용하기 간편하고 향기도 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 옴므 선 올인원 플루이드 100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "15",
+    "RDate": "20220812",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "세일해서 저렴하게 사서 좋았어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "올인원이라 사용하기 간편하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향기도 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "696912",
+    "RawText": "계속 사서 쓰고 있습니다. 올인원 제품이라 한방에 바를 수 있어서 좋습니다. 사은품도 와서 기분이 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 옴므 선 올인원 플루이드 100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "15",
+    "RDate": "20220812",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "올인원 제품이라 한방에 바를 수 있어서 좋습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품도 와서 기분이 좋네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "696916",
+    "RawText": "저렴한 가격에 1+1까지 해서 좋았습니다. 출장 간 신랑에게 보냈는데 파손없이 뽁뽁이에 싸여서 잘 도착했습니다. 은은한 향으로 강하지 않은 향이라 좋습니다. 민감한 피부인데 트러블 없이 잘 사용하고 있습니다.  올인원이라 하나만 바르니 사용하기 편합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 옴므 선 올인원 플루이드 100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "142",
+    "Word": "32",
+    "RDate": "20220812",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "1+1까지 해서 좋았습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "은은한 향으로 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "강하지 않은 향이라 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "민감한 피부인데 트러블 없이 잘 사용하고 있습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": " 올인원이라 하나만 바르니 사용하기 편합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "696923",
+    "RawText": "가성비 좋습니다. ㅇㅇㅇ제품을 남편이 매번 주문해 달라고 해서 사용중입니다. 올인원이라 편해서 좋습니다. 성분도 착해 좋고 가격도 착해서 더 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 옴므 선 올인원 플루이드 100ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "84",
+    "Word": "19",
+    "RDate": "20220810",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "올인원이라 편해서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "성분도 착해 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 착해서 더 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "696924",
+    "RawText": "올인원이라 한 번만 바르면 되니 편해서 또 삽니다. 세안 후에 이거 하나만 바르면 끝이니 너무 간편하고 좋습니다. 향기는 나는지 안 나는지 모를 정도라서 아쉽지만 나쁜 냄새는 아니에요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 옴므 선 올인원 플루이드 100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "103",
+    "Word": "27",
+    "RDate": "20220810",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "올인원이라 한 번만 바르면 되니 편해서",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "이거 하나만 바르면 끝이니 너무 간편하고 좋습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향기는 나는지 안 나는지 모를 정도라서 아쉽지만",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "나쁜 냄새는 아니에요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "696929",
+    "RawText": "용기가 펌핑 타입이라 1회 펌핑에 많은 양이 나오지 않아 깔끔하게 사용할 수 있어 좋습니다. 향도 은은해서 괜찮습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 옴므 선 올인원 플루이드 100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "17",
+    "RDate": "20220809",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기가 펌핑 타입이라 1회 펌핑에 많은 양이 나오지 않아 깔끔하게 사용할 수 있어 좋습니다.",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 은은해서 괜찮습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "696930",
+    "RawText": "제 피부에는 안 맞는데 형이 잘 쓰고 있어서 다시 구매하게 되었습니다. 배송이 빠르고 가성비가 좋아요. 향은 호불호가 있을거 같습니다. 30대 이하에서는 별로 안 좋아할 것 같은 향이에요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 옴므 선 올인원 플루이드 100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "105",
+    "Word": "27",
+    "RDate": "20220809",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "제 피부에는 안 맞는데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비가 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향은 호불호가 있을거 같습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "30대 이하에서는 별로 안 좋아할 것 같은 향이에요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "696932",
+    "RawText": "유통기한이 넉넉하고 대용량이라 넉넉히 쓸 것 같습니다. 향이 좀 은은했으면 더 좋았을 텐데 향이 강해서 아쉽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 옴므 선 올인원 플루이드 100ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "64",
+    "Word": "16",
+    "RDate": "20220807",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한이 넉넉하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "대용량이라 넉넉히 쓸 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 좀 은은했으면 더 좋았을 텐데",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 강해서 아쉽습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "696934",
+    "RawText": "리뷰가 좋아서 샀어요. 올 인 원이라서 편해서 좋아요. 향은 뭐 남자 화장품이에요. 배송 빨랐고 오래 사용해보고 좋으면 재구매하려구요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 옴므 선 올인원 플루이드 100ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "75",
+    "Word": "18",
+    "RDate": "20220806",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "올 인 원이라서 편해서 좋아요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향은 뭐 남자 화장품이에요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "696937",
+    "RawText": "항상 쓰고 있는 OOO제품입니다. 배송도 빠르고 가격도 저렴하고 귀찮은 남자들이 사용하기 간편해서 좋습니다. 사용기간도 넉넉해서 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 옴므 선 올인원 플루이드 100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "16",
+    "RDate": "20220805",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "귀찮은 남자들이 사용하기 간편해서 좋습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "사용기간도 넉넉해서 만족합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "696943",
+    "RawText": "배송은 빨랐는데 유통기한이 짧네요. 할인 없이 비싸게 샀는데 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 옴므 선 올인원 플루이드 100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "39",
+    "Word": "9",
+    "RDate": "20220802",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한이 짧네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인 없이 비싸게 샀는데 아쉽네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "696944",
+    "RawText": "전에 사용하던 제품보다는 사용 후 약간 건조한 면이 있어요. 향도 제 스타일은 아닙니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 옴므 선 올인원 플루이드 100ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "49",
+    "Word": "13",
+    "RDate": "20220802",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "사용 후 약간 건조한 면이 있어요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 제 스타일은 아닙니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "696948",
+    "RawText": "용량이 커서 좋습니다. 가격은 저렴하지만 성능은 크게 나쁘지 않아 사용합니다. 간편히 쓰기 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 옴므 선 올인원 플루이드 100ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "56",
+    "Word": "13",
+    "RDate": "20220801",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량",
+        "SentimentText": "용량이 커서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 저렴하지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "성능은 크게 나쁘지 않아",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "간편히 쓰기 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "696949",
+    "RawText": "배송 빠르고 주말에 주문했는데 월요일 도착했습니다. 근데 가격이 좀 비싸고 향이 좀 별로예요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 옴므 선 올인원 플루이드 100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "52",
+    "Word": "13",
+    "RDate": "20220801",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 좀 비싸고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 좀 별로예요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "696952",
+    "RawText": "향이 진하지 않아서 좋고 은은한 향이라서 마음에 듭니다. 끈적이지 않고 촉촉해서 만족합니다. 게다가 원 플러스 원이라서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 옴므 선 올인원 플루이드 100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "17",
+    "RDate": "20220731",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 진하지 않아서 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "은은한 향이라서 마음에 듭니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "끈적이지 않고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "촉촉해서 만족합니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "원 플러스 원이라서 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "696960",
+    "RawText": "용량도 크고 향도 괜찮아요. 남편이 맘에 들어해요. 한동안 로션 걱정은 없겠네요. 처음 써보는데 만족해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 옴므 선 올인원 플루이드 100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "14",
+    "RDate": "20220729",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량",
+        "SentimentText": "용량도 크고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 괜찮아요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "696961",
+    "RawText": "주문하자마자 신속히 배송되었고 포장도 튼튼했습니다. 재구매하는 거라 품질은 믿고 사용합니다. 특히 용기가 펌프 형태라 편리합니다. 이번에 쇼핑몰 행사로 가격도 저렴하고 온전한 제품으로 잘 받았어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 옴므 선 올인원 플루이드 100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "110",
+    "Word": "24",
+    "RDate": "20220729",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질은 믿고 사용합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기가 펌프 형태라 편리합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "696969",
+    "RawText": "상품평이 좋아 보여서 사 봤는데 피부가 좀 건조한 편이라서 그런지 피부가 좀 당겨요. 향도 사우나 스킨 향처럼 좀 진합니다. 올인원이라 간편하게 쓸 수 있고 배송 빨랐습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 옴므 선 올인원 플루이드 100ml 1개",
+    "ReviewScore": "3",
+    "Syllable": "97",
+    "Word": "26",
+    "RDate": "20220727",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "피부가 좀 건조한 편이라서 그런지 피부가 좀 당겨요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 사우나 스킨 향처럼 좀 진합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "올인원이라 간편하게 쓸 수 있고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "696973",
+    "RawText": "가격 착하고 촉촉하고 향이 좋아서 꾸준히 쓰고 있습니다. 끈적임 없이 발림성이 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 옴므 선 올인원 플루이드 100ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "49",
+    "Word": "12",
+    "RDate": "20220726",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 착하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "촉촉하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "끈적임 없이",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성이 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "696979",
+    "RawText": "배송 빠른데 가격이 저렴하지 않아요. 향이 완전 제 취향은 아닙니다. 그래도 써보려구요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 옴므 선 올인원 플루이드 100ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "49",
+    "Word": "12",
+    "RDate": "20220726",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴하지 않아요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 완전 제 취향은 아닙니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "696984",
+    "RawText": "저렴한 가격에 배송이 빨라서 만족해요. 기존에 사용 중인 제품을 큰 용량으로 살 수 있어서 만족스러워요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 아** 옴므 선 올인원 플루이드 100ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "58",
+    "Word": "15",
+    "RDate": "20220722",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "큰 용량으로 살 수 있어서 만족스러워요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]

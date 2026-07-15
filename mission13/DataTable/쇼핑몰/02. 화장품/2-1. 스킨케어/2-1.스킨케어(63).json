@@ -1,0 +1,3320 @@
+[
+  {
+    "Index": "240260",
+    "RawText": "기대하지 않고 가격이 저렴해서 구입하게 됐는데 생각했던 것보다 대만족입니다~ 아이크림 아껴 썼는데 양이 굉장히 많아서 아낌없이 바르고  있습니다~~",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 더** 아이크림 40mlx4개",
+    "ReviewScore": "100",
+    "Syllable": "82",
+    "Word": "18",
+    "RDate": "20190418",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴해서 구입하게 됐는데 생각했던 것보다 대만족입니다~ ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "양이 굉장히 많아서 아낌없이 바르고  있습니다~~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240273",
+    "RawText": "메디 플라워 대용량 콜라겐 링클아이크림, 가격대비 정말 좋은 제품입니다  배송도 빠르고 만족스러운 제품을 저렴하게 사용해보세요 ~~",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 더** 아이크림 40mlx4개",
+    "ReviewScore": "100",
+    "Syllable": "73",
+    "Word": "16",
+    "RDate": "20190404",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 정말 좋은 제품입니다 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "만족스러운 제품을 저렴하게 사용해보세요 ~~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240275",
+    "RawText": "상품배송받은후  첨써봤는데 발림이소프트하구 부드럽게   착 감기네요 착한가격      넘감사합니다       대만족이예요    훗~^^",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 더** 아이크림 40mlx4개",
+    "ReviewScore": "100",
+    "Syllable": "75",
+    "Word": "10",
+    "RDate": "20190411",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림이소프트하구 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "착한가격      넘감사합니다    ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "부드럽게   착 감기네요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240281",
+    "RawText": "사용전이지만 저렴한 가격이라 쉽게 구매 결정했고 품질도 좋기를 바라는 마음입니다.ㅎ 샘플이 없어서 아쉽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "[1+1+1+1]OO 대용량 콜라겐 아이크림 40ml",
+    "ReviewScore": "100",
+    "Syllable": "61",
+    "Word": "13",
+    "RDate": "20190410",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격이라 쉽게 구매 결정했고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "샘플이 없어서 아쉽습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "240286",
+    "RawText": "양이 적어서 많이 바를 수 없습니다. 주름개선효과도 없는 것 같아요. 바르면 눈에 자극이 있어서 사용하기 불편합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "[1+1+1+1]OO 대용량 콜라겐 아이크림 40ml",
+    "ReviewScore": "100",
+    "Syllable": "65",
+    "Word": "16",
+    "RDate": "20210422",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용량",
+        "SentimentText": "양이 적어서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "주름개선효과도 없는 것 같아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "바르면 눈에 자극이 있어서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기 불편합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "240297",
+    "RawText": "다들 알고 있는 제품이라 구매했어요. 오늘 처음으로 사용해봤는데, 촉촉함이 부족한 듯하네요.  수량 대비 가격도 비싼 편이네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 마** 크림",
+    "ReviewScore": "100",
+    "Syllable": "71",
+    "Word": "16",
+    "RDate": "20190424",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉함이 부족한 듯하네요.  ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "수량 대비 가격도 비싼 편이네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "240301",
+    "RawText": "동국제약 마데카크림은 수년전부터 계속 꾸준히 써오던 저의 인생템입니다 이 크림은 지금 제가 쓰고있는 크림의 예전버전이라서 살까말까고민하다가 쿠폰도있고해서 고민끝에 저렴하게 구매했네여 받고보니 혹 유통기한 다되어가는 제품아닌가 걱정했는데 다행히도 유통기한은 넉넉하네요 동국제약 마데카크림 좋다는건 이미 다알고 수년전부터 써오던터라 불만은 없지만 좀아쉽네여ㅠㅠ 잘쓸께여 ",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 마** 크림",
+    "ReviewScore": "100",
+    "Syllable": "205",
+    "Word": "40",
+    "RDate": "20190509",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰도있고해서 고민끝에 저렴하게 구매했네여 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한은 넉넉하네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240305",
+    "RawText": "잘 받았습니다 배송도 빠르게 잘 맞구요 안전보장으로 빨리 도착했네요 엄마랑 친구 가족들 에게 나누어 주고 저도 사용 중입니다 주름 미백 관리 도움 돈다해서 구입했는데 주름 미백 관리 효과기대해 봅니다",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 마** 크림",
+    "ReviewScore": "100",
+    "Syllable": "111",
+    "Word": "29",
+    "RDate": "20190429",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "주름 미백 관리 효과기대해 봅니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "미백 관리 효과기대해 봅니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "240306",
+    "RawText": "피부에 윤기가 흐르고 화장이 잘 먹어요. 피부가 화사해 지는 느낌이예요.언니꺼 써 보고 좋아서 구매했어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 마** 크림",
+    "ReviewScore": "100",
+    "Syllable": "59",
+    "Word": "14",
+    "RDate": "20190424",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "피부에 윤기가 흐르고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "화장이 잘 먹어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "피부가 화사해 지는 느낌이예요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240309",
+    "RawText": "제약회사제품이라그런지 약냄새가좀나는것같은데 바르니 촉촉해요~끈적임도적구요~~^^  제약회사 제품이라 약냄새가나는것같은데 바르니 쪽촉하고 끈적임도덜하네요~           ",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 마** 크림",
+    "ReviewScore": "100",
+    "Syllable": "96",
+    "Word": "10",
+    "RDate": "20190524",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "약냄새가좀나는것같은데",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "바르니 촉촉해요~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "끈적임도적구요~~^^",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "약냄새가나는것같은데",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "바르니 쪽촉하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "끈적임도덜하네요~",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240311",
+    "RawText": "봄가을 겨울엔 좋을거 같은데  더운 여름용은 아닌듯 하네요  약간의 끈적임느낌이 드는거 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 마** 크림",
+    "ReviewScore": "80",
+    "Syllable": "52",
+    "Word": "12",
+    "RDate": "20190520",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "봄가을 겨울엔 좋을거 같은데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "더운 여름용은 아닌듯 하네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "약간의 끈적임느낌이 드는거 같아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "240312",
+    "RawText": "배송은 빨리 왔구요 가성비 좋은 양이구요  발랐을때 저는 유분기 싫어하는데 약간 유분기는 느껴져요  끈적끈적 이랄까.. 대신 밤에 바르고 자면 촉촉함 아침까지 유지되구요 아침 출근할때 바르고 저녁 됐는데 하루종일 촉촉해요 끈적이고 무거운 느낌만 들하면 참 좋겠네요  70%만족이예요 잘써볼께요 샘플은 양이 딱 한번 바를 꺼라 싸보고 결정 하기에는 좀 그렇네요 하루이틀 정도는 발라봐야 하는데 ㅋㅋ 어쩔수 없이 구매한 본품 뜯어서 발라봅니다 큰 트러블 없으니 꾸준히 발라볼께요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 마** 크림",
+    "ReviewScore": "80",
+    "Syllable": "265",
+    "Word": "64",
+    "RDate": "20190425",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량",
+        "SentimentText": "가성비 좋은 양이구요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "약간 유분기는 느껴져요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "끈적끈적 이랄까.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": " 밤에 바르고 자면 촉촉함 아침까지 유지되구요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉함 아침까지 유지되구요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "하루종일 촉촉해요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉해요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "끈적이고 무거운 느낌만 들하면 참 좋겠네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": " 무거운 느낌만 들하면 참 좋겠네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": " 큰 트러블 없으니 꾸준히 발라볼께요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240313",
+    "RawText": "홈쇼핑에서 판매할때부터 계속 사용해왔는데 나가면 다들 피부 좋다고들 하며 관리를 받느냐며 물어들봐요 다른제품들은 바르고나면 촉촉함이 오래지속되지 않는데 마데카크림은 스킨 바르고 다른  에셴스종류  안 발라도 촉촉함이 계속유지되어 50대  중반인데도 다들 피부가 넘좋다고들하네요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 마** 크림",
+    "ReviewScore": "100",
+    "Syllable": "154",
+    "Word": "31",
+    "RDate": "20190430",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "다들 피부 좋다고들 하며 관리를 받느냐며 물어들봐요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉함이 계속유지되어",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "계속유지되어",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "피부가 넘좋다고들하네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240314",
+    "RawText": "피부 상태가 트러블이 심해서 고민이었는데 마데카 크림 쓰고 나서 많이 회복 됐어요 피부 트러블을 잡아줘요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 마** 크림",
+    "ReviewScore": "100",
+    "Syllable": "59",
+    "Word": "15",
+    "RDate": "20190414",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "피부 상태가 트러블이 심해서 고민이었는데 마데카 크림 쓰고 나서 많이 회복 됐어요",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "피부 트러블을 잡아줘요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240320",
+    "RawText": "3일 발랐는데 진정효과가 없습니다. 피부가 당기고 건조해집니다. 품질이 안 좋은 제품이네요. ",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 마** 크림",
+    "ReviewScore": "100",
+    "Syllable": "52",
+    "Word": "11",
+    "RDate": "20190422",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "진정효과가 없습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "피부가 당기고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "건조해집니다.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 안 좋은 제품이네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "240323",
+    "RawText": "쫀쫀한데 끈적거리네요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 마** 크림",
+    "ReviewScore": "80",
+    "Syllable": "11",
+    "Word": "2",
+    "RDate": "20190529",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "탄력",
+        "SentimentText": "쫀쫀한데",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "끈적거리네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "240326",
+    "RawText": "쫀쫀한제형이 맘에 듭니다 적립이 20프로나 되는것도 좋습니다 적립은자동으로 되는지 궁금하네요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 마** 크림",
+    "ReviewScore": "100",
+    "Syllable": "51",
+    "Word": "10",
+    "RDate": "20190423",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "쫀쫀한제형이 맘에 듭니다 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "적립이 20프로나 되는것도 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240328",
+    "RawText": "10%로 할인 쿠폰에 적립금 까지 사용해 아주 저렴하게 구입해 촉촉하고 발림성 좋은 마데카크림 잘사용 하겠습니다 ~^^",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 마** 크림",
+    "ReviewScore": "100",
+    "Syllable": "66",
+    "Word": "16",
+    "RDate": "20190426",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "10%로 할인 쿠폰에 적립금 까지 사용해 아주 저렴하게 구입해",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성 좋은",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240333",
+    "RawText": "싸게 좋은품질 잘샀습니다. 잘쓸께요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 마** 크림",
+    "ReviewScore": "100",
+    "Syllable": "19",
+    "Word": "4",
+    "RDate": "20190509",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸게 좋은품질 잘샀습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "좋은품질 잘샀습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240334",
+    "RawText": "빠른  배송도 좋고요 받자마자  써보니 점성이 아주 쫀쫀한게 제형이 피부에 찰쌔 붙는 느낌이 좋아요.얼마간 써야 효과 날지 모르겠지만 일단 촉촉한게 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "86",
+    "Word": "21",
+    "RDate": "20190516",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "점성이 아주 쫀쫀한게",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 피부에 찰쌔 붙는 느낌이 좋아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "얼마간 써야 효과 날지 모르겠지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉한게 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240336",
+    "RawText": "아직 기미흐려지는건 모르겠어요. 첨 바른거라서..그런데 엄청쫀쫀해요.  ",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "40",
+    "Word": "6",
+    "RDate": "20190421",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "아직 기미흐려지는건 모르겠어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "탄력",
+        "SentimentText": "엄청쫀쫀해요. ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240344",
+    "RawText": "건성인 제 피부에 자기전에 바르니 촉촉해서 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "27",
+    "Word": "7",
+    "RDate": "20190501",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "피부타입",
+        "SentimentText": "건성인 제 피부에 자기전에 바르니 촉촉해서 좋네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉해서 좋네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240345",
+    "RawText": "상품평 중에 향이 별로라는 분도 계시는데, 저는 개인적으로 향이 좋아요.  오렌지향같도하고, 그런 류의 시원한 향이에요. ",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "68",
+    "Word": "15",
+    "RDate": "20190503",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "저는 개인적으로 향이 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "오렌지향같도하고, ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "그런 류의 시원한 향이에요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240346",
+    "RawText": "기미가 어느덧 까뭇하게 생기는듯 해서 방송보다가 시켰는데 꽤 괜찮은 제품같아요 주름도 없어보이고 제형이 쫀득하니 만족스럽네요 기미가 개선될지늣 모르겠으나 피부가 좋아보이는건 확실해요 재구매 의사 많아요~~^^",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "116",
+    "Word": "24",
+    "RDate": "20190501",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "주름도 없어보이고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 쫀득하니 만족스럽네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "기미가 개선될지늣 모르겠으나",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "피부가 좋아보이는건 확실해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240347",
+    "RawText": "광동 기미크림 딸이 사줘서 써봣는데 발림성도 너무좋고 바르고나면 굉장히 쫀쫀합니다 메이크업도 잘받고 일주일 발랏는데 피부톤이 좀 밝아지고 있다는걸 느낍니다. 한달후 기대가 됩니다",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "99",
+    "Word": "22",
+    "RDate": "20190503",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성도 너무좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탄력",
+        "SentimentText": "바르고나면 굉장히 쫀쫀합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "메이크업도 잘받고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "일주일 발랏는데 피부톤이 좀 밝아지고 있다는걸 느낍니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240350",
+    "RawText": "쫀쫀한 발림이 완전  굿!                     ",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "35",
+    "Word": "4",
+    "RDate": "20190501",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "탄력",
+        "SentimentText": "쫀쫀한 발림이 완전  굿!",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림이 완전  굿!",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240351",
+    "RawText": "쫀쫀한거는 좋은데 끈적임이 있어서 여름에 어떨지 모르겠어요 일단 써보려구요 . 안색이 화사해지는건 아직 샘플만 써보고는 모르겠어요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "72",
+    "Word": "16",
+    "RDate": "20190429",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "탄력",
+        "SentimentText": "쫀쫀한거는 좋은데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "끈적임이 있어서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "안색이 화사해지는건 아직 샘플만 써보고는 모르겠어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "240354",
+    "RawText": "향도 은은하고 제형텍스쳐가 너무 부드러워요. 조금씩 늘고 있는 기미, 주근깨 고민으로 일단 주문해봤는데  꾸준히 바르고 효과 봤으면 좋겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "79",
+    "Word": "18",
+    "RDate": "20190501",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 은은하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형텍스쳐가 너무 부드러워요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "꾸준히 바르고 효과 봤으면 좋겠어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "240359",
+    "RawText": "약간매트한느낌. 그리고.촉촉함.. 좋아요~",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "23",
+    "Word": "3",
+    "RDate": "20190519",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "약간매트한느낌.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "그리고.촉촉함..",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240360",
+    "RawText": "촉촉하고 얼굴이 밝아진것 같아요 ",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "18",
+    "Word": "4",
+    "RDate": "20190518",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "얼굴이 밝아진것 같아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240361",
+    "RawText": "다른 크림과 달리 제형 느낌이 쫀득해서 바르면 부드럽게 스며들어요. 기미없이 뽀얀 얼굴되는 효과 기대해 봐요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성",
+    "ReviewScore": "80",
+    "Syllable": "61",
+    "Word": "15",
+    "RDate": "20190526",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "다른 크림과 달리 제형 느낌이 쫀득해서",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "바르면 부드럽게 스며들어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "기미없이 뽀얀 얼굴되는 효과 기대해 봐요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "240363",
+    "RawText": "크림 제형이 아쉽습니다. 용량이 적어서 저녁에 듬뿍 바를 수 없네요. 발라도 피부결이 좋아지진 않네요. 바르면 피부에 자극이 갑니다. 다시는 사용하지 않을 것 같네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "93",
+    "Word": "23",
+    "RDate": "20190523",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "크림 제형이 아쉽습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "용량이 적어서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "피부결이 좋아지진 않네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "바르면 피부에 자극이 갑니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "240364",
+    "RawText": "즤문하고 3일만에받았어요 처음 체험분써보고 주문하려다 귀챤아서 본품뜯어서 요기죠기 한통씩나눠주고 발 라봣는데 발 림성 이매트한 느낌 유분기는 많은편 그리고 화장품 이 스며드는게 아니고 겉 도는 느낌 사람 마다 느낌 은 다른거니. .   걍 싼맛에  함써보고 기미까지 흐려진다먼 정 말 대박이게쪄",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "164",
+    "Word": "39",
+    "RDate": "20190519",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발 림성 이매트한 느낌",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "유분기는 많은편",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "화장품 이 스며드는게 아니고 겉 도는 느낌",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "걍 싼맛에  함써보고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "기미까지 흐려진다먼 정 말 대박이게쪄",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "240365",
+    "RawText": "지인이부탁해주문해사용하는데괜찮네요.제형이쫀쫀하고피부에잘스며들어환해지는기분이네요.꾸준히사용해봐야겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "56",
+    "Word": "1",
+    "RDate": "20190517",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이쫀쫀하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "피부에잘스며들어",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "환해지는기분이네요.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240369",
+    "RawText": "향은 좋으나 여름날씨에 끈적임은 싫으네요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성",
+    "ReviewScore": "60",
+    "Syllable": "22",
+    "Word": "5",
+    "RDate": "20190530",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향은 좋으나",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "여름날씨에 끈적임은 싫으네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "240370",
+    "RawText": "제형도 쫀쫀하고 자극성 없고 순합니다",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "20",
+    "Word": "5",
+    "RDate": "20190518",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형도 쫀쫀하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "자극성 없고 순합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240372",
+    "RawText": "쫀쫀한 느낌과 함께 기미가 없어지길 바라며 열심히 사용할게요  ",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "35",
+    "Word": "8",
+    "RDate": "20190430",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "탄력",
+        "SentimentText": "쫀쫀한 느낌과 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": " 기미가 없어지길 바라며 열심히 사용할게요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "240375",
+    "RawText": "엄마랑 나눠쓰려고 샀어요 한통 다 써가는데 만족합니다 제형이 무척 쫀쫀하고 잘 발려요 미백은 잘모르겠지만 기본 크림으로 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "70",
+    "Word": "17",
+    "RDate": "20190928",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 무척 쫀쫀하고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "잘 발려요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "미백은 잘모르겠지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "240381",
+    "RawText": "기미크림이라 그런지 건조하고 피부에 자극이 갑니다. 피부가 당겨서 사용하지 못하겠네요. 기대에 못 미치는 제품입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "65",
+    "Word": "14",
+    "RDate": "20190424",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "건조하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "피부에 자극이 갑니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "피부가 당겨서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "240382",
+    "RawText": "화장품 살때 트러블생길까봐 화장품 고르기가 참어려운데 긴가민가하고 주문했는데 이건좋네요 촉촉하고 약간끈적거리긴하지만 참을만은해요 기미가 살짝연해지는 느낌이예요 글루타치온의 효과인가~~ 암튼 좋아요 얼릉 기미없어져서 피부깨끗해졌으면좋겠네요 ㅎ ",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성",
+    "ReviewScore": "80",
+    "Syllable": "135",
+    "Word": "23",
+    "RDate": "20190423",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "약간끈적거리긴하지만 참을만은해요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "기미가 살짝연해지는 느낌이예요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "얼릉 기미없어져서 피부깨끗해졌으면좋겠네요 ㅎ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "240384",
+    "RawText": "쫀쫀해요.바르는 순간 피부가 쫀쫀해지는 기분이고요 기미도 싹 없어질것같은 기분.. 한달수를 기대해 봅니다~~~",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "61",
+    "Word": "12",
+    "RDate": "20190423",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "탄력",
+        "SentimentText": "쫀쫀해요.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "기미도 싹 없어질것같은 기분..",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "탄력",
+        "SentimentText": "바르는 순간 피부가 쫀쫀해지는 기분이고요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240388",
+    "RawText": "가성비 안 좋고 사용 후 피부 진정효과도 없습니다. 제품 구성도 다양하지 않아 마음에 들지 않네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성",
+    "ReviewScore": "80",
+    "Syllable": "55",
+    "Word": "15",
+    "RDate": "20190613",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 안 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "피부 진정효과도 없습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "제품 구성도 다양하지 않아 마음에 들지 않네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "240389",
+    "RawText": "얼굴이 환해진 느낌은 없고 제형이 쫀득한 크림 바른정도..그래도 건성인 제 피부에 맞는듯 헙니다",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "53",
+    "Word": "13",
+    "RDate": "20190612",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "얼굴이 환해진 느낌은 없고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": " 제형이 쫀득한 크림 바른정도",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "피부타입",
+        "SentimentText": "그래도 건성인 제 피부에 맞는듯 헙니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "제 피부에 맞는듯 헙니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240390",
+    "RawText": "제형은 찐득하니 앞으로는 사용하기힘들것같음. 여름만빼고 촉촉한크림으로도사용함좋을듯.. 한달넘게 아침저녁으로꾸준히 기초마지막단계에서 주구장창 꾸준히발라봤음.약간의찹티인지.기미인지 그리심한편이아닌데도. 특별한효과는 아직모르겠음.. 여지껏살아오면서터득한걸  재차확인시켜준제품. 그냥효과보려면 피부과나 성형외과에가서 기구로 관리받은게최고임.아무리좋고 비싼것도그저그냥",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성",
+    "ReviewScore": "60",
+    "Syllable": "200",
+    "Word": "22",
+    "RDate": "20190613",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형은 찐득하니 앞으로는 사용하기힘들것같음.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "여름만빼고 촉촉한크림으로도사용함좋을듯..",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉한크림으로도사용함좋을듯..",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "특별한효과는 아직모르겠음..",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "240391",
+    "RawText": "아침에 일어나서 보면 기미가 흐려지고 맑아지는것같습니다!아주 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "38",
+    "Word": "7",
+    "RDate": "20190611",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "기미가 흐려지고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "맑아지는것같습니다!",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240394",
+    "RawText": "좀 의아했어요 효과가 눈으로 드러나는 정돈데 왜 이게 사람들이 모르지?하고요..한편으로 걱정됩니다..이거 유명해져서 가격오를까봐요ㅠ 한통다썼고 효과너무 좋아서 엄마한통드렸어요 한달만 꾸준히 아침저녁발라보시라고 효과보시면 또 드린다고 ㅋㅋㅋ",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "133",
+    "Word": "24",
+    "RDate": "20190602",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과가 눈으로 드러나는 정돈데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과너무 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240395",
+    "RawText": "전주로밤에바르고자는데바를때끈적이는느낌은있지만아침에피부가좋아져서 자주바르게되네요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "43",
+    "Word": "2",
+    "RDate": "20190601",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "바를때끈적이는느낌은있지만",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "아침에피부가좋아져서 자주바르게되네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240401",
+    "RawText": "처음 사용해봤습니다. 발림성이 안 좋고 기미에 효과도 없네요. 바르고 건조해서 다른 크림을 발라야 할 정도입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "63",
+    "Word": "15",
+    "RDate": "20190430",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성이 안 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "기미에 효과도 없네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "바르고 건조해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "240402",
+    "RawText": "쫀쫀하고 향이 좋아요 끈적이고 머리카락은 좀 붙지만 전 향이 좋아서 넘 좋아요 속,겉기미 좋아지길 기대해봅니다",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "61",
+    "Word": "15",
+    "RDate": "20190427",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "탄력",
+        "SentimentText": "쫀쫀하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "끈적이고 머리카락은 좀 붙지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 좋아서 넘 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "속,겉기미 좋아지길 기대해봅니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "240403",
+    "RawText": "방송에서 설명하는 만큼 좋지는 않고 오히려 피부에 자극이 있고 거칠어지는 느낌입니다. 그리고 바르고 처음에는 흡수 될 때까지 발림성이 약간 무거워요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성",
+    "ReviewScore": "40",
+    "Syllable": "83",
+    "Word": "20",
+    "RDate": "20190503",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "오히려 피부에 자극이 있고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "거칠어지는 느낌입니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "흡수 될 때까지 발림성이 약간 무거워요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "240404",
+    "RawText": "바르는 느낌이 쫀쫀하니 좋아요 처음으로 구매했는데 기미크림이라 기대하고 발라요 조금이라도 기미가 옅으지면 좋겠어요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "63",
+    "Word": "13",
+    "RDate": "20190506",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "발림성",
+        "SentimentText": "바르는 느낌이 쫀쫀하니 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "조금이라도 기미가 옅으지면 좋겠어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "탄력",
+        "SentimentText": "쫀쫀하니 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240405",
+    "RawText": "엄마 사드렸는데 쫀쫀하고 보습력 너무 좋아서 재구매 하신다네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "35",
+    "Word": "8",
+    "RDate": "20190505",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "탄력",
+        "SentimentText": "쫀쫀하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "보습력 너무 좋아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240406",
+    "RawText": "샘플 잘 사용 했어요  샘플 사용해보니 쫌쫌함이 좋아서 본품 사용합니다 쫌쫌함이 좋네요 감사합니다",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "54",
+    "Word": "13",
+    "RDate": "20190504",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "탄력",
+        "SentimentText": "샘플 사용해보니 쫌쫌함이 좋아서 본품 사용합니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탄력",
+        "SentimentText": "쫌쫌함이 좋네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240408",
+    "RawText": "제형이 쫀득하니 건성피부에 좋아요.향도 상큼하네요.                ",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성",
+    "ReviewScore": "80",
+    "Syllable": "44",
+    "Word": "5",
+    "RDate": "20190425",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 쫀득하니 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "피부타입",
+        "SentimentText": "건성피부에 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 상큼하네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240409",
+    "RawText": "방송보다 혹해서 구입 한번발라봤는데 발림성도좋고 무지쫀쫀해요. 꾸준히 사용하면 좋아질것같은 느낌이 드네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성",
+    "ReviewScore": "80",
+    "Syllable": "59",
+    "Word": "11",
+    "RDate": "20190423",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "발림성",
+        "SentimentText": "한번발라봤는데 발림성도좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탄력",
+        "SentimentText": "무지쫀쫀해요.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "꾸준히 사용하면 좋아질것같은 느낌이 드네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "240410",
+    "RawText": "처음으로 기미크림을 바르게됏어요. 피부에 닺는 제형 느낌도 끈적임없고 촉촉하고 좋네요. 설명서대로 효과가 좋아지길 기대합니다",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "69",
+    "Word": "14",
+    "RDate": "20190423",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "피부에 닺는 제형 느낌도 끈적임없고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하고 좋네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "설명서대로 효과가 좋아지길 기대합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "240411",
+    "RawText": "4주후 효과가 나타난다하는데, 솔직히 잘 모르겠음~ 눈가잔주름은 좀 사라진듯~ ",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성",
+    "ReviewScore": "60",
+    "Syllable": "44",
+    "Word": "9",
+    "RDate": "20190620",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "4주후 효과가 나타난다하는데, 솔직히 잘 모르겠음~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "눈가잔주름은 좀 사라진듯~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240416",
+    "RawText": "OO제약 브랜드를 믿고 구입했는데 가격만 비싸고 전체적인 상품 품질이 안 좋습니다. 이럴거면 가격을 내려줬으면 좋겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "67",
+    "Word": "15",
+    "RDate": "20190517",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격만 비싸고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "상품 품질이 안 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격을 내려줬으면 좋겠네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "240418",
+    "RawText": "쫀쫀하게 피부에 딱붙으면서 촉촉하네요~ 꾸준히 발라보려고요^^;;; 왼쪽뺨에 기미가 있는데 다 바른다음 사진 올릴게요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "65",
+    "Word": "13",
+    "RDate": "20190504",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "탄력",
+        "SentimentText": "쫀쫀하게 피부에 딱붙으면서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하네요~",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240419",
+    "RawText": "배송받자 저녁세안후 바로 듬뿍 바르고 잣어요 세상에나 아침에 피부가 넘 부드럽고 탄력까지 잇어보엿네요 넘 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "62",
+    "Word": "15",
+    "RDate": "20190502",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "피부가 넘 부드럽고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탄력",
+        "SentimentText": "탄력까지 잇어보엿네요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240422",
+    "RawText": "오늘 하루 사용해봐서 효과는 잘 모르겠어요. 앞으로 매일매일 사용해 보려구요. 여름 내내 주근깨 가득한 얼굴이 조금이라도 효과 있으면 좋겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "80",
+    "Word": "19",
+    "RDate": "20190502",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과는 잘 모르겠어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "조금이라도 효과 있으면 좋겠네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "240423",
+    "RawText": "많이 큰적이지도 않고 촉촉하게 스며드는 느낌도 좋고 꾸준히 바르다보면 색소 기미많읏 제 피부가 환해질것 같네요!!",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "63",
+    "Word": "15",
+    "RDate": "20190502",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "많이 큰적이지도 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하게",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "촉촉하게 스며드는 느낌도 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "꾸준히 바르다보면 색소 기미많읏 제 피부가 환해질것 같네요!!",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "240427",
+    "RawText": "주문하고 샘플먼저 쓰자하고 써밧는데 솔직 제형이 좀 끈적이긴합니다 못견딜정도는 아니지만 날이더워질때라...반품해야겟다 생각햇는데 아침에 일어나보니 얼굴이 뽀얗더라고요 반품말고 걍 쓸라고요 ",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성",
+    "ReviewScore": "80",
+    "Syllable": "105",
+    "Word": "19",
+    "RDate": "20190513",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 좀 끈적이긴합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "아침에 일어나보니 얼굴이 뽀얗더라고요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240428",
+    "RawText": "처음 구매한 기미크림인데 정말 좋네요~ 제형이 쫀득하니 얼굴에 착 감기는 느낌도 좋고 향도 괜찮네요~ 강추!",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "60",
+    "Word": "15",
+    "RDate": "20190513",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 쫀득하니",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "얼굴에 착 감기는 느낌도 좋고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 괜찮네요~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240430",
+    "RawText": "쫀쫀한느낌의 크림제형 기미잡티제거에 효과있다고해서구매  계속 써봅니다 구성품은 마음에 들어요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "51",
+    "Word": "9",
+    "RDate": "20190509",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "쫀쫀한느낌의 크림제형 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성품은 마음에 들어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "기미잡티제거에 효과있다고해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240431",
+    "RawText": "아침저녁일주일사용했는데효과는잘모르겠어요 왕건조한피부를가진저한테는좀건조해요ᆢ 그리고아침에바르고화장하면화장이밀려요 충분히흡수시켜도그러네요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성",
+    "ReviewScore": "40",
+    "Syllable": "74",
+    "Word": "4",
+    "RDate": "20190513",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "아침저녁일주일사용했는데효과는잘모르겠어요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "왕건조한피부를가진저한테는좀건조해요ᆢ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "아침에바르고화장하면화장이밀려요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "충분히흡수시켜도그러네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "좀건조해요ᆢ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "240432",
+    "RawText": "발림성이 끈적하다고 후기를 보고 좀 걱정했는데, 엄마는 발라보더니 괜찮다고 좋다고하시네용! 기미가 정말 희미해질지는 모르겠지만, 효과 있기를 바랍니다.^^",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "86",
+    "Word": "17",
+    "RDate": "20190508",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발라보더니 괜찮다고 좋다고하시네용! ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "기미가 정말 희미해질지는 모르겠지만, 효과 있기를 바랍니다.^^",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "240433",
+    "RawText": "사진을 올릴수 있게 변경해주세요!! 뭐 계속 편집화면으로 뜨고....ㅡ.ㅡ 후기사진을 아예 못올리게해놨네..ㅡ.ㅡ 헐... 제품향기는 오렌지향 같아요~ 은은하면서 좋네요~ 제가 이렇게 찐득하게 발리는 텍스처를 좋아라해서 저는 너무 좋네요~ 아직 드라마틱한 피부변화는 없어서 별한개 뺍니당..ㅋ 추후 효과있음 또 구매하려구요~^^",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성",
+    "ReviewScore": "80",
+    "Syllable": "183",
+    "Word": "36",
+    "RDate": "20190518",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "제품향기는 오렌지향 같아요~ 은은하면서 좋네요~ ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "찐득하게 발리는 텍스처를 좋아라해서 저는 너무 좋네요~",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "아직 드라마틱한 피부변화는 없어서 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "240435",
+    "RawText": "정말 가격이 저렴하여 의심스러울 정도인데 토너는 촉촉하고 크림은 쪽득쫀득해서 피부가 몇일 사용하지 않았는데 광이난다.. 잘때 바르고 자고 일어나면 아기피부만큼 보들보들하다.. 100프로  만족하는데 가격이 너무 싸다.. 용량도 많고 오래 쓸수 있어서 엄마에게 또 아는 언니에게  하나씩 나눠 줬다.. 부지런히 발라 효과보라고.. 나는 너무 만족하게 사용하고 ",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "200",
+    "Word": "44",
+    "RDate": "20190516",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "정말 가격이 저렴하여",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": " 토너는 촉촉하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탄력",
+        "SentimentText": "크림은 쪽득쫀득해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": " 피부가 몇일 사용하지 않았는데 광이난다..",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "잘때 바르고 자고 일어나면 아기피부만큼 보들보들하다..",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 너무 싸다..",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "용량도 많고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240440",
+    "RawText": "미백이나 기미크림 실패를 많이 하거나 효과를 그리 보지 못해서 망설이다가 무료 체험분이 있어서 구입 했어요 요즘 피부 상태가 뒤집어 져서 예민한데 약간 피부결이 정리가 되고 안색도 밝아지고 건조하지 않아서 너무 좋아요 어제 본품 개봉 했어요 앞으로 기대가 되네요 4주뒤 더 효과가 있다고 하니 열심히 써 보려구요 ",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "175",
+    "Word": "46",
+    "RDate": "20190512",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "피부결이 정리가 되고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "안색도 밝아지고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "건조하지 않아서 너무 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "4주뒤 더 효과가 있다고 하니 열심히 써 보려구요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "240441",
+    "RawText": "아직 사용한 지 얼마 되지 않아서 기미가 옅어졌는지는 모르겠네요. 촉촉하지 않아서 건조하고 피부에 자극이 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "64",
+    "Word": "15",
+    "RDate": "20190519",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "기미가 옅어졌는지는 모르겠네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하지 않아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "건조하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "피부에 자극이 있습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "240445",
+    "RawText": "제형이 아주 쫀쫀한 질감이에요 기미가 없어질지는 꾸준히 써봐야알겠지만 향도좋고 다음날까지 촉촉합니다",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "55",
+    "Word": "11",
+    "RDate": "20190517",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 아주 쫀쫀한 질감이에요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도좋고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "다음날까지 촉촉합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉합니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "기미가 없어질지는 꾸준히 써봐야알겠지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "240447",
+    "RawText": "한번 써봐서 효과는 잘 모르겠지만, 꾸준히 써보려구요. 용량에 비해 가격은 비싸네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성",
+    "ReviewScore": "60",
+    "Syllable": "47",
+    "Word": "11",
+    "RDate": "20190509",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과는 잘 모르겠지만, 꾸준히 써보려구요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 비싸네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "240448",
+    "RawText": "처음 받았을땐 기미제품 발라봐야 별효꽈를 못본터라 그다지 기대는 안했는데 ... 바르고 다음날 아침 깜놀랐습니다. 피부가 뽀얀해지는게 느껴지고... 보통 화이트 제품은 바르면 건조한제품이 많은데 이제품은 유기도 흐르네여~ 좋은제품 싸게사서...감사히 잘쓰겠습니다. 강츄!!!!!",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "155",
+    "Word": "30",
+    "RDate": "20190523",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "피부가 뽀얀해지는게 느껴지고...",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "이제품은 유기도 흐르네여~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은제품 싸게사서...감사히 잘쓰겠습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240450",
+    "RawText": "바르고 끈적여서 신경이 많이 쓰이고 피부가 좋아지지 않네요. 성분도 안 좋은 것 같고 용량도 아쉬워 재구매는 없습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "66",
+    "Word": "17",
+    "RDate": "20190621",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "바르고 끈적여서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "피부가 좋아지지 않네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "성분도 안 좋은 것 같고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "용량도 아쉬워",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "240452",
+    "RawText": "쫀쫀하고 좋긴한데 끈적임이 있네요 더운여름에 쓰기는 조금 끈적임이 있네요 찬바람 불때 쓰면 괜챦을것 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "59",
+    "Word": "14",
+    "RDate": "20190513",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "탄력",
+        "SentimentText": "쫀쫀하고 좋긴한데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": " 끈적임이 있네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "더운여름에 쓰기는 조금 끈적임이 있네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "찬바람 불때 쓰면 괜챦을것 같아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "조금 끈적임이 있네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "240453",
+    "RawText": "더 사용을해봐야 알겠지만 향도 좋고 쫀득한 제형이네요 제형이 끈적이지않아만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "45",
+    "Word": "9",
+    "RDate": "20190515",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "쫀득한 제형이네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 끈적이지않아만족합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240455",
+    "RawText": "촉촉하고 화사해져요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성",
+    "ReviewScore": "100",
+    "Syllable": "10",
+    "Word": "2",
+    "RDate": "20190512",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "화사해져요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240456",
+    "RawText": "효과가 좋은진 모르겠네요..흡수도 그닥 안되고 그래도 바르연 쫀득쫀득하구요.. 더 발라봐야죠",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성(무료체험6개)",
+    "ReviewScore": "100",
+    "Syllable": "51",
+    "Word": "10",
+    "RDate": "20190806",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과가 좋은진 모르겠네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "흡수도 그닥 안되고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "탄력",
+        "SentimentText": "그래도 바르연 쫀득쫀득하구요..",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240457",
+    "RawText": "점점 까맣게 올라오는 얼굴을보면서 ㆍ기미크림을찾고있었는데 상품평도 조코 사은품도 푸짐해서 주문합니다 빨리 환하고 이쁜 얼굴 로 다니고 싶어요~ 오늘도착이라  아직사용중인데  빨리사용해보고싶어요 효과가 기대되네요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성(무료체험6개)",
+    "ReviewScore": "100",
+    "Syllable": "117",
+    "Word": "22",
+    "RDate": "20200704",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품도 푸짐해서 주문합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과가 기대되네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "240468",
+    "RawText": "양을적게  도포해야 끈적임없이  편안합니다  너무  끈적거려서  여름에  별로  추천하고싶지  않네요 물론  갠차는  있겠지만 그렇다고  나쁘지  안아요  효과는  조금  있는듯해요  지금  한달반  되어가요  사용한지, 판단은  자유이니  ㅎ  여기까지......  BB를  바르는데요  많이  밀려요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성(무료체험6개)",
+    "ReviewScore": "100",
+    "Syllable": "169",
+    "Word": "31",
+    "RDate": "20190628",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "양을적게  도포해야 끈적임없이  편안합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "너무  끈적거려서  ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "그렇다고  나쁘지  안아요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과는  조금  있는듯해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": " BB를  바르는데요  많이  밀려요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "여름에  별로  추천하고싶지  않네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "240472",
+    "RawText": "3일째 쓰는데 느낌인지 아님 진짜인지 눈옆에가 좀 옅어지네요 보습도 잘되는거같고 유분이 좀많아서 바르고 한참후까지 번들번들합니다",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성(무료체험6개)",
+    "ReviewScore": "100",
+    "Syllable": "71",
+    "Word": "15",
+    "RDate": "20190615",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "눈옆에가 좀 옅어지네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "보습도 잘되는거같고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "유분이 좀많아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "바르고 한참후까지 번들번들합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "240473",
+    "RawText": "잘발라져요ㆍ미백을 기대해봅니다",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성(무료체험6개)",
+    "ReviewScore": "100",
+    "Syllable": "16",
+    "Word": "2",
+    "RDate": "20190614",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "발림성",
+        "SentimentText": "잘발라져요ㆍ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "미백을 기대해봅니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "240475",
+    "RawText": "사용감도 촉촉하고 쫀득하면서 너무 좋네요ㅎ 향기도 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성(무료체험6개)",
+    "ReviewScore": "100",
+    "Syllable": "31",
+    "Word": "7",
+    "RDate": "20190614",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사용감",
+        "SentimentText": "사용감도 촉촉하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탄력",
+        "SentimentText": "쫀득하면서 너무 좋네요ㅎ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향기도 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240476",
+    "RawText": "쫀쫀하게 피푸에 밀착해서 아침에 일어남촉촉한게 기분이 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성(무료체험6개)",
+    "ReviewScore": "100",
+    "Syllable": "33",
+    "Word": "7",
+    "RDate": "20190613",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "탄력",
+        "SentimentText": "쫀쫀하게 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력",
+        "SentimentText": "아침에 일어남촉촉한게 기분이 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉한게 기분이 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "피푸에 밀착해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240478",
+    "RawText": "끈적인가 싶은데 바를때 청량감이 있어 좋네요 순해서 좋고 향도 은은해서 좋고 오리진기초 처음이라 걱정했는데 완전 만족합니다  다른 기초라인도 눈여겨 보게되네요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성(무료체험6개)",
+    "ReviewScore": "100",
+    "Syllable": "88",
+    "Word": "20",
+    "RDate": "20190524",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "끈적인가 싶은데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "바를때 청량감이 있어 좋네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "순해서 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 은은해서 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240479",
+    "RawText": "받자마자 발라봤어요~방송대로 흡수가 잘되고 피부톤이 환해진 느낌이예요~요즘 기미가 올라와 고민이였는데 열심히 발라서 예뻐져야겠어요~~",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성(무료체험6개)",
+    "ReviewScore": "100",
+    "Syllable": "74",
+    "Word": "13",
+    "RDate": "20190518",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "흡수가 잘되고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "피부톤이 환해진 느낌이예요~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "기미가 올라와 고민이였는데 열심히 발라서 예뻐져야겠어요~~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "240480",
+    "RawText": "오늘 저녁에  제품을 받았는데  화장품에는  미백주름개선 이중 기능성화장품이라고만 되어있는데 기미 제거되는 화장품이 맞는건가요??? 현재 미백주름개선 영양크림은 많이 가지고있는데요 답변부탁합니다 현재 샘플파우치 한개만 사용한상태입니다 기미제거 효과가 없어서 아쉽네요 ",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성(무료체험6개)",
+    "ReviewScore": "100",
+    "Syllable": "149",
+    "Word": "27",
+    "RDate": "20190521",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "기미 제거되는 화장품이 맞는건가요??",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "기미제거 효과가 없어서 아쉽네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "240481",
+    "RawText": "촉촉하고  탄력있는거 같습니다",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성(무료체험6개)",
+    "ReviewScore": "100",
+    "Syllable": "16",
+    "Word": "3",
+    "RDate": "20190524",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하고  ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탄력",
+        "SentimentText": "탄력있는거 같습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240484",
+    "RawText": "제형의 촉감이 좋고 발림이 좋아서 자꾸 손이 가네요. 샘플을 사용후 얼굴색이 밝아지는 것을 느꼈어요. 느낌 그대로 유지하고파 본품을 개봉하여 즐거운 마음으로 사용합니다. 얼굴에 남아있는 기미.잡티들의 색이 연해지길 바라면서...",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성(무료체험6개)",
+    "ReviewScore": "100",
+    "Syllable": "127",
+    "Word": "28",
+    "RDate": "20190528",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형의 촉감이 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림이 좋아서 자꾸 손이 가네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "얼굴색이 밝아지는 것을 느꼈어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "얼굴에 남아있는 기미.잡티들의 색이 연해지길 바라면서...",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "240489",
+    "RawText": "아직 잘 모르겠어요. 효과는 좀 더 써 봐야 할 듯해요. 피부톤도 밝아지면 좋겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성(무료체험6개)",
+    "ReviewScore": "100",
+    "Syllable": "47",
+    "Word": "13",
+    "RDate": "20190712",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "효과는 좀 더 써 봐야 할 듯해요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "피부톤도 밝아지면 좋겠어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "240491",
+    "RawText": "잘바르고있는데 꾸준히 발라야되나봐요 기미가 좋아지는건 못느끼겠어요 계속발라도 효과를 못느끼면 절대 재구매 안할거임",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성(무료체험6개)",
+    "ReviewScore": "60",
+    "Syllable": "63",
+    "Word": "12",
+    "RDate": "20190630",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "기미가 좋아지는건 못느끼겠어요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "계속발라도 효과를 못느끼면 절대 재구매 안할거임",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "240497",
+    "RawText": "두번째 구매인데요 보습이 좋습니다 기미도 조금씩 옅어지는 느낌 같기도 하구요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성(무료체험6개)",
+    "ReviewScore": "100",
+    "Syllable": "42",
+    "Word": "10",
+    "RDate": "20190608",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "보습이 좋습니다 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "기미도 조금씩 옅어지는 느낌 같기도 하구요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240501",
+    "RawText": "제형이 쫀쫀한크림이라서 마지막에 바르고있어요. 저자극인것 같고 무난해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성(무료체험6개)",
+    "ReviewScore": "80",
+    "Syllable": "40",
+    "Word": "7",
+    "RDate": "20190531",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 쫀쫀한크림이라서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "저자극인것 같고 무난해요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240502",
+    "RawText": "자극도 없고 촉촉하니 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성(무료체험6개)",
+    "ReviewScore": "100",
+    "Syllable": "15",
+    "Word": "4",
+    "RDate": "20190606",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "자극도 없고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하니 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240503",
+    "RawText": "항상 고민이던 기미 피부였는데 좀 밝아지는 느낌이에요^^ 향도 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성(무료체험6개)",
+    "ReviewScore": "100",
+    "Syllable": "38",
+    "Word": "9",
+    "RDate": "20190603",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "좀 밝아지는 느낌이에요^^",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240507",
+    "RawText": "평소 기미 관리로 고민중 지인추천으로 알게된 크림 홈쇼핑방송보고 망설임 없이 바로 주문했습니다. 건성피부인데 촉촉해서 좋아요 꾸준히 사용해 꼭 효과보고 싶어요",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성(무료체험6개)",
+    "ReviewScore": "100",
+    "Syllable": "88",
+    "Word": "20",
+    "RDate": "20190612",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "피부타입",
+        "SentimentText": "건성피부인데 촉촉해서 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉해서 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "꾸준히 사용해 꼭 효과보고 싶어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "240515",
+    "RawText": "촉촉하고 탱탱해지는게 느껴지는거 같네요 ",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성(무료체험6개)",
+    "ReviewScore": "100",
+    "Syllable": "22",
+    "Word": "4",
+    "RDate": "20190723",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "촉촉하고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "탄력",
+        "SentimentText": "탱탱해지는게 느껴지는거 같네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "240516",
+    "RawText": "제형이 쫀득하지 않고 바르면 건조해집니다. 리프팅 효과는 없는 것 같아요. 괜히 산 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성(무료체험6개)",
+    "ReviewScore": "100",
+    "Syllable": "54",
+    "Word": "14",
+    "RDate": "20190916",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 쫀득하지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감",
+        "SentimentText": "바르면 건조해집니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "리프팅 효과는 없는 것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "240517",
+    "RawText": "피부가 평소에 안좋아서 크림발라보니 확실히 기미가 옅어지고 있어요 날마다 비교사진 찍어서 비교하는데 진짜 효과있습니다ㅠㅠ",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "스킨케어",
+    "ProductName": "OO 화** 크림 특별구성(무료체험6개)",
+    "ReviewScore": "100",
+    "Syllable": "67",
+    "Word": "14",
+    "RDate": "20190603",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "확실히 기미가 옅어지고 있어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "날마다 비교사진 찍어서 비교하는데 진짜 효과있습니다ㅠㅠ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]

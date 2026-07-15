@@ -1,0 +1,3259 @@
+[
+  {
+    "Index": "104392",
+    "RawText": "디자인 이뻐요  얇아서 아직은  입기  좀 추울거  같아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 골프카라티 5종",
+    "ReviewScore": "100",
+    "Syllable": "32",
+    "Word": "8",
+    "RDate": "20210315",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 이뻐요  ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇아서 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "아직은 입기 좀 추울거 같아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "104410",
+    "RawText": "그냥 입기 편해 보여서 주문했는데 디자인 색상 그낭  그렇네오.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 골프카라티 5종",
+    "ReviewScore": "80",
+    "Syllable": "35",
+    "Word": "9",
+    "RDate": "20210627",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 색상 그낭  그렇네오.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상 그낭  그렇네오.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "104416",
+    "RawText": "음 좋아요여름까지 입을수있겠서요.포장을 풀기도전에 남편은 그레이로 바로입고 시워하고편하다고하네요.잘구입해서요 잘입을게요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 골프카라티 5종",
+    "ReviewScore": "100",
+    "Syllable": "66",
+    "Word": "9",
+    "RDate": "20210310",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "여름까지 입을수있겠서요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "시워하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편하다고하네요.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "104419",
+    "RawText": "핏이 마음에 전체적으로 들어요 근데  건조기에 돌렸더니 줄어서  약간 아쉬워요 건조기 돌리려면 한치수 크게 주문하길 추천합니다~^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 퓨** 라운드셔츠 6종",
+    "ReviewScore": "100",
+    "Syllable": "73",
+    "Word": "16",
+    "RDate": "20210324",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏이 마음에 전체적으로 들어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "건조기에 돌렸더니 줄어서  약간 아쉬워요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "건조기 돌리려면 한치수 크게 주문하길 추천합니다~^^",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "104421",
+    "RawText": "집에서 입으려고 구입했어요. 생각보다 색상도 맘에들고 재질도 좋아요. 가벼운 외출에  입어도 괜찮아요.\"\"",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 퓨** 라운드셔츠 6종",
+    "ReviewScore": "100",
+    "Syllable": "59",
+    "Word": "12",
+    "RDate": "20210803",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "생각보다 색상도 맘에들고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질도 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "가벼운 외출에  입어도 괜찮아요.\"\"",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "104423",
+    "RawText": "큰실망  냄새나서  세탁 했더니 가격대비 질이 않좋네요 후덜덜하네",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 퓨** 라운드셔츠 6종",
+    "ReviewScore": "10",
+    "Syllable": "36",
+    "Word": "8",
+    "RDate": "20210427",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "냄새",
+        "SentimentText": "냄새나서 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격대비 질이 않좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "104424",
+    "RawText": "상품이 전혀 다른 상품이 왔었고 교환처리가 너무 늦네요ㅜㅜ 옷은 불편하고 집에서 입기도 별로에요~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 퓨** 라운드셔츠 6종",
+    "ReviewScore": "100",
+    "Syllable": "54",
+    "Word": "13",
+    "RDate": "20210508",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "옷은 불편하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "집에서 입기도 별로에요~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "104431",
+    "RawText": "너무 좋은 상품 6종에 이가격이라니 정말 좋네요^^ 아버지 선물해 드렸더니 매우 편하게 잘입으시네요~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 퓨** 라운드셔츠 6종",
+    "ReviewScore": "100",
+    "Syllable": "56",
+    "Word": "13",
+    "RDate": "20210406",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "6종에 이가격이라니 정말 좋네요^^",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "매우 편하게 잘입으시네요~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "104434",
+    "RawText": "사이즈도딱맞고~재질도좋고^^좋은가격에잘샀어요~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 퓨** 라운드셔츠 6종",
+    "ReviewScore": "100",
+    "Syllable": "25",
+    "Word": "1",
+    "RDate": "20210312",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈도딱맞고~",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질도좋고^^",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은가격에잘샀어요~",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "104436",
+    "RawText": "옷이 너무 크게 나왔어요 100 -\u003e 95로 바꾸었는데(175cm, 71kg임) 길이가 짧네요...",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 퓨** 라운드셔츠 6종",
+    "ReviewScore": "30",
+    "Syllable": "55",
+    "Word": "11",
+    "RDate": "20210414",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "옷이 너무 크게 나왔어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "100 -\u003e 95로 바꾸었는데(175cm, 71kg임) 길이가 짧네요...",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "104443",
+    "RawText": "딱 그 가격 수준임. 차라리 좋은 가격에 함벌을 사능게 좋을듯",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 퓨** 라운드셔츠 6종",
+    "ReviewScore": "20",
+    "Syllable": "34",
+    "Word": "10",
+    "RDate": "20210508",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "딱 그 가격 수준임. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "차라리 좋은 가격에 함벌을 사능게 좋을듯",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "104444",
+    "RawText": "생각보다 질이 좋은듯 합니다 가격대비 괜찮은 재품인듯 합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 퓨** 라운드셔츠 6종",
+    "ReviewScore": "100",
+    "Syllable": "33",
+    "Word": "8",
+    "RDate": "20210323",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "생각보다 질이 좋은듯 합니다 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 괜찮은 재품인듯 합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "104451",
+    "RawText": "적정가격 보다 품질이 떨어짐 색상도 안이뻐요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 카라티셔츠 4종",
+    "ReviewScore": "50",
+    "Syllable": "24",
+    "Word": "6",
+    "RDate": "20210822",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "적정가격 보다 품질이 떨어짐",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 안이뻐요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "104455",
+    "RawText": "가성비가 좋을것 같아서 구매결정 요일별로 골라입을수 있어 좋을것 같고 주위에도 적극 추천하고 싶다. 착용감이라던가 옷 맵시(핏)가 살아난다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 카라티셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "77",
+    "Word": "17",
+    "RDate": "20210815",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "요일별로 골라입을수 있어 좋을것 같고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감이라던가 옷 맵시(핏)가 살아난다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "옷 맵시(핏)가 살아난다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비가 좋을것 같아서 구매결정",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "104458",
+    "RawText": "아놀드 파마의 원단은  아닌것 같아요 품질 별루에요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 카라티셔츠 4종",
+    "ReviewScore": "60",
+    "Syllable": "28",
+    "Word": "7",
+    "RDate": "20210806",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "아놀드 파마의 원단은  아닌것 같아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질 별루에요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "104479",
+    "RawText": "남편꺼 구입했는데 혹 맘에안들면 반품하려고 했더니 남푠  보더니  원하던 색상 옷이라고 매일매일  색상별루 잘입고있네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 카라티셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "66",
+    "Word": "14",
+    "RDate": "20210426",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "원하던 색상 옷이라고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "매일매일  색상별루 잘입고있네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "104506",
+    "RawText": "초여름까지 좋아요~~ 요즘처럼 날씨가 오락가락일때 입기좋은거같아요~~~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 카라티셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "39",
+    "Word": "6",
+    "RDate": "20210601",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "초여름까지 좋아요~~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "요즘처럼 날씨가 오락가락일때 입기좋은거같아요~~~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "104510",
+    "RawText": "품이  헐렁헐렁하고 늘어져서 앞치마를 한건지 입은건지   싸다했는데 품질이 실망입니다 다 포장지뜯어버려 반품도 못하고ㅠ 작업복으로나 입어야할듯요   좋은가격에 잘샀다는분들 평보고 구매했는데 ㅠ ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 카라티셔츠 4종",
+    "ReviewScore": "10",
+    "Syllable": "108",
+    "Word": "20",
+    "RDate": "20210508",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "품이  헐렁헐렁하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "늘어져서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "앞치마를 한건지 입은건지",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸다했는데 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "작업복으로나 입어야할듯요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 실망입니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "104518",
+    "RawText": "색상, 옷감질, 가격,  등 모두 괜찮은데요 ~~^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 카라티셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "29",
+    "Word": "7",
+    "RDate": "20210603",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상, 옷감질, 가격,  등 모두 괜찮은데요 ~~^^",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "옷감질, 가격,  등 모두 괜찮은데요 ~~^^",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격,  등 모두 괜찮은데요 ~~^^",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "104523",
+    "RawText": "가격대비 부담없이 입기 좋은데.. 봉제처리가 약간 아쉽네요..",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 카라티셔츠 4종",
+    "ReviewScore": "80",
+    "Syllable": "34",
+    "Word": "7",
+    "RDate": "20210422",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 부담없이 입기 좋은데.. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "봉제처리가 약간 아쉽네요..",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "104532",
+    "RawText": "바지 너무 편하고 마음에 들어서  이 제품도 좋겠지하고 망설임없이 즉시  주문했습니다 역시 두번 만족할수 없는가봅니다 가격 만큼입니다  만원짜리 면셔츠 ㅎㅎ ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 카라티셔츠 4종",
+    "ReviewScore": "40",
+    "Syllable": "88",
+    "Word": "20",
+    "RDate": "20210407",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격 만큼입니다 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "만원짜리 면셔츠 ㅎㅎ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "104559",
+    "RawText": "흰색대신 다른 색을 넣었으면 하는 바람도 있답니다 100사이즈로 주문했는데 잘 맞는다고 하네요 맘에 들어하내요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 카라티셔츠 4종",
+    "ReviewScore": "80",
+    "Syllable": "61",
+    "Word": "14",
+    "RDate": "20210413",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "흰색대신 다른 색을 넣었으면 하는 바람도 있답니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "100사이즈로 주문했는데 잘 맞는다고 하네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "104561",
+    "RawText": "평소 와이셔츠나 티셔츠 100 입는데 사이즈도 잘 맞고 옷도 전체적으로 맘에 듭니다. 하늘색은 바로 입고 출근했어요. 4가지 색이 모두 버릴 게 없어서 더 좋아요. ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 카라티셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "92",
+    "Word": "24",
+    "RDate": "20210409",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "평소 와이셔츠나 티셔츠 100 입는데 사이즈도 잘 맞고",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "4가지 색이 모두 버릴 게 없어서 더 좋아요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "104566",
+    "RawText": "생각보다 두께가 있는데 입으니 시원하다고 하네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 카라티셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "26",
+    "Word": "6",
+    "RDate": "20210407",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "생각보다 두께가 있는데 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "입으니 시원하다고 하네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "104569",
+    "RawText": "신축성 있어 편안하고 소재가 좋아서 만족합니다. 시원하게 입을 수 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 카라티셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "42",
+    "Word": "10",
+    "RDate": "20210406",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "신축성",
+        "SentimentText": "신축성 있어 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": " 편안하고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재가 좋아서 만족합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "시원하게 입을 수 있습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "104586",
+    "RawText": "흰색이 조금 길고 큽니다. 품질이 고급스럽진 않고 평상복으로 입기에 알맞아요. 가슴 포켓이 없어 허전해 보이고 자수도 그냥 가슴판에 있어 왠지 아쉬운 부분이예요. 남성티  웬만하면 가슴포켓에 수 놓아져 있잖아요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 카라티셔츠 4종",
+    "ReviewScore": "60",
+    "Syllable": "118",
+    "Word": "28",
+    "RDate": "20210421",
+    "Aspects": [
+      {
+        "Aspect": "길이",
+        "SentimentText": "흰색이 조금 길고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 고급스럽진 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "평상복으로 입기에 알맞아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "가슴 포켓이 없어 허전해 보이고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "자수도 그냥 가슴판에 있어 왠지 아쉬운 부분이예요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "큽니다.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "104587",
+    "RawText": "이 계절에 입기 딱 좋아요. 맘에드는 색상 티셔츠가  많이 생겼다고 남편이 좋아하네요.   ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 카라티셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "51",
+    "Word": "12",
+    "RDate": "20210412",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "이 계절에 입기 딱 좋아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "맘에드는 색상 티셔츠가  많이 생겼다고 남편이 좋아하네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "104594",
+    "RawText": "품질이 가격만큼 입니다 세탁 한번 하니 후줄거리고 한철 입고 버려야할정도다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 PK 카라티셔츠 4종",
+    "ReviewScore": "30",
+    "Syllable": "41",
+    "Word": "10",
+    "RDate": "20210531",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 가격만큼 입니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "세탁 한번 하니 후줄거리고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "한철 입고 버려야할정도다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "104602",
+    "RawText": "옷마다 특색있게 직조되어 마음에 듭니다 잘 입겠습니다 색상도 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 캐** 니트 4종 SET (105/110 한정특가)",
+    "ReviewScore": "100",
+    "Syllable": "37",
+    "Word": "9",
+    "RDate": "20220128",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "옷마다 특색있게 직조되어 마음에 듭니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 좋네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "104603",
+    "RawText": "가격도 저렴하고 가볍고 넘 따뜻해요~^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 캐** 니트 4종 SET (105/110 한정특가)",
+    "ReviewScore": "100",
+    "Syllable": "22",
+    "Word": "5",
+    "RDate": "20211222",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "넘 따뜻해요~^^",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "104611",
+    "RawText": "고급스러운 색상과 품질에 반하여 추가 주문 두 건을 더 했습니다. 100사이즈도 추가 입고됐으면 좋겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 캐** 니트 4종 SET (105/110 한정특가)",
+    "ReviewScore": "100",
+    "Syllable": "59",
+    "Word": "14",
+    "RDate": "20211218",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "고급스러운 색상과",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질에 반하여 추가 주문 두 건을 더 했습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "104614",
+    "RawText": "고급스러운 색상과 품질에 반하여 추가 주문을 또 했습니다. 100사이즈도 추가 입고해 주세요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 캐** 니트 4종 SET (105/110 한정특가)",
+    "ReviewScore": "100",
+    "Syllable": "51",
+    "Word": "12",
+    "RDate": "20211224",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "고급스러운 색상과 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 품질에 반하여",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "104638",
+    "RawText": "가격대비 너무좋은 상품입니다. 디자인이 만족스러워요. 사이즈가 105/110한정이라 없어서 선물을 못한게 아쉽네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 캐** 니트 4종 SET (105/110 한정특가)",
+    "ReviewScore": "100",
+    "Syllable": "63",
+    "Word": "11",
+    "RDate": "20211002",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 너무좋은 상품입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 만족스러워요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "104641",
+    "RawText": "예상외로 잘 입네요 어두워서 색이..좀 그랬는데 품질은 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 코튼 티셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "34",
+    "Word": "8",
+    "RDate": "20210930",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "어두워서 색이..좀 그랬는데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질은 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "104643",
+    "RawText": "두번째 구매인데   ,편하고 부드러운 질감이 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 코튼 티셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "29",
+    "Word": "6",
+    "RDate": "20210827",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편하고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "부드러운 질감이 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "104652",
+    "RawText": "남편  사 주었는데 편안하게 잘 맞네요. 다만 색이 전체적으로 어두운 편이네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 코튼 티셔츠 4종",
+    "ReviewScore": "80",
+    "Syllable": "43",
+    "Word": "11",
+    "RDate": "20210821",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "편안하게 잘 맞네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "다만 색이 전체적으로 어두운 편이네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "104654",
+    "RawText": "색상과 디자인 품질이. 다 우수해요!",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 코튼 티셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "20",
+    "Word": "5",
+    "RDate": "20210817",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상과 디자인 품질이. 다 우수해요!",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 품질이. 다 우수해요!",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 품질이. 다 우수해요!",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "104660",
+    "RawText": "팔 소매가 긴편이네요. 가볍게 집에서 막 입기 좋은것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 코튼 티셔츠 4종",
+    "ReviewScore": "70",
+    "Syllable": "34",
+    "Word": "9",
+    "RDate": "20210806",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "길이",
+        "SentimentText": "팔 소매가 긴편이네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "가볍게 집에서 막 입기 좋은것 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "104668",
+    "RawText": "봄가을에 간절기용으로 딱좋아요 가격대비 가성비 짱입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 코튼 티셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "31",
+    "Word": "6",
+    "RDate": "20210808",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "봄가을에 간절기용으로 딱좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 가성비 짱입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "104696",
+    "RawText": "옷의 재질도 엄청 좋고, 소재도 가볍고 편하게 입을 수 있네요. 4가지 색상 모두 다 좋네요. 좋은 가격에 잘 구매해서 신랑이 엄청 잘 입고 있습니다. 저렴하게 판매해주셔서 좋은 옷 구매했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 코튼 티셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "109",
+    "Word": "29",
+    "RDate": "20210506",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "옷의 재질도 엄청 좋고,",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "소재도 가볍고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편하게 입을 수 있네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "4가지 색상 모두 다 좋네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 가격에 잘 구매해서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 판매해주셔서 좋은 옷 구매했습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "104697",
+    "RawText": "긴팔 티셔츠 필요해 샀는데 디자인이 무난하네요. 딴 쇼핑몰에서 주문했는데 배가 딱 붙어 반품했어요. 이건 배가 달라붙지 않고 넉넉해서 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 코튼 티셔츠 4종",
+    "ReviewScore": "70",
+    "Syllable": "79",
+    "Word": "19",
+    "RDate": "20210430",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 무난하네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "이건 배가 달라붙지 않고 넉넉해서 좋네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "104703",
+    "RawText": "외국브랜드라그런지 기장도엄청길고.팔길이도엄청길고 암튼길기도합니다 촉감은굿 잘입을듯합니다 색상세련된색상이라맘에듭니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 코튼 티셔츠 4종",
+    "ReviewScore": "60",
+    "Syllable": "63",
+    "Word": "6",
+    "RDate": "20210414",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "길이",
+        "SentimentText": "기장도엄청길고.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "팔길이도엄청길고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "암튼길기도합니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "촉감은굿",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상세련된색상이라맘에듭니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "104706",
+    "RawText": "면도 좋고 신랑이 이것만 입어요 집에서만 입으라고 사줬는데 회사갈때도 입네요 편한가봐요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 코튼 티셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "48",
+    "Word": "11",
+    "RDate": "20210419",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "면도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "집에서만 입으라고 사줬는데 회사갈때도 입네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편한가봐요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "104717",
+    "RawText": "원단이 너무 좋아요 남편이 바로 입고 출근요 소매가 립단이라 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 코튼 티셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "37",
+    "Word": "10",
+    "RDate": "20210426",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "원단이 너무 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소매가 립단이라 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "104720",
+    "RawText": "티가 시원하고 좋네요. ㅎㅎ 긴팔이어도 통기성이 좋은것 같아요. 요즘 더운데도 이거 입으니까 땀도 금방 마르고,  여러장 색도 무난해서 잘 입을 수 있을것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 코튼 티셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "91",
+    "Word": "23",
+    "RDate": "20210426",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "티가 시원하고 좋네요. ㅎㅎ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "긴팔이어도 통기성이 좋은것 같아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "이거 입으니까 땀도 금방 마르고,",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "여러장 색도 무난해서 잘 입을 수 있을것 같아요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "104722",
+    "RawText": "촉감이나 옷 디자인은 마음에 드는데 덥네요;; 그래도 가성비 좋아요^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 코튼 티셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "39",
+    "Word": "9",
+    "RDate": "20210429",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감",
+        "SentimentText": "촉감이나 옷 디자인은 마음에 드는데",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "옷 디자인은 마음에 드는데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "덥네요;;",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "그래도 가성비 좋아요^^",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "104725",
+    "RawText": "제질이 너무좋구 만족합니다. 운동때도 좋구 회사에서 야근할때도 편안하게 입을렵니다 적극추천",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 코튼 티셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "50",
+    "Word": "10",
+    "RDate": "20210414",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "제질이 너무좋구 만족합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "운동때도 좋구",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "회사에서 야근할때도 편안하게 입을렵니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "104728",
+    "RawText": "183에 88인 아들 110사이즈 품은 잘 맞는데 기장이 조금 길어요.쿠폰으로 저렴하게 구매했어요. 그냥 집에서 막 입기 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 코튼 티셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "72",
+    "Word": "17",
+    "RDate": "20210418",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "110사이즈 품은 잘 맞는데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "기장이 조금 길어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰으로 저렴하게 구매했어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "그냥 집에서 막 입기 좋아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "104729",
+    "RawText": "순면이 아니네요. 그래서 더 좋은 것 같습니다. 실용적이고 가성비 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 코튼 티셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "41",
+    "Word": "10",
+    "RDate": "20210415",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "순면이 아니네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "실용적이고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "104731",
+    "RawText": "남편이 편하게 입을수 있어 좋아요. 두께나 재질도 적당해서 여름전까지 잘 입을수 있겠어요. 가격도 만족스럽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 코튼 티셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "62",
+    "Word": "14",
+    "RDate": "20210429",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "남편이 편하게 입을수 있어 좋아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "두께나 재질도 적당해서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질도 적당해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": " 여름전까지 잘 입을수 있겠어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 만족스럽네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "104742",
+    "RawText": "재질이부드럽고 촉감이좋아요 구성4종굿입니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 코튼 티셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "23",
+    "Word": "3",
+    "RDate": "20210415",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질이부드럽고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "촉감이좋아요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성4종굿입니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "104743",
+    "RawText": "이가격에 컬리티도 좋구 아빠와아들이 같이 나눠서 입어요 ㅎ ㅎ 색상도예쁘네용",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 코튼 티셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "42",
+    "Word": "10",
+    "RDate": "20210428",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "이가격에 컬리티도 좋구",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도예쁘네용",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "104782",
+    "RawText": "좀 얇네요 편안하게 입을수 있을것 같아요 아들은 맘에 들어 합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 코튼 티셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "36",
+    "Word": "10",
+    "RDate": "20210415",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "좀 얇네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편안하게 입을수 있을것 같아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "104817",
+    "RawText": "생각했던것  보다 재질이 짱이네요 신축성도 짱이고요  남편  아들 손자  나뤄서 입었답니다 감사해요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 코튼 티셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "55",
+    "Word": "12",
+    "RDate": "20210504",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "생각했던것  보다 재질이 짱이네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": "신축성도 짱이고요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "104819",
+    "RawText": "촉감이 부드럽고 좋아요 색감도 좋고 핏도 좋아요 굿입니다~~~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 코튼 티셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "34",
+    "Word": "8",
+    "RDate": "20210506",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감",
+        "SentimentText": "촉감이 부드럽고 좋아요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색감도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏도 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "104833",
+    "RawText": "아들이입어보고좋다고해요잘입을께요 질좋고 저렴해서 좋습니다. 감사합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 코튼 티셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "39",
+    "Word": "5",
+    "RDate": "20210414",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "질좋고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴해서 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "104842",
+    "RawText": "정사이즈네요. 요즘 잘 입어질 아이템 입니다. 특히 그린색 컬러가 마음에 쏙.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 코튼 티셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "43",
+    "Word": "11",
+    "RDate": "20210324",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "정사이즈네요.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "요즘 잘 입어질 아이템 입니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "특히 그린색 컬러가 마음에 쏙.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "104855",
+    "RawText": "남편이 편하게 잘 입고 있어요. 재질도 좋고 핏도 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 코튼 티셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "32",
+    "Word": "9",
+    "RDate": "20210620",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편하게 잘 입고 있어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏도 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "104862",
+    "RawText": "요즘 잘 입고 있습니다~ 사이즈도 넉넉하고 재질도 부드러워서 좋아요 두껍지 않아서 반팔 입기 전까지 입기  좋은 두께입니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 코튼 티셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "68",
+    "Word": "17",
+    "RDate": "20210510",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "요즘 잘 입고 있습니다~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈도 넉넉하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": " 재질도 부드러워서 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "두껍지 않아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": " 반팔 입기 전까지 입기  좋은 두께입니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "104864",
+    "RawText": "얇고 핏감 좋고 색상이나  레터링도 좋은 편입니다.  183cm  105kg  25세 아들 주려고 샀는데 비교적 사이즈 잘 맞고 좋아합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 코튼 티셔츠 4종",
+    "ReviewScore": "90",
+    "Syllable": "78",
+    "Word": "18",
+    "RDate": "20210710",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": " 핏감 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이나  레터링도 좋은 편입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "레터링도 좋은 편입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "아들 주려고 샀는데 비교적 사이즈 잘 맞고 좋아합니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "104867",
+    "RawText": "면재질이 좋고 디자인이 고급스러워요~ 컬러가 남성용이 이뻐서 95사이즈로 구매했는데 딸아이랑 넉넉하게 입으려구요^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 코튼 티셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "64",
+    "Word": "12",
+    "RDate": "20210325",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "면재질이 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "컬러가 남성용이 이뻐서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 고급스러워요~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "95사이즈로 구매했는데 딸아이랑 넉넉하게 입으려구요^^",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "104877",
+    "RawText": "소재나 바느질, 다 맘에 드는데 키가188 이어도 길이가 넘 길어요~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 코튼 티셔츠 4종",
+    "ReviewScore": "80",
+    "Syllable": "38",
+    "Word": "10",
+    "RDate": "20210410",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재나 바느질, 다 맘에 드는데",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "바느질, 다 맘에 드는데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "길이가 넘 길어요~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "104880",
+    "RawText": "어제 주문하고 오늘 배송왔네요. 정말 빠름!! 옷은 생각보다 얇지 않았어요. 사람마다 호불호가 갈리겠지만 옷기장은 1인치 정도 짧은게 더 나을듯 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 코튼 티셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "85",
+    "Word": "20",
+    "RDate": "20210414",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "생각보다 얇지 않았어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "기장은 1인치 정도 짧은게 더 나을듯 합니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "104906",
+    "RawText": "그냥 면티라고 생각되지 않는 수준의 제품이네요. 붙여있는 태그만 봐도 대단하다는 생각이 들어요. 손목 부분도 맨투앤처럼 잘 마무리 되어 있어요. 무엇보다 싸게 잘 구매했습니다^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 코튼 티셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "99",
+    "Word": "23",
+    "RDate": "20210410",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "그냥 면티라고 생각되지 않는 수준의 제품이네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "붙여있는 태그만 봐도 대단하다는 생각이 들어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "손목 부분도 맨투앤처럼 잘 마무리 되어 있어요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "무엇보다 싸게 잘 구매했습니다^^",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "104915",
+    "RawText": "아들이 덩치가 크다보니 110은 작은듯하고 115가 넉넉하게 잘 맞아요  부드럽고 신축성있고 다 맘에 들어하네요~^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 코튼 티셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "65",
+    "Word": "14",
+    "RDate": "20210412",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "115가 넉넉하게 잘 맞아요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "부드럽고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": "신축성있고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "110은 작은듯하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "104916",
+    "RawText": "사이즈 다 좋고 옷 컬러도 너무 좋네요!",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 코튼 티셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "22",
+    "Word": "7",
+    "RDate": "20210410",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈 다 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "옷 컬러도 너무 좋네요!",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "104922",
+    "RawText": "옷감 가격 넘 맘에 들어요 단 옷길이가 약간 긴게 흠인데 가격대비 짱 짱 아주 좋아요..",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 코튼 티셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "49",
+    "Word": "15",
+    "RDate": "20210409",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "옷감 가격 넘 맘에 들어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 넘 맘에 들어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "단 옷길이가 약간 긴게 흠인데 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가격대비 짱 짱 아주 좋아요..",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "104923",
+    "RawText": "무난한 색상이라 모두 잘 입을것 같아요 재질 좋아요 추천합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 코튼 티셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "34",
+    "Word": "9",
+    "RDate": "20210402",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "무난한 색상이라",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "104928",
+    "RawText": "재질이 부드럽고 스판기도있어서 외출용 으로도 좋아요 남편 입혀보구 세탁기로 직행 ㅎ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 코튼 티셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "46",
+    "Word": "11",
+    "RDate": "20210410",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질이 부드럽고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": "스판기도있어서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "외출용 으로도 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "104944",
+    "RawText": "중2 아들이 세련되게 입고 학원다닐 때 엄마로서 뿌듯합니다. 이 옷만 이너로 착용하네요. 원단이 몸에 좋아서인가요? 흡족해하는 아들을 보니 더욱 좋네요^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 코튼 티셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "86",
+    "Word": "20",
+    "RDate": "20210517",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "활용성",
+        "SentimentText": "이 옷만 이너로 착용하네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "원단이 몸에 좋아서인가요?",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "104946",
+    "RawText": "순면이여서 살에닿는 느낌이살랑살랑쾌적함이좋다고하네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 코튼 티셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "28",
+    "Word": "3",
+    "RDate": "20210325",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "순면이여서 살에닿는 느낌이살랑살랑",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "쾌적함이좋다고하네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "104963",
+    "RawText": "좋은데 사이즈가 균일하지 않은 상품 받았어요 블랙, 네이비가 작게 나왔는데요 블랙은 너무 꽉 껴서 교환신청해놓은 상태입니다 소재는 톡톡한데 얇고 가볍고 면이 많이 들어있어서 피부가 편해요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 코튼 티셔츠 4종",
+    "ReviewScore": "70",
+    "Syllable": "104",
+    "Word": "25",
+    "RDate": "20210527",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 균일하지 않은 상품 받았어요 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": " 블랙, 네이비가 작게 나왔는데요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "블랙은 너무 꽉 껴서 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재는 톡톡한데 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "면이 많이 들어있어서 피부가 편해요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "104983",
+    "RawText": "봄에 입기 좋아요^^ 동생꺼로 주문했는데 너무 좋아하네요^^ 부담없는 가격.ᆢ더욱 좋았어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 코튼 티셔츠 4종",
+    "ReviewScore": "100",
+    "Syllable": "50",
+    "Word": "10",
+    "RDate": "20210403",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "봄에 입기 좋아요^^",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "부담없는 가격.ᆢ더욱 좋았어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "105023",
+    "RawText": "면이라 보풀 걱정  안해도 되겠네요 날씨 족ㅁ더 추워지면 입으려구요^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 니트 3종",
+    "ReviewScore": "100",
+    "Syllable": "39",
+    "Word": "9",
+    "RDate": "20210923",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "면이라 보풀 걱정  안해도 되겠네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "날씨 족ㅁ더 추워지면 입으려구요^^",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "105040",
+    "RawText": "그동안 더워서 쟁여두고 못 입었는데 이번 추석때 입어봤는데 늘어지지도 않고 보풀도 안 일어나고 좋았습니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 니트 3종",
+    "ReviewScore": "90",
+    "Syllable": "58",
+    "Word": "14",
+    "RDate": "20210924",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "늘어지지도 않고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "보풀도 안 일어나고 좋았습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "더워서 쟁여두고 못 입었는데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "105046",
+    "RawText": "여자데남자옷95선택했는데너무좋아요.잘입을께요.조금크지만니트옷은큰것도매력으로다가오니선택을잘한듯 해요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 니트 3종",
+    "ReviewScore": "100",
+    "Syllable": "54",
+    "Word": "2",
+    "RDate": "20210906",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "여자데남자옷95선택했는데너무좋아요.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": ".조금크지만니트옷은큰것도매력으로다가오니선택을잘한듯 해요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "105049",
+    "RawText": "여성용이랑 셋트로 샀는데 마음에 들어요.  무난한 색상에 디자인 이뻐서 작은 사이즈로 구입해서 여성이 입어도 좋을 것 같아요~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 니트 3종",
+    "ReviewScore": "100",
+    "Syllable": "70",
+    "Word": "17",
+    "RDate": "20210906",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "무난한 색상에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 이뻐서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "작은 사이즈로 구입해서 여성이 입어도 좋을 것 같아요~",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "105120",
+    "RawText": "가격대비 퀄리티가 별로에요. 아들이 언더로로 잘 안입어요. 디자인도 안이뻐요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 싱글스판 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "42",
+    "Word": "9",
+    "RDate": "20220124",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격대비 퀄리티가 별로에요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 안이뻐요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "105123",
+    "RawText": "화이트셔츠 아랫단마감 불량이 왔어요ㅡㅡ꼼꼼한 검수 부탁드립니다. 싸다고 대충보내는거 아니시죠?  온라인구매의 한계가 직관.직촉이 안되는거라 어쩔수없지만 기본적으로 불량은 걸러주셔야 지속적인 재구매로 이어지지 않겠어요? 원단 부드럽고 싸게 입어요~또하나 네이비는  95적힌옷인데  크기가 100이예요ㅎㅎ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 싱글스판 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "168",
+    "Word": "29",
+    "RDate": "20210927",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "마감",
+        "SentimentText": "아랫단마감 불량이 왔어요ㅡㅡ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": " 원단 부드럽고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸게 입어요~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "네이비는  95적힌옷인데  크기가 100이예요ㅎㅎ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "105126",
+    "RawText": "너무앏고 신축성이 너무 있어서 입기엔 주금 편하진않네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 싱글스판 기능성 티셔츠 7종",
+    "ReviewScore": "60",
+    "Syllable": "30",
+    "Word": "7",
+    "RDate": "20210826",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "너무앏고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": "신축성이 너무 있어서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": " 입기엔 주금 편하진않네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "105132",
+    "RawText": "생각보다 약간 크네요~조금더 타이트했으면 했는데~~^^암튼  상품잘받았고 잘입을께요~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 싱글스판 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "47",
+    "Word": "7",
+    "RDate": "20210519",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "생각보다 약간 크네요~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "조금더 타이트했으면 했는데~~^^",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "105138",
+    "RawText": "다른 티셔츠는 105를 입는데 너무 커서  교환받앗어요  잘 맞습니다 착한가격대비 만족합니다 작업복으로 입으려고요 수준높은 신랑 작업복~^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 싱글스판 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "78",
+    "Word": "16",
+    "RDate": "20210406",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "다른 티셔츠는 105를 입는데 너무 커서 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "잘 맞습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "착한가격대비 만족합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "작업복으로 입으려고요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "105142",
+    "RawText": "건습도좋고 가격은 좋으나  세탁시 물 빠짐이 좀 심한것이 옥에 티",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 싱글스판 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "36",
+    "Word": "10",
+    "RDate": "20210608",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "건습도좋고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가격은 좋으나  ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "세탁시 물 빠짐이 좀 심한것이 옥에 티",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "105143",
+    "RawText": "여름으로가는길목이라 입기좋을듯해서 남편주려고구입했는데 요즘 잘입고다니내요ㅎ 가볍고 그리두껍지않고 ~^^ 잘 입을께요ㅎ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 싱글스판 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "65",
+    "Word": "10",
+    "RDate": "20210520",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "그리두껍지않고 ~^^",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "105149",
+    "RawText": "77싸이즈 입는데요 남성 95싸이즈가 저에게는 딱이예요  이번이 두번째로 레드캠프  신청했는데 너무 마음에들어요.   주5일 산행할때  입기엔 좋아요.   옷감이 적당한 두께로 군살이 두드러져보이지않아서좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 싱글스판 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "117",
+    "Word": "21",
+    "RDate": "20210330",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "남성 95싸이즈가 저에게는 딱이예요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "주5일 산행할때  입기엔 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "옷감이 적당한 두께로",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "군살이 두드러져보이지않아서좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "105151",
+    "RawText": "남편꺼도 같이구매했는데 신축성좋고 목라인이 조이지않아 안답답해요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 싱글스판 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "35",
+    "Word": "6",
+    "RDate": "20210515",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "신축성",
+        "SentimentText": "신축성좋고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "목라인이 조이지않아 안답답해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "105161",
+    "RawText": "디자인을 너무너무 좋아라하네요 가격도완전대박!! 7장으로 여기저기 용도가 다양 최고강추!!!",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 싱글스판 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "51",
+    "Word": "9",
+    "RDate": "20210409",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인을 너무너무 좋아라하네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도완전대박!!",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "7장으로 여기저기 용도가 다양",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "105174",
+    "RawText": "7종중에 2벌은 박음질이 안되서 트어져있구요나머지 옷도 박음질 상태가 최악 대충 꿰메서 입다가 버려야겠네요 싼게 비지떡이란말이 이런때 쓰는말인가봐유",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 싱글스판 기능성 티셔츠 7종",
+    "ReviewScore": "10",
+    "Syllable": "82",
+    "Word": "17",
+    "RDate": "20210326",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "마감",
+        "SentimentText": "7종중에 2벌은 박음질이 안되서 트어져있구요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "나머지 옷도 박음질 상태가 최악",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "대충 꿰메서 입다가 버려야겠네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "싼게 비지떡이란말이 이런때 쓰는말인가봐유",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "105175",
+    "RawText": "너무 커서 100으로 교환햇어요 좀 크게 나온듯ᆢ 봄에 작업복으로도 좋고  그냥 편히 잠바속에 툭 걸쳐도ᆢ 가격대비 만족해요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 싱글스판 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "69",
+    "Word": "17",
+    "RDate": "20210406",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "너무 커서 100으로 교환햇어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "좀 크게 나온듯ᆢ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "봄에 작업복으로도 좋고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "그냥 편히 잠바속에 툭 걸쳐도ᆢ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 만족해요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "105183",
+    "RawText": "올여름 더위에 제일구매를 잘한것 같아요 시원하고 가볍기까지하네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 베이스레이어 5종",
+    "ReviewScore": "100",
+    "Syllable": "35",
+    "Word": "7",
+    "RDate": "20210831",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "시원하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍기까지하네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "105191",
+    "RawText": "옷이시원하지만 까실까실하다보니 자주 입지 않게되더라구요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 베이스레이어 5종",
+    "ReviewScore": "70",
+    "Syllable": "30",
+    "Word": "5",
+    "RDate": "20210818",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "옷이시원하지만",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "까실까실하다보니 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "105199",
+    "RawText": "햇빛 알러지가 심해서 여름에도 긴팔착용중 싼맛에 살만은 해요 근데 기능성이라는데 어떤기능인지... ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 베이스레이어 5종",
+    "ReviewScore": "80",
+    "Syllable": "55",
+    "Word": "11",
+    "RDate": "20210803",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "싼맛에 살만은 해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "근데 기능성이라는데 어떤기능인지...",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "105202",
+    "RawText": "라운딩할때나 운전할때 햇빛차단해주고 디자인이 깔끔해보이고 시원하다고해서 싼가격에 잘산거같아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 베이스레이어 5종",
+    "ReviewScore": "100",
+    "Syllable": "51",
+    "Word": "8",
+    "RDate": "20210716",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "라운딩할때나 운전할때 햇빛차단해주고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 깔끔해보이고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": " 시원하다고해서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "싼가격에 잘산거같아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "105204",
+    "RawText": "가격대비 잘 구매했어요 근데 정싸이즈 구매하면 안될듯.. 전 항상 95입는데 95을 주문했더니 쫄티 입니다 한 싸이즈  위로 해야 겠어요 교환할까 하다가 운동복 으로 입을 계획이라 그냥 입어요 구매시 잘 생각 하시길...",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 베이스레이어 5종",
+    "ReviewScore": "80",
+    "Syllable": "123",
+    "Word": "31",
+    "RDate": "20210522",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 잘 구매했어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "근데 정싸이즈 구매하면 안될듯..",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "항상 95입는데 95을 주문했더니 쫄티 입니다 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "한 싸이즈  위로 해야 겠어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "운동복 으로 입을 계획이라 그냥 입어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "105219",
+    "RawText": "빠른배송 만족하구요 티셔츠는 아주얇고 신축성 좋아서 울 남편이 여름에 잘 입을거 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 베이스레이어 5종",
+    "ReviewScore": "80",
+    "Syllable": "48",
+    "Word": "12",
+    "RDate": "20210426",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "티셔츠는 아주얇고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": "신축성 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "여름에 잘 입을거 같아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "105231",
+    "RawText": "몸에 사이즈가 잘맞고 감촉도좋고 시원한재질이면서도 방풍역할도되고관찮은거같아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 베이스레이어 5종",
+    "ReviewScore": "100",
+    "Syllable": "42",
+    "Word": "6",
+    "RDate": "20210419",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "몸에 사이즈가 잘맞고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": " 감촉도좋고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "시원한재질이면서도 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "방풍역할도되고관찮은거같아요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "105246",
+    "RawText": "옷감은 짱! 넥부분이 너무 꽉 죄여요. 팔길이도 조금 길고요. 그래도 올해 여름은 버틸수 있을 것 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 베이스레이어 5종",
+    "ReviewScore": "80",
+    "Syllable": "58",
+    "Word": "16",
+    "RDate": "20210419",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "옷감은 짱!",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "넥부분이 너무 꽉 죄여요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "팔길이도 조금 길고요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": " 그래도 올해 여름은 버틸수 있을 것 같아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "105249",
+    "RawText": "거격이 싼 이유가 있었네요 JDX 믿고 구매했는데 바느질이 이럴줄이야 이런 제품 옷들 여러군데 입었는데 2.3년 입어도 이런적 처음이라 너무 황당해요 애가 너무 좋아했는데 한번 입었는데... 그것도 안에 입었을뿐인데 옷이 이렇게 ..실밥 나와서 뜯어 버리려다... 정말 짜증나고 화가 나네요 JDX입고 싶어지지가 않네요   ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 베이스레이어 5종",
+    "ReviewScore": "30",
+    "Syllable": "181",
+    "Word": "41",
+    "RDate": "20210508",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "거격이 싼 이유가 있었네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "바느질이 이럴줄이야",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "옷이 이렇게 ..실밥 나와서 뜯어 버리려다... 정말 짜증나고 화가 나네요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "105250",
+    "RawText": "신축성 좋고 시원합니다만  너무 앏아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 베이스레이어 5종",
+    "ReviewScore": "100",
+    "Syllable": "21",
+    "Word": "5",
+    "RDate": "20210510",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "신축성",
+        "SentimentText": "신축성 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "시원합니다만 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": " 너무 앏아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "105255",
+    "RawText": "너무 얇네요. 다비쳐요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 베이스레이어 5종",
+    "ReviewScore": "50",
+    "Syllable": "13",
+    "Word": "3",
+    "RDate": "20210506",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "너무 얇네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "다비쳐요.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  }
+]

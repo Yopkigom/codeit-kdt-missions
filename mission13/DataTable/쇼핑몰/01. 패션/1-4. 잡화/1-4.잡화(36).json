@@ -1,0 +1,3200 @@
+[
+  {
+    "Index": "212724",
+    "RawText": "예쁘긴한데  생각보다 작아요 딸아이가 예쁘다고 가져가네요 ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 카메라백",
+    "ReviewScore": "100",
+    "Syllable": "32",
+    "Word": "6",
+    "RDate": "20210807",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "예쁘긴한데",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "생각보다 작아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "딸아이가 예쁘다고 가져가네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "212726",
+    "RawText": "잘받았어요~~생각보다 사이즈가 좀 작긴한데 핸드폰 넣고 다니기엔 딱.. 살짝 가죽에 기스가 있긴했는데 교환하기 귀찬아서 그냥 써요~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 카메라백",
+    "ReviewScore": "80",
+    "Syllable": "73",
+    "Word": "16",
+    "RDate": "20210812",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "생각보다 사이즈가 좀 작긴한데 핸드폰 넣고 다니기엔 딱..",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "살짝 가죽에 기스가 있긴했는데 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "212728",
+    "RawText": "생각보다 더 예뻐요 방송화면이 이 이쁨을 다 못담았더군요ㅎㅎ 다만 스몰이라 정말작습니다 블랙이냐 브라운이냐 정말 고민많았는데 토리버치는  원래 브라운색을 정말 잘 뽑기땜에 브라운으로 결정~~  제가 예전에 주구장창 들고다니던 가방하고   같이 찍어봤어요 사이즈 비교해보세요 올 가을겨울은 이 아이와 함께 하게습니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 메탈 스몰 새들백",
+    "ReviewScore": "100",
+    "Syllable": "175",
+    "Word": "38",
+    "RDate": "20210804",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "생각보다 더 예뻐요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "다만 스몰이라 정말작습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사용성/편의성",
+        "SentimentText": "올 가을겨울은 이 아이와 함께 하게습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 방송화면이 이 이쁨을 다 못담았더군요ㅎㅎ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "212734",
+    "RawText": "블랙색상이 매진되어   네이비로 구매했는데 여름이라 시원해보이고 가볍고 수납이잘돼서 자주들게되네요~ 다만 타 쇼핑하고 가격차이가 많이나서 속상하긴했지만 믿을만하고 AS 확실해서 만족하렵니다. 번창하세요~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 엘** 토트백",
+    "ReviewScore": "80",
+    "Syllable": "113",
+    "Word": "20",
+    "RDate": "20210730",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "네이비로 구매했는데 여름이라 시원해보이고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납",
+        "SentimentText": "수납이잘돼서 자주들게되네요~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "타 쇼핑하고 가격차이가 많이나서 속상하긴했지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "212738",
+    "RawText": "바깥에 여러 장식이나 포켓이 없어 매우 깔끔하고 가볍습니다. 오래 애정하며 데일리로 쓰겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 지** 캔버스 백팩",
+    "ReviewScore": "100",
+    "Syllable": "53",
+    "Word": "12",
+    "RDate": "20210730",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "바깥에 여러 장식이나 포켓이 없어 매우 깔끔하고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍습니다.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성/편의성",
+        "SentimentText": "오래 애정하며 데일리로 쓰겠습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "212740",
+    "RawText": "품질 넘 마음에들고 크기도 적당해 마음에 들어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 르** 숄더백",
+    "ReviewScore": "100",
+    "Syllable": "26",
+    "Word": "7",
+    "RDate": "20210801",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질 넘 마음에들고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "크기도 적당해 마음에 들어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "212745",
+    "RawText": "넘 예쁘고 실용적이라 좋아요 색감 정말 좋고 포장도 정성들여 오네요 만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 르** 탑 핸들백 스몰",
+    "ReviewScore": "100",
+    "Syllable": "43",
+    "Word": "11",
+    "RDate": "20211019",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "넘 예쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성/편의성",
+        "SentimentText": "실용적이라 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색감 정말 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "212753",
+    "RawText": "작지만 편하게 들고 다닐때 가지고 다니기 편해요. 잘쓰고 다닐꺽요~~^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 더블 지퍼 크로스백 ",
+    "ReviewScore": "100",
+    "Syllable": "39",
+    "Word": "9",
+    "RDate": "20210823",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "작지만",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사용성/편의성",
+        "SentimentText": "편하게 들고 다닐때 가지고 다니기 편해요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "212755",
+    "RawText": "가볍고 생각보다 많이들어가서 실용성은 아주 좋다.  근데 어딘가 좀 명품이라하기엔 개인적으로 부족해 보인다. ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 크로스백",
+    "ReviewScore": "80",
+    "Syllable": "61",
+    "Word": "13",
+    "RDate": "20210827",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납",
+        "SentimentText": "생각보다 많이들어가서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성/편의성",
+        "SentimentText": "실용성은 아주 좋다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "212757",
+    "RawText": "메신저백  가볍고 질긴 나일론 천이에요. 너무 평범한거 산거 아닌가 싶네요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 크로스백",
+    "ReviewScore": "100",
+    "Syllable": "42",
+    "Word": "10",
+    "RDate": "20210811",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "메신저백  가볍고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "질긴 나일론 천이에요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "너무 평범한거 산거 아닌가 싶네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "212758",
+    "RawText": "신랑선물로 구매했는데 다른데 찾아보더니 좀비싸다네요....가방이너무 흐물거려요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 크로스백",
+    "ReviewScore": "100",
+    "Syllable": "43",
+    "Word": "6",
+    "RDate": "20210804",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "좀비싸다네요....",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "가방이너무 흐물거려요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "212760",
+    "RawText": "생각보다 너무 작고 허술해요 여행 1박시 가능 할 줄 알았는데 힘들겠어요. 그냥 그래요.. 반품하기 귀찮아 사용합니다. ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 투웨이 백",
+    "ReviewScore": "70",
+    "Syllable": "67",
+    "Word": "16",
+    "RDate": "20210729",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "생각보다 너무 작고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 허술해요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사용성/편의성",
+        "SentimentText": "여행 1박시 가능 할 줄 알았는데 힘들겠어요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "212761",
+    "RawText": "크기도 적당하고   일단은 수납을  많이 할수 잇어서 구입 햇구요~어떤차림이든 잘 어울려서 좋아요  아주 만족 합니다  ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 투웨이 백",
+    "ReviewScore": "100",
+    "Syllable": "67",
+    "Word": "15",
+    "RDate": "20210820",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "크기도 적당하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납",
+        "SentimentText": "일단은 수납을  많이 할수 잇어서 구입 햇구요~",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "어떤차림이든 잘 어울려서 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "212762",
+    "RawText": "크기가 아담해요..쫌 크면 좋았을텐데.. 그래도 이쁘네요..",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 투웨이 백",
+    "ReviewScore": "100",
+    "Syllable": "33",
+    "Word": "6",
+    "RDate": "20210814",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "크기가 아담해요..쫌 크면 좋았을텐데..",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "이쁘네요..",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "212768",
+    "RawText": "싸게 잘사서 넘 기분이 좋아요. 가볍고 사이즈도 적당햐서 잘사용할듯요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 투웨이 백",
+    "ReviewScore": "100",
+    "Syllable": "38",
+    "Word": "9",
+    "RDate": "20210804",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸게 잘사서 넘 기분이 좋아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "사이즈도 적당햐서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성/편의성",
+        "SentimentText": "잘사용할듯요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "212771",
+    "RawText": "뒷부분은 천으로 되어있네요 . 앞부분만 가죽소재에요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 마** 백팩",
+    "ReviewScore": "60",
+    "Syllable": "28",
+    "Word": "6",
+    "RDate": "20210803",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "뒷부분은 천으로 되어있네요 .",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "앞부분만 가죽소재에요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "212776",
+    "RawText": "검정색가방이 필요하던차에 마주친 방송~  3개에 이 가격,싼티  나려나 고민하다 구입하고 받아본 가방은 기대이상..  재질도 부드럽고 이쁘고  숄더백핑크도 이쁜핑크로 평상시 잘 들고다닌다. 너무 기분좋다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 볼** 핸드백 3종 + 참장식",
+    "ReviewScore": "100",
+    "Syllable": "113",
+    "Word": "23",
+    "RDate": "20210823",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "3개에 이 가격,",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "싼티  나려나 고민하다 구입하고 받아본 가방은 기대이상.. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질도 부드럽고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "이쁘고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "숄더백핑크도 이쁜핑크로",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성/편의성",
+        "SentimentText": "평상시 잘 들고다닌다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "212784",
+    "RawText": "색감이 너무 예쁘고 가벼워요 안에 물건도 많이 넣을 수 있어서 좋아요!!",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 볼** 핸드백 3종 + 참장식",
+    "ReviewScore": "100",
+    "Syllable": "40",
+    "Word": "11",
+    "RDate": "20210828",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색감이 너무 예쁘고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납",
+        "SentimentText": "안에 물건도 많이 넣을 수 있어서 좋아요!!",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "212785",
+    "RawText": "크기가 적당하고, 다양한 구성이 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 볼** 핸드백 3종 + 참장식",
+    "ReviewScore": "100",
+    "Syllable": "23",
+    "Word": "5",
+    "RDate": "20210912",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "크기가 적당하고,",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "다양한 구성이 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "212790",
+    "RawText": "생각보다 커서 놀랐어요~ 메인가방은 커서 좀 부담되서 아직 사용 못하고 나머지 두개는 잘 쓰고 있음  근데 적립금은 언제 주나요?",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 볼** 핸드백 3종 + 참장식",
+    "ReviewScore": "100",
+    "Syllable": "72",
+    "Word": "19",
+    "RDate": "20210829",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "생각보다 커서 놀랐어요~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "메인가방은 커서 좀 부담되서 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사용성/편의성",
+        "SentimentText": "아직 사용 못하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "212796",
+    "RawText": "가방 가볍고 견고하네요 캐주얼 오피스룩에도 소화가능해요 푸짐한 셋트 구성으로 골라  드는 재미까지 ~~ 만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 볼** 핸드백 3종 + 참장식",
+    "ReviewScore": "100",
+    "Syllable": "63",
+    "Word": "14",
+    "RDate": "20210827",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가방 가볍고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성",
+        "SentimentText": "견고하네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "캐주얼 오피스룩에도 소화가능해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "푸짐한 셋트 구성으로",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성/편의성",
+        "SentimentText": "골라  드는 재미까지 ~~ 만족합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "212798",
+    "RawText": "적립금도  짱!!  상품도 모두만족  작은 가방은 휴대폰포함 간단한 소지품까지  넣을수있어 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 볼** 핸드백 3종 + 참장식",
+    "ReviewScore": "100",
+    "Syllable": "54",
+    "Word": "11",
+    "RDate": "20210829",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "적립금도  짱!!",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납",
+        "SentimentText": "작은 가방은 휴대폰포함 간단한 소지품까지  넣을수있어 좋아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "212802",
+    "RawText": "50%  적립일때 정말 좋은 혜택일때~~ 소가죽 가방에 디자인도 맘에 들어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 볼** 핸드백 3종 + 참장식",
+    "ReviewScore": "100",
+    "Syllable": "42",
+    "Word": "10",
+    "RDate": "20210929",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "50%  적립일때 정말 좋은 혜택일때~~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소가죽 가방에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 맘에 들어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "212807",
+    "RawText": "배송도 빠르고 가죽이 너무 부드러운게 모양도 좋아요 방송에서 본 그대로예요. 예쁘게 잘 들고 다니고 있어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 볼** 핸드백 3종 + 참장식",
+    "ReviewScore": "100",
+    "Syllable": "59",
+    "Word": "15",
+    "RDate": "20210907",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "가죽이 너무 부드러운게",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "모양도 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "212809",
+    "RawText": "미니가방은 쨍한레드가 아니고 주황이고,, 전체적으로 가방이 저렴해 보여요.별루예요. 적립금 50프로라 구매했는데,, 신청 안했다고 적립금을 받을수가 없다니!!! 이가격에 이 퀄리티에 적립금 없으면 절대 사지 않았을 제품입니다.  상세설명 상단에 크게 명시해주셨음 좋았을텐데,, 그럼 저처럼 적립금 못받으시는분들이 없지 않을까 하네요!!!   ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 볼** 핸드백 3종 + 참장식",
+    "ReviewScore": "20",
+    "Syllable": "191",
+    "Word": "37",
+    "RDate": "20210903",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "미니가방은 쨍한레드가 아니고 주황이고,,",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "가방이 저렴해 보여요.별루예요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "이가격에 이 퀄리티에 적립금 없으면 절대 사지 않았을 제품입니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "적립금 50프로라 구매했는데,,",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "212813",
+    "RawText": "부담없이 사용하기 딱 좋아요. 공간도 넓어서 서류 및 필요한 물건 다 넣을수 있어 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 볼** 핸드백 3종 + 참장식",
+    "ReviewScore": "100",
+    "Syllable": "49",
+    "Word": "14",
+    "RDate": "20210820",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사용성/편의성",
+        "SentimentText": "부담없이 사용하기 딱 좋아요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납",
+        "SentimentText": "공간도 넓어서 서류 및 필요한 물건 다 넣을수 있어 좋아요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "212815",
+    "RawText": "이뻐요 근데 핸드폰백이 바느질 마감 처리가  미숙해서 별 하나 빼요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 볼** 핸드백 3종 + 참장식",
+    "ReviewScore": "80",
+    "Syllable": "37",
+    "Word": "10",
+    "RDate": "20210818",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "이뻐요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "핸드폰백이 바느질 마감 처리가  미숙해서 별 하나 빼요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "212818",
+    "RawText": "가방은 맘에들어요~아쉬운점은  냄새가 좀납니다..베란다에 내놓긴했는데..냄새가 잘 빠지면 좋겠네요~ 잘사용할께요~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 볼** 핸드백 3종 + 참장식",
+    "ReviewScore": "80",
+    "Syllable": "63",
+    "Word": "9",
+    "RDate": "20210819",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "냄새가 좀납니다..",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "베란다에 내놓긴했는데..냄새가 잘 빠지면 좋겠네요~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "212824",
+    "RawText": "브랜드믿고 구매하였습니다  3종모두 좋고 가성비최고입니다...지인에게 추천합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 볼** 핸드백 3종 + 참장식",
+    "ReviewScore": "100",
+    "Syllable": "44",
+    "Word": "6",
+    "RDate": "20210819",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "3종모두 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비최고입니다...",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "212827",
+    "RawText": "3종구성이 용도가 달라서 마음에 들어요.검은색 가죽 냄새가  조금 나는 것이 아쉽지만  사용하면 날아가겠죠 근데 적립금부여하기를 신청해야 적립금50%를 준다는 걸 몰랐네요  적립금이 안와서 연락하니 신청하지 않아서 안준다니...너무 황당하고 속상하네요  다시 방송을 보았는데 호스턷ㅗ 반값적립금을 가져갈수 있다는 안내는하지만 적립금을 신청해야만 받는다는 안내는  작은 글씨로 되어있어 소비자가 미처 인지하지 못해 받지 옷하는 분들이 많을 것 같습니나 매우 속상합니다 ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 볼** 핸드백 3종 + 참장식",
+    "ReviewScore": "50",
+    "Syllable": "261",
+    "Word": "55",
+    "RDate": "20210819",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사용성/편의성",
+        "SentimentText": "3종구성이 용도가 달라서 마음에 들어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "검은색 가죽 냄새가  조금 나는 것이 아쉽지만  사용하면 날아가겠죠",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "212834",
+    "RawText": "생각보다 별로예요~~적립금 반 주는거 아님 절대 안샀어요ㅜㅠ 좀 촌스럽네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 볼** 핸드백 3종 + 참장식",
+    "ReviewScore": "40",
+    "Syllable": "41",
+    "Word": "9",
+    "RDate": "20210824",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "적립금 반 주는거 아님 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 좀 촌스럽네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "212837",
+    "RawText": "색 깔도맘에들고 디자인도 심플해서어떤옷이든 잘어울려서 너무좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 볼** 핸드백 3종 + 참장식",
+    "ReviewScore": "100",
+    "Syllable": "36",
+    "Word": "6",
+    "RDate": "20210824",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색 깔도맘에들고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 심플해서어떤옷이든 잘어울려서 너무좋네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "212838",
+    "RawText": "구성이 맘에들어요  사이즈도 적당해서 3개 다 잘 쓸거 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 볼** 핸드백 3종 + 참장식",
+    "ReviewScore": "100",
+    "Syllable": "34",
+    "Word": "9",
+    "RDate": "20210818",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성이 맘에들어요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "사이즈도 적당해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "3개 다 잘 쓸거 같아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "212839",
+    "RawText": "바느질이.좀더꼼꼼했으면 더욱좋을듯~ 휴대폰가방사이즈가.너무작습니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 볼** 핸드백 3종 + 참장식",
+    "ReviewScore": "100",
+    "Syllable": "36",
+    "Word": "3",
+    "RDate": "20210818",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "바느질이.좀더꼼꼼했으면 더욱좋을듯~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "휴대폰가방사이즈가.너무작습니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "212846",
+    "RawText": "저렴한 가격에 활용도 높은 제품입니다   마음에 듭니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 볼** 핸드백 3종 + 참장식",
+    "ReviewScore": "100",
+    "Syllable": "30",
+    "Word": "7",
+    "RDate": "20210819",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성/편의성",
+        "SentimentText": "활용도 높은 제품입니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "212847",
+    "RawText": "두세트 구매 했는데 그린은 제가 사용 하고 핑크는 생일 선물로 준비 했네요~아직 사용 전 인데 오늘 저녁 약속 때 착용감 볼려구요~그린이 넘 초록초록 하진 않아 좋아요~^^ 디자인도 이뻐요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 볼** 핸드백 3종 + 참장식",
+    "ReviewScore": "100",
+    "Syllable": "105",
+    "Word": "28",
+    "RDate": "20210818",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "그린이 넘 초록초록 하진 않아 좋아요~^^",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 이뻐요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "212848",
+    "RawText": "가벼운 가죽 가방을 찾았는데..  활용도 넘 좋습니다~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 볼** 핸드백 3종 + 참장식",
+    "ReviewScore": "100",
+    "Syllable": "30",
+    "Word": "7",
+    "RDate": "20210818",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "가죽 가방을 찾았는데.. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성/편의성",
+        "SentimentText": "활용도 넘 좋습니다~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼운",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "212850",
+    "RawText": "활용도가좋은제품들로세트구성되어있어잘쓸거같아구매하게되었는데이쁘기까지하네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 볼** 핸드백 3종 + 참장식",
+    "ReviewScore": "100",
+    "Syllable": "39",
+    "Word": "1",
+    "RDate": "20210818",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사용성/편의성",
+        "SentimentText": "활용도가좋은제품들로",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "세트구성되어있어잘쓸거같아",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "이쁘기까지하네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "212857",
+    "RawText": "가방세개 딸래마둘 하나씩 주고 검정가방 써요 13인치 노트북이 들어가요 가볍고 부드러워 잘 쓸것 같네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 볼** 핸드백 3종 + 참장식",
+    "ReviewScore": "100",
+    "Syllable": "57",
+    "Word": "14",
+    "RDate": "20210818",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "13인치 노트북이 들어가요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "부드러워",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "212859",
+    "RawText": "ㅇㅇㅇ팬인데 할인까지받고 넘감사감사~~해요~~너무이쁘고 구성이 맘에 들어서 딸하고 같이 쓸것 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 볼** 핸드백 3종 + 참장식",
+    "ReviewScore": "100",
+    "Syllable": "55",
+    "Word": "10",
+    "RDate": "20210818",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인까지받고 넘감사감사~~해요~~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "너무이쁘고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성이 맘에 들어서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "212860",
+    "RawText": "디자인도심플하고 구성도 맘에들어요  그리고  브랜드도 제가 선호하는곳이구요 참  포인트50프로맞죠죠?",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 볼** 핸드백 3종 + 참장식",
+    "ReviewScore": "100",
+    "Syllable": "56",
+    "Word": "9",
+    "RDate": "20210818",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도심플하고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성도 맘에들어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "포인트50프로맞죠죠?",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "212866",
+    "RawText": "아덜이 여름방학동안 아르바이트해서 용돈을줬네요. 뭔가 한가지 장만해야겠다 싶던차에 방송보고 아니다싶으면 보내야지하며 주문했는데, 받아보니 보낼애는 아니더군요. 개인적으로 핑크선택은 잘한것같군요. 요모조모 많이 들어가고 실용적이라  좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 볼** 핸드백 3종 + 참장식",
+    "ReviewScore": "100",
+    "Syllable": "132",
+    "Word": "23",
+    "RDate": "20210819",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "개인적으로 핑크선택은 잘한것같군요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납",
+        "SentimentText": "요모조모 많이 들어가고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성/편의성",
+        "SentimentText": "실용적이라  좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "212869",
+    "RawText": "생각보다  사이즈들이 작아요 가볍게 막 들기 좋아요 ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 볼** 핸드백 3종 + 참장식",
+    "ReviewScore": "100",
+    "Syllable": "29",
+    "Word": "7",
+    "RDate": "20210819",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "생각보다  사이즈들이 작아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사용성/편의성",
+        "SentimentText": "가볍게 막 들기 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "212870",
+    "RawText": "여러가지로 활용하기가 좋고 크기도 너무 마음에 듭니다~ 색상도 선명하고 가죽이 부드럽네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 볼** 핸드백 3종 + 참장식",
+    "ReviewScore": "100",
+    "Syllable": "49",
+    "Word": "11",
+    "RDate": "20210820",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사용성/편의성",
+        "SentimentText": "여러가지로 활용하기가 좋고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "크기도 너무 마음에 듭니다~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 선명하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "가죽이 부드럽네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "212872",
+    "RawText": "선물로 최고예요~핑크 선물 너무 잘 어울려서 다행이네요~제일 작은 가방 볼수록 이쁘다고 난리예요~~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 볼** 핸드백 3종 + 참장식",
+    "ReviewScore": "100",
+    "Syllable": "55",
+    "Word": "12",
+    "RDate": "20210824",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "너무 잘 어울려서 다행이네요~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "제일 작은 가방 볼수록 이쁘다고 난리예요~~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "212875",
+    "RawText": "인조가죽이지만 부드럽고 좋네요...  선택사항이였던 가방은 중간에 칸막이가 있는것이 좀 그렇긴하나 그래도 만족합니다 잘쓸께요~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 볼** 핸드백 3종 + 참장식",
+    "ReviewScore": "100",
+    "Syllable": "70",
+    "Word": "13",
+    "RDate": "20210820",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "인조가죽이지만 부드럽고 좋네요... ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납",
+        "SentimentText": "가방은 중간에 칸막이가 있는것이 좀 그렇긴하나 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "212884",
+    "RawText": "가격도 좋코 사이즈가 딱 좋타고 느꼈어요 지인에게도 소개하고파요 ㅎ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 볼** 핸드백 3종 + 참장식",
+    "ReviewScore": "100",
+    "Syllable": "37",
+    "Word": "9",
+    "RDate": "20210821",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 좋코",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "사이즈가 딱 좋타고 느꼈어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "212887",
+    "RawText": "가성비 짱..디자인,크기 색상.소재 다좋아요~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 볼** 핸드백 3종 + 참장식",
+    "ReviewScore": "100",
+    "Syllable": "25",
+    "Word": "4",
+    "RDate": "20210820",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 짱..",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인,크기 색상.소재 다좋아요~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "크기 색상.소재 다좋아요~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상.소재 다좋아요~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재 다좋아요~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "212891",
+    "RawText": "제가 원하는 스타일이예요~ 반값에 구매해서 너무 좋아요^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 볼** 핸드백 3종 + 참장식",
+    "ReviewScore": "100",
+    "Syllable": "32",
+    "Word": "7",
+    "RDate": "20210820",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "제가 원하는 스타일이예요~ ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "반값에 구매해서 너무 좋아요^^",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "212892",
+    "RawText": "ㅇㅇㅇ  가죽 가방을  이 가격에  3개나  득템하여서 정말 만족합니다~ 용도별로 다양하게 연출 할 수 있어서 여러모로 요긴하게 잘 사용히겠습니다~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 볼** 핸드백 3종 + 참장식",
+    "ReviewScore": "100",
+    "Syllable": "82",
+    "Word": "19",
+    "RDate": "20210821",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가죽 가방을  이 가격에  3개나  득템하여서 정말 만족합니다~",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성/편의성",
+        "SentimentText": "용도별로 다양하게 연출 할 수 있어서 여러모로 요긴하게 잘 사용히겠습니다~",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "212893",
+    "RawText": "사진처럼 실밥이며 마감처리가 아쉬워요 살짝 짝퉁 느낌이;; 매장서 구입하는것과는 품질이 차이가 있긴하네요 가격이 저렴해서 그런걸로 생각하려 했는데 적립금 신청을 해야하는줄 몰랐네요 상품평보니 저만 그런게 아니고 다른 분들도 모르는 분이 더러 있는것 같네요 30분가량 방송보다 구매했는데 50% 적립금 준다고만 여러번 강조하고 별도 신청한다는건 못들었어요 타홈쇼핑도 당일에만 신청가능한지는 모르겠으나.. 물론 구매시 신청안해도 일정기간 경과시 적립금이 바로 지급되는 경우가 대부분이구요 사기 당한거 같아 기분 안좋요 이런걸 노린거 아닌가 싶네요 나원..제자신을 탓하게 되네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 볼** 핸드백 3종 + 참장식",
+    "ReviewScore": "10",
+    "Syllable": "320",
+    "Word": "69",
+    "RDate": "20210821",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "사진처럼 실밥이며 마감처리가 아쉬워요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "매장서 구입하는것과는 품질이 차이가 있긴하네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴해서 그런걸로 생각하려 했는데",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "212896",
+    "RawText": "포인트도 50퍼 적립되고 너무 휼륭한 가격에 눈물나네요 ㅎ 잘쓰겠습니다 색상도 디자인도 물건상태도 너무 조아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 볼** 핸드백 3종 + 참장식",
+    "ReviewScore": "100",
+    "Syllable": "61",
+    "Word": "14",
+    "RDate": "20210822",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "포인트도 50퍼 적립되고 너무 휼륭한 가격에 눈물나네요 ㅎ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 디자인도 물건상태도 너무 조아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 물건상태도 너무 조아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "물건상태도 너무 조아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "212900",
+    "RawText": "세련된 이미지를 연출할수  있을것같아요  휴대폰 가방!! 가까운 마트갈때 딱입니다요..",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 볼** 핸드백 3종 + 참장식",
+    "ReviewScore": "100",
+    "Syllable": "48",
+    "Word": "9",
+    "RDate": "20210821",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "세련된 이미지를 연출할수  있을것같아요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성/편의성",
+        "SentimentText": "휴대폰 가방!! 가까운 마트갈때 딱입니다요..",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "212902",
+    "RawText": "반값세일가격으로 품질좋은가방 득템 다양한 용도로 쓰기좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 볼** 핸드백 3종 + 참장식",
+    "ReviewScore": "100",
+    "Syllable": "32",
+    "Word": "6",
+    "RDate": "20210826",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "반값세일가격으로 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질좋은가방 득템",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성/편의성",
+        "SentimentText": "다양한 용도로 쓰기좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "212907",
+    "RawText": "디자인과 색상이 맘에들고  크기도  적당해요    가격대비 잘산거 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 볼** 핸드백 3종 + 참장식",
+    "ReviewScore": "100",
+    "Syllable": "40",
+    "Word": "8",
+    "RDate": "20210818",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인과 색상이 맘에들고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 맘에들고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "크기도  적당해요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 잘산거 같아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "212910",
+    "RawText": "크기도 좋고 색상도 마음에 드네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 볼** 핸드백 3종 + 참장식",
+    "ReviewScore": "100",
+    "Syllable": "18",
+    "Word": "5",
+    "RDate": "20210818",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "크기도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 마음에 드네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "212913",
+    "RawText": "좋은상품  잘산거 같아요 기대 이상으로 만족스러워 요 가방크기나 용도가  딱 내스타일♡♡♡",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 볼** 핸드백 3종 + 참장식",
+    "ReviewScore": "100",
+    "Syllable": "50",
+    "Word": "11",
+    "RDate": "20210821",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "가방크기나 용도가  딱 내스타일♡♡♡",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성/편의성",
+        "SentimentText": "용도가  딱 내스타일♡♡♡",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "212916",
+    "RawText": "남편이 들고다닐 가벼운 가방으로 딱이에요 약간 무게감있는  가죽은 있으니까  가벼운걸 찾았는데  딱 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 메신저 백",
+    "ReviewScore": "100",
+    "Syllable": "59",
+    "Word": "13",
+    "RDate": "20210813",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼운 가방으로 딱이에요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼운걸 찾았는데  딱 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "212918",
+    "RawText": "명품이지만 편하게 잘 사용하고 있어요 선글라스 휴대폰 간단한 소지품 다넣을수 있어 좋아요 ^^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 메신저 백",
+    "ReviewScore": "100",
+    "Syllable": "53",
+    "Word": "13",
+    "RDate": "20210824",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사용성/편의성",
+        "SentimentText": "편하게 잘 사용하고 있어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납",
+        "SentimentText": "선글라스 휴대폰 간단한 소지품 다넣을수 있어 좋아요 ^^^",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "212927",
+    "RawText": "가볍게 외출시 핸드백없이 다닐수 있겠어요.무게도 가벼워요.비싸 보이지는 않지만  예뻐요  타홈쇼핑보다  가격이 비싸네요.ㅠㅠ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 미니 크로스백 핸드폰백 7컬러",
+    "ReviewScore": "100",
+    "Syllable": "69",
+    "Word": "12",
+    "RDate": "20210823",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사용성/편의성",
+        "SentimentText": "가볍게 외출시 핸드백없이 다닐수 있겠어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게도 가벼워요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "비싸 보이지는 않지만  ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "예뻐요 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "타홈쇼핑보다  가격이 비싸네요.ㅠㅠ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "212928",
+    "RawText": "헉! 택배박스에 비닐도없이..이왕이면 고급스럽게해서 보내주시지..이가격보다 싼 39900에서 적립금 차감에 더 저렴히 샀음. 싼맛에 괜찮음. 소가죽에 부러럽기도하고, 바느질도 꼼꼼히 잘되어있으니까.. 구매하겠음.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 소가죽 새들백",
+    "ReviewScore": "60",
+    "Syllable": "118",
+    "Word": "20",
+    "RDate": "20210813",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "이가격보다 싼 39900에서 적립금 차감에 더 저렴히 샀음. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "싼맛에 괜찮음. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소가죽에 부러럽기도하고, ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "바느질도 꼼꼼히 잘되어있으니까..",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "212929",
+    "RawText": "사진보다 실물이 더 예뻐요 크로스로 매는데 끈 길이충분합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 소가죽 새들백",
+    "ReviewScore": "100",
+    "Syllable": "33",
+    "Word": "8",
+    "RDate": "20211104",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "사진보다 실물이 더 예뻐요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "크로스로 매는데 끈 길이충분합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "212930",
+    "RawText": "소가죽이 이가격..약간 캐주얼한 복장에도 잘어울리고 만족입니다.. 잘쓰고있어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 소가죽 새들백",
+    "ReviewScore": "100",
+    "Syllable": "43",
+    "Word": "7",
+    "RDate": "20211023",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "소가죽이 이가격..",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "약간 캐주얼한 복장에도 잘어울리고 만족입니다..",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "212934",
+    "RawText": "사이즈도 적당하고 마감처리도 잘되어있네요. 모양도 잘잡혀있어서 물건 넣어도 변형없어좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 소가죽 새들백",
+    "ReviewScore": "100",
+    "Syllable": "49",
+    "Word": "9",
+    "RDate": "20210910",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "사이즈도 적당하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "마감처리도 잘되어있네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "모양도 잘잡혀있어서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "물건 넣어도 변형없어좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "212935",
+    "RawText": "넣을 주머니 뒤쪽도 있어 요긴해요~ 색이 보기보다 좀 진한듯",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 소가죽 새들백",
+    "ReviewScore": "100",
+    "Syllable": "33",
+    "Word": "9",
+    "RDate": "20210901",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "수납",
+        "SentimentText": "넣을 주머니 뒤쪽도 있어 요긴해요~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색이 보기보다 좀 진한듯",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "212936",
+    "RawText": "생각보다 사이즈가 많이 작지만 수납 공간이 알차고 디자인과 색상이 예쁘네요~~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 소가죽 새들백",
+    "ReviewScore": "100",
+    "Syllable": "43",
+    "Word": "10",
+    "RDate": "20210829",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "생각보다 사이즈가 많이 작지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "수납",
+        "SentimentText": "수납 공간이 알차고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인과 색상이 예쁘네요~~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 예쁘네요~~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "212939",
+    "RawText": "장지갑은 들어가기가 힘드네요...예쁜데...좀만 더 크면 좋았을텐데...딸한테 양보했어요...",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 소가죽 새들백",
+    "ReviewScore": "100",
+    "Syllable": "52",
+    "Word": "7",
+    "RDate": "20210828",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "장지갑은 들어가기가 힘드네요...",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "예쁜데...",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "좀만 더 크면 좋았을텐데...",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "212941",
+    "RawText": "완전 가볍고 가죽이라 좋아요 제가 쓰려고 샀는데 엄마 드렸어요 완전 만족!!!",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 소가죽 새들백",
+    "ReviewScore": "100",
+    "Syllable": "43",
+    "Word": "11",
+    "RDate": "20210822",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "완전 가볍고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "가죽이라 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "212943",
+    "RawText": "손에 들고다니기 딱 적당한 사이즈에 가을에 들기 색감도 이쁘네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 소가죽 새들백",
+    "ReviewScore": "100",
+    "Syllable": "35",
+    "Word": "9",
+    "RDate": "20210825",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "손에 들고다니기 딱 적당한 사이즈에",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "가을에 들기 색감도 이쁘네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "212944",
+    "RawText": "소가죽 가방인데 저렴하게 샀어요.  냄새도 없고 튼튼해요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 소가죽 새들백",
+    "ReviewScore": "100",
+    "Syllable": "31",
+    "Word": "7",
+    "RDate": "20210825",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "소가죽 가방인데 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 샀어요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "냄새도 없고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성",
+        "SentimentText": "튼튼해요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "212948",
+    "RawText": "생각보다 컬러가  진하네요  크기도 좋고 디자인도 마음에 들어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 소가죽 새들백",
+    "ReviewScore": "80",
+    "Syllable": "35",
+    "Word": "8",
+    "RDate": "20210823",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "생각보다 컬러가  진하네요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "크기도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 마음에 들어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "212950",
+    "RawText": "귀여운스타일이라구매했는데딸이좋아하네요~가죽보호제발랐더니고급스러워졌어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 소가죽 새들백",
+    "ReviewScore": "100",
+    "Syllable": "38",
+    "Word": "1",
+    "RDate": "20210822",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "귀여운스타일이라구매했는데딸이좋아하네요~",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "가죽보호제발랐더니고급스러워졌어요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "212951",
+    "RawText": "가방에잔기스도있고색상이상한데도있어서교환했어요~상자에비닐포장도없이가방만달랑들어있어서좀놀랐어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 소가죽 새들백",
+    "ReviewScore": "100",
+    "Syllable": "50",
+    "Word": "1",
+    "RDate": "20210822",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "가방에잔기스도있고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "색상이상한데도있어서교환했어요~",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "212956",
+    "RawText": "너무 예뻐요~ 제가 ㅇㅇㅇ를 엄청 좋아하는데....너무 마음에 들어요. 심플...세련....신나요~^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 백팩",
+    "ReviewScore": "100",
+    "Syllable": "57",
+    "Word": "9",
+    "RDate": "20210911",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "너무 예뻐요~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "심플...세련....신나요~^^",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "212957",
+    "RawText": "가방 크기가 넉넉해서 맘에 드네요. 사이드에 지퍼가 없어 그 부분이 다소 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 백팩",
+    "ReviewScore": "100",
+    "Syllable": "46",
+    "Word": "12",
+    "RDate": "20210824",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "가방 크기가 넉넉해서 맘에 드네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "사이드에 지퍼가 없어 그 부분이 다소 아쉽네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "212964",
+    "RawText": "가방 이쁘고 튼튼하게 잘 만들어졌어요! 간단한 소지품 넣고 외출하기에 딱 좋고 물건은 파우치랑 휴대폰 정도만 들어가네요. 사이즈가 조금 작아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 소가죽 체인백",
+    "ReviewScore": "100",
+    "Syllable": "79",
+    "Word": "19",
+    "RDate": "20210822",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "가방 이쁘고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성",
+        "SentimentText": "튼튼하게 잘 만들어졌어요!",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성/편의성",
+        "SentimentText": "간단한 소지품 넣고 외출하기에 딱 좋고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납",
+        "SentimentText": "물건은 파우치랑 휴대폰 정도만 들어가네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "사이즈가 조금 작아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "212968",
+    "RawText": "조금  길이가 적지만  간단한것들 넣고 사용하고 있어요ㆍ 좋아요ㆍ많이 파세요ㆍ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 소가죽 체인백",
+    "ReviewScore": "80",
+    "Syllable": "43",
+    "Word": "9",
+    "RDate": "20210904",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "조금  길이가 적지만 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사용성/편의성",
+        "SentimentText": "간단한것들 넣고 사용하고 있어요ㆍ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "212971",
+    "RawText": "생각보다 별로였어요 민트색이 아니라 어두운 쑥색이더라구요ㅜㅜ 칙칙해서..차라리 블랙으로 한걸 그랬나 싶었어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 소가죽 체인백",
+    "ReviewScore": "60",
+    "Syllable": "60",
+    "Word": "11",
+    "RDate": "20210830",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "민트색이 아니라 어두운 쑥색이더라구요ㅜㅜ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "칙칙해서..차라리 블랙으로 한걸 그랬나 싶었어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "212975",
+    "RawText": "예뻐요 저에게는  약간  작은것 같아 딸에게  선물로  줬네요 굉장히   좋아    하네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 소가죽 체인백",
+    "ReviewScore": "100",
+    "Syllable": "50",
+    "Word": "11",
+    "RDate": "20210824",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "예뻐요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "저에게는  약간  작은것 같아",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "212976",
+    "RawText": "종류별로 색상도 크기도  아주 맘에 드네요. 친구 만나러갈때  새가방들고 나갈 생각에 마음까지  설레네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 시** 핸드백 3종 + 참장식",
+    "ReviewScore": "100",
+    "Syllable": "58",
+    "Word": "13",
+    "RDate": "20210928",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "종류별로 색상도 크기도  아주 맘에 드네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "크기도  아주 맘에 드네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "212981",
+    "RawText": "착한 가격에 주문을 해서 배송을 받자마자 개봉을 했습니다.가방 안에 지퍼고리가 뜯어져 있어서  고객센터에 전화를 해서 다시 새 상품으로 교환을 했습니다.글구 사용을 하려고 가방안에 이것저것 제품을 넣고 닫으려니 똑딱이가 잘 닫치지도 않고 기분이 상했지만,그냥 쓰기로 했습니다.좀 더 견고하게 제품을 만들어 주셨으면 좋겠습니다!",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 시** 핸드백 3종 + 참장식",
+    "ReviewScore": "30",
+    "Syllable": "182",
+    "Word": "41",
+    "RDate": "20220122",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "착한 가격에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "가방 안에 지퍼고리가 뜯어져 있어서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "똑딱이가 잘 닫치지도 않고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성",
+        "SentimentText": "좀 더 견고하게 제품을 만들어 주셨으면 좋겠습니다!",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "212982",
+    "RawText": "처음 배송을 받자마자 개봉을 했는데 지퍼 손잡이가 떨어져 있어서 다시 새 상품으로 교환을 받았습니다.이번에는 똑딱이가 견고하지 못하고 자꾸 가방이 열려서...그냥 쓰기로 했습니다,좀더 견고하게 세심한 부분까지 신경써서 만들어 주셨으면 하는 바램입니다!",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 시** 핸드백 3종 + 참장식",
+    "ReviewScore": "30",
+    "Syllable": "140",
+    "Word": "30",
+    "RDate": "20220122",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "개봉을 했는데 지퍼 손잡이가 떨어져 있어서",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성",
+        "SentimentText": "이번에는 똑딱이가 견고하지 못하고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "자꾸 가방이 열려서...",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성",
+        "SentimentText": "좀더 견고하게 세심한 부분까지 신경써서 만들어 주셨으면 하는 바램입니다!",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "212983",
+    "RawText": "메인가방(피콕블루)을 제일 많이 들고 다닙니다. 디자인, 사이즈 다 마음에 드는데 자꾸 흘러내립니다. 가방줄이 문제일까요? 매번 올리느라 불편하네요. 가방을 여러개 줄게 아니라 사용하기 편하게 만드는게 먼저일거 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 시** 핸드백 3종 + 참장식",
+    "ReviewScore": "80",
+    "Syllable": "122",
+    "Word": "26",
+    "RDate": "20211211",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사용성/편의성",
+        "SentimentText": "메인가방(피콕블루)을 제일 많이 들고 다닙니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인, 사이즈 다 마음에 드는데 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "사이즈 다 마음에 드는데 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "자꾸 흘러내립니다. 가방줄이 문제일까요?",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사용성/편의성",
+        "SentimentText": "매번 올리느라 불편하네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "212988",
+    "RawText": "가격대비 만족합니다..하지만검은색가방은너무커서 여행갈때가지고다녀야할것같아요ㅠㅠ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 시** 핸드백 3종 + 참장식",
+    "ReviewScore": "100",
+    "Syllable": "43",
+    "Word": "3",
+    "RDate": "20220108",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 만족합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "검은색가방은너무커서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사용성/편의성",
+        "SentimentText": "여행갈때가지고다녀야할것같아요ㅠㅠ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "212992",
+    "RawText": "매인 가방이 이뻐서 구입햏는대  어께에서 자꾸흘러내려서불편  꼬마가방은 마트갈때유용하게씁니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 시** 핸드백 3종 + 참장식",
+    "ReviewScore": "100",
+    "Syllable": "51",
+    "Word": "8",
+    "RDate": "20211129",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "매인 가방이 이뻐서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "어께에서 자꾸흘러내려서불편 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사용성/편의성",
+        "SentimentText": "꼬마가방은 마트갈때유용하게씁니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "212999",
+    "RawText": "각각 색상도 좋고 쓰임새 있어 괜찮아요 큰가방은 가죽느낌이 부드러워 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 시** 핸드백 3종 + 참장식",
+    "ReviewScore": "100",
+    "Syllable": "41",
+    "Word": "10",
+    "RDate": "20211127",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "각각 색상도 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성/편의성",
+        "SentimentText": "쓰임새 있어 괜찮아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "큰가방은 가죽느낌이 부드러워 좋네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "213000",
+    "RawText": "가방 아직 사용전인데  너무 실용성이 좋아여  특히 블랙가방 기본은 진짜 많이 들어가겟어요  가죽도 부드럽고 제가 일할때짐이 많아서 삿는데 너무좋아용~ 좋은가격에 너무 잘삿어용",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 시** 핸드백 3종 + 참장식",
+    "ReviewScore": "100",
+    "Syllable": "98",
+    "Word": "22",
+    "RDate": "20211120",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사용성/편의성",
+        "SentimentText": "너무 실용성이 좋아여",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납",
+        "SentimentText": "특히 블랙가방 기본은 진짜 많이 들어가겟어요 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "가죽도 부드럽고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은가격에 너무 잘삿어용",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납",
+        "SentimentText": "제가 일할때짐이 많아서 삿는데 너무좋아용~ ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "213008",
+    "RawText": "예쁘세 잘 사용하고 있습니다.. 버겟백 어깨끈 길이가 크로스로 맬 수 있으면 하는  아쉬움이 이ㅛ습니가. 품질 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 시** 핸드백 3종 + 참장식",
+    "ReviewScore": "80",
+    "Syllable": "65",
+    "Word": "16",
+    "RDate": "20211118",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "버겟백 어깨끈 길이가 크로스로 맬 수 있으면 하는  아쉬움이 이ㅛ습니가.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "213012",
+    "RawText": "역시 ㅇㅇㅇ내요. 포장 상태 꼼곰하고 색상 디자인 너무 괜찮네요. 이뻐요....",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 시** 핸드백 3종 + 참장식",
+    "ReviewScore": "100",
+    "Syllable": "44",
+    "Word": "10",
+    "RDate": "20211101",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상 디자인 너무 괜찮네요. 이뻐요....",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 너무 괜찮네요. 이뻐요....",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "213017",
+    "RawText": "가볍고 부드러워요. 분위기에 따라  맬수 있어 감각적이네요. 결혼기념일 선물로 받았어요. 너무 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 시** 핸드백 3종 + 참장식",
+    "ReviewScore": "100",
+    "Syllable": "56",
+    "Word": "12",
+    "RDate": "20211031",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "부드러워요.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "분위기에 따라  맬수 있어 감각적이네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "213019",
+    "RawText": "디자인 소재 전부 마음에 들어요^^  친구 추천으로 샀는데 저도 다른 친구 추천해줬어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 시** 핸드백 3종 + 참장식",
+    "ReviewScore": "100",
+    "Syllable": "48",
+    "Word": "12",
+    "RDate": "20211031",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 소재 전부 마음에 들어요^^ ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재 전부 마음에 들어요^^ ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "213022",
+    "RawText": "방송에서의 색과 실제로 받아본 색이 좀 다르지만 그런데로 크기도 보는거와는다르네요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 시** 핸드백 3종 + 참장식",
+    "ReviewScore": "60",
+    "Syllable": "46",
+    "Word": "10",
+    "RDate": "20211104",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "방송에서의 색과 실제로 받아본 색이 좀 다르지만",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": " 크기도 보는거와는다르네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "213023",
+    "RawText": "디자인도 가격도 넘 좋아요^^♡ 수납공간 완전 짱이고 가방이 가볍고 정말 1000% 만족입니다! 작지만 많이 들어가요  다른핸드백 못 들겠어요^^~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 시** 핸드백 3종 + 참장식",
+    "ReviewScore": "100",
+    "Syllable": "82",
+    "Word": "18",
+    "RDate": "20211024",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 가격도 넘 좋아요^^♡",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 넘 좋아요^^♡",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납",
+        "SentimentText": "수납공간 완전 짱이고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가방이 가볍고 정말 1000% 만족입니다!",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "작지만",
+        "SentimentWord": "1",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "수납",
+        "SentimentText": "많이 들어가요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "213024",
+    "RawText": "바느질이 조금 거칠긴 하지만 핸드폰 가방이 한드폰 넣으면 잠기진 않지만  잠깐씩 나갈때 많이 가지고 다니게 됩니다   큰가방은 아직 않써봤고 중간 크기도 들기딱 좋으네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 시** 핸드백 3종 + 참장식",
+    "ReviewScore": "100",
+    "Syllable": "94",
+    "Word": "23",
+    "RDate": "20211029",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "바느질이 조금 거칠긴 하지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "핸드폰 가방이 한드폰 넣으면 잠기진 않지만",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사용성/편의성",
+        "SentimentText": "잠깐씩 나갈때 많이 가지고 다니게 됩니다  ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용성/편의성",
+        "SentimentText": "중간 크기도 들기딱 좋으네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "213028",
+    "RawText": "대에박~ 이 가격에 3종세트 너무 잘산거같아요~ 수납공간도 너무좋고 무엇보다 재질도 빳빳하지 않아서 좋아요.  하나는 엄마 선물로 드릴려고요^^  선물로도 손색이 없을거 같아요~!!",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 시** 핸드백 3종 + 참장식",
+    "ReviewScore": "100",
+    "Syllable": "101",
+    "Word": "21",
+    "RDate": "20211027",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "이 가격에 3종세트 너무 잘산거같아요~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "수납",
+        "SentimentText": "수납공간도 너무좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "무엇보다 재질도 빳빳하지 않아서 좋아요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "213029",
+    "RawText": "세트로 구성된 상품이라 가성비가 좋은것 같아요. 제가 좋아하는 스타일이라 맘에 듭니다. 그란데 버킷백 표면 주름이 시간 지나면 괜찮아 질거라 생각하고 상품택도 떼고 스트랩 연결해서 며칠째 두고 있는데  주름이 그대로 보여서 거슬립니다 버킷백만 따로 교환하려고 상담 전화를 여러번 했으나 연결이 안되고.....",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 시** 핸드백 3종 + 참장식",
+    "ReviewScore": "60",
+    "Syllable": "172",
+    "Word": "40",
+    "RDate": "20211001",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "세트로 구성된 상품이라 가성비가 좋은것 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "제가 좋아하는 스타일이라 맘에 듭니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "주름이 그대로 보여서 거슬립니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "213035",
+    "RawText": "가방은  맘에 듭니다?그런데  어깨 끈이  조절이  안되서   불편 할꺼 같고 넓이  좁아서 별로",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 시** 핸드백 3종 + 참장식",
+    "ReviewScore": "80",
+    "Syllable": "54",
+    "Word": "13",
+    "RDate": "20210929",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사용성/편의성",
+        "SentimentText": "어깨 끈이  조절이  안되서   불편 할꺼 같고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "넓이  좁아서 별로",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "213036",
+    "RawText": "상품 구성이 아주 맘에 들었습니다. 가죽이라 더 끌렸구요.  가방  욕심이 많아  망설임이 있었으나 받고나서 완전 만족했답니다. 대학생 딸아이가 부드럽고 맘에든다고 가지고 다녀 기분 짱이입니다. 내가 20대일때  최고로 알아주는  기업. 상품. 결혼할때도 예물로 구입했을정도로 유명했죠 ㅎㅎ 추억이  생각나네요 ㅋㅋ 좋은상품 감사드리며   사업 번창하세요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 시** 핸드백 3종 + 참장식",
+    "ReviewScore": "100",
+    "Syllable": "199",
+    "Word": "42",
+    "RDate": "20211001",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "상품 구성이 아주 맘에 들었습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "가죽이라 더 끌렸구요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "부드럽고 맘에든다고 가지고 다녀 기분 짱이입니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "213041",
+    "RawText": "가방 1개가 너무 크네요! 깜놀.. 핸드폰 가방때문에 구매했는데 생각보다 많이 커서 아기 우유병 가방 같아요. 하지만 다른2개 가방은 좋아요 ~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 시** 핸드백 3종 + 참장식",
+    "ReviewScore": "100",
+    "Syllable": "80",
+    "Word": "20",
+    "RDate": "20210929",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "가방 1개가 너무 크네요! ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈/폭/길이/두께",
+        "SentimentText": "생각보다 많이 커서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "아기 우유병 가방 같아요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "213043",
+    "RawText": "그레이를 시켰는데, 색이 예상외로 진했어요~ 진한 회색입니다! 가성비는 좋은 거 같아요~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "잡화",
+    "ProductName": "OO 시** 핸드백 3종 + 참장식",
+    "ReviewScore": "70",
+    "Syllable": "49",
+    "Word": "11",
+    "RDate": "20210924",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "그레이를 시켰는데, 색이 예상외로 진했어요~ 진한 회색입니다!",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비는 좋은 거 같아요~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]

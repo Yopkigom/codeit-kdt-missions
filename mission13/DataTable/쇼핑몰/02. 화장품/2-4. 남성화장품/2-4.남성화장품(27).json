@@ -1,0 +1,3416 @@
+[
+  {
+    "Index": "703485",
+    "RawText": "가격이 저렴해서  부담없이 바르고 있어요. 향도 은은하고 사용감도 깔끔한 느낌이에요. 지성인 제 피부에도 잘 맞아요. 계속 이것만 쓸 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "82",
+    "Word": "20",
+    "RDate": "20200111",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 은은하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용감",
+        "SentimentText": "사용감도 깔끔한 느낌이에요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "피부타입",
+        "SentimentText": "지성인 제 피부에도 잘 맞아요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "제 피부에도 잘 맞아요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "703490",
+    "RawText": "가격도 비싸고 향이 너무 강해서 부담스럽습니다. 사용 안하고 있습니다. 뽁뽁이에 싸여져서 배송 왔습니다",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "13",
+    "RDate": "20200116",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 비싸고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 너무 강해서 부담스럽습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "703512",
+    "RawText": "계속 쓰던 거라 여기서 저렴하게 샀습니다. 향도 적당해서 좋아요. 은은한 향이라서 마음에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "54",
+    "Word": "13",
+    "RDate": "20200609",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 샀습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 적당해서 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "은은한 향이라서 마음에 듭니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "703513",
+    "RawText": "사고 보니 여기가 제일 비싸네요. 향이 약합니다. 짙은 남자냄새가 좋은데 아니네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "46",
+    "Word": "11",
+    "RDate": "20200609",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "여기가 제일 비싸네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 약합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "짙은 남자냄새가 좋은데 아니네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "703520",
+    "RawText": "주문해서 오자마자 세안 후 바로 발랐는데, 따갑고 촉촉하지 않아서 당김이 있네요. 향도 별로에요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "54",
+    "Word": "13",
+    "RDate": "20200724",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "따갑고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "촉촉하지 않아서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "당김이 있네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 별로에요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "703524",
+    "RawText": "3년째 신랑이 이 제품을 사용하고 있어요. 가격도 저렴하고 향이 너무 독하지 않고 은은해서 남편이 굉장히 좋아해요. 다음에도 계속 사용할 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "84",
+    "Word": "21",
+    "RDate": "20200804",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 너무 독하지 않고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "은은해서 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "703528",
+    "RawText": "향이 약간 쎄긴 한데 거부감을 줄 만큼까지는 강하지 않고 부드러운 향이라 10년 넘게 꾸준히 사용하고 있어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "16",
+    "RDate": "20200825",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 약간 쎄긴 한데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "거부감을 줄 만큼까지는 강하지 않고 부드러운 향이라 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "703533",
+    "RawText": "다른 곳보다 저렴하게 구입했습니다. 항상 사용하고 있는 제품입니다. 양도 넉넉해서 좋습니다. 배송은 약간 늦게 도착했지만 만족해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "16",
+    "RDate": "20200911",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "다른 곳보다 저렴하게 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "양도 넉넉해서 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "703538",
+    "RawText": "OOO 스킨 가성비 별로네요. 향도 제 취향이 아니고 발라도 건조하고 얼굴이 땡깁니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "48",
+    "Word": "12",
+    "RDate": "20201015",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 별로네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 제 취향이 아니고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "건조하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "얼굴이 땡깁니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "703542",
+    "RawText": "오랜만에 보는 제품이라 반가움에 하나 구입했네요. 성분은 순한 것 같은데 바르면 촉촉함이 떨어지는 제품이네요. 건성이라 수분감이 아쉬워요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "17",
+    "RDate": "20201115",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "성분",
+        "SentimentText": "성분은 순한 것 같은데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "촉촉함이 떨어지는 제품이네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "피부타입",
+        "SentimentText": "건성이라 수분감이 아쉬워요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "수분감이 아쉬워요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "703544",
+    "RawText": "면도용으로 쓰려고 샀는데 진정 효과가 없는 것 같네요. 향도 강해서 별로입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "44",
+    "Word": "11",
+    "RDate": "20201126",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "진정 효과가 없는 것 같네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 강해서 별로입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "703550",
+    "RawText": "기존 제품을 다 써서 급하게 주문했는데 무얼하다가 왔는지 배송이 늦게 도착했습니다. 향이 약해서 오래 지속되지 않아요. 품질이 별로에요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "76",
+    "Word": "18",
+    "RDate": "20210208",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 약해서 오래 지속되지 않아요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "오래 지속되지 않아요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 별로에요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "703557",
+    "RawText": "자극적이지 않고 은은해서 매번 구매하는 제품이에요. 앞으로도 계속 사용할 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "48",
+    "Word": "11",
+    "RDate": "20210526",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "자극적이지 않고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "은은해서 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "703558",
+    "RawText": "배송 오자마자 사용해보니 OOO 스킨 로션은 피부에 자극이 있고 향도 좋지 않네요. 품질이 안 좋은 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "17",
+    "RDate": "20210526",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "피부에 자극이 있고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 좋지 않네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 안 좋은 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "703561",
+    "RawText": "향기가 넘 독하지 않고 은은해서 좋습니다. 가격도 완전 저렴해서 좋습니다. 3년째 사용중인데, 트러블도 없고 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "15",
+    "RDate": "20210606",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향기가 넘 독하지 않고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "은은해서 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 완전 저렴해서 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "트러블도 없고 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "703567",
+    "RawText": "가격은 저렴하지만, 향기가 은은하지 않고 바르면 산뜻하지 않네요. 가격만큼의 품질이네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "49",
+    "Word": "10",
+    "RDate": "20210904",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 저렴하지만,",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향기가 은은하지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "산뜻하지 않네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격만큼의 품질이네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "703573",
+    "RawText": "단체로 쓰기에 괜찮은 상품이네요. 가성비만 좋은 듯합니다. 향은 약하고 향 지속력도 아주 짧아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "54",
+    "Word": "13",
+    "RDate": "20211013",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비만 좋은 듯합니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향은 약하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "향 지속력도 아주 짧아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "703597",
+    "RawText": "다른 모든 요소를 제외하고 가격이 저렴해요. 스킨의 기본인 피부 보습과 진정효과는 괜찮습니다. 향은 개인 취향에 따라서 좋을 수도 나쁠 수도 있을 것 같아요. 강하지 않은 향이라서 크게 신경이 쓰이지는 않습니다. 스킨 3병에 배송비 포함해도 웬만한 스킨 1병 가격도 안 될 정도로 저렴합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "3",
+    "Syllable": "163",
+    "Word": "42",
+    "RDate": "20171010",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴해요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "피부 보습과 진정효과는 괜찮습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "진정효과는 괜찮습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향은 개인 취향에 따라서 좋을 수도 나쁠 수도 있을 것 같아요. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "강하지 않은 향이라서 크게 신경이 쓰이지는 않습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "웬만한 스킨 1병 가격도 안 될 정도로 저렴합니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "703644",
+    "RawText": "향도 순하고 품질 대비 믿기지 않는 가격이에요. 과대 포장 없이 깔끔한 패키지가 맘에 들어요. 용기도 유리병이라 고급지고 배송 포장은 에어버블로 꼼꼼하게 싸서 깨지지 않고 잘 왔습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "103",
+    "Word": "26",
+    "RDate": "20210811",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 순하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "품질 대비 믿기지 않는 가격이에요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기도 유리병이라 고급지고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "703648",
+    "RawText": "은은한 향기가 좋은 남성용 애프터 쉐이브로션으로 가격도 좋고 향도 좋아요. 잘 사용하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "52",
+    "Word": "12",
+    "RDate": "20200610",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "은은한 향기가 좋은",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "703671",
+    "RawText": "아빠가 항상 사용하고 있는 제품이에요. 가격도 저렴하고 향도 순해서 이것만 사용하고 있습니다. 앞으로도 잘 사용할께요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "66",
+    "Word": "15",
+    "RDate": "20210309",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 순해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "703686",
+    "RawText": "자극적이고 향도 은은하지 않아서 세안 후 피부에 바르기에 사용감이 별로네요. 케이스에 담진 않았지만 뽁뽁이로 싸서 배송되어 왔어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "17",
+    "RDate": "20200807",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "자극적이고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 은은하지 않아서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사용감",
+        "SentimentText": "사용감이 별로네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "703696",
+    "RawText": "아빠께서 오랫동안 사용하시고 있는 제품이에요. 향도 순해서 좋고 저렴해서 좋습니다. 잘 사용할께요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "12",
+    "RDate": "20211112",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 순해서 좋고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴해서 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "703697",
+    "RawText": "스킨을 더 많이 사용해서 이번엔 스킨만 주문했어요. 향도 무난하고 피부 트러블도 없어서 좋습니다. 가격도 여기가 제일 저렴합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "17",
+    "RDate": "20210127",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 무난하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "피부 트러블도 없어서 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 여기가 제일 저렴합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "703718",
+    "RawText": "가격대비 저렴하고 좋습니다. 가격이 저렴하니 한번 구입할 때 스킨과 로션을 2~3개씩 구입해서 사용하는데 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "14",
+    "RDate": "20211223",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 저렴하고 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴하니",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "703746",
+    "RawText": "아빠가 알콜 들어간 제품을 찾으셔서 주문했습니다. 성분이 나쁜지 트러블이 나시네요. 향이 생각보다 별로라 하십니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "14",
+    "RDate": "20170310",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "성분",
+        "SentimentText": "성분이 나쁜지 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "트러블이 나시네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 생각보다 별로라 하십니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "703749",
+    "RawText": "남편이 좋아해서 이번에는 세트로 구입했어요. 가격도 저렴하고 피부에 잘 맞아서 좋아합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "50",
+    "Word": "11",
+    "RDate": "20170331",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "피부에 잘 맞아서 좋아합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "703772",
+    "RawText": "가격도 저렴하고 배송도 빠르고 좋았어요. 그런데 신랑 피부에 잘 안 맞는지 트러블이 나네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "51",
+    "Word": "13",
+    "RDate": "20171115",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "신랑 피부에 잘 안 맞는지 트러블이 나네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "트러블이 나네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "703828",
+    "RawText": "향도 좋고 용기도 유리병이라 마음에 들어요. 유통기한도 넉넉해서 좋습니다. 잘 사용하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "52",
+    "Word": "11",
+    "RDate": "20190128",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기도 유리병이라 마음에 들어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한도 넉넉해서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "703829",
+    "RawText": "저렴한 가격에 구매해서 잘 사용하고 있어요. 배송도 빠르고 향도 좋습니다. 다만 유통기한이 좀 짧네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "14",
+    "RDate": "20190128",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한이 좀 짧네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "703900",
+    "RawText": "다른 제품 쓰다가 바꿔보고 싶어서 구매했습니다. 지성 피부인데 유분이 많은지 저에겐 잘 안 맞네요. 향도 제 취향이 아니라 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "19",
+    "RDate": "20201204",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "피부타입",
+        "SentimentText": "지성 피부인데 유분이 많은지 저에겐 잘 안 맞네요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "유분이 많은지 저에겐 잘 안 맞네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "저에겐 잘 안 맞네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 제 취향이 아니라 아쉽네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "703901",
+    "RawText": "하자없이 빠른 배송으로 잘 받았습니다. 가격은 저렴하게 구입했지만, 향이 싸구려 냄새가 나네요. 향이 딱 가격만큼 이네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "16",
+    "RDate": "20201204",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 저렴하게 구입했지만,",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 싸구려 냄새가 나네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 딱 가격만큼 이네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "703913",
+    "RawText": "좀 저렴한 제품 찾고 있다가 상품평이 괜찮아서 구매했습니다. 생각보다 품질이 괜찮습니다. 개인적으로는 무향을 원했는데, 향이 많이 나서 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "81",
+    "Word": "18",
+    "RDate": "20210122",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 괜찮습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 많이 나서 아쉽네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "703922",
+    "RawText": "가격은 저렴한데, 아들이 아저씨 냄새 나는 스킨이라고 싫어하네요. 사춘기라 피부가 예민해서 트러블도 있네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "13",
+    "RDate": "20210710",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 저렴한데, ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "아들이 아저씨 냄새 나는 스킨이라고 싫어하네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "피부가 예민해서 트러블도 있네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "703923",
+    "RawText": "향도 괜찮고, 가격도 저렴해서 무난하게 쓰기 좋은 것 같습니다. 배송도 무척 빠르네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "48",
+    "Word": "12",
+    "RDate": "20210803",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 괜찮고, ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "703932",
+    "RawText": "기본 스킨으로 사용하기 괜찮다고 해서 주문했어요. 피부에 흡수가 잘 안 되고 전혀 촉촉하지 않아 실망스럽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "15",
+    "RDate": "20220531",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "피부에 흡수가 잘 안 되고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "촉촉하지 않아 실망스럽네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "703936",
+    "RawText": "가격도 착하고 향도 좋아서 계속 사용하는 제품이에요. 앞으로도 계속 사용할 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "48",
+    "Word": "12",
+    "RDate": "20191221",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 착하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 좋아서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "703938",
+    "RawText": "남자 스킨은 값이 비싼거나 보다 저렴한 제품이나 큰 차이를 못 느끼겠어요. 더워지면서 사용량이 많아지는데 효율적으로 잘 사용할 수 있을것 같아서 구매했습니다. 가격도 저렴하고 향도 은은합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "107",
+    "Word": "25",
+    "RDate": "20170421",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 은은합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "703959",
+    "RawText": "가격은 저렴하지만, 무엇보다 품질이 별로네요. 향도 제 취향은 아니고 저에게 잘 안 맞는 제품입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "56",
+    "Word": "14",
+    "RDate": "20210903",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 저렴하지만, ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 별로네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 제 취향은 아니고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "저에게 잘 안 맞는 제품입니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "703960",
+    "RawText": "미국 타사 제품을 쓰다가 OOO를 보고 옛 생각에 구매했습니다. 배송 받자마자 스킨 플라스틱 마개를 제거하고 사용해봤는데 용기 구멍이 작아 사용하기 불편하고 향도 생각보다 은은함이 약하고 보습력도 좀 떨어지네요. 좋은 기억으로만 남겨 둘 걸 괜히 구입한 듯합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "147",
+    "Word": "36",
+    "RDate": "20211031",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기 구멍이 작아 사용하기 불편하고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 생각보다 은은함이 약하고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "보습력도 좀 떨어지네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "703966",
+    "RawText": "가격이 저렴해서 무난하게 쓰려고 구매했는데, 향도 마음에 들지 않고 번들거리고 끈적이네요. 품질이 딱 가격만큼이네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "65",
+    "Word": "14",
+    "RDate": "20220210",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 마음에 들지 않고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "번들거리고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "끈적이네요. ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 딱 가격만큼이네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "703968",
+    "RawText": "OOO 화장품은 유분기가 많아서 번들거리고 끈적임이 있네요. 향기도 너무 약해서 금방 날아가네요. 가격대비 품질이 별로네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "69",
+    "Word": "15",
+    "RDate": "20220328",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "유분기가 많아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "번들거리고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "끈적임이 있네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향기도 너무 약해서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "금방 날아가네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격대비 품질이 별로네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "703969",
+    "RawText": "저렴하면서 괜찮은 상품을 찾아서 이제품 저제품 다 사용해 보았지만, 이처럼 유분기는 적당해서 잘 흡수되고 향도 은은해서 가성비 최고의 제품이에요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "81",
+    "Word": "19",
+    "RDate": "20220328",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "유분기는 적당해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "잘 흡수되고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 은은해서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 최고의 제품이에요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "703974",
+    "RawText": "가격은 저렴한데, 제조일자가 1년이 지나 사용기한이 짧은 제품이 왔네요. 사은품도 없어서 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "12",
+    "RDate": "20171113",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 저렴한데,",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "제조일자가 1년이 지나 사용기한이 짧은 제품이 왔네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품도 없어서 아쉽네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "703992",
+    "RawText": "여러 곳을 검색 해 본 결과 여기가 제일 저렴해서 구매했습니다. 건성 피부인데 발라보니 괜찮습니다. 제조일자도 최근이라 사용기한이 길어서 좋았어요. 포장도 꼼꼼하게 해서 파손되지 않고 왔습니다. 다 쓰면 재구매 하려고 합니다. ",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "127",
+    "Word": "30",
+    "RDate": "20160228",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴해서 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "피부타입",
+        "SentimentText": "건성 피부인데 발라보니 괜찮습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "제조일자도 최근이라 사용기한이 길어서 좋았어요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "703999",
+    "RawText": "무난하게 쓰기 좋다해서 구매했습니다. 가격도 착하고 유통기한도 넉넉해서 맘에 들어요. 향은 좋지도 나쁘지도 않네요. 잘 사용하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "16",
+    "RDate": "20160331",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 착하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한도 넉넉해서 맘에 들어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향은 좋지도 나쁘지도 않네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "704000",
+    "RawText": "모든 피부 타입에 잘 맞는 것 같습니다. 유통기한도 넉넉한 제품이 와서 만족합니다. 저렴하게 구입해서 좋고 피부에 자극적이지 않고 순합니다. 용량만 더 크게 나오면 좋을 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "102",
+    "Word": "26",
+    "RDate": "20160331",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "피부타입",
+        "SentimentText": "모든 피부 타입에 잘 맞는 것 같습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한도 넉넉한 제품이 와서 만족합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구입해서 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "피부에 자극적이지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "순합니다.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "용량만 더 크게 나오면 좋을 것 같습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "704018",
+    "RawText": "처음으로 구매했는데, 기존에 사용하던 제품에 비해 제형이 묽어서 물처럼 흘러내리고 향도 진해서 별로네요. 재구매 의사 없습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "16",
+    "RDate": "20160608",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 묽어서 물처럼 흘러내리고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 진해서 별로네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "704019",
+    "RawText": "친구가 쓰길래 저도 구매해 봤어요. 저렴한 가격은 만족하는데 건성피부에는 촉촉함이 부족한 듯하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "12",
+    "RDate": "20160609",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격은 만족하는데 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "피부타입",
+        "SentimentText": "건성피부에는 촉촉함이 부족한 듯하네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "촉촉함이 부족한 듯하네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "704026",
+    "RawText": "첫 구매 입니다. 건성피부에는 잘 안 맞아요. 가격대비 용량이 작아요. 상품의 품질은 별로 안 좋습니다. 유통기한이 1년도 안 남았습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "19",
+    "RDate": "20160706",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "피부타입",
+        "SentimentText": "건성피부에는 잘 안 맞아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": " 가격대비 용량이 작아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "상품의 품질은 별로 안 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한이 1년도 안 남았습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "704035",
+    "RawText": "피부가 촉촉하지 않고 당기는 느낌이 들고 며칠만에 피부가 화끈거리네요. 악건성 피부에 잘 안 맞는 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "16",
+    "RDate": "20160725",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "피부가 촉촉하지 않고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "당기는 느낌이 들고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "피부가 화끈거리네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "피부타입",
+        "SentimentText": "악건성 피부에 잘 안 맞는 것 같아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "704044",
+    "RawText": "끈적이지 않고 흡수력도 괜찮네요. 수분력과 지속력은 좀 아쉬운 듯합니다. 가격은 착한 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "54",
+    "Word": "13",
+    "RDate": "20160910",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "끈적이지 않고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "흡수력도 괜찮네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "수분력과 지속력은 좀 아쉬운 듯합니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력은 좀 아쉬운 듯합니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 착한 것 같아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "704048",
+    "RawText": "50대 복합성 피부타입 입니다. 저랑은 제품이 잘 안 맞는 것 같아요. 유통기한이 짧은 게 왔어요. 향이 너무 강해서 부담스럽습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "19",
+    "RDate": "20160915",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "저랑은 제품이 잘 안 맞는 것 같아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": " 유통기한이 짧은 게 왔어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 너무 강해서 부담스럽습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "704066",
+    "RawText": "향기 강한 걸 좋아하는데 넘 약한 것 같아서 별로에요. 무알콜이라 자극은 없지만 면도하고 나서 쓰기엔 적당하지 않은 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "19",
+    "RDate": "20161016",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향기 강한 걸 좋아하는데 넘 약한 것 같아서 별로에요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "성분",
+        "SentimentText": "무알콜이라 자극은 없지만 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "면도하고 나서 쓰기엔 적당하지 않은 것 같아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "자극은 없지만 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "704076",
+    "RawText": "배송도 빠르고 안전하게 잘 받았어요. 냄새가 강하지 않아서 좋은데 사용기한은 반년 밖에 안 남은 상품으로 보내셨네요. 반품, 환불 귀찮아서 이 제품 먼저 써야겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "92",
+    "Word": "23",
+    "RDate": "20161020",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "냄새가 강하지 않아서 좋은데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "사용기한은 반년 밖에 안 남은 상품으로 보내셨네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "704093",
+    "RawText": "향은 익숙하지 않지만 가격은 착하네요. 오랫동안 촉촉하지 않아 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "40",
+    "Word": "9",
+    "RDate": "20161110",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향은 익숙하지 않지만 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 착하네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "오랫동안 촉촉하지 않아 아쉽네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "촉촉하지 않아 아쉽네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "704094",
+    "RawText": "향이 많이 진해서 아저씨 화장품 냄새만큼 독한 정도에요. 향은 정말 별로에요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "43",
+    "Word": "11",
+    "RDate": "20161110",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 많이 진해서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "아저씨 화장품 냄새만큼 독한 정도에요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향은 정말 별로에요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "704102",
+    "RawText": "부드럽게 잘 안 발라지고 예민한 피부에 트러블이 나네요. 향은 그럭저럭 쓸 만 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "48",
+    "Word": "13",
+    "RDate": "20161227",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "발림성",
+        "SentimentText": "부드럽게 잘 안 발라지고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "예민한 피부에 트러블이 나네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향은 그럭저럭 쓸 만 합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "704107",
+    "RawText": "배송 안전하고 빠르네요. 가격이 저렴하고 향은 마음에 들어요. 겨울에는 많이 건조한 느낌이 드네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "13",
+    "RDate": "20170106",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향은 마음에 들어요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "겨울에는 많이 건조한 느낌이 드네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "건조한 느낌이 드네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "704108",
+    "RawText": "상품평 보고 처음 구매했어요. 피부에 흡수가 잘 안 되고 번들거림이 있네요. 지성피부에는 잘 안 맞는 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "17",
+    "RDate": "20170106",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "피부에 흡수가 잘 안 되고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "번들거림이 있네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "피부타입",
+        "SentimentText": "지성피부에는 잘 안 맞는 것 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "704114",
+    "RawText": "첫 배송 때 로션이 박살 나서 문의를 하니 다시 빨리 보내 주셨어요. 향이 연해서 좋고 가격이 저렴해서 여러 개 구입했어요. 향이 좀 더 오래가면 좋겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "87",
+    "Word": "25",
+    "RDate": "20170112",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 연해서 좋고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴해서 여러 개 구입했어요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "향이 좀 더 오래가면 좋겠어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "704153",
+    "RawText": "사용해 보니 얼굴 당김이 있어서 안 좋습니다. 하루에 세 네번 바르는데 보습력이 많이 떨어져서 건조합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "15",
+    "RDate": "20170223",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "얼굴 당김이 있어서 안 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": " 보습력이 많이 떨어져서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "건조합니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "704155",
+    "RawText": "혹시나 구입 망설이시는 분들 계시다면 비 추천합니다. 유통기한 1년도 안 남은 걸로 받았습니다. 예민한 피부인데 트러블이 생겼어요. 제 피부에는 잘 안 맞는 것 같습니다. 자극성이 있고 향도 강해서 별로에요. 배송은 빠릅니다. 포장도 잘 되어 있고 파손 없이 도착했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "152",
+    "Word": "38",
+    "RDate": "20170223",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한 1년도 안 남은 걸로 받았습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "트러블이 생겼어요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": " 제 피부에는 잘 안 맞는 것 같습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": " 자극성이 있고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": " 향도 강해서 별로에요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "704163",
+    "RawText": "제품 받았는데 용기 사이즈는 생각보다 작아요. 피부에 바르면 흡수가 잘 안 되고 여러 번 발라도 빨리 마르네요. 가격은 저렴합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "19",
+    "RDate": "20170301",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기 사이즈는 생각보다 작아요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "흡수가 잘 안 되고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "여러 번 발라도 빨리 마르네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 저렴합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "704196",
+    "RawText": "지인에게 추천 받아서 구입한 제품입니다. 품질이 좋은 것은 아닌 것 같아요. 피부에 트러블이 생겨서 고생했습니다. 제품이 잘 안 맞는 것 같습니다. 우선적으로 가격이 너무 저렴해서 인지 제품 품질이 많이 떨어집니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "120",
+    "Word": "30",
+    "RDate": "20170413",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 좋은 것은 아닌 것 같아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "피부에 트러블이 생겨서 고생했습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "제품이 잘 안 맞는 것 같습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 너무 저렴해서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "제품 품질이 많이 떨어집니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "704197",
+    "RawText": "성분이 순하고 발림성도 괜찮고 가격도 괜찮네요. 촉촉함은 좋은데 오래 유지되지 않아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "48",
+    "Word": "11",
+    "RDate": "20170413",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분",
+        "SentimentText": "성분이 순하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성도 괜찮고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 괜찮네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "촉촉함은 좋은데 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "오래 유지되지 않아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "704235",
+    "RawText": "스킨 바를 때 남들 두 배씩 쓰는 편이라 이것만 삽니다. 향도 좋고 촉촉해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "43",
+    "Word": "13",
+    "RDate": "20170512",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "촉촉해요.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "704238",
+    "RawText": "민감한 피부라 화장품 잘 안 바르다가 추천해서 구매했어요. 역시나 사용감이 무겁고 빨갛게 트러블이 생기네요. 피부가 약간 지성에 민감해서 그런지 잘 안 맞는 듯하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "93",
+    "Word": "23",
+    "RDate": "20170513",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사용감",
+        "SentimentText": "사용감이 무겁고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "빨갛게 트러블이 생기네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "피부타입",
+        "SentimentText": "피부가 약간 지성에 민감해서 그런지 잘 안 맞는 듯하네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "704240",
+    "RawText": "아무거나 써도 잘 받는 피부타입이라 가격이 저렴한 걸로 주문했는데 유통기한 짧은 게 왔습니다. 유통기한이 10개월 밖에 안 남았어요. 유통기한이 너무 짧아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "88",
+    "Word": "21",
+    "RDate": "20170513",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴한 걸로 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한 짧은 게 왔습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한이 10개월 밖에 안 남았어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한이 너무 짧아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "704250",
+    "RawText": "배송이 빠르고 물건도 좋습니다. 무엇보다 가격이 저렴해서 좋아요. 향도 은은해서 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "51",
+    "Word": "11",
+    "RDate": "20170522",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "무엇보다 가격이 저렴해서 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 은은해서 만족합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "704256",
+    "RawText": "가격이 저렴해서 여러 개 구매 했습니다. 여름이라 가볍게 사용하기 좋은데 겨울에는 보습력이 부족할 것 같네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "15",
+    "RDate": "20170525",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴해서 여러 개 구매 했습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "여름이라 가볍게 사용하기 좋은데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "겨울에는 보습력이 부족할 것 같네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "보습력이 부족할 것 같네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "704259",
+    "RawText": "배송도 빠르고 포장이 마음에 드네요. 쿠폰 적용해서 저렴하게 잘 구입했어요. 유통기한은 넉넉하지 않아 아쉬워요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "14",
+    "RDate": "20170526",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰 적용해서 저렴하게 잘 구입했어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한은 넉넉하지 않아 아쉬워요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "704260",
+    "RawText": "무료배송은 아니지만 가격이 착하고 가격 대비 용량도 작지는 않네요. 유통기한은 좀 더 넉넉하면 좋을 듯합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "61",
+    "Word": "15",
+    "RDate": "20170526",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 착하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "가격 대비 용량도 작지는 않네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한은 좀 더 넉넉하면 좋을 듯합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "704272",
+    "RawText": "포장이 튼튼하고 배송이 아주 빠르네요. 향도 독하지 않고 피부가 깔끔해진 느낌이 들어 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "52",
+    "Word": "13",
+    "RDate": "20170606",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 독하지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "피부가 깔끔해진 느낌이 들어 좋아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "704273",
+    "RawText": "새로 구매한 로션인데 스킨 로션이 향이 너무 독하고 향이 별로 맘에 안 듭니다. 아무래도 저가라서 인지 품질이 별로에요. 제품이 너무 안 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "82",
+    "Word": "22",
+    "RDate": "20170606",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 너무 독하고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": " 향이 별로 맘에 안 듭니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저가라서 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 별로에요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "704346",
+    "RawText": "유리 깨지지 않게 뽁뽁이로 포장 잘해서 보내 주셨어요. 향도 좋은 것 같지도 나쁜 것 같지도 않은데 가격은 무지 착하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "19",
+    "RDate": "20171111",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 좋은 것 같지도 나쁜 것 같지도 않은데 ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 무지 착하네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "704368",
+    "RawText": "배송 좋고 가격은 더욱 좋아 재구매 했어요. 향 지속력은 조금 아쉽지만 향은 괜찮아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "48",
+    "Word": "13",
+    "RDate": "20171130",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 더욱 좋아 재구매 했어요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "향 지속력은 조금 아쉽지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향은 괜찮아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "704372",
+    "RawText": "배송료 내더라도 저렴한 가격이라 좋네요. 사용 후 촉촉하게 느껴지는 것도 좋은데 유지가 안 되네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "14",
+    "RDate": "20171206",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격이라 좋네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "촉촉하게 느껴지는 것도 좋은데 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "유지가 안 되네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "704401",
+    "RawText": "배송은 빠르네요. 피부에 잘 스며들고 건조하지 않아요. 겨울에는 좀 건조할 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "48",
+    "Word": "12",
+    "RDate": "20171224",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "피부에 잘 스며들고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "건조하지 않아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "겨울에는 좀 건조할 것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "건조할 것 같아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "704402",
+    "RawText": "유통기한도 넉넉하고 가격도 착하네요. 수분감은 좀 부족하게 느껴지네요. 포장도 안전하게 잘 해주셨어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "12",
+    "RDate": "20171224",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한도 넉넉하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 착하네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "수분감은 좀 부족하게 느껴지네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "704412",
+    "RawText": "예전에 잘 쓰다가 잘 안보이길래 잊고 있었는데, 여전히 판매하는 제품이네요. 스킨로션 각각 구매해도 가격이 저렴하고 끈적이지도 않아서 좋아요. 향은 좀 바뀐 것 같아 아쉬움이 남네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "102",
+    "Word": "25",
+    "RDate": "20171229",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "끈적이지도 않아서 좋아요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향은 좀 바뀐 것 같아 아쉬움이 남네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "704446",
+    "RawText": "ㅇㅇㅇ제품이 별로에요. 유통기한이 얼마 안 남았은걸 받아서 속상합니다. 향도 너무 진해서 많이 사용도 못하겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 코** 옴므 스킨 140ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "14",
+    "RDate": "20180125",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한이 얼마 안 남았은걸 받아서 속상합니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 너무 진해서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "704527",
+    "RawText": "OOO OO는 향이 강해서 좋고 사용 후 피부가 시원해지는 것 같아 좋아요. 용기 사이즈는 생각보다 작고 용량도 좀 작은 것 같아요. 유통기한도 좀 길면 좋을 것 같네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 멘** 애프터쉐이브 레귤러 180ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "95",
+    "Word": "27",
+    "RDate": "20220708",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 강해서 좋고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "피부가 시원해지는 것 같아 좋아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기 사이즈는 생각보다 작고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "용량도 좀 작은 것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한도 좀 길면 좋을 것 같네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "704534",
+    "RawText": "이 제품은 여름에 사용하기 좋습니다. 사용 후 트러블이 안 생겨서 좋은 것 같아요. 샤워 후에 바르면 건조함이 사라져서 좋은 것 같습니다. 이 제품의 장점은 쿨링감이 있어서 좋고 진정 효과가 좋습니다. 단점은 향이 너무 남자 스킨 냄새가 나서 아쉽고 용기 뚜껑이 밀폐력이 약해서 안 좋습니다. 그래서 랩으로 한번 더 씌워서 사용하고 있습니다. 용기만 개선되어서 나오면 더 좋을 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 멘** 애프터쉐이브 레귤러 180ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "218",
+    "Word": "58",
+    "RDate": "20220704",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "여름에 사용하기 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "자극성",
+        "SentimentText": "트러블이 안 생겨서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "건조함이 사라져서 좋은 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "쿨링감이 있어서 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "진정 효과가 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 너무 남자 스킨 냄새가 나서 아쉽고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기 뚜껑이 밀폐력이 약해서 안 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기만 개선되어서 나오면 더 좋을 것 같습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "704537",
+    "RawText": "다른 제품 쓰다가 다시 찾은 스킨이에요. 면도 후 얼굴에 바르면 시원해서 좋고 향도 진해서 좋아요. 보습력은 좀 약해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 멘** 애프터쉐이브 레귤러 180ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "18",
+    "RDate": "20220628",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "시원해서 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 진해서 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "보습력은 좀 약해요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "704544",
+    "RawText": "생각보다 양이 작고 향이 너무 강렬해 부담스럽네요. 배송도 너무 느리고 재구매 의사 없습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 멘** 애프터쉐이브 레귤러 180ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "52",
+    "Word": "13",
+    "RDate": "20220624",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용량",
+        "SentimentText": "생각보다 양이 작고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 너무 강렬해 부담스럽네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "704569",
+    "RawText": "알코올 성분이 들어있는 애프터 쉐이브를 찾다가 OOO 애프터 쉐이브를 구매하게 됐습니다. 알코올 성분이 들어 있어 면도 후 소독이 되는 느낌이라 좋습니다. 가성비가 좋네요. 향이 상쾌합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 멘** 애프터쉐이브 레귤러 180ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "106",
+    "Word": "25",
+    "RDate": "20220603",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "성분",
+        "SentimentText": "알코올 성분이 들어 있어 면도 후 소독이 되는 느낌이라 좋습니다. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비가 좋네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 상쾌합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "704581",
+    "RawText": "올인원 제품 썼더니 푸석해져서 이 제품 사용하면 윤기가 날까 해서 구입했습니다. 저렴해서 좋긴 한데 얼굴에 윤기가 나진 않네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 멘** 애프터쉐이브 레귤러 180ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "18",
+    "RDate": "20220526",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴해서 좋긴 한데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "얼굴에 윤기가 나진 않네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "704585",
+    "RawText": "할아버지께서 이것만 쓰셔요. 향도 진하고 보습력은 적으나 면도 후 이것만 사용하십니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 멘** 애프터쉐이브 레귤러 180ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "48",
+    "Word": "11",
+    "RDate": "20220524",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 진하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "보습력은 적으나",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "704590",
+    "RawText": "아빠가 부탁하셔서 주문했는데 아주 맘에 들어하세요. 품질이 좋다고 하십니다. 가격이 참 저렴합니다. 더 좋은걸 사다 드려도 이제품을 고집 하셔요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 멘** 애프터쉐이브 레귤러 180ml 1개",
+    "ReviewScore": "4",
+    "Syllable": "81",
+    "Word": "19",
+    "RDate": "20220523",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 좋다고 하십니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 참 저렴합니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "704594",
+    "RawText": "잘 사용하겠습니다. 배송도 빠르고 좋았어요. 언제나 OOO 제품만 사용합니다. 세안 후 사용하면 얼굴이 맑아지고 산뜻합니다. 오랫동안 사용하고 있는 제품인데 정말 좋아요. 가격도 좋지만 품질도 만족스러워요. 믿고 구매해 보세요. 추천합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 멘** 애프터쉐이브 레귤러 180ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "134",
+    "Word": "29",
+    "RDate": "20220521",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "얼굴이 맑아지고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "산뜻합니다. ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 좋지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 만족스러워요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "704607",
+    "RawText": "오랜만에 생각나서 구입했는데 피부가 따갑고 목욕탕 냄새가 나서 좀 불편하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 멘** 애프터쉐이브 레귤러 180ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "43",
+    "Word": "10",
+    "RDate": "20220509",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "피부가 따갑고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "목욕탕 냄새가 나서 좀 불편하네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "704611",
+    "RawText": "익숙한 향이라 좋을 것 같았는데 향이 너무 진하네요. 양도 예전 보다 좀 작아진 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 멘** 애프터쉐이브 레귤러 180ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "51",
+    "Word": "15",
+    "RDate": "20220504",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "익숙한 향이라 좋을 것 같았는데  ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 너무 진하네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "양도 예전 보다 좀 작아진 것 같아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "704612",
+    "RawText": "오랜 기간 사용하고 있는 제품입니다. 다른 비싼 제품들보다도 이 제품이 익숙하고 향도 좋아서 계속 사용하고 있습니다. 또한 저렴해서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 멘** 애프터쉐이브 레귤러 180ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "19",
+    "RDate": "20220504",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 좋아서 계속 사용하고 있습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴해서 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "704615",
+    "RawText": "남편이 오래 전부터 사용해 오던 스킨이라 재구매 했습니다. 시중에 사기 어려웠는데 OO쇼핑에서 구입해서 좋았어요. 향이 자극적이지 않고 유리용기라서 더 좋습니다. 다만 유통기한이 짧은 제품이 와서 아쉬웠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 멘** 애프터쉐이브 레귤러 180ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "116",
+    "Word": "26",
+    "RDate": "20220504",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 자극적이지 않고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "유리용기라서 더 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한이 짧은 제품이 와서 아쉬웠어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "704654",
+    "RawText": "아빠가 오랫동안 쓰고 계셔서 남편도 써보라고 구매했어요. 남편은 향이 싫다고 하네요. 유통기한도 짧은 것 같아서 아빠 쓰시라고 얼른 갖다 드렸어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 멘** 애프터쉐이브 레귤러 180ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "82",
+    "Word": "20",
+    "RDate": "20220406",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 싫다고 하네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한도 짧은 것 같아서 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "704681",
+    "RawText": "기존에 쓰던 것이라 재구매 했습니다. 용기가 유리라서 부담스럽지만 용량이 넉넉하고 저렴해서 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 멘** 애프터쉐이브 레귤러 180ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "55",
+    "Word": "12",
+    "RDate": "20220320",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기가 유리라서 부담스럽지만 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "용량이 넉넉하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴해서 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "704693",
+    "RawText": "OOO 애프터 쉐이브 상품을 오랫동안 사용하고 있어요. 타제품도 사용해 봤는데 이 제품이 향도 좋고 저에게 가장 잘 맞아요. 앞으로도 계속 애용할 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 멘** 애프터쉐이브 레귤러 180ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "89",
+    "Word": "23",
+    "RDate": "20220312",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "저에게 가장 잘 맞아요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "704727",
+    "RawText": "OOO OO의 품질은 오리지날 그대로 유지하면서 가격은 더 저렴해서 너무 좋네요. 향은 좀 강해서 불편한데 향도 좀 바뀌면 좋을 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 멘** 애프터쉐이브 레귤러 180ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "21",
+    "RDate": "20220219",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질은 오리지날 그대로 유지하면서 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 더 저렴해서 너무 좋네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향은 좀 강해서 불편한데 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 좀 바뀌면 좋을 것 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "704737",
+    "RawText": "배송이 늦었지만 꼼꼼하게 잘 포장되어서 깨지지 않고 잘 도착했습니다. 남편이 이 제품만 사용해서 대신 구매했어요. 플라스틱 제품을 싫어하는데 용기가 유리로 되어 있어서 좋습니다. 향은 제 마음에는 안 들지만 남편은 향이 좋다고 합니다. 계속 저렴한 가격으로 판매되었으면 좋겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "남성화장품",
+    "ProductName": "OO 멘** 애프터쉐이브 레귤러 180ml 1개",
+    "ReviewScore": "5",
+    "Syllable": "156",
+    "Word": "37",
+    "RDate": "20220216",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기가 유리로 되어 있어서 좋습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향은 제 마음에는 안 들지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "남편은 향이 좋다고 합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "계속 저렴한 가격으로 판매되었으면 좋겠어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]

@@ -1,0 +1,3366 @@
+[
+  {
+    "Index": "20481",
+    "RawText": "디자인은 괜찮은데 색상이별로예요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 아웃도어 캐주얼 긴팔 셔츠 ",
+    "ReviewScore": "70",
+    "Syllable": "17",
+    "Word": "3",
+    "RDate": "20210805",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인은 괜찮은데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이별로예요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "20485",
+    "RawText": "가성비좋고 품질도 좋네요 바느질이나 여러가지가 꼼꼼히 제작된듯 합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 썸머 트레이닝 6종 세트",
+    "ReviewScore": "100",
+    "Syllable": "38",
+    "Word": "8",
+    "RDate": "20211115",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비좋고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 좋네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "바느질이나 여러가지가 꼼꼼히 제작된듯 합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "여러가지가 꼼꼼히 제작된듯 합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20495",
+    "RawText": "가볍고 아주 부드러운 촉감이  최고네요.디자인이 예쁘기도합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 썸머 트레이닝 6종 세트",
+    "ReviewScore": "100",
+    "Syllable": "34",
+    "Word": "6",
+    "RDate": "20210526",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "아주 부드러운 촉감이  최고네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 예쁘기도합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20500",
+    "RawText": "생각보다 사이즈가 작아요...특히 목부분이 좀 답갑 옷은 시원하네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 썸머 트레이닝 6종 세트",
+    "ReviewScore": "100",
+    "Syllable": "37",
+    "Word": "8",
+    "RDate": "20210610",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "생각보다 사이즈가 작아요...",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "특히 목부분이 좀 답갑",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "옷은 시원하네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20506",
+    "RawText": "걍 디자인 보통입니다 남여같이 입을 수 있다고 해서 샀는데 넘 남자거 같아서 핏이 좀그러네",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 썸머 트레이닝 6종 세트",
+    "ReviewScore": "70",
+    "Syllable": "50",
+    "Word": "14",
+    "RDate": "20210527",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 보통입니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏이 좀그러네",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "20515",
+    "RawText": "사이즈가 편하게 잘 맞아요 세 벌이라 돌려입기 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 썸머 트레이닝 6종 세트",
+    "ReviewScore": "100",
+    "Syllable": "29",
+    "Word": "8",
+    "RDate": "20210627",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 편하게 잘 맞아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "돌려입기 좋네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20520",
+    "RawText": "구성이 좋아 주문했는데 편히 입으려 일부러 두사이즈 크게 구매했습니다. 별 기대 없이 아주 저렴하게 구입했으나 상품의 질은 고가의 이너 웨어보다  좋습니다. 시원하고 신축성 좋으며 아주 부드러워 촉감이 상쾌합니다. 키가 크지 않아 긴 바지는 바짓단을 좀 줄여 입을 거예요. 세탁하여 건조기까지 돌렸으니 이제 집에서 편안하게 즐기면 되는군요. 좋은 상품 앞으로도 많이 보여주세요~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 썸머 트레이닝 6종 세트",
+    "ReviewScore": "100",
+    "Syllable": "211",
+    "Word": "51",
+    "RDate": "20210525",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성이 좋아 주문했는데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "편히 입으려 일부러 두사이즈 크게 구매했습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "별 기대 없이 아주 저렴하게 구입했으나 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "상품의 질은 고가의 이너 웨어보다  좋습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "시원하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": "신축성 좋으며",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "아주 부드러워 촉감이 상쾌합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "이제 집에서 편안하게 즐기면 되는군요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20528",
+    "RawText": "입어보니 촉감도 보들 보들  사이즈는 정사이즈입니다    요즘 날씨에 입기가 너무편하고  밤날씨가 쌀쌀하면  겉옷살짝 걸치 기에 너무 좋으네요 잘산것같아요 가격도 너무착하네요   감사합니다 잘입고 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 썸머 트레이닝 6종 세트",
+    "ReviewScore": "100",
+    "Syllable": "115",
+    "Word": "23",
+    "RDate": "20210530",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감",
+        "SentimentText": "촉감도 보들 보들",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈는 정사이즈입니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "요즘 날씨에 입기가 너무편하고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "겉옷살짝 걸치 기에 너무 좋으네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 너무착하네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20530",
+    "RawText": "저렴한 가격에 옷감이 괜찮은 편이고, 실내복이지만 핏도 괜찮아요. 다만 박음질이 제대로 안 된 곳이 있고, 세탁후에도 새제품에서 나는 화학제 냄새가 안 빠져 조금 아쉽네요. 그래도 가성비 짱인 옷이에요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 썸머 트레이닝 6종 세트",
+    "ReviewScore": "70",
+    "Syllable": "113",
+    "Word": "28",
+    "RDate": "20210526",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "옷감이 괜찮은 편이고,",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏도 괜찮아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "박음질이 제대로 안 된 곳이 있고,",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "냄새",
+        "SentimentText": "냄새가 안 빠져 조금 아쉽네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 짱인 옷이에요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20531",
+    "RawText": "가성비는 좋아요ᆢ 바지는 디자인이 추리닝느낌~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 썸머 트레이닝 6종 세트",
+    "ReviewScore": "100",
+    "Syllable": "25",
+    "Word": "5",
+    "RDate": "20210526",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비는 좋아요ᆢ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "바지는 디자인이 추리닝느낌~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "20539",
+    "RawText": "옷은 시원하네요 못부분이 좀 잣아 머리 큰 사람은 들어가기 힘들듯",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 썸머 트레이닝 6종 세트",
+    "ReviewScore": "100",
+    "Syllable": "36",
+    "Word": "10",
+    "RDate": "20210610",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "옷은 시원하네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "못부분이 좀 잣아 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "20556",
+    "RawText": "받아보니 품질에  더 만족해요 요즘 s  사이즈가 예전과달라  많이 븰편했는데   완전 만족ᆢ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 엠** 트렌치 코트",
+    "ReviewScore": "100",
+    "Syllable": "52",
+    "Word": "12",
+    "RDate": "20210522",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "받아보니 품질에  더 만족해요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "요즘 s  사이즈가 예전과달라  많이 븰편했는데   완전 만족ᆢ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20569",
+    "RawText": "다운된 민트색,낙낙한 품 맘에 들어요 기계세탁 가능해서 더 좋습니다 소매는  길어서  한단접어야 되고 서커라 구김없을줄 알았는데 구김 심해져 왔네요  티셔츠는  루즈핏이라 좋긴한데 젤 싫어하는 비침이 있어서 안입을것 같아요 그래서 별하나 뺄께요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 골프 여성 자켓 + 티셔츠 ",
+    "ReviewScore": "80",
+    "Syllable": "136",
+    "Word": "31",
+    "RDate": "20210423",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "다운된 민트색,낙낙한 품 맘에 들어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "낙낙한 품 맘에 들어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "기계세탁 가능해서 더 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "소매는  길어서  한단접어야 되고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "구김 심해져 왔네요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "티셔츠는  루즈핏이라 좋긴한데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "젤 싫어하는 비침이 있어서 안입을것 같아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "20595",
+    "RawText": "백프로 면이라 넘 좋습니다^^ 아기 케어할 때 정말 잘 입어요!",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 코튼 실** 티셔츠 5종",
+    "ReviewScore": "100",
+    "Syllable": "35",
+    "Word": "10",
+    "RDate": "20210818",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "백프로 면이라 넘 좋습니다^^",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "아기 케어할 때 정말 잘 입어요!",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20601",
+    "RawText": "가격대비 만족합니다 실키한 면 감촉 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 코튼 실** 티셔츠 5종",
+    "ReviewScore": "70",
+    "Syllable": "23",
+    "Word": "6",
+    "RDate": "20210803",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 만족합니다 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "실키한 면 감촉 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "감촉 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20603",
+    "RawText": "모양이 너무 예뻐요 청바지나 면바지에 모두 잘 어울려요 득템 했네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 코튼 실** 티셔츠 5종",
+    "ReviewScore": "100",
+    "Syllable": "37",
+    "Word": "10",
+    "RDate": "20210811",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "모양이 너무 예뻐요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "청바지나 면바지에 모두 잘 어울려요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20605",
+    "RawText": "부드럽고 광택 있는 면소재 저렴한가격에 잘  구매했습니다 품질이 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 코튼 실** 티셔츠 5종",
+    "ReviewScore": "80",
+    "Syllable": "39",
+    "Word": "9",
+    "RDate": "20210808",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감",
+        "SentimentText": "부드럽고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 저렴한가격에 잘  구매했습니다 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "광택 있는 면소재",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20606",
+    "RawText": "면이보드러워 입가편하지만 넘 얇아서 약간은 늘어지는것같 다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 코튼 실** 티셔츠 5종",
+    "ReviewScore": "100",
+    "Syllable": "32",
+    "Word": "7",
+    "RDate": "20210808",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "면이보드러워 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": " 입가편하지만 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "넘 얇아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "약간은 늘어지는것같 다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "20614",
+    "RawText": "원단이 그닥 고급스럽진않지만   편하게 입을만합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 코튼 실** 티셔츠 5종",
+    "ReviewScore": "100",
+    "Syllable": "28",
+    "Word": "5",
+    "RDate": "20210601",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "원단이 그닥 고급스럽진않지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편하게 입을만합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20617",
+    "RawText": "싼마이로 입기좋음 품질이 걍 딱 가격만큼 레이온이라길래 기대했는데 뻣뻣함 박시하게 입는 편이라 88샀는데 88치고 작은편 한철입고 쓰레기통 직행할듯? 목뒤에 택도 없음ㅋㅋㅋ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 코튼 실** 티셔츠 5종",
+    "ReviewScore": "20",
+    "Syllable": "96",
+    "Word": "21",
+    "RDate": "20210520",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "싼마이로 입기좋음",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 걍 딱 가격만큼",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "뻣뻣함",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "88치고 작은편",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "한철입고 쓰레기통 직행할듯?",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "목뒤에 택도 없음ㅋㅋㅋ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "20620",
+    "RawText": "가볍고 촉감도 부드러워  매일매일 입게되네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 코튼 실** 티셔츠 5종",
+    "ReviewScore": "100",
+    "Syllable": "24",
+    "Word": "5",
+    "RDate": "20210603",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "촉감도 부드러워",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20636",
+    "RawText": "소매길이나총기장이맘에들어 주문했는데   세탁후착용하니 기장이 줄었네요 바지속에넣어입기도 불편할만큼  많이줄어들고 옷형태도  변형되요 두번은 못입음",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 코튼 실** 티셔츠 5종",
+    "ReviewScore": "30",
+    "Syllable": "81",
+    "Word": "12",
+    "RDate": "20210524",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "길이",
+        "SentimentText": "소매길이나총기장이맘에들어 주문했는데 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 세탁후착용하니 기장이 줄었네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "불편할만큼  많이줄어들고 옷형태도  변형되요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "20637",
+    "RawText": "가볍고편안한 느낌을 주는 것이 좋습니다 하지만 조금만 더 부드러운 느낌이 있으면 좋겠어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 코튼 실** 티셔츠 5종",
+    "ReviewScore": "100",
+    "Syllable": "49",
+    "Word": "12",
+    "RDate": "20210520",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편안한 느낌을 주는 것이 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "조금만 더 부드러운 느낌이 있으면 좋겠어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "20638",
+    "RawText": "세탁후 상품평 수정합니다. 단점 :건조기 돌리니 기장 많이 줄고  정전기가 심해 옷끼리 많이 달라붙고 먼지도 잘 붙는 원단입니다. 집에서 홈웨어로만 입을수 있을듯요. 장점 : 원단 얇아 소재가 시원합니다. ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 코튼 실** 티셔츠 5종",
+    "ReviewScore": "60",
+    "Syllable": "115",
+    "Word": "28",
+    "RDate": "20210521",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "단점 :건조기 돌리니 기장 많이 줄고 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "정전기가 심해 옷끼리 많이 달라붙고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "먼지도 잘 붙는 원단입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "집에서 홈웨어로만 입을수 있을듯요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "장점 : 원단 얇아 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재가 시원합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20641",
+    "RawText": "옷감은 부드럽고 얇은 소재로 좋아요 여름용 티셔츠인데 색상이 어두운게 조금 아쉬워요~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 코튼 실** 티셔츠 5종",
+    "ReviewScore": "70",
+    "Syllable": "47",
+    "Word": "11",
+    "RDate": "20210524",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "옷감은 부드럽고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "얇은 소재로 좋아요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "여름용 티셔츠인데 색상이 어두운게 조금 아쉬워요~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "20652",
+    "RawText": "톡톡한 런닝재질에 염색한듯하네요 홈쇼핑제품은 기대하고 사지만 늘 실망합니다ㅠㅠ  OOO제품이라 혹시나   하고 기대해봤지만 역시 품질에  실망하고 마네요 딱 가격만큼만 하네요 세탁 후 옆선이나 틀어지지나 않았음 좋겠어요!",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 코튼 실** 티셔츠 5종",
+    "ReviewScore": "40",
+    "Syllable": "123",
+    "Word": "25",
+    "RDate": "20210520",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "톡톡한 런닝재질에 염색한듯하네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "역시 품질에   실망하고 마네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "딱 가격만큼만 하네요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "20658",
+    "RawText": "생각보다 못이 커요 길이도 길고 핏이 이쁘지가 않네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 트레이닝자켓 ",
+    "ReviewScore": "40",
+    "Syllable": "29",
+    "Word": "8",
+    "RDate": "20210815",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "생각보다 못이 커요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "길이도 길고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏이 이쁘지가 않네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "20659",
+    "RawText": "좋아요..원단도 좋고 간절기에 달 입을꺼 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 트레이닝자켓 ",
+    "ReviewScore": "100",
+    "Syllable": "27",
+    "Word": "6",
+    "RDate": "20211103",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "원단도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "간절기에 달 입을꺼 같아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20661",
+    "RawText": "디자인 예뻐요. 일부러 한치수 큰 사이즈로 선택했는데 잘 한거같아요. 딱맞는거보다 분위기있네요. 맘에 딱 들어요. 두루두루 잘 입어질듯해요. 모셔놓는 명품이 아니라서 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 미** 바람막이",
+    "ReviewScore": "100",
+    "Syllable": "96",
+    "Word": "21",
+    "RDate": "20210518",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 예뻐요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "한치수 큰 사이즈로 선택했는데 잘 한거같아요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "딱맞는거보다 분위기있네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "두루두루 잘 입어질듯해요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20662",
+    "RawText": "빠른배송 만족! 상품 품질다 마음에 드는데,사이즈가 좀 아쉬워여~ 한 사이즈  크게 주문했는데, 작은 사이즈로 왔네요. 그리고 매진 되었다고 하니,무슨경우... ?고민 끝에 걍! 구매 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 미** 바람막이",
+    "ReviewScore": "100",
+    "Syllable": "107",
+    "Word": "24",
+    "RDate": "20210608",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": " 상품품질 다 마음에 드는데,",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 좀 아쉬워여~ ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "20663",
+    "RawText": "바람막이로 넘 좋아요 사이즈도 딱맞고  핏도 좋고 OOO의 삼각로그도 넘 엣지 있어요 좋은가격으로 사게되어 감사합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 미** 바람막이",
+    "ReviewScore": "100",
+    "Syllable": "65",
+    "Word": "15",
+    "RDate": "20210516",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "바람막이로 넘 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈도 딱맞고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": " 핏도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "OOO의 삼각로그도 넘 엣지 있어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은가격으로 사게되어",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20670",
+    "RawText": "디자인이 예뻐요.품질이 너무 맘에 들어요 사이즈 표대로 구요.길이도 여유있네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 셔츠",
+    "ReviewScore": "100",
+    "Syllable": "43",
+    "Word": "9",
+    "RDate": "20210601",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 예뻐요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 너무 맘에 들어요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈 표대로 구요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "길이도 여유있네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20672",
+    "RawText": "안입은거 같아요 너무 편하고 디자인 이쁩니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 셔츠",
+    "ReviewScore": "100",
+    "Syllable": "24",
+    "Word": "6",
+    "RDate": "20210530",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "안입은거 같아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "너무 편하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 이쁩니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20674",
+    "RawText": "적립금으로 저렴한 가격에 구입.바느질 꼼꼼하고 색도 예쁘네요. 평소95입는데 품절이라 100으로 샀는데  편하고 괜찮아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 브** 여성 경량 바람막이 자켓",
+    "ReviewScore": "100",
+    "Syllable": "67",
+    "Word": "13",
+    "RDate": "20210808",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "적립금으로 저렴한 가격에 구입",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "바느질 꼼꼼하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색도 예쁘네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "100으로 샀는데  편하고 괜찮아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20675",
+    "RawText": "나일론이라고 써있는데  폴리에스테르 이네요   여름용으로는 좀덥네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 브** 여성 경량 바람막이 자켓",
+    "ReviewScore": "60",
+    "Syllable": "37",
+    "Word": "6",
+    "RDate": "20210824",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "나일론이라고 써있는데  폴리에스테르 이네요  ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "여름용으로는 좀덥네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "20683",
+    "RawText": "큰맘먹구 구입한 트랜치 코트  입을날만 고대하그  걸어두었는데 기본칼라 맘에 드네요 좀더 입어보면서  느끼겠지만 보드라운거보담  게버딘소제느낌이 아직은 익숙하지 않음",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 하** 롱 트렌치 코트",
+    "ReviewScore": "100",
+    "Syllable": "92",
+    "Word": "18",
+    "RDate": "20210903",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "기본칼라 맘에 드네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "보드라운거보담  ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "게버딘소제느낌이 아직은 익숙하지 않음",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "20684",
+    "RawText": "핏이넘이쁘고 품질이 완전값어치하는것같아요 소장의가치가있고. 딸애한태물려줘도 될거같아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 하** 롱 트렌치 코트",
+    "ReviewScore": "100",
+    "Syllable": "47",
+    "Word": "6",
+    "RDate": "20210913",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏이넘이쁘고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 완전값어치하는것같아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20685",
+    "RawText": "일단 좋아요 적당한 무게감에 원단도 좋고  사이즈가 조금 큰데 안에 옷이 두꺼워지면 큰게 낮겠다 싶어 그냥 입기로 했어요 라인은 작은게 이뿔거 같긴해요 살짝 작아서 잘 안입어지는 옷이 있어 비싼옷을 그럴수가 없어 그냥 크게 입을려구요 옷은 멋있어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 하** 롱 트렌치 코트",
+    "ReviewScore": "100",
+    "Syllable": "138",
+    "Word": "36",
+    "RDate": "20210911",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "적당한 무게감에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "원단도 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 조금 큰데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "라인은 작은게 이뿔거 같긴해요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "그냥 크게 입을려구요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "20686",
+    "RawText": "단추끼우는 홈 부분  바느질실밥이  너무지저분하네요 한 두푼 옷도 아닌데 마감이... 참고 하셨음 합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 하** 롱 트렌치 코트",
+    "ReviewScore": "40",
+    "Syllable": "58",
+    "Word": "13",
+    "RDate": "20210901",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "마감",
+        "SentimentText": "바느질실밥이  너무지저분하네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "한 두푼 옷도 아닌데 마감이...",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "20693",
+    "RawText": "디자인 심플하고  깔끔해서  구매  했는데  색상 너무너무  예쁘고 완전 만족 합니다. 지인에게  추천하고 싶습니다.~~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 하** 롱 트렌치 코트",
+    "ReviewScore": "100",
+    "Syllable": "67",
+    "Word": "14",
+    "RDate": "20210901",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 심플하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "깔끔해서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상 너무너무  예쁘고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20702",
+    "RawText": "디자인 고급스럽고 너무 예뻐요 좋은 조건에 싸게 구매해서 더 맘에 들어요~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 하** 롱 트렌치 코트",
+    "ReviewScore": "100",
+    "Syllable": "41",
+    "Word": "11",
+    "RDate": "20210821",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 고급스럽고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "너무 예뻐요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸게 구매해서 더 맘에 들어요~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20703",
+    "RawText": "디자인  입으면  몸에  착붙는  느낌있는옷이라서  구입했어요, 핏이 이뿌네요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 하** 롱 트렌치 코트",
+    "ReviewScore": "80",
+    "Syllable": "44",
+    "Word": "8",
+    "RDate": "20210823",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인  입으면  몸에  착붙는  느낌있는옷이라서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏이 이뿌네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20704",
+    "RawText": "배송 1주일 걸렸고 상품 좋습니다 옷걸이와 커버가 없어 아쉽지만 가걱이 착해 좋습니다 펑소 44~55입어서 S사이즈 주문했고 잘 맞으나 팔길이는 다소 길어 수선이 필요하네요 참...지난주 방송시 적립금 20만 포인트가 있다 했는데  어떻게 받는지 알려주세요 -적립금은 구매  당일 신청해야하고 이마저 15일내 소진해야 한다네요 .  이벤트 페이지에 그렇게 써있다고...그걸 누가 본다고...구매시 안내톡도 없었고 ..구매한거 다 아는데 꼭 신청해야 주는것도 ....뭐 이건 안줄라고 넘 애를 쓰네요..반품고려하게 되네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 하** 롱 트렌치 코트",
+    "ReviewScore": "20",
+    "Syllable": "290",
+    "Word": "63",
+    "RDate": "20210821",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가걱이 착해 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "S사이즈 주문했고 잘 맞으나",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "팔길이는 다소 길어",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "수선이 필요하네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "20706",
+    "RawText": "조금 무게감이 있지만 역시 버버리 코트는 품질이 최고 입니다~~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 하** 롱 트렌치 코트",
+    "ReviewScore": "100",
+    "Syllable": "35",
+    "Word": "9",
+    "RDate": "20210805",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "조금 무게감이 있지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "역시 버버리 코트는 품질이 최고 입니다~~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20713",
+    "RawText": "지난번에 타홈쇼핑서 구매해본거는 겉감이 100%면이라 정말 가벼워서  좋았는데 이건 무겁네요 그상품은 사이즈가 조금 작아서 반품했지만~~ 이상품은 많이 무겁네요^^ 안감도 나일론으로인거같고 좀 별루인 듯^^ 조금저렴해서 그냥 반품 안하고  무거워도 입을려구요^^ 확실히 소재가 다르니  그런가봐요 안감체크도   소재가 다르니 약간 실망^^ 어디서 만들었는지 궁금합니다^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 하** 롱 트렌치 코트",
+    "ReviewScore": "100",
+    "Syllable": "207",
+    "Word": "41",
+    "RDate": "20210731",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "정말 가벼워서  좋았는데 이건 무겁네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "이상품은 많이 무겁네요^^",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "안감도 나일론으로인거같고 좀 별루인 듯^^",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "조금저렴해서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재가 다르니 약간 실망^^",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무거워도 입을려구요^^",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "20715",
+    "RawText": "디자인이 고급스러워요 . 찾고 있던 상품 저렴하게 잘 구매했습니다 . 감사합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 하** 롱 트렌치 코트",
+    "ReviewScore": "100",
+    "Syllable": "44",
+    "Word": "11",
+    "RDate": "20210717",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 고급스러워요 . ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘 구매했습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20716",
+    "RawText": "디자인이 너무 맘에 들어요 평생템인데 드디어 구매했어요 나를 위한 선물로^^ 강추합니다 24개월 무이자와 적립금도 굿굿굿♡ oo쇼핑 사랑해요♡♡♡",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 하** 롱 트렌치 코트",
+    "ReviewScore": "100",
+    "Syllable": "81",
+    "Word": "17",
+    "RDate": "20210731",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 너무 맘에 들어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "24개월 무이자와 적립금도 굿굿굿♡",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20722",
+    "RawText": "딸 생일 선물로 사주었는데 너무 맘에 들어해요.평소에 꼭사주고 싶어  눈여겨 봤는데 좋은가격으로 잘 구매했어요.  사이즈,색감 너무 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 하** 롱 트렌치 코트",
+    "ReviewScore": "100",
+    "Syllable": "77",
+    "Word": "17",
+    "RDate": "20210714",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은가격으로 잘 구매했어요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈,색감 너무 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색감 너무 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20725",
+    "RawText": "좀 작은거 같은데 팔은 길고 잘 코디해서 입어야 될꺼같아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 프** 퀼팅 자켓",
+    "ReviewScore": "100",
+    "Syllable": "32",
+    "Word": "9",
+    "RDate": "20210925",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "좀 작은거 같은데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "팔은 길고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "잘 코디해서 입어야 될꺼같아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "20728",
+    "RawText": "버버리 명성답게 흐느적거리는 원단 아닙니다. 소매도 접을수 있도록 넉넉한 기장이구요, 허리 약간 라인들어간 디자인이네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 프** 퀼팅 자켓",
+    "ReviewScore": "100",
+    "Syllable": "66",
+    "Word": "14",
+    "RDate": "20210831",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "흐느적거리는 원단 아닙니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "소매도 접을수 있도록 넉넉한 기장이구요,",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "허리 약간 라인들어간 디자인이네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20729",
+    "RawText": "디자인이 이뻐요  살짝  신축성이  있으면  좋을텐데 그래도  사이즈가   생각보다  여유가 있어서 다행이네요  잘입을것같네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 프** 퀼팅 자켓",
+    "ReviewScore": "100",
+    "Syllable": "70",
+    "Word": "13",
+    "RDate": "20210828",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 이뻐요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": "살짝  신축성이  있으면  좋을텐데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": " 사이즈가   생각보다  여유가 있어서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20730",
+    "RawText": "역시 명품이네요 소재가 좋고 디자인도  오래입어도 싫증나지않을듯 하네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 프** 퀼팅 자켓",
+    "ReviewScore": "100",
+    "Syllable": "39",
+    "Word": "8",
+    "RDate": "20210903",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재가 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도  오래입어도 싫증나지않을듯 하네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20731",
+    "RawText": "며느리줄려고 m 사서 오늘 주었더니  딱맞다고 좋아하네요   그런데  10년전  사서 입은 퀄팅은 다이아몬드무늬가   단추을 잠가도 딱 맞고  좋았는데 이건 퀼팅 무늬가 마음대로네요    그냥  며느리가 입는다고해서  반품은 안했지만 검수가 제대로 안되었네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 프** 퀼팅 자켓",
+    "ReviewScore": "80",
+    "Syllable": "144",
+    "Word": "30",
+    "RDate": "20210903",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "딱맞다고 좋아하네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "퀼팅 무늬가 마음대로네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "20733",
+    "RawText": "품과 길이는 딱 좋은데 소매가 많이 크네요 어느정도 알고 산거라 마음에는 들어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 프** 퀼팅 자켓",
+    "ReviewScore": "80",
+    "Syllable": "44",
+    "Word": "12",
+    "RDate": "20210827",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "품과 길이는 딱 좋은데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "길이는 딱 좋은데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "소매가 많이 크네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "20735",
+    "RawText": "자켓은 66입는데 L사이즈 구입.  소매길고 옷도 크네요.  그런데 옷 자체가 스판이 없어서 M사이즈 샀으면 불편했을거 같아요.   뒤의끈을 줄이니 뻣뻣해서 옷태가 살지 않아요. 그냥 장식인듯 합니다.  진한 네이비라 색은 마음에 듭니다.  넉넉해서 편하게 걸치기 좋네요. 이너를 얇게 입으려면 66이신분들은 M사이즈도 괜찮을듯 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 프** 퀼팅 자켓",
+    "ReviewScore": "100",
+    "Syllable": "188",
+    "Word": "41",
+    "RDate": "20210829",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "길이",
+        "SentimentText": "소매길고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": " 옷도 크네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": "옷 자체가 스판이 없어서 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "진한 네이비라 색은 마음에 듭니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "넉넉해서 편하게 걸치기 좋네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": " M사이즈 샀으면 불편했을거 같아요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "뻣뻣해서 옷태가 살지 않아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "이너를 얇게 입으려면 66이신분들은 M사이즈도 괜찮을듯 합니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20736",
+    "RawText": "베이지 사고싶었는데 매진되어 네이비주문했어요. 사이즈도 좋고 따뜻해서 갠찮은듯~ 간절기 옷으료 잘 입을것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 프** 퀼팅 자켓",
+    "ReviewScore": "100",
+    "Syllable": "63",
+    "Word": "13",
+    "RDate": "20210901",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈도 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻해서 갠찮은듯~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "간절기 옷으료 잘 입을것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20738",
+    "RawText": "엄마 선물로 구매했어요. 배송때문에 이래저래 좀일이있었지만 제품이좋아서 상품평남깁니다. 소매는 긴편이지만 품이 넉넉하구여 디자인은 실물이 훨씬이뻐요 가슴둘레때문에 상세사이즈 없어서 엄청불안했는데 핏이 이뻐서 다행입니다. 평소 88입으시는데 XL 어깨 가슴둘레 잘맞으세요 자주 잘입을거같다고 좋아하시네요  15일에주문해서 배송기다리고있는데 10일이지나도 안와서 문의했더니 물량이없다고 그제서야 환불해준다는 업체가 어디있나요. 매진도아니었는데 .. 더구나 22일이랑 29일에도 방송은 또 하고 ..   일하다 전화받고 너무 당황스럽고 화나서 상담원분께 막해버렸는데 생각해보니 그분은 전달만하시는거였을텐데 잘처리해주셔서 고맙고 미안합니다. ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 프** 퀼팅 자켓",
+    "ReviewScore": "100",
+    "Syllable": "355",
+    "Word": "63",
+    "RDate": "20210901",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "길이",
+        "SentimentText": "소매는 긴편이지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "품이 넉넉하구여",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인은 실물이 훨씬이뻐요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "평소 88입으시는데 XL 어깨 가슴둘레 잘맞으세요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏이 이뻐서 다행입니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20739",
+    "RawText": "사이즈가 조금커서 한 사이즈 작은 것으로 구매하고 싶었는데 품절이라 못 했어요~  적립금 혜택 주셔서 구매했습니다!",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 프** 퀼팅 자켓",
+    "ReviewScore": "100",
+    "Syllable": "64",
+    "Word": "15",
+    "RDate": "20210924",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 조금커서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "적립금 혜택 주셔서 구매했습니다!",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20740",
+    "RawText": "팔이 좀길긴하지만 적립금 포함하면 저렴하게 구입한것 같아서 반품 하지 앐고 그냥 입습니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 프** 퀼팅 자켓",
+    "ReviewScore": "100",
+    "Syllable": "49",
+    "Word": "12",
+    "RDate": "20210901",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "길이",
+        "SentimentText": "팔이 좀길긴하지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "적립금 포함하면 저렴하게 구입한것 같아서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20743",
+    "RawText": "좋아요 키작녀에다 모뮤게가 좀 나가는데 버버리롱패딩 미듐이 살짝 쨍기는 느낌으로 입고다니거등요) 근데 이건 미듐이 쨍기지도 안고 딱좋아요. 디자인 맘에 들어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 프** 퀼팅 자켓",
+    "ReviewScore": "100",
+    "Syllable": "88",
+    "Word": "20",
+    "RDate": "20210901",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "미듐이 쨍기지도 안고 딱좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 맘에 들어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20744",
+    "RawText": "색감도 이쁘고 믿고 입습니다.팔길이는 접어 입으니 핏이 이뻐요 맘에들어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 프** 퀼팅 자켓",
+    "ReviewScore": "100",
+    "Syllable": "40",
+    "Word": "9",
+    "RDate": "20210903",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색감도 이쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "팔길이는 접어 입으니 핏이 이뻐요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20748",
+    "RawText": "버버리 퀼티  호심탐탐노리다 ㅇ쇼핑에서 20마넌 적립금 프로모션으로 구매했어요 교환진행이 좀늦어서 문의했었는데 바로 진향되어서 불만은없습니다 꼼꼼한바느질에 디자인이 너무너무 이뻐요 잘입을께욤 다른곳보다 정말 저렴히삿네요 완전만족입니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 프** 퀼팅 자켓",
+    "ReviewScore": "100",
+    "Syllable": "130",
+    "Word": "23",
+    "RDate": "20210815",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "적립금 프로모션으로 구매했어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "꼼꼼한바느질에",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 너무너무 이뻐요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "다른곳보다 정말 저렴히삿네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20749",
+    "RawText": "교환이좀 오래걸려서 불만이었으나 휴가기간인걸 감안해서 이해하기로 했습니다 제품은 품질은 너무 훌륭합니다 어서 늦가을이 되어 입어보고싶습니다 외국인들 체형기준이라 그런지 소매는 많이긴듯하고 품도 넉넉하네요 타이트하거나 그렇진않습니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 프** 퀼팅 자켓",
+    "ReviewScore": "100",
+    "Syllable": "128",
+    "Word": "24",
+    "RDate": "20210823",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질은 너무 훌륭합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "소매는 많이긴듯하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": " 품도 넉넉하네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "타이트하거나 그렇진않습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20752",
+    "RawText": "눈 여겨 봤던 상품을 구매하고, 적립금도 받아 만족합니다. 평소 55 입는데, S 사이즈로 구매했더니 잘 맞네요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 프** 퀼팅 자켓",
+    "ReviewScore": "100",
+    "Syllable": "63",
+    "Word": "16",
+    "RDate": "20210818",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "적립금도 받아 만족합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "S 사이즈로 구매했더니 잘 맞네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20754",
+    "RawText": "늘 구입하고 싶었던 옷을 드뎌 득템했습니다 핏도 세월을 함께 할 디자인 모두 마음에 듭니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 프** 퀼팅 자켓",
+    "ReviewScore": "100",
+    "Syllable": "50",
+    "Word": "14",
+    "RDate": "20210822",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏도 세월을 함께 할 디자인 모두 마음에 듭니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "세월을 함께 할 디자인 모두 마음에 듭니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20755",
+    "RawText": "블랙 구매하고 싶었는데 방송을 늦게 보는 바람에 블랙은 매진이라 네이비 구매했는데...진한 네이비라 맘에 드네요~역시 바느질 꼼꼼하고 편하게 자주 입어질 스타일입니다. 계속 눈여겨보다가 OO쇼핑이 조건이 좋아서 바로 구매했네요~^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 프** 퀼팅 자켓",
+    "ReviewScore": "100",
+    "Syllable": "129",
+    "Word": "27",
+    "RDate": "20210821",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "진한 네이비라 맘에 드네요~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "역시 바느질 꼼꼼하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편하게 자주 입어질 스타일입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20760",
+    "RawText": "사이즈는 95입는데 적당하네요 겨울에 익으면 따뜻하게입을듯해요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 프** 퀼팅 자켓",
+    "ReviewScore": "80",
+    "Syllable": "34",
+    "Word": "6",
+    "RDate": "20210816",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈는 95입는데 적당하네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "겨울에 익으면 따뜻하게입을듯해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20761",
+    "RawText": "벼르고 별러서 샀네요. 품질이 넘 맘에드네요. 네이비.블랙 고민하다가 네이비샀는데 굿이네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 프** 퀼팅 자켓",
+    "ReviewScore": "100",
+    "Syllable": "50",
+    "Word": "10",
+    "RDate": "20210826",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 넘 맘에드네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "네이비샀는데 굿이네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20768",
+    "RawText": "살짝크긴하지만 디자인이 고급스럽고 예쁘네요 베이지가 매진되어 아쉽지만 다음엔 베이지도  구매할 생각이네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 프** 퀼팅 자켓",
+    "ReviewScore": "100",
+    "Syllable": "58",
+    "Word": "11",
+    "RDate": "20210806",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "살짝크긴하지만",
+        "SentimentWord": "1",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 고급스럽고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "베이지가 매진되어 아쉽지만  ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "예쁘네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20770",
+    "RawText": "팔이 좀길어서 망설였으나..겨울옷이랑 좀 넉넉히 입을까 하네요.. 베이지는  구입하는것도 힘들었지만..  적립금도 많이주고 다른곳보다 너무 착한가격에 만족스럽네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 프** 퀼팅 자켓",
+    "ReviewScore": "100",
+    "Syllable": "90",
+    "Word": "16",
+    "RDate": "20210810",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "길이",
+        "SentimentText": "팔이 좀길어서 망설였으나..",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "적립금도 많이주고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "너무 착한가격에 만족스럽네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20772",
+    "RawText": "평상시 55-66입는데 m 사이즈  좀 커요~ 겨울옷입을생각에 작은것보다 나은것 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 프** 퀼팅 자켓",
+    "ReviewScore": "100",
+    "Syllable": "48",
+    "Word": "10",
+    "RDate": "20210810",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "m 사이즈  좀 커요~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "작은것보다 나은것 같아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "20773",
+    "RawText": "딱 맞네요 디자인이 이뻐용 다른색상도 구입하고 싶네용 ㅎㅎㅎ여유가 되면 베이지색도",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 프** 퀼팅 자켓",
+    "ReviewScore": "100",
+    "Syllable": "45",
+    "Word": "10",
+    "RDate": "20210812",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "딱 맞네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 이뻐용",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20782",
+    "RawText": "강력  추천요 디자인이 고급지고  예쁜데 가격까지 제일 저렴해요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 프** 퀼팅 자켓",
+    "ReviewScore": "100",
+    "Syllable": "35",
+    "Word": "8",
+    "RDate": "20210803",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 고급지고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "예쁜데",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격까지 제일 저렴해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20794",
+    "RawText": "핏이뻐요~ 색상은딱버버리네요~ 날선선해지고입으면이쁘겠어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 프** 퀼팅 자켓",
+    "ReviewScore": "100",
+    "Syllable": "31",
+    "Word": "3",
+    "RDate": "20210728",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏이뻐요~",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상은딱버버리네요~",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "날선선해지고입으면이쁘겠어요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20807",
+    "RawText": "적립금이 이렇게 큰 경우는 처음이었어요. 카드할인으로 할인받고 게다가 적립금까지 하다보니 60만원대에 살수 있었네요. 아직은 더워서 바로 입을수는 없지만 이제 추석 지나고 바람 불어오기 시작하면 바로 입을수 있을것 같아요. 사이즈는 일반적인 사이즈 이고, 색감도 네이비가 젊어보이고 좋은것 같아요. 주말껴서 배송이 조금 늦긴 했지만 그렇다고 그리 늦은것 아닌것 같아요. 잘 입을게요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 프** 퀼팅 자켓",
+    "ReviewScore": "100",
+    "Syllable": "214",
+    "Word": "49",
+    "RDate": "20210731",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "적립금이 이렇게 큰 경우는 처음이었어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "카드할인으로 할인받고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "적립금까지 하다보니 60만원대에 살수 있었네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "아직은 더워서 바로 입을수는 없지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "바람 불어오기 시작하면 바로 입을수 있을것 같아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈는 일반적인 사이즈 이고, ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색감도 네이비가 젊어보이고 좋은것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20822",
+    "RawText": "통통77인데 남자s샀는데 딱맞네요 디쟌이 예뻐요 두터뭐서  추위도 잘막아줄듯",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 클** 후드집업",
+    "ReviewScore": "100",
+    "Syllable": "42",
+    "Word": "8",
+    "RDate": "20210822",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "딱맞네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디쟌이 예뻐요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "두터뭐서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "추위도 잘막아줄듯",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20834",
+    "RawText": "가볍고 톤다운된 색상이 맘에 들고 어깨에서 미끄러 내리지 않고  안착이 돼서 편하고 두께도 적당해서 여름만 제외하고 폭넓게 사용가능하네요 다만 중앙에 작은 검은점이 있어서 교환하고 싶었는데 매진이라  못한것이 아쉽네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 스** 체크 숄",
+    "ReviewScore": "80",
+    "Syllable": "121",
+    "Word": "28",
+    "RDate": "20210915",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": " 어깨에서 미끄러 내리지 않고  안착이 돼서 편하고 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "두께도 적당해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "여름만 제외하고 폭넓게 사용가능하네요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "톤다운된 색상이 맘에 들고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20838",
+    "RawText": "진짜 포장은 별로인데~ 머플러는 착용하니 자연스럽고 좋으네요. 비싸게 구입했으니 열심히 잘 하고 다녀야겠네요.^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 스** 체크 숄",
+    "ReviewScore": "100",
+    "Syllable": "63",
+    "Word": "13",
+    "RDate": "20210905",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "머플러는 착용하니 자연스럽고 좋으네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "비싸게 구입했으니 열심히 잘 하고 다녀야겠네요.^^",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20846",
+    "RawText": "사이즈 커서 좋아요 얇아서 가볍고  사계절 사용 가능합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 스** 체크 숄",
+    "ReviewScore": "100",
+    "Syllable": "32",
+    "Word": "8",
+    "RDate": "20210822",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈 커서 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇아서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "사계절 사용 가능합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20850",
+    "RawText": "잠깐 걸쳐봤는데 따뜻하고 가볍네요 하나 사 두면 오래오래 잘 쓸꺼같아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 스** 체크 숄",
+    "ReviewScore": "100",
+    "Syllable": "39",
+    "Word": "10",
+    "RDate": "20210822",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍네요 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20856",
+    "RawText": "어느 옷이나 패션에도 잘 어울려서 가을부터 잘 활용할수 있겠어요 적립금도 많이받아서 좋은 쇼핑했네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 스** 체크 숄",
+    "ReviewScore": "100",
+    "Syllable": "55",
+    "Word": "13",
+    "RDate": "20210807",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "활용성",
+        "SentimentText": "어느 옷이나 패션에도 잘 어울려서 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": " 가을부터 잘 활용할수 있겠어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "적립금도 많이받아서 좋은 쇼핑했네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20866",
+    "RawText": "디자인 아주 고급져보여 마음에 쏙 듭니다 찬바람불면 예쁘게 잘할것겉어요 데일리로 쓰겠어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 스** 체크 숄",
+    "ReviewScore": "100",
+    "Syllable": "49",
+    "Word": "11",
+    "RDate": "20210803",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 아주 고급져보여 마음에 쏙 듭니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "찬바람불면 예쁘게 잘할것겉어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "데일리로 쓰겠어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20873",
+    "RawText": "생각보다 얇긴하지만 다용도로 잘 쓸것 같아요. 빨리 찬바람이 불었으면 좋겠어요. 적립금도 기대~~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 스** 체크 숄",
+    "ReviewScore": "100",
+    "Syllable": "54",
+    "Word": "12",
+    "RDate": "20210731",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "생각보다 얇긴하지만 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": " 다용도로 잘 쓸것 같아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20875",
+    "RawText": "사이즈가 그리 크지도않고 적당해요. 디자인 멋스럽네요. 적립금도 많고 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 스** 체크 숄",
+    "ReviewScore": "100",
+    "Syllable": "45",
+    "Word": "9",
+    "RDate": "20210728",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 그리 크지도않고 적당해요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "적당해요.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 멋스럽네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20877",
+    "RawText": "좋은가격에 구매해서 좋아요 디자인도  맘에들어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 스** 체크 숄",
+    "ReviewScore": "100",
+    "Syllable": "26",
+    "Word": "5",
+    "RDate": "20210716",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은가격에 구매해서 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도  맘에들어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20920",
+    "RawText": "편한옷이긴한데 목이좀 약간 조이는듯 불편하지만 크게 문제될것은 없습니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 썸** 트레이닝 6종 세트",
+    "ReviewScore": "60",
+    "Syllable": "39",
+    "Word": "8",
+    "RDate": "20210815",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편한옷이긴한데",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "목이좀 약간 조이는듯 불편하지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "20921",
+    "RawText": "가격대비 아주 편해요. 운동,산책할때 잘 입고있어요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 썸** 트레이닝 6종 세트",
+    "ReviewScore": "100",
+    "Syllable": "29",
+    "Word": "6",
+    "RDate": "20210822",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 아주 편해요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "운동,산책할때 잘 입고있어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20924",
+    "RawText": "블랙바지  재질이 쫌 떨어지는듯  나머진 양호 화이트 티 빼고 블랙였으면 좋겠음",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 썸** 트레이닝 6종 세트",
+    "ReviewScore": "40",
+    "Syllable": "44",
+    "Word": "11",
+    "RDate": "20210815",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "블랙바지 재질이 쫌 떨어지는듯",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "화이트 티 빼고 블랙였으면 좋겠음",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "20928",
+    "RawText": "옷이 시원하면서 편하게  입을수 있어 좋아요!",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 썸** 트레이닝 6종 세트",
+    "ReviewScore": "100",
+    "Syllable": "25",
+    "Word": "6",
+    "RDate": "20210812",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "옷이 시원하면서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": " 편하게  입을수 있어 좋아요!",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20960",
+    "RawText": "싸고 가볍고체육복으로는 최고입니다 아주잘쌌어요 해게해주어서감사합다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 썸** 트레이닝 6종 세트",
+    "ReviewScore": "100",
+    "Syllable": "36",
+    "Word": "5",
+    "RDate": "20210705",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "체육복으로는 최고입니다 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20962",
+    "RawText": "원단이 많이 얇네요 그래도 저렴한가격에 일하는 작업복으로는 딱이네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 썸** 트레이닝 6종 세트",
+    "ReviewScore": "100",
+    "Syllable": "37",
+    "Word": "8",
+    "RDate": "20210705",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "원단이 많이 얇네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한가격에",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "일하는 작업복으로는 딱이네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "20965",
+    "RawText": "키 170  몸무게 69kg   100사이즈 티셔츠 바지기장 정사이즈 딱 좋아요~~운동복으로 아주 만족합니다~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 썸** 트레이닝 6종 세트",
+    "ReviewScore": "100",
+    "Syllable": "61",
+    "Word": "12",
+    "RDate": "20210709",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": " 정사이즈 딱 좋아요~~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "운동복으로 아주 만족합니다~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20970",
+    "RawText": "불량와서 교환했는데 트레이닝이 안오고 티가 왔네요  세번은 구찮아  신랑 보고 입으라 했음ㅎ 가격은 같은거라 이번엔 구냥 넘어감  아빠 주려고 했는데   난중에 다시 주문 해야겠음 아 블랙 바지가 질이 젤 안좋아요  올풀림도 심할꺼 가트고  다른  옷감으로 내년엔 사용 하시길   꼭 꼭  화이트 티도 색상 별로 그냥 블랙으로",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 썸** 트레이닝 6종 세트",
+    "ReviewScore": "20",
+    "Syllable": "182",
+    "Word": "46",
+    "RDate": "20210709",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "블랙 바지가 질이 젤 안좋아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "올풀림도 심할꺼 가트고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "다른  옷감으로 내년엔 사용 하시길   꼭 꼭",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "화이트 티도 색상 별로",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "20971",
+    "RawText": "좋은가격에 잘 구매했습니다. 특히 티셔츠가 너무 시원하고 좋아요^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 소** 썸머 자켓 + 티셔츠 3종세트",
+    "ReviewScore": "100",
+    "Syllable": "37",
+    "Word": "8",
+    "RDate": "20210722",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은가격에 잘 구매했습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "티셔츠가 너무 시원하고 좋아요^^",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20973",
+    "RawText": "디자인이 세련되고 편안하고 좋아요 ~^^   멋지게 잘 입을게요 ~~~^^♡♡♡♡",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 소** 썸머 자켓 + 티셔츠 3종세트",
+    "ReviewScore": "100",
+    "Syllable": "45",
+    "Word": "9",
+    "RDate": "20210907",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 세련되고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편안하고 좋아요 ~^^ ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20979",
+    "RawText": "딱 원하는 스타일 구매해서 기분 좋네요 착용감 편해서 맘에 듭니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 태** 파카 ",
+    "ReviewScore": "100",
+    "Syllable": "36",
+    "Word": "10",
+    "RDate": "20210901",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "원하는 스타일 구매해서 기분 좋네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감 편해서 맘에 듭니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20985",
+    "RawText": "허리가 들어간 디자인이라 여성스럽고 안쪽이 플리스라 따뜻한데 입고벗을때 뻑뻑하고 정전기 잘 생겨요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 보** 덕 패딩자켓 1종",
+    "ReviewScore": "100",
+    "Syllable": "54",
+    "Word": "12",
+    "RDate": "20211213",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "허리가 들어간 디자인이라 여성스럽고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "안쪽이 플리스라 따뜻한데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": "입고벗을때 뻑뻑하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "정전기 잘 생겨요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "20989",
+    "RawText": "털이너무 삐져나와  여기저기 찌릅니다   길이도 맞고 따뜻하긴한데    ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 보** 덕 패딩자켓 1종",
+    "ReviewScore": "60",
+    "Syllable": "40",
+    "Word": "7",
+    "RDate": "20211229",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "털이너무 삐져나와  여기저기 찌릅니다  ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "길이도 맞고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻하긴한데  ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20993",
+    "RawText": "디자인도 좋고 기장이 엉덩이도 가려주고  따뜻하고 가벼워서 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 보** 덕 패딩자켓 1종",
+    "ReviewScore": "100",
+    "Syllable": "36",
+    "Word": "8",
+    "RDate": "20220114",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "기장이 엉덩이도 가려주고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워서 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "20995",
+    "RawText": "사이즈가77 인데 좀 빡빡한 것과 늦겨울이나 초봄에 입으면 좋을것같습니다~~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 보** 덕 패딩자켓 1종",
+    "ReviewScore": "80",
+    "Syllable": "42",
+    "Word": "9",
+    "RDate": "20220215",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가77 인데 좀 빡빡한 것과",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "늦겨울이나 초봄에 입으면 좋을것같습니다~~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]

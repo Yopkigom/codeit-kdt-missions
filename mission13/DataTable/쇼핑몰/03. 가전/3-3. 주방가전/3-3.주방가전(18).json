@@ -1,0 +1,2851 @@
+[
+  {
+    "Index": "8229",
+    "RawText": "○○이라 구매했어요 간편하고 잘 되네요 31년 쓴 ○○제품 좋네요",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "삼성전자 전자레인지 MS23K3523AK (23L/블랙)_",
+    "ReviewScore": "100",
+    "Syllable": "36",
+    "Word": "9",
+    "RDate": "20210808",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성",
+        "SentimentText": "간편하고 잘 되네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "31년 쓴 ○○제품 좋네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "8230",
+    "RawText": "쓰던 전자레인지가 고장나서..바꿨어요... 디자인도 깔끔하구 소음도 없구 아주만족해요",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "삼성전자 전자레인지 MS23K3523AK (23L/블랙)_",
+    "ReviewScore": "100",
+    "Syllable": "47",
+    "Word": "8",
+    "RDate": "20210807",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 깔끔하구 소음도 없구 아주만족해요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "깔끔하구 소음도 없구 아주만족해요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "8231",
+    "RawText": "믿고쓰는  00이라 구매했어요 간편하고 편리할것 같아요",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "삼성전자 전자레인지 MS23K3523AW(23L/화이트)_",
+    "ReviewScore": "100",
+    "Syllable": "30",
+    "Word": "6",
+    "RDate": "20211118",
+    "Aspects": [
+      {
+        "Aspect": "제조일/제조사",
+        "SentimentText": "믿고쓰는  00이라 구매했어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "간편하고 편리할것 같아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "8232",
+    "RawText": "색상도 마음에들고 크기도 적당 사용이 간편할것같다",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "삼성전자 전자레인지 MS23K3523AW(23L/화이트)_",
+    "ReviewScore": "100",
+    "Syllable": "27",
+    "Word": "6",
+    "RDate": "20210823",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 마음에들고 크기도 적당 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "크기도 적당 사용이 간편할것같다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "사용이 간편할것같다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "8233",
+    "RawText": "딱 혼자사는 사람이 쓰면 좋을 것 같아요~ 쓰기 편하고 잘 작동됩니다",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "이노소닉 20리터 전자레인지/미니/원룸/자취 추천 상품 ",
+    "ReviewScore": "100",
+    "Syllable": "38",
+    "Word": "11",
+    "RDate": "20210813",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성",
+        "SentimentText": "쓰기 편하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "잘 작동됩니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "8234",
+    "RawText": "깔끔한 디자인과 성능이 좋아요. 다만 처음쓸땐 살짝 어려운데 지금은 편하네요!",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠잉 레트로 전자레인지 20L MC-R20EB",
+    "ReviewScore": "100",
+    "Syllable": "43",
+    "Word": "10",
+    "RDate": "20211201",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "깔끔한 디자인과 성능이 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "성능이 좋아요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "다만 처음쓸땐 살짝 어려운데 지금은 편하네요!",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "8235",
+    "RawText": "밥잘되고 맛있고 좋네요ㅎㅎ  기능도 다양해서 좋고~ 압력솥 준다고 본거 같은데 아닌가요? ",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV) 쿠쿠 전기 압력밥솥 CRP-R1010FC 10인용",
+    "ReviewScore": "100",
+    "Syllable": "50",
+    "Word": "11",
+    "RDate": "20200717",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성",
+        "SentimentText": "밥잘되고 맛있고 좋네요ㅎㅎ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "기능도 다양해서 좋고~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "8236",
+    "RawText": "잡곡밥도 잘되고 예약하기편해 잘 사용하고있습니다~",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV) 쿠쿠 전기 압력밥솥 CRP-R1010FC 10인용",
+    "ReviewScore": "100",
+    "Syllable": "27",
+    "Word": "5",
+    "RDate": "20191126",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "잡곡밥도 잘되고 예약하기편해 잘 사용하고있습니다~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "예약하기편해 잘 사용하고있습니다~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "8237",
+    "RawText": "화면에서 보는거보다 더이쁘네용 배송빠르고요 넘좋아용 삶는 것과 같은 세척효과로 안심하고 사용합니다 ",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV) 쿠쿠 전기 압력밥솥 CRP-R1010FC 10인용",
+    "ReviewScore": "100",
+    "Syllable": "55",
+    "Word": "11",
+    "RDate": "20180811",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "화면에서 보는거보다 더이쁘네용",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "삶는 것과 같은 세척효과로 안심하고 사용합니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "8238",
+    "RawText": "뚜껑이 너무 헐렁해서ㅠㅠ 고객센타 전화했더니 3일동안 자동응답만 반복되고 안받아요 이상한 회사같아요 처음 써보는 ooo 다시는 사용 안할 거 같아요",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV)까사맘 스마트쿠커",
+    "ReviewScore": "20",
+    "Syllable": "82",
+    "Word": "19",
+    "RDate": "20220126",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "뚜껑이 너무 헐렁해서ㅠㅠ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제조일/제조사",
+        "SentimentText": "처음 써보는 ooo 다시는 사용 안할 거 같아요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "8239",
+    "RawText": "부모님이 엄청좋아하시네요.. 작동하기에 편하고 음식도 맛나게 잘되었다고 하시네요",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV)까사맘 스마트쿠커",
+    "ReviewScore": "100",
+    "Syllable": "44",
+    "Word": "8",
+    "RDate": "20211102",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "조작성",
+        "SentimentText": "작동하기에 편하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "음식도 맛나게 잘되었다고 하시네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "8240",
+    "RawText": "압력으로 요리 하니 빨리되고 너무 맛있네요~ 잘 활용해야겠어요~ 다만 압력추 부분이 보완되면 좋을듯 하네요",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV)까사맘 스마트쿠커",
+    "ReviewScore": "100",
+    "Syllable": "59",
+    "Word": "14",
+    "RDate": "20220207",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "압력으로 요리 하니 빨리되고 너무 맛있네요~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "다만 압력추 부분이 보완되면 좋을듯 하네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "8241",
+    "RawText": "압력조절밸브를  닫힘과 열림을 정확히 해줘야는데 이건 뭐 계속 돌아가네요 적당히 맞춰서 하라는건지 사용중에 계속 스팀이 나와서 참 황당하네요 내솥이 다 타고  에휴~~~~~~~ 압력밥솥처럼 못만드나요? 짜증나서 버리든가 해야지 에효~~~~~~",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV)까사맘 스마트쿠커",
+    "ReviewScore": "10",
+    "Syllable": "135",
+    "Word": "28",
+    "RDate": "20210423",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "사용중에 계속 스팀이 나와서 참 황당하네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성",
+        "SentimentText": "내솥이 다 타고  에휴~~~~~~~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "8242",
+    "RawText": "요리할  때  소리도 안나고 냄새도  나지  않고  시간도  짧아  좋아요",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV)까사맘 스마트쿠커",
+    "ReviewScore": "100",
+    "Syllable": "41",
+    "Word": "10",
+    "RDate": "20210514",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소음",
+        "SentimentText": "요리할  때  소리도 안나고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "냄새도  나지  않고  ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "시간도  짧아  좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "8243",
+    "RawText": "정말 좋아요. 사용하기도 편하고, 무엇보다도 사이즈가 넉넉해서 많은 양도 거뜬히 할 수있어요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV)까사맘 스마트쿠커",
+    "ReviewScore": "100",
+    "Syllable": "52",
+    "Word": "12",
+    "RDate": "20210120",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성",
+        "SentimentText": "사용하기도 편하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "무엇보다도 사이즈가 넉넉해서 많은 양도 거뜬히 할 수있어요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "8244",
+    "RawText": "밥을 푼후 뚜껑 닫기가 힘듭니다. 약간 압력을 뺀후 닫아야합니다.사용은 간편합니다.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV)쿠첸 가마솥엣지 전기압력밥솥 10인용",
+    "ReviewScore": "100",
+    "Syllable": "46",
+    "Word": "10",
+    "RDate": "20190125",
+    "Aspects": [
+      {
+        "Aspect": "조작성",
+        "SentimentText": "밥을 푼후 뚜껑 닫기가 힘듭니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "약간 압력을 뺀후 닫아야합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "사용은 간편합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "8245",
+    "RawText": "배송빠르네요 이제 세척하고 사용해봤는데 가마솥에서 지은 것 같은 와 품질이 끝내줘요 쿠폰으로 저렴하게구매함 잘사용할듯",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV)쿠첸 가마솥엣지 전기압력밥솥 10인용",
+    "ReviewScore": "100",
+    "Syllable": "65",
+    "Word": "14",
+    "RDate": "20181222",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "이제 세척하고 사용해봤는데 가마솥에서 지은 것 같은 와 품질이 끝내줘요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰으로 저렴하게구매함",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "8246",
+    "RawText": "전기밥솥이 고장나서 ○○으로 밥솥을 바꿨는데 밥도 잘돼고 좋네요 ^^모양\u0026디자인도 맘에 들어서 만족하고 있어요♡ 다른사람에게  소개해야 겠어요^^                     ",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV)쿠첸 가마솥엣지 전기압력밥솥 10인용",
+    "ReviewScore": "100",
+    "Syllable": "102",
+    "Word": "16",
+    "RDate": "20181222",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "밥솥을 바꿨는데 밥도 잘돼고 좋네요 ^^",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "모양\u0026디자인도 맘에 들어서 만족하고 있어요♡",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "8247",
+    "RawText": "백미밥은 찰기가 덜한거같아요 잡곡밥은 아직사용전이라 모르겠지만 밥맛은 그럭저럭 먹을만해요 새거라 보온6시간정도 했는데 냄새도 안나고요  단뚜껑 닫을때가 불편한거 빼고는 전반적으로 맘에듭니다",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV)쿠쿠 전기압력밥솥 10인용 (CRP-QW105FG/FS)",
+    "ReviewScore": "60",
+    "Syllable": "105",
+    "Word": "20",
+    "RDate": "20180301",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "백미밥은 찰기가 덜한거같아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "밥맛은 그럭저럭 먹을만해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "단뚜껑 닫을때가 불편한거 빼고는",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "전반적으로 맘에듭니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "8248",
+    "RawText": "기존 사용하는거에 비해 디자인이 넘 고급스럽습니다  저희 가족에 딱 맞은 용량이라 좋습니다 어제 주문했는데 오늘 바로와서 놀랐어요",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV)쿠쿠 전기압력밥솥 10인용 (CRP-QW105FG/FS)_공유배송",
+    "ReviewScore": "100",
+    "Syllable": "72",
+    "Word": "17",
+    "RDate": "20190131",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "기존 사용하는거에 비해 디자인이 넘 고급스럽습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "저희 가족에 딱 맞은 용량이라 좋습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "8249",
+    "RawText": "밥맛이 좋고 다양한 요리를 할수 있어 좋네요 역시 OO네요",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV)쿠쿠 전기압력밥솥 10인용 (CRP-QW105FG/FS)_공유배송",
+    "ReviewScore": "100",
+    "Syllable": "32",
+    "Word": "9",
+    "RDate": "20190215",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "밥맛이 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "다양한 요리를 할수 있어 좋네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "8250",
+    "RawText": "상품 품질이 예술입니다 받자마자 밥을해봤는데 괜찮네요. 더 많은 음식을 해봐야 할것같네용.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV)쿠쿠 전기압력밥솥 10인용 (CRP-QW105FG/FS)_공유배송",
+    "ReviewScore": "100",
+    "Syllable": "50",
+    "Word": "11",
+    "RDate": "20190218",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "상품 품질이 예술입니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "받자마자 밥을해봤는데 괜찮네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "8251",
+    "RawText": "쓰던 솥이 오래되어 바꾸었는데 밥맛도 좋고 쓰기도 편하고 사은품도 좋았네요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV)쿠쿠 전기압력밥솥 10인용 (CRP-QW105FG/FS)_공유배송",
+    "ReviewScore": "100",
+    "Syllable": "42",
+    "Word": "10",
+    "RDate": "20190316",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "밥맛도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "쓰기도 편하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품도 좋았네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "8252",
+    "RawText": "가격대비 너무너무 만족스러워요 디자인도 너무 맘에들고 밥도 너무 잘되네용!!",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV)쿠쿠 전기압력밥솥 10인용 (CRP-QW105FG/FS)_업채배송",
+    "ReviewScore": "100",
+    "Syllable": "42",
+    "Word": "9",
+    "RDate": "20190213",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 너무너무 만족스러워요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 너무 맘에들고 밥도 너무 잘되네용!!",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "밥도 너무 잘되네용!!",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "8253",
+    "RawText": "소프트 스팀캡이 너무 뻑뻑해요 표면에 흡짐이 블랙이라 기스 난게 눈에 더 보여서 너무 별로네요 ",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV)쿠쿠 전기압력밥솥 10인용 (CRP-QW105FG/FS)_업채배송",
+    "ReviewScore": "20",
+    "Syllable": "53",
+    "Word": "14",
+    "RDate": "20190213",
+    "Aspects": [
+      {
+        "Aspect": "조작성",
+        "SentimentText": "소프트 스팀캡이 너무 뻑뻑해요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "표면에 흡짐이 블랙이라 기스 난게 눈에 더 보여서 너무 별로네요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "8254",
+    "RawText": "ooo 쓰던게 죽어서  급하게샀는데 가격 혜택도 여기가 젤 좋았어요 진짜 이뻐요 전 실버샀어요",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV)쿠쿠 전기압력밥솥 10인용 (CRP-QW105FG/FS)_업채배송",
+    "ReviewScore": "100",
+    "Syllable": "52",
+    "Word": "13",
+    "RDate": "20190123",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": " 급하게샀는데 가격 혜택도 여기가 젤 좋았어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": " 진짜 이뻐요 전 실버샀어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "8255",
+    "RawText": "기존밥솥은 10인용  조금 한다해도 항상많이해서 색이 변할때까지...새 밥솥 받자마자 묵은쌀로 밥을 지어보았습니다. 자그만한게 이쁨니다 찰지게 잘되어 맛있게먹었습니다. 취사도중 남은시간을 알수없어 좀 답답합니다.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV)쿠쿠 전기압력밥솥 6인용 (CRP-P067FR/FD)",
+    "ReviewScore": "100",
+    "Syllable": "118",
+    "Word": "22",
+    "RDate": "20190202",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "자그만한게 이쁨니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "찰지게 잘되어 맛있게먹었습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "취사도중 남은시간을 알수없어 좀 답답합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "8256",
+    "RawText": "디자인두 이쁘구 넘좋아여~~사은품두 구성이 좋아서 빨리  받구싶어여~",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV)쿠쿠 전기압력밥솥 6인용 (CRP-P067FR/FD)",
+    "ReviewScore": "100",
+    "Syllable": "38",
+    "Word": "7",
+    "RDate": "20190129",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인두 이쁘구 넘좋아여~~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품두 구성이 좋아서 빨리  받구싶어여~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "8257",
+    "RawText": "좋은제품을 빠르게 배송해줘서 마음에 들고요, 내솥 재질이 튼튼해서 떨어뜨려도 염려 없네요 사용해보니 더 마음에 드네요!",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV)쿠쿠 전기압력밥솥 6인용 (CRP-P067FR/FD)",
+    "ReviewScore": "100",
+    "Syllable": "66",
+    "Word": "15",
+    "RDate": "20180128",
+    "Aspects": [
+      {
+        "Aspect": "내구성",
+        "SentimentText": "내솥 재질이 튼튼해서 떨어뜨려도 염려 없네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "사용해보니 더 마음에 드네요!",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "8258",
+    "RawText": "디자인이 예쁘고 제품이 좋아서 밥맛도 좋습니다  다만 고화력이어서 그런지 밥이 조금 눌어요 ",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_2만세일)쿠쿠 전기압력밥솥 6인용 (CRP-P067FR/FD)",
+    "ReviewScore": "80",
+    "Syllable": "51",
+    "Word": "12",
+    "RDate": "20180708",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 예쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "제품이 좋아서 밥맛도 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "고화력이어서 그런지 밥이 조금 눌어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "8259",
+    "RawText": "제품이야 원래 좋은거 알고 있고 배송도 빠르고 좋아요 ○○○자동 살균 세척이 있어서 든든합니다",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_2만세일)쿠쿠 전기압력밥솥 6인용 (CRP-P067FR/FD)",
+    "ReviewScore": "100",
+    "Syllable": "52",
+    "Word": "13",
+    "RDate": "20180711",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "제품이야 원래 좋은거 알고 있고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "○○○자동 살균 세척이 있어서 든든합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "8260",
+    "RawText": "디자인이 고급스러워서 좋고 핑크로 하니 주방도 화사하네요~~  밥맛은 두말할것 없구요^^",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_5만세일) 쿠쿠 IH 메탈릭커브드 스마트 전기압력밥솥 6인용 CRP-FHR067FG/FD",
+    "ReviewScore": "100",
+    "Syllable": "49",
+    "Word": "10",
+    "RDate": "20191001",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 고급스러워서 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "핑크로 하니 주방도 화사하네요~~ ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "밥맛은 두말할것 없구요^^",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "8261",
+    "RawText": "비숫한  제품에 비해 가격대는  조금 비싸네요 가격 저념한것에 비하면 밥은 맛이 있습니다^^",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_직택배) 신일 미니밥솥_SCJ-PBP10WH",
+    "ReviewScore": "100",
+    "Syllable": "51",
+    "Word": "12",
+    "RDate": "20200226",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대는  조금 비싸네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "밥은 맛이 있습니다^^",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "8262",
+    "RawText": "가격이 저렴하게 구입했어요.  카드할인 7%. 적립 20%.  그리고 스텐컵까지.  잘 갈리고  소음도 생각보다 적어요. 스무디용으로 최적입니다.  만족합니다. 디자인도 좋고요. 다만 배송이 느렸습니다.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_특)리큅 초고속 블렌더 BS5S",
+    "ReviewScore": "100",
+    "Syllable": "113",
+    "Word": "22",
+    "RDate": "20181130",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴하게 구입했어요.  카드할인 7%. 적립 20%. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": " 잘 갈리고  소음도 생각보다 적어요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "만족합니다. 디자인도 좋고요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "8263",
+    "RawText": "꼭사기당한기분 이네요밥도많이눌고보은 도안돼고다른요리도그닥  OOO이라는것 믿고샀다가대실망",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "*풍년 풀스텐 전기압력밥솥 (6인용)",
+    "ReviewScore": "100",
+    "Syllable": "49",
+    "Word": "5",
+    "RDate": "20211109",
+    "Aspects": [
+      {
+        "Aspect": "제조일/제조사",
+        "SentimentText": " OOO이라는것 믿고샀다가대실망",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "밥도많이눌고보은 도안돼고다른요리도그닥",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "8264",
+    "RawText": "서너번쓰고 열받아서물건던저버리고싶은걸참고 리뷰수정해서써봅니다 브랜드를믿고구매해는데 물건받자마자세척해서밥하려는데 뚜껑맟추기가힘들어도 쓰다보면괜찮을지겠지하고 서너번사용했는데 쓸때마다열받는거참고 구석에방치했다가다시밥해보려다포기했네요 뚜껑이  맟추기가 힘들어서한짬을씨름하다 던저버리고싶었네요 제품을판매하는것도좋은데제되루검증해보고 판매하셨으면하는바램입니다 구매해서써보긴전에그물건이좋은지나쁜지어떻게알겠어요? 코팅두 벗겨지고 정말실망스럽기만하네요 이 물건 반품처리도 안해줘서 애물단지될거같네요? ",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "*풍년 풀스텐 전기압력밥솥 (6인용)",
+    "ReviewScore": "10",
+    "Syllable": "270",
+    "Word": "25",
+    "RDate": "20211106",
+    "Aspects": [
+      {
+        "Aspect": "조작성",
+        "SentimentText": "뚜껑이  맟추기가 힘들어서한짬을씨름하다 던저버리고싶었네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "코팅두 벗겨지고 정말실망스럽기만하네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "8265",
+    "RawText": "스테닝라고 해서 샀는데 압력도 별로고 밥이 잘눌어붙습니다",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "*풍년 풀스텐 전기압력밥솥 (6인용)",
+    "ReviewScore": "30",
+    "Syllable": "31",
+    "Word": "7",
+    "RDate": "20220221",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "내구성",
+        "SentimentText": "스테닝라고 해서 샀는데 압력도 별로고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "밥이 잘눌어붙습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "8266",
+    "RawText": "저렴하게 구매했어요 외관좋고 스테인레스 내솥이라 위생적일 것같아 구매 잘쓰겠습니다",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "*풍년 풀스텐 전기압력밥솥 (6인용)",
+    "ReviewScore": "100",
+    "Syllable": "45",
+    "Word": "9",
+    "RDate": "20211023",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 구매했어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "외관좋고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성",
+        "SentimentText": "스테인레스 내솥이라 위생적일 것같아 구매 잘쓰겠습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "8267",
+    "RawText": "사이즈가 귀여워요~~고압 취사 기능이 있엇 밥은잘됨ㅎ 근데12시간마다자꾸꺼져요 더만져봐야것어용ㅋㅋ",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "3~4인용 자취생 보온밥솥 미니 전기밥솥 스마트꿀맛 SRC-9301W",
+    "ReviewScore": "100",
+    "Syllable": "54",
+    "Word": "8",
+    "RDate": "20210516",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 귀여워요~~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "고압 취사 기능이 있엇 밥은잘됨ㅎ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "12시간마다자꾸꺼져요 더만져봐야것어용ㅋㅋ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "8268",
+    "RawText": "내솥이 스텐레스로 되어있어 좋고 요리시간도 짧아서 좋은데 요리시간 맞추기가 어려워 자꾸 태워요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "-까사맘",
+    "ReviewScore": "100",
+    "Syllable": "53",
+    "Word": "12",
+    "RDate": "20201224",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "내솥이 스텐레스로 되어있어 좋고 요리시간도 짧아서 좋은데 요리시간 맞추기가 어려워 자꾸 태워요.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": " 요리시간도 짧아서 좋은데 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "요리시간 맞추기가 어려워 자꾸 태워요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "8269",
+    "RawText": "방송으로 봤을때는 보글보글 끓었는데 직접해보니 끓지가 않아요~  또 수동으로 압력배출이 안되서 좀 불편합니다~ㅠㅠ",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "-까사맘",
+    "ReviewScore": "100",
+    "Syllable": "63",
+    "Word": "13",
+    "RDate": "20201216",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "방송으로 봤을때는 보글보글 끓었는데 직접해보니 끓지가 않아요~ ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "수동으로 압력배출이 안되서 좀 불편합니다~ㅠㅠ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "8270",
+    "RawText": "홈쇼핑 쇼호스트들 과장이 너무 심해요.맥반석계란 만들려면 90분걸립니다.광고처럼 음식이 빠르지 않고 압력수중기 배출구멍을 할때마다 수중기 안나오게 젓가락같은거로 건드려줘야하는 불편함.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "-까사맘",
+    "ReviewScore": "40",
+    "Syllable": "102",
+    "Word": "18",
+    "RDate": "20201209",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "홈쇼핑 쇼호스트들 과장이 너무 심해요.맥반석계란 만들려면 90분걸립니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": " 압력수중기 배출구멍을 할때마다 수중기 안나오게 젓가락같은거로 건드려줘야하는 불편함.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "8271",
+    "RawText": "귀엽고 분홍색이 예쁘네요. 밥맛도 좋은 편이에요. 다양한 기능도 있어 좋네요",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "슈맥스 디지털 미니밥솥(2~3인용)",
+    "ReviewScore": "100",
+    "Syllable": "42",
+    "Word": "10",
+    "RDate": "20200624",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "귀엽고 분홍색이 예쁘네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "밥맛도 좋은 편이에요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "다양한 기능도 있어 좋네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "8272",
+    "RawText": "선물 받아서 좋아 합니다 디자인도 이쁘고 밥맛도 좋아용",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠첸 IR전기압력밥솥 CJR-PK1001RHW [10인용/음성인식/IR미작]",
+    "ReviewScore": "100",
+    "Syllable": "30",
+    "Word": "8",
+    "RDate": "20210717",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 이쁘고 밥맛도 좋아용",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "밥맛도 좋아용",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "8273",
+    "RawText": "배송 잘받았어요  밥솥 디자인이 이쁘네요  밥 보관용으로 샀어요. 집에 레드 색깔이 포인트 되고 좋아요",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠첸 미니전기밥솥 CJE-A0601 [6인용]",
+    "ReviewScore": "100",
+    "Syllable": "57",
+    "Word": "14",
+    "RDate": "20211101",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "집에 레드 색깔이 포인트 되고 좋아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 밥솥 디자인이 이쁘네요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "8274",
+    "RawText": "매우 훌륭합니다 밥도 맛나고  디자인도  짱이네요 그리고 아주 싸게 잘 샀어요  감사합니다.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠 10인용 전기압력밥솥 CRP-R109FP",
+    "ReviewScore": "100",
+    "Syllable": "51",
+    "Word": "12",
+    "RDate": "20211223",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "매우 훌륭합니다 밥도 맛나고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도  짱이네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "아주 싸게 잘 샀어요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "8275",
+    "RawText": "엄마 사드렸는데 디자인도 이쁘고  기능도 쉽고좋습니다",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠 10인용 전기압력밥솥 CRP-R109FP",
+    "ReviewScore": "100",
+    "Syllable": "29",
+    "Word": "6",
+    "RDate": "20211130",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 이쁘고  기능도 쉽고좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": " 기능도 쉽고좋습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "8276",
+    "RawText": "역시 00예요 밥맛도최고예요   가성비도 짱~~",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠 10인용 전기압력밥솥 CRP-R109FP",
+    "ReviewScore": "100",
+    "Syllable": "26",
+    "Word": "5",
+    "RDate": "20220209",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": " 밥맛도최고예요  ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비도 짱~~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "8277",
+    "RawText": "완전좋아요  빠른배송에  원하던 제품 당연히 품질도 아주 좋으네요   쿠폰써서 착한가격에 감사합니다",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠 10인용 전기압력밥솥 CRP-R109FP",
+    "ReviewScore": "100",
+    "Syllable": "55",
+    "Word": "11",
+    "RDate": "20211015",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "완전좋아요  빠른배송에  원하던 제품 당연히 품질도 아주 좋으네요 ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰써서 착한가격에 감사합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "8278",
+    "RawText": "좋은 가격에 잘 구매했고  저희 식구에 딱 맞는 용량이라 걱정없어요 배송도 빠르게 배송되서 좋았고 잘 사용 하겠습니다",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠 10인용 전기압력밥솥 CRP-R109FP",
+    "ReviewScore": "100",
+    "Syllable": "65",
+    "Word": "17",
+    "RDate": "20211027",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 가격에 잘 구매했고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "저희 식구에 딱 맞는 용량이라 걱정없어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "8279",
+    "RawText": "1인분을 바로 해서 먹으니 넘 좋네요.. 밥맛도 만족합니다..",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠 3인용 IH밥솥 CRP-HQB0310FS",
+    "ReviewScore": "100",
+    "Syllable": "34",
+    "Word": "8",
+    "RDate": "20210829",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "1인분을 바로 해서 먹으니 넘 좋네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "밥맛도 만족합니다..",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "8280",
+    "RawText": "너무 잘  쓰고  있어요  1인가구에 딱 좋아요  보온해도 금방 냄새나거나 하지 않아요  앙증맞고  기능도 좋아서  추천하고 싶네요",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠 3인용 IH밥솥 CRP-HQB0310FS",
+    "ReviewScore": "100",
+    "Syllable": "73",
+    "Word": "17",
+    "RDate": "20210929",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성",
+        "SentimentText": "너무 잘  쓰고  있어요  1인가구에 딱 좋아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "앙증맞고  기능도 좋아서  추천하고 싶네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "8281",
+    "RawText": "상품 너무 이뻐요. 그동안 1~2인용 작은 거 썼는데 밥을 25분동안 하니까 흰쌀은 익는데 잡곡은 거의 날림으로 보리쌀이나 콩은 50%는 익고 50%는  내 뱃속에서 익혀야 하니 나이 들어서 소화력도 떨어지는데 속이 부대껴서 잠을 못잠...거기다 보온도 안되고...그래서 압력밥솥으로 구입했는데 모양도 이쁘고 음성도 크지 않아서 좋고 보온도 되고 아쉬운 건 취사선택시 버턴이 인공지능이 아닌 게 조금 아쉬움... 밥 너무 잘됐어요...콩이 다 익었네...신기하다. 당연한 게 이렇게 기쁠줄이야 이게 밥이지....잘쓸게요 밥 너무 잘돼요.....우리집 OO꺼 조금씩 늘어나네..ㅋ...홍쇼핑에서 주문한 정수기도 잘쓰고 있음. 사은품으로 보내준 물걸레도 너무 잘씀.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠 3인용 IH밥솥 CRP-HQB0310FS",
+    "ReviewScore": "80",
+    "Syllable": "370",
+    "Word": "80",
+    "RDate": "20210831",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "상품 너무 이뻐요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "음성도 크지 않아서 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "보온도 되고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "취사선택시 버턴이 인공지능이 아닌 게 조금 아쉬움... ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "밥 너무 잘됐어요...콩이 다 익었네...신기하다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품으로 보내준 물걸레도 너무 잘씀.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "8282",
+    "RawText": "작은밥솥을  원했는데 생각보다 커서 별로네요 디자인도 구형이라 맘에 안 들어요 솥의손잡이도없고  불편하네요ㅜ",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠 3인용 IH밥솥 CRP-HQB0310FS",
+    "ReviewScore": "70",
+    "Syllable": "60",
+    "Word": "12",
+    "RDate": "20210803",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "작은밥솥을  원했는데 생각보다 커서 별로네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 구형이라 맘에 안 들어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "솥의손잡이도없고  불편하네요ㅜ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "8283",
+    "RawText": "가격대비 좋아요^^ 시간은 조금 오래 걸리는것 같지만 밥맛은 괜찮은것같아요",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠 3인용 일반 전기밥솥 CR-0375FW",
+    "ReviewScore": "100",
+    "Syllable": "41",
+    "Word": "9",
+    "RDate": "20210811",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 좋아요^^",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "시간은 조금 오래 걸리는것 같지만 밥맛은 괜찮은것같아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "8284",
+    "RawText": "디자인이 예뻐서 샀어요 오픈할 때 주르는 버튼이 조금 뻑뻑하네요 새거라 그런가.... ",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠 3인용 일반 전기밥솥 CR-0375FW",
+    "ReviewScore": "60",
+    "Syllable": "48",
+    "Word": "11",
+    "RDate": "20210815",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 예뻐서 샀어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "오픈할 때 주르는 버튼이 조금 뻑뻑하네요 새거라 그런가....",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "8285",
+    "RawText": "친구네 이사선물로  동일한 상품 6인용 선물해줬는데  디자인도 깔끔하니 괜찮더라구요 혼밥해서 먹으려고 저렴하게 판매하길래 주문했습니다 디자인이 신의 한수네요 아담하니 마음에 쏙❣ 듭니다",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠 3인용 일반 전기밥솥 CR-0375FW",
+    "ReviewScore": "100",
+    "Syllable": "103",
+    "Word": "21",
+    "RDate": "20210830",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "선물해줬는데  디자인도 깔끔하니 괜찮더라구요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "혼밥해서 먹으려고 저렴하게 판매하길래 주문했습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 신의 한수네요 아담하니 마음에 쏙❣ 듭니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "8286",
+    "RawText": "자취용으로 구매했어요. 적립금 사용해서 저렴하게 샀어요. 크기도 적당하고 자취용으로 딱이네요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠 3인용 전기보온밥솥 CR-0365FR",
+    "ReviewScore": "100",
+    "Syllable": "52",
+    "Word": "10",
+    "RDate": "20210814",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "적립금 사용해서 저렴하게 샀어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "크기도 적당하고 자취용으로 딱이네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "8287",
+    "RawText": "빠른배송 좋고  좋은물건싸게  구입한것은 좋은데 택배박스에  이름석자가 떡하니  다 나와 있는것이  좀그러네요   주소는 배송지라서  어쩔수없다지만  그래도 이름은  다른곳처럼 한자리라도  가려주시지ㅠㅠ 6인용 용량이 생각보다 커서 만족해요 ",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠 6인용 IH압력 전기밥솥 CRP-HVB0680SS",
+    "ReviewScore": "80",
+    "Syllable": "135",
+    "Word": "25",
+    "RDate": "20210719",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은물건싸게  구입한것은 좋은데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "6인용 용량이 생각보다 커서 만족해요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "8288",
+    "RawText": "배송이 하루만에 왔어요. 조금 더 큰 걸 살걸 하는 아쉬움이....용량이 작네요 바로 밥 해봤는데 밥맛이 좋아서 두공기나 먹었내요",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠 6인용 IH전기밥솥 CRP-DHXB0610FS",
+    "ReviewScore": "100",
+    "Syllable": "72",
+    "Word": "18",
+    "RDate": "20211130",
+    "Aspects": [
+      {
+        "Aspect": "용량",
+        "SentimentText": "조금 더 큰 걸 살걸 하는 아쉬움이....용량이 작네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "밥맛이 좋아서 두공기나 먹었내요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "8289",
+    "RawText": "친정부모님 사드렸는데  만족해 하시네요.배송 빨라서 좋았구요.디자인 예쁘고 밥맛 좋다하시구.다음에 저히 밥솥두 오래됐는데 OOO꺼만  6개있어요.한단계 업그래이드된 밥솥 구매하고싶어요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠 6인용 IH전기밥솥 CRP-DHXB0610FS",
+    "ReviewScore": "80",
+    "Syllable": "103",
+    "Word": "17",
+    "RDate": "20211210",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 예쁘고 밥맛 좋다하시구.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "밥맛 좋다하시구.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "8290",
+    "RawText": "삐른배송 감사합니다  좋은가격에  구매 했어요  아직 사용전이지만  디자인도 맘에 드네요",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠 6인용 열판압력 전기밥솥",
+    "ReviewScore": "100",
+    "Syllable": "49",
+    "Word": "10",
+    "RDate": "20220116",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은가격에  구매 했어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 맘에 드네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "8291",
+    "RawText": "아기들 이유식 및 흰밥용으로 구매했어요~ 깔끔한 디자인 너무 좋아요~ 한번 죽 해봤는데 잘돼요~ㅎ",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠 6인용 전기보온밥솥 CR-0675FW [원터치 오픈/단순 분리커버]",
+    "ReviewScore": "100",
+    "Syllable": "54",
+    "Word": "13",
+    "RDate": "20210812",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "깔끔한 디자인 너무 좋아요~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "한번 죽 해봤는데 잘돼요~ㅎ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "8292",
+    "RawText": "IH가 아니어서 살짝 걱정했는데 아무 문제 없네요.  정말 밥맛 좋아요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠 6인용 전기압력밥솥 CRP-R069FP",
+    "ReviewScore": "100",
+    "Syllable": "40",
+    "Word": "10",
+    "RDate": "20220220",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성",
+        "SentimentText": "IH가 아니어서 살짝 걱정했는데 아무 문제 없네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "정말 밥맛 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "8293",
+    "RawText": "밥솥을 구매한 지 한달도 채 안 되었습니다.   밥솥을 덮기 위해 천을 밥솥 위에 올려 놓았는데 갑자기 무언가가 불에 타는 냄새가 나서 부엌에 들어가보니 밥 솥 위의 천이 불에 타고 있었습니다.    급한데로 밥솥 위에 물을 부어 불을 껐습니다.    불이 옆에 있는 찬장까지 치솟았기에 하마터면 밥솥 불이 옮겨 붙어 온 집을 불 태울뻔했습니다.    아파트인데 다른집까지 불이 옮겨 붙었으면 어떻게 될 뻔 했습니까?    밥을 하고 있지도 않아서 밥솥이 뜨겁지도 않았고, 코드만 꽂은 채로 있었습니다.     밥솥 근처에는 어떠한 전자제품도 없습니다.     OO 밥솥을 믿고 구매한 것인데 도데체 어떻게 만들었기에 전기합선? 같이 불이 붙은 건가요?     아니면 OO쇼핑에서는 이런 허술하고 위험한 제품들을 판매하는 건가요?     정말 너무 놀래서 지금도 손이 떨립니다.     이런 제품은 판매해서도 안됩니다.     안전점검은 하는 지 의구심이 드네요.     손해배상 청구 할겁니다.     당장 환불해주세요.     불안해서 OO쇼핑에서 새 제품도 받고 싶지 않습니다.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠 6인용 전기압력밥솥 CRP-R069FP",
+    "ReviewScore": "10",
+    "Syllable": "550",
+    "Word": "124",
+    "RDate": "20220301",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "밥솥 불이 옮겨 붙어 온 집을 불 태울뻔했습니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성",
+        "SentimentText": "안전점검은 하는 지 의구심이 드네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "8294",
+    "RawText": "밥 잘되고 가성비 좋아요. 10인용만 써보다 6인용 샀는데 어차피 밥 하는양은 똑같아서 용량 적은건 상관없네요. 사고 싶은건 다른거였지만 가격때문에ㅠㅠ 이 모델로 결정했는데 만족합니다.  가격도 00쇼핑이 제일 저렴했어요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠 6인용 전기압력밥솥 CRP-R069FS 실버",
+    "ReviewScore": "100",
+    "Syllable": "124",
+    "Word": "27",
+    "RDate": "20211222",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "밥 잘되고 가성비 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "10인용만 써보다 6인용 샀는데 어차피 밥 하는양은 똑같아서 용량 적은건 상관없네요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "사고 싶은건 다른거였지만 가격때문에ㅠㅠ 이 모델로 결정했는데 만족합니다.  가격도 00쇼핑이 제일 저렴했어요.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "8295",
+    "RawText": "저번주에 구매했는데 가격이 만원 이상 차이나게 더 떨어졌네요. ㅜㅜ 밥솥자체는 밥도 맛있게 되고 좋아요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠 6인용 전기압력밥솥 CRP-R069FS 실버",
+    "ReviewScore": "100",
+    "Syllable": "58",
+    "Word": "14",
+    "RDate": "20211105",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 만원 이상 차이나게 더 떨어졌네요. ㅜㅜ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "밥솥자체는 밥도 맛있게 되고 좋아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "8296",
+    "RawText": "최저가로 잘 구매했어요 모델도 예쁘고 아직 사용 안해서 밥이 잘되는지는 모르겠어요",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠 6인용 전기압력밥솥 CRP-R069FS 실버",
+    "ReviewScore": "100",
+    "Syllable": "45",
+    "Word": "11",
+    "RDate": "20211210",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "최저가로 잘 구매했어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "모델도 예쁘고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "8297",
+    "RawText": "0010인용  블랙색상 쓰다가  6인용 화이트로 바꿨는데 회사해보이고 예뻐요 ",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠 6인용 전기압력밥솥 CRP-R069FS 실버",
+    "ReviewScore": "100",
+    "Syllable": "43",
+    "Word": "8",
+    "RDate": "20211007",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "0010인용  블랙색상 쓰다가  6인용 화이트로 바꿨는데 회사해보이고 예뻐요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "회사해보이고 예뻐요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "8298",
+    "RawText": "연휴때문인지 배송은 다소 늦었지만 밥도 맛있게 잘되고 디자인도 예뻐요~",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠 CRP-N0680SR 6인용 전기압력밥솥 공식판매점 SJ",
+    "ReviewScore": "100",
+    "Syllable": "39",
+    "Word": "9",
+    "RDate": "20190919",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "밥도 맛있게 잘되고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 예뻐요~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "8299",
+    "RawText": "좋아요 비싼것도 많지만 적당한 가격에 밥도 잘되고 괜찮아요",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠 CRP-QS1010FG 10인용 전기압력밥솥 공식판매점 SJ",
+    "ReviewScore": "90",
+    "Syllable": "32",
+    "Word": "8",
+    "RDate": "20201205",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "비싼것도 많지만 적당한 가격에 밥도 잘되고 괜찮아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": " 밥도 잘되고 괜찮아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "8300",
+    "RawText": "구매한게 품질이 너무 맘에 안드는데 박스 개봉했다고 교환도안되고 저렴한것도 아니고 넘 속상 하네요~ㅜㅜ",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠 CRP-R1010FC 10인용 전기압력밥솥 공식판매점 SJ",
+    "ReviewScore": "10",
+    "Syllable": "57",
+    "Word": "13",
+    "RDate": "20210817",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "구매한게 품질이 너무 맘에 안드는데 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한것도 아니고 넘 속상 하네요~ㅜㅜ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "8301",
+    "RawText": "깔끔하고 상품 좋아요 가격 비싸서 별한개 뺍니다",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠 IH압력밥솥 CRP-EHS0320FW [3인용/스테인리스 내솥/분리형 커버]",
+    "ReviewScore": "80",
+    "Syllable": "26",
+    "Word": "7",
+    "RDate": "20220303",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "깔끔하고 상품 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 비싸서 별한개 뺍니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "8302",
+    "RawText": "10인용쓰다가 6인용쓰니 작은감은 있지만 밥맛은 좋아요~",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠 압력밥솥 CRP-JHI0660FSM [6인용]",
+    "ReviewScore": "100",
+    "Syllable": "31",
+    "Word": "6",
+    "RDate": "20210830",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "작은감은 있지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "밥맛은 좋아요~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "8303",
+    "RawText": "적립금 보태서 구매했는데~ 세식구 쓰기에 딱이네요~ 밥두 맛나구요~",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "쿠쿠 트윈프레셔 전기압력밥솥 CRP-ST0610FG [6인용]",
+    "ReviewScore": "100",
+    "Syllable": "37",
+    "Word": "8",
+    "RDate": "20210814",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "세식구 쓰기에 딱이네요~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "밥두 맛나구요~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "8304",
+    "RawText": "OOO 최저가 보다 싼 가격에 상품도 디자인도 딱 맘에 듭니다 ",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "풍년 풀스텐 전기압력밥솥 (6인용) PFSKA-1000",
+    "ReviewScore": "100",
+    "Syllable": "35",
+    "Word": "10",
+    "RDate": "20210617",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "OOO 최저가 보다 싼 가격에 상품도 디자인도 딱 맘에 듭니다",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "상품도 디자인도 딱 맘에 듭니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "8305",
+    "RawText": "비슷한 제품의 가격이 상당한데, 이 제품은 가격도 좋고 실용성을 잡아서 너무 좋아요ㅎ",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방송) 보국 무선 티포트",
+    "ReviewScore": "100",
+    "Syllable": "47",
+    "Word": "12",
+    "RDate": "20170329",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "이 제품은 가격도 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "실용성을 잡아서 너무 좋아요ㅎ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "8306",
+    "RawText": "만족이 100%입니다.배달도 너무 빠르게 왔어요. 다른회사것도 엄청 세일하지만 모양도 색깔도 모두 좋아요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "K쿠진아트12컵 드립 커피메이커 / DCC-1100PKKR/WKR(핑크,화이트)",
+    "ReviewScore": "100",
+    "Syllable": "59",
+    "Word": "12",
+    "RDate": "20210528",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "모양도 색깔도 모두 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색깔도 모두 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "8307",
+    "RawText": "가격대비 아주 만족스럽네요 ~  에스프레소 잘 추출됩니다  가정용으로 딱이네요~",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "보르도 에스프레소 홈카페 가정용 커피머신 BD-0467CM",
+    "ReviewScore": "100",
+    "Syllable": "44",
+    "Word": "9",
+    "RDate": "20191219",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 아주 만족스럽네요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "에스프레소 잘 추출됩니다 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "가정용으로 딱이네요~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "8308",
+    "RawText": "구성은 좋은데 스벅캡슐 유토기한  짧아서  별하나뺌",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "초이스카페 드립커피 캡슐 머신 세트",
+    "ReviewScore": "80",
+    "Syllable": "28",
+    "Word": "6",
+    "RDate": "20211017",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성은 좋은데 스벅캡슐 유토기한  짧아서  별하나뺌",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "스벅캡슐 유토기한  짧아서  별하나뺌",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "8309",
+    "RawText": "예쁘고  깜직하네요. 카페에 자주못가는데  유용하게잘쓸께요^^",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "초이스카페 드립커피 캡슐 머신 세트",
+    "ReviewScore": "100",
+    "Syllable": "34",
+    "Word": "5",
+    "RDate": "20211014",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "예쁘고  깜직하네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "카페에 자주못가는데  유용하게잘쓸께요^^",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "8310",
+    "RawText": "좋아요 가벼워서 여기저기옮기기도 좋고 사용하기 편하고  좋으네여 커피도 여러가지구성이라맘에들어요",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "초이스카페 드립커피 캡슐 머신 세트",
+    "ReviewScore": "100",
+    "Syllable": "53",
+    "Word": "9",
+    "RDate": "20211030",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워서 여기저기옮기기도 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "사용하기  편하고  좋으네여",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "커피도 여러가지구성이라맘에들어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "8311",
+    "RawText": "미니인줄 알고 샀는데 아니네요 ㅋㅋ 커피 금방 내려지고 맛있어요 굿굿!",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "테팔 커피메이커 CM-3618 [1.25L]",
+    "ReviewScore": "100",
+    "Syllable": "39",
+    "Word": "10",
+    "RDate": "20210804",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "미니인줄 알고 샀는데 아니네요 ㅋㅋ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "커피 금방 내려지고 맛있어요 굿굿!",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "8312",
+    "RawText": "사용하던 제품이 고장나서 급하게 샀는데 기능이 좋아요~   소리 크지않고 자동으로 꺼지니까 괜찮네요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "필립스 커피메이커 HD-7461",
+    "ReviewScore": "100",
+    "Syllable": "56",
+    "Word": "12",
+    "RDate": "20210803",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "기능이 좋아요~ ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "소리 크지않고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "자동으로 꺼지니까 괜찮네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "11466",
+    "RawText": "싸이즈도 넉넉해서 잘 덮히고 디자인도 깔끔하니 좋네요 OOO인덕션  구매하고 가스렌지 사용 안할려고 덮개  구매했어요 잘 사용할거같아요",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(k쇼핑가)에버홈 인덕션 ARTEX 가스레인지 덮개(65cm) ",
+    "ReviewScore": "100",
+    "Syllable": "75",
+    "Word": "16",
+    "RDate": "20210710",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "싸이즈도 넉넉해서 잘 덮히고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 깔끔하니 좋네요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "11467",
+    "RawText": "불을끄지않고 냄비를 내렸는데 자동 불이 꺼지고 알림소리도 나네요.. 저같이 깜박하는 분들께 너무 좋아요. 디자인도 깔끔하니 맘에들어요",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV)린나이 간편쿡 자동불꽃조절 가스레인지_3구 일반",
+    "ReviewScore": "100",
+    "Syllable": "74",
+    "Word": "16",
+    "RDate": "20190309",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "불을끄지않고 냄비를 내렸는데 자동 불이 꺼지고 알림소리도 나네요.. 저같이 깜박하는 분들께 너무 좋아요.",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 깔끔하니 맘에들어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "11468",
+    "RawText": "쿠폰이용하여 저렴하게 잘구매했어요 설치배송전 연락주시어 제가 편한날짜와 시간을 정할수있게 해주신거 감사합니다. 설치받아 잘사용하고있습니다. 화력 좋고 매우만족합니다.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV)린나이 간편쿡 자동불꽃조절 가스레인지_3구 일반",
+    "ReviewScore": "100",
+    "Syllable": "92",
+    "Word": "16",
+    "RDate": "20190318",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰이용하여 저렴하게 잘구매했어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "화력 좋고 매우만족합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "11469",
+    "RawText": "배송도빨라 감사해요. 받자마자사용했는데...사용법도 간단하고 가스레인지보다너무편리해서좋아요~.바꾸기잘산거같아요^^",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV)에버홈 IH 인덕션",
+    "ReviewScore": "100",
+    "Syllable": "63",
+    "Word": "5",
+    "RDate": "20210123",
+    "Aspects": [
+      {
+        "Aspect": "조작성",
+        "SentimentText": "사용법도 간단하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "가스레인지보다너무편리해서좋아요~",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "11470",
+    "RawText": "편리하게 사용할수 있어 좋습니다. 하나 아쉬운 점은 잠김 버튼이 화력 조절의 잠김이라는 것입니다. 전원도 잠김이 되면 더 좋았을텐데...",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV)에버홈 IH 인덕션_2만세일",
+    "ReviewScore": "100",
+    "Syllable": "76",
+    "Word": "18",
+    "RDate": "20210701",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성",
+        "SentimentText": "편리하게 사용할수 있어 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "아쉬운 점은 잠김 버튼이 화력 조절의 잠김이라는 것입니다. 전원도 잠김이 되면 더 좋았을텐데...",
+        "SentimentWord": "13",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "11471",
+    "RawText": "사용하기 편하고요. 단지 물 끓는 속도가 빠르진 않네요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV)에버홈 IH 인덕션_2만세일",
+    "ReviewScore": "100",
+    "Syllable": "31",
+    "Word": "8",
+    "RDate": "20210714",
+    "Aspects": [
+      {
+        "Aspect": "편의성",
+        "SentimentText": "사용하기 편하고요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "단지 물 끓는 속도가 빠르진 않네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "11472",
+    "RawText": "친정엄마댁에 사드렸어요. 날도더운데 불이나오는 가스렌지때문에 더 덥게요리하시는 친정엄마사드렸습니다 성능도,디자인도 최고라고 엄지척 사진보내주시네요^^",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV)에버홈 IH 인덕션_2만세일",
+    "ReviewScore": "100",
+    "Syllable": "83",
+    "Word": "12",
+    "RDate": "20210810",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "성능도,디자인도 최고라고 엄지척 사진보내주시네요^^",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 최고라고 엄지척 사진보내주시네요^^",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "11473",
+    "RawText": "이제품과 동일한 인덕션을 사용하고있는데 가격 만족하고요. 디자인과 성능에 만족스럽고 사용하기 편해서 저의 엄마께 추천하여 선물해 드렸더니 너무 좋아하셔요. 덕분에 효도한것같아 주변에 추천하고 싶습니다.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV)에버홈 IH 인덕션_2만세일",
+    "ReviewScore": "100",
+    "Syllable": "112",
+    "Word": "23",
+    "RDate": "20210928",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 만족하고요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인과 성능에 만족스럽고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "성능에 만족스럽고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "사용하기 편해서 저의 엄마께 추천하여 선물해 드렸더니 너무 좋아하셔요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "11474",
+    "RawText": "기대했던 것 만큼 성능이 좋으네요.. 다만  하이라이트에 사기로된 뚝배기를 사용했는데 열판이 가열되고 난뒤에  얼룩이 지워지지 않아 속상해요..",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방송)쿠첸 스마트 인덕션 프리미엄형 CIR-ST324DSL (IH2구+HL1구)",
+    "ReviewScore": "80",
+    "Syllable": "80",
+    "Word": "17",
+    "RDate": "20180521",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "기대했던 것 만큼 성능이 좋으네요..",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "하이라이트에 사기로된 뚝배기를 사용했는데 열판이 가열되고 난뒤에  얼룩이 지워지지 않아 속상해요..",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "11475",
+    "RawText": "전기레인지로 바꾸고 음식 만드는데 느리면 어쩌나 걱정했는데 가열속도가 엄청 빠르니 만족해요 색감도 은은한게 맘에 들어요 설치할때 마감도 깔끔하게 해주시고 다 맘에 듭니다^^",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방송)쿠첸 스마트 인덕션 프리미엄형 CIR-ST324DSL (IH2구+HL1구)",
+    "ReviewScore": "100",
+    "Syllable": "96",
+    "Word": "22",
+    "RDate": "20180425",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "가열속도가 엄청 빠르니 만족해요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색감도 은은한게 맘에 들어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "11476",
+    "RawText": "이사가는 곳이 주방과 창문이 좀 멀리 있어서 가스레인지 대신 인덕션구매했어요 부모님집에서 사용해보니 음식도 빨리되고 좋더라구요 인덕션 2 하이라이트 1 개 너무 만족스럽습니다",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방송)쿠첸 스마트 인덕션 프리미엄형 CIR-ST324DSL (IH2구+HL1구)",
+    "ReviewScore": "100",
+    "Syllable": "97",
+    "Word": "22",
+    "RDate": "20180615",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "음식도 빨리되고 좋더라구요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "인덕션 2 하이라이트 1 개 너무 만족스럽습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "11477",
+    "RawText": "아직은 익숙치 않지만 물도 빨리 끓고 음식하기에 편하게요. 청소도 쉬워 만족 하지만 인덕션을 쓴 수 생각보다 잔열이 빨리 식진 않아 데이지않게 조심해야해요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_방송중_특)쿠첸 하이브리드 전기레인지 프리미엄형 (IH2구+HL1구)",
+    "ReviewScore": "100",
+    "Syllable": "87",
+    "Word": "22",
+    "RDate": "20191025",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "물도 빨리 끓고 음식하기에 편하게요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": " 청소도 쉬워 만족",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "인덕션을 쓴 수 생각보다 잔열이 빨리 식진 않아 데이지않게 조심해야해요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "11478",
+    "RawText": "폭염에 불꽃과 시름하느라 고생했는데, 인덕션은 불꽃도없어 깔끔하게 관리되서 좋아요 애들이 사용하기에 안전해서 좋고 00역시 탁월한 선택입니다",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_특)쿠첸 스마트 인덕션 프리미엄형 CIR-ST324DSL (IH2구+HL1구)",
+    "ReviewScore": "100",
+    "Syllable": "78",
+    "Word": "16",
+    "RDate": "20180822",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성",
+        "SentimentText": "인덕션은 불꽃도없어 깔끔하게 관리되서 좋아요 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "애들이 사용하기에 안전해서 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제조일/제조사",
+        "SentimentText": " 00역시 탁월한 선택입니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "11479",
+    "RawText": "10년 넘게 사용해서 지저분한 가스레인지 보다가 깨끗한 전기레인지로 바꾸니 너무 좋습니다. 물 끓이는 시간도 오래 걸리지 않고 괜찮네요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_특)쿠첸 스마트 인덕션 프리미엄형 CIR-ST324DSL (IH2구+HL1구)",
+    "ReviewScore": "100",
+    "Syllable": "76",
+    "Word": "18",
+    "RDate": "20180711",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성",
+        "SentimentText": "지저분한 가스레인지 보다가 깨끗한 전기레인지로 바꾸니 너무 좋습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": " 물 끓이는 시간도 오래 걸리지 않고 괜찮네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "11480",
+    "RawText": "인덕션 설치 잘받았습니다.. 엄마가 쓰고있는 제품이랑 같은사양을 했어요.. 금세 열이 올라와서 요리하는 시간 단축이라 좋네요 기사님이 친절하게 설명해주심 또한 감사해요.. ○○ 역시 믿고 씁니다!",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_특)쿠첸 스마트 인덕션 프리미엄형 CIR-ST324DSL (IH2구+HL1구)",
+    "ReviewScore": "100",
+    "Syllable": "109",
+    "Word": "24",
+    "RDate": "20180518",
+    "Aspects": [
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": " 금세 열이 올라와서 요리하는 시간 단축이라 좋네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제조일/제조사",
+        "SentimentText": "○○ 역시 믿고 씁니다!",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "11481",
+    "RawText": "부모님께서 몇 해 전부터 인덕션 설치를 하고 싶어하셨는데 방송 보다가 주문하게되었어요. 일요일에 결제하고 월요일에 해피콜 박고 화요일에 바로 설치했습니다. 설치빨라서 좋네요.  빌트인으로 설치하니 디자인이 아주 깔끔하고 이뻐요 물도 빨리 끓고 좋습니다.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "주방가전",
+    "ProductName": "(TV_특)쿠첸 스마트 인덕션 프리미엄형 CIR-ST324DSL (IH2구+HL1구)",
+    "ReviewScore": "100",
+    "Syllable": "141",
+    "Word": "31",
+    "RDate": "20180427",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 아주 깔끔하고 이뻐요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "물도 빨리 끓고 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]

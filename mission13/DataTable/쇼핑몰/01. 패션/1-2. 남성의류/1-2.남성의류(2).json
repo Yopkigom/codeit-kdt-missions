@@ -1,0 +1,3178 @@
+[
+  {
+    "Index": "42480",
+    "RawText": "따뜻해서 잘입고 다녀요. 바지가 편안하고 좋다고 합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모데님 3종",
+    "ReviewScore": "100",
+    "Syllable": "30",
+    "Word": "7",
+    "RDate": "20220211",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻해서 잘입고 다녀요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "바지가 편안하고 좋다고 합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "42481",
+    "RawText": "옷 잘입고 있어요 핏도 예쁘고 색상도 예뻐요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모데님 3종",
+    "ReviewScore": "100",
+    "Syllable": "24",
+    "Word": "7",
+    "RDate": "20211209",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏도 예쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": " 색상도 예뻐요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "42484",
+    "RawText": "따뜻하고 신축성이좋은데 핏이 좀타이트하네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모데님 3종",
+    "ReviewScore": "80",
+    "Syllable": "23",
+    "Word": "4",
+    "RDate": "20211126",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": "신축성이좋은데",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏이 좀타이트하네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "42487",
+    "RawText": "따뜻하고요, 입기 참 편해서 좋다고 하네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모데님 3종",
+    "ReviewScore": "100",
+    "Syllable": "23",
+    "Word": "6",
+    "RDate": "20211126",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻하고요,",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "입기 참 편해서 좋다고 하네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "42488",
+    "RawText": "바지가 신축성있어서 편안하고 안에 기모있어서 따뜻해요ᆢ가격대비 만족합니다ㆍ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모데님 3종",
+    "ReviewScore": "100",
+    "Syllable": "41",
+    "Word": "7",
+    "RDate": "20211119",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "신축성",
+        "SentimentText": " 신축성있어서 편안하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "기모있어서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 만족합니다ㆍ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": " 따뜻해요ᆢ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "42489",
+    "RawText": "따뜻하니 좋아요.신축성이 있어서 정싸이즈 주문해도 맞네요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모데님 3종",
+    "ReviewScore": "100",
+    "Syllable": "32",
+    "Word": "6",
+    "RDate": "20211116",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻하니 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": "신축성이 있어서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "정싸이즈 주문해도 맞네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "42490",
+    "RawText": "기모라 두꺼울줄 알았는데 생각보다 두껍지않고  따뜻할것같아요. 허리가 기존대비 좀 큰거같은데   아들이 벨트해서 그냥 입겠다네요. 스판이라 편해서 좋다네요. 핏도 괜찮아요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모데님 3종",
+    "ReviewScore": "80",
+    "Syllable": "96",
+    "Word": "19",
+    "RDate": "20211118",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "생각보다 두껍지않고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻할것같아요. ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "허리가 기존대비 좀 큰거같은데  ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": "스판이라 편해서 좋다네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏도 괜찮아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "42493",
+    "RawText": "재질도 좋고 착용 편안한게 아주 마음에 들어요. 기모도 일반 기모가 아니라고하니 더욱 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모데님 3종",
+    "ReviewScore": "100",
+    "Syllable": "52",
+    "Word": "13",
+    "RDate": "20211103",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질도 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용 편안한게 아주 마음에 들어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "기모도 일반 기모가 아니라고하니 더욱 좋아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "42494",
+    "RawText": "여름용 입고 편해서 기모도 주문했어요 따듯해요 근데 좀 비싸졌네요ㅠ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모데님 3종",
+    "ReviewScore": "100",
+    "Syllable": "37",
+    "Word": "9",
+    "RDate": "20211116",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "따듯해요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 좀 비싸졌네요ㅠ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "42495",
+    "RawText": "역시나 기장이 문제 기장을따로 돈내고 수선해야하니 ㅠ ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모데님 3종",
+    "ReviewScore": "100",
+    "Syllable": "30",
+    "Word": "7",
+    "RDate": "20211112",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "길이",
+        "SentimentText": "기장이 문제 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "기장을따로 돈내고 수선해야하니 ㅠ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "42496",
+    "RawText": "아들한테 주려고샀는데 생각보다 색상도이쁘고 도톰하니 겨울에 아주잘입을거같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모데님 3종",
+    "ReviewScore": "100",
+    "Syllable": "44",
+    "Word": "7",
+    "RDate": "20211113",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "생각보다 색상도이쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": " 도톰하니",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": " 겨울에 아주잘입을거같습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "42497",
+    "RawText": "신축성도 좋고 따뜻할거 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모데님 3종",
+    "ReviewScore": "100",
+    "Syllable": "16",
+    "Word": "4",
+    "RDate": "20211201",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "신축성",
+        "SentimentText": "신축성도 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻할거 같아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "42500",
+    "RawText": "기모가 두껍지 않아서 좋아요. 스판 아주 좋구요. 다만 이염 우려 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모데님 3종",
+    "ReviewScore": "100",
+    "Syllable": "42",
+    "Word": "11",
+    "RDate": "20211120",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "기모가 두껍지 않아서 좋아요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": "스판 아주 좋구요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "이염 우려 있습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "42504",
+    "RawText": "남편이 따뜻하고 편하다고 좋아해요 사이즈는 한치수 크게 나온듯 해요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모데님 3종",
+    "ReviewScore": "100",
+    "Syllable": "37",
+    "Word": "9",
+    "RDate": "20211128",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻하고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": " 편하다고 좋아해요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈는 한치수 크게 나온듯 해요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "42505",
+    "RawText": "청바지 품질이 좋습니다~ 핏도 적당하고 따뜻하기낀지 해서 매우 만족스러워요~~~ 많이 파세요~~ ^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모데님 3종",
+    "ReviewScore": "100",
+    "Syllable": "56",
+    "Word": "12",
+    "RDate": "20211125",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": " 품질이 좋습니다~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": " 핏도 적당하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": " 따뜻하기낀지 해서 매우 만족스러워요~~~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "42507",
+    "RawText": "60대인 남편이 젊어보인다고  OOO청바지 매니아됏어요 얇은 청바지 부터 기모청바지 넘 따뜻하고 편하게 잘입고다녀서 아들꺼랑 여자꺼랑 살까 망서리고있네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모데님 3종",
+    "ReviewScore": "100",
+    "Syllable": "85",
+    "Word": "17",
+    "RDate": "20211113",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "넘 따뜻하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편하게 잘입고다녀서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "42508",
+    "RawText": "스판기능이참안좋아요. 안불편할줄알았는데 아주불편해요. ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모데님 3종",
+    "ReviewScore": "100",
+    "Syllable": "30",
+    "Word": "3",
+    "RDate": "20211113",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "신축성",
+        "SentimentText": "스판기능이참안좋아요.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "안불편할줄알았는데 아주불편해요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "42509",
+    "RawText": "별로 신축성안좋고 너무불편합니다 올겨울  어렵겠네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모데님 3종",
+    "ReviewScore": "100",
+    "Syllable": "28",
+    "Word": "5",
+    "RDate": "20211119",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "신축성",
+        "SentimentText": "신축성안좋고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "너무불편합니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "올겨울  어렵겠네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "42510",
+    "RawText": "디자인 및 품질이 안좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모데님 3종",
+    "ReviewScore": "100",
+    "Syllable": "14",
+    "Word": "4",
+    "RDate": "20211116",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 및 품질이 안좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 안좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "42512",
+    "RawText": "기모가 두껍지 않고 따뜻하지 않을거 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모데님 3종",
+    "ReviewScore": "100",
+    "Syllable": "23",
+    "Word": "6",
+    "RDate": "20211120",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "기모가 두껍지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻하지 않을거 같아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "42519",
+    "RawText": "OOO이니까 무조건 구입 겨울 데님 좋아.짱.추천합니다.입어보니  잘 늘어나고 따뜻해요.생각보다 가볍고.사이즈 딱이고 허리 밴드 있어서 더 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모데님 3종",
+    "ReviewScore": "100",
+    "Syllable": "81",
+    "Word": "16",
+    "RDate": "20211121",
+    "Aspects": [
+      {
+        "Aspect": "신축성",
+        "SentimentText": "입어보니  잘 늘어나고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻해요.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈 딱이고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "허리 밴드 있어서 더 좋아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "42520",
+    "RawText": "아빠 사드렸는데 불편하시데요 갑자기 날씨가 추워졌는데 따뜻하지도 않네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모데님 3종",
+    "ReviewScore": "100",
+    "Syllable": "39",
+    "Word": "8",
+    "RDate": "20211110",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "불편하시데요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "갑자기 날씨가 추워졌는데 따뜻하지도 않네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "42521",
+    "RawText": "안좋아요 색상도 기모도 스판도 아주 맘에안들어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모데님 3종",
+    "ReviewScore": "100",
+    "Syllable": "26",
+    "Word": "6",
+    "RDate": "20211112",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 기모도 스판도 아주 맘에안들어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "기모도 스판도 아주 맘에안들어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": "스판도 아주 맘에안들어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "42522",
+    "RawText": "신축성은 좋은데 기장이 길어 기장줄이는비용이 너무 들어용 ㅠ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모데님 3종",
+    "ReviewScore": "70",
+    "Syllable": "33",
+    "Word": "8",
+    "RDate": "20211112",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "신축성",
+        "SentimentText": "신축성은 좋은데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "기장이 길어 기장줄이는비용이 너무 들어용 ㅠ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "42525",
+    "RawText": "따뜻하지않고 불편한핏의 바지에요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모데님 3종",
+    "ReviewScore": "100",
+    "Syllable": "17",
+    "Word": "3",
+    "RDate": "20211124",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻하지않고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "불편한핏의 바지에요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "42526",
+    "RawText": "품질도 안좋고 디자인도 너무 안좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모데님 3종",
+    "ReviewScore": "100",
+    "Syllable": "20",
+    "Word": "5",
+    "RDate": "20211117",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 안좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 너무 안좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "42530",
+    "RawText": "청바지가 탄력없고 불편합니다 ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모데님 3종",
+    "ReviewScore": "80",
+    "Syllable": "16",
+    "Word": "3",
+    "RDate": "20211111",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "신축성",
+        "SentimentText": "청바지가 탄력없고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "불편합니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "42531",
+    "RawText": "기모가 있어도 따뜻하지도않고 스판기가 활동하기에도 불편합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모데님 3종",
+    "ReviewScore": "100",
+    "Syllable": "34",
+    "Word": "6",
+    "RDate": "20211120",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "기모가 있어도 따뜻하지도않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "스판기가 활동하기에도 불편합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "42538",
+    "RawText": "원단 따뜻하지않고 신축성 안좋고 핏도 깔끔지못해요. 허리밴드 있어서 평소 사이즈대로 해도 무방하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모데님 3종",
+    "ReviewScore": "90",
+    "Syllable": "56",
+    "Word": "12",
+    "RDate": "20211120",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "원단 따뜻하지않고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": "신축성 안좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏도 깔끔지못해요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "허리밴드 있어서 평소 사이즈대로 해도 무방하네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "42540",
+    "RawText": "옷이 핏이 안이쁘고 너무 따뜻하지않고 안좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모데님 3종",
+    "ReviewScore": "100",
+    "Syllable": "25",
+    "Word": "6",
+    "RDate": "20211114",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "핏",
+        "SentimentText": "옷이 핏이 안이쁘고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "너무 따뜻하지않고 안좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "42549",
+    "RawText": "신축성 안좋고 안따뜻해요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모데님 3종",
+    "ReviewScore": "100",
+    "Syllable": "13",
+    "Word": "3",
+    "RDate": "20211103",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "신축성",
+        "SentimentText": "신축성 안좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "안따뜻해요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "42551",
+    "RawText": "핏도예쁘고 따뜻해요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모데님 3종",
+    "ReviewScore": "100",
+    "Syllable": "10",
+    "Word": "2",
+    "RDate": "20211105",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏도예쁘고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻해요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "42554",
+    "RawText": "ㅇㅇ 기모 청바지  ㅇㅇ쇼핑 방송 본거와 달리 입어 보니 허리가 너무 불편하고 전체적 으로도 너무 불편합니다 ~  이번 2021 년 ㅇㅇ 신상 기모 청바지는 다른 년도 보다  별로에요~         ^.^      기모 청바지 3종이 따뜻한게 없으니 기분이 안좋습니다~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모데님 3종",
+    "ReviewScore": "90",
+    "Syllable": "151",
+    "Word": "36",
+    "RDate": "20211110",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "입어 보니 허리가 너무 불편하고 전체적 으로도 너무 불편합니다 ~ ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "기모 청바지 3종이 따뜻한게 없으니 기분이 안좋습니다~          ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "42556",
+    "RawText": "옷은 좋은데. 너무 얇아요 겨울용은 아니고 봄가을용 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모데님 3종",
+    "ReviewScore": "60",
+    "Syllable": "32",
+    "Word": "8",
+    "RDate": "20211103",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "너무 얇아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "겨울용은 아니고 봄가을용 같아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "42976",
+    "RawText": "검정색 바지가 너무 커서 못 입을 것 같습니다. 사이즈 차이가 너무 나요 나머지 2개는 입기 편하고 맘에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 풀** 데님팬츠 3종",
+    "ReviewScore": "50",
+    "Syllable": "63",
+    "Word": "18",
+    "RDate": "20211109",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "검정색 바지가 너무 커서 못 입을 것 같습니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈 차이가 너무 나요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "나머지 2개는 입기 편하고 맘에 듭니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "42979",
+    "RawText": "다리통이 좁네요. 좀 얇은 것 같기도 하구요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 풀** 데님팬츠 3종",
+    "ReviewScore": "80",
+    "Syllable": "24",
+    "Word": "7",
+    "RDate": "20220225",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "다리통이 좁네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "좀 얇은 것 같기도 하구요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "42984",
+    "RawText": "편안하고 좋은데  질은 딱 가격만큼입니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 풀** 데님팬츠 3종",
+    "ReviewScore": "100",
+    "Syllable": "22",
+    "Word": "5",
+    "RDate": "20211212",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편안하고 좋은데 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 질은 딱 가격만큼입니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "42986",
+    "RawText": "남편이  옷이 너무  편하다고  합니다!~ 핏도  예쁘네요!",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 풀** 데님팬츠 3종",
+    "ReviewScore": "100",
+    "Syllable": "33",
+    "Word": "7",
+    "RDate": "20220124",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": " 옷이 너무  편하다고  합니다!~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏도  예쁘네요!",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "42989",
+    "RawText": "아이가 키는큰데 너무말라서 옷고르기가 여간  힘든게 아닌데 역시나 젤 작은 사이즈를 샀는데도 길이는 딱인데 헐가 많이 크네요~ 커서 벨트를 하고 입어야할듯요~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 풀** 데님팬츠 3종",
+    "ReviewScore": "100",
+    "Syllable": "88",
+    "Word": "21",
+    "RDate": "20211227",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "길이",
+        "SentimentText": "젤 작은 사이즈를 샀는데도 길이는 딱인데",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "헐가 많이 크네요~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "커서 벨트를 하고 입어야할듯요~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "42992",
+    "RawText": "트레이닝복처럼편하다고해서구매했는데 재질도좋고 착용감이 편하고 너무좋아요 감사합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 풀** 데님팬츠 3종",
+    "ReviewScore": "100",
+    "Syllable": "45",
+    "Word": "6",
+    "RDate": "20220215",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질도좋고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감이 편하고 너무좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "42995",
+    "RawText": "기모지만 좀 얇아서 춥지않을까 걱정되네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 풀** 데님팬츠 3종",
+    "ReviewScore": "80",
+    "Syllable": "22",
+    "Word": "5",
+    "RDate": "20211222",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "기모지만 좀 얇아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "춥지않을까 걱정되네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "42999",
+    "RawText": "핏도 좋고  컬러도  맘에 들어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 풀** 데님팬츠 3종",
+    "ReviewScore": "100",
+    "Syllable": "18",
+    "Word": "5",
+    "RDate": "20220105",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏도 좋고  ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "컬러도  맘에 들어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "43000",
+    "RawText": "금액에 비해서 좋으나 지퍼가 있었으면 더 좋겠네요. 잘 입을께요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 풀** 데님팬츠 3종",
+    "ReviewScore": "100",
+    "Syllable": "36",
+    "Word": "9",
+    "RDate": "20220207",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "금액에 비해서 좋으나",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "지퍼가 있었으면 더 좋겠네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "43003",
+    "RawText": "의류를 홈쇼핑에서 구매하면  거의 실제와 달라 실망이 많았는데 모처럼 좋은상품 아주 싸게 잘 샀군요!  디자인:힢 허벅지 넉넉하다가 밑단으로 내려가면서 좁아지는 디자인 딱 맘에 듭니다. 청바지(진)엄청 많음에도 제가 나이도 있고(70세) 젊게 입는데도 불구하고 꼭 끼는건 싫었는데  아주 좋아요  기모도 한겨울 두껍지는 않으나 지금 입기 딱 좋은 두께",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 풀** 데님팬츠 3종",
+    "ReviewScore": "100",
+    "Syllable": "196",
+    "Word": "46",
+    "RDate": "20220214",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "좋은상품 아주 싸게 잘 샀군요!",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "힢 허벅지 넉넉하다가 밑단으로 내려가면서 좁아지는 디자인",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "꼭 끼는건 싫었는데  아주 좋아요 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": " 기모도 한겨울 두껍지는 않으나 지금 입기 딱 좋은 두께",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "43004",
+    "RawText": "기모가 두툼하지 않디만 청바지가 부드럽고 밴딩이 편해서 좋아요~큰 싸이즈에 밴딩 구하기.쉽지 않은데 정말 좋았네요~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 풀** 데님팬츠 3종",
+    "ReviewScore": "80",
+    "Syllable": "64",
+    "Word": "14",
+    "RDate": "20220209",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "기모가 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "청바지가 부드럽고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "밴딩이 편해서 좋아요~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "큰 싸이즈에 밴딩 구하기.쉽지 않은데 정말 좋았네요~",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "두툼하지 않디만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "43008",
+    "RawText": "색상의 무난함 착용 자유로움 핏도무난한듯 ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 풀** 데님팬츠 3종",
+    "ReviewScore": "80",
+    "Syllable": "23",
+    "Word": "5",
+    "RDate": "20220105",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상의 무난함",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": " 착용 자유로움 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏도무난한듯",
+        "SentimentWord": "1",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "43014",
+    "RawText": "잘 입고 있어요 흠은 지퍼다 없어요 남자들은 입기가 쾌 불편해요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 풀** 데님팬츠 3종",
+    "ReviewScore": "100",
+    "Syllable": "35",
+    "Word": "10",
+    "RDate": "20211215",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "흠은 지퍼다 없어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "남자들은 입기가 쾌 불편해요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "43015",
+    "RawText": "좀크게나왔어요 배기바지구요 스판좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 풀** 데님팬츠 3종",
+    "ReviewScore": "100",
+    "Syllable": "20",
+    "Word": "3",
+    "RDate": "20220104",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "좀크게나왔어요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": "스판좋아요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "43016",
+    "RawText": "신랑 평소 사이즈대로 샀는데 잘 맞아요  일단 입기 편해서 좋다네오ㅡ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 풀** 데님팬츠 3종",
+    "ReviewScore": "100",
+    "Syllable": "38",
+    "Word": "10",
+    "RDate": "20211210",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "평소 사이즈대로 샀는데 잘 맞아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "입기 편해서 좋다네오ㅡ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "43019",
+    "RawText": "입어보고 편하다고 하니 다행이네요. 아들이 허벅지가 굵어서 웬만하면 직접 입어보고 구매하는편인데..좋은가격에 핏이 이쁘다는 말에 저도 모르게 주문하고 있었네요ㅎㅎ 31사이즈인데 허리는 여유있고 허벅지는 딱 맞아요.. 스판끼가 있어서 입었을 때 불편함이 없다네요. ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 풀** 데님팬츠 3종",
+    "ReviewScore": "100",
+    "Syllable": "147",
+    "Word": "30",
+    "RDate": "20211210",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "입어보고 편하다고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "31사이즈인데 허리는 여유있고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "허벅지는 딱 맞아요..",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": "스판끼가 있어서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "입었을 때 불편함이 없다네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "43022",
+    "RawText": "겨울 기모데님이라 구매했어요~ 디자인은 단순하지만 허리품이 여유있고  활동성이 좋아요~  한번 빨았는데 검정바지 물이 많이 빠져서 색이흐려진거같아  아쉬워요...",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 풀** 데님팬츠 3종",
+    "ReviewScore": "100",
+    "Syllable": "90",
+    "Word": "17",
+    "RDate": "20220101",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인은 단순하지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "허리품이 여유있고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "활동성이 좋아요~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "한번 빨았는데 검정바지 물이 많이 빠져서",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "색이흐려진거같아  아쉬워요...",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "43023",
+    "RawText": "고무줄바지 처음 입는 신랑이 지퍼가 없어서 입기가 불편하다네요~ㅋ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 풀** 데님팬츠 3종",
+    "ReviewScore": "70",
+    "Syllable": "36",
+    "Word": "8",
+    "RDate": "20211214",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "지퍼가 없어서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "입기가 불편하다네요~ㅋ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "43025",
+    "RawText": "따뜻하고 허리도 편하게 잘입고있습니다 스판이라 좋데요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 풀** 데님팬츠 3종",
+    "ReviewScore": "100",
+    "Syllable": "29",
+    "Word": "6",
+    "RDate": "20211218",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻하고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "허리도 편하게 잘입고있습니다 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": "스판이라 좋데요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "43027",
+    "RawText": "뭐 나쁘진 않아요 질이 트레이닝복보다는 낫다고 생각 드네요 그냥 집에서 편하게 입을 수 있는 일상복으로 좋음",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 풀** 데님팬츠 3종",
+    "ReviewScore": "80",
+    "Syllable": "60",
+    "Word": "16",
+    "RDate": "20211123",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": " 질이 트레이닝복보다는 낫다고 생각 드네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "그냥 집에서 편하게 입을 수 있는 일상복으로 좋음",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "43029",
+    "RawText": "이건 품질이 종아서 꼭 입어봐야됨  너무 착용감이 편하고 따뜻하고 활용도도 최상급 여러옷에 받쳐입기도 좋고 너무 맘에드네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 풀** 데님팬츠 3종",
+    "ReviewScore": "100",
+    "Syllable": "68",
+    "Word": "16",
+    "RDate": "20211112",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "이건 품질이 종아서 꼭 입어봐야됨",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "너무 착용감이 편하고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻하고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "활용도도 최상급",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "여러옷에 받쳐입기도 좋고 너무 맘에드네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "43032",
+    "RawText": "신랑이  맘에  들어하네요. 착용감 편하다는데  한겨울에는  좀 추울듯하대요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 풀** 데님팬츠 3종",
+    "ReviewScore": "100",
+    "Syllable": "42",
+    "Word": "8",
+    "RDate": "20211124",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감 편하다는데 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": " 한겨울에는  좀 추울듯하대요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "43036",
+    "RawText": "빠른배송  좋구여~  따뜻함도 그렇저렇 한데  옷에 품질이 그렇네요~ 싼게 비지떡~ 우짠수 없이 입어요~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 풀** 데님팬츠 3종",
+    "ReviewScore": "40",
+    "Syllable": "58",
+    "Word": "13",
+    "RDate": "20211117",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻함도 그렇저렇 한데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "옷에 품질이 그렇네요~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "싼게 비지떡~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "43037",
+    "RawText": "편하게 입기에 좋으네요.스판소재가   짱이에요~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 풀** 데님팬츠 3종",
+    "ReviewScore": "100",
+    "Syllable": "26",
+    "Word": "4",
+    "RDate": "20211117",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편하게 입기에 좋으네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": "스판소재가   짱이에요~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "43038",
+    "RawText": "스판기 있어서 편해요. 기모있어서 따듯합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 풀** 데님팬츠 3종",
+    "ReviewScore": "100",
+    "Syllable": "24",
+    "Word": "5",
+    "RDate": "20211202",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "신축성",
+        "SentimentText": "스판기 있어서 편해요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "기모있어서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": " 따듯합니다",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "43041",
+    "RawText": "남편이 착용감이 엄청 편하다하고 따숩다하네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 풀** 데님팬츠 3종",
+    "ReviewScore": "100",
+    "Syllable": "24",
+    "Word": "5",
+    "RDate": "20211201",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "남편이 착용감이 엄청 편하다하고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따숩다하네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "43042",
+    "RawText": "남편 사주었는데 스판력이 좋아서 활동하기 아주 좋다하네요 색상도 모두 맘에  들어합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 풀** 데님팬츠 3종",
+    "ReviewScore": "100",
+    "Syllable": "48",
+    "Word": "11",
+    "RDate": "20211201",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "신축성",
+        "SentimentText": "스판력이 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": " 활동하기 아주 좋다하네요 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 모두 맘에  들어합니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "43043",
+    "RawText": "밝은청바지는 기모가 있어도  무척 얇고  진청블랙은  사이즈가 작네요.운동부족으로 허리살땜에  밴드바지만  찾네요..아들들이",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 풀** 데님팬츠 3종",
+    "ReviewScore": "80",
+    "Syllable": "69",
+    "Word": "11",
+    "RDate": "20211130",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "밝은청바지는 기모가 있어도  무척 얇고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "진청블랙은  사이즈가 작네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "43044",
+    "RawText": "일상복, 작업복으로 사용하기 좋습니다. 외출용으로는 약간 부족함. 허리 밴딩이 느슨해서 별2개만. 착용감이 부드럽지 않아요.별1개.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 풀** 데님팬츠 3종",
+    "ReviewScore": "40",
+    "Syllable": "73",
+    "Word": "14",
+    "RDate": "20211122",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "활용성",
+        "SentimentText": "일상복, 작업복으로 사용하기 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "외출용으로는 약간 부족함.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "허리 밴딩이 느슨해서 별2개만.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감이 부드럽지 않아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "43046",
+    "RawText": "다른 바지들은 정상 사이즈 같고, 검정색이 입었을때 유독커서 다른 바지랑 펼쳐서  사이즈를 비교 했더니 5cm 정도가 차이가 나네요(커서 ㅅㅓㅇㅇㅣㄴ남자 손가락 4개가 들어가요).  문의 결과 오차가 1~2 cm차이 날꺼라고 하는데 ... 부분 취소도 안되고... 아깝지만 그냥 검정색 버리고 입을라고요!",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 풀** 데님팬츠 3종",
+    "ReviewScore": "40",
+    "Syllable": "170",
+    "Word": "38",
+    "RDate": "20211109",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "다른 바지들은 정상 사이즈 같고,",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "검정색이 입었을때 유독커서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "5cm 정도가 차이가 나네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "(커서 ㅅㅓㅇㅇㅣㄴ남자 손가락 4개가 들어가요). ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "43048",
+    "RawText": "핏도괜찮고 두께도 적당하다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 풀** 데님팬츠 3종",
+    "ReviewScore": "100",
+    "Syllable": "14",
+    "Word": "3",
+    "RDate": "20211116",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏도괜찮고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": " 두께도 적당하다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "43049",
+    "RawText": "스판성도좋고 집에서 부담없이입기좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 풀** 데님팬츠 3종",
+    "ReviewScore": "100",
+    "Syllable": "20",
+    "Word": "3",
+    "RDate": "20211116",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "신축성",
+        "SentimentText": "스판성도좋고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "집에서 부담없이입기좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "43051",
+    "RawText": "40대중반의 아저씨라 밴딩청바지 기다렸어요 핏도 예쁘네요 한치수 작게 사면 괜찮을듯, 31인데 32 샀더니.. 엉덩이랑 품이 커요 30 교환 했더니 핏이 딱이네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 풀** 데님팬츠 3종",
+    "ReviewScore": "100",
+    "Syllable": "90",
+    "Word": "21",
+    "RDate": "20211124",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏도 예쁘네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "한치수 작게 사면 괜찮을듯,",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "31인데 32 샀더니.. 엉덩이랑 품이 커요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "30 교환 했더니 핏이 딱이네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "43053",
+    "RawText": "입으니 편하고 따뜻해요   살짝 크게나온듯해요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 풀** 데님팬츠 3종",
+    "ReviewScore": "100",
+    "Syllable": "25",
+    "Word": "5",
+    "RDate": "20211124",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "입으니 편하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻해요  ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "살짝 크게나온듯해요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "43054",
+    "RawText": "상품평처럼 검정바지가 너무너무 커요.ㅠㅠ 하나만 교환해주지도 않으실거면 첨부터 작은 사이즈로 넣어주시지ᆢ. 다른 색상은 신랑이 편하다고 맘에든다고 했는데 검정색 바지로 별하나 뺏어요. 이부분은 정말 고려해보시는게 어떨지요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 풀** 데님팬츠 3종",
+    "ReviewScore": "80",
+    "Syllable": "124",
+    "Word": "25",
+    "RDate": "20211116",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "검정바지가 너무너무 커요.ㅠㅠ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "다른 색상은 신랑이 편하다고 맘에든다고 했는데",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "43058",
+    "RawText": "색상 디자인 사이즈  다맘에든데요 남편이 한가지 생각보다 살짝 두껍지가않네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 풀** 데님팬츠 3종",
+    "ReviewScore": "100",
+    "Syllable": "42",
+    "Word": "9",
+    "RDate": "20211120",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상 디자인 사이즈  다맘에든데요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 사이즈  다맘에든데요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈  다맘에든데요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "살짝 두껍지가않네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "43059",
+    "RawText": "사이즈도 잘 맞고 검정이 크다는 글들이 있던데 검정도 괜찮더라구요 신축성도 좋고 핏도 이뻐요 저렴한 가격에 잘 구입한것 같아요 올 겨울 아들 바지는 따뜻한 이걸로 해결 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 풀** 데님팬츠 3종",
+    "ReviewScore": "100",
+    "Syllable": "98",
+    "Word": "26",
+    "RDate": "20211115",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈도 잘 맞고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "검정이 크다는 글들이 있던데 검정도 괜찮더라구요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": "신축성도 좋고  ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏도 이뻐요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 잘 구입한것 같아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "올 겨울 아들 바지는 따뜻한 이걸로 해결 합니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "43060",
+    "RawText": "바지가 편안하고사이즈도 잘말맞아 기분좋습니다 적당하게 두꺼워조았어요 만족합니다\u0027",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 풀** 데님팬츠 3종",
+    "ReviewScore": "100",
+    "Syllable": "44",
+    "Word": "7",
+    "RDate": "20211119",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "바지가 편안하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈도 잘말맞아 기분좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "적당하게 두꺼워조았어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "43062",
+    "RawText": "남편  사줬는데  싸이즈도  딱맞고  착용감 편하고  좋으데요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 풀** 데님팬츠 3종",
+    "ReviewScore": "100",
+    "Syllable": "34",
+    "Word": "7",
+    "RDate": "20211124",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "  싸이즈도  딱맞고  ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감 편하고  좋으데요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "43064",
+    "RawText": "남편작업복으로 구입! 지금 계절에 입기에는 좋은데 더 추워지면 얇아서 솜바지로 입어야겠어요~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 풀** 데님팬츠 3종",
+    "ReviewScore": "100",
+    "Syllable": "51",
+    "Word": "11",
+    "RDate": "20211122",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "지금 계절에 입기에는 좋은데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "더 추워지면 얇아서 솜바지로 입어야겠어요~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "43065",
+    "RawText": "사이즈도 딱 맞고 착용감 편안합니다. 촉감도 좋네요. 만족합니다^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 풀** 데님팬츠 3종",
+    "ReviewScore": "100",
+    "Syllable": "37",
+    "Word": "8",
+    "RDate": "20211115",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈도 딱 맞고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": " 착용감 편안합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "촉감도 좋네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "43066",
+    "RawText": "검정바지만 좀더크네요  다른두개바지는 사이즈 편하고 길이도 잘맞아 자주 입게될것 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 풀** 데님팬츠 3종",
+    "ReviewScore": "100",
+    "Syllable": "48",
+    "Word": "10",
+    "RDate": "20211119",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "검정바지만 좀더크네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "다른두개바지는 사이즈 편하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "길이도 잘맞아 자주 입게될것 같아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "43068",
+    "RawText": "내꺼랑 남편꺼 같이 주문했는데 내꺼 별루던데 남편꺼는 맘에들어하네요 입으니 편하고  따뜻해서 좋데요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 풀** 데님팬츠 3종",
+    "ReviewScore": "100",
+    "Syllable": "55",
+    "Word": "12",
+    "RDate": "20211124",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "입으니 편하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻해서 좋데요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "43072",
+    "RawText": "바지를 주문해서 받았는데 남자바지인데 앞쪽에지퍼가 없네요 화장실갈때마다 지퍼가없어 불편해서 실망입니다 잘못구매 반품하고 싶지만,,,,,",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 풀** 데님팬츠 3종",
+    "ReviewScore": "30",
+    "Syllable": "75",
+    "Word": "13",
+    "RDate": "20211207",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "남자바지인데 앞쪽에지퍼가 없네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "화장실갈때마다 지퍼가없어 불편해서 실망입니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "43073",
+    "RawText": "편하게 잘 입을수 있겠어요...가성비 굿",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 풀** 데님팬츠 3종",
+    "ReviewScore": "100",
+    "Syllable": "22",
+    "Word": "5",
+    "RDate": "20211115",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편하게 잘 입을수 있겠어요...",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 굿",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "43074",
+    "RawText": "아주 잘 입고 있어요. 따뜻하고 입기 편해요. 한사이즈 작게 주문해도 될꺼같아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 풀** 데님팬츠 3종",
+    "ReviewScore": "100",
+    "Syllable": "44",
+    "Word": "11",
+    "RDate": "20211205",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻하고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "입기 편해요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "한사이즈 작게 주문해도 될꺼같아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "43078",
+    "RawText": "176cm 70키로   허리는 마른편이라 사이즈 찾기가 애매한데 이거 30사이즈 허리는 역시 조금 여유있다라는느낌이고 다리길이는 맞고  다리 폭은 딱맞는다는 느낌입니다. 32사이즈는 허리에서 너덜너덜 한사이즈",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 풀** 데님팬츠 3종",
+    "ReviewScore": "100",
+    "Syllable": "116",
+    "Word": "23",
+    "RDate": "20211125",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "30사이즈 허리는 역시 조금 여유있다라는느낌이고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "다리길이는 맞고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "다리 폭은 딱맞는다는 느낌입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "32사이즈는 허리에서 너덜너덜 한사이즈",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "43079",
+    "RawText": "남편 사줬는데 까다로운 사람인데도 마음에 든다고 해요 고무스트링바지라 입으니 편하고기모라 좋대요 다만 색상이 모두 어두운데 색상이 비슷한것 같아 조금 아쉽대요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 풀** 데님팬츠 3종",
+    "ReviewScore": "100",
+    "Syllable": "88",
+    "Word": "20",
+    "RDate": "20211128",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "고무스트링바지라 입으니 편하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "기모라 좋대요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 모두 어두운데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 비슷한것 같아 조금 아쉽대요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "43336",
+    "RawText": "따뜻하게 입을 바지를찾던중 홈쇼핑을 보게 되었는데 구입을 했는데 일단 따뜻은 한것같구요  그런데 사이즈가 쫌 다르네요 블랙색상이 크게 나왔구요 전체적으로 밑이 너무 길어요...ㅜㅜ 제가 개인적으로 너무 싫어하거든요... 반품 생각했다가 그냥 막 입을려구요.. 핏이 얼마나 이쁘게 될지는 알수가 없네요..ㅜㅜ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모 본딩데님팬츠 3종 ",
+    "ReviewScore": "50",
+    "Syllable": "171",
+    "Word": "37",
+    "RDate": "20211219",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "일단 따뜻은 한것같구요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": " 사이즈가 쫌 다르네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "블랙색상이 크게 나왔구요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "전체적으로 밑이 너무 길어요...ㅜㅜ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏이 얼마나 이쁘게 될지는 알수가 없네요..ㅜㅜ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "43337",
+    "RawText": "제품정보에 사이즈30이 허리 74cm라고 해서 주문했는데 실제 제품은 76cm였어요.  정확한 제품정보가 필요한거 같아요. 핏도 안예뻐요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모 본딩데님팬츠 3종 ",
+    "ReviewScore": "90",
+    "Syllable": "76",
+    "Word": "15",
+    "RDate": "20211210",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈30이 허리 74cm라고 해서 주문했는데 실제 제품은 76cm였어요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏도 안예뻐요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "43347",
+    "RawText": "기모바지인데 신축성이 정말 좋아요 아들거 사줘는데~~  지금까지 입어본 기모바지중 최고라네요  신축성좋으니 너무편하고 따뜻하다고 하네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모 본딩데님팬츠 3종 ",
+    "ReviewScore": "100",
+    "Syllable": "75",
+    "Word": "14",
+    "RDate": "20211219",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "신축성",
+        "SentimentText": "기모바지인데 신축성이 정말 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": "신축성좋으니",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "너무편하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻하다고 하네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "43349",
+    "RawText": "입으니 편하고 좋은데..지퍼길이가 조금 짧다네요..",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모 본딩데님팬츠 3종 ",
+    "ReviewScore": "70",
+    "Syllable": "28",
+    "Word": "5",
+    "RDate": "20211216",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "입으니 편하고 좋은데..",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "지퍼길이가 조금 짧다네요..",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "43351",
+    "RawText": "디자인.색상 맘에들어요. 근데.약간의 보풀이 생기는것같아요. 이 단점만 보완하면 핏도 좋고 추전가능상품입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모 본딩데님팬츠 3종 ",
+    "ReviewScore": "80",
+    "Syllable": "61",
+    "Word": "11",
+    "RDate": "20220114",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인.색상 맘에들어요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상 맘에들어요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "약간의 보풀이 생기는것같아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "43354",
+    "RawText": "겨울청바지가 다 낡아 옷사러 가야되겠다 생각하고 티비를 켜는순간 홈쇼핑에 말도안되게 1벌값도 안되는 가격에 3벌을 준다고 하여 고민1도없이 바로 어플설치하고 주문하였는데 다음날인 오늘 배송이 도착해서 두번 놀랐습니다. 제품 품질은 만족합니다. 사이즈가 애매한 몸뚱아리라 항상 아쉽긴 합니닷 30은 작고 32는 살짝 크고 ㅜㅜ 31은 왜 없는것인지.  여튼 이 3벌도 몇년은 입을듯 싶습니다. 아참 그런데 주머니에 왠 돌맹이가 있어서 세번 놀랐습니다.  습기제거용 돌맹이인가? 이미지 첨부하고 싶었는데 첨부가 안되네용. 크기는 메추리알보다 살짝 큰  정도?!?",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모 본딩데님팬츠 3종 ",
+    "ReviewScore": "100",
+    "Syllable": "312",
+    "Word": "70",
+    "RDate": "20211218",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "1벌값도 안되는 가격에 3벌을 준다고 하여",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "제품 품질은 만족합니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "30은 작고 32는 살짝 크고 ㅜㅜ 31은 왜 없는것인지.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "아참 그런데 주머니에 왠 돌맹이가 있어서 세번 놀랐습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "43358",
+    "RawText": "진짜 따뜻하네요 겨울철 이만한게 없네요 또 허리 밴딩이 최고 편해요!",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기모 본딩데님팬츠 3종 ",
+    "ReviewScore": "100",
+    "Syllable": "38",
+    "Word": "10",
+    "RDate": "20211222",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "진짜 따뜻하네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "겨울철 이만한게 없네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "또 허리 밴딩이 최고 편해요!",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "43371",
+    "RawText": "사이즈.좋고, 디자인도 좋아요 본딩기모라 가볍고 따듯해요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 레** 더블 데님팬츠 3종",
+    "ReviewScore": "100",
+    "Syllable": "31",
+    "Word": "6",
+    "RDate": "20211222",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈.좋고,",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "본딩기모라 가볍고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따듯해요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "43373",
+    "RawText": "아들 주려구 샀는데 좀 얇긴하지만 그냥 입는답니다.  조금만  더 두꺼웠음 더 좋았을걸...",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 레** 더블 데님팬츠 3종",
+    "ReviewScore": "70",
+    "Syllable": "51",
+    "Word": "12",
+    "RDate": "20211216",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "좀 얇긴하지만 그냥 입는답니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "조금만  더 두꺼웠음 더 좋았을걸...",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "43376",
+    "RawText": "한 치수 작은것으로 주문해야 했는데 그냥 입습니다. 지퍼를 내렸다 올렸다 하기 불편하네요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 레** 더블 데님팬츠 3종",
+    "ReviewScore": "70",
+    "Syllable": "50",
+    "Word": "12",
+    "RDate": "20220113",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "한 치수 작은것으로 주문해야 했는데 그냥 입습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "지퍼를 내렸다 올렸다 하기 불편하네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "43378",
+    "RawText": "바지상단이 긴편이고 전체적으로길이는괜찮아요, 두께 얇은편 찬바람을 잘버틸지는 경험해 봐야겠어요 , 쪼임이나이런건없고 활동하기 편해요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 레** 더블 데님팬츠 3종",
+    "ReviewScore": "60",
+    "Syllable": "74",
+    "Word": "13",
+    "RDate": "20211216",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "길이",
+        "SentimentText": "바지상단이 긴편이고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": " 전체적으로길이는괜찮아요,",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": " 두께 얇은편 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": " 쪼임이나이런건없고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": " 활동하기 편해요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "43380",
+    "RawText": "한치수 작게 주문하시면 좋을듯해요 상세사이즈 확인하세요  허리에서  엉덩이 부분까지  좀 크게 나온것 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 레** 더블 데님팬츠 3종",
+    "ReviewScore": "100",
+    "Syllable": "60",
+    "Word": "13",
+    "RDate": "20211221",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "한치수 작게 주문하시면 좋을듯해요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "허리에서  엉덩이 부분까지  좀 크게 나온것 같아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "43382",
+    "RawText": "체형과  핏이 조금맞지않지만 착복한것같지않은것처럼편한하나 허리부분 신축성이너무좋은편임",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 레** 더블 데님팬츠 3종",
+    "ReviewScore": "60",
+    "Syllable": "47",
+    "Word": "6",
+    "RDate": "20220104",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "핏",
+        "SentimentText": "체형과  핏이 조금맞지않지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착복한것같지않은것처럼편한하나",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": "허리부분 신축성이너무좋은편임",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "53253",
+    "RawText": "저렴하게잘구입했네요. 봄에입히려 주문했네요.편하게 입을듯해요.청바지지만트레이닝복처럼 편히 입을듯해요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 풀** 데님팬츠 3종",
+    "ReviewScore": "100",
+    "Syllable": "55",
+    "Word": "6",
+    "RDate": "20220122",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게잘구입했네요.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편하게 입을듯해요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "청바지지만트레이닝복처럼 편히 입을듯해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "53271",
+    "RawText": "바지가  싸이즈가  조금씩  달라요   그래도  신축성이  좋아서  이가격에  품질이 굿입니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 풀** 데님팬츠 3종",
+    "ReviewScore": "100",
+    "Syllable": "52",
+    "Word": "10",
+    "RDate": "20210805",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "바지가  싸이즈가  조금씩  달라요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": "신축성이  좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "이가격에  품질이 굿입니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "53272",
+    "RawText": "사이즈 한치수 작게 주문하세요~ 타이트한 바지가아니라서 아주 편하게 입을수있어서 좋아요~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 풀** 데님팬츠 3종",
+    "ReviewScore": "70",
+    "Syllable": "49",
+    "Word": "10",
+    "RDate": "20210806",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈 한치수 작게 주문하세요~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "타이트한 바지가아니라서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "아주 편하게 입을수있어서 좋아요~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "53273",
+    "RawText": "입고다니기편하다고하네요~ 청바지라 캐주얼하고 좋아요^*^  ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 풀** 데님팬츠 3종",
+    "ReviewScore": "80",
+    "Syllable": "33",
+    "Word": "4",
+    "RDate": "20210810",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "입고다니기편하다고하네요~",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "청바지라 캐주얼하고 좋아요^*^",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "53283",
+    "RawText": "나와있는 치수보다 기장이 좀더 길긴 한데, 그래서 안좋아요 사이즈 별로네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 풀** 데님팬츠 3종",
+    "ReviewScore": "100",
+    "Syllable": "41",
+    "Word": "10",
+    "RDate": "20210804",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "길이",
+        "SentimentText": "나와있는 치수보다 기장이 좀더 길긴 한데",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈 별로네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  }
+]

@@ -1,0 +1,3077 @@
+[
+  {
+    "Index": "90640",
+    "RawText": "제품 주문했는데 실물 색상이 별로 안 예쁘네요. ㅜ 실망이에요  또 제품 가동시켜보니 생각보다 따뜻함이 덜해서 불만족스러워요. ㅜ 성능 별로네요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "사파이어 홍진테크 SF-1600C 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "81",
+    "Word": "19",
+    "RDate": "20191120",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "제품 주문했는데 실물 색상이 별로 안 예쁘네요. ㅜ 실망이에요 ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "또 제품 가동시켜보니 생각보다 따뜻함이 덜해서 불만족스러워요. ㅜ 성능 별로네요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "90641",
+    "RawText": "실내온도를 빠른 시간안에 높여줘서 아주 만족해요.. 성능 좋네요.. 90동 상하좌우 각도 조절이 가능해서 사용할때 너무 편리하네요.. 굿~! 타이머가 최대 2시간까지 설정할 수 있어서 좋고, 과열방지 기능도 가능해서 깜박하고 외부 외출할때도 안심되어 대만족 할인 행사할때 저렴한 가격에 제품 구입해서 기분 좋네요..  강추~~",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "사파이어 홍진테크 SF-1600C 일반구매",
+    "ReviewScore": "5",
+    "Syllable": "182",
+    "Word": "41",
+    "RDate": "20190123",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "실내온도를 빠른 시간안에 높여줘서 아주 만족해요.. 성능 좋네요..",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "90동 상하좌우 각도 조절이 가능해서 사용할때 너무 편리하네요.. 굿~!",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "타이머가 최대 2시간까지 설정할 수 있어서 좋고, 과열방지 기능도 가능해서 깜박하고 외부 외출할때도 안심되어 대만족",
+        "SentimentWord": "15",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인 행사할때 저렴한 가격에 제품 구입해서 기분 좋네요..  강추~~ ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "90642",
+    "RawText": "와~ 제품 성능이 너무 우수해서 아이들방이 금방 훈훈해지네요.. 대만족이에요.. ㅎㅎ 외부 온도가 추운날 욕실에서 샤워할때 가동시키면 샤워후에도 춥지 않아서 마음에 들어요..  자동온도설정 기능이 있어서 22도로 설정하니 계속 같은 온도가 유지되어 매우 편리하네요..  다만 플러그는 별도로 개인 구입해야 해서 아쉽고,  와이파이 연결을 시도하는데 자꾸 오류가 발생해서 안 좋네요. ㅜ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "스마트미 샤오미 전기난로 스마트 1S 해외구매",
+    "ReviewScore": "5",
+    "Syllable": "215",
+    "Word": "48",
+    "RDate": "20220106",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "와~ 제품 성능이 너무 우수해서 아이들방이 금방 훈훈해지네요.. 대만족이에요.. ㅎㅎ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "외부 온도가 추운날 욕실에서 샤워할때 가동시키면 샤워후에도 춥지 않아서 마음에 들어요.. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "자동온도설정 기능이 있어서 22도로 설정하니 계속 같은 온도가 유지되어 매우 편리하네요.. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "다만 플러그는 별도로 개인 구입해야 해서 아쉽고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": " 와이파이 연결을 시도하는데 자꾸 오류가 발생해서 안 좋네요. ㅜ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "90643",
+    "RawText": "제품 외형이 무척 슬림하고 깔끔해서 마음에 들어요.  예상보다 제품 무게도 가벼워서 휴대하기 편리해 좋아요.  아이방에 틀어보니 금방 방안이 훈훈해져서 만족합니다.  다만 소비효율등급이 1등급이 아니라 전기세 걱정에 오래 사용은 못해요.. 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "스마트미 샤오미 전기난로 스마트 1S 해외구매",
+    "ReviewScore": "4",
+    "Syllable": "139",
+    "Word": "30",
+    "RDate": "20220116",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "제품 외형이 무척 슬림하고 깔끔해서 마음에 들어요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "예상보다 제품 무게도 가벼워서 휴대하기 편리해 좋아요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "아이방에 틀어보니 금방 방안이 훈훈해져서 만족합니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소비전력",
+        "SentimentText": "다만 소비효율등급이 1등급이 아니라 전기세 걱정에 오래 사용은 못해요.. 아쉽네요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "90644",
+    "RawText": "야외에서 사용하기에도 무척 따뜻해서 마음에 쏙 들어요.. 또 휴대하기 편리한 사이즈라 사용하기 편해서 만족해요..",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "스마트미 샤오미 전기난로 스마트 1S 해외구매",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "14",
+    "RDate": "20211223",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "야외에서 사용하기에도 무척 따뜻해서 마음에 쏙 들어요..",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "또 휴대하기 편리한 사이즈라 사용하기 편해서 만족해요..",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "90645",
+    "RawText": "어플로 연동 되서 집에 가기 전 어플로 켜놓을 수 있으니 편리하네요~~  소비전력이 너무 높아서 전기료 걱정이..ㅠ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "스마트미 샤오미 전기난로 스마트 1S 해외구매",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "16",
+    "RDate": "20210113",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성",
+        "SentimentText": "어플로 연동 되서 집에 가기 전 어플로 켜놓을 수 있으니 편리하네요~~ ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소비전력",
+        "SentimentText": "소비전력이 너무 높아서 전기료 걱정이..ㅠ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "90646",
+    "RawText": "자동온도조절, 어플연동, 타이머 기능이 있는 스마트버전으로 구매했는데 좋네요 더울정도로 따뜻하고 좋아요 그런데 어플에서 기기를 찾지 못해서 연결이 안되네요",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "스마트미 샤오미 전기난로 스마트 1S 해외구매",
+    "ReviewScore": "5",
+    "Syllable": "86",
+    "Word": "18",
+    "RDate": "20201214",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "자동온도조절, 어플연동, 타이머 기능이 있는 스마트버전으로 구매했는데 좋네요 더울정도로 따뜻하고 좋아요",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": " 어플에서 기기를 찾지 못해서 연결이 안되네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "90647",
+    "RawText": "기대도 안했는데 대만족이예요~  성능도 좋고 금방 따듯해지네요~  소리가 1도 없고 디자인도 깔끔하고 예뻐요",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "스마트미 샤오미 전기난로 스마트 1S 해외구매",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "13",
+    "RDate": "20190202",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": " 성능도 좋고 금방 따듯해지네요~ ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "소리가 1도 없고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 깔끔하고 예뻐요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "90648",
+    "RawText": "앱 연결도 어렵고 사용하는 것도 불완전하고 맘에 안들어요~ 디자인은 꽤 깔끔하고 예쁘고 무게도 6kg 굉장히 가벼우면서도 엄청 빨리 따뜻해져서 좋아요~~",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "스마트미 샤오미 전기난로 스마트 1S 해외구매",
+    "ReviewScore": "3",
+    "Syllable": "85",
+    "Word": "20",
+    "RDate": "20211230",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "조작성",
+        "SentimentText": "앱 연결도 어렵고 사용하는 것도 불완전하고 맘에 안들어요~",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인은 꽤 깔끔하고 예쁘고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게도 6kg 굉장히 가벼우면서도",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": " 엄청 빨리 따뜻해져서 좋아요~~ ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "90649",
+    "RawText": "예열한지 1분도 안되서 빠르게 근처가 따뜻해지네요~ 예약 온오프 및 타이머 기능도 만족스러워요 밖에서도 어플로 원격제어 할수 있어 정말 좋네요 ~",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "스마트미 샤오미 전기난로 스마트 1S 해외구매",
+    "ReviewScore": "5",
+    "Syllable": "81",
+    "Word": "20",
+    "RDate": "20201209",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "예열한지 1분도 안되서 빠르게 근처가 따뜻해지네요~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "밖에서도 어플로 원격제어 할수 있어 정말 좋네요 ~",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": " 예약 온오프 및 타이머 기능도 만족스러워요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "90650",
+    "RawText": "전원방식도 우리나라 돼지코가 아니라 연결이 힘들고 바퀴도 없어서 이동하기 불편하네요",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "스마트미 샤오미 전기난로 스마트 1S 해외구매",
+    "ReviewScore": "5",
+    "Syllable": "46",
+    "Word": "10",
+    "RDate": "20190221",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "조작성",
+        "SentimentText": "전원방식도 우리나라 돼지코가 아니라 연결이 힘들고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "바퀴도 없어서 이동하기 불편하네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "90651",
+    "RawText": "코드도 한국형이고 문구까지 한글로 되어 있어서 편리하고 좋네요~~ 하나 아쉬운건 전원선이 조작부 쪽에 있어서 조작시 선이 걸리적거려 불편하단 거예요.  켤때 냄새도 없고 작동시 소리도 1도 없고 조용해요~~ 작동 시키자마자 빠르게 따뜻해져서 좋아요~",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "스마트미 샤오미 전기난로 스마트 1S 해외구매",
+    "ReviewScore": "5",
+    "Syllable": "139",
+    "Word": "32",
+    "RDate": "20211030",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성",
+        "SentimentText": " 코드도 한국형이고 문구까지 한글로 되어 있어서 편리하고 좋네요~~ 하나 아쉬운건 전원선이 조작부 쪽에 있어서 조작시 선이 걸리적거려 불편하단 거예요. ",
+        "SentimentWord": "19",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "켤때 냄새도 없고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "작동시 소리도 1도 없고 조용해요~~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "작동 시키자마자 빠르게 따뜻해져서 좋아요~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "90652",
+    "RawText": "따뜻한 바람이 순환되어 실내 공기가 훈훈해져서 좋아요. 스마트폰앱 연동이 되어 집밖에서 미리 작동할 수 있는것도  편해요~",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "스마트미 샤오미 전기난로 스마트 1S 해외구매",
+    "ReviewScore": "4",
+    "Syllable": "68",
+    "Word": "16",
+    "RDate": "20211208",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻한 바람이 순환되어 실내 공기가 훈훈해져서 좋아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "스마트폰앱 연동이 되어 집밖에서 미리 작동할 수 있는것도  편해요~",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "90653",
+    "RawText": "스마트폰앱으로 모든 작동이 가능해서 사용하기 정말 편해요~ 잠깐만 틀어놔도 온도가 빠르게 올라 따뜻해서 좋아요. 소음은  삑~하는 작동음이 있지만 참을만해서 괜찮네요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "스마트미 샤오미 전기난로 스마트 1S 해외구매",
+    "ReviewScore": "5",
+    "Syllable": "93",
+    "Word": "20",
+    "RDate": "20201227",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성",
+        "SentimentText": "스마트폰앱으로 모든 작동이 가능해서 사용하기 정말 편해요~ ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": " 잠깐만 틀어놔도 온도가 빠르게 올라 따뜻해서 좋아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "소음은  삑~하는 작동음이 있지만 참을만해서 괜찮네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "90654",
+    "RawText": "소비전력이 높아서 아쉽네요 전기세 폭탄 맞기 싫으시면 잘 조절해서 쓰세요 중국플러그로 되어있어서 우리나라 플러그로 개조해야 하는게 불편하네요",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "스마트미 샤오미 전기난로 스마트 1S 해외구매",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "17",
+    "RDate": "20220211",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "소비전력",
+        "SentimentText": "소비전력이 높아서 아쉽네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "중국플러그로 되어있어서 우리나라 플러그로 개조해야 하는게 불편하네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "90655",
+    "RawText": "앱으로 연동해서 밖에서도 작동할 수 있으니 좋네요~~제품이 단단하면서도 튼튼해서 내구성이 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "스마트미 샤오미 전기난로 스마트 1S 해외구매",
+    "ReviewScore": "5",
+    "Syllable": "53",
+    "Word": "11",
+    "RDate": "20190930",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "조작성",
+        "SentimentText": "앱으로 연동해서 밖에서도 작동할 수 있으니 좋네요~~",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성",
+        "SentimentText": "제품이 단단하면서도 튼튼해서 내구성이 좋아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "90656",
+    "RawText": "어플연동이래 놓고 지역 중국으로 하게 해놓고 중국으로 하면 기기등록을 못해요 무쓸모네요  소비전력도 너무 높아서 전기세 걱정됩니다",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "스마트미 샤오미 전기난로 스마트 1S 해외구매",
+    "ReviewScore": "1",
+    "Syllable": "72",
+    "Word": "16",
+    "RDate": "20201223",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "조작성",
+        "SentimentText": "어플연동이래 놓고 지역 중국으로 하게 해놓고 중국으로 하면 기기등록을 못해요 무쓸모네요 ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소비전력",
+        "SentimentText": "소비전력도 너무 높아서 전기세 걱정됩니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "90657",
+    "RawText": "콘센트 꽂고 작동하니 연기나요.. 플라스틱 녹는 냄새..... 이런걸 쓰라고 보냈네요 소비전력도 너무 높아서 전기세 걱정되네요",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "스마트미 샤오미 전기난로 스마트 1S 해외구매",
+    "ReviewScore": "1",
+    "Syllable": "70",
+    "Word": "15",
+    "RDate": "20191223",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "콘센트 꽂고 작동하니 연기나요.. 플라스틱 녹는 냄새.....",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소비전력",
+        "SentimentText": "소비전력도 너무 높아서 전기세 걱정되네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "90658",
+    "RawText": "어플연동 설정할때 국가설정때문에 너무 애먹었어요 독일로 해야된다니... 진짜 부셔버릴 뻔 했어요 색깔도 흰색이 아니라 미색이네요",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "스마트미 샤오미 전기난로 스마트 1S 해외구매",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "15",
+    "RDate": "20211211",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "조작성",
+        "SentimentText": "어플연동 설정할때 국가설정때문에 너무 애먹었어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색깔도 흰색이 아니라 미색이네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "90659",
+    "RawText": "한파가 심할 때 정말 요긴하게 사용했어요~ 한국식 코드로 되어 있어서 조작하기도 좋고 스마트폰 제어로  사용하기 아주 편리해요~ 디자인도 집에두어도 자연스럽게 어우러져 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "스마트미 샤오미 전기난로 스마트 1S 해외구매",
+    "ReviewScore": "5",
+    "Syllable": "97",
+    "Word": "22",
+    "RDate": "20210115",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "조작성",
+        "SentimentText": "한국식 코드로 되어 있어서 조작하기도 좋고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "스마트폰 제어로  사용하기 아주 편리해요~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 집에두어도 자연스럽게 어우러져 좋네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "90660",
+    "RawText": "구입하고 개봉해보니 리모컨이 있어서 편한데 회전버튼과 온도버튼이 삐뚤어져 있네요 그것만 보면 짜증이... 리퍼받은것 같이 기분 더럽습니다. ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SEH-ECO720B 1개",
+    "ReviewScore": "3",
+    "Syllable": "78",
+    "Word": "16",
+    "RDate": "20220104",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "회전버튼과 온도버튼이 삐뚤어져 있네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "리모컨이 있어서 편한데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "90661",
+    "RawText": "자동온도조절. 타이머 기능이 있어 사용하기 좋아요~  다시 켜면 조건을 다시 셋팅해야 해서 불편해요",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SEH-ECO720B 1개",
+    "ReviewScore": "4",
+    "Syllable": "55",
+    "Word": "13",
+    "RDate": "20211205",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "자동온도조절. 타이머 기능이 있어 사용하기 좋아요~ ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "다시 켜면 조건을 다시 셋팅해야 해서 불편해요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "90662",
+    "RawText": "생각보다 튼튼하고 내구성이 좋네요~ 디자인도 귀여우면서도 예쁘고 마침 세일해서 저렴한 가격으로 구입했어요~ 넘 잘했어요! 소비전력도 낮아서 캠핑다닐 때 쓰기도 좋네요! 마감도 깔끔하고 고장도 없이 작동도 잘 되네요",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SEH-ECO720B 1개",
+    "ReviewScore": "5",
+    "Syllable": "119",
+    "Word": "27",
+    "RDate": "20211208",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성",
+        "SentimentText": "생각보다 튼튼하고 내구성이 좋네요~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 귀여우면서도 예쁘고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": " 세일해서 저렴한 가격으로 구입했어요~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소비전력",
+        "SentimentText": "소비전력도 낮아서 캠핑다닐 때 쓰기도 좋네요!",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "마감도 깔끔하고 고장도 없이 작동도 잘 되네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "90663",
+    "RawText": "oo 이전제품 써보고 만족해서 큐브형도 또 구매했어요~ 작은 방에서 사용하는데 에너지효율이 좋아 딱 적당하고 괜찮네요~~",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SEH-ECO720B 1개",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "15",
+    "RDate": "20211126",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제조일/제조사",
+        "SentimentText": "oo 이전제품 써보고 만족해서 큐브형도 또 구매했어요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소비전력",
+        "SentimentText": "작은 방에서 사용하는데 에너지효율이 좋아 딱 적당하고 괜찮네요~~ ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "90664",
+    "RawText": "날씨가 따뜻해서 제대로 작동하는건 잘 모르겠지만 디자인이 깔끔하고 예쁘네요~~작다는 평이 있어 더 큰 버전을 살까 했는데 이정도도 커서 만족스러워요",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SEH-ECO720B 1개",
+    "ReviewScore": "5",
+    "Syllable": "82",
+    "Word": "19",
+    "RDate": "20211215",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 디자인이 깔끔하고 예쁘네요~~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "이정도도 커서 만족스러워요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "90665",
+    "RawText": "저렴한 가격에 득템했어요!  집에서 캠핑장에서 잠깐잠깐 따뜻하게 사용하기에 아주 유용하고 활용도 굿이네요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200IR",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "12",
+    "RDate": "20170302",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 득템했어요!  ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": " 아주 유용하고 활용도 굿이네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "90666",
+    "RawText": "영하의 날씨에 거실에서 사용 중이예요 오래된 아파트라 우풍도 심해서 구매했는데 이거 틀고 나면 공기가 훈훈해져서 춥지않아 좋아요기름냄새가 나서 좀 아쉽지만 온오프시 환기만 잘해주면 괜찮네요. 헌데 보일러 떼는 비용보다야 덜 들겠지만 그래도 에너지효율이 좋은 편은 아니라 연료값은 좀 부담되긴 해요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200IR",
+    "ReviewScore": "5",
+    "Syllable": "166",
+    "Word": "39",
+    "RDate": "20220114",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "소비전력",
+        "SentimentText": "에너지효율이 좋은 편은 아니라 연료값은 좀 부담되긴 해요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "기름냄새가 나서 좀 아쉽지만 온오프시 환기만 잘해주면 괜찮네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "90667",
+    "RawText": "오래된 아파트라 사용하려고 구매했는데 자동온도조절기능으로 거실이 훈훈해져서 춥지않게 잘쓰고 있어요. 애들이 뛰어다니다 건드려 넘어졌는데 모서리가 좀 찌그러졌네요.. ;;;",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200IR",
+    "ReviewScore": "5",
+    "Syllable": "95",
+    "Word": "18",
+    "RDate": "20180201",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "자동온도조절기능으로 거실이 훈훈해져서 춥지않게 잘쓰고 있어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성",
+        "SentimentText": "모서리가 좀 찌그러졌네요..;;; ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "90668",
+    "RawText": "저렴한 가격에 득템했어요~ 기분 좋네요! 크기는 생각했던 것보다 작네요  특히 어린아이들 있는 집에는 차일드 락 기능도 있어 안전하고 발열량 높아 금방 따듯해지고 좋아요~  등유 9리터로 18시간 사용하니 에너지 효율도 좋구요~  금새 따뜻해지네요~~ ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200IR",
+    "ReviewScore": "5",
+    "Syllable": "141",
+    "Word": "32",
+    "RDate": "20171221",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 득템했어요~ ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "크기는 생각했던 것보다 작네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "차일드 락 기능도 있어 안전하고 발열량 높아 금방 따듯해지고 좋아요~",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소비전력",
+        "SentimentText": " 등유 9리터로 18시간 사용하니 에너지 효율도 좋구요~ ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "90669",
+    "RawText": "OO이야 이미 워낙 유명하고 제조일도 최신 제조라서 좋네요~~ 저렴한 가격에 구입해서 좋고 색상도 원하던 아이보리 색이라 맘에 듭니다~ 작동해보니 실내온도도 금방 올라가고 따뜻하고 좋네요!",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200IR",
+    "ReviewScore": "5",
+    "Syllable": "105",
+    "Word": "24",
+    "RDate": "20171121",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제조일/제조사",
+        "SentimentText": "OO이야 이미 워낙 유명하고 제조일도 최신 제조라서 좋네요~~",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 구입해서 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 원하던 아이보리 색이라 맘에 듭니다~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "실내온도도 금방 올라가고 따뜻하고 좋네요!",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "90670",
+    "RawText": "원하던 아이보리 컬러로 구매해서 좋아요. 가격도 다른곳보다 가장 저렴해서 좋습니다^^",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200IR",
+    "ReviewScore": "5",
+    "Syllable": "47",
+    "Word": "10",
+    "RDate": "20210905",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "원하던 아이보리 컬러로 구매해서 좋아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 다른곳보다 가장 저렴해서 좋습니다^^",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "90671",
+    "RawText": "평이 좋아 주문했는데 저렴한 가격에 구입했네요~ 생각한 것 보다 냄새도 안나고 튼튼하고 에너지효율도 좋아 연료비도 적게드니 좋네요 디자인도 예쁘고 맘에 듭니다!",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200IR",
+    "ReviewScore": "5",
+    "Syllable": "89",
+    "Word": "21",
+    "RDate": "20170301",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "내구성",
+        "SentimentText": "생각한 것 보다 냄새도 안나고 튼튼하고 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소비전력",
+        "SentimentText": "에너지효율도 좋아 연료비도 적게드니 좋네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 예쁘고 맘에 듭니다!",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 구입했네요~ ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "90672",
+    "RawText": "다른 사이트보다 가격은 제일 저렴해서 좋네요~ 온풍기 제조일도 최근 생산된 제품이라 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200IR",
+    "ReviewScore": "5",
+    "Syllable": "52",
+    "Word": "12",
+    "RDate": "20171018",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "다른 사이트보다 가격은 제일 저렴해서 좋네요~ ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제조일/제조사",
+        "SentimentText": "온풍기 제조일도 최근 생산된 제품이라 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "90673",
+    "RawText": "초기 점화시 냄새는 좀 나지만 신경쓰일 정도는 아니네요. 성능도 좋고 난방능력은 아주 좋아 금방 훈훈해집니다!!",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200IR",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "15",
+    "RDate": "20180202",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "초기 점화시 냄새는 좀 나지만 신경쓰일 정도는 아니네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "성능도 좋고 난방능력은 아주 좋아 금방 훈훈해집니다!! ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "90674",
+    "RawText": "켤 때 보다 끌때 기름냄새가 나서 조금 아쉽지만, 실내공기가 금방 따뜻해져서 겨울철 보조난방용으로 딱이네요!",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200IR",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "14",
+    "RDate": "20171025",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "켤 때 보다 끌때 기름냄새가 나서 조금 아쉽지만",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "실내공기가 금방 따뜻해져서 겨울철 보조난방용으로 딱이네요! ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "90675",
+    "RawText": "캠핑에서 사용했는데 춥지 않고 따뜻하게 잤어요~ 아이가 얇은 내의 입고 잤네요~~ 그런데 화력이 쎄서 금방 건조해지니 가습기는 필수네요. 화력 쎈만큼 연료소비량도 시간당 0.64L로 다른 제품에 비해 높은 편이라 아쉬운 맘이 있긴한데 캠핑갈 때만 한번씩 사용할거니 그 정도는 감수해야죠~  연료탱크도 9리터로 넉넉해서 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200IR",
+    "ReviewScore": "5",
+    "Syllable": "181",
+    "Word": "42",
+    "RDate": "20201111",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소비전력",
+        "SentimentText": "연료소비량도 시간당 0.64L로 다른 제품에 비해 높은 편이라 아쉬운 맘이 있긴한데 캠핑갈 때만 한번씩 사용할거니 그 정도는 감수해야죠~",
+        "SentimentWord": "18",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "연료탱크도 9리터로 넉넉해서 좋네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "90676",
+    "RawText": "상품평에 석유 냄새에 대한 내용이 많아서 걱정했는데 다행히 이제품은 점화할때 냄새가 거의 없어서 만족해요..  가동할때 팬소음이 거의 없고 조용해서 마음에 들어요..  화력이 완전 강력해서 실내가 금세 따뜻해져서 좋네요..  제품 색상이 제가 딱 좋아하는 차콜그레이색상이라서 볼때마다 예뻐서 기분 좋아요..  세일할때 저렴한 가격으로 제품 구입해서 흡족해요.. 타사의 비슷한 스팩 제품들을 놓고 고심했는데 판매량 1위 ooo회사 문구를 보고 선택했어요.. 역시나 써보니 대만족입니다..",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200IR",
+    "ReviewScore": "5",
+    "Syllable": "271",
+    "Word": "59",
+    "RDate": "20220124",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "상품평에 석유 냄새에 대한 내용이 많아서 걱정했는데 다행히 이제품은 점화할때 냄새가 거의 없어서 만족해요.. ",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "가동할때 팬소음이 거의 없고 조용해서 마음에 들어요.. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "화력이 완전 강력해서 실내가 금세 따뜻해져서 좋네요.. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "제품 색상이 제가 딱 좋아하는 차콜그레이색상이라서 볼때마다 예뻐서 기분 좋아요.. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "세일할때 저렴한 가격으로 제품 구입해서 흡족해요..",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제조일/제조사",
+        "SentimentText": "타사의 비슷한 스팩 제품들을 놓고 고심했는데 판매량 1위 ooo회사 문구를 보고 선택했어요.. 역시나 써보니 대만족입니다.. ",
+        "SentimentWord": "15",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "90677",
+    "RawText": "예상보다 제품 사이즈가 적당해서 사용하기 좋네요.. 영하 10도의 캠핑장에서 사용해보니 따뜻한 바람이 넓게 퍼져서 너무 마음에 들어요..  다만 처음 점화할때 석유냄새가 나서 살짝 불편해요. ㅜ 그점만 아쉽네요.  ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200IR",
+    "ReviewScore": "5",
+    "Syllable": "120",
+    "Word": "27",
+    "RDate": "20220111",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "예상보다 제품 사이즈가 적당해서 사용하기 좋네요..",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "영하 10도의 캠핑장에서 사용해보니 따뜻한 바람이 넓게 퍼져서 너무 마음에 들어요.. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "다만 처음 점화할때 석유냄새가 나서 살짝 불편해요. ㅜ 그점만 아쉽네요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "90678",
+    "RawText": "사이즈에 비해 제품 화력이 매우 우수해서 마음에 들어요..  타 제품보다 넓게 온기가 퍼지고 금방 따뜻해져서 좋아요..  본체가 기울어지거나 넘어지면 저절로 전원이 차단되어 안정성면에서도 대만족입니다..  다만 제품 가격이 무척 비싸서 불만족스러워요. ㅜ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200IR",
+    "ReviewScore": "4",
+    "Syllable": "142",
+    "Word": "31",
+    "RDate": "20171207",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "사이즈에 비해 제품 화력이 매우 우수해서 마음에 들어요.. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "타 제품보다 넓게 온기가 퍼지고 금방 따뜻해져서 좋아요.. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "본체가 기울어지거나 넘어지면 저절로 전원이 차단되어 안정성면에서도 대만족입니다.. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "다만 제품 가격이 무척 비싸서 불만족스러워요. ㅜ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "90679",
+    "RawText": "걱정했던 키고 끌때 기름냄새가 거의 없어서 좋아요..  또 제품 가동하면 방안이 금방 따뜻해져서 마음에 들어요..  다만 타이머 설정이 켜는 시간만 예약할 수 있고, 끄는 시간은 저장이 안되네요.ㅜ 그점이 아쉽네요.  ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200JA",
+    "ReviewScore": "5",
+    "Syllable": "122",
+    "Word": "29",
+    "RDate": "20211211",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "걱정했던 키고 끌때 기름냄새가 거의 없어서 좋아요.. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "또 제품 가동하면 방안이 금방 따뜻해져서 마음에 들어요.. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "다만 타이머 설정이 켜는 시간만 예약할 수 있고, 끄는 시간은 저장이 안되네요.ㅜ 그점이 아쉽네요. ",
+        "SentimentWord": "14",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "90680",
+    "RawText": "실버색상 주문했는데 품절이라 원했던 아이보리색상이 와서 너무 좋아요.. ㅎㅎ 제품 기능이 우수해서 야외 캠핑에서만 사용하기는 아까워요.. 구입에 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "87",
+    "Word": "18",
+    "RDate": "20200919",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "실버색상 주문했는데 품절이라 원했던 아이보리색상이 와서 너무 좋아요.. ㅎㅎ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "제품 기능이 우수해서 야외 캠핑에서만 사용하기는 아까워요.. 구입에 만족합니다. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "90682",
+    "RawText": "제품 생산일자가 21년도 최신상 제품이라 받고나서 매우 기분 좋네요..  색상이 고급스러운 실버라 훨씬 예쁩니다. 만족해요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "69",
+    "Word": "15",
+    "RDate": "20210725",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제조일/제조사",
+        "SentimentText": "제품 생산일자가 21년도 최신상 제품이라 받고나서 매우 기분 좋네요.. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 고급스러운 실버라 훨씬 예쁩니다. 만족해요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "90683",
+    "RawText": "2달전에 구입.  제품 기름 연비효율이 좋아서 구입에 만족해요..  캠핑가서 텐트안에 켜면 금세 실내가 훈훈해져서 마음에 듭니다..  ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "75",
+    "Word": "16",
+    "RDate": "20210101",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소비전력",
+        "SentimentText": "제품 기름 연비효율이 좋아서 구입에 만족해요.. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "캠핑가서 텐트안에 켜면 금세 실내가 훈훈해져서 마음에 듭니다.. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "90684",
+    "RawText": "9월달에 찜해두었다가 최저가 알림와서 바로 주문했어요.. 기분 놀아갈것 같아요..ㅎㅎ 주문한 실버가 품절이라 아이보리색상이 왔는데 실물이 너무 화사하고 예뻐서 만족해요.. 생산일자도 19년1월 최근 날짜네요.. 재고제품이 아니라 아주 좋아요..",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "136",
+    "Word": "27",
+    "RDate": "20191023",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "9월달에 찜해두었다가 최저가 알림와서 바로 주문했어요.. 기분 놀아갈것 같아요..ㅎㅎ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "주문한 실버가 품절이라 아이보리색상이 왔는데 실물이 너무 화사하고 예뻐서 만족해요..",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제조일/제조사",
+        "SentimentText": "생산일자도 19년1월 최근 날짜네요.. 재고제품이 아니라 아주 좋아요.. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "90685",
+    "RawText": "제품 용량이 무척 커서 큰 것이 필요했던 저에게 아주 딱 좋네요.. 석유값이 많이 올라서 걱정했는데 전기제품보다 훨씬 경제적이라 마음에 들어요.. 새제품 테스트해보니 정상적으로 잘 작동해서 흡족합니다.. 성능 굿~! 잘 샀어요~!  ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "130",
+    "Word": "30",
+    "RDate": "20211012",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량",
+        "SentimentText": "제품 용량이 무척 커서 큰 것이 필요했던 저에게 아주 딱 좋네요..",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소비전력",
+        "SentimentText": "석유값이 많이 올라서 걱정했는데 전기제품보다 훨씬 경제적이라 마음에 들어요..",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "새제품 테스트해보니 정상적으로 잘 작동해서 흡족합니다.. 성능 굿~! 잘 샀어요~! ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "90686",
+    "RawText": "겨울 캠핑 필수 제품이라 구입.  이곳 저곳 많이 검색해서 최저가에 제품 구입해서 대만족입니다. 아이보리보다 실버가 더 싸서 구입했는데 실물 보니 실버색상이 상당히 예쁘네요.. 마음에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "4",
+    "Syllable": "107",
+    "Word": "25",
+    "RDate": "20210110",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "이곳 저곳 많이 검색해서 최저가에 제품 구입해서 대만족입니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "아이보리보다 실버가 더 싸서 구입했는데 실물 보니 실버색상이 상당히 예쁘네요.. 마음에 듭니다. ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "90687",
+    "RawText": "고민하고 구입. 사용할수록 만족감이 크네요. 제품 가동할때 팬소음이 거의 없고 조용한 편이라 마음에 들어요.. 예상보다 화력이 우수해서 중간정도로 온도 설정해도 열기가 확 느껴져서 만족합니다.. 제품 사이즈도 아담해서 창고나 사무실에서 사용하기 딱 좋아요.  색상도 제가 좋아하는 은은한 베이지 색이라 고급스럽고 예쁘네요.. 굿^^",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "4",
+    "Syllable": "185",
+    "Word": "41",
+    "RDate": "20190123",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소음",
+        "SentimentText": "제품 가동할때 팬소음이 거의 없고 조용한 편이라 마음에 들어요..",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "예상보다 화력이 우수해서 중간정도로 온도 설정해도 열기가 확 느껴져서 만족합니다..",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "제품 사이즈도 아담해서 창고나 사무실에서 사용하기 딱 좋아요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 제가 좋아하는 은은한 베이지 색이라 고급스럽고 예쁘네요.. 굿^^",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "90688",
+    "RawText": "제품 가격이 좀 비싼편이라 고심했는데 사용해보니 매우 흡족하네요.. 좋습니다. ^^ 전원 켜고 잠깐사이 집 전체 온도가 따뜻해져서 마음에 쏙 드네요.. 전기료, 가스비가 무척 비싸서 집안이 늘 추웠는데 이 제품은 기름 효율이 아주 좋아서 올 겨울 따뜻하겠어요.. 대만족 ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "151",
+    "Word": "37",
+    "RDate": "20191205",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "제품 가격이 좀 비싼편이라 고심했는데 사용해보니 매우 흡족하네요.. 좋습니다. ^^",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "전원 켜고 잠깐사이 집 전체 온도가 따뜻해져서 마음에 쏙 드네요..",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소비전력",
+        "SentimentText": "전기료, 가스비가 무척 비싸서 집안이 늘 추웠는데 이 제품은 기름 효율이 아주 좋아서 올 겨울 따뜻하겠어요.. 대만족",
+        "SentimentWord": "17",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "90689",
+    "RawText": "와우~ 제품 화력이 매우 강력해서 후끈후끈하네요.. 구입 만족해요.. 제품 사이즈가 적당해서 야외 캠핑용으로 아이들과 사용하기 너무 좋아요.. 굿~!",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "83",
+    "Word": "18",
+    "RDate": "20191106",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "와우~ 제품 화력이 매우 강력해서 후끈후끈하네요.. 구입 만족해요..",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "제품 사이즈가 적당해서 야외 캠핑용으로 아이들과 사용하기 너무 좋아요.. 굿~! ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "90691",
+    "RawText": "겨울 성수기 인기제품이라 가격이 올라서 비싼 가격에 구입해서 속상해요.ㅜ  제품 성능은 매우 탁월해서 실내가 금세 따뜻해집니다.. 만족해요.. 등유난로에서 아이들의 안전을 위해 이제품으로 바꿨는데 사용해보니 너무 편리해서 대만족입니다..",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "4",
+    "Syllable": "132",
+    "Word": "27",
+    "RDate": "20210927",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "겨울 성수기 인기제품이라 가격이 올라서 비싼 가격에 구입해서 속상해요.ㅜ ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "제품 성능은 매우 탁월해서 실내가 금세 따뜻해집니다.. 만족해요..",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "등유난로에서 아이들의 안전을 위해 이제품으로 바꿨는데 사용해보니 너무 편리해서 대만족입니다.. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "90692",
+    "RawText": "카드할인 10프로에 포인트 적립까지 적용받아서 매우 저렴하게 제품 구입해서 기분 좋네요.. 부속품으로 함께온 스티커로 아이들과 시간내어 즐겁게 제품에 부착했어요.. 굿~!  ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "97",
+    "Word": "20",
+    "RDate": "20200129",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "카드할인 10프로에 포인트 적립까지 적용받아서 매우 저렴하게 제품 구입해서 기분 좋네요..",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "부속품으로 함께온 스티커로 아이들과 시간내어 즐겁게 제품에 부착했어요.. 굿~! ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "90693",
+    "RawText": "동계 캠핑에서 사용했는데 텐트안이 너무 따뜻해서 밖에 안 나가게 되네요.. ㅎㅎ 성능 너무 좋아요.. 이 제품은 사용중에 넘어지면 꺼지는 기능이 있어서 아이들과 같이 사용하기에 안전해서 흡족합니다.. 다만 제품 색상이 제가 원했던 실버색상이 아니라 아이보리가 와서 좀 아쉬워요.ㅜ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "156",
+    "Word": "37",
+    "RDate": "20211212",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "동계 캠핑에서 사용했는데 텐트안이 너무 따뜻해서 밖에 안 나가게 되네요.. ㅎㅎ 성능 너무 좋아요..",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "이 제품은 사용중에 넘어지면 꺼지는 기능이 있어서 아이들과 같이 사용하기에 안전해서 흡족합니다..",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "다만 제품 색상이 제가 원했던 실버색상이 아니라 아이보리가 와서 좀 아쉬워요.ㅜ ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "90694",
+    "RawText": "새제품 오늘 처음 가동해보니 걱정했던 냄새도 없고 화력이 무척 강해서 흡족하네요.. 실내 공기도 탁하지 않아요.. 다만 전체적인 소재가 견고하고 탄탄해보이지 않아서 내구성이 걱정되네요.. 그 점만 안좋아요.. ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "117",
+    "Word": "26",
+    "RDate": "20211225",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "새제품 오늘 처음 가동해보니 걱정했던 냄새도 없고 화력이 무척 강해서 흡족하네요.. 실내 공기도 탁하지 않아요..",
+        "SentimentWord": "15",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성",
+        "SentimentText": "다만 전체적인 소재가 견고하고 탄탄해보이지 않아서 내구성이 걱정되네요.. 그 점만 안좋아요..",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "90695",
+    "RawText": "동계 캠핑에서 사용하는데 너무 더워 가볍게 입고 지냈어요.. 화력 너무 좋네요.. 굿~! 다만 제품 사이트가 아주 커서 텐트안이 비좁게 느껴졌어요.. 그점이 아쉽네요. ㅜ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "95",
+    "Word": "23",
+    "RDate": "20210216",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "동계 캠핑에서 사용하는데 너무 더워 가볍게 입고 지냈어요.. 화력 너무 좋네요.. 굿~!",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "다만 제품 사이트가 아주 커서 텐트안이 비좁게 느껴졌어요.. 그점이 아쉽네요. ㅜ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "90696",
+    "RawText": "제품 용량이 커서 한번 기름 넣으면 오래 사용할 수 있어서 마음에 들어요..  화사한 아이보리색으로 보내주셔서 인테리어와 찰떡으로 어울리네요.. 굿~~ 사이즈가 크지고 작지도 않고 딱 알맞아서 쓰기 좋아요.. 대만족~!   ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "125",
+    "Word": "28",
+    "RDate": "20210730",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량",
+        "SentimentText": "제품 용량이 커서 한번 기름 넣으면 오래 사용할 수 있어서 마음에 들어요.. ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "화사한 아이보리색으로 보내주셔서 인테리어와 찰떡으로 어울리네요.. 굿~~",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 크지고 작지도 않고 딱 알맞아서 쓰기 좋아요.. 대만족~! ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "90697",
+    "RawText": "제품 사용후부터 집안 공기가 따뜻한 공기로 가득차서 아늑해졌어요.. 대만족 인터넷 검색 열심히 해서 저렴한 가격으로 제품 구입해서 흡족합니다.. 잘 샀어요~!",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "88",
+    "Word": "20",
+    "RDate": "20210111",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "제품 사용후부터 집안 공기가 따뜻한 공기로 가득차서 아늑해졌어요.. 대만족",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "인터넷 검색 열심히 해서 저렴한 가격으로 제품 구입해서 흡족합니다.. 잘 샀어요~! ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "90698",
+    "RawText": "보일러 틀때는 실내온도가 20도가 넘지 않았는데 이 제품 24도로 설정하니 금방 집안이 더워져서 흡족합니다.. 등유값이 비싸지만 도시가스 요금보다 저렴해서 경제적이네요.. 만족해요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "4",
+    "Syllable": "101",
+    "Word": "21",
+    "RDate": "20210114",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "보일러 틀때는 실내온도가 20도가 넘지 않았는데 이 제품 24도로 설정하니 금방 집안이 더워져서 흡족합니다..",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소비전력",
+        "SentimentText": "등유값이 비싸지만 도시가스 요금보다 저렴해서 경제적이네요.. 만족해요.  ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "90699",
+    "RawText": "새제품 꺼냈는데 기름냄새가 약간 나서 놀랐어요.. 검색해보니 사전검수하느라 사용해서 그렇다 하니 안심입니다..  예상보다 제품 크기가 좀 작아서 안 좋네요.. 색상이 강렬한 실버색상이라 마음에 쏙 들진 않아요.. ㅜ 아쉬워요 ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "126",
+    "Word": "28",
+    "RDate": "20200717",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "새제품 꺼냈는데 기름냄새가 약간 나서 놀랐어요.. 검색해보니 사전검수하느라 사용해서 그렇다 하니 안심입니다.. ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "예상보다 제품 크기가 좀 작아서 안 좋네요..",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 강렬한 실버색상이라 마음에 쏙 들진 않아요.. ㅜ 아쉬워요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "90700",
+    "RawText": "새제품 처음 켰는데 기름냄새가 생각보다 매우 심해서 안 좋네요. ㅜ  제품 외관이 무척 튼튼하고 견고해보여서 만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "16",
+    "RDate": "20220330",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "새제품 처음 켰는데 기름냄새가 생각보다 매우 심해서 안 좋네요. ㅜ ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성",
+        "SentimentText": "제품 외관이 무척 튼튼하고 견고해보여서 만족합니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "90701",
+    "RawText": "기본 온도 17도로 설정해놓고 잠들었는데 제품 화력이 얼마나 좋은지 새벽에 끄고 잤어요. ㅎㅎ 성능 만족해요.  다만 제품 켜고 끌때 기름냄새가 살짝 나는데 불편하진 않아서 그럭저럭 괜찮아요..  주변 지인들이 왜 ooo회사 제품을 적극 추천하는지 사용해보니 알겠네요.. 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "156",
+    "Word": "36",
+    "RDate": "20191026",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "기본 온도 17도로 설정해놓고 잠들었는데 제품 화력이 얼마나 좋은지 새벽에 끄고 잤어요. ㅎㅎ 성능 만족해요. ",
+        "SentimentWord": "15",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "다만 제품 켜고 끌때 기름냄새가 살짝 나는데 불편하진 않아서 그럭저럭 괜찮아요.. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "제조일/제조사",
+        "SentimentText": "주변 지인들이 왜 ooo회사 제품을 적극 추천하는지 사용해보니 알겠네요.. 좋아요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "90702",
+    "RawText": "제품 화력이 무척 강해서 야외 캠핑할때 사용하면 아주 좋아요..  제품 외형도 심플 모던한 느낌이라 어느 장소에서든 빛을 발합니다.. 굿~! 생산년월도 가장 최근날짜라 기분 좋네요..  제가 예민한데도 제품 켜도 끌때 기름냄새가 나지 않아서 만족해요..  또 팬소음이 거의 없고 조용해서 취침할때 사용해도 전혀 거슬리지 않아요.. 대만족 ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "189",
+    "Word": "44",
+    "RDate": "20191117",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "제품 화력이 무척 강해서 야외 캠핑할때 사용하면 아주 좋아요.. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "제품 외형도 심플 모던한 느낌이라 어느 장소에서든 빛을 발합니다.. 굿~!",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제조일/제조사",
+        "SentimentText": "생산년월도 가장 최근날짜라 기분 좋네요.. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "제가 예민한데도 제품 켜도 끌때 기름냄새가 나지 않아서 만족해요.. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "또 팬소음이 거의 없고 조용해서 취침할때 사용해도 전혀 거슬리지 않아요.. 대만족",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "90703",
+    "RawText": "캠핑용으로 구입 캠핑할때 1월이고 영하 10도 날씨가 걱정했는데 제품 켜놓으니 텐트안이 후끈후끈해서 대만족했어요.. 대용량 제품으로 선택했는데 넓은 텐트와 강추위를 커버해주어 매우 좋아요..  ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "108",
+    "Word": "22",
+    "RDate": "20210312",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "캠핑할때 1월이고 영하 10도 날씨가 걱정했는데 제품 켜놓으니 텐트안이 후끈후끈해서 대만족했어요..",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "대용량 제품으로 선택했는데 넓은 텐트와 강추위를 커버해주어 매우 좋아요.. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "90704",
+    "RawText": "실버로 주문서 넣었는데 아이보리색상이 왔어요.. ㅎ 색상이 화사해서 마음에 쏙 듭니다.  동계 캠핑에서 가동시켰는데 아이들 있는 집에서 사용하기에 위험하지 않아서 좋네요..  할인할때 정가보다 훨씬 싼 가격에 제품 구입해서 만족해요..  ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "133",
+    "Word": "29",
+    "RDate": "20220111",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "실버로 주문서 넣었는데 아이보리색상이 왔어요.. ㅎ 색상이 화사해서 마음에 쏙 듭니다. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "동계 캠핑에서 가동시켰는데 아이들 있는 집에서 사용하기에 위험하지 않아서 좋네요.. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인할때 정가보다 훨씬 싼 가격에 제품 구입해서 만족해요.. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "90705",
+    "RawText": "실버색상 주문했는데 너무 갖고 싶었던 아이보리 색상이 도착해서 매우 흡족합니다.  다만 예상보다 사이즈가 너무 커서 놀랐고 마음에 안 들어요. ㅜ  ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "83",
+    "Word": "20",
+    "RDate": "20211222",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "실버색상 주문했는데 너무 갖고 싶었던 아이보리 색상이 도착해서 매우 흡족합니다. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "다만 예상보다 사이즈가 너무 커서 놀랐고 마음에 안 들어요. ㅜ ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "90706",
+    "RawText": "아이보리가 품절이라 실버 주문했는데 도착한 제품이 아이보리색상이라 환호했어요. 기분 너무 좋네요. ㅎ 제품 사용해보니 30평 거실을 10분만에 따뜻하게 해주네요.. 화력 짱 좋아요.  제품 표면도 매끄럽고 흠집이 전혀 없엇 대만족입니다. 잘 샀어요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "139",
+    "Word": "31",
+    "RDate": "20211203",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "아이보리가 품절이라 실버 주문했는데 도착한 제품이 아이보리색상이라 환호했어요. 기분 너무 좋네요. ㅎ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "제품 사용해보니 30평 거실을 10분만에 따뜻하게 해주네요.. 화력 짱 좋아요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "제품 표면도 매끄럽고 흠집이 전혀 없엇 대만족입니다. 잘 샀어요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "90707",
+    "RawText": "아이들이 있어서 이 제품으로 선택했어요..  송풍으로 쓸때 못느꼈던 냄새가 처음 킬때만 계속 기름냄새가 나서 머리가 아퍼요. ㅜ 실망입니다.  제품 사이즈가 예상보다 무척커서 캠핑갈때 트렁크 한자리 차지해서 안좋네요..  제품 성능은 매우 훌륭해서 만족해요..",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "145",
+    "Word": "32",
+    "RDate": "20191023",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "송풍으로 쓸때 못느꼈던 냄새가 처음 킬때만 계속 기름냄새가 나서 머리가 아퍼요. ㅜ 실망입니다. ",
+        "SentimentWord": "13",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "제품 사이즈가 예상보다 무척커서 캠핑갈때 트렁크 한자리 차지해서 안좋네요.. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "제품 성능은 매우 훌륭해서 만족해요.. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "90708",
+    "RawText": "기대 안했는데 원했던 아이보리색상이 도착해서 너무 기뻐요. ㅎㅎ 제품 성능이 매우 탁월해서 가동시키면 실내가 무척 따뜻해져서 만족감이 큽니다.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "79",
+    "Word": "18",
+    "RDate": "20211216",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "기대 안했는데 원했던 아이보리색상이 도착해서 너무 기뻐요. ㅎㅎ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "제품 성능이 매우 탁월해서 가동시키면 실내가 무척 따뜻해져서 만족감이 큽니다. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "90709",
+    "RawText": "가장 예쁜 아이보리색 제품이 눈 앞에 있어서 기분이 너무 좋아요..  제품 성능이 우수해서 취침할때 켜놓으면 포근하게 따뜻한 느낌이 들어 밤새 잘잡니다.. ㅎㅎ   오호~ 기름 효율이 매우 우수해서 가득 넣고 14시간째 사용하고 있어요. 굿~ 세일할때 좋은 가격으로 제품 구입해서 흡족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "163",
+    "Word": "39",
+    "RDate": "20211225",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "가장 예쁜 아이보리색 제품이 눈 앞에 있어서 기분이 너무 좋아요.. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "제품 성능이 우수해서 취침할때 켜놓으면 포근하게 따뜻한 느낌이 들어 밤새 잘잡니다.. ㅎㅎ  ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소비전력",
+        "SentimentText": "오호~ 기름 효율이 매우 우수해서 가득 넣고 14시간째 사용하고 있어요. 굿~",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "세일할때 좋은 가격으로 제품 구입해서 흡족합니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "90710",
+    "RawText": "제일 예뻤던 아이보리색이 품절로 실버색이 와서 좀 아쉬워요. ㅜ   제품 켜두면 금세 훈훈해져서 만족해요. 아기 샤워후 막 나왔을때 따듯해서 좋아요.  타 제품보다 이용할때 훨씬 편리하고 활용성이 좋아서 마음에 듭니다.   ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "125",
+    "Word": "29",
+    "RDate": "20211008",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "제일 예뻤던 아이보리색이 품절로 실버색이 와서 좀 아쉬워요. ㅜ  ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "제품 켜두면 금세 훈훈해져서 만족해요. 아기 샤워후 막 나왔을때 따듯해서 좋아요. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "타 제품보다 이용할때 훨씬 편리하고 활용성이 좋아서 마음에 듭니다. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "90711",
+    "RawText": "오~ 너무 원했던 아이보리색 제품이 방안에 있으니 보기만해도 기분 좋네요..  텐트가 무척 커서 대용량 제품으로 구입했는데 사용해보니 적당히 따뜻해서 만족해요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "89",
+    "Word": "20",
+    "RDate": "20210722",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "오~ 너무 원했던 아이보리색 제품이 방안에 있으니 보기만해도 기분 좋네요.. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "텐트가 무척 커서 대용량 제품으로 구입했는데 사용해보니 적당히 따뜻해서 만족해요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "90712",
+    "RawText": "할인에 적립금까지 적용받아 좋은 가격에 구입했어요.. 대만족 야외 캠핑할때 텐트안에 가동시키면 매우 따뜻해져서 좋고, 자동온도조절 기능이 있어서 흡족합니다.  기름 가득넣으면 평균 24도 정도 온도로 사용할때 12시간 이상 사용할 수 있어서 효율이 좋네요.. 굿",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "146",
+    "Word": "33",
+    "RDate": "20211231",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인에 적립금까지 적용받아 좋은 가격에 구입했어요.. 대만족",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "야외 캠핑할때 텐트안에 가동시키면 매우 따뜻해져서 좋고, 자동온도조절 기능이 있어서 흡족합니다. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소비전력",
+        "SentimentText": "기름 가득넣으면 평균 24도 정도 온도로 사용할때 12시간 이상 사용할 수 있어서 효율이 좋네요.. 굿",
+        "SentimentWord": "15",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "90713",
+    "RawText": "캠핑용으로 구입.  주위 지인들이 ooo회사 제품이 제일 좋다고 극찬해서 선택했는데 써보니 너무 좋네요..  가격 할인 받아서 싸게 구입해서 만족해요..  색상도 제일 인기많고 예쁜 아이보리색이라 마음이 흡족합니다. ㅎ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "122",
+    "Word": "27",
+    "RDate": "20220117",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제조일/제조사",
+        "SentimentText": "주위 지인들이 ooo회사 제품이 제일 좋다고 극찬해서 선택했는데 써보니 너무 좋네요.. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 할인 받아서 싸게 구입해서 만족해요.. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 제일 인기많고 예쁜 아이보리색이라 마음이 흡족합니다. ㅎ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "90714",
+    "RawText": "제품 작동시켜보니 화력이 무척 쎄서 넓은 평수의 저희집이 구서구석 매우 따뜻해져서 마음에 듭니다.  다만 플라스틱 소재가 좀 허접하고 약해보여서 사용하다 금방 깨질까 염려되네요. ㅜ 그점이 아쉬워요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "111",
+    "Word": "26",
+    "RDate": "20220205",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "제품 작동시켜보니 화력이 무척 쎄서 넓은 평수의 저희집이 구서구석 매우 따뜻해져서 마음에 듭니다. ",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "다만 플라스틱 소재가 좀 허접하고 약해보여서 사용하다 금방 깨질까 염려되네요. ㅜ 그점이 아쉬워요. ",
+        "SentimentWord": "13",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "90715",
+    "RawText": "15평 하우스 사용하려구 구입. 새제품 가동시켜보니 집안 곳곳이 훈훈해져서 일할때 집중이 잘되어 좋습니다.  다만 원했던 아이보리색상이 품절이라 실버색이 와서 좀 아쉬워요. ㅜ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "4",
+    "Syllable": "98",
+    "Word": "22",
+    "RDate": "20211214",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "새제품 가동시켜보니 집안 곳곳이 훈훈해져서 일할때 집중이 잘되어 좋습니다. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "다만 원했던 아이보리색상이 품절이라 실버색이 와서 좀 아쉬워요. ㅜ ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "90716",
+    "RawText": "역시즌 제품 구입해서 매우 저렴한 가격으로 구입해 흡족합니다.  아이보리색이 품절이라 실버로 주문했는데 아이보리가 도착했네요.. 완전 득템해서 기분이 날아갈 것 같아요. ㅎ ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "97",
+    "Word": "21",
+    "RDate": "20210726",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "역시즌 제품 구입해서 매우 저렴한 가격으로 구입해 흡족합니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "아이보리색이 품절이라 실버로 주문했는데 아이보리가 도착했네요.. 완전 득템해서 기분이 날아갈 것 같아요. ㅎ",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "90717",
+    "RawText": "제품 성능이 매우 우수해서 가동시키면 금세 실내가 훈훈해져서 만족해요.  실버색상 주문했는데 인기 많은 아이보리색이 와서 내심 환호했어요.. ㅎㅎ 굿 ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "84",
+    "Word": "19",
+    "RDate": "20210725",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "제품 성능이 매우 우수해서 가동시키면 금세 실내가 훈훈해져서 만족해요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "실버색상 주문했는데 인기 많은 아이보리색이 와서 내심 환호했어요.. ㅎㅎ 굿",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "90718",
+    "RawText": "연료비 부담도 없고 따뜻한 바람 잘나와서 너무 따뜻하고 좋아요! 소음은 약간 나는데 신경쓰일 정도는 아니예요. 처음 작동시 기름냄새는 좀 심하게 나고 계속 틀어놓으면 아주 건조해지네요ㅜ ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "104",
+    "Word": "25",
+    "RDate": "20201106",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "연료비 부담도 없고 따뜻한 바람 잘나와서 너무 따뜻하고 좋아요! ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": " 소음은 약간 나는데 신경쓰일 정도는 아니예요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "처음 작동시 기름냄새는 좀 심하게 나고 계속 틀어놓으면 아주 건조해지네요ㅜ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "90719",
+    "RawText": "새제품 플라스틱 표면이 흠집과 찌그러진 곳이 발견되어 화납니다. ㅜ  또 제품 사이즈도 예상보다 너무 커서 보관할때 한자리 차지하겠어요. ㅜ 여러모로 불만족스럽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "3",
+    "Syllable": "92",
+    "Word": "21",
+    "RDate": "20200404",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "새제품 플라스틱 표면이 흠집과 찌그러진 곳이 발견되어 화납니다. ㅜ ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "또 제품 사이즈도 예상보다 너무 커서 보관할때 한자리 차지하겠어요. ㅜ 여러모로 불만족스럽네요.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "90720",
+    "RawText": "실버색상 주문. 도착한건 아이보리 색상이네요.. 너무 예뻐서 대만족^^  생산년도도 20년 12월 가장 최근 날짜에요.. 따끈한 최신상제품이라 기분 좋습니다..  제품 표면에 흠집이나 찌그러진 곳이 없어서 좋아요..  할인행사때 저렴하게 샀어요. 득템해서 만족감이 큽니다. ㅎ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "154",
+    "Word": "32",
+    "RDate": "20210215",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "실버색상 주문. 도착한건 아이보리 색상이네요.. 너무 예뻐서 대만족^^ ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제조일/제조사",
+        "SentimentText": "생산년도도 20년 12월 가장 최근 날짜에요.. 따끈한 최신상제품이라 기분 좋습니다.. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "제품 표면에 흠집이나 찌그러진 곳이 없어서 좋아요.. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인행사때 저렴하게 샀어요. 득템해서 만족감이 큽니다. ㅎ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "90721",
+    "RawText": "상품후기에 석유 냄새 얘기가 많아서 걱정했는데 전 냄새가 하나도 안나서 기분 좋네요.. 품질 짱~! 계절가전에서 인기순위 1위 ooo회사 제품이라 주저없이 선택했어요.. 써보니 굿입니다.  추천~ ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "110",
+    "Word": "24",
+    "RDate": "20201231",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "상품후기에 석유 냄새 얘기가 많아서 걱정했는데 전 냄새가 하나도 안나서 기분 좋네요.. 품질 짱~!",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제조일/제조사",
+        "SentimentText": "계절가전에서 인기순위 1위 ooo회사 제품이라 주저없이 선택했어요.. 써보니 굿입니다.  추천~",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "90722",
+    "RawText": "계절가전 겨울철 판매량 1위 ooo회사 제품이라 믿고 구입했어요. 사용해보니 역시나 좋네요..  열량 큰 제품으로 구입했더니 동계 캠핑때 큰 텐트 실내도 훈훈하게 만들어줘서 매우 흡족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "106",
+    "Word": "24",
+    "RDate": "20191021",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제조일/제조사",
+        "SentimentText": "계절가전 겨울철 판매량 1위 ooo회사 제품이라 믿고 구입했어요. 사용해보니 역시나 좋네요.. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "열량 큰 제품으로 구입했더니 동계 캠핑때 큰 텐트 실내도 훈훈하게 만들어줘서 매우 흡족합니다. ",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "90724",
+    "RawText": "작아도 제품 성능이 매우 우수해서 금방 실내가 따뜻해지네요.. 굿~^^ 다만 키고 끌때 석유냄새가 나서 머리 아프고 안좋아요 ㅜ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "71",
+    "Word": "18",
+    "RDate": "20220209",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "작아도 제품 성능이 매우 우수해서 금방 실내가 따뜻해지네요.. 굿~^^",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "다만 키고 끌때 석유냄새가 나서 머리 아프고 안좋아요 ㅜ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "90725",
+    "RawText": "제품 색상이 고급스러운 크림빛 아이보리색이라 매우 마음에 듭니다.  다만 예상보다 제품 사이즈가 커서 캠핑에서 휴대하기는 좀 불편하고 안좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "80",
+    "Word": "18",
+    "RDate": "20211204",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "제품 색상이 고급스러운 크림빛 아이보리색이라 매우 마음에 듭니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "다만 예상보다 제품 사이즈가 커서 캠핑에서 휴대하기는 좀 불편하고 안좋네요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "90726",
+    "RawText": "19년 1월 제조. 최근 생산일자가 아니라서 실망했어요. ㅜ  또 제품 부속품에 있어야할 노랑색 누유캡이 누락되어 와서 기분 안좋네요..  ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "18",
+    "RDate": "20191108",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제조일/제조사",
+        "SentimentText": "19년 1월 제조. 최근 생산일자가 아니라서 실망했어요. ㅜ ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "또 제품 부속품에 있어야할 노랑색 누유캡이 누락되어 와서 기분 안좋네요.. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "90727",
+    "RawText": "저렴한 가격에 제품 구입해서 만족해요..  실버색상 주문했는데 더 예쁜 아이보리색 보내주셔서 기쁘네요.. ㅎㅎ 야외 캠핑에서 바로 사용했는데 와우~ 텐트안이 따뜻해서 기분 좋게 보내고 돌아왔어요.. 구입하길 잘했어요~",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "121",
+    "Word": "26",
+    "RDate": "20211226",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 제품 구입해서 만족해요.. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "실버색상 주문했는데 더 예쁜 아이보리색 보내주셔서 기쁘네요.. ㅎㅎ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "야외 캠핑에서 바로 사용했는데 와우~ 텐트안이 따뜻해서 기분 좋게 보내고 돌아왔어요.. 구입하길 잘했어요~",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "90728",
+    "RawText": "카드할인받아 제품 저렴한 가격에 구입해서 만족해요..  다만 제품 킬때 석유냄새가 나서 좀 아쉬워요. ㅜ 사용중에는 나아지지만..  ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "16",
+    "RDate": "20220203",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "카드할인받아 제품 저렴한 가격에 구입해서 만족해요.. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "다만 제품 킬때 석유냄새가 나서 좀 아쉬워요. ㅜ 사용중에는 나아지지만.. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "90729",
+    "RawText": "점화하고 소화할때 기름냄새가 분명히 나요.. 작동중에는 냄새가 사라지지만 그래도 좋지 않네요. ㅜ 구축 아파트에서 사용하는데 제품 가동시키면 확실히 금방 내부가 훈훈해져서 만족해요..   ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "105",
+    "Word": "22",
+    "RDate": "20211215",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "점화하고 소화할때 기름냄새가 분명히 나요.. 작동중에는 냄새가 사라지지만 그래도 좋지 않네요. ㅜ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "구축 아파트에서 사용하는데 제품 가동시키면 확실히 금방 내부가 훈훈해져서 만족해요.. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "90731",
+    "RawText": "할인행사할때 저렴한 가격에 좋은 제품 구입해서 마음에 들어요..  주택이라 우풍이 쎈데 제품 가동시키니 반나절만에 집안이 후끈해지네요.. 기분 좋아요.. ㅎ 다만 처음 키고 끌때 기름냄새가 좀 많이 나서 안 좋네요.. 환기 자주해야겠어요.. ㅜ 기름 냄새 외에는 대만족입니다..",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "155",
+    "Word": "36",
+    "RDate": "20220112",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "할인행사할때 저렴한 가격에 좋은 제품 구입해서 마음에 들어요.. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "주택이라 우풍이 쎈데 제품 가동시키니 반나절만에 집안이 후끈해지네요.. 기분 좋아요.. ㅎ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "다만 처음 키고 끌때 기름냄새가 좀 많이 나서 안 좋네요.. 환기 자주해야겠어요.. ㅜ",
+        "SentimentWord": "13",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "90732",
+    "RawText": "단독주택에 거주해서 겨울이면 매우 추워서 구입. 제품 켜면 실내 온도가 빨리 올라가 활용성이 매우 좋네요.. 강추~ 가격이 비싼편이라 좀 부담되네요.. 그점이 아쉬워요. ㅜ  그치만 오래 사용하면 난방비가 세이브되니 결국은 이득입니다.. ㅎㅎ 만족해요..",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "142",
+    "Word": "32",
+    "RDate": "20211122",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "제품 켜면 실내 온도가 빨리 올라가 활용성이 매우 좋네요.. 강추~",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 비싼편이라 좀 부담되네요.. 그점이 아쉬워요. ㅜ ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소비전력",
+        "SentimentText": "그치만 오래 사용하면 난방비가 세이브되니 결국은 이득입니다.. ㅎㅎ 만족해요.. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "90733",
+    "RawText": "색상이 아이보리색이라 고급스러워서 좋아요! 가격은 많이 올라서 너무 비싼것 같아서 아쉬워요ㅜ",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "51",
+    "Word": "11",
+    "RDate": "20210107",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 아이보리색이라 고급스러워서 좋아요! ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 많이 올라서 너무 비싼것 같아서 아쉬워요ㅜ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "90734",
+    "RawText": "기름냄새도 거의 안나고 온풍이 안정적으로 잘 나와서 정말 따뜻해요!! 온풍기 크기도 생각보다 아담해서 맘에 들어요^^강력추천!",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "15",
+    "RDate": "20211210",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "기름냄새도 거의 안나고 온풍이 안정적으로 잘 나와서 정말 따뜻해요!! ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "온풍기 크기도 생각보다 아담해서 맘에 들어요^^강력추천!",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "90735",
+    "RawText": "첫번째 캠핑에서는 온풍이 잘나오고  따뜻해서 좋았어요.  그런데 이번 캠핑엔 자꾸 에러나서 기름도 새로 갈아보고 필터기도 닦아봤는데도 작동이 안되요ㅜㅜ고장인거 같은데 품질이 왜 이런가요??",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "1",
+    "Syllable": "105",
+    "Word": "22",
+    "RDate": "20191109",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "첫번째 캠핑에서는 온풍이 잘나오고  따뜻해서 좋았어요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "그런데 이번 캠핑엔 자꾸 에러나서 기름도 새로 갈아보고 필터기도 닦아봤는데도 작동이 안되요ㅜㅜ고장인거 같은데 품질이 왜 이런가요??",
+        "SentimentWord": "16",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "90736",
+    "RawText": "가격은 카드사 청구할인 받아서 저렴하게 구매했어요~실버색상 주문했는데 아이보리색으로 와서 더 좋아요^^ 온풍기 작동도 잘되고 따뜻한 바람이 너무 좋아요!!",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "86",
+    "Word": "18",
+    "RDate": "20211223",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 카드사 청구할인 받아서 저렴하게 구매했어요~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "실버색상 주문했는데 아이보리색으로 와서 더 좋아요^^",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "온풍기 작동도 잘되고 따뜻한 바람이 너무 좋아요!!",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "90737",
+    "RawText": "난방기 대란인데 다행히 저렴한 가격에 잘 사서 좋아요~사이즈도 900보다 좀더 큰 오버사이즈 1200으로 선택하길 잘했어요~작동시 기름냄새도 거의없고 온풍도 잘나와서 따뜻합니다^^",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "100",
+    "Word": "20",
+    "RDate": "20211209",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "난방기 대란인데 다행히 저렴한 가격에 잘 사서 좋아요~",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈도 900보다 좀더 큰 오버사이즈 1200으로 선택하길 잘했어요~",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "작동시 기름냄새도 거의없고 온풍도 잘나와서 따뜻합니다^^",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "90738",
+    "RawText": "성능이 좋고 온도도 금방 올라가서 굉장히 따뜻해서 좋아요!!  작동시 팬 돌아가는 소음은 약간 나네요..",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "14",
+    "RDate": "20191214",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "성능이 좋고 온도도 금방 올라가서 굉장히 따뜻해서 좋아요!! ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "작동시 팬 돌아가는 소음은 약간 나네요..",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "90739",
+    "RawText": "어린이가 작동 못하게 보호기능도 있고 온풍도 잘나와서 따뜻합니다. 제품 무게가 생각보다 무거워서 놀랐지만 안정감은 있네요.",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "15",
+    "RDate": "20201021",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "어린이가 작동 못하게 보호기능도 있고 온풍도 잘나와서 따뜻합니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": " 제품 무게가 생각보다 무거워서 놀랐지만 안정감은 있네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "90740",
+    "RawText": "성능좋고 온풍 잘나와서 너무 따뜻해요.장박용으로 최고예요!! 기본 가격이 비싸서 한달을 여기저기 발품팔아서 저렴하게 샀어요^^",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "14",
+    "RDate": "20191118",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "성능좋고 온풍 잘나와서 너무 따뜻해요.장박용으로 최고예요!! ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "기본 가격이 비싸서 한달을 여기저기 발품팔아서 저렴하게 샀어요^^",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "90742",
+    "RawText": "넗은공간에서 사용할거라  사이즈가 커서 맘에 들어요. 냄새도 안나고 따뜻한 바람이 잘나와서 좋아요!!",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "4",
+    "Syllable": "56",
+    "Word": "12",
+    "RDate": "20211103",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "넗은공간에서 사용할거라  사이즈가 커서 맘에 들어요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "냄새도 안나고 따뜻한 바람이 잘나와서 좋아요!!",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "90743",
+    "RawText": "가격이 비싸서 고민하다가 최저가 검색해서 잘 샀어요~실버색상으로 주문했는데 아이보리색으로 와서 너무 좋아요! 온풍이 잘나와서 너무 따뜻하게 캠핑하네요^^",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "85",
+    "Word": "17",
+    "RDate": "20211226",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 비싸서 고민하다가 최저가 검색해서 잘 샀어요~",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "실버색상으로 주문했는데 아이보리색으로 와서 너무 좋아요!",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "온풍이 잘나와서 너무 따뜻하게 캠핑하네요^^",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "90744",
+    "RawText": "실버색상 품절로 아이보리색상으로 받았는데 예뻐요. 가격도 저렴하게 사서 만족해요. 잘돌아가고 금방 훈훈해지고 성능좋아요!",
+    "Source": "쇼핑몰",
+    "Domain": "가전",
+    "MainCategory": "계절가전",
+    "ProductName": "신일전자 SFH-1200SV",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "13",
+    "RDate": "20191207",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "실버색상 품절로 아이보리색상으로 받았는데 예뻐요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하게 사서 만족해요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "잘돌아가고 금방 훈훈해지고 성능좋아요!",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]

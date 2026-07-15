@@ -1,0 +1,3512 @@
+[
+  {
+    "Index": "637352",
+    "RawText": "기존에 쓰던 제품이라 맘에 듭니다. 배송이 느리긴 했지만, 샘플도 많이 챙겨주시고 감사해요. 구성도 좋고, 앞으로도 여기서만 구매할 듯합니다. 잘 사용하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "90",
+    "Word": "20",
+    "RDate": "20180830",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "샘플도 많이 챙겨주시고 감사해요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "구성도 좋고, ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "637353",
+    "RawText": "좋은 가격에 잘 구매했어요. 가격은 적립금 사용해서 백화점보다 저렴하게 구입했지만 요즘 오프라인도 워낙 서비스가 좋습니다. 제품은 사용해 보고 재구매하겠습니다. 유분기가 많지 않고 색상도 붉은 피부를 커버할 수 있고 21호 치고는 어둡지만 베이지색에 가까워 괜찮습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "150",
+    "Word": "34",
+    "RDate": "20180831",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 가격에 잘 구매했어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 적립금 사용해서 백화점보다 저렴하게 구입했지만",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "유분기가 많지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 붉은 피부를 커버할 수 있고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "붉은 피부를 커버할 수 있고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "21호 치고는 어둡지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "베이지색에 가까워 괜찮습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "637430",
+    "RawText": "OO의 OO쿠션은 좋기로 소문이 자자하죠. 그래도 어쩌다 보니 사용을 못 해보다가 기회가 닿아서 구매해 봤어요. 처음 발라 본 소감은 생각보다 촉촉하게 잘 발립니다. 끈적함이 오래 남아 사용감이 그리 좋지는 않군요. 뽀송뽀송함을 기대했던 터라 아쉬워요. 커버는 보통이에요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "4",
+    "Syllable": "152",
+    "Word": "36",
+    "RDate": "20210303",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "생각보다 촉촉하게 잘 발립니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "잘 발립니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "끈적함이 오래 남아",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사용감",
+        "SentimentText": "사용감이 그리 좋지는 않군요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "뽀송뽀송함을 기대했던 터라 아쉬워요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "커버는 보통이에요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "637433",
+    "RawText": "좋은 가격에 구매했어요. 늘 사용하는 쿠션이에요. 세일해서 저렴한 가격에 쟁여 놓았습니다. 3호는 구하기가 쉽지 않은데, 늘 여기에서 저렴한 가격에 구매할 수 있어서 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "97",
+    "Word": "23",
+    "RDate": "20210307",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 가격에 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "세일해서 저렴한 가격에 쟁여 놓았습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "늘 여기에서 저렴한 가격에 구매할 수 있어서 좋아요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "637441",
+    "RawText": "본품 17호가 품절이라 리필로 구매했어요. 21호보다 화사하고 발림성도 좋아서 마음에 드네요. 본품 품절이 빨리 풀렸으면 좋겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "16",
+    "RDate": "20210509",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "21호보다 화사하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성도 좋아서 마음에 드네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "637444",
+    "RawText": "리뉴얼 전 ㅇㅇ쿠션보다 얇게 발려서 진짜 마스크 묻어남이 별로 없어요. 엄청난 커버력은 없지만 피부가 편안한 사용감이 마음에 들어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "74",
+    "Word": "18",
+    "RDate": "20210608",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "발림성",
+        "SentimentText": "얇게 발려서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "밀착력/접착력",
+        "SentimentText": "진짜 마스크 묻어남이 별로 없어요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "엄청난 커버력은 없지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사용감",
+        "SentimentText": "피부가 편안한 사용감이 마음에 들어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "637446",
+    "RawText": "처음 써 보는 거라 한 개만 우선 사 보았는데 기름지지 않아서 좋습니다. 산뜻하니 색상도 마음에 들어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "58",
+    "Word": "16",
+    "RDate": "20210722",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "기름지지 않아서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "산뜻하니 색상도 마음에 들어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "637451",
+    "RawText": "상품 품질이 좋아 마음에 듭니다. 늘 사용하던 제품이라 믿고 구매했습니다. 지속력이 오래가고 발림성도 부드럽고 발색력도 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "16",
+    "RDate": "20210927",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "상품 품질이 좋아 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력이 오래가고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성도 부드럽고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "발색력도 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "637452",
+    "RawText": "상품 품질이 좋아서 마음에 듭니다. 리필만 재구매 하는데 21호 색상이 잘 맞고 핑크빛 발색이 피부톤을 화사하게 만들어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "17",
+    "RDate": "20211003",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "상품 품질이 좋아서 마음에 듭니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "21호 색상이 잘 맞고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "핑크빛 발색이 피부톤을 화사하게 만들어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "637456",
+    "RawText": "적립금으로 구입했습니다. 원래 쓰던거라 리필만 구입한건데, 리뉴얼 됐는지 유통기한도 길고 좋습니다. 타사이트보단 가격이 많이 비싸지만, 적립금으로 저렴하게 샀네요. 가격이 내렸으면 좋겠습니다. 가을, 겨울엔 이 제품 만한 게 없습니다. 앞으로도 계속 사용할께요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "146",
+    "Word": "31",
+    "RDate": "20211017",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한도 길고 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "타사이트보단 가격이 많이 비싸지만, ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "적립금으로 저렴하게 샀네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 내렸으면 좋겠습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "가을, 겨울엔 이 제품 만한 게 없습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "637460",
+    "RawText": "상품 품질이 좋아요. 가격도 저렴하게 사서 마음에 듭니다. 특히 지속력이 좋습니다. 배송도 빠르고 잘 사용하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "65",
+    "Word": "15",
+    "RDate": "20211107",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "상품 품질이 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하게 사서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력이 좋습니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "637464",
+    "RawText": "상품 품질이 좋아요. 마음에 듭니다. 쿠폰으로 가격도 저렴하게 잘 사고 마스크에 잘 안 묻고 커버력이 좋아서 잘 쓰고 있어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "70",
+    "Word": "19",
+    "RDate": "20211210",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "상품 품질이 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰으로 가격도 저렴하게 잘 사고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "밀착력/접착력",
+        "SentimentText": "마스크에 잘 안 묻고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "커버력이 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "637467",
+    "RawText": "상품 품질이 좋아요. 마음에 듭니다. 저번에 한번 사고 이번에 다시 재구매해요. 발림성 좋고 커버력도 조금 있고 데일리로 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "73",
+    "Word": "18",
+    "RDate": "20211227",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "상품 품질이 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "커버력도 조금 있고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "데일리로 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "637474",
+    "RawText": "빠른 배송이 마음에 들어요. 건성피부에는 다소 뻑뻑하게 발리긴 하는데 마스크 묻어남도 적고 유지력이 좋아서 바르고 나가는용으로 사용해요. 수정용으로는 들뜸이 있어서 사용하지 않습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "102",
+    "Word": "22",
+    "RDate": "20220203",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "피부타입",
+        "SentimentText": "건성피부에는 다소 뻑뻑하게 발리긴 하는데",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": " 뻑뻑하게 발리긴 하는데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "밀착력/접착력",
+        "SentimentText": "마스크 묻어남도 적고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "유지력이 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "수정용으로는 들뜸이 있어서 사용하지 않습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "637476",
+    "RawText": "OOO쿠션 제품만 쓰기 때문에 리필도 자주 구입하고 있어요. 그런데 몇 년간 쿠션케이스 변경이 잦아서 리필 제품하고 틀이 달라 못 쓰는 경우도 많았습니다. 앞으로 리뉴얼 할 때는 케이스 변경은 안 했으면 좋겠습니다. 케이스 변경으로 틀이 달라서 리필을 사용하기 불편합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "152",
+    "Word": "38",
+    "RDate": "20220322",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용기",
+        "SentimentText": "앞으로 리뉴얼 할 때는 케이스 변경은 안 했으면 좋겠습니다. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "케이스 변경으로 틀이 달라서 리필을 사용하기 불편합니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "리필을 사용하기 불편합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "637479",
+    "RawText": "21호 웜톤이라 처음에 21N 구매해서 썼는데 나중에 시간 지나면 다크닝이 살짝 오는 느낌이 들었어요. 한톤 밝은 17N으로 구매했더니 걱정했던 것보다 너무 밝지 않게 발색되고 살짝 톤업되는 느낌이네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "113",
+    "Word": "27",
+    "RDate": "20220417",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "다크닝이 살짝 오는 느낌이 들었어요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "너무 밝지 않게 발색되고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "살짝 톤업되는 느낌이네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "637484",
+    "RawText": "매번 ㅇㅇㅇ쿠션 사용하다가 코로나로 화장을 안했었는데 이번에 마스크 안 쓸 걸 대비해서 샀네요. 그런데 리뉴얼되면서 기존 쿠션보다 쿠션 사이즈도 더 커져서 좋습니다. 바를때 밀리지 않고 번들거림도 덜해서 만족해요. 배송도 만족하고 포장도 만족해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "138",
+    "Word": "32",
+    "RDate": "20220526",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈/두께",
+        "SentimentText": "쿠션 사이즈도 더 커져서 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "바를때 밀리지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "번들거림도 덜해서 만족해요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "637486",
+    "RawText": "OOO쿠션 사용감이 무난합니다. 리뉴얼 됐는데 그 전이랑 품질에는 큰 차이가 없습니다. 가격만 오른 것 같습니다. 그래도 대체로 만족해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "77",
+    "Word": "18",
+    "RDate": "20220804",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사용감",
+        "SentimentText": "사용감이 무난합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "리뉴얼 됐는데 그 전이랑 품질에는 큰 차이가 없습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격만 오른 것 같습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "637488",
+    "RawText": "OOO쿠션을 다른 제품으로 갈아타 본 적은 없이 오랫동안 사용하고 있습니다. 사용은 편리하긴 한데, 가격만 착하면 좋을 것 같습니다. 양이 적어서 빨리 사용해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "4",
+    "Syllable": "90",
+    "Word": "22",
+    "RDate": "20220815",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용은 편리하긴 한데, ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격만 착하면 좋을 것 같습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/개수",
+        "SentimentText": "양이 적어서 빨리 사용해요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "637489",
+    "RawText": "리필 사서 케이스에 넣어 사용중이고, 색상은 21호지만 다른 제품들보다 밝은것 같아요. 피부가 환해지네요. 이전 사용한 것은 17이였는데 좀 밝아서 얼굴만 뽀샤시했어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "94",
+    "Word": "21",
+    "RDate": "20220816",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상은 21호지만 다른 제품들보다 밝은것 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "피부가 환해지네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "637490",
+    "RawText": "아주 훌륭한 쿠션입니다. 커버력도 좋고 마스크에 묻어나지 않고 지속력 또한 놀라워요. 주위에 칭찬 많이 했습니다. 제가 쓰는 것 보고 따라서 OO쿠션 구매한 친구들이 많아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "97",
+    "Word": "24",
+    "RDate": "20220817",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "커버력",
+        "SentimentText": "커버력도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "밀착력/접착력",
+        "SentimentText": "마스크에 묻어나지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력 또한 놀라워요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "637495",
+    "RawText": "결제한 다음 날 바로 배송되어 받았습니다. 배송이 빨라서 좋았어요. 다만 아쉬운 점은 화장품 박스가 없는 건 이해합니다만 용기에 먼지가 많이 묻어있습니다. 내용물은 밀봉되어 있어서 쓰는 데는 문제가 없겠지만 아쉽네요. 제품은 향이 진하고 매트해서 별로네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "4",
+    "Syllable": "143",
+    "Word": "34",
+    "RDate": "20170606",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 진하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "매트해서 별로네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "637500",
+    "RawText": "배송은 빨리 왔으나 함께 주문한 퍼프는 오지 않았네요. 말씀드리니 퍼프도 하루 이틀 만에 금방 왔습니다. 상품은 매트한 느낌이고 피부에 밀착됩니다. 들뜨지 않아서 좋습니다. 23호 주문했는데 밝은 감 있어 아쉽네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "4",
+    "Syllable": "120",
+    "Word": "29",
+    "RDate": "20171225",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "상품은 매트한 느낌이고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "밀착력/접착력",
+        "SentimentText": "피부에 밀착됩니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "들뜨지 않아서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "23호 주문했는데 밝은 감 있어 아쉽네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "637506",
+    "RawText": "솔직히 기대를 많이 해서 그런지 OO 에어쿠션보다 매트하고 촉촉하지 않아요. 커버력도 약해서 괜히 산 거 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "3",
+    "Syllable": "63",
+    "Word": "16",
+    "RDate": "20180130",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "OO 에어쿠션보다 매트하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "촉촉하지 않아요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "커버력도 약해서 괜히 산 거 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "637507",
+    "RawText": "항상 사용하고 있는데 좋습니다. 지성 피부가 쓰기 좋은 쿠션입니다. 보송보송해서 좋습니다. 적극 추천합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "60",
+    "Word": "13",
+    "RDate": "20180131",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "피부타입",
+        "SentimentText": "지성 피부가 쓰기 좋은 쿠션입니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "보송보송해서 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "637510",
+    "RawText": "주변에서 OOO좋다고 해서 다른거 쓰다 갈아탔는데 이거 바르면 다들 뭐 쓰냐고 물어보네요. OO쿠션보다 이 제품이 저에겐 잘 맞습니다. 여기가 제일 저렴해서 다쓰면 또 구매 예정이에요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "103",
+    "Word": "25",
+    "RDate": "20180210",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "OO쿠션보다 이 제품이 저에겐 잘 맞습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "여기가 제일 저렴해서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "637529",
+    "RawText": "ㅇㅇㅇ쿠션 잘 받았습니다. 쿠션 케이스가 너무 예쁩니다. 생각보다 커버도 잘 됩니다. 쿠션은 쓰면 사용하기 편하니까 추천해요. 유통기한도 넉넉하고 문의도 바로 봐주셔서 편합니다. 포장도 잘 돼서 왔네요. 가격도 저렴하게 나와서 한번 구매해보셔도 후회 안하실것 같네요. 아직 한번 써봤지만 마음에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "169",
+    "Word": "39",
+    "RDate": "20180531",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용기",
+        "SentimentText": "쿠션 케이스가 너무 예쁩니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": " 커버도 잘 됩니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "쿠션은 쓰면 사용하기 편하니까 추천해요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한도 넉넉하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하게",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "637535",
+    "RawText": "17호 색상은 잘 맞습니다. 나쁘지는 않은데 쿠션 자체가 매트한거 같습니다. 여름에 사용하면 좋을 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "4",
+    "Syllable": "62",
+    "Word": "15",
+    "RDate": "20180910",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "17호 색상은 잘 맞습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "쿠션 자체가 매트한거 같습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "여름에 사용하면 좋을 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "637536",
+    "RawText": "친구가 좋다고 추천하길래 사봤는데 진짜 인생템이네요. 지성이나 복합성 피부인 분들에게는 무조건 인생템입니다. 건성인 분들한테는 좀 뜰수도 있을 것 같습니다. 매트한 타입이라서 지성에게는 최고의 쿠션이에요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "114",
+    "Word": "24",
+    "RDate": "20180911",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "피부타입",
+        "SentimentText": "지성이나 복합성 피부인 분들에게는 무조건 인생템입니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "피부타입",
+        "SentimentText": "건성인 분들한테는 좀 뜰수도 있을 것 같습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "매트한 타입이라서 지성에게는 최고의 쿠션이에요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "피부타입",
+        "SentimentText": "지성에게는 최고의 쿠션이에요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "좀 뜰수도 있을 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "637540",
+    "RawText": "커버력이 좋아서 계속 쓰는제품입니다. 유통기한도 넉넉한걸로 보내주시고 배송도 빨라서 좋습니다. 다음에 또 구매예정이에요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "67",
+    "Word": "13",
+    "RDate": "20181106",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "커버력",
+        "SentimentText": "커버력이 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한도 넉넉한걸로 보내주시고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "637542",
+    "RawText": "피부톤이랑 잘 안 맞는 듯하고 발색도 너무 밝아 보이고 들뜬 느낌이 드네요. 모공 커버도 잘 안 되는 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "3",
+    "Syllable": "63",
+    "Word": "19",
+    "RDate": "20181126",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "피부톤이랑 잘 안 맞는 듯하고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "발색도 너무 밝아 보이고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "들뜬 느낌이 드네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "모공 커버도 잘 안 되는 것 같아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "637543",
+    "RawText": "매트해서 저한테는 맞지 않는 제품입니다. 바르면 피부가 조금 어두워 보이는 거 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "3",
+    "Syllable": "49",
+    "Word": "12",
+    "RDate": "20181204",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "매트해서 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "저한테는 맞지 않는 제품입니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "피부가 조금 어두워 보이는 거 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "637554",
+    "RawText": "가격은 싸고 좋습니다. 케이스가 리미티드 에디션이라서 별로에요. 전 기본 케이스가 더 좋아서 선물 주고 다시 사요. 참고하시고 제품은 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "4",
+    "Syllable": "79",
+    "Word": "19",
+    "RDate": "20190212",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 싸고 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "케이스가 리미티드 에디션이라서 별로에요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "637555",
+    "RawText": "지성이 심한편이라 겨울에도 OOO쿠션을 사용하고 있습니다. 그렇다고 건조하게 발리는 것도 아니라 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "12",
+    "RDate": "20190212",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "피부타입",
+        "SentimentText": "지성이 심한편이라 겨울에도 OOO쿠션을 사용하고 있습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "건조하게 발리는 것도 아니라 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "637557",
+    "RawText": "항상 애용하는 제품이에요.  피부톤도 좋아보이고, 잡티도 잘 가려주는 편이라서 만족하며 쓰고 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "12",
+    "RDate": "20190228",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "피부톤도 좋아보이고, ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "잡티도 잘 가려주는 편이라서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "637559",
+    "RawText": "다 쓸때마다 여기서 구입하고 있는데 좋습니다. 세미매트해서 아주 건조하지도 않습니다. 봄 가을철에는 조금 건조하게 느껴질 수 있는데, 기초 탄탄하게 하고 바르면 건조하지 않습니다. 지성이나 복합성 피부인 분들한테 딱입니다. 건성이신 분들한테는 조금 건조할 수 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "150",
+    "Word": "34",
+    "RDate": "20190310",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "세미매트해서 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "아주 건조하지도 않습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "봄 가을철에는 조금 건조하게 느껴질 수 있는데,",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "기초 탄탄하게 하고 바르면 건조하지 않습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "피부타입",
+        "SentimentText": "지성이나 복합성 피부인 분들한테 딱입니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "피부타입",
+        "SentimentText": "건성이신 분들한테는 조금 건조할 수 있습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "조금 건조할 수 있습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "637570",
+    "RawText": "늘 사용하는 제품인데 싸게 구매했어요. 퍼프를 추가로 구매했는데 정품이 아닌지 퍼프 사이즈도 작고 디자인도 전혀 다릅니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "16",
+    "RDate": "20190510",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸게 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/두께",
+        "SentimentText": "퍼프 사이즈도 작고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 전혀 다릅니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "637584",
+    "RawText": "색상 테스트를 안 해보고 샀네요. 후기를 보니 밝게 발색된다고 했는데 생각보다 어둡게 발색되어 여름에 사용하기 별로인 거 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "18",
+    "RDate": "20190627",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "발색력",
+        "SentimentText": "생각보다 어둡게 발색되어 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "여름에 사용하기 별로인 거 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "637587",
+    "RawText": "정품이 맞는지 궁금합니다. 케이스가 견고하지 않는 것 같아요. 많이 매트합니다. 오전에 바르고 오후되니 화장이 다 뜨네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "4",
+    "Syllable": "68",
+    "Word": "16",
+    "RDate": "20190720",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "용기",
+        "SentimentText": "케이스가 견고하지 않는 것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "많이 매트합니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "오전에 바르고 오후되니 화장이 다 뜨네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "화장이 다 뜨네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "637589",
+    "RawText": "얼굴에 약간 홍조가 있을 때 15호가 커버용으로 참 좋습니다. 자연스러운 커버력인데도 잡티가 안 보입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "14",
+    "RDate": "20190802",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "커버력",
+        "SentimentText": "15호가 커버용으로 참 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "자연스러운 커버력인데도",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "잡티가 안 보입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "637594",
+    "RawText": "OOO쿠션은 수부지인 제게 늘 좋은 쿠션이에요. 시원하고 얇게 발리고 뽀송하네요. 제가 쿨톤인걸 몰라서 늘 21호 쓰다가 첨으로 17호 구매했는데, 색상이 제 피부에 잘 맞습니다. 단점은 용량이 적어서 금방 사용하는 점이네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "126",
+    "Word": "30",
+    "RDate": "20191017",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "피부타입",
+        "SentimentText": "수부지인 제게 늘 좋은 쿠션이에요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "시원하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "얇게 발리고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "뽀송하네요.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "쿨톤인걸 몰라서 늘 21호 쓰다가 첨으로 17호 구매했는데, 색상이 제 피부에 잘 맞습니다. ",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/개수",
+        "SentimentText": "용량이 적어서 금방 사용하는 점이네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "637620",
+    "RawText": "평소에는 다른 쿠션을 사용하는데 조금 더 커버가 잘 되는 쿠션을 사용하고 싶어서 이 제품을 주문했습니다. 퍼프가 약간 파우더 팩트에 들어있는 뽀송한 스펀지 퍼프 같은 느낌이라서 내용물을 많이 먹습니다. 그래서 매끈한 표면의 다른 퍼프로 교체해서 사용하고 있어요. 그렇게 사용하면 발림성이 좋습니다. 약간 노란 빛이 많이 있는 피부입니다. 바닐라 색상이 좋네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "201",
+    "Word": "49",
+    "RDate": "20201123",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "발림성",
+        "SentimentText": "그렇게 사용하면 발림성이 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "바닐라 색상이 좋네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "637624",
+    "RawText": "ㅇㅇㅇ 유명한 이유가 있네요. 15호 구매했는데 제 피부톤이랑 잘 맞아서 화사하고 이쁘네요. 매트한거 좋아하는데 가볍게 잘 발리고 보송해져서 너무 맘에 듭니다. 배송도 빨랐어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "99",
+    "Word": "23",
+    "RDate": "20210210",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "15호 구매했는데 제 피부톤이랑 잘 맞아서 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "화사하고 이쁘네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "가볍게 잘 발리고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "보송해져서 너무 맘에 듭니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "637637",
+    "RawText": "보송보송하고 커버 잘 됩니다. 지성용 쿠션으로 좋다고 셀럽이 추천해서 믿고 사 봤습니다. 새로 나온 버전은 비싸서 저렴한 예전 버젼으로 샀습니다. 유통기간 넉넉하고 리필까지 같이 사도 저렴합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "109",
+    "Word": "26",
+    "RDate": "20210507",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "보송보송하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "커버 잘 됩니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 예전 버젼으로 샀습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기간 넉넉하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴합니다.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "637642",
+    "RawText": "피부가 햇빗에 타서 사용중이던 쿠션이 색이 안 맞아서 23호를 구매했습니다. 발색이 너무 어두워요. 자연스러운 발색을 원했는데 아니네요. 배송은 빠르고요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "86",
+    "Word": "19",
+    "RDate": "20210528",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "발색력",
+        "SentimentText": "발색이 너무 어두워요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "자연스러운 발색을 원했는데 아니네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "637647",
+    "RawText": "OO쿠션은 처음 써보는데 유분이 많지 않아서 괜찮습니다. 커버력이 뛰어나진 않지만 가볍게 톡톡 사용할 수 있어서 편합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "68",
+    "Word": "16",
+    "RDate": "20210712",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "유분이 많지 않아서 괜찮습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "커버력이 뛰어나진 않지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "가볍게 톡톡 사용할 수 있어서 편합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "637648",
+    "RawText": "전에 쓰던 쿠션은 물광 효과가 있어서 보기에도 촉촉하니 얼굴에 윤기가 흐르게 만들었는데 이건 물광 표현 없어서 조금 아쉽지만 다크닝 없고 지속력 좋고 커버력 좋네요. 배송도 빠르고 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "106",
+    "Word": "27",
+    "RDate": "20170424",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "물광 표현 없어서 조금 아쉽지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "다크닝 없고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "커버력 좋네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "637652",
+    "RawText": "사진으로 보다가 실물로 접하니까 케이스가 예쁘고 영롱합니다. OOO쿠션 말로만 좋다고 들었는데 한번씩 써보니까 왜 OOO쿠션 하는지 알겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "4",
+    "Syllable": "80",
+    "Word": "17",
+    "RDate": "20170917",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용기",
+        "SentimentText": "케이스가 예쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "영롱합니다.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "637658",
+    "RawText": "늘 사용하는 제품입니다. 좀 매트하긴 하지만 커버력이 갑이라 좋아요. 다음에 또 구매할게요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "51",
+    "Word": "12",
+    "RDate": "20171029",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "좀 매트하긴 하지만 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "커버력이 갑이라 좋아요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "637659",
+    "RawText": "쿠션을 여러가지 써 봤는데 저한테는 ㅇㅇㅇ이 제일 잘 맞는거 같네요. 커버도 잘 되고 건조하지도 않아서 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "62",
+    "Word": "16",
+    "RDate": "20171030",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "저한테는 ㅇㅇㅇ이 제일 잘 맞는거 같네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "커버도 잘 되고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "건조하지도 않아서 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "637664",
+    "RawText": "블랙쿠션 커버력도 좋고 발림성도 좋아서 꾸준히 사용하던 제품입니다. 가격도 저렴하게 구매했습니다. 배송도 무난하고 많이 파시길 바랍니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "16",
+    "RDate": "20171128",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "커버력",
+        "SentimentText": "커버력도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성도 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하게 구매했습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "637675",
+    "RawText": "발랐을때 끈적임이 덜하고 색상이 예뼈서 계속 쓰는 제품입니다.  착한가격으로 판매하고 있어서 더 좋았어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "13",
+    "RDate": "20180123",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "끈적임이 덜하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 예뼈서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "착한가격으로 판매하고 있어서 더 좋았어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "637683",
+    "RawText": "배송이 빠르네요. 맞는 쿠션 찾느라 이것저것 사용해 봤지만 커버력도 지속력도 OO OOO쿠션이 최고인 거 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "64",
+    "Word": "15",
+    "RDate": "20180226",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "커버력",
+        "SentimentText": "커버력도 지속력도 OO OOO쿠션이 최고인 거 같습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력도 OO OOO쿠션이 최고인 거 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "637687",
+    "RawText": "배송 상태는 좋았지만 배송은 너무 느렸어요. 기초를 탄탄하게 해도 건성에게는 많이 건조한 거 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "3",
+    "Syllable": "57",
+    "Word": "14",
+    "RDate": "20180313",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "피부타입",
+        "SentimentText": "기초를 탄탄하게 해도 건성에게는 많이 건조한 거 같습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "건조한 거 같습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "637693",
+    "RawText": "수부지 피부인데 여름이 오는 것 같아 주문했습니다. 원래 쓰던 색상보다 더 밝게 바르려고 한 호수 밝게 주문했습니다. 번들거리지 않고 딱 좋습니다. 중간톤인 제 피부엔 색상이 많이 밝습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "106",
+    "Word": "27",
+    "RDate": "20180428",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "번들거리지 않고 딱 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "중간톤인 제 피부엔 색상이 많이 밝습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "637700",
+    "RawText": "유명한 쿠션이라 설명이 필요없네요. 커버력도 좋고 제 피부에는 잘 맞아서 쭉 잘 쓰고 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "53",
+    "Word": "14",
+    "RDate": "20180511",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "커버력",
+        "SentimentText": " 커버력도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "제 피부에는 잘 맞아서 쭉 잘 쓰고 있습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "637707",
+    "RawText": "번들거리지 않고 얼굴에 착 붙습니다. 끈적이지 않아서 머리카락 붙지 않아요. 커버는 완전 안 됩니다. 가볍긴 해요. 많이 매트합니다. 광 전혀 없어서 만족도가 좀 떨어지네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "97",
+    "Word": "24",
+    "RDate": "20180531",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "번들거리지 않고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "밀착력/접착력",
+        "SentimentText": "얼굴에 착 붙습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "끈적이지 않아서 머리카락 붙지 않아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "커버는 완전 안 됩니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "가볍긴 해요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "많이 매트합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "광 전혀 없어서 만족도가 좀 떨어지네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "637714",
+    "RawText": "번들번들 수부지인데 하루종일 뽀송뽀송하네요.  근데 커버력에 약하고 화사하지는 않네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "48",
+    "Word": "9",
+    "RDate": "20180621",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "하루종일 뽀송뽀송하네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "커버력에 약하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "화사하지는 않네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "피부타입",
+        "SentimentText": "번들번들 수부지인데 하루종일 뽀송뽀송하네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "뽀송뽀송하네요.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "637717",
+    "RawText": "오래 사용한 제품입니다. 사계절 내내 사용하기 좋은 쿠션입니다. 하지만 양이 너무 적어서 아쉽네요. 그래서 대량 구매 해 놓고 쓰고 있습니다. 가격만 저렴해지면 더 좋겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "98",
+    "Word": "24",
+    "RDate": "20180722",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "사계절 내내 사용하기 좋은 쿠션입니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/개수",
+        "SentimentText": "양이 너무 적어서 아쉽네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격만 저렴해지면 더 좋겠습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "637718",
+    "RawText": "좋네요. 금방 써서 요번엔 두개 주문했습니다. 저렴한 가격 딱보고 구매했네요. 가격 올리지 말아주세요 또 사러 오겠습니다. 블랙쿠션 짱이네요. 여름 끈적임 없습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "92",
+    "Word": "21",
+    "RDate": "20180722",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 올리지 말아주세요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "여름 끈적임 없습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "637720",
+    "RawText": "저렴하게 샀습니다. 여름에 잘 맞네요. 얇게 발리고 커버력이 좋아서 자주 사용합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "4",
+    "Syllable": "47",
+    "Word": "11",
+    "RDate": "20180805",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 샀습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "여름에 잘 맞네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "얇게 발리고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "커버력이 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "637728",
+    "RawText": "15호 색상 쓰다가 13호 색상도 써보고 싶어서 주문했어요. 제일 밝은 색상이라 화사함을 기대했는데 생각보다 얼굴이 화사해지지 않네요. 제 피부의 노란끼를 잘 커버해 주지 못하네요. 얼굴톤이 화사하지 않고 자연스럽게 발색되지 않네요. 커버력도 별로 없습니다. 톤 보정도 잘 안되고요.기초를 두껍게 하면 밀림이 심해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "177",
+    "Word": "41",
+    "RDate": "20181001",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "생각보다 얼굴이 화사해지지 않네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "제 피부의 노란끼를 잘 커버해 주지 못하네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "얼굴톤이 화사하지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발색력",
+        "SentimentText": "자연스럽게 발색되지 않네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "커버력도 별로 없습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "톤 보정도 잘 안되고요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "밀림이 심해요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "637730",
+    "RawText": "이 쿠션만 써서 리필 여러 번 사봤는데 여기가 가성비 좋습니다. 13호 색상으로 샀습니다. 살짝 밝은 피부톤에 사용하시면 잘 맞아요. 3 만원에 리필 두 개 샀습니다. 박스 안에 이쁘게 포장되어오네요. 일주일 정도 걸렸습니다. 다 쓰면 또 여기서 구매합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "144",
+    "Word": "37",
+    "RDate": "20181014",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "살짝 밝은 피부톤에 사용하시면 잘 맞아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "637732",
+    "RawText": "13호는 선물로 주고 15호는 제가 쓸려고 구입했습니다. 용기도 이쁘고 발림성도 좋고  지속력도 좋아서 만족해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "63",
+    "Word": "14",
+    "RDate": "20181017",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용기",
+        "SentimentText": "용기도 이쁘고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림성도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력도 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "637733",
+    "RawText": "15호 구매 했는데 색상이 아주 마음에 드네요. 바를 때 느낌도 좋고 지속력도 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "48",
+    "Word": "13",
+    "RDate": "20181017",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 아주 마음에 드네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "바를 때 느낌도 좋고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력도 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "637748",
+    "RawText": "한꺼번에 여러가지 주문했는데 하나도 빠뜨리지 않고 틀림없이 배송이 왔네요. 샘플 몇개 더 넣어주셔서 다 잘 받았습니다. 가격도 좋고요. 앞으로 자주 이용하겠습니다. 번창하세요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "98",
+    "Word": "22",
+    "RDate": "20190208",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "샘플 몇개 더 넣어주셔서 다 잘 받았습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 좋고요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "637749",
+    "RawText": "늘 쓰던 제품이라 리필만 구매했는데 배송이 정말 칼같이 빠르네요. 유통기간도 길어서 쟁여 두고 쓰기 좋아요. 앞으로도 계속 이용할 듯합니다. 건성 피부에는 건조함이 느껴질 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "102",
+    "Word": "25",
+    "RDate": "20190509",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기간도 길어서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "피부타입",
+        "SentimentText": "건성 피부에는 건조함이 느껴질 것 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "건조함이 느껴질 것 같아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "637754",
+    "RawText": "23호 색상을 주로 써서 23호 색상 써봤는데 좀 밝아서 아쉬웠어요. 저한테는 25호 색상이 더 잘 맞아요. 발림이 아주 좋습니다. 다만 제형이 파우더리한데 촉촉하지 않아요. 그래도 좋아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "106",
+    "Word": "26",
+    "RDate": "20190615",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "저한테는 25호 색상이 더 잘 맞아요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림이 아주 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 파우더리한데 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "촉촉하지 않아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "637760",
+    "RawText": "이 쿠션 저 쿠션 써 봐도 저에겐 OO쿠션이 제일 잘 맞네요. 오랜 시간 지속력도 좋고 향도 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "57",
+    "Word": "17",
+    "RDate": "20190624",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "저에겐 OO쿠션이 제일 잘 맞네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "오랜 시간 지속력도 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "637762",
+    "RawText": "쿠션이 잘 안 맞아서 이것저것 다 써보고 포기 했는데 이 제품은 괜찮은 것 같아요. 덜 번들거리고 피부톤에 잘 맞아서 좋아요. 앞으로 계속 사용할 것 같아요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "88",
+    "Word": "25",
+    "RDate": "20190628",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "덜 번들거리고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "피부톤에 잘 맞아서 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "637766",
+    "RawText": "좋습니다. 양이 적어 금세 쓰는게 흠이에요. 두개 쟁였어요. 24호가 좀 어두워서 21호로 했는데 색상 밝기 차이는 많이 안나서 다행입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "78",
+    "Word": "19",
+    "RDate": "20190810",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량/개수",
+        "SentimentText": "양이 적어 금세 쓰는게 흠이에요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "24호가 좀 어두워서 21호로 했는데 색상 밝기 차이는 많이 안나서 다행입니다.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "637767",
+    "RawText": "처음 써 보는 거라 1개만 구매했는데 1개 더 살 걸 그랬습니다. 여름에 쓰기 진짜 좋습니다. 잘 무너지지도 않고 피부 표현 잘 됩니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "76",
+    "Word": "22",
+    "RDate": "20190816",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "여름에 쓰기 진짜 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "잘 무너지지도 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "피부 표현 잘 됩니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "637778",
+    "RawText": "커버력이 좋아서 몇년째 사용하고 있습니다. 배송도 빠르고 유통기한도 길어서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "47",
+    "Word": "10",
+    "RDate": "20191104",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "커버력",
+        "SentimentText": "커버력이 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "유통기한",
+        "SentimentText": "유통기한도 길어서 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "637779",
+    "RawText": "주문하고 하루만에 배송왔어요. 케이스가 시크한 블랙이라 고급스러워 보여요. 계속 OOO쿠션만 쓰고 있어요. 번들거림도 없고 흡수도 잘 되서 제 피부에는 잘 맞네요. 다 쓰면 리필로 또 구입해야겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "111",
+    "Word": "26",
+    "RDate": "20191106",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용기",
+        "SentimentText": "케이스가 시크한 블랙이라 고급스러워 보여요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "번들거림도 없고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "흡수도 잘 되서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "제 피부에는 잘 맞네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "637791",
+    "RawText": "번들거리지 않고 잘 흡수되고 색깔도 맘에 들었어요. 자주 애용할 듯합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "41",
+    "Word": "10",
+    "RDate": "20200306",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "번들거리지 않고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "잘 흡수되고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색깔도 맘에 들었어요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "637801",
+    "RawText": "건성이라 그런지 조금 매트하긴 합니다. 하지만 물 묻힌 스폰지로 바르면 괜찮아요. 시중보다 싼 게 엄청 장점인 것 같아요. 지성인 분들이 쓰기 좋을 것 같습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "4",
+    "Syllable": "90",
+    "Word": "24",
+    "RDate": "20200821",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "피부타입",
+        "SentimentText": "건성이라 그런지 조금 매트하긴 합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "조금 매트하긴 합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "시중보다 싼 게 엄청 장점인 것 같아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "피부타입",
+        "SentimentText": "지성인 분들이 쓰기 좋을 것 같습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "637804",
+    "RawText": "돌아돌아 다시 찾게 되는 OOO네요. 커버력이 조금 아쉽지만 자연스러운 커버력으로 생각하겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "54",
+    "Word": "11",
+    "RDate": "20201204",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "커버력",
+        "SentimentText": "커버력이 조금 아쉽지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "자연스러운 커버력으로 생각하겠습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "637811",
+    "RawText": "평이 좋아서 구입했는데 기미가 짙은 얼굴은 커버가 약하네요. 끈적임이 있어서 머리카락도 달라 붙어요. 저에게는 안 맞는 제품입니다. 화장도 들뜨고 아침에 화장하면 오후에 화장이 다 지워져요. 기미 커버가 절반도 안되네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "123",
+    "Word": "29",
+    "RDate": "20171107",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "커버력",
+        "SentimentText": "기미가 짙은 얼굴은 커버가 약하네요 .",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "끈적임이 있어서 머리카락도 달라 붙어요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "저에게는 안 맞는 제품입니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "화장도 들뜨고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "커버력",
+        "SentimentText": "기미 커버가 절반도 안되네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "아침에 화장하면 오후에 화장이 다 지워져요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "637815",
+    "RawText": "딸이 OOO 쿠션만 사용해서 항상 구매합니다. 발림도 좋고 지속력도 좋다고 합니다. 싸게 잘 산것 같네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "59",
+    "Word": "15",
+    "RDate": "20180808",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "발림성",
+        "SentimentText": "발림도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "지속력도 좋다고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸게 잘 산것 같네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "637820",
+    "RawText": "OOO 쿠션 처음 사봤습니다. 리필까지 있는 패키지는 조금 부담이 되어서 본품만 살려고 찾아다녔는데 다른 곳은 거의 품절이라 못 샀습니다. OO는 저렴해서 구매했습니다. 오늘 발라봤는데 두껍지 않게 잘 발립니다. 근데 옛날 화장품 향이 나서 아쉽네요. 바를 때는 향이 별로인데 시간 지나면 괜찮습니다. 제가 워낙 강한 향을 싫어해서 유독 더 그렇게 느낄 수 도 있습니다. 그래도 전반적으로 마음에 들어서 재구매 의사 있습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "4",
+    "Syllable": "238",
+    "Word": "60",
+    "RDate": "20170512",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴해서 구매했습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "두껍지 않게 잘 발립니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "옛날 화장품 향이 나서 아쉽네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "바를 때는 향이 별로인데",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "시간 지나면 괜찮습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "637821",
+    "RawText": "날이 더워져서 땀이 자주 나다 보니 화장이 오래 가질 못해서 고민이었습니다. 건성피부라서 너무 건조해질까봐 파우더를 바르지도 못하고요. 그런데 이 제품이 적당히 건조한 편이라고 해서 구매했는데, 수정 화장 할 때 소량씩 덧바르니 밀리거나 뜨지 않고 깔끔하게 수정됩니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "150",
+    "Word": "36",
+    "RDate": "20170518",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "발림성",
+        "SentimentText": "밀리거나 뜨지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "뜨지 않고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "637827",
+    "RawText": "까맣고 붉은기도 있어 국내 쿠션은 다 실패였어요. 매번 사서 친구들 나눠주곤 했어요. 우연히 OOO팩트를 보니 25호 엠버가 있어 구매했는데 자연스러운것 같습니다. 끈적이지 않고 매트하며 촉촉해요. 기존 OOO쿠션이랑 많이 달라요. 계속 쓰게 될 것 같네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "5",
+    "Syllable": "144",
+    "Word": "34",
+    "RDate": "20171102",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "25호 엠버가 있어 구매했는데 자연스러운것 같습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "끈적이지 않고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "매트하며",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "촉촉해요.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "637839",
+    "RawText": "너무 건조해요. 여름이라 땀이 많이 나서 괜찮을 거 같아 구매했는데 생각보다 건조하고 각질까지 생기네요. 매트해서 건조하신 분에게 추천할 수 없을 듯합니다. 배송은 총알이네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 헤** 쿠션 리필 15g 1개",
+    "ReviewScore": "4",
+    "Syllable": "98",
+    "Word": "23",
+    "RDate": "20180811",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "너무 건조해요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "생각보다 건조하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "각질까지 생기네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "매트해서 건조하신 분에게 추천할 수 없을 듯합니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "637855",
+    "RawText": "할머니 생각이 납니다. 향이 호불호가 갈릴 것 같아요. 저는 진한 향을 싫어해서 처음에는 별로였어요. 그래서 기존 파우더랑 섞어 쓰고 시간 지나니 향이 괜찮네요. 보송해서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 코** 에어스펀 페이스 파우더 65g 1개",
+    "ReviewScore": "5",
+    "Syllable": "101",
+    "Word": "25",
+    "RDate": "20220817",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 호불호가 갈릴 것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "저는 진한 향을 싫어해서 처음에는 별로였어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "기존 파우더랑 섞어 쓰고 시간 지나니 향이 괜찮네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "보송해서 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "637872",
+    "RawText": "가성비가 좋습니다. 아쉬운 점은 기능성 표시가 좀 부족하다는 거예요. 목이나 발 같은 데 발라도 좋습니다. 여름에 끈적끈적한 곳에 발라도 좋을 듯해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 코** 에어스펀 페이스 파우더 65g 1개",
+    "ReviewScore": "4",
+    "Syllable": "84",
+    "Word": "21",
+    "RDate": "20220720",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비가 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "아쉬운 점은 기능성 표시가 좀 부족하다는 거예요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "목이나 발 같은 데 발라도 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "여름에 끈적끈적한 곳에 발라도 좋을 듯해요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "637873",
+    "RawText": "아주 예전에 사용했는데 화장 쿠션은 지워지고 묻어서 마지막에 파우더로 꼭 마무리하네요. 아직까지 파우더가 나와서 잡티 커버에 잘 사용하고 있습니다. 가격만 저렴해지면 좋겠습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 코** 에어스펀 페이스 파우더 65g 1개",
+    "ReviewScore": "5",
+    "Syllable": "99",
+    "Word": "22",
+    "RDate": "20220716",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "커버력",
+        "SentimentText": "잡티 커버에 잘 사용하고 있습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격만 저렴해지면 좋겠습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "637874",
+    "RawText": "지성피부라 로션만 발라도 끈적임에 파우더가 필수입니다. 파우더를 하면 뾰루지도 안 나고 뽀송해서 사용감이 쾌적합니다. 헤프게 쓰는편이지만 코티분이 많이 건조하지도 않아서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 코** 에어스펀 페이스 파우더 65g 1개",
+    "ReviewScore": "5",
+    "Syllable": "100",
+    "Word": "21",
+    "RDate": "20220716",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "자극성",
+        "SentimentText": "뾰루지도 안 나고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "뽀송해서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사용감",
+        "SentimentText": "사용감이 쾌적합니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "많이 건조하지도 않아서 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "637877",
+    "RawText": "오랜만에 사용해봐요. 향도 좋고 양도 많고 다양하게 사용하기 좋아요. 요즘 덥기도 하고 마스크 때문에 화장 후 지워져서 이 제품으로 구매했습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 코** 에어스펀 페이스 파우더 65g 1개",
+    "ReviewScore": "3",
+    "Syllable": "81",
+    "Word": "20",
+    "RDate": "20220712",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량/개수",
+        "SentimentText": "양도 많고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "다양하게 사용하기 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "637891",
+    "RawText": "언니가 쓰는 거 빌려서 몇 번 써 보니 제형이 너무 곱고 잘 먹어서 예전에 많이 썼는데 요즘 트렌드는 파우더를 잘 안 쓰기에 한동안 안 썼어요. 그런데 역시 저한테는 파우더가 필요한 것 같아서 다시 구매해서 쓰고 있습니다. 번질거리는 부분에 소량 발라 주면 뽀송뽀송해져요. 얼굴이 화사해집니다. 다시 써 봐도 예전처럼 좋네요. 가격도 너무 저렴해요. 아주 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 코** 에어스펀 페이스 파우더 65g 1개",
+    "ReviewScore": "5",
+    "Syllable": "204",
+    "Word": "54",
+    "RDate": "20220628",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 너무 곱고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "밀착력/접착력",
+        "SentimentText": "잘 먹어서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "번질거리는 부분에 소량 발라 주면 뽀송뽀송해져요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "얼굴이 화사해집니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 너무 저렴해요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "637947",
+    "RawText": "너무 좋습니다. 퍼프도 따로 챙겨 주시고 너무 감사드립니다. 한동안 쓰다가 잊고 지냈었는데 이것만큼 저한테 맞는 거 찾기가 힘들어서 다시 사려고 찾아 보니 여기가 가장 싸고 좋아서 샀습니다. 배송도 빨리 보내주셨네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 코** 에어스펀 페이스 파우더 65g 1개",
+    "ReviewScore": "4",
+    "Syllable": "121",
+    "Word": "30",
+    "RDate": "20220404",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "퍼프도 따로 챙겨 주시고 너무 감사드립니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "이것만큼 저한테 맞는 거 찾기가 힘들어서",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가장 싸고 좋아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "637961",
+    "RawText": "속 비닐이 뜯어져서 폭탄이 터진 것 처럼 왔습니다. 귀찮아서 그냥 쓰긴 하는데 뚜껑 열 때 마다 제형 가루가 날려서 사용하기 불편합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 코** 에어스펀 페이스 파우더 65g 1개",
+    "ReviewScore": "3",
+    "Syllable": "76",
+    "Word": "21",
+    "RDate": "20220307",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형 가루가 날려서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "사용하기 불편합니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "637975",
+    "RawText": "예전부터 쓰던 제품입니다. 오랜 세월 동안 변함없는 향기가 좋아요. 향이 좋아서 많은 사람들이 애용하는 거 같아요. 향이 향수만큼 좋아서 늘 구매합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 코** 에어스펀 페이스 파우더 65g 1개",
+    "ReviewScore": "5",
+    "Syllable": "85",
+    "Word": "21",
+    "RDate": "20220130",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "오랜 세월 동안 변함없는 향기가 좋아요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 좋아서 많은 사람들이 애용하는 거 같아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 향수만큼 좋아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "637976",
+    "RawText": "3가지 색 다 발라봤습니다. 바를 때만 색이 달라 보여 아쉽네요. 세 제품이 다 색이 같고 향도 같아서 아쉽습니다. 파우더만 바르고 3시간 정도 되어도 보송해지지 않고 안 이쁘게 무너지네요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 코** 에어스펀 페이스 파우더 65g 1개",
+    "ReviewScore": "4",
+    "Syllable": "106",
+    "Word": "28",
+    "RDate": "20220127",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "바를 때만 색이 달라 보여 아쉽네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "세 제품이 다 색이 같고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향도 같아서 아쉽습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "흡수력",
+        "SentimentText": "보송해지지 않고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "지속력/유지력",
+        "SentimentText": "안 이쁘게 무너지네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "637978",
+    "RawText": "향은 강하고 색상은 콩가루색 같이 좀 연하네요. 잘 발라지긴 하네요. 반품한 제품인지 필름지가 다른 것 같고 비닐 겉포장도 없어 찜찜해요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 코** 에어스펀 페이스 파우더 65g 1개",
+    "ReviewScore": "1",
+    "Syllable": "77",
+    "Word": "20",
+    "RDate": "20220127",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "향",
+        "SentimentText": "향은 강하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상은 콩가루색 같이 좀 연하네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "잘 발라지긴 하네요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "637990",
+    "RawText": "좋은 가격에 잘 구매했어요. 향 때문에 살짝 아쉽습니다. 익숙해지지 않아서 그런 것 같습니다. 용량은 많아서 너무 좋네요. 색상도 뉴트럴톤이라서 좋습니다. 다음에 재구매하러 올게요. 퍼프가 굉장히 커서 작은 통에 덜어서 사용하니까 더 편합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 코** 에어스펀 페이스 파우더 65g 1개",
+    "ReviewScore": "4",
+    "Syllable": "136",
+    "Word": "32",
+    "RDate": "20220117",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 가격에 잘 구매했어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향 때문에 살짝 아쉽습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량/개수",
+        "SentimentText": "용량은 많아서 너무 좋네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 뉴트럴톤이라서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈/두께",
+        "SentimentText": "퍼프가 굉장히 커서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성/활용성",
+        "SentimentText": "작은 통에 덜어서 사용하니까 더 편합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "637996",
+    "RawText": "친구가 필요하다고 해서 사 주었는데 파우더 제형 입자도 곱고 좋습니다. 그런데 냄새는 별로입니다. 향이 제 취향에는 안 맞네요. 가격대비 좋습니다. 향을 좀 바꾸었으면 하는 바람이 있어요.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 코** 에어스펀 페이스 파우더 65g 1개",
+    "ReviewScore": "5",
+    "Syllable": "105",
+    "Word": "26",
+    "RDate": "20220107",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "파우더 제형 입자도 곱고 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "냄새는 별로입니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향을 좀 바꾸었으면 하는 바람이 있어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향이 제 취향에는 안 맞네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "638007",
+    "RawText": "다른 제품 쓰다가 구매 후기 보고 샀습니다. 얼굴이 약간 붉은 톤인데 피부가 뽀얗게 표현이 되고 향기도 나쁘지 않습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 코** 에어스펀 페이스 파우더 65g 1개",
+    "ReviewScore": "4",
+    "Syllable": "67",
+    "Word": "18",
+    "RDate": "20211221",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "윤기/피부(톤)",
+        "SentimentText": "피부가 뽀얗게 표현이 되고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "향",
+        "SentimentText": "향기도 나쁘지 않습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "638022",
+    "RawText": "한 달 동안 이 제품을 사용해 보았습니다. 제형이 아주 고운 입자입니다. 바르고 나니 건조해져 주름이 많아 보여서 며칠 사용하다 그만두었어요. 하지만 포장은 예쁩니다. 케이스가 분홍색이어서 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 코** 에어스펀 페이스 파우더 65g 1개",
+    "ReviewScore": "5",
+    "Syllable": "111",
+    "Word": "26",
+    "RDate": "20211203",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "제형",
+        "SentimentText": "제형이 아주 고운 입자입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "보습력/수분감/쿨링감",
+        "SentimentText": "바르고 나니 건조해져 주름이 많아 보여서",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용기",
+        "SentimentText": "케이스가 분홍색이어서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "638029",
+    "RawText": "페이스 파우더 다른 제품도 많이 사용했는데 이 제품이 제 피부에 잘 맞아서 이것만 사용합니다. 가격도 저렴하고 화사하게 발립니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 코** 에어스펀 페이스 파우더 65g 1개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "18",
+    "RDate": "20211124",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능/효과",
+        "SentimentText": "제 피부에 잘 맞아서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "발림성",
+        "SentimentText": "화사하게 발립니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "638038",
+    "RawText": "파우더는 OO가 제일 쓰기 좋습니다. OO에 길들어서 다른 파우더는 성에 안 차요. 언니랑 같이 씁니다. 가격도 품질도 좋습니다.",
+    "Source": "쇼핑몰",
+    "Domain": "화장품",
+    "MainCategory": "메이크업/뷰티소품",
+    "ProductName": "OO 코** 에어스펀 페이스 파우더 65g 1개",
+    "ReviewScore": "5",
+    "Syllable": "72",
+    "Word": "18",
+    "RDate": "20211113",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 품질도 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]

@@ -1,0 +1,3414 @@
+[
+  {
+    "Index": "94188",
+    "RawText": "이옷은 품질 별로네요   사이즈가 좀 작은것 같기도하고  집에서만 입기로했습니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 뉴** 맨투맨",
+    "ReviewScore": "30",
+    "Syllable": "44",
+    "Word": "9",
+    "RDate": "20211210",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "이옷은 품질 별로네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 좀 작은것 같기도하고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "94196",
+    "RawText": "흰색일거라고 생각했는데 아이보리색입다. 사이즈 잘 맞고 디자인 예쁘네요.. 가격대비 만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남여공용 아** 맨투맨 티셔츠",
+    "ReviewScore": "100",
+    "Syllable": "52",
+    "Word": "10",
+    "RDate": "20190327",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "흰색일거라고 생각했는데 아이보리색입다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈 잘 맞고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 예쁘네요.. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 만족합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94213",
+    "RawText": "주문 한날 발송해서 다음날 바로 잘 받았습니다.   쿠폰, 적립금 적용해서 저렴하게 구매 했어요.  재질도 좋은것   같아요.  여유있는 사이즈로 구매해서 편하게  입고 다닙니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 후드티 남녀공용 기모",
+    "ReviewScore": "100",
+    "Syllable": "100",
+    "Word": "22",
+    "RDate": "20210201",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "쿠폰, 적립금 적용해서 저렴하게 구매 했어요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질도 좋은것   같아요.  ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "여유있는 사이즈로 구매해서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편하게  입고 다닙니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94244",
+    "RawText": "사이즈 같은 거로 다른 디자인이랑 주문했는데 유독 이 티셔츠만 겨드랑이 끼고... 까슬까슬하게 쓸린데요...ㅠ.ㅠ 디자인은 이뻐요~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 스포츠 카라/라운드티셔츠 9종 택1",
+    "ReviewScore": "60",
+    "Syllable": "73",
+    "Word": "15",
+    "RDate": "20190320",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "유독 이 티셔츠만 겨드랑이 끼고... ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": " 까슬까슬하게 쓸린데요...ㅠ.ㅠ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인은 이뻐요~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94253",
+    "RawText": "박음질 실들이 소매랑 내부에 뭉텡이로 군데군데 너무 많아요. 안보이는 곳까지 깔끔한 마무리가 매우 아싑네요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 체크 카라 골프 티셔츠 4종",
+    "ReviewScore": "60",
+    "Syllable": "60",
+    "Word": "14",
+    "RDate": "20190409",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "마감",
+        "SentimentText": "박음질 실들이 소매랑 내부에 뭉텡이로 군데군데 너무 많아요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": " 깔끔한 마무리가 매우 아싑네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "94265",
+    "RawText": "너무 얇고 마감도 엉성합니다 그냥 집에서만 입을 수준.. 품질이 만족스럽진 못하네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 스** 티셔츠 14종 균일가",
+    "ReviewScore": "40",
+    "Syllable": "46",
+    "Word": "11",
+    "RDate": "20190311",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "너무 얇고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "마감도 엉성합니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "그냥 집에서만 입을 수준..",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 만족스럽진 못하네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "94266",
+    "RawText": "생각보다 엄청 얇네요ㅡ 그리고 95인데 사이즈가 타이트해요ㅠㅠ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 스** 티셔츠 14종 균일가",
+    "ReviewScore": "100",
+    "Syllable": "34",
+    "Word": "7",
+    "RDate": "20190319",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "생각보다 엄청 얇네요ㅡ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "95인데 사이즈가 타이트해요ㅠㅠ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "94271",
+    "RawText": "가격에 비해 재질이 좋고 여름철에 운동살때 입으면 땀배출이 잘되겠네요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 기능성 티셔츠/스판팬츠 4종 택1",
+    "ReviewScore": "100",
+    "Syllable": "39",
+    "Word": "9",
+    "RDate": "20190522",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "가격에 비해 재질이 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "여름철에 운동살때 입으면 땀배출이 잘되겠네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94278",
+    "RawText": "시원하니 색깔이나 모양도 무척 좋네요 가격대비 기능이나 품질이 마이좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 바** 카라셔츠 4종",
+    "ReviewScore": "80",
+    "Syllable": "40",
+    "Word": "9",
+    "RDate": "20190430",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "시원하니 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색깔이나 모양도 무척 좋네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "모양도 무척 좋네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "가격대비 기능이나 품질이 마이좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 마이좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94309",
+    "RawText": "질은 좋지만 사이즈가 좀 크게 나온듯해요~ 몸에 딱 맞기보단 박시한 느낌의 티입니다!",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 라** 화이트 무지 반팔티셔츠 3종 SET",
+    "ReviewScore": "80",
+    "Syllable": "47",
+    "Word": "12",
+    "RDate": "20190322",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "질은 좋지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 좀 크게 나온듯해요~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "몸에 딱 맞기보단 박시한 느낌의 티입니다!",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "94311",
+    "RawText": "촉감이 부드럽긴한데 두꺼워 여름에 입기 그래요.  ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 라** 화이트 무지 반팔티셔츠 3종 SET",
+    "ReviewScore": "100",
+    "Syllable": "28",
+    "Word": "6",
+    "RDate": "20190403",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "촉감",
+        "SentimentText": "촉감이 부드럽긴한데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "두꺼워",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "여름에 입기 그래요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "94316",
+    "RawText": "면도 좋구요 윤지있다는소리에 나일론 섞였나걱정했는데 품질 넘 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 라** 화이트 무지 반팔티셔츠 3종 SET",
+    "ReviewScore": "100",
+    "Syllable": "37",
+    "Word": "8",
+    "RDate": "20190403",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "면도 좋구요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "윤지있다는소리에 나일론 섞였나걱정했는데 품질 넘 좋아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94320",
+    "RawText": "포인트 써서 6장 구매했습니다. 남성이며 평소 슬림핏 100 일반핏 95입는데, 이 티셔츠는 95입어도 좀 큰느낌이네요. 한사이즈 작게 사시면 될 듯 합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 라** 화이트 무지 반팔티셔츠 3종 SET",
+    "ReviewScore": "100",
+    "Syllable": "88",
+    "Word": "21",
+    "RDate": "20190324",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "슬림핏 100 일반핏 95입는데, 이 티셔츠는 95입어도 좀 큰느낌이네요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "한사이즈 작게 사시면 될 듯 합니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "94328",
+    "RawText": "같은 100사이즈인데 입던 옷보다 크네요 사이즈가 불만인점 말고는 깔끔히 잘입겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 라** 화이트 무지 반팔티셔츠 3종 SET",
+    "ReviewScore": "100",
+    "Syllable": "47",
+    "Word": "10",
+    "RDate": "20190417",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "같은 100사이즈인데 입던 옷보다 크네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 불만인점 말고는",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "94336",
+    "RawText": "잘샀어요~사이즈 좋고 가성비 좋고,배송비없는데,빠른 배송.!제것두 구입하구 싶네요~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 라** 화이트 무지 반팔티셔츠 3종 SET",
+    "ReviewScore": "100",
+    "Syllable": "46",
+    "Word": "7",
+    "RDate": "20190418",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94342",
+    "RawText": "가격이 저렴해서 그런지 목둘레 금방늘어날거 같아요.                       ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 라** 화이트 무지 반팔티셔츠 3종 SET",
+    "ReviewScore": "60",
+    "Syllable": "51",
+    "Word": "6",
+    "RDate": "20190408",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "목둘레 금방늘어날거 같아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "94352",
+    "RawText": "가격에 비해 너무  품질이 안좋네요~~~착한가격도 아닌듯",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 라** 화이트 무지 반팔티셔츠 3종 SET",
+    "ReviewScore": "100",
+    "Syllable": "31",
+    "Word": "6",
+    "RDate": "20190411",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격에 비해 너무  품질이 안좋네요~~~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "착한가격도 아닌듯",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "94355",
+    "RawText": "그냥~~편하게~~입을라고~~저렴해서구입해봤는데요~~사이즈는~약간오버핏으로입을라고~2xl로구입했어요~~쟤가좀큰편인데도~~오버핏이도네요~~190/90인데도~충분해요~근데~너무얇아요~~겉에입어봤는데~안에옷그림이완전다비치는~그래서~안에레이어드해서입을려구요~그거말고는만족스럽네요~^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 라** 화이트 무지 반팔티셔츠 3종 SET",
+    "ReviewScore": "80",
+    "Syllable": "153",
+    "Word": "1",
+    "RDate": "20190320",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴해서구입해봤는데요~~",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "오버핏이도네요~~",
+        "SentimentWord": "1",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "190/90인데도~충분해요~",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "너무얇아요~~",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "완전다비치는~",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "안에레이어드해서입을려구요~",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "94371",
+    "RawText": "남학생 교복속에 입히려했더니 여름에 더우면 교복 벗었을때 얇아서 비친다고함  ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 라** 화이트 무지 반팔티셔츠 3종 SET",
+    "ReviewScore": "100",
+    "Syllable": "43",
+    "Word": "9",
+    "RDate": "20190322",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇아서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "비친다고함",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "94374",
+    "RawText": "저렴하게 잘샀어요 품질도 맘에들고 배송도 빠르고 주말이라 못받을줄알았는데 빠르게 받았어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 라** 화이트 무지 반팔티셔츠 3종 SET",
+    "ReviewScore": "100",
+    "Syllable": "49",
+    "Word": "10",
+    "RDate": "20190324",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘샀어요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 맘에들고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94388",
+    "RawText": "좋아요 포인트 적립금 사용해서 정말 저렴하게 구매했네요 면도 톡톡하니 좋아요 마니파세용",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 라** 화이트 무지 반팔티셔츠 3종 SET",
+    "ReviewScore": "100",
+    "Syllable": "48",
+    "Word": "11",
+    "RDate": "20190402",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "포인트 적립금 사용해서 정말 저렴하게 구매했네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "면도 톡톡하니 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94389",
+    "RawText": "면이 두텁지 않고 부드럽고 가볍고 좋아요 요즘같은 간절기에 겉옷 속에 입기 딱이구요 가성비도 갠찬. 포인트로 구매해서 거져 받은 기분이에요ㅎㅎ 사이즈가 110까지 있어서 굳. ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 라** 화이트 무지 반팔티셔츠 3종 SET",
+    "ReviewScore": "100",
+    "Syllable": "98",
+    "Word": "23",
+    "RDate": "20190327",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "면이 두텁지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "부드럽고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "요즘같은 간절기에 겉옷 속에 입기 딱이구요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비도 갠찬.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94395",
+    "RawText": "사이즈 정사이즈같고요 조금얇은편같지만 원단좋아보여요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 라** 화이트 무지 반팔티셔츠 3종 SET",
+    "ReviewScore": "100",
+    "Syllable": "29",
+    "Word": "4",
+    "RDate": "20190329",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈 정사이즈같고요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "조금얇은편같지만",
+        "SentimentWord": "1",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "원단좋아보여요.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94398",
+    "RawText": "95사이즈 몸집이 작은 아들인데 잘 맞아요 저렴한가격에 잘 샀어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 라** 화이트 무지 반팔티셔츠 3종 SET",
+    "ReviewScore": "100",
+    "Syllable": "36",
+    "Word": "9",
+    "RDate": "20190403",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "95사이즈 몸집이 작은 아들인데 잘 맞아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한가격에 잘 샀어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94420",
+    "RawText": "아들 여름면티 아주 저렴하게 구입했어요~~ 배송도 빠르고 사이즈도 넉넉히 잘 맞습니다 ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 라** 화이트 무지 반팔티셔츠 3종 SET",
+    "ReviewScore": "100",
+    "Syllable": "48",
+    "Word": "11",
+    "RDate": "20190321",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "아주 저렴하게 구입했어요~~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈도 넉넉히 잘 맞습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94423",
+    "RawText": "중3아이 교복 셔츠안에 입는 티셔츠로 너무 좋아요.  질이 정말 좋네요. 남편 양복셔츠 안에 입는 반팔 런닝 대용으로 더 좋구요.   가격 퀄리티 모두 백점~^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 라** 화이트 무지 반팔티셔츠 3종 SET",
+    "ReviewScore": "100",
+    "Syllable": "90",
+    "Word": "23",
+    "RDate": "20190322",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "활용성",
+        "SentimentText": "중3아이 교복 셔츠안에 입는 티셔츠로 너무 좋아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "질이 정말 좋네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "남편 양복셔츠 안에 입는 반팔 런닝 대용으로 더 좋구요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 퀄리티 모두 백점~^^",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "퀄리티 모두 백점~^^",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94424",
+    "RawText": "가겨에비해구성도좋고.질도좋아요.다른메이커에비해.사이즈가커요.정사이즈보다.한치수작게주문해도될거같아요.교복안에입으려고샀는데.다른곳보다가격이젤저렴한거같아.앞으로잘입을거같아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 라** 화이트 무지 반팔티셔츠 3종 SET",
+    "ReviewScore": "100",
+    "Syllable": "93",
+    "Word": "1",
+    "RDate": "20190321",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "가겨에비해구성도좋고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "질도좋아요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "다른곳보다가격이젤저렴한거같아.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "다른메이커에비해.사이즈가커요.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "정사이즈보다.한치수작게주문해도될거같아요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "94425",
+    "RawText": "남편주려고 적립금으로 저렴하게 주문했는데 면이 너무좋아서 한세트 더주문했어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 라** 화이트 무지 반팔티셔츠 3종 SET",
+    "ReviewScore": "100",
+    "Syllable": "42",
+    "Word": "8",
+    "RDate": "20190322",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "적립금으로 저렴하게 주문했는데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "면이 너무좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94435",
+    "RawText": "학생들 교복안에 입기에 정말 좋아요 적극추천합니다 촉감도 넘 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 라** 화이트 무지 반팔티셔츠 3종 SET",
+    "ReviewScore": "100",
+    "Syllable": "37",
+    "Word": "9",
+    "RDate": "20190510",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "활용성",
+        "SentimentText": "학생들 교복안에 입기에 정말 좋아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "촉감도 넘 좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94436",
+    "RawText": "세탁후  축쳐지며 톡톡하지는않고 얇습니다  돈 조금 더  보태서  보고 사야겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 라** 화이트 무지 반팔티셔츠 3종 SET",
+    "ReviewScore": "100",
+    "Syllable": "46",
+    "Word": "10",
+    "RDate": "20190510",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "세탁후  축쳐지며",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "톡톡하지는않고 얇습니다 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 돈 조금 더  보태서  보고 사야겠습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "94446",
+    "RawText": "다양하게 좋은색상으로 매일매일갈아 잘 입고있어요 헬스할때도 엄청 부드러워 땀 흡수 좋고 잘 말라 추천해 봅니다 아주 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "68",
+    "Word": "17",
+    "RDate": "20190420",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "다양하게 좋은색상으로",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "엄청 부드러워",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "땀 흡수 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "잘 말라 추천해 봅니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94449",
+    "RawText": "아직 입어보진않았지만 일단 원단은 시원하네요. 빨리 늘어지지만 않으면 싸고 좋은 제품이네요..",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "80",
+    "Syllable": "52",
+    "Word": "11",
+    "RDate": "20190419",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "원단은 시원하네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "빨리 늘어지지만 않으면 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "싸고 좋은 제품이네요..",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94450",
+    "RawText": "신랑이 방송보고 사달라고 해서 샀는데 재질도 좋고 티셔츠도 디자인 깔끔하니 괜찮네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "46",
+    "Word": "11",
+    "RDate": "20190419",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 깔끔하니 괜찮네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94452",
+    "RawText": "레드캠프 남성 데일리티 세트  가격도 좋았고 배송받고보니 색상이랑 촉감이 매우 좋습니다 남편과 아들들 함께나누어 입으라고 구매했는데 착용해보니 착용감이 매우좋다고 합니다 마음에 들어하니 구매를 잘했다고 생각합니다 잘입겠습니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "125",
+    "Word": "26",
+    "RDate": "20190404",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 좋았고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이랑 촉감이 매우 좋습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "촉감이 매우 좋습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감이 매우좋다고 합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94453",
+    "RawText": "레드캠프 남성데일리  아주 저렴한가격에 잘산거 같네요 입었을때 시원한 느낌 좋네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "45",
+    "Word": "10",
+    "RDate": "20190404",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "아주 저렴한가격에 잘산거 같네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "입었을때 시원한 느낌 좋네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94455",
+    "RawText": "소재가 부드럽고 가벼워서 좋네요 사이즈도 딱맞고 서방이 편하다니 굿",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "37",
+    "Word": "9",
+    "RDate": "20190412",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재가 부드럽고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워서 좋네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈도 딱맞고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편하다니 굿",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94456",
+    "RawText": "상품 하나하나 맘에 안들구요 배송만 빠르네요 가격대비 품질별로 돈아까워요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "40",
+    "Word": "9",
+    "RDate": "20190524",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격대비 품질별로",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "돈아까워요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "94457",
+    "RawText": "홈쇼핑보고 신랑하고 같이 입을려고 주문했는데 잘한것같아요~^♡ 천이 보들보들 아주 좋고요 편해서 자주 입을꺼 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "64",
+    "Word": "14",
+    "RDate": "20190510",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "천이 보들보들 아주 좋고요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편해서 자주 입을꺼 같아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94458",
+    "RawText": "181..80 110사이즈 여유있게 잘맞네요 땀이많은 사람이라 면티는 못입어서 올해 여름은 이티로 ~^^ 착한가격 좋은상품 감사합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "74",
+    "Word": "15",
+    "RDate": "20190509",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "110사이즈 여유있게 잘맞네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "올해 여름은 이티로 ~^^ ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "착한가격 좋은상품 감사합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94460",
+    "RawText": "가격대비 진짜 좋아여 아빠가 뚱뚱해서 맞는게 없어서 혹시 하고 115사이즈 주문했는데 맞아요 ㅋㅋㅋㅋㅋㅋ 로또 입니다  천도 괜찮고 굿 ~ !!! 엄마 꺼도 주문했는데 44입는데 90이 너무 작아서 95로 교환 홈쇼핑 옷은 처음인데 아주 만족합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "138",
+    "Word": "34",
+    "RDate": "20190511",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 진짜 좋아여",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "115사이즈 주문했는데 맞아요 ㅋㅋㅋㅋㅋㅋ 로또 입니다 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "천도 괜찮고 굿 ~ !!! ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "44입는데 90이 너무 작아서 95로 교환",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "94463",
+    "RawText": "배송도 빠르고 옷도 시원한 재질이라 참좋으네요 갯수도 많아서 더더욱좋구요 사이즈 정사이즈 같습니다 ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "55",
+    "Word": "12",
+    "RDate": "20190514",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "옷도 시원한 재질이라 참좋으네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "갯수도 많아서 더더욱좋구요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈 정사이즈 같습니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94465",
+    "RawText": "색상도 좋고 옷감 자체가 몸에 달타붙지 않아서 넘 시원하네요 하루한장씩 뮈 입을까 고민하지 않고 바로 갈아입습니다 아들이 좋아합니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "73",
+    "Word": "18",
+    "RDate": "20190719",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "옷감 자체가 몸에 달타붙지 않아서 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "넘 시원하네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "하루한장씩 뮈 입을까 고민하지 않고 바로 갈아입습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94466",
+    "RawText": "저렴한 가격에 잘 구매한것 같아요. 여름에 시원하게 입을것 같네요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "37",
+    "Word": "9",
+    "RDate": "20190502",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 잘 구매한것 같아요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "여름에 시원하게 입을것 같네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94469",
+    "RawText": "제가 먼저  사입고 좋아서 남편도 사주엇더니 입고는 ㅎㅎ 가벼고 시원하네  하시며 좋아 하네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "52",
+    "Word": "13",
+    "RDate": "20190501",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "시원하네 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94470",
+    "RawText": "사이즈가 좀크게 나온것 같아요.아저씨사이즈라서 그런가요? 아들이  이너로 입으려했는데 좀 크네요~참고하세요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "59",
+    "Word": "10",
+    "RDate": "20190503",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 좀크게 나온것 같아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "좀 크네요~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "아저씨사이즈라서 그런가요?",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "94472",
+    "RawText": "시원한 냉장고티이고 부들부들하고 좋아요. 작년에 아디**3종티 십만원 넘게 주고 산거랑 비슷한원단.남편이 여름에 땀을 많이흘려서 사준건데  색상이 세가지정도 남자들이 별로 선호하지않는 색상이 있네요. 그건 안입을듯해요. 큰아들도 작은아들도 색상 다 별로라네요.20대도 50대도 별로라는 색상ㅠㅠ 나머지만 잘입을게요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "80",
+    "Syllable": "175",
+    "Word": "34",
+    "RDate": "20190501",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "시원한 냉장고티이고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "부들부들하고 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 세가지정도 남자들이 별로 선호하지않는 색상이 있네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "큰아들도 작은아들도 색상 다 별로라네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "20대도 50대도 별로라는 색상ㅠㅠ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "94475",
+    "RawText": "촉감 넘 좋아요, 울 여름에 시원하게 보낼수 있을거 같아요 많이 파세요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "39",
+    "Word": "11",
+    "RDate": "20190430",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감",
+        "SentimentText": "촉감 넘 좋아요,",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "울 여름에 시원하게 보낼수 있을거 같아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94477",
+    "RawText": "땀 많이 나는 여름에 매일매일 데일리로 갈아입을수있겠어요~^^ 소재도 좋네요^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "44",
+    "Word": "9",
+    "RDate": "20190504",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "땀 많이 나는 여름에 매일매일 데일리로 갈아입을수있겠어요~^^",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재도 좋네요^^",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94478",
+    "RawText": "올 여름은 시원하게 보낼 것 같어요. 가격대비 짱 좋은 제품 하나 더 사서 선물로 주고  싶어요. 절대 후회안해요. ㅎ ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "67",
+    "Word": "19",
+    "RDate": "20190504",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "올 여름은 시원하게 보낼 것 같어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 짱 좋은 제품 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94479",
+    "RawText": "가격대비 그럭저럭 만족합니다. 그러나 컬러가 너무 싼티 납니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "34",
+    "Word": "8",
+    "RDate": "20190501",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 그럭저럭 만족합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "그러나 컬러가 너무 싼티 납니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "94481",
+    "RawText": "감사합니다 아들이 시원하게 입고잘지냅니다 구김도 전혀 없고  정말 품질 좋은옷",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "43",
+    "Word": "10",
+    "RDate": "20190501",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "아들이 시원하게 입고잘지냅니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "구김도 전혀 없고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "정말 품질 좋은옷",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94482",
+    "RawText": "큰 사이즈가 있는것도 좋았고  기장도  옷감도 맘에듭니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "31",
+    "Word": "7",
+    "RDate": "20190502",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "큰 사이즈가 있는것도 좋았고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "기장도  옷감도 맘에듭니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "옷감도 맘에듭니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94484",
+    "RawText": "레드캠프 남성 데일리 기능성 냉감 티셔츠 7종세트 너무 좋습니다 제품의 품질, 재질, 실용성, 디자인, 착용감 모두 아주 멋지고 넘 좋아 가성비 최고 입니다 ~♡",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "90",
+    "Word": "24",
+    "RDate": "20190609",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "제품의 품질, 재질, 실용성, 디자인, 착용감 모두 아주 멋지고 넘 좋아",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질, 실용성, 디자인, 착용감 모두 아주 멋지고 넘 좋아",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "실용성, 디자인, 착용감 모두 아주 멋지고 넘 좋아",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인, 착용감 모두 아주 멋지고 넘 좋아",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감 모두 아주 멋지고 넘 좋아",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 최고 입니다 ~♡",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94486",
+    "RawText": "소재가 빨래도 손싶고 착용감좋고 색상도 다양해서 일주일 내내 갈아입어 아주 만족해 하네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "49",
+    "Word": "12",
+    "RDate": "20190613",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재가 빨래도 손싶고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감좋고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 다양해서 일주일 내내 갈아입어",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94494",
+    "RawText": "사이즈도 나쁘지않고 천도 나쁘지는 않지만ㅁ 디자인이 고급스러운 느낌은 아니고 편하게 입을 정도네요~  올 여름은 잘 입을듯 합니다 빅사이즈 감사해요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "80",
+    "Syllable": "82",
+    "Word": "19",
+    "RDate": "20190522",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈도 나쁘지않고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "천도 나쁘지는 않지만ㅁ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 고급스러운 느낌은 아니고 편하게 입을 정도네요~ ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "올 여름은 잘 입을듯 합니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "빅사이즈 감사해요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94501",
+    "RawText": "옷이 편하고 옷감도 좋네요 올 여름 시원하게 입어도 될것 같아요 ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "36",
+    "Word": "10",
+    "RDate": "20190523",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "옷이 편하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "옷감도 좋네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "올 여름 시원하게 입어도 될것 같아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94502",
+    "RawText": "남편한테 선물했는데  마음에 들어 해서 다행이예요~ 소재가  시원하고  세탁이 수월하고  빨래가  빨리 마르고 다양한 색상으로 구성되어 있어  더욱 좋아요~~ ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "89",
+    "Word": "19",
+    "RDate": "20190525",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재가  시원하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "세탁이 수월하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "빨래가  빨리 마르고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "다양한 색상으로 구성되어 있어  더욱 좋아요~~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94504",
+    "RawText": "사이즈가 생각보다 크고 색상마다 조금씩 사이즈가 다르네요  착용감 편하고 시윈해서 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "80",
+    "Syllable": "49",
+    "Word": "11",
+    "RDate": "20190523",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 생각보다 크고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "색상마다 조금씩 사이즈가 다르네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감 편하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "시윈해서 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94505",
+    "RawText": "입어봤는데 핏이 정말 딱 좋습니다. 뭔가 몸에 딱 맞을거 같았았는데 정말 편해서 놀랬습니다. ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "52",
+    "Word": "13",
+    "RDate": "20190530",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "핏",
+        "SentimentText": "입어봤는데 핏이 정말 딱 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "뭔가 몸에 딱 맞을거 같았았는데 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": " 정말 편해서 놀랬습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94510",
+    "RawText": "냉감까지는 모르겠고 집에서 편하게 압기 좋아요 옷도 신축성이 좋아 불편하지 않아요 원단이 두껍지 않아 흰색은 홈웨이로 입어야 겠어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "80",
+    "Syllable": "73",
+    "Word": "18",
+    "RDate": "20190518",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "냉감까지는 모르겠고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "집에서 편하게 압기 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": "옷도 신축성이 좋아 불편하지 않아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "원단이 두껍지 않아",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "흰색은 홈웨이로 입어야 겠어요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94514",
+    "RawText": "운동할때 땀흡수가 좋고 건조도 빠른데 사이즈가 조금크게 나왔네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "35",
+    "Word": "8",
+    "RDate": "20190720",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "운동할때 땀흡수가 좋고  ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": " 건조도 빠른데 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 조금크게 나왔네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "94524",
+    "RawText": "정사이즈로 구매하면되구요 배송은 빨라요~ 가성비에 괜찮아요~ 싼가격에 여러장있어서 올여름은 잘지낼거같아요~ 원단자체가 시원해요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "80",
+    "Syllable": "70",
+    "Word": "12",
+    "RDate": "20190415",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "정사이즈로 구매하면되구요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비에 괜찮아요~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "싼가격에 여러장있어서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "올여름은 잘지낼거같아요~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "원단자체가 시원해요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94525",
+    "RawText": "실망이네요 흰색이 묻었네요 세탁한후에 나머지는 품질이 이상없지만 구입한게 후회하네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "20",
+    "Syllable": "46",
+    "Word": "9",
+    "RDate": "20190414",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "실망이네요 흰색이 묻었네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "세탁한후에 나머지는 품질이 이상없지만 구입한게 후회하네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "94531",
+    "RawText": "요즘 날이 더워지는데 시원하니 좋대요 저렴하게 잘산거 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "33",
+    "Word": "8",
+    "RDate": "20190417",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "시원하니 좋대요 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게 잘산거 같아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94533",
+    "RawText": "편하구요 신축성,통기성,디자인 모두 다 좋아요. 칼라도 이쁘요~ 매우만족입니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "44",
+    "Word": "8",
+    "RDate": "20190425",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편하구요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": "신축성,통기성,디자인 모두 다 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "통기성,디자인 모두 다 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 모두 다 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "칼라도 이쁘요~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94542",
+    "RawText": "재질도 괜찮고 잘 늘어나고 통기성이 좋은거 같네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "27",
+    "Word": "7",
+    "RDate": "20190414",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질도 괜찮고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": "잘 늘어나고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "통기성이 좋은거 같네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94553",
+    "RawText": "배송도 빠르고 옷 색상도 너무예쁘고 옷감도 너무 좋네요^^ 강추합니당^^  ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "42",
+    "Word": "9",
+    "RDate": "20190411",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "옷 색상도 너무예쁘고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "옷감도 너무 좋네요^^",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94560",
+    "RawText": "세탁하구 나니까 흰색티에 물이들었네요 아무리 저렴해서 샀지만 옷에 물 드는건 어렸을때 기억나고 첨이네요  청바지도아니고 티에 물이빠지다니 어이없네요?",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "83",
+    "Word": "17",
+    "RDate": "20190412",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "세탁하구 나니까 흰색티에 물이들었네요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "아무리 저렴해서 샀지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "옷에 물 드는건 어렸을때 기억나고 첨이네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "청바지도아니고 티에 물이빠지다니 어이없네요?",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "94564",
+    "RawText": "이 가격에 가성비 짱이네요...아들 사줬는데 재질도 부들부들..입어보고 편하다고 마음에 들어하네요...잘 샀어요..만족합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "70",
+    "Word": "11",
+    "RDate": "20190405",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "이 가격에 가성비 짱이네요...",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질도 부들부들..",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "입어보고 편하다고 마음에 들어하네요..",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94566",
+    "RawText": "오자마자 빨았는데 건조도 빠르고 촉감도 부들부들 ^^ 디자인이 싼티안나고 품질이 넘 좋네요~~ ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "53",
+    "Word": "12",
+    "RDate": "20190419",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "오자마자 빨았는데 건조도 빠르고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": " 촉감도 부들부들 ^^",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 싼티안나고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 넘 좋네요~~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94568",
+    "RawText": "소재의 느낌이 사락사락한게 여름에 입기 너무 좋아요 남편이 땀을 많이 흘리는 체질이라 시원해서 하루에 몇번씩 갈아입어도 좋을것 같아요 암튼 잘 입을게요 대박나세용",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "90",
+    "Word": "22",
+    "RDate": "20190412",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재의 느낌이 사락사락한게",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "여름에 입기 너무 좋아요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "시원해서 하루에 몇번씩 갈아입어도 좋을것 같아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94569",
+    "RawText": "레드캄프남성데일리 기능성 냉감티셔츠7종  잘받앗습니다 배송 빠르네요~ 빅 사이즈 팔아서 넘~좋앗습니다 감사합니다~^^  티 소재 넘좋아요 여름에 입기에는 굿~~ 많이파셔요~~~^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "100",
+    "Word": "18",
+    "RDate": "20190412",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "빅 사이즈 팔아서 넘~좋앗습니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "티 소재 넘좋아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": " 여름에 입기에는 굿~~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94570",
+    "RawText": "칼라 디자인 정말 별로 제가 싫어하는 칼라 입니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "27",
+    "Word": "8",
+    "RDate": "20190411",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "칼라 디자인 정말 별로",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 정말 별로",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "제가 싫어하는 칼라 입니다 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "94572",
+    "RawText": "아들 주려고 샀는데 올여름 시원하게 보내겠어요. 디자인 아주 마음에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "42",
+    "Word": "10",
+    "RDate": "20190412",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "올여름 시원하게 보내겠어요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 아주 마음에 듭니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94576",
+    "RawText": "역시나 OO쇼핑ㅡ엄지척 입고벗고 넘편하고 색상디자인 모두 맘에듭니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "37",
+    "Word": "7",
+    "RDate": "20190410",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "입고벗고 넘편하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": " 색상디자인 모두 맘에듭니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 모두 맘에듭니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94580",
+    "RawText": "여름이 다가 오는데 매일 갈아 입을 티셔츠를 보는 중에 가격도 저렴하면서 기능성이 있는 레드캠프 티셔츠를 보게 되어 구입하게 되었네요. 받아보니 색상도 다양하고 질감도 좋고 신축성도 있어서 좋습니다. 매일 매일 입어야 겠어요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "126",
+    "Word": "31",
+    "RDate": "20190407",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 다양하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "질감도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": "신축성도 있어서 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94585",
+    "RawText": "가격 대비 가성비 좋습니다. 옷 재질이 기능성 옷이라 신축성도 엄청 좋네요~품질이 주변에 추천할만합니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "58",
+    "Word": "13",
+    "RDate": "20190610",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격 대비 가성비 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "옷 재질이 기능성 옷이라 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": "신축성도 엄청 좋네요~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 주변에 추천할만합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94588",
+    "RawText": "정사이즈도 아니고 신랑이 불편한지 안입네요 저렴하지도 않고",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "32",
+    "Word": "7",
+    "RDate": "20190605",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "정사이즈도 아니고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "신랑이 불편한지 안입네요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하지도 않고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "94590",
+    "RawText": "품질이 딱 가격 만큼 이에요 수량이 적더라도 품질이 괜찮은 옷이였음... 귀찮아서 반품 않고 그냥 입네요....ㅠㅠ               ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "40",
+    "Syllable": "79",
+    "Word": "15",
+    "RDate": "20190605",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 딱 가격 만큼 이에요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "수량이 적더라도 품질이 괜찮은 옷이였음...",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "94594",
+    "RawText": "배송 잘 받았구요 너무 얋네요. 만졌을 때 부드럽고 감촉도 좋아요. 운동하면서 입으면 좋을 듯 합니다. ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "58",
+    "Word": "15",
+    "RDate": "20190604",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "너무 얋네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "만졌을 때 부드럽고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "감촉도 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "운동하면서 입으면 좋을 듯 합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94597",
+    "RawText": "남편꺼 티7장 사줬다고 생색내고 입혀봤더니 생각보다 넘 디자인이 이뻐서 놀랐네요 우선 본인은 시원하니 너무 좋다고 하니 사주는  사람도 기분좋고 색상이 다 이뻐서  만족하고 이리 옷빨이 잘받는 남편은 아닌데 이 옷을 입혀놓으니 생각보다 핏이 이뻐서 대만족입니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "145",
+    "Word": "35",
+    "RDate": "20190605",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "생각보다 넘 디자인이 이뻐서 놀랐네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "시원하니 너무 좋다고 하니",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 다 이뻐서  만족하고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "생각보다 핏이 이뻐서 대만족입니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94605",
+    "RawText": "외출시 가볍게 입기는 좋네요 일단 착용감은 괜찮습니다 정사이즈보다 살짝 크다는거 염두하세요 ㅎㅎ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "60",
+    "Syllable": "53",
+    "Word": "12",
+    "RDate": "20190605",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "활용성",
+        "SentimentText": "외출시 가볍게 입기는 좋네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": " 착용감은 괜찮습니다",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "정사이즈보다 살짝 크다는거 염두하세요 ㅎㅎ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "94606",
+    "RawText": "시원한 기능성소재에 착용감도 아주 좋아서 편하게 즐겨입을것같아 구매에 만족합니다..~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "47",
+    "Word": "9",
+    "RDate": "20190605",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "시원한 기능성소재에",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감도 아주 좋아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94608",
+    "RawText": "남편에게 선물했는데 좋아해요. 재질이나 사이즈 모두 만족하구요. 담날 바로 입구출근했네요   여자걸루 하나더 주문해야겠어요^^~~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "72",
+    "Word": "13",
+    "RDate": "20190531",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질이나 사이즈 모두 만족하구요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈 모두 만족하구요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94610",
+    "RawText": "신랑이 앏고 가볍고 편하대요, 현장나갈때 입기 좋아요~가격대비 완전 갠츈, 동료 선물주려고 1세트 더 구매하러왔어요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "64",
+    "Word": "14",
+    "RDate": "20190605",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "앏고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편하대요, ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "현장나갈때 입기 좋아요~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 완전 갠츈, ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94611",
+    "RawText": "실제로 받아보니 품질이 더좋으네요 빨아도 그대로고 시원하고 색깔도 다양해서 골라입는재미가 솔솔하다네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "56",
+    "Word": "11",
+    "RDate": "20190608",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "실제로 받아보니 품질이 더좋으네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "빨아도 그대로고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "시원하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "색깔도 다양해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "골라입는재미가 솔솔하다네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94615",
+    "RawText": "가격대비 질도 좋고 올 여름읃 이옷으로 충분할 듯~일할때에 입으면 쾌적하게 보 낼 수 있을 것 같?아요 강력추천요!",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "64",
+    "Word": "17",
+    "RDate": "20190410",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격대비 질도 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "올 여름읃 이옷으로 충분할 듯~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "일할때에 입으면 쾌적하게 보 낼 수 있을 것 같?아요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94629",
+    "RawText": "부드럽고 시원한 촉감과 다양한 색감이 맘에 듭니다.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "28",
+    "Word": "7",
+    "RDate": "20190503",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감",
+        "SentimentText": "부드럽고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "시원한 촉감과",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "다양한 색감이 맘에 듭니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94631",
+    "RawText": "시원하니 가격도 좋고 원단도 좋아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "19",
+    "Word": "5",
+    "RDate": "20190415",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "시원하니",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "원단도 좋아요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94632",
+    "RawText": "처음에 같은 색상이 2개오고 회색은 없고 흰색은 이물질이 묻어 있어 교환했어요~~ 다음날 바로 회수해가고 그다음날 다시 받았어요~~ 새로 받은 것은 다행히 이상없네요~~ 신랑이 색상도 다 별로고 옷도 시원하지 않고 불편하다고 하네요~~넉넉한 개수만 있네요 ㅠㅠ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "80",
+    "Syllable": "145",
+    "Word": "34",
+    "RDate": "20190420",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": " 흰색은 이물질이 묻어 있어 교환했어요~~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 다 별로고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "옷도 시원하지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "불편하다고 하네요~~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "넉넉한 개수만 있네요 ㅠㅠ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "94637",
+    "RawText": "정사이즈로 주문하시면되구요 촉감도 부드러워요 스판끼도 짱짱 해요 가격도 착해요 ㅎㅎ",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "46",
+    "Word": "10",
+    "RDate": "20190417",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "정사이즈로 주문하시면되구요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "촉감도 부드러워요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": " 스판끼도 짱짱 해요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 착해요 ㅎㅎ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94641",
+    "RawText": "흰색을 제외하곤 잘 안입을만한 색상으로 구성되어있네요! 늘어남 방지가 넥 뒷부분만 되어있어 아쉽습니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "80",
+    "Syllable": "56",
+    "Word": "12",
+    "RDate": "20190414",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "흰색을 제외하곤 잘 안입을만한 색상으로 구성되어있네요!",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "늘어남 방지가 넥 뒷부분만 되어있어 아쉽습니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "94646",
+    "RawText": "남친 사줬는데 얇아서 일할때도 편하고 시원하다고하네요 건조기 돌려도 이상없어서 더 좋습니다",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "50",
+    "Word": "11",
+    "RDate": "20190627",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇아서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "일할때도 편하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "시원하다고하네요",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "건조기 돌려도 이상없어서 더 좋습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94655",
+    "RawText": "사이즈도 넉넉하고 색감도 이쁘고 무엇보다 꼼꼼한 바느질이 맘에 드네요. 시원한 소재라 상당이 가볍게 느껴지더라구요. 애아빠 잘 입힐게요. 빠른배송도 감사합니다. 번창하세요.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "96",
+    "Word": "20",
+    "RDate": "20190510",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈도 넉넉하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색감도 이쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "무엇보다 꼼꼼한 바느질이 맘에 드네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "시원한 소재라",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "상당이 가볍게 느껴지더라구요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94661",
+    "RawText": "가격대비 착하고 품질도 좋습니다!사이즈는 조금 넉넉한편이고 아주 얇아서 여름에 더위에 시원하게 입을것 같아요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "60",
+    "Word": "13",
+    "RDate": "20190502",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격대비 착하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 좋습니다!",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈는 조금 넉넉한편이고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "아주 얇아서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "여름에 더위에 시원하게 입을것 같아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94665",
+    "RawText": "싸이즈넉넉하니시원하다고신랑이좋아하네여.가격도저렴한데가격데비품질이우수하네여.",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "41",
+    "Word": "1",
+    "RDate": "20190514",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "싸이즈넉넉하니",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "시원하다고신랑이좋아하네여.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도저렴한데",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격데비품질이우수하네여.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94666",
+    "RawText": "택버하는 신랑 올여름에 시원하게 입을수있거같아  주문했는데  완전  맘에들어요~^^원단 좋고 가격좋고 여름에  이만한 옷도 없을듯해요~긴팔도 진행해주세요!^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "88",
+    "Word": "15",
+    "RDate": "20190511",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "원단 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격좋고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "여름에  이만한 옷도 없을듯해요~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94673",
+    "RawText": "신랑이 색도 다양하고 얇아서 시원하니 디자인도 이쁘다고 잘입고 다녀요~^^",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "80",
+    "Syllable": "41",
+    "Word": "9",
+    "RDate": "20190516",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색도 다양하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": " 얇아서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "시원하니",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 이쁘다고 잘입고 다녀요~^^",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94678",
+    "RawText": "운동할 때 입을러고 샀는데  땀이 젖은 상태로 유지되네요 그냥  싸고 색깔만 이쁘네요",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "60",
+    "Syllable": "47",
+    "Word": "12",
+    "RDate": "20190505",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "땀이 젖은 상태로 유지되네요 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "그냥  싸고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색깔만 이쁘네요",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "94681",
+    "RawText": "시원하고 구김 안가고 치수도 넉넉하고 올여름 시원하고 편하게 잘입을것. 같아요^^남편이 너무 좋아하네용~~",
+    "Source": "쇼핑몰",
+    "Domain": "패션",
+    "MainCategory": "남성의류",
+    "ProductName": "OO 남성 데** 기능성 티셔츠 7종",
+    "ReviewScore": "100",
+    "Syllable": "59",
+    "Word": "12",
+    "RDate": "20190512",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "시원하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": " 구김 안가고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "치수도 넉넉하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "올여름 시원하고 편하게 잘입을것. 같아요^^",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]

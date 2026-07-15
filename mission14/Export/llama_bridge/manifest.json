@@ -1,0 +1,54 @@
+{
+  "artifact": "llama_bridge",
+  "purpose": "Unity 직접 통합 (D-d 되돌림: LLMUnity가 Gemma 4 미지원 → llama.cpp P/Invoke)",
+  "built_at": "2026-06-16 (rev4: R-d/B n_threads_batch 분리 — A+B 배포 설정)",
+  "parity": {
+    "llama_cpp_commit": "f05cf4676af46c2f017c0e6ba25b6e20204f700e",
+    "pinned_to": "llama-cpp-python==0.3.29 (프로토타입 vendored 커밋)",
+    "model_gguf": "gemma-4-E2B-it-Q4_K_M.gguf (unsloth/gemma-4-E2B-it-GGUF)",
+    "chat_format": "Gemma 4 턴 마커 <|turn>(105) / <turn|>(106, EOS) 수동 포맷",
+    "runtime_test": "프로토타입 create_chat_completion 과 출력 문자열 일치(저온/그리디 기준) 확인"
+  },
+  "targets": [
+    {
+      "platform": "windows",
+      "abi": "x86_64",
+      "file": "windows/x86_64/llama_bridge.dll",
+      "bytes": 4519424,
+      "sha256": "8cbd617da09abab22ea01e9cb99f96117c09268d8d4f92e385d5d885233f3f59",
+      "unity_path": "Assets/Plugins/x86_64/",
+      "cpu_features": "AVX2+FMA+F16C"
+    },
+    {
+      "platform": "android",
+      "abi": "arm64-v8a",
+      "file": "android/arm64-v8a/libllama_bridge.so",
+      "bytes": 5125792,
+      "sha256": "0e7de74c20d23da954d416bc40ead0688cbbf518fae5638e26d0b5aae4da63a9",
+      "unity_path": "Assets/Plugins/Android/libs/arm64-v8a/",
+      "cpu_features": "armv8.2-a+dotprod+i8mm (CPU; Vulkan 미적용)"
+    }
+  ],
+  "toolchains": {
+    "cmake": "4.3.2",
+    "ninja": "1.13",
+    "windows": "llvm-mingw 20260602 (clang 22.1.7), -static, GGML_AVX2/FMA/F16C=ON",
+    "android": "NDK r27c, android-28, c++_static, GGML_CPU_ARM_ARCH=armv8.2-a+dotprod+i8mm"
+  },
+  "cmake_flags_common": "BUILD_SHARED_LIBS=OFF, GGML_NATIVE=OFF, GGML_OPENMP=OFF, LLAMA_CURL=OFF + 플랫폼별 CPU 기능 명시(위 toolchains)",
+  "exported_symbols": [
+    "lb_backend_init",
+    "lb_backend_free",
+    "lb_load",
+    "lb_free",
+    "lb_tokenize",
+    "lb_format_chat",
+    "lb_generate"
+  ],
+  "dependencies": {
+    "windows": "시스템 DLL만(kernel32/advapi32/UCRT)",
+    "android": "libc/libdl/libm만"
+  },
+  "source_dir": "native/ (llama_bridge.h/.cpp, CMakeLists.txt, LlamaBridge.cs, build_windows.sh, build_android.sh)",
+  "api_note": "lb_generate(..., bool ignore_eos, ...): KV 캐시를 매 호출 리셋(단일턴), ignore_eos로 256토큰 강제(decode 벤치) | lb_load(model_path,n_ctx,n_threads,n_threads_batch,n_gpu_layers): decode=n_threads(2), prefill=n_threads_batch(6) 분리(R-d/B), n_gpu_layers>0는 Vulkan 빌드 시 GPU offload."
+}

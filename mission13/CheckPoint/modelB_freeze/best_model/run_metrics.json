@@ -1,0 +1,7 @@
+{
+  "run_name": "modelB_freeze",
+  "train_runtime_sec": 1506.1926,
+  "samples_per_sec": 776.655,
+  "best_eval_f1": 0.7378975283766405,
+  "final_epoch": 8.0
+}

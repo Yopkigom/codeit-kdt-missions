@@ -1,0 +1,4 @@
+{
+  // MPE (Puppeteer) uses this browser for HTML/PDF export on WSL
+  "markdown-preview-enhanced.chromePath": "/usr/bin/google-chrome-stable"
+}

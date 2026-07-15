@@ -1,0 +1,58 @@
+# 시크릿: 절대 커밋 금지 (mission14 LLM API fallback용 실키)
+/mission14/gemini.key
+/mission14/.env
+
+# 재생성 가능한 llama.cpp 빌드 산출물
+/mission14/native/build_win/
+/mission14/native/build_android/
+
+# 노트북·파이썬 캐시
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# 50MB 초과 대용량 파일: Google Drive 백업 대상 (LARGE_FILES.md 참조)
+/mission08/football_seg/COCO_Football Pixel.json
+/mission09/fashion_mnist/fashion-mnist_train.csv
+/mission11/checkpoints/s2s_best_ep021_loss1.1256.pt
+/mission11/checkpoints/s2s_last_ep019_loss1.1272.pt
+/mission11/checkpoints/s2s_last_ep020_loss1.1313.pt
+/mission11/checkpoints/tf_best_ep023_loss2.2168.pt
+/mission11/checkpoints/tf_last_ep027_loss2.2215.pt
+/mission11/checkpoints/tf_last_ep028_loss2.2225.pt
+/mission11/일상생활및구어체_한영_train_set.json
+/mission11/일상생활및구어체_한영_valid_set.json
+/mission12/DataTable/train_original_editorial.json
+/mission12/DataTable/train_original_law.json
+/mission12/DataTable/train_original_news.json
+/mission12/DataTable/valid_original_news.json
+/mission12/bert_train.pt
+/mission12/bert_valid.pt
+/mission12/checkpoints/bert_step086000_nsp_f1_0.8253.pt
+/mission12/checkpoints/gpt_finetune2_step030000_ppl_14.0685.pt
+/mission12/checkpoints/gpt_finetune_step006000_ppl_206.5729.pt
+/mission12/checkpoints/gpt_pretrain_step006000_ppl_350.5037.pt
+/mission12/gpt_finetune_train.pt
+/mission12/gpt_pretrain_train.pt
+/mission12/gpt_pretrain_valid.pt
+/mission12/processed_docs.pkl
+/mission13/CheckPoint/modelA_freeze/best_model/model.safetensors
+/mission13/CheckPoint/modelA_freeze/checkpoint-13710/model.safetensors
+/mission13/CheckPoint/modelA_freeze/checkpoint-18280/model.safetensors
+/mission13/CheckPoint/modelA_full_ft.onnx
+/mission13/CheckPoint/modelA_full_ft.onnx.data
+/mission13/CheckPoint/modelA_full_ft/best_model/model.safetensors
+/mission13/CheckPoint/modelA_full_ft/checkpoint-11425/model.safetensors
+/mission13/CheckPoint/modelA_full_ft/checkpoint-11425/optimizer.pt
+/mission13/CheckPoint/modelA_full_ft/checkpoint-9140/model.safetensors
+/mission13/CheckPoint/modelA_full_ft/checkpoint-9140/optimizer.pt
+/mission13/CheckPoint/modelB_freeze/best_model/model.safetensors
+/mission13/CheckPoint/modelB_freeze/checkpoint-13710/model.safetensors
+/mission13/CheckPoint/modelB_freeze/checkpoint-18280/model.safetensors
+/mission13/CheckPoint/modelB_full_ft/best_model/model.safetensors
+/mission13/CheckPoint/modelB_full_ft/checkpoint-11425/model.safetensors
+/mission13/CheckPoint/modelB_full_ft/checkpoint-11425/optimizer.pt
+/mission13/CheckPoint/modelB_full_ft/checkpoint-9140/model.safetensors
+/mission13/CheckPoint/modelB_full_ft/checkpoint-9140/optimizer.pt
+/mission14/Export/kure_v1.onnx.data
+/mission14/Export/kure_v1_fp16.onnx.data
