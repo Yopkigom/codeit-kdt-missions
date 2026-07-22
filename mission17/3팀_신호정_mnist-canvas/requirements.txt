@@ -1,0 +1,14 @@
+# streamlit과 streamlit-drawable-canvas는 호환되는 조합으로 함께 핀 고정한다.
+# drawable-canvas 0.9.3은 streamlit.elements.image.image_to_url에 의존하므로
+# 해당 심볼이 존재하는 streamlit 1.27.x 대역으로 고정한다(최신 streamlit과 깨짐 방지).
+streamlit==1.27.2
+streamlit-drawable-canvas==0.9.3
+
+# 추론·전처리
+onnxruntime==1.19.2
+numpy==1.26.4
+pillow==10.4.0
+pandas==2.1.4
+
+# 모델 다운로드(GitHub LFS 미디어 엔드포인트, 일반 HTTP GET)
+requests==2.32.3

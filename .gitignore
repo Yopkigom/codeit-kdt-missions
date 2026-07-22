@@ -56,3 +56,9 @@ __pycache__/
 /mission13/CheckPoint/modelB_full_ft/checkpoint-9140/optimizer.pt
 /mission14/Export/kure_v1.onnx.data
 /mission14/Export/kure_v1_fp16.onnx.data
+
+# mission17: 재생성 가능한 산출물 (report.md에서 make_report_html.py로 생성)
+/mission17/report.html
+/mission17/mermaid.min.js
+# 제출용 zip은 소스와 내용이 중복되므로 제외
+/mission17/3팀_신호정_코드.zip

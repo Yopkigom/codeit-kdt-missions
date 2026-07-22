@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+*.pyc
+.model_cache/
+.verify_cache/
+*.onnx
+*.tar.gz
+*.gz
+.ipynb_checkpoints/
+
+# 시크릿·자격증명(유출 방지)
+*.key
+.env
+.env.*

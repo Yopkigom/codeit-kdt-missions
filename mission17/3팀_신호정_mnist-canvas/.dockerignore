@@ -1,0 +1,22 @@
+# 빌드 컨텍스트·이미지에서 제외할 항목
+venv/
+__pycache__/
+*.pyc
+.git/
+.gitignore
+.ipynb_checkpoints/
+
+# 런타임 캐시·모델(이미지에 굽지 않는다)
+.model_cache/
+.verify_cache/
+*.onnx
+*.tar.gz
+*.gz
+
+# 시크릿·자격증명(유출 방지)
+*.key
+.env
+.env.*
+
+# 문서
+README.md
