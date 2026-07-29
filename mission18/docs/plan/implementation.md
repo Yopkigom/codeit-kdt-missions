@@ -185,7 +185,7 @@ class ReviewOut(BaseModel):
     author: str
     title: str | None
     content: str
-    created_at: datetime
+    created_at: datetime             # UTC. 응답에는 오프셋을 붙여 내보낸다
     sentiment_label: str | None      # 부정 · 중립 · 긍정
     sentiment_score: int | None      # -1 · 0 · +1
     confidence: float | None
@@ -229,6 +229,10 @@ CREATE INDEX idx_review_created ON review (created_at DESC);
 ```
 
 인덱스 2종은 각각 영화별 리뷰 페이지네이션과 최근 리뷰 화면의 정렬을 받친다.
+
+`created_at`은 **UTC로 저장**한다. `datetime.now()`처럼 컨테이너의 TZ에 좌우되는
+값을 쓰면 로컬(KST)에서 만든 시드와 배포본(UTC)에서 등록한 리뷰가 9시간 어긋나
+최신순 정렬이 뒤집힌다. 지역 시각 변환은 표현 계층에서만 한다.
 
 ### C-d. 추론 모듈
 
