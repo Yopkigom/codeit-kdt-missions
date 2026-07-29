@@ -49,5 +49,9 @@
 | `mission13/CheckPoint/modelB_full_ft/checkpoint-9140/optimizer.pt` | 178MB | (미등록) |
 | `mission14/Export/kure_v1.onnx.data` | 2.2GB | (미등록) |
 | `mission14/Export/kure_v1_fp16.onnx.data` | 1.1GB | (미등록) |
+| `mission18/3팀_신호정_미션18/backend/ml_assets/modelA_full_ft.onnx` | 63MB | [제출용 저장소](https://github.com/Yopkigom/mission18-movie-review-sentiment) |
+| `mission18/3팀_신호정_미션18/backend/ml_assets/modelA_full_ft.onnx.data` | 63MB | [제출용 저장소](https://github.com/Yopkigom/mission18-movie-review-sentiment) |
 
 빌드 산출물(`mission14/native/build_win`, `build_android`)은 재생성 가능하므로 백업 대상이 아니다.
+
+mission18의 ONNX 2개는 mission13 `CheckPoint/modelA_full_ft.onnx`의 사본이다. 서비스 배포에 필요해 제출용 public 저장소에는 그대로 올라가 있다.

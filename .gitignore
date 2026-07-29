@@ -62,3 +62,7 @@ __pycache__/
 /mission17/mermaid.min.js
 # 제출용 zip은 소스와 내용이 중복되므로 제외
 /mission17/3팀_신호정_코드.zip
+
+# mission18: 미션 13 ONNX 사본 (50MB 초과, 제출용 public 저장소에 존재)
+/mission18/3팀_신호정_미션18/backend/ml_assets/modelA_full_ft.onnx
+/mission18/3팀_신호정_미션18/backend/ml_assets/modelA_full_ft.onnx.data
