@@ -259,7 +259,7 @@
 ### J-b. 구현 진행
 
 - [x] J-b-1. Cloud Run 배포
-- [ ] J-b-2. Streamlit Community Cloud 배포
+- [x] J-b-2. Streamlit Community Cloud 배포
 - [ ] J-b-3. GitHub Actions 워크플로 작성
 
 ### J-c. 구현 검증
@@ -270,7 +270,7 @@
 
 ### J-d. 완료 확인
 
-- [ ] J-d-1. 배포 URL 사용자 공유
+- [x] J-d-1. 배포 URL 사용자 공유
 
 ---
 
@@ -291,5 +291,5 @@
 
 ### K-c. 완료 확인
 
-- [ ] K-c-1. 최종 시크릿 점검
+- [x] K-c-1. 최종 시크릿 점검
 - [ ] K-c-2. 제출물 구성 사용자 최종 검토

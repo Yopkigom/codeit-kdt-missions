@@ -526,7 +526,17 @@ flowchart LR
 
 ### H-c. 배포 결과
 
-백엔드를 **Cloud Run에 실제 배포**했다.
+프론트엔드와 백엔드를 **실제로 배포해 연결**했다.
+
+| 구성 | URL |
+|---|---|
+| 프론트엔드 (Streamlit Community Cloud) | `https://movie-review-sentiment-mi18.streamlit.app/` |
+| 백엔드 (Cloud Run) | `https://mission18-backend-46129022703.asia-northeast3.run.app` |
+| API 문서 | `.../docs` |
+
+![배포된 서비스 — 영화 상세](captures/11_배포_영화상세.png)
+
+백엔드 배포 상세는 아래와 같다.
 
 | 항목 | 값 |
 |---|---|
@@ -563,6 +573,21 @@ flowchart LR
 
 문서에 적어 둔 제약이 배포 환경에서도 동일하게 동작함을 확인했다.
 **배포본은 데모용이며, 영속 저장이 필요한 사용은 로컬 실행을 기준으로 한다.**
+
+### H-e. 배포에서 걸린 지점
+
+기록해 둘 만한 실패가 세 번 있었다.
+
+1. **결제 계정이 닫혀 있으면 아무것도 되지 않는다.** 계정 등록 여부가 아니라
+   `gcloud billing accounts list`의 `OPEN` 열을 봐야 한다.
+2. **API 활성화 직후 권한이 바로 붙지 않는다.** IAM에 `roles/owner`가 정상 부여돼 있는데도
+   `artifactregistry.repositories.create`가 `PERMISSION_DENIED`로 실패했다.
+   45초 간격 재시도로 통과했다 — 전파 지연이다.
+3. **프론트엔드가 백엔드를 못 찾았다.** Streamlit Secrets에 `BACKEND_BASE_URL`이 없어
+   기본값(`localhost:8000`)으로 요청했고, 화면에는 "백엔드에 연결할 수 없습니다"만 떴다.
+   백엔드는 정상이었으므로 **원인 진단이 불가능한 메시지**였다.
+   → 오류 배너에 **요청 대상 주소**를 노출하고, 기본값을 쓰는 중이면 설정이 필요하다는
+   안내를 덧붙이도록 고쳤다. 주소가 틀린 것과 서버가 죽은 것은 대응이 다르다.
 
 ---
 
