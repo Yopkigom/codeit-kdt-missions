@@ -66,3 +66,10 @@ __pycache__/
 # mission18: 미션 13 ONNX 사본 (50MB 초과, 제출용 public 저장소에 존재)
 /mission18/3팀_신호정_미션18/backend/ml_assets/modelA_full_ft.onnx
 /mission18/3팀_신호정_미션18/backend/ml_assets/modelA_full_ft.onnx.data
+
+# gcloud SDK 잔재 방지 (SDK는 /mnt/wsl_data/tools/ 로 이동함)
+/mission18/gcp/
+
+# mission18: 재생성 가능한 산출물 (report.md에서 make_report_html.py로 생성)
+/mission18/report.html
+/mission18/mermaid.min.js
