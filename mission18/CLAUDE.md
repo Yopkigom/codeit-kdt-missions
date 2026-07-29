@@ -29,10 +29,12 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 세 문서는 역할이 다르다. 진행 순서는 `PROJECT_PLAN.md`, 설계 내용은 `mission-concept.md`,
 **판단 근거와 제약은 이 문서**를 본다.
 
-**현재 상태**: 구현 진행 중. `3팀_신호정_미션18/`에 백엔드·프론트엔드 코드가 있으며
-백엔드 테스트(23건)와 화면 렌더링 검증까지 통과했다.
-시드 데이터(영화 6편 · 리뷰 72건) 적재와 통합 검증까지 마쳤다.
-**남은 작업**: 배포(J) → 보고서(K).
+**현재 상태**: 구현·배포·보고서 완료. 테스트 25건 통과.
+- 프론트엔드: https://movie-review-sentiment-mi18.streamlit.app/
+- 백엔드: https://mission18-backend-46129022703.asia-northeast3.run.app (Cloud Run, `PROTECT_SEED=true`)
+- 보고서: `3팀_신호정_미션18/3팀_신호정_미션18_보고서.pdf`
+
+**남은 작업**: GitHub Actions 워크플로(J-b-3, 미결정) · 사용자 최종 검토.
 
 실측 기록은 [docs/plan/model-eval.md](docs/plan/model-eval.md)(모델)과
 [docs/plan/service-eval.md](docs/plan/service-eval.md)(서비스 통합)에 있다.
@@ -57,6 +59,8 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 | 저장소 | 아카이브 private 유지 + 제출 전용 public 저장소 신설 |
 | 리뷰 `제목` 필드 | **유지**. NSMC에 없으므로 시드는 본문에서 파생 생성 |
 | 제출 폴더 | `3팀_신호정_미션18` |
+| 공개 배포본 삭제 | **시드만 보호**(`PROTECT_SEED`). 사용자가 등록한 영화는 삭제 가능 |
+| 시드 DB 배포 | `seed_db.py`가 **WAL 체크포인트 후 단일 파일로 완결**시켜야 한다 |
 
 ## Overview
 

@@ -89,6 +89,7 @@ erDiagram
         text genre "장르"
         text poster_url "URL만 저장"
         real external_rating "TMDB vote_average 0~10"
+        boolean is_seed "시드 데이터 여부 · 배포본 삭제 보호"
     }
 
     REVIEW {

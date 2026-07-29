@@ -119,6 +119,7 @@
 
 | 코드 | 상황 |
 |---|---|
+| 403 | 공개 배포본에서 시드 데이터 삭제 시도 (`PROTECT_SEED`) |
 | 404 | 존재하지 않는 `movie_id` · `review_id` |
 | 409 | 중복 영화 (`tmdb_id` 또는 제목+개봉일 충돌) |
 | 422 | Pydantic 검증 실패 (FastAPI 기본) |
@@ -206,6 +207,7 @@ CREATE TABLE movie (
     genre           TEXT,
     poster_url      TEXT,
     external_rating REAL,
+    is_seed         BOOLEAN NOT NULL DEFAULT 0,
     UNIQUE (title, release_date)
 );
 
@@ -253,6 +255,7 @@ CREATE INDEX idx_review_created ON review (created_at DESC);
 
 | 환경변수 | 기본값 | 용도 |
 |---|---|---|
+| `PROTECT_SEED` | `false` (로컬) / 배포 시 `true` | 시드 데이터 삭제 차단 |
 | `DATABASE_URL` | `sqlite:///./data/movies.db` | DB 경로 |
 | `ML_ASSETS_DIR` | `./ml_assets` | ONNX · 토크나이저 위치 |
 | `MODEL_VERSION` | `mission13-modelA-full-ft` | 리뷰에 기록 |
