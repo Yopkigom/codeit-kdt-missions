@@ -98,3 +98,32 @@
 
 → **배포본은 데모용이며 영속 저장은 로컬 실행 기준**임을 보고서에 명시한다.
 `--max-instances=1`로 고정해 인스턴스 간 DB 불일치도 함께 막는다.
+
+## G. Cloud Run 배포 실측 (J 섹션)
+
+| 항목 | 값 |
+|---|---|
+| 리전 · 자원 | `asia-northeast3` / 1GiB · CPU 1 · `--max-instances=1` · `--min-instances=0` |
+| 이미지 | Artifact Registry `mission18/backend:1.0.0` (Cloud Build 1분 12초) |
+| 서비스 URL | `https://mission18-backend-46129022703.asia-northeast3.run.app` |
+| **콜드 스타트 첫 요청** | **2.64초** (모델 로드 포함) |
+| 워밍 후 `/health` | 0.13초 (네트워크 왕복 포함) |
+| 감성 분석 왕복 | 368ms (컨테이너 내부 실측 76ms + 네트워크·TLS) |
+
+### G-a. 인스턴스 교체 — 배포본에서 재현
+
+| 조작 | 리뷰 수 |
+|---|---|
+| 배포 직후 (시드) | 72건 |
+| 리뷰 1건 등록 후 | 73건 |
+| **새 리비전 배포** | **72건 — 시드로 복귀** |
+
+F에서 로컬 컨테이너로 확인한 동작이 실제 Cloud Run에서도 동일하게 재현됐다.
+
+### G-b. 배포 중 걸린 지점
+
+- **결제 계정이 닫혀 있으면 아무것도 되지 않는다.** `gcloud billing accounts list`의
+  `OPEN` 열로 먼저 확인해야 한다. 새 계정을 열어 프로젝트에 연결한 뒤 진행했다.
+- **API 활성화 직후 권한이 바로 붙지 않는다.** `artifactregistry.repositories.create`가
+  `PERMISSION_DENIED`로 실패했는데, IAM에는 `roles/owner`가 정상 부여돼 있었다.
+  약 45초 간격으로 재시도하니 통과했다 — 전파 지연이다.

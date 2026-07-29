@@ -258,15 +258,15 @@
 
 ### J-b. 구현 진행
 
-- [ ] J-b-1. Cloud Run 배포
+- [x] J-b-1. Cloud Run 배포
 - [ ] J-b-2. Streamlit Community Cloud 배포
 - [ ] J-b-3. GitHub Actions 워크플로 작성
 
 ### J-c. 구현 검증
 
-- [ ] J-c-1. 배포 환경 end-to-end 동작 확인
-- [ ] J-c-2. 콜드 스타트 후 첫 요청 지연 실측
-- [ ] J-c-3. 인스턴스 교체 시 데이터 초기화 동작 확인
+- [x] J-c-1. 배포 환경 end-to-end 동작 확인
+- [x] J-c-2. 콜드 스타트 후 첫 요청 지연 실측
+- [x] J-c-3. 인스턴스 교체 시 데이터 초기화 동작 확인
 
 ### J-d. 완료 확인
 
