@@ -66,7 +66,9 @@ ul, ol { padding-left: 1.4em; }
 li { margin: .3em 0; }
 .mermaid { text-align: center; background: #fff; border: 1px solid #e2e8f0;
            border-radius: 6px; padding: 1em; margin: 1.2em 0; }
-table, pre, .mermaid, blockquote { page-break-inside: avoid; }
+img { display: block; max-width: 100%; height: auto; margin: 1.2em auto;
+      border: 1px solid #e2e8f0; border-radius: 6px; }
+table, pre, .mermaid, blockquote, img { page-break-inside: avoid; break-inside: avoid; }
 .toc { background: #f7fafc; border: 1px solid #e2e8f0; border-radius: 6px;
        padding: .6em 1.4em 1em; margin: 2em 0; font-size: .94em; }
 .toc-title { font-weight: 600; margin: .8em 0 .2em; color: #2b6cb0; }
@@ -78,6 +80,9 @@ table, pre, .mermaid, blockquote { page-break-inside: avoid; }
   body { max-width: none; padding: 0; font-size: 10.5pt; }
   .print-hint { display: none; }
   a { text-decoration: none; color: #1a1a1a; }
+  /* 이미지는 페이지를 넘어 이어지지 않는다. 인쇄 영역(A4 269mm)을 넘으면
+     아래가 잘리므로 높이를 제한해 세로로 긴 캡처도 한 장에 담는다 */
+  img { max-height: 240mm; width: auto; object-fit: contain; }
 }
 @page { size: A4; margin: 16mm 14mm; }
 </style>
